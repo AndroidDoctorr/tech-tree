@@ -1,134 +1,181 @@
 # Map
 
-*Last updated: end of Day 3 (~10,000 BC)*  
+*Last updated: end of Day 4 (~10,000 BC)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
-**Camp bearing:** Terrace above river bend, gorge to the east
+**Camp bearing:** Terrace above river bend, gorge to the east  
+**Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
 
-## Overview
+## Overview (distances in meters from camp)
 
 ```
-                    [Gorge / mountains E]
-                              |
-    [Pine slope N] — resin —  |  terrace ← YOU (BASE CAMP)
-                              |
-         T-2 west ———— farm plot ——— olive slope (P-02)
-                              |
-                         Orontes River
-                              |
-    T-1 downstream — clay bank — fish weir
-                              |
-         T-3 NW ——— river flats ——— [CIRCUS STAKE]
-                              |
-                    Amuq plain (W, hazy)
+                         [Gorge E — goat seen ~800 m]
+                                    |
+    [Pine N] ═══ 150 m + 30 m climb ═══ CAMP (0) ═══ 80 m ═══► workshop shelf
+                                    |
+              160 m          200 m          400 m
+           pistachio ───── farm plot ───── olive slope (P-02)
+                \         11×6 m              |
+                 \    240 m grape tag          |
+                  \                           |
+                   ═══════ 200 m ══════════════╪════ Orontes
+                                    |         |
+                              90 m clay       200 m fish weir
+                                    |
+                         520 m NW [CIRCUS STAKE]
+                                    |
+                              Amuq plain → W
 ```
 
-## Base camp
+---
+
+## Distance table
+
+| Point | Bearing from camp | Meters | Walk (min) | With load (min) |
+|-------|-------------------|--------|------------|-----------------|
+| **Camp** (base) | — | 0 | — | — |
+| Workshop shelf (planned) | Downslope toward river | 80 | 5 | 8 |
+| Clay bank | T-1, river | 90 | 6 | 10 |
+| Flax retting eddy | T-1, river | 180 | 10 | 15 |
+| Fish weir | T-1 end | 200 | 12 | 18 |
+| Pistachio (P-01) | T-2 | 160 | 8 | 12 |
+| **Farm plot** | T-2 west | 200 | 10 | 15 |
+| Grape / berry tag (P-03) | T-2 | 240 | 12 | 18 |
+| Olive slope (P-02) | T-2 west | 400 | 22 | 35 |
+| Pine resin slope | N upslope | 150 + 30 climb | 15 | 25 |
+| **Circus stake** | T-3 NW | 520 | 32 | 45 |
+| Wild cereal stands | Plain margin | 180–280 | 12–18 | — |
+| Day 1 wake spot (old) | ~30 m from camp | 30 | 2 | — |
+
+### Trail lengths
+
+| Trail | Total length | Markers | Cleared |
+|-------|--------------|---------|---------|
+| **T-1** Camp → clay → weir | **290 m** | 14 cairns (~every 20 steps) | 180 m (~62%) |
+| **T-2** Camp → farm → olive | **600 m** to olive; **200 m** to farm | 8 branch cuts | Marked only |
+| **T-3** Camp → circus stake | **520 m** | 6 reed bundles | Marked only |
+
+---
+
+## Base camp (0 m)
 
 | | |
 |--|--|
-| **Location** | Limestone terrace shelf above Orontes bend |
-| **Elevation** | Above flood stain (checked on willows) |
-| **Features** | Rock back wall (rain shadow), view of approach + river |
-| **Respawn** | Bed pit — same depression since Day 2 move (~30 m from Day 1 spot) |
-| **Built here** | Fire pit, bed pit, piles 1–8, dry shelf, B-1 cache, map stone |
+| **Footprint** | ~12 m × 8 m |
+| **Elevation above river** | ~18 m (estimate; terrace) |
+| **Above flood stain** | ~4 m vertical margin |
+| **Respawn** | Bed pit 2.0 × 0.9 m |
+| **Built** | Fire pit (Ø 40 cm), charcoal pad (80 × 60 cm), bed pit, piles 1–8, dry shelf, B-1, map stone; buried charcoal mound |
 
-## Trails
-
-| ID | From → To | Markers | Cleared? | Use |
-|----|-----------|---------|----------|-----|
-| **T-1 River** | Camp → clay bank → fish weir | Stone cairns ~every 20 steps | Partial | Water, clay, fish daily |
-| **T-2 Plain** | Camp → farm plot → olive slope | Branch cuts on oak | Marked only | Food trees, future fields |
-| **T-3 Flat** | Camp → river flats (NW) | Reed bundles on stakes | Marked only | Survey, future city zone |
+---
 
 ## Named sites
 
-### Fish weir (T-1 end)
+### Fish weir — **200 m** (T-1)
 
-- **Resources:** Fish (small), frogs; reeds; competition from night heron
-- **Built:** Double-row stake funnel + lashed cage
-- **Geography:** River shallows, muddy margin
+| | |
+|--|--|
+| **Structure** | 28 stakes in riverbed; funnel 2.5 m → cage 60 cm cube |
+| **Catch** | 4–8 small fish / day typical |
+| **Daily trip** | ~24 min round trip if you only check weir |
 
-### Clay bank (T-1 mid)
+### Clay bank — **90 m** (T-1 mid)
 
-- **Resources:** Grey-brown sticky clay; reachable in ~10 min from camp
-- **Geography:** Riverside cut
+| | |
+|--|--|
+| **Resource** | Grey-brown clay; cut face ~2 m wide |
+| **Harvest Day 4** | ~4 kg new (18 kg stock at camp total) |
 
-### Red clay seep (near T-1)
+### Red clay seep — **110 m** (T-1)
 
-- **Resources:** Second clay type — redder, unknown firing behavior
+| | |
+|--|--|
+| **Resource** | Redder clay; ~4 kg at camp |
 
-### Farm plot (T-2, ~200 m W)
+### Farm plot — **200 m** (T-2)
 
-- **Resources:** Cleared alluvial soil; emmer/einkorn/barley wild nearby (P-04–P-06)
-- **Built:** 15 × 8 paces cleared; partial stake fence
-- **Planned:** Emmer/einkorn test plant after fence complete
-- **Hazards:** Birds
+| | |
+|--|--|
+| **Cleared area** | **11 m × 6 m** (~66 m²) |
+| **Perimeter** | **~34 m** |
+| **Fence** | **~24 m** complete (**70%**); **38 posts**; south **~10 m gap** at wet dip |
+| **Planting** | 0 m² planted; seed jar at camp (~105 g) |
 
-### Olive slope (T-2 end, ~400 m W)
+### Olive slope (P-02) — **400 m**
 
-- **Resources:** P-02 wild olive (*oleaster*), 6+ scrub trees; warm slope
-- **Status:** Catalogued; fruit not ripe for oil
+| | |
+|--|--|
+| **Trees** | 6+ wild olive (*oleaster*) |
+| **Round trip** | ~75 min if you dawdle |
 
-### Grape patch (plain edge, near T-2)
+### Pistachio (P-01) — **160 m**
 
-- **Resources:** P-03 wild grape; green berries (weeks out)
+| | |
+|--|--|
+| **Trees** | 4 producing within easy range |
+| **Day 4 haul** | ~200 nuts (~340 g) |
 
-### Pistachio (T-2 route)
+### Grape tag (P-03) — **240 m**
 
-- **Resources:** P-01; eat now + seed selection
+| | |
+|--|--|
+| **Status** | 1 bush tagged; berries green |
 
-### Cereal wild stands (plain margin)
+### Pine slope — **150 m + 30 m climb**
 
-- **Resources:** P-04 emmer, P-05 einkorn, P-06 barley, P-07 flax, P-11 "fake rye"
-- **Notes:** Amuq margin — famous early Neolithic cereal zone
+| | |
+|--|--|
+| **Resource** | Aleppo pine resin |
+| **Trees in harvest range** | ~8 pines touched so far |
 
-### Pine slope (N, upslope from camp)
+### Workshop shelf — **80 m** downslope
 
-- **Resources:** Aleppo pine resin (P. halepensis)
-- **Use:** Adhesive; future pitch/tar
+| | |
+|--|--|
+| **Area** | Flat shelf ~10 × 6 m |
+| **Built** | Nothing; 0 poles staged here |
 
-### Workshop shelf (planned, ~80 m downslope)
+### Circus stake — **520 m** NW (T-3)
 
-- **Resources:** Flatter ground above flood line
-- **Planned:** Future lean-to / workshop; closer to river chores
-- **Built:** Nothing yet
+| | |
+|--|--|
+| **Marker** | 1 stake |
+| **Flat reach** | ~600 m × 200 m usable (soggy in patches) |
+| **Roman hippodrome (future ref.)** | ~513 m × 113 m; north–south axis |
 
-### Circus stake (T-3, ~400–600 m NW on flats)
+---
 
-- **Resources:** Long flat alluvial reach; soggy in places
-- **Planned:** *Speculative* — future Roman hippodrome (~513 m × 113 m) sat on Insula / river island flats north of city core
-- **Built:** Single marker stake only
-- **Confidence:** Directional, not survey-grade (hydrology differs at 10,000 BC)
+## Zone radii (resource density)
+
+| Radius from camp | What's mostly there |
+|------------------|---------------------|
+| **0–100 m** | Camp, chert gravel, oak deadfall, map stone |
+| **100–250 m** | River, clay, weir, farm plot, pistachio, cereals |
+| **250–450 m** | Grape, olive slope, plain margin |
+| **450–600 m** | River flats, circus stake, marshy patches |
+
+---
 
 ## Geography & hazards
 
 | Feature | Notes |
 |---------|-------|
-| **Orontes River** | Perennial; drinking water; fish; flax retting eddy |
-| **Gorge (E)** | Orontes leaves hills; future Antioch core near here |
-| **Amuq plain (W)** | Fertile, wetter than desert east; marshes possible |
-| **Mediterranean** | Haze to west; not visible; moderates climate |
-| **Flood line** | High-water marks on willows — camp and bed above this |
-| **Wild goat** | Seen once on gorge slope; not reliable |
+| **Orontes River** | Width here ~25–40 m; wadeable at weir |
+| **Gorge (E)** | ~800 m to steep slope where goat seen |
+| **Amuq plain (W)** | Opens beyond farm; flatter, wetter |
+| **Flood line** | High-water marks on willows; camp +4 m |
+| **Heron** | Competes at weir; 1 observed |
 
-## Resource quick reference by zone
+---
 
-| Zone | Materials | Food | Notes |
-|------|-----------|------|-------|
-| Terrace (camp) | Chert in gravel, oak, limestone | Pistachios nearby | Base of operations |
-| River margin | Clay, reeds, willow, snails, mussels | Fish, snails, frogs | T-1 |
-| Plain edge | Wild cereals, flax, grape | Seeds (future), berries | T-2; farm plot |
-| Olive slope | Olive wood/fruit (later) | — | P-02 |
-| River flats NW | Flat land, reeds | — | T-3, circus stake |
-| Pine slope N | Resin | — | Climb required |
+## Future (planned)
 
-## Future (planned, not built)
-
-- Lean-to or hut at workshop shelf
-- Full farm fence + planted seed bank
-- Second fish weir (if heron persists)
-- Crossings / channels (Roman-era hydrology far ahead)
-- Buildings, kiln, smelting — location TBD (likely workshop shelf or plain)
+| Project | Location | Est. distance / size |
+|---------|----------|----------------------|
+| Lean-to | Workshop shelf | 80 m; 3 × 4 m footprint |
+| Charcoal pit | Camp pad | Day 5; 80 × 60 cm |
+| Farm fence finish | T-2 | ~10 m + south gap |
+| Planting | Farm plot | 66 m²; maybe 20 m² test first |
+| Second weir | T-1 downstream? | +50–80 m |
 
 ---
 

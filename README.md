@@ -10,7 +10,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [tech-tree.md](tech-tree.md) | Milestone checklist (eras and unlocks) |
 | [inventory.md](inventory.md) | What you have on person and at base |
 | [map.md](map.md) | Geography, sites, trails, resources |
-| [advancements.md](advancements.md) | Infrastructure, tools, and current capabilities |
+| [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
 | [journal/days/](journal/days/) | One file per in-world day (`day-NNN.md`) |
 | [journal/weeks/](journal/weeks/) | Weekly rollups (created when a week ends) |
