@@ -10,10 +10,12 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [tech-tree.md](tech-tree.md) | Milestone checklist (eras and unlocks) |
 | [inventory.md](inventory.md) | What you have on person and at base |
 | [map.md](map.md) | Geography, sites, trails, resources |
+| [resource-map.md](resource-map.md) | Resource catalog — plants, materials, fauna by location |
+| [materials-roadmap.md](materials-roadmap.md) | Grout, lime, high-temp kiln, hypocaust brick budget |
 | [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
-| [journal/days/](journal/days/) | One file per in-world day (`day-NNN.md`) |
-| [journal/weeks/](journal/weeks/) | Weekly rollups (created when a week ends) |
+| [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`; week 4 = days 22+) |
+| [journal/weeks/](journal/weeks/) | Weekly rollups (weeks 1–3 done) |
 | [journal/years/](journal/years/) | Yearly rollups and era notes |
 
 ## Journal entry format

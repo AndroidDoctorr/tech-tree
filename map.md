@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: end of Day 4 (~10,000 BC)*  
+*Last updated: end of Day 28 (~10,000 BC)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -43,6 +43,10 @@
 | Olive slope (P-02) | T-2 west | 400 | 22 | 35 |
 | Pine resin slope | N upslope | 150 + 30 climb | 15 | 25 |
 | **Circus stake** | T-3 NW | 520 | 32 | 45 |
+| **Wild fig (P-12)** | NW plain | 650 | 38 | — |
+| **Marsh edge (S-03)** | NW plain | 700 | 42 | — |
+| **White clay (S-01)** | NW plain | 780 | 48 | 65 |
+| **Chert terrace (S-02)** | Plain E | 920 | 55 | 70 |
 | Wild cereal stands | Plain margin | 180–280 | 12–18 | — |
 | Day 1 wake spot (old) | ~30 m from camp | 30 | 2 | — |
 
@@ -50,9 +54,11 @@
 
 | Trail | Total length | Markers | Cleared |
 |-------|--------------|---------|---------|
-| **T-1** Camp → clay → weir | **290 m** | 14 cairns (~every 20 steps) | 180 m (~62%) |
-| **T-2** Camp → farm → olive | **600 m** to olive; **200 m** to farm | 8 branch cuts | Marked only |
-| **T-3** Camp → circus stake | **520 m** | 6 reed bundles | Marked only |
+| **T-1** Camp → clay → weir | **290 m** | 14 cairns | **100% cleared** |
+| **T-2** Camp → farm → olive | 600 m to olive | 11 branch cuts | Partial clear |
+| **T-3** Camp → circus | 520 m | 6 reed bundles | Marked |
+| **T-4** Far loop | ~2.4 km circuit | 4 cairns | Marked |
+| **T-5** Hut ↔ camp | **80 m** | 12 cairns | **100%** |
 
 ---
 
@@ -63,8 +69,9 @@
 | **Footprint** | ~12 m × 8 m |
 | **Elevation above river** | ~18 m (estimate; terrace) |
 | **Above flood stain** | ~4 m vertical margin |
-| **Respawn** | Bed pit 2.0 × 0.9 m |
-| **Built** | Fire pit (Ø 40 cm), charcoal pad (80 × 60 cm), bed pit, piles 1–8, dry shelf, B-1, map stone; buried charcoal mound |
+| **Respawn** | **Hut bed** (80 m downslope) — moved Day 10 |
+| **Built here** | Cooking fire pit, charcoal kiln, store C, piles 1–8, dry shelf, B-1; old bed pit **empty** |
+| **Pile 8** | **Floor stone yard** — FS-01–11 (11 stones, Day 23) |
 
 ---
 
@@ -78,12 +85,34 @@
 | **Catch** | 4–8 small fish / day typical |
 | **Daily trip** | ~24 min round trip if you only check weir |
 
+### Charcoal pit kiln — **0 m** (camp)
+
+| | |
+|--|--|
+| **Size** | **Ø 100 cm × 45 cm deep**; clay wall 3–5 cm |
+| **Phase 2 (planned)** | **Ø 140 cm** outer ring — sketched; deferred for **pit B** instead |
+| **Pit B (Day 28)** | Layout **2 m N** of pit A — **~18 kg clay** liner pending |
+| **Batch #1** | 46 kg oak → **14.2 kg** charcoal (**31%**); opened Day 6 |
+| **Batch #2 wood** | **~41 kg** staged beside pit | Not fired |
+| **Ash (batch #1)** | ~4 kg | Pile 7 |
+| Pit condition | Patched; upper grey cracks sealed; red base held |
+
 ### Clay bank — **90 m** (T-1 mid)
 
 | | |
 |--|--|
 | **Resource** | Grey-brown clay; cut face ~2 m wide |
-| **Harvest Day 4** | ~4 kg new (18 kg stock at camp total) |
+| **Harvest Day 22** | **~62 kg** single-day blitz (5 trips) |
+
+### Orontes terrace slabs — **~120 m** (below T-1, river side)
+
+| | |
+|--|--|
+| **Resource** | Flat limestone / buff slabs — flood-peeled terrace |
+| **Harvest Day 22** | **7** floor stones (FS-01–07) |
+| **Harvest Day 23** | **+4** (FS-08–11) → **11 total** |
+| **Use** | Hut v2 walking floor; hypocaust **suspensura** cap |
+| **Note** | Collect opportunistically on clay/weir trips |
 
 ### Red clay seep — **110 m** (T-1)
 
@@ -95,10 +124,78 @@
 
 | | |
 |--|--|
-| **Cleared area** | **11 m × 6 m** (~66 m²) |
-| **Perimeter** | **~34 m** |
-| **Fence** | **~24 m** complete (**70%**); **38 posts**; south **~10 m gap** at wet dip |
-| **Planting** | 0 m² planted; seed jar at camp (~105 g) |
+| **Cleared area** | **~96 m²** — Bed A 12×7 m, Bed B 3×2 m, Bed C 4×3 m |
+| **Rows** | **6** scratched @ 50 cm in Bed A — **unplanted** |
+| **Fence** | **~95%** (~32 m / 34 m); south gap **closed** Day 15; east gate **80 cm** |
+| **Posts** | **52** in ground (+14 Day 15) |
+| **Planting** | **Day 16** — ~46 g sown; Bed C empty |
+
+### **Hut site** — **80 m** downslope (workshop shelf)
+
+| | |
+|--|--|
+| **Footprint** | **2.8 × 2.2 m** interior target |
+| **Build order** | Layout → post holes → ridge → sunken floor (20 cm) → walls → south kiln niche |
+| **Day 7** | 4 corner post holes @ 40 cm; floor outline scratched; **8 wall stones** stacked |
+| **Day 8** | **8 posts + ridge + 6 rafters**; floor **~17 cm**; walls partial; **~55% thatch** |
+| **Day 11** | Walls raised; reed door; **oven + chimney**; kiln stump ~45% |
+| **Overall hut** | **~96% v1** |
+| **Ceramic kiln (A)** | 5 m S of hut — operational |
+| **Ceramic kiln (B)** | **6 m E of Kiln A** — pad staked Day 28; build pending |
+| **Green pots** | 3 at hut — unfired |
+| **Sunken floor** | 20 cm deep planned; **east step shelf** (3 treads, 40 cm wide) |
+| **Hypocaust void** | 60 × 80 cm in floor plan — **shelter v2** (spring; defer) |
+| **Kiln/oven niche** | South wall; extra **30 cm** dig depth |
+| **Roof** | Leaf thatch on ridge; **ladder** for repair — not built |
+| **Ceramic kiln stake** | **5 m south** — updraft dome ~80 cm base (planned) |
+| **Poles** | 13 at camp; longest ~3.2 m → sets max roof span |
+
+### Charcoal store C — **0 m** (camp overhang)
+
+| | |
+|--|--|
+| **Size** | 70 × 60 × 50 cm clay-lined vault |
+| **Contents** | **17.0 kg** charcoal |
+| **Capacity** | ~50 kg |
+| **Lid** | Wicker + oak leaves + flat stone |
+
+### White clay cut (S-01) — **780 m** NW
+
+| | |
+|--|--|
+| **Resource** | Pale sticky clay — distinct from grey bank |
+| **Harvest Day 13** | 6 kg |
+| **Use** | Test tile pending; may fire lighter |
+
+### Chert terrace (S-02) — **920 m** (plain east)
+
+| | |
+|--|--|
+| **Resource** | Dense knappable cobble scatter — **best chert locale** |
+| **Harvest Day 13** | 15 cobbles (4A, 7B, 4C) |
+| **Notes** | Mark for regular knapping trips |
+
+### Marsh edge (S-03) — **700 m** NW
+
+| | |
+|--|--|
+| **Resource** | Giant reeds; seasonal waterfowl |
+| **Terrain** | Soggy; summer resource |
+
+### Wild fig (P-12) — **650 m** NW
+
+| | |
+|--|--|
+| **Status** | Fruit green hard — weeks to edibility |
+| **Tag** | Day 13 |
+
+### Circus stake — **520 m** NW (T-3)
+
+| | |
+|--|--|
+| **Marker** | 1 stake |
+| **Flat reach** | ~600 m × 200 m usable (soggy in patches) |
+| **Roman hippodrome (future ref.)** | ~513 m × 113 m; north–south axis |
 
 ### Olive slope (P-02) — **400 m**
 
@@ -126,21 +223,6 @@
 |--|--|
 | **Resource** | Aleppo pine resin |
 | **Trees in harvest range** | ~8 pines touched so far |
-
-### Workshop shelf — **80 m** downslope
-
-| | |
-|--|--|
-| **Area** | Flat shelf ~10 × 6 m |
-| **Built** | Nothing; 0 poles staged here |
-
-### Circus stake — **520 m** NW (T-3)
-
-| | |
-|--|--|
-| **Marker** | 1 stake |
-| **Flat reach** | ~600 m × 200 m usable (soggy in patches) |
-| **Roman hippodrome (future ref.)** | ~513 m × 113 m; north–south axis |
 
 ---
 
@@ -171,8 +253,8 @@
 
 | Project | Location | Est. distance / size |
 |---------|----------|----------------------|
-| Lean-to | Workshop shelf | 80 m; 3 × 4 m footprint |
-| Charcoal pit | Camp pad | Day 5; 80 × 60 cm |
+| Lean-to / **hut** | Hut site 80 m; 2.8×2.2 m; in progress |
+| Ceramic kiln | 5 m south of hut stake |
 | Farm fence finish | T-2 | ~10 m + south gap |
 | Planting | Farm plot | 66 m²; maybe 20 m² test first |
 | Second weir | T-1 downstream? | +50–80 m |

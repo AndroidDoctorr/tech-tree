@@ -1,25 +1,23 @@
 # Advancements
 
-*Last updated: end of Day 4 (~10,000 BC)*
+*Last updated: end of Day 28 (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md) tracks long-horizon milestones).
 
 ## Summary
 
-You have **fire**, a **bed**, a **working fish trap**, basic **stone-and-wood tools**, and **camp storage**. You can **cut**, **dig**, **bind**, **cook**, and **burn** organic materials. Fence is **~70%** (~24 m of 34 m). **Charcoal deferred to Day 5.**
+**Day 28:** **62 fired**; **2nd brick mold**; **Kiln B staked**; charcoal pit B layout; dual press **+14**.
 
-### By the numbers (Day 4)
+### By the numbers (Day 28)
 
 | | |
 |--|--|
-| Stone (counted) | 67 pieces (+ ~120 pebbles) |
-| Shelter-ready poles | **11** (lean-to skeleton possible; ~6–8 needed minimum) |
-| Stakes in ground | 66 (38 farm + 28 weir) |
-| Cordage made | ~21 m |
-| Clay | ~22 kg wet |
-| Food on hand | ~610 g dry-ish + daily fish |
-| Seeds banked | ~105 g |
-| Camp → weir / farm | 200 m (~12 / ~10 min walk) |
+| **Fired bricks** | **62** |
+| **Green bricks** | **50** |
+| **Brick molds** | **2** |
+| **Clay** | **~32 kg** — haul for pit B + Kiln B |
+| **Charcoal** | **~59.4 kg** |
+| **Kiln B build** | At **~75–80** hoard |
 
 ---
 
@@ -35,11 +33,15 @@ You have **fire**, a **bed**, a **working fish trap**, basic **stone-and-wood to
 | **Cache B-1** | Operational | Buried cool storage for reeds / bark |
 | **Trails T-1–T-3** | Partial | Marked routes; T-1 partly cleared |
 | **Farm plot** | In progress | ~70% fence; N/W lashed; S gap open; unplanted |
-| **Charcoal pad** | Prepared | Cleared flat beside fire pit — Day 5 build/run |
-| **Charcoal batch (buried Day 3)** | Sealed | Open Day 5 |
-| **Flax retting** | In progress | Bundle soaking in river eddy |
-| **Workshop shelf** | Planned | Site picked ~80 m downslope |
-| **Circus stake** | Survey only | Landmark for future builds |
+| **Charcoal store C** | Operational | 17 kg / ~50 kg cap; dry vault |
+| **Hut (sunken)** | **~96% v1** | Home; respawn; roof/chimney **100%** |
+| **Oven + chimney** | **Complete** | Wall oven; draws clean |
+| **Ceramic kiln** | **~90%** | Cured Day 14; test firing next |
+| **Charcoal store C** | Operational | ~15.8 kg |
+| **Resource map** | Active | resource-map.md + hut slate |
+| **Trails T-1–T-4** | Marked | Far loop 2.4 km |
+| **Farm plot** | In progress | ~70% fence; unplanted |
+| **Fig watch P-12** | Logged | 650 m; seeds in ~4–8 weeks |
 
 ---
 
@@ -47,8 +49,10 @@ You have **fire**, a **bed**, a **working fish trap**, basic **stone-and-wood to
 
 | Tool | Status | Use |
 |------|--------|-----|
-| Hafted cutting tool | Works | Bark, reeds, gut, general cutting; haft slips when wet |
-| Digging stick | Works | Pits, plot clearing, stake driving; tip wears |
+| Cutter (A-flake haft) | Works | Primary cutting |
+| Digger-scraper | Works | Post holes, pit work |
+| Wedge | Works | Splitting oak |
+| Hafted cutting tool (old) | Replaced | Discarded Day 7 |
 | Fishing spear | Works | Backup to weir; unbarbed |
 | Bow drill set | Works | Fire starting (reliable with C-1 cord) |
 | Hammerstones / anvils | Available | Knapping, crushing |
@@ -66,7 +70,7 @@ You have **fire**, a **bed**, a **working fish trap**, basic **stone-and-wood to
 | C-2 | Willow bark (soaked) | Strong | Trap lashings |
 | C-3 | Oak inner bark | Brittle | Limited |
 | C-4 | Grass plied | Weak | Tinder |
-| C-5 | Flax (unretted) | Pending | Retting 1–2 weeks |
+| C-5 | Flax plied | **~3.2 m** | Day 8 production |
 | Pine resin | Raw | Sticky | Hafting adhesive (reheat at fire) |
 
 ---
@@ -108,7 +112,7 @@ You have **fire**, a **bed**, a **working fish trap**, basic **stone-and-wood to
 | Open fire cooking | **Yes** | Fish, snails, pistachios |
 | Fire-harden wood | **Yes** | Digging stick tip |
 | Pine resin melt | **Yes** | Hafting only |
-| Charcoal | **Day 5** | Buried batch sealed; pad cleared |
+| Charcoal | **Yes** | 17 kg on hand; batch #1 @ 31%; pit reusable |
 | Pottery firing | No | Clay identified, unfired |
 | Lime / kiln | No | — |
 | Smelting | No | Green rock kept; no furnace |
