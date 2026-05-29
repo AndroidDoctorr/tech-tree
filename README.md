@@ -11,7 +11,8 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [inventory.md](inventory.md) | What you have on person and at base |
 | [map.md](map.md) | Geography, sites, trails, resources |
 | [resource-map.md](resource-map.md) | Resource catalog — plants, materials, fauna by location |
-| [materials-roadmap.md](materials-roadmap.md) | Grout, lime, high-temp kiln, hypocaust brick budget |
+| [materials-roadmap.md](materials-roadmap.md) | Grout, lime, kiln/hypocaust brick budget |
+| [year-001-plan.md](year-001-plan.md) | Year 1 strategy — kilns, bronze path, expeditions |
 | [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
 | [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`; week 4 = days 22+) |

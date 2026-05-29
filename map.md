@@ -91,10 +91,11 @@
 |--|--|
 | **Size** | **Ø 100 cm × 45 cm deep**; clay wall 3–5 cm |
 | **Phase 2 (planned)** | **Ø 140 cm** outer ring — sketched; deferred for **pit B** instead |
-| **Pit B (Day 28)** | Layout **2 m N** of pit A — **~18 kg clay** liner pending |
+| **Pit B (Day 28–31)** | **Operational** — batch B-1 sealed Day 31 |
 | **Batch #1** | 46 kg oak → **14.2 kg** charcoal (**31%**); opened Day 6 |
 | **Batch #2 wood** | **~41 kg** staged beside pit | Not fired |
-| **Ash (batch #1)** | ~4 kg | Pile 7 |
+| **Slaking pit** | **12 m** downslope from hut — Day 31 |
+| **Pile 7** | Lime feedstock — calcite, shells, bones |
 | Pit condition | Patched; upper grey cracks sealed; red base held |
 
 ### Clay bank — **90 m** (T-1 mid)
@@ -140,8 +141,9 @@
 | **Day 8** | **8 posts + ridge + 6 rafters**; floor **~17 cm**; walls partial; **~55% thatch** |
 | **Day 11** | Walls raised; reed door; **oven + chimney**; kiln stump ~45% |
 | **Overall hut** | **~96% v1** |
-| **Ceramic kiln (A)** | 5 m S of hut — operational |
-| **Ceramic kiln (B)** | **6 m E of Kiln A** — pad staked Day 28; build pending |
+| **Ceramic kiln (A)** | 5 m S of hut — **lime kiln**; vent riser complete |
+| **Ceramic kiln (B)** | **6 m E of A** — **brick factory**; **operational Day 35** |
+| **Kiln C (metal)** | **4 m SE of B** — **OPERATIONAL** Day 57; bellows + hot blast ✓ |
 | **Green pots** | 3 at hut — unfired |
 | **Sunken floor** | 20 cm deep planned; **east step shelf** (3 treads, 40 cm wide) |
 | **Hypocaust void** | 60 × 80 cm in floor plan — **shelter v2** (spring; defer) |
@@ -154,9 +156,9 @@
 
 | | |
 |--|--|
-| **Size** | 70 × 60 × 50 cm clay-lined vault |
-| **Contents** | **17.0 kg** charcoal |
-| **Capacity** | ~50 kg |
+| **Size** | **~90 × 60 × 50 cm** clay-lined vault (extended Day 31) |
+| **Contents** | **~59 kg** charcoal |
+| **Capacity** | **~75 kg** |
 | **Lid** | Wicker + oak leaves + flat stone |
 
 ### White clay cut (S-01) — **780 m** NW

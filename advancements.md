@@ -1,23 +1,21 @@
 # Advancements
 
-*Last updated: end of Day 28 (~10,000 BC)*
+*Last updated: end of Day 57 (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md) tracks long-horizon milestones).
 
 ## Summary
 
-**Day 28:** **62 fired**; **2nd brick mold**; **Kiln B staked**; charcoal pit B layout; dual press **+14**.
+**Day 57 / Week 9:** **Kiln C hot blast test PASS** — **~1100–1150°C** est. with bellows; ready for micro-ore trial.
 
-### By the numbers (Day 28)
+### By the numbers (Day 57)
 
 | | |
 |--|--|
-| **Fired bricks** | **62** |
-| **Green bricks** | **50** |
-| **Brick molds** | **2** |
-| **Clay** | **~32 kg** — haul for pit B + Kiln B |
-| **Charcoal** | **~59.4 kg** |
-| **Kiln B build** | At **~75–80** hoard |
+| **Kiln C** | **Operational** (hot test ✓) |
+| **Stackable bricks** | **122** |
+| **Quicklime** | **~2.47 kg** |
+| **Charcoal** | **~59 kg** |
 
 ---
 
@@ -101,7 +99,7 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 | Pistachio (P-01) | **Active** | Nuts on T-2 |
 | Smoking / drying | Experimental | Crude |
 | Farm (emmer etc.) | Not started | Fence + plant pending |
-| Hunting / goat | Not viable | Wild goat seen once |
+| Hunting / goat | **First kill** Day 46; **bellows v1** Day 51 | Interspersed goat days for shoes, packs, etc. |
 
 ---
 

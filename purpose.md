@@ -3,7 +3,7 @@ This is just a thought exercise for fun.
 I'm trying to imagine how I could speed-run through the human tech tree from scratch, starting with nothing, and getting all the way to cloning myself and colonizing space, if I spend enough time on this, which I might not.
 You are basically my DM, and I am a very lazy character who wants to treat this almost like an interactive movie or something. The point is I want to visualize the whole progression from start to "finish"
 
-I am immortal in this scenario. I am not affected by disease or aging, but I can still be injured or killed, and let's say I can get kinda hungry but I never starve if I don't eat. If I die, I "respawn" at the last place I slept.
+I am immortal in this scenario. I am not affected by disease or aging, but I can still be injured or killed, and let's say I can get kinda hungry but I never starve if I don't eat. If I die, I "respawn" at the last place I slept, and my corpse disappears (so no cliff-farming myself for bones/leather — see [rules.md](rules.md)).
 I'm on Earth, but no other humans are present. I'm starting in, let's say 10,000 BC, somewhere around where Antioch will be.
 
 You are my digital assistant in this scenario, in the form of a small hand-held device I have with me somehow, that can do voice chat and answer questions etc. You can answer questions for me and tell me what to look for or how to make things I don't know how to make, etc. Otherwise I'm alone with my own skills, strength, and knowledge.

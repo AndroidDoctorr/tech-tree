@@ -82,7 +82,7 @@
 |----|---------|-----------|-----------|-------|
 | **A-01** | Fish (Orontes) | 200 m weir | **Daily** | 4–8 small / day |
 | **A-02** | Snails | 90–200 m river rocks | **Daily** | Bulk calories |
-| **A-03** | Wild goat | 850 m gorge | No | Seen twice; trap fantasy |
+| **A-03** | Wild goat | 850 m gorge | **1 kill Day 46** | Trap sprung; hide → bellows; rebuild for 2nd hide optional |
 | **A-04** | Night heron | 200 m weir | Competitor | Reset stakes |
 | **A-05** | Fox / partridge | Local | No | Background |
 

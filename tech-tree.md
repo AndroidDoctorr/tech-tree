@@ -15,22 +15,24 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 
 ## Phase 1 — Stone & fire economy
 
-- [x] **Controlled charcoal** — batches #1–7 opened; **#8 sealed**; **~64 kg** store
+- [x] **Controlled charcoal** — batches #1–8 opened; **~68 kg** store
 - [x] **Simple kiln (ceramic)** — operational
 - [x] **Pottery** — grog formula; **P-ζ production bowl**; P-η slaking dish
-- [ ] **Brick** — **62 fired** stackable; ~250 hut v2 mid-est (~25%)
-- [ ] **Kiln B** — pad staked; build at **~75–80** hoard (~35 brick cost)
-- [ ] **Charcoal pit B** — layout; **~18 kg clay** liner pending
+- [x] **Quicklime** — repeatable Kiln A; trial #7 Day 55 **2/2**; **~930°C** est.; **~2.47 kg** stock
+- [ ] **Brick** — **122** stackable (+ **35** B + **22** C); ~250 mid-est (~71%); factory ramp
 - [ ] **Hut v2 floor stones** — **11** slabs (~1.22 m² / ~6.7 m² goal, ~18%)
-- [x] **Kiln lining** — grog mortar patch survived fire #5
-- [ ] **Crucible** — P-δ v1; sand test pending
-- [ ] **Quicklime** — roadmap; weeks+ ([materials-roadmap.md](materials-roadmap.md))
+- [x] **Kiln lining** — grog mortar; coat #2 Day 29
+- [x] **Kiln B** — **operational** Day 35
+- [ ] **Charcoal pit B** — **operational** Day 30
+- [x] **Kiln C (~1100°C)** — hot blast test **PASS** Day 57; **~1100–1150°C** est. w/ bellows
+- [ ] **Smelting** — micro-ore trial in P-δ next
 - [x] **Agriculture** — planted; sprouts; weeded
 
 ## Phase 2 — Metals (the long wall)
 
 - [ ] **Native copper** — cold hammering if found
-- [ ] **Pottery / crucible** — P-δ v1 fired; needs sand test
+- [x] **Pottery / crucible** — P-δ v1; **sand heat test PASS** Day 38
+- [ ] **Micro-ore melt** — crucible ready; needs tuyere, ore, Kiln C class temps
 - [ ] **Smelting** — copper or lead from oxide/carbonate ore
 - [ ] **Casting / forging** — shape tools, not just nuggets
 - [ ] **Bronze** — tin + copper (sourcing tin is a geography problem)
