@@ -65,6 +65,70 @@
 | 55 | [day-055.md](days/week-008/day-055.md) | T-1, Kiln A | Clay haul; **lime #7**; **~2.47 kg**; B cool |
 | 56 | [day-056.md](days/week-008/day-056.md) | Kiln C | **Cap + smoke cure**; batch #12; **122** stackable |
 | 57 | [day-057.md](days/week-009/day-057.md) | Kiln C | **Week 9**; **hot blast PASS** (~1100°C class) |
+| 58 | [day-058.md](days/week-009/day-058.md) | A-03 + camp | **Goat pause #3**; hide #2; **Kiln C insulation v1** |
+| 59 | [day-059.md](days/week-009/day-059.md) | Camp + T-1 | **Brain-tan** hide #2; **+18 kg** clay; **+14** green |
+| 60 | [day-060.md](days/week-009/day-060.md) | Kiln C | **Micro-ore trial #1** — partial; **3 prills**; hide flex pass |
+| 61 | [day-061.md](days/week-009/day-061.md) | Kiln B | **Fire #12**; expedition + **caligae** shoe plan |
+| 62 | [day-062.md](days/week-009/day-062.md) | Camp + Kiln B | **Caligae v1** + **fire #13** — split day |
+| 63 | [day-063.md](days/week-009/day-063.md) | Camp + Kiln B | **Fire #14**; fence **100%**; shoe tune + chores |
+| 64 | [day-064.md](days/week-010/day-064.md) | A-03 + camp | **Goat pause #4** — hide #3 |
+| 65 | [day-065.md](days/week-010/day-065.md) | Camp + Kiln C | **Twin bellows** + ore pouch |
+| 66 | [day-066.md](days/week-010/day-066.md) | Kiln B | **Charcoal #13**; **fire #15**; **158** stackable |
+| 67 | [day-067.md](days/week-010/day-067.md) | Farm + W-1 | **Retting pool**; courtyard stakes; workshop stock |
+| 68 | [day-068.md](days/week-010/day-068.md) | Kiln B | **Fire #16**; **drop spindle v1**; pit B-4 open |
+| 69 | [day-069.md](days/week-010/day-069.md) | W-1 + terrace | **Workshop ~65%**; **+4** floor stones |
+| 70 | [day-070.md](days/week-010/day-070.md) | Kiln B | **Fire #17**; **176** stackable |
+| 71 | [day-071.md](days/week-011/day-071.md) | W-1 + H-v2 | **Workshop done**; **hut v2 dig ~40%** |
+| 72 | [day-072.md](days/week-011/day-072.md) | Kiln B + terrace | **Fire #18**; **+5** floor stones |
+| 73 | [day-073.md](days/week-011/day-073.md) | H-v2 + Kiln B | **Week 11**; **fire #19**; **hut dig ~70%** |
+| 74 | [day-074.md](days/week-011/day-074.md) | H-v2 + Kiln B | **Pilae course 1**; **fire #20** |
+| 75 | [day-075.md](days/week-011/day-075.md) | H-v2 + Kiln B | **Pilae 2** + suspensura; **fire #21** |
+| 76 | [day-076.md](days/week-011/day-076.md) | H-v2 + Kiln B | **Wall c1** + suspensura; **fire #22** |
+| 77 | [day-077.md](days/week-011/day-077.md) | T-1 + terrace | **Prep day** — clay, charcoal, stones, lime |
+| 78 | [day-078.md](days/week-012/day-078.md) | H-v2 + Kiln B | **Week 12**; **wall c2**; **fire #23** |
+| 79 | [day-079.md](days/week-012/day-079.md) | A-03 + farm | **Goat pause #5** — live trap + **pen P-GOAT-1** |
+| 80 | [day-080.md](days/week-012/day-080.md) | Farm + H-v2 | **Flax retting load**; **wall c3** + **FS complete** |
+| 81 | [day-081.md](days/week-012/day-081.md) | Kiln A + B | **Lime #9** + calcite haul; **fire #24**; **75** stackable |
+| 82 | [day-082.md](days/week-012/day-082.md) | Kiln A + H-v2 + B | **Lime #10–11**; **door lintel**; **fire #25** |
+| 83 | [day-083.md](days/week-012/day-083.md) | Pit + H-v2 | **Charcoal B-8**; **roof shell ~85%**; hut **complete** |
+| 84 | [day-084.md](days/week-012/day-084.md) | H-v2 + Kiln B | **Roof 100%**; **respawn → H-v2**; **fire #26** |
+| 85 | [day-085.md](days/week-013/day-085.md) | Farm + v1 store | **Week 13**; **first harvest**; flax pull **PARTIAL** |
+| 86 | [day-086.md](days/week-013/day-086.md) | Farm + A-03 | **Row 2 harvest**; gorge **kid sign**; dry-store sort |
+| 87 | [day-087.md](days/week-013/day-087.md) | A-03 + pen | **Goat pause #6** — **kid captured**; **hide #4**; belt/bag queued |
+| 88 | [day-088.md](days/week-013/day-088.md) | Farm + leather | **Waterskin v1**; pen **W-CHAN-1**; Row **3** harvest |
+| 89 | [day-089.md](days/week-013/day-089.md) | Farm + Kiln B | **Fire #27**; soak **d1**; travois poles; prep slate |
+| 90 | [day-090.md](days/week-013/day-090.md) | Expedition prep | **FK-1**; haversack; **RK-1**; soak **PASS** |
+| 91 | [day-091.md](days/week-013/day-091.md) | Prep + S-02 | **PM-R1** paint; **7-day pack**; **travois v1** |
+| 92 | [day-092.md](days/week-014/day-092.md) | Test day | **Week 14**; flax **PASS**; **M-520**; gates |
+| 93 | [day-093.md](days/week-014/day-093.md) | Storm prep | **D-1** drain; **fire #28**; **WW-0** |
+| 94 | [day-094.md](days/week-014/day-094.md) | **Scout launch** | **All gates green**; **Camp-1 ~16 km NE** |
+| 95 | [day-095.md](days/week-014/day-095.md) | Scout day 2 | **M-G1** green stain; **D-27** tracks; **Camp-2** |
+| 96 | [day-096.md](days/week-014/day-096.md) | Scout day 3 | **M-G2** pin; **turn home**; **Camp-1** |
+| 97 | [day-097.md](days/week-014/day-097.md) | **Home** | Scout debrief; **RS-2 haul** prep |
+| 98 | [day-098.md](days/week-014/day-098.md) | Kiln B | **Fire #29**; **M-spikes**; haul rations **d1/3** |
+| 99 | [day-099.md](days/week-015/day-099.md) | Farm + pack | **Week 15**; Row **4**; pouch **#2**; smoke **d2/3** |
+| 100 | [day-100.md](days/week-015/day-100.md) | Kiln C + pack | Smoke **d3**; smelt **#2**; **14-day pack** ✓ |
+| 101 | [day-101.md](days/week-015/day-101.md) | Farm + MK-0 | Row **5**; **medkit v0**; haul **~92%** |
+| 102 | [day-102.md](days/week-015/day-102.md) | Final prep | **MK-0 v1**; kid stable; **haul 100%** · launch **d103** |
+| 103 | [day-103.md](days/week-015/day-103.md) | **HAUL LAUNCH** | Travois **~16 km** · **Camp-1** |
+| 104 | [day-104.md](days/week-015/day-104.md) | **M-G1 mine** | **~16.8 kg ore** · fire-setting · **loaded** |
+| 105 | [day-105.md](days/week-015/day-105.md) | Homeward | Loaded **~13 km** · **OC-1** slate |
+| 106 | [day-106.md](days/week-016/day-106.md) | **HOME** | **Haul #1 complete** · **~16.8 kg** **O-1** |
+| 107 | [day-107.md](days/week-016/day-107.md) | Farm + gorge | Row **6**; **kid #2**; **GH-S1 ~60%** |
+| 108 | [day-108.md](days/week-016/day-108.md) | Pen + Kiln C | **GH-S1** ✓; **smelt #3** — **workable copper** |
+| 109 | [day-109.md](days/week-016/day-109.md) | Plan + pen + smelt | **PRI-Q3**; **awl v0**; **smelt #4** |
+| 110 | [day-110.md](days/week-016/day-110.md) | Rope + pen | **Gate ✓**; **ROPE-1 ~78%** (~39 m) |
+| 111 | [day-111.md](days/week-016/day-111.md) | Rope + needle | **ROPE-1 ✓**; **copper needle v1** |
+| 112 | [day-112.md](days/week-016/day-112.md) | Coal + loom + smelt | **B-11**; **LM-1 ~70%**; **smelt #5** |
+| 113 | [day-113.md](days/week-017/day-113.md) | **Week 17**; loom + archery | **LM-1 ✓**; **MK-ribbon**; **ARCH-1** |
+
+## Centadials (every 100 days)
+
+| Centadial | Days | File |
+|-----------|------|------|
+| **1** | 1–100 | [centadial-001.md](summaries/centadial-001.md) |
+
+See [summaries/README.md](summaries/README.md).
 
 ## Weeks
 
@@ -78,7 +142,15 @@
 | 6 | [week-006.md](weeks/week-006.md) | 36–42 | Dual-kiln rhythm; P-δ pass; **90** bricks |
 | 7 | [week-007.md](weeks/week-007.md) | 43–49 | **#100**; goat; **126** bricks |
 | 8 | [week-008.md](weeks/week-008.md) | 50–56 | Bellows v1; Kiln C to cure; lime **~2.5 kg** |
-| 9 | [week-009.md](weeks/week-009.md) | 57– | **Kiln C hot test**; metal trials |
+| 9 | [week-009.md](weeks/week-009.md) | 57–63 | **Kiln C hot test**; micro-ore; caligae |
+| 10 | [week-010.md](weeks/week-010.md) | 64–70 | Twin bellows; factory resume |
+| 11 | [week-011.md](weeks/week-011.md) | 71–77 | **Workshop**; **hut v2** hypocaust + walls c1 |
+| 12 | [week-012.md](weeks/week-012.md) | 78–84 | **H-v2 complete**; respawn move; factory #23–26 |
+| 13 | [week-013.md](weeks/week-013.md) | 85–91 | **Harvest**; factory pause; goat #6 |
+| 14 | [week-014.md](weeks/week-014.md) | 92–98 | **Malachite scout** |
+| 15 | [week-015.md](weeks/week-015.md) | 99–105 | **Haul prep + launch + mine** |
+| 16 | [week-016.md](weeks/week-016.md) | 106–112 | Post-haul · smelt · **ROPE-1** · needle |
+| 17 | [week-017.md](weeks/week-017.md) | 113–119 | **LM-1** · **ARCH-1** bow prep |
 
 ## Day folders
 
@@ -93,6 +165,14 @@
 | 7 | [days/week-007/](days/week-007/) |
 | 8 | [days/week-008/](days/week-008/) |
 | 9 | [days/week-009/](days/week-009/) |
+| 10 | [days/week-010/](days/week-010/) |
+| 11 | [days/week-011/](days/week-011/) |
+| 12 | [days/week-012/](days/week-012/) |
+| 13 | [days/week-013/](days/week-013/) |
+| 14 | [days/week-014/](days/week-014/) |
+| 15 | [days/week-015/](days/week-015/) |
+| 16 | [days/week-016/](days/week-016/) |
+| 17 | [days/week-017/](days/week-017/) |
 
 ## Years
 

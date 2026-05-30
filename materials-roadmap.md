@@ -42,7 +42,7 @@
 
 At ~6–11 good per firing day → **weeks of ceramic mode**.
 
-| **Progress Day 57:** **122** stackable + **57** in kilns ≈ **179 / ~250**. **Kiln C ONLINE** — hot blast ✓; **micro-ore** next |
+| **Progress Day 84:** **87** stackable + **~57** in kilns/green ≈ **144** pipeline · **~170** in H-v2 |
 
 ### Build queue (ramp-up)
 
@@ -81,7 +81,9 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 
 - **Pauses #1–2 ✓** — prep + first goat (Days 45–46).
 - **Ongoing:** **Intersperse goat days** on good factory pauses — not one-and-done. You're building a **leather pipeline**, not only a bellows bag.
-- **Pause #3+** — trap reset at **A-03**, hunt again (experience bonus); repeat when gorge sign is fresh.
+- **Pause #5 ✓ Day 79** — **live-capture redesign** (corral + pit roof; kill slab stored); **pen P-GOAT-1** at farm.
+- **Pause #6 ✓ Day 87** — **live capture SUCCESS** (kid + nanny hide); belt + waterskin queued.
+- **Post-haul (Day 102):** **Pause #7 ✓ Day 107** — **kid #2** · pen **GH-S1 ~60%** · expand/trough v2 queued.
 - **Between goat days:** Factory **bricks + lime**; scrape/brain-tan on light days; **tan curing** runs in background (**3–7 days**/hide).
 
 | Pause type | Work | Kiln B |
@@ -166,20 +168,27 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 | **Scrape station** | **Built** | Chert edge; resharpen often |
 | **Slaking pit** | Have | **Not** for hide — lime only |
 | **Boil-safe pot** | **P-ζ** cooking bowl (fired) | Verify watertight for **cuir bouilli** / hardened leather trials — may want **larger pot** for full hide panels |
-| **Drying/tanning yard** | Partial | Add **second frame** when interspersing goats |
+| **Drying/tanning yard** | Partial | **Retting pool P-RETT-1** ✓ Day 67 |
 
-### Leather product queue (priority TBD)
+### Leather product queue (*player priority, Day 61*)
 
-| Product | Use | Craft notes |
-|---------|-----|-------------|
-| **Shoes / foot wraps** | Long walks, gorge, ore haul | Soft-soled hide + cord; sole grog or rawhide; **high priority** per player |
-| **Clothes** | Apron, wrap, cloak layer | Large panels; many hides for outfit |
-| **Waterskin** | Portable **drinking** vessel | Tube stitch + sealed seam; bladder-style or stitched bag; **watertight** is the hard part |
-| **Pouches** | Solids, tools, ore samples | Smaller cuts; belt loop |
-| **Backpack / carry harness** | Hands-free haul | Straps + bag body; frame optional |
-| **Straps / belts** | Lash loads, tools, bellows | Rawhide strip or cut lace |
-| **Thread / lashing** | Sewing, traps, packs | Thin strip cut; sinew backup from game |
-| **Bellows bag** | Kiln C blast | Reed frame **done**; first hide curing |
+| # | Product | Use | Craft notes |
+|---|---------|-----|-------------|
+| **1** | **Shoes (caligae v1)** | Walks, gorge, future ore haul | **DONE** Day 62 — layered sole, arch core, bone glue |
+| **2** | **Twin bellows** | Kiln C CFM / endurance | **DONE** Day 65 |
+| **4** | **Waterskin v1** | Expedition carry | **DONE** Day 88 — ~1.8 L; leak PASS |
+| **5** | **Belt v1** | Tool / skin hang | Queued — hide trim **~0.35 m²** |
+| **6** | **Pants / cloak** | Winter | Hide **#5+** or linen |
+
+### Adhesives (*shoe joinery, Day 61 plan*)
+
+| Source | Local? | Use |
+|--------|--------|-----|
+| **Bone glue** | **Yes** — goat bones | **Primary** — boil collagen in **P-ζ**; seam set + lace backup |
+| **Aleppo pine resin (M-08)** | **Yes** — 150 m N | Reheat tack; hafting; **spot** seam seal — brittle alone |
+| **Birch bark pitch** | **No** at camp | Levant valley — not reliable; NE highlands *maybe* on expedition |
+
+**Caligae build sketch:** outsole + **arch core** + insole (glue + stitch); open upper lashed through sole layers; grog in channel optional.
 
 ### Near-future — **travois** (drag carrier)
 
@@ -204,6 +213,94 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 | Backpack | **1+ hide** |
 
 **Assistant rule:** Goat days are **fuel for logistics**, not a detour from bronze — shoes and **travois** shorten every future mile.
+
+---
+
+## Textiles — flax → linen (*Day 65 prep*)
+
+**Already planted:** Bed B flax (**~7 g** Day 16). **Cordage (C-5)** is the fast win; **linen** is the slow win.
+
+| Step | Infrastructure | Est. effort |
+|------|----------------|-------------|
+| **Retting pool** | Pit **away from well/weir**; stake bundles | **½ day** dig |
+| **Drying rack** | Extend smoke-yard poles | **1 hr** |
+| **Drop spindle** | Clay wheel + stick; practice on waste flax | **1 day** |
+| **Frame loom** | 4-post; heddle optional v1 | **2–3 days** |
+| **Products** | Bandages, bedding strips, **summer tunic panel**, apron lining | Autumn–winter |
+
+**Not viable yet:** Wool cloth (no flock), cotton (wrong region), silk (obviously).
+
+**Parallel task:** On **light factory mornings**, check Bed B stalks; **one spindle session** beats **planning linen from memory**.
+
+---
+
+## Shelter — brick primary, expand in place (*Day 65*)
+
+### Why brick (confirming player instinct)
+
+| Factor | Your valley |
+|--------|-------------|
+| Clay + charcoal | **Abundant** |
+| Lime (Tier 3) | **Proved** — hut-scale mortar reachable |
+| Flood / rain | Thatch **rots**; **fired brick + lime** survives |
+| Hypocaust goal | **Needs** brick pilae + flues — stone alone is slow |
+| Repair | **Replace courses** — matches **reuse doctrine** |
+
+**No better Year 1 structural material** without importing timber quality or inventing new chemistry. **Stone** complements brick (mass, floor, footing) — **does not replace** flue brick count.
+
+### Incremental campus plan
+
+```
+[CAMP]
+  Hut v1 (thatch) ──convert──► DRY STORE (grain, lime, green brick)
+  Hut v2 (NEW)     ──brick+stone+hypocaust──► SLEEP / RESPAWN
+  Workshop (NEW)   ──wattle+lime daub──► leather, tools, charcoal prep
+  Kiln A/B/C pads  ──optional shed roofs──► weather
+```
+
+| Phase | When | Work |
+|-------|------|------|
+| **A** | **~180–200** stackable ✓ | Dig **~70%** Day 73 — **pilae** next |
+| **B** | **Complete** Day 84 | Occupied; flue cap + W closure remain |
+| **C** | v2 roofed | **Move respawn**; v1 → store |
+| **D** | **2–3 days** | **Wattle workshop @ W-1** — **✓ complete** Day 71 |
+| **E** | Year 2 | v1 brick skin, tile roof experiments, extension |
+
+### Wattle & daub — when worth it
+
+| Build | Worth it? | Why |
+|-------|-----------|-----|
+| **Workshop / overflow store** | **Yes — soon** | Cheap; keeps **brain-tan stink** out of sleeping hut |
+| **Sleeping quarters** | **No** — wait for brick v2 | Fire, hypocaust, durability |
+| **Kiln enclosure** | **Maybe** | Thatch roof first; lime daub if time |
+
+**Recipe:** Willow/oak frame + reed lattice + **clay/straw daub** + **lime skim** exterior when mortar available.
+
+### Stone + grout (player collection)
+
+| Use | Notes |
+|-----|-------|
+| **Hypocaust suspensura** | **FS-01–11** + haul — **~18%** of floor goal |
+| **Footings** | Largest flats; **lime bed** — level matters |
+| **Thresholds / drain** | Sheds workshop |
+| **Random wall** | **Low priority** — cold, slow |
+
+**Floor gap-fill:** Brick tiles acceptable where **FS** short — budget **25–40** bricks in hut bill.
+
+### Long-term — courtyard compound (*player Day 66 — Year 2+ horizon*)
+
+**Vision:** Extend shelter **outward in wings** → **rough square footprint** around a **central courtyard** (open to sun/wind; optional colonnade much later).
+
+| Phase | What |
+|-------|------|
+| **Year 1** | **Hut v2** = first anchor; stake **courtyard axis + drain** when digging footings |
+| **Year 1–2** | Wattle workshop; v1 → store wing |
+| **Year 2+** | Brick wings on **shared footing**; close 3 sides; **gate / 4th side** last |
+| **Year 3+** | Optional shade over yard — **not** required |
+
+**Rules:** Same **B-series** module wing-to-wing; **don't grade full square** until two walls exist; courtyard stays **smoke- and dry-friendly** for kilns/charcoal.
+
+**Not Year 1.** Logged so brick courses can face the future yard.
 
 ---
 
@@ -289,7 +386,7 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 | | |
 |--|--|
 | Goal | **~6.7 m²** (full floor + hypocaust cap) |
-| Have (Day 24) | **11 stones · ~1.22 m² (~18%)** |
+| Have (Day 80) | **32** stones · **~5.15 m²** (~77%); suspensura **18/18** |
 | Still want | **~19–24** more large/medium slabs **or** **~30–40** brick tiles as substitute |
 
 ### Other (not bricks)
@@ -310,7 +407,7 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 |--------|-----------------|---------------------------|-----|
 | Hut v2 + kiln A lining | **~250** fired | **35** fired + **~30** green likely good ≈ **65** | **~185** |
 | Kiln B (optional) | **+35** | — | **+35** |
-| Floor stones | **~6.7 m²** | **~1.22 m²** | **~5.5 m²** |
+| Floor stones | **~6.7 m²** | **~5.15 m²** | **~1.55 m²** |
 | Kiln A enlarged (optional) | **+55** lining | — | defer |
 
 **At ~9 good bricks / fire day** (factory rhythm with make days): **~20–25 kiln days** to mid-est hut hoard from today — **~4–5 weeks** calendar in ceramics mode.
@@ -330,15 +427,16 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 
 ---
 
-### Shelter roadmap (player Day 31)
+### Shelter roadmap (updated Day 65)
 
 | Phase | Structure | Notes |
 |-------|-----------|-------|
-| Now | Hut v1 | Sleep until v2 |
-| Next | **Hut v2** | Hypocaust + lime mortar; **new respawn** |
-| After | Hut v1 → **storage / workshop** | Pots, lime, green brick |
-| Later | Hut v3 | **Wattle & daub** — needs lime daub + frame |
-| Later | **Roof tiles** | After brick sprint; T-tile mold |
+| Now | Hut v1 | Sleep until v2 — then **store** |
+| **Next** | **Hut v2** | **Brick + stone + hypocaust** — **new respawn** |
+| **Parallel** | **Wattle workshop** | **2–3 days** — leather/charcoal/tools |
+| After | Hut v1 → **dry store** | Grain, lime, green brick |
+| Later | Roof **tiles** | Mold after brick sprint |
+| Year 2 | Extensions | Same pad — **repair courses**, don't restart |
 
 ---
 
