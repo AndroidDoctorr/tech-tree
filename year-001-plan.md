@@ -87,6 +87,7 @@ Bronze is **not** "copper + wish." Minimum solo chain:
 |--------|------------------|---------------|-------|
 | **Copper oxides** | **East / NE** — Taurus foothills, Euphrates drainages | **80–200+ km** | Green stain at camp ≠ mine. Follow **malachite/azurite** on cliffs; assistant: copper cultures existed in Anatolia by this era |
 | **Tin** | **North / NE** — Taurus; some Anatolian tin | **150–400+ km** | **Harder than copper.** No tin = no bronze — only copper |
+| **Sphalerite (zinc)** | **NE / Taurus** — carbonate veins; often near **galena** class | **150–400+ km** (scout class) | **SPH-1** — honey-brown resinous lumps; **mark only** for now. **Zinc metal** → **voltaic piles** — **Year 3+** after smelt/chemistry path |
 | **Native copper** | Random river cobbles | Luck | Cold-hammer nuggets — **Phase 2a** before smelt |
 
 **Expedition kit (before leaving):** dried food 7+ days, extra cordage, **chert backup**, lime-water canteen (pots), map copies, **respawn plan** (sleep hut only), charcoal for night fires.
@@ -135,6 +136,65 @@ Bronze is **not** "copper + wish." Minimum solo chain:
 
 **Post-haul:** smelt at **Kiln C** home — **not** field furnace.
 
+#### Trail rest stops — REST-1 *(Day 130 — Camp-1 “motel”)*
+
+**Goal:** **Dedicated** **recover** **stops** **on** **common** **routes** — **leave** **gear** **that** **survives** **weeks** **unattended.**
+
+| Site | Distance | Cache target (next trip) |
+|------|----------|--------------------------|
+| **Camp-1** | **~16 km NE** | **REST-1+ ✓** Day 147 — infra · **corridor hub** Q3 |
+| **REST-2** | **✓ Dropped** Day 147 — merged cache |
+| **CAMP-1-INFRA** | **TIE-POST-1** · **TROUGH-1 ~5 L** · **FENCE-1 ~8 m** holding pen |
+
+**Pre–Donkey Trip 2:** **✓** motel infra trip Day 147 (user: boring = predictable). **Trip 2** = D-27 habituation only; **use motel** on march.
+
+**Rules:** **No** **perishables** **without** **seal** · **Fired** **pottery** **+** **lime-washed** **amphora** **only** · **Mark** **white** **home** **vector** **from** **cache** · **Drop REST-2 outbound only** (not to D-27 and back)
+
+#### DONKEY-PATH-1 — bringing one home (*Day 146*)
+
+| Phase | Trip | Action |
+|-------|------|--------|
+| **A ✓** | 1 | Recon — herd ×4 · graze · bait rock |
+| **B** | 2 | Habituation — **✓ Day 151** |
+| **B0 ✓** | — | **Camp-1 infra** Day 147 — post · trough · holding fence |
+| **C ✓** | 3 | Corral — **✓ Day 155 CORRAL-1** · **80 m rope @ D-27** · **Trip 4** short pen next |
+| **D** | 4 | One animal in short pen — lead · calm walk |
+| **E** | 5 | Lead home **~19 km** · **2–3 days** · motels · **no ore** |
+| **Home** | — | Quarantine **2 weeks** · trough v2 · **BARN-1** |
+
+**Realistic Year 1:** **one** juvenile/small adult if B–D clean — **not** lasso day one.
+
+**Improvements:** corral stakes · dedicated lead hank · salt lick · blindfold strip · donkey go-bag slate
+
+**Later:** **Tent** **+** **full** **camp** **kit** **=** **donkey** **class** (see **D-27**)
+
+#### DONKEY-TRIP-1 — D-27 recon (*Day 133–134 plan*)
+
+| | |
+|--|--|
+| **Status** | **✓ COMPLETE Day 139** — herd ×4 · graze logged · **REST-1** @ Camp-1 · **Trip 2** habituation queued |
+| **Trip 1 goal** | **See** herd · habits · **no capture** |
+| **Kit** | Rope **80 m** + **12 m** repair hank · treats · FK-1 · **KIT-2 backups** · **REST-1** wood |
+| **Contingencies** | **RS-DONKEY** slate — water · sprain · lost · rain · turn-back Day 2/4 |
+| **Absence** | **≤4 days** (2 kids) · **7-day** browse stacked |
+| **Phases** | **A** recon → **B** habituation → **C** corral → **D** tame (Year 2+) |
+
+**Home arrival prep (*Day 134*):**
+
+| Item | Status |
+|------|--------|
+| **Quarantine pen** | **✓ ~3×3 m** Day 135 — gate + GH-S1 overlap |
+| **Treat stash** | **~600 g** weeds · fig · grain jar |
+| **Trough v2** | Slate — build post-trip |
+| **BARN-1** | Winter horizon — goats + 1 donkey roof |
+| **Hand-feed** | **#1 first** — drill re-read |
+
+#### IRON-1 — FORGE-D (*Day 134 — not “Kiln D”*)
+
+**Hematite now:** samples · ochre · H-11 pin — **not** tools. **Do not** use Kiln C / P-δ.
+
+**FORGE-D needs:** bloomery (not crucible kiln) · **more blast** · **~2×+ charcoal/kg** · Tier 3 lime refractory · anvil routine · **Year 2+** after copper + donkey haul rhythm. See [materials-roadmap.md](materials-roadmap.md) **FORGE-D** section.
+
 #### M-G1 ore camp — OC-1 *(future — player Day 105)*
 
 **When:** After **first successful home smelt** from M-G1 ore.
@@ -158,8 +218,9 @@ Bronze is **not** "copper + wish." Minimum solo chain:
 | **3** | **Hematite** | **Locate** — iron horizon |
 | **4** | **Cassiterite** | **Maybe** — tin pebbles; **unlikely** this trip |
 | **5** | **Donkeys** (wild ass) | **Map pin** — future **pack pen** |
+| **6** | **Sphalerite (SPH-1)** | **Mark** — zinc sulfide; **voltaic** horizon; often **with** lead-class veins |
 
-**Rule:** **Mark, don't haul** (except malachite **samples**).
+**Rule:** **Mark, don't haul** (except malachite **samples** · **chip** only for unknowns).
 
 #### Water wheel — WW-0 (*Day 93 — post-metal / concurrent*)
 
@@ -169,7 +230,12 @@ Bronze is **not** "copper + wish." Minimum solo chain:
 | **Campus** | Compound **grows downslope** toward Orontes |
 | **Uses** | Forge · spindle · grindstone · **flywheel** · shaft takeoffs |
 | **Design** | Durable, upgrade-able, field-repairable |
-| **Gates** | Metal bearings / bushings · flood season discipline · **Year 2+** build |
+| **WW-MODULAR** (*Day 140*) | **GS-1 on hub** for inertia (default on) · **removable collar(s)** · cord belt to **blower** OR spindle · **both** allowed — bearing load watch |
+| **Build** | **~75%** Day 146 — **SLUICE-1 ✓** full production |
+| **WW-YARD-1** | **✓ Day 141** — staked **~14×10 m** · **WHEEL·HOUSE·BELT·FORGE·CHAR·ORE·TOOL** |
+| **WW-SHED** | Open lean over wheel — **not** sealed mill |
+| **FORGE-D pad** | @ **FORGE** marker · **WW-BLOWER-1 ✓** d145 on **BELT** line |
+| **Gates** | Metal bearings / bushings · flood season discipline · **Year 2+** full wheel |
 
 ---
 
@@ -272,6 +338,29 @@ Bronze is **not** "copper + wish." Minimum solo chain:
 | **Tyrian purple** | **Murex** sea snail gland | **Tyre / coast ~150–250+ km SW** | **No** — **thousands of snails** per dose | **Year 2+** — **live-snail pond** trial **or** **Year 3 chemistry** (indigo/madder ≠ true purple; brominated dye **no shortcut yet**) |
 
 **Marker doctrine:** **White lime + red band** on **char** — visible **40–50 m** in haze. **M-520** range test **PASS** Day 92. **Refresh** paint on return trips.
+
+#### Route color stripes (*RS-3 — Day 128*)
+
+| Stripe | Paint | Meaning |
+|--------|-------|---------|
+| **White** | Lime wash (→ **PM-WHITE** stark later) | **Home vector** · critical turns · Camp-1 |
+| **Red** | **PM-R1** | **M-G1 malachite corridor** (existing NE line) |
+| **Yellow** | **PM-Y1** ochre | **Scout deviation** · new ore probes · D-27 / H-11 forks |
+| **Black** | **PM-BK1** soot | Water · hazard · no-climb |
+
+**Rule:** Mark on **return side** at **eye height**. **Don't** add colors until **white+red** read tired.
+
+#### RS-3 — combined scout + light mine (*Day 128–129 plan*)
+
+| Constraint | Value |
+|------------|--------|
+| **Absence max** | **4 days** (2 kids · **7-day** browse) |
+| **Route** | Existing **NE** markers → **M-G1** |
+| **Mine target** | **~5–8 kg** — **not** full travois |
+| **Scout forks** | **✓ Day 131** — **D-27 GREEN** · **H-11 bench** · **M-22** fair weak |
+| **Status** | **✓ COMPLETE Day 132** — **~6.7 kg** · **O-1 ~23.2 kg** total |
+| **Coat** | **Home** (summer) |
+| **Later** | **D-27 donkey** · **REST-1** · **H-11 iron** trip · **OC-1** after smelt rhythm |
 
 #### Standby go-bag station *(H-v2 east shelf — Day 90)*
 
@@ -489,11 +578,13 @@ Always packed; swap per trip:
 
 | Priority | Project | Why | Est. |
 |----------|---------|-----|------|
-| **1** | **ROPE-1** | **≥50–80 m** good **C-5** flax cord — wheel lash, lift rig, pen, travois, OC-1 rigging | **✓ ~52 m Day 111** |
+| **1** | **ROPE-1** | **≥50–80 m** good **C-5** flax cord — wheel lash, lift rig, pen, travois, OC-1 rigging | **✓ 50 m Day 111** · **stretch 80 m Day 115** |
 | **2** | **Tool tier-up** | **S-02 chert** resupply; **copper awl → needle**; wedge/hammer maintenance | **1 scout day** + metal days |
 | **3** | **GS-1 grindstone** | Grain + ore crush at wheel pad — **prep**, not wheel itself | **1–2 days** |
 | **4** | **Charcoal rhythm** | **≥40 kg** working stock before WW build week — dual kilns + C eat stock | Ongoing |
-| **5** | **WW-1 plan** | Pad cleared; **flood season** rule; **bushing** sketch (copper + leather + hardwood) | Slate only until 1–4 |
+| **5** | **WW-1 plan** | **WW-WOOD-1 ✓** Day 116 · **bushing** + **GS-1** | **Season** wood · **Year 2+** build |
+| **6** | **CU-KNIFE** | Draw · grind · haft | **✓ v1** Day 117 |
+| **7** | **GS-1** | Grindstone @ WW pad | **✓** Day 118 |
 
 **WW-1 gates (unchanged):** ROPE-1 ✓ · GS-1 ✓ · bushing material · **no** head pond at H-v2 · **Year 2** build OK if prep done **Year 1 Q3**.
 
@@ -553,6 +644,132 @@ Always packed; swap per trip:
 | **20%** | **Flax** retting → **LM-1** |
 | **15%** | **Charcoal + optional B fire** |
 | **10%** | **WW-1 / PK-1 slate** — measure pad, no hubris dig |
+
+---
+
+## Player horizon queue (*HORIZON-Q1 — Day 118 notes*)
+
+**Player read:** Progress feels **fast but not outrageous** — **valley site** (water, clay, fish, farm, ore corridor) + **immortal patience** + **no stupid risks** = **lucky knock-on-oak**, not magic.
+
+### Combat & hunt
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **ARCH-2** | **Practice archery** | Berm · short draw · log **bow v2** ideas after each session |
+| **ARCH-2** | **More arrows** | Blunt → chert points after **S-02** resupply |
+| **ARCH-2** | **Quiver** | Reed/hide · belt or back · **5+ arrow** capacity |
+| **ARCH-2** | **Bow v2 mental notes** | Stiffer belly · longer tiller · **sinew** string · nocks · reflex? |
+
+### Body & cloth
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **CL-1** | **Gloves** | Hide · protect bow + cord + kiln hands |
+| **CL-1** | **Breechcloth** | LM-1 narrow band + hide tie |
+| **CL-1** | **Tabard** | **✓ Day 122** |
+| **CL-1** | **Cloak** | Leather or wool later — winter queue |
+
+### Tools & redundancy (*die far from home*)
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **KIT-2** | **Two of everything** | Home set + **go-bag duplicate**: knife, needle, awl, flakes, FK-1, cord hank, waterskin |
+| **KIT-2** | **Backup CU-KNIFE** | Second smelt batch when stock allows |
+| **S-02** | **Chert resupply** | **920 m** — arrow points + flake backup |
+
+### Campus & industry
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **STORE-2** | **Expand storage** | v1 hut shelves · **amphora** row · covered yards |
+| **WW-1** | **Water wheel** | Wood ✓ · GS-1 ✓ · bushings · **season** then build |
+| **PK-1** | **Pottery scale** | Amphorae · bowls · **vials** · cooking pots — **enlarge updraft**, not Kiln C |
+| **CONT-1** | **Bags & baskets** | Reed basket · hide duffel #2 · **amphora** for bulk |
+| **PM-2** | **More paint colors** | White lime ✓ · **PM-R1** red ✓ · **black** (char/soot) · **yellow** ochre · trail key |
+| **GS-1** | **Grindstone** | **✓** Day 118 — tie to WW shaft later |
+
+### Fun / morale (*low urgency · high joy*)
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **OPT-1** | **"Sunglasses"** | **Not** modern UV — **slit visor**: smoked quartz / leather brim / birch bark — glare cut for snow-bright terrace |
+| **MUS-1** | **Stringed instrument** | **Lyre/bow-harp** class — willow frame + gut/sinew · **1–2 strings** v0 · morale not tech tree cliff |
+
+### Suggested order (assistant)
+
+1. **ARCH-2** practice + arrows + quiver  
+2. **CL-1** breechcloth + gloves (loom bands ready)  
+3. **KIT-2** duplicate essentials  
+4. **STORE-2** + **PK-1** small pots before amphorae  
+5. **WW-1** after wood season + **PM-2** trail refresh  
+6. **OPT-1 / MUS-1** on rest evenings  
+
+### Day 120 sprint status
+
+| Item | Status |
+|------|--------|
+| **KIT-2** | [~] cord · flakes · FK — **CU-KNIFE #2** pending |
+| **CL-1** | [x] breechcloth · [~] gloves v0 |
+| **ARCH-2** | [x] sinew string · quiver · [ ] **S-02** → d122 |
+| **STORE-2** | [~] shelves + amphora zone |
+| **PK-1** | [~] green vial + bowl — **fire d122** |
+| **PM-2** | [x] PM-BK1 + PM-Y1 trials |
+| **WW-1** | [~] **~30%** · **WW-YARD-1** ✓ staked |
+| **MUS-1** | [~] lyre frame **~40%** — strings last |
+
+---
+
+## Player horizon Q2 (*Day 121 — clarifications*)
+
+### Shelter — H-v2 extensions
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **H-v2-ANTE** | **Antechamber** | **✓ Day 126** — mudroom operational |
+| **H-v2-PORCH** | **Porch** | **✓ Day 127** |
+| **PORCH-CHAIR** | **Rocking chair** | After porch **100%** — green willow rockers |
+| **PORCH-CHAIR** | **Rocking chair** | **Not urgent** — after porch deck; green willow rockers or bent wood · **fits** porch footprint |
+
+### Body — upgrades
+
+| ID | Goal | Notes |
+|----|------|-------|
+| **SHOE-2** | **Better shoes** | **✓ Day 122** — double sole · cross-lace |
+| **CL-COAT** | **Waterproof coat** | **✓ Day 123** — fur liner · mist test |
+| **CL-HAT** | **Straw sun hat** | **✓ Day 123** |
+| **H-v2-ANTE** | **Antechamber** | **✓ Day 126** |
+| **H-v2-PORCH** | **Porch** | **~75%** Day 126 |
+| **CL-GLOVE-H** | **Heat gloves** | **v0 ✓ Day 122** — linen · hide · ash pad · warm kiln lip trial |
+
+---
+
+## Long-term horizon (*HORIZON-LT — Day 121*)
+
+| ID | Goal | Gate |
+|----|------|------|
+| **BOAT-1** | **Boat** on Orontes | Hull (log/reed) · paddle · **swim test** · not before rope + knife |
+| **DONKEY-1** | **Donkey** pack | **D-27** pin · tame **Year 2+** · **BARN-1** |
+| **IRON-1** | **Iron** | **H-11** hematite ~11 km · bloomery · **Year 2+** after copper routine |
+| **CU-SAW** | **Copper saw** | Sheet/teeth stock · **much** more copper than knife |
+| **AGRI-2** | **Farms / orchards / pens** | Bed C · **P-12** fig · **P-GOAT** expand |
+| **BARN-1** | **Barn / stable** | **Donkey(s?)** + goats under roof · hay · manger |
+
+**Assistant order:** **Donkey** **before** **boat** **for** **NE** **corridor** **—** **boat** **for** **river** **+** **eventually** **coast** **—** **not** **instead** **of** **donkey.**
+
+#### TRIP-QUEUE-1 — logistics order (*Day 152*)
+
+| # | Trip | Gate | Donkey? | Boat? |
+|---|------|------|---------|-------|
+| 1 | **DONKEY Trip 3** — corral @ D-27 | Rope + stakes | — | — |
+| 2 | **NE corridor** — malachite ~5 kg · REST upkeep | Motels ✓ | Haul later | — |
+| 3 | **WW** finish · charcoal pit | Home | — | — |
+| 4 | **H-11** iron bench scout (pin) | No climb | Haul later | — |
+| 5 | **DONKEY Trip 4–5** — one home | After Trip 3 | **Yes** | — |
+| 6 | **Tin scout** — cassiterite | Dedicated multi-day | Helps | River/coast legs |
+| 7 | **BOAT-1** — Orontes | Rope + knife | Parallel | **Build local** |
+| 8 | **Sheep** — hills | 30–100+ km | Year 2 flock | Coast later |
+
+**Resource myths:** **Hemp** = flax (Bed B). **Apples** = no (fig/grape yes). **Cattle** = aurochs hunt only. **Neodymium** = magnetite weak only — not REE era. **Sphalerite (SPH-1)** = zinc ore — **mark** on NE scouts; **voltaic** needs **refined zinc** + acid/salt couples (**Year 3+**).
 
 ---
 

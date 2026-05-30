@@ -1,6 +1,7 @@
 # Materials roadmap
 
-*Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*
+*Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
+**Stock by location:** [inventory.md](inventory.md) (audited Day 122).
 
 ## Mortar / grout tiers
 
@@ -70,6 +71,53 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 **Sequence:** Prove Kiln B ✓ → P-δ sand test ✓ → **bellows v1 ✓** Day 51 → **build Kiln C** → ore.
 
 **Chimney height alone does not replace blast.**
+
+### WW-1 modular takeoffs (*Day 140*)
+
+| Part | Role |
+|------|------|
+| **Hub + GS-1** | **Flywheel mass** — leave on for stability when swapping loads |
+| **Collar(s)** | **Pin + lash** quick-release on main shaft |
+| **Belt takeoffs** | Cord to **forge blower** · spindle · (future) — **not** one rigid tree |
+| **Both** | GS-1 spinning + blower OK — watch **WW-BUSH-1** load |
+
+### WW-YARD-1 — mill district (*Day 141*)
+
+**Multipurpose workshop @ T-1 fork (~140 m).** Stone markers before walls.
+
+| Zone | Future | Future-proof note |
+|------|--------|-------------------|
+| **WHEEL** | WW-1 + GS-1 | Fix **axle footings** early · **2 m** rim clearance |
+| **HOUSE (WW-SHED)** | Open lean roof | Sides open for rim repair · not a sealed mill |
+| **BELT** | Straight run | Wheel → **BLOWER-POST-1 ✓** → FORGE · **BELT-RUN-1** trial **PASS** d144 |
+| **FORGE** | FORGE-D bloomery | **Downwind SW** · iron ≠ Kiln C · charcoal bay **CHAR** adjacent |
+| **ORE / TOOL** | Racks | Copper now · iron later |
+
+**Power order:** water → hub (collars) → belt → blower → forge. **Disconnect fan, not flywheel mass.**
+
+---
+
+## FORGE-D / IRON-1 — bloomery (*Day 134 — not Kiln C*)
+
+**H-11 hematite** (~11 km NE) is **real ore** — you **cannot** turn it into workable iron in **Kiln C** (crucible copper furnace). Samples, ochre, and a **future bench mine** are Year 1 wins.
+
+| | Kiln C (copper) | FORGE-D (iron) |
+|--|-----------------|----------------|
+| **Process** | Crucible reduction · malachite → metal prills | **Bloomery** · roasted hematite → **sponge bloom** → hammer on anvil |
+| **Peak temp** | **~1100–1200°C** in small chamber | **~1200–1300°C+** at tuyere · **longer** sustained blast |
+| **Air** | Twin bellows ✓ | **More blast** — second tuyere or bigger bags · **not** “taller chimney only” |
+| **Fuel** | **~5.5 kg** charcoal / ~35 g Cu ore (trial) | **~2×+ charcoal per kg iron** — needs **Store C ramp** + pit pipeline |
+| **Vessel** | **P-δ** crucible | **No crucible** — slag bowl + bloom on charcoal |
+| **Structure** | Insulated grog chamber + chimney | **Open/stacked** bloomery shaft · **slag tap** · **water** quench nearby |
+| **Refractory** | Kiln C lining ✓ | **Tier 3 lime mortar** + **more grog brick** · wider tuyere (fired clay → copper later) |
+| **Tools** | Tongs · crucible · W-1 anvil (started) | **Anvil routine** · long tongs · hammer · **ore roast bed** |
+| **When** | **Active** | **Year 2+** after copper routine · **donkey** haul helps H-11 ore + charcoal |
+
+**Sequence (iron):** roast hematite → build **FORGE-D** pad → prove blast + slag run (no hero ore) → small bloom trial → hammer weld → bar stock.
+
+**Not required for iron:** Kiln B brick volume alone · amphora · bigger chimney without tuyere blast.
+
+**Assistant:** Iron is a **new production line**, not an upgrade tick on copper.
 
 ### Bellows bag — goat hide (*player plan, Day 38+)*
 
@@ -437,6 +485,22 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 | After | Hut v1 → **dry store** | Grain, lime, green brick |
 | Later | Roof **tiles** | Mold after brick sprint |
 | Year 2 | Extensions | Same pad — **repair courses**, don't restart |
+
+---
+
+## Horizon queue (*HORIZON-Q1 — see [year-001-plan.md](year-001-plan.md)*)
+
+| Track | Projects |
+|-------|----------|
+| **ARCH-2** | Bow practice · arrows · quiver · **S-02** points |
+| **CL-1** | Gloves · breechcloth · tabard (LM-1 panels) |
+| **KIT-2** | Duplicate home + go-bag tools |
+| **STORE-2 / PK-1 / CONT-1** | Shelves · amphorae · bowls · vials · baskets |
+| **PM-2** | Black + yellow ochre trail paints |
+| **WW-1** | Wheel after wood season — **GS-1 ✓** |
+| **OPT-1 / MUS-1** | Slit visor · lyre v0 — morale |
+| **HORIZON-Q2** | H-v2 ante/porch · **PORCH-CHAIR** (rocking) · SHOE-2 · coat · heat gloves |
+| **HORIZON-LT** | Boat · donkey · iron · barn · AGRI-2 |
 
 ---
 

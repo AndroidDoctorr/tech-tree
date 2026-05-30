@@ -121,6 +121,50 @@
 | 111 | [day-111.md](days/week-016/day-111.md) | Rope + needle | **ROPE-1 ✓**; **copper needle v1** |
 | 112 | [day-112.md](days/week-016/day-112.md) | Coal + loom + smelt | **B-11**; **LM-1 ~70%**; **smelt #5** |
 | 113 | [day-113.md](days/week-017/day-113.md) | **Week 17**; loom + archery | **LM-1 ✓**; **MK-ribbon**; **ARCH-1** |
+| 114 | [day-114.md](days/week-017/day-114.md) | Rope · linen · wood · Cu | **~68 m**; **MK-0 v1.1**; **WW-WOOD-1**; smelt **#6** |
+| 115 | [day-115.md](days/week-017/day-115.md) | Close queues | **ROPE-1 80 m**; **WW-WOOD ~75%**; smelt **#7**; night **#100** |
+| 116 | [day-116.md](days/week-017/day-116.md) | Wood + knife | **WW-WOOD-1 ✓**; smelt **#8–9**; **CU-KNIFE blank v0** |
+| 117 | [day-117.md](days/week-017/day-117.md) | Knife + grindstone | **CU-KNIFE v1 ✓**; **GS-1 ~30%** |
+| 118 | [day-118.md](days/week-017/day-118.md) | GS-1 · arrows · bush | **GS-1 ✓**; blunt **×3**; band **#4** |
+| 119 | [day-119.md](days/week-017/day-119.md) | **Week 17 close** | **Bow v1**; arrows **×5**; **HORIZON-Q1** |
+| 120 | [day-120.md](days/week-018/day-120.md) | **Week 18** HORIZON sprint | KIT-2 · CL-1 · ARCH-2 · PK-1 · lyre **~40%** |
+| 121 | [day-121.md](days/week-018/day-121.md) | Pots · S-02 · tabard | **P-vial ✓**; flakes; **HORIZON-Q2/LT** |
+| 122 | [day-122.md](days/week-018/day-122.md) | Wearables | **Tabard ✓**; **SHOE-2**; heat gloves; coat **~50%** |
+| 123 | [day-123.md](days/week-018/day-123.md) | Coat · hat · ante | **CL-COAT ✓**; **CL-HAT**; **H-v2-ANTE** layout |
+| 124 | [day-124.md](days/week-018/day-124.md) | Bricks + ante | **Kiln B #30**; **H-v2-ANTE ~35%**; **107** stackable |
+| 125 | [day-125.md](days/week-018/day-125.md) | Ante + porch | **H-v2-ANTE ~85%**; **PORCH** staked; rocking chair queued |
+| 126 | [day-126.md](days/week-018/day-126.md) | Ante + porch + kiln | **H-v2-ANTE ✓**; **PORCH ~75%**; **#31** |
+| 127 | [day-127.md](days/week-019/day-127.md) | **Week 19** porch + farm | **H-v2-PORCH ✓**; farm upkeep |
+| 128 | [day-128.md](days/week-019/day-128.md) | RS-3 prep | Scout+mine plan · tabard whitewash · **launch d129** |
+| 129 | [day-129.md](days/week-019/day-129.md) | **RS-3** march 1 | **LAUNCH** · Camp-1 · H-11/D-27 refresh |
+| 130 | [day-130.md](days/week-019/day-130.md) | M-G1 mine | **~6.7 kg** malachite · **REST-1** queued |
+| 131 | [day-131.md](days/week-019/day-131.md) | Scout forks | D-27 **GREEN** · H-11 bench · homeward **d132** |
+| 132 | [day-132.md](days/week-019/day-132.md) | **RS-3 COMPLETE** | Home · **O-1 ~23.2 kg** · goat feast |
+| 133 | [day-133.md](days/week-019/day-133.md) | Recovery + plan | **Smelt #10** · **DONKEY-TRIP-1** slate |
+| 134 | [day-134.md](days/week-020/day-134.md) | **Week 20** prep | Donkey SUPER prep · **IRON-1** briefing |
+| 135 | [day-135.md](days/week-020/day-135.md) | Pen + kit lock | **Quarantine ✓** · launch **d137** |
+| 136 | [day-136.md](days/week-020/day-136.md) | Gate eve | **ALL GREEN** · early sleep · **launch d137** |
+| 137 | [day-137.md](days/week-020/day-137.md) | **DONKEY LAUNCH** | **REST-1** motel #1 · Camp-1 |
+| 138 | [day-138.md](days/week-020/day-138.md) | D-27 watch | **4 ass** seen · dawn+dusk graze |
+| 139 | [day-139.md](days/week-020/day-139.md) | **DONKEY-TRIP-1 ✓** | Home · recon complete · motel cache left |
+| 140 | [day-140.md](days/week-020/day-140.md) | Recovery | Farm · **WW-MODULAR** · **WW-1 ~15%** |
+| 141 | [day-141.md](days/week-021/day-141.md) | **Week 21** | **Smelt #11** · **WW-YARD-1** · **WW-1 ~30%** |
+| 142 | [day-142.md](days/week-021/day-142.md) | Pit + wheel + shed | **B-16** · rim **8/8** · **WW-SHED ~25%** |
+| 143 | [day-143.md](days/week-021/day-143.md) | Thatch + rim tune | Water spin **PASS** · blower post **d144** |
+| 144 | [day-144.md](days/week-021/day-144.md) | Blower post | **BELT-RUN-1 ✓** · **WW-SHED ~90%** |
+| 145 | [day-145.md](days/week-021/day-145.md) | **WW-BLOWER-1** | Belt-driven twin bag · mount **PASS** |
+| 146 | [day-146.md](days/week-021/day-146.md) | **SLUICE-1 full** | **REST-2** staged · **DONKEY-PATH-1** |
+| 147 | [day-147.md](days/week-021/day-147.md) | **CAMP-1-INFRA** | REST-2 drop · tie · trough · fence |
+| 148 | [day-148.md](days/week-022/day-148.md) | **Week 22** homeward | Camp-1 check · **Donkey Trip 2** queued |
+| 149 | [day-149.md](days/week-022/day-149.md) | Prep + smelt | **Smelt #12** · **Trip 2** kit **100%** · **launch d150** |
+| 150 | [day-150.md](days/week-022/day-150.md) | **DONKEY Trip 2 LAUNCH** | Camp-1 · motel ritual · **D-27 d151** |
+| 151 | [day-151.md](days/week-022/day-151.md) | **Habituation** | **Yearling @ bait rock** · **~38 m** |
+| 152 | [day-152.md](days/week-022/day-152.md) | **Trip 2 ✓** homeward | **TRIP-QUEUE-1** logistics slate |
+| 153 | [day-153.md](days/week-022/day-153.md) | **Campus** | **Trip 3 ~90%** · **SPH-1** on scout slate |
+| 154 | [day-154.md](days/week-022/day-154.md) | **Easy campus** | **B-17 open** · **lyre** · **Trip 3 100%** |
+| 155 | [day-155.md](days/week-023/day-155.md) | **Week 23** · **DONKEY Trip 3** | **CORRAL-1** · yearling in funnel |
+| 156 | [day-156.md](days/week-023/day-156.md) | **Trip 3 ✓** homeward | **CORRAL-1 QA** · brief watch |
+| 157 | [day-157.md](days/week-023/day-157.md) | **Trip 4 prep** | **100%** · **launch d158** |
 
 ## Centadials (every 100 days)
 
@@ -150,7 +194,13 @@ See [summaries/README.md](summaries/README.md).
 | 14 | [week-014.md](weeks/week-014.md) | 92–98 | **Malachite scout** |
 | 15 | [week-015.md](weeks/week-015.md) | 99–105 | **Haul prep + launch + mine** |
 | 16 | [week-016.md](weeks/week-016.md) | 106–112 | Post-haul · smelt · **ROPE-1** · needle |
-| 17 | [week-017.md](weeks/week-017.md) | 113–119 | **LM-1** · **ARCH-1** bow prep |
+| 17 | [week-017.md](weeks/week-017.md) | 113–119 | **LM-1** · knife · **WW prep** · **bow v1** |
+| 18 | [week-018.md](weeks/week-018.md) | 120–126 | **HORIZON** · **H-v2 ante/porch** |
+| 19 | [week-019.md](weeks/week-019.md) | 127–133 | RS-3 · smelt #10 |
+| 20 | [week-020.md](weeks/week-020.md) | 134–140 | **DONKEY-TRIP-1** prep · launch |
+| 21 | [week-021.md](weeks/week-021.md) | 141–147 | **WW-YARD** · sluice · **CAMP-1-INFRA** |
+| 22 | [week-022.md](weeks/week-022.md) | 148–154 | **Donkey Trip 2–3** prep |
+| 23 | [week-023.md](weeks/week-023.md) | 155–161 | **CORRAL-1** · **Trip 4** short pen |
 
 ## Day folders
 
@@ -173,6 +223,12 @@ See [summaries/README.md](summaries/README.md).
 | 15 | [days/week-015/](days/week-015/) |
 | 16 | [days/week-016/](days/week-016/) |
 | 17 | [days/week-017/](days/week-017/) |
+| 18 | [days/week-018/](days/week-018/) |
+| 19 | [days/week-019/](days/week-019/) |
+| 20 | [days/week-020/](days/week-020/) |
+| 21 | [days/week-021/](days/week-021/) |
+| 22 | [days/week-022/](days/week-022/) |
+| 23 | [days/week-023/](days/week-023/) |
 
 ## Years
 

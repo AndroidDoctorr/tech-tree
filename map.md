@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: end of Day 107 (~10,000 BC)*  
+*Last updated: end of Day 122 (~10,000 BC) — quantities in [inventory.md](inventory.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -45,7 +45,7 @@
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
 | **Farm plot** | T-2 | 200 | 10 | Fence **100%** · emmer heads golden |
 | **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **1 kid** · **W-CHAN-1** |
-| **WW-1 (planned)** | T-1 fork ↓ river | **~140** | 10 | **Year 2+** water wheel — **~8 m** fall class to weir |
+| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-YARD-1 ✓** staked · **WW-1 ~30%** build |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees |
 | Grape (P-03) | T-2 | 240 | 12 | Green berries |
 | Olive (P-02) | T-2 west | 400 | 22 | 6+ trees |
@@ -75,9 +75,9 @@
 |--|--|
 | **Footprint** | ~12 m × 8 m terrace |
 | **Respawn** | **H-v2 bed** — moved **Day 84** (was hut v1 Day 10–83) |
-| **Built** | Fire pit, pit kiln, **charcoal pits B-1–B-9** (B-9 banked), store C, piles 1–9, dry shelf, B-1 cache, slaking pit |
+| **Built** | Fire pit, pit kiln, **charcoal pits B-1–B-15** (B-15 banked), store C, piles 1–9, dry shelf, B-1 cache, slaking pit |
 | **Pile 8** | **Empty** — floor stones **on H-v2** (32 total, ~5.15 m²) |
-| **Charcoal store C** | **~53 kg** / ~75 kg cap |
+| **Charcoal store C** | **~22 kg** / ~75 kg cap — see [inventory.md](inventory.md) |
 
 ---
 
@@ -86,7 +86,7 @@
 | Kiln | Status | Notes |
 |------|--------|-------|
 | **Kiln A** | Lime | Trials through **#11**; calcite **~0.9 kg** reserve |
-| **Kiln B** | **Brick factory** | Fire **#27** next; **87** stackable |
+| **Kiln B** | **Brick factory** | **107** stackable · fire **#30** Day 124 · **~112 green** est. |
 | **Kiln C** | **Metal furnace** | Twin bellows; micro-ore partial |
 
 ---
@@ -95,7 +95,7 @@
 
 | | |
 |--|--|
-| **Role** | **Dry store** staging (grain, lime, green brick) |
+| **Role** | **Dry store** — **~1165 g** grain · **~16.5 kg** ore **O-1** · lime · smoke fish |
 | **Keeps** | Wall oven, chimney, sunken frame |
 | **Bed** | **Removed** Day 84 |
 
@@ -131,7 +131,7 @@
 |--|--|
 | **Area** | **~96 m²** — Bed A (grains), Bed B (empty — flax cut Day 80), Bed C (**P-GOAT-1** pen north) |
 | **Fence** | **100%** Day 63 |
-| **Crop** | **~668 g** stored (Rows 1–3); Rows 4–6 ripening |
+| **Crop** | **Harvested** — stubble weeded Day 127; grain in **v1** · **Bed C** open |
 | **P-RETT-1** | Flax **drying** on rack Day 92+ |
 | **Pen P-GOAT-1** | **~12×4 m** · **gate ✓** · **2 kids** · **GH-S1 ✓** |
 | **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 |
@@ -225,6 +225,49 @@
 | 111 | **ROPE-1 ✓** ~52 m; **copper needle v1**; **LM-1** slate |
 | 112 | **Pit B-11**; **LM-1 ~70%** @ W-1; **smelt #5** |
 | 113 | **Week 17**; **LM-1 ✓**; **MK-ribbon**; **ARCH-1**; **W-BOW-1** tag |
+| 114 | **ROPE-1** ~68 m; **WW-WOOD-1** @ pad; **MK-0 v1.1**; smelt **#6** |
+| 115 | **ROPE-1 80 m ✓**; **WW-WOOD ~75%**; band **#3**; smelt **#7**; night **#100** |
+| 116 | **WW-WOOD-1 ✓**; smelt **#8–9**; **CU-KNIFE blank v0** |
+| 117 | **CU-KNIFE v1 ✓**; **GS-1 ~30%** @ WW pad |
+| 118 | **GS-1 ✓**; blunt arrows; **WW-BUSH-1** trial; band **#4** |
+| 119 | **Bow v1**; arrows **×5**; **quiver ~60%**; **HORIZON-Q1** · **Week 17 close** |
+| 120 | **Week 18**; HORIZON sprint — CL-1 · KIT-2 · sinew bow · PM-2 · lyre **~40%** |
+| 121 | **P-vial ✓**; **S-02** resupply; tabard **~40%**; **HORIZON-Q2/LT** |
+| 122 | **Tabard ✓**; **SHOE-2**; heat gloves; coat **~50%** |
+| 123 | **CL-COAT ✓**; **CL-HAT**; **H-v2-ANTE** staked |
+| 124 | **Kiln B #30**; **H-v2-ANTE ~35%**; stackable **107** |
+| 125 | **H-v2-ANTE ~85%** usable; **H-v2-PORCH** staked |
+| 126 | **H-v2-ANTE ✓**; **H-v2-PORCH ~75%**; Kiln **#31** |
+| 127 | **H-v2-PORCH ✓**; farm upkeep; **Week 19** |
+| 128 | **RS-3** prep; route color stripes; tabard whitewash; launch **d129** |
+| 129 | **RS-3 LAUNCH**; **Camp-1**; H-11 yellow fork · D-27 sign refresh |
+| 130 | **M-G1** modest mine **~6.7 kg**; **REST-1** slate; Camp-2 loaded |
+| 131 | Scout forks **M-22·D-27·H-11**; donkey sign **up**; iron bench confirmed; **Camp-1** |
+| 132 | **RS-3 COMPLETE**; home; **O-1 ~23.2 kg**; kid feast both |
+| 133 | **Smelt #10**; **DONKEY-TRIP-1** plan; launch **~d136–138** |
+| 134 | Donkey home/trip SUPER prep; **IRON-1** = **FORGE-D** not Kiln C; launch **~d137** |
+| 135 | **Quarantine pen ✓**; DONKEY kit locked; launch **d137** |
+| 136 | **Evening gate ALL GREEN**; early sleep; **DONKEY-TRIP-1 launch d137** |
+| 137 | **DONKEY-TRIP-1 LAUNCH**; **REST-1** motel #1 @ Camp-1; **D-27** tomorrow |
+| 138 | **D-27** herd **×4** sighted; graze schedule; REST-1 cache used |
+| 139 | **DONKEY-TRIP-1 COMPLETE**; home; prints confirm herd local |
+| 140 | Farm recovery; **WW-MODULAR** slate; **WW-1 ~15%**; Trip 2 planned |
+| 141 | **Week 21**; **smelt #11**; **WW-YARD-1** staked; **WW-1 ~30%** |
+| 142 | **B-16** charcoal; rim **8/8**; berm ✓; **WW-SHED ~25%** |
+| 143 | **WW-SHED ~70%**; rim tune; water spin **PASS**; blower post **d144** |
+| 144 | **BLOWER-POST-1 ✓**; **BELT-RUN-1** trial; **WW-SHED ~90%** |
+| 145 | **WW-BLOWER-1 ✓** mounted; belt-driven draft **PASS** |
+| 146 | **SLUICE-1 full**; **REST-2** staged; **DONKEY-PATH-1**; farm |
+| 147 | **CAMP-1-INFRA**; **REST-2 drop**; tie post · trough · fence |
+| 148 | **Week 22**; homeward; Camp-1 station check; **Donkey Trip 2 GREEN** |
+| 149 | **Smelt #12**; **Donkey Trip 2** prep **100%**; **launch d150** |
+| 150 | **DONKEY Trip 2 LAUNCH**; Camp-1; trough ritual; **D-27 d151** |
+| 152 | **Trip 2 ✓** homeward; **TRIP-QUEUE-1**; haul wood |
+| 153 | **Campus**; **Trip 3** prep ~90%; **SPH-1** scout add |
+| 154 | **Easy** campus; **B-17** open **+~6.2 kg**; **Trip 3 100%** |
+| 155 | **DONKEY Trip 3**; **CORRAL-1** @ D-27; yearling in funnel |
+| 156 | **Trip 3 ✓**; **CORRAL-1 QA**; brief watch; homeward |
+| 157 | **Trip 4 prep 100%**; blindfold strip; **launch d158** |
 
 ---
 
@@ -242,21 +285,31 @@
 
 | Pin | Day 94 | Notes |
 |-----|--------|-------|
-| **H-11** | **~11 km NE** | Red streak cobble — **hematite?** — locate only |
-| **D-27** | **~19 km NE** | **Donkey tracks + dung** (dry) — future pen horizon |
-| **M-22** | **~22 km NE** | Black wadi grit — **weak** magnetite class |
+| **H-11** | **~11 km NE** | **Hematite bench** **~40 m** streak · boot-height face · **sample** Day 131 · **future iron trip** |
+| **D-27** | **~19 km NE** | **Herd ×4** · **CORRAL-1 ✓** Day 155 · yearling **in funnel @ rock ~32 m** |
+| **M-22** | **~22 km NE** | Magnetite grit — **weak→fair** lodestone · **yellow** spike Day 131 |
 | **M-G1** | **~27 km NE** | **Malachite/azurite stain** on cliff — **marked + chip** |
 | **M-G2** | **~27 km NE** (base E of M-G1) | **Strike pin** — talus sample #2 · **no climb zone** |
 
 ---
 
-## Malachite route (*scout Day 94–96 · haul Day 103+*)
+## Route marker colors (*RS-3 — Day 128*)
+
+| Stripe | Route |
+|--------|-------|
+| **White (lime)** | Home · critical turns |
+| **Red (PM-R1)** | **M-G1** corridor |
+| **Yellow (PM-Y1)** | Scout deviation / new probes |
+| **Black** | Water · hazard |
+
+## Malachite route (*scout Day 94–96 · haul Day 103–106 · RS-3 Day 129+*)
 
 | Camp | Distance from home | Notes |
 |------|-------------------|-------|
-| **Camp-1** | **~16 km NE** | **Haul night #1** Day 103 · travois **empty** |
+| **Camp-1** | **~16 km NE** | **REST-1+** — cache · **TIE-POST** · **TROUGH ~5 L** · **FENCE ~8 m** · corridor hub |
 | **Camp-2 / M-G1** | **~27 km NE** | **~16.8 kg ore loaded** Day 104 |
 | **Haul status** | **COMPLETE Day 106** | **~16.8 kg** store **O-1** |
+| **RS-3** | **✓ Day 132** | **~6.7 kg** second cut · **D-27 GREEN** · **H-11 bench** · **4-day** trip |
 | **Return** | **✓ Day 106** | H-v2 respawn reset |
 | **OC-1 ore camp** | **Future** | Lean shelter · cache · **after first smelt** |
 
@@ -272,6 +325,24 @@
 | **Timing** | **Concurrent with / after metal** — needs bearings, flood season rules |
 | **Uses** | Forge blast · spindle · grindstone · **flywheel inertia** · shaft takeoffs |
 | **Design** | Durable · upgrade-able · field-repairable — log before build |
+| **WW-MODULAR** (*Day 140*) | **Hub + GS-1 flywheel** · **quick-release collar(s)** · blower / spindle **belt takeoffs** — swap without rigid single rig |
+| **WW-1 build** | **~75%** Day 146 — **SLUICE-1** full production |
+| **SLUICE-1** | **✓** intake wing · gate · bypass · production spin |
+| **WW-SHED** | **~90%** — tool bay · service gap @ collar |
+| **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** belt-driven twin bag · nozzle → **FORGE** |
+| **WW-YARD-1** | **~140 m** multipurpose workshop — stone markers: **WHEEL · HOUSE · BELT · FORGE · CHAR · ORE · TOOL** |
+
+### WW-YARD-1 layout (*Day 141*)
+
+| Marker | Zone | Future structure |
+|--------|------|------------------|
+| **WHEEL** | Axle / rim | **WW-1** + **GS-1** flywheel |
+| **HOUSE** | 3×4 m | **WW-SHED** — open lean · repair access |
+| **BELT** | Straight line | Wheel → **blower** → **FORGE-D** |
+| **FORGE** | 4×3 m SW | Bloomery · **not** Kiln C |
+| **CHAR / ORE / TOOL** | Flanking | Fuel + feedstock + racks |
+
+**Power path:** water → hub (collars) → belt → blower (mid) → forge. **GS-1 stays on hub** when swapping loads.
 
 ---
 

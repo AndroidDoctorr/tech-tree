@@ -1,24 +1,21 @@
 # Advancements
 
-*Last updated: end of Day 113 (~10,000 BC)*
+*Last updated: end of Day 122 (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md) tracks long-horizon milestones).
 
 ## Summary
 
-**Day 113 / Week 17:** **LM-1 ✓**; **MK-ribbon** first band; **ARCH-1** bow/arrow materials slate.
+**Day 122 / Week 18:** **Tabard ✓** · **SHOE-2 ✓** · **CL-GLOVE-H v0** · **CL-COAT** shell ~50% · pointed arrow practice.
 
-### By the numbers (Day 113)
+### By the numbers (Day 122)
 
 | | |
 |--|--|
-| **Grain store** | **~1165 g** |
-| **Kids** | **2** |
-| **Ore O-1** | **~16.65 kg** |
-| **Copper** | **~7.7 g** class |
-| **Charcoal** | **~23.4 kg** · **B-12** banked |
-| **Textile** | **MK-ribbon** band |
-| **Archery** | **ARCH-1** planned · **W-BOW-1** tagged |
+| **Days** | **~122** |
+| **Outfit** | Breech · tabard · shoes · heat gloves |
+| **Coat** | Shell only — liner d123 |
+| **Archery** | Pointed practice @ berm |
 
 ---
 

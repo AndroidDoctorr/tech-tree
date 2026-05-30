@@ -28,7 +28,7 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 - [x] **Kiln C (~1100°C)** — hot blast test **PASS** Day 57; micro-ore trial #1 **partial** Day 60
 - [x] **Agriculture** — planted; **Year 1 harvest complete** Day 107 (Rows 1–6)
 - [~] **Linen / weave** — **LM-1** Day 113; first band **MK-ribbon**; panels pending
-- [ ] **Bow & arrows** — **ARCH-1** materials Day 113; practice **pending**
+- [~] **Bow & arrows** — **bow v1** + blunt arrows Day 119; sinew string · points **pending**
 
 ## Phase 2 — Metals (the long wall)
 
@@ -36,17 +36,17 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 - [x] **Pottery / crucible** — P-δ v1; **sand heat test PASS** Day 38
 - [ ] **Micro-ore melt** — trial **#1** partial Day 60 (3 prills); trial **#2** **PARTIAL+** Day 100 (**8 prills**, M-G1 chips)
 - [~] **Smelting** — **workable peas** Days 108–112 (haul malachite); **3× repeatable** · button pour **pending**
-- [ ] **Casting / forging** — shape tools, not just nuggets
+- [x] **Casting / forging** — **CU-KNIFE v1** Day 117 (utility blade; not chert-grade)
 - [ ] **Bronze** — tin + copper (sourcing tin is a geography problem)
 - [ ] **Iron** — bloomery; much harder solo than bronze
 - [ ] **Steel** — carbon control; likely needs apprenticeship-level craft time
 
 ## Phase 3 — Power & precision
 
-- [ ] **Mechanical power** — **WW-0** logged Day 93 (T-1 fork ~140 m); forge/spindle/grindstone · **Year 2+**
+- [~] **Mechanical power** — **WW-1 ~65%** · **WW-BLOWER-1 ✓** belt draft · full sluice pending
 - [ ] **Wire drawing** — uniform conductive metal
 - [ ] **Electromagnet** — your stated north star for early EM path
-- [ ] **Chemical battery** — sustained current without hand-crank forever
+- [ ] **Chemical battery** — sustained current without hand-crank forever; **zinc** path via **sphalerite (SPH-1)** scout — voltaic piles **Year 3+**
 - [ ] **Glass optics** — lenses for instruments
 - [ ] **Clocks** — measure time repeatably
 
@@ -72,6 +72,28 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 - [ ] **Genetics** — DNA read/write
 - [ ] **Cloning** — end-state goal
 - [ ] **Rocket / life support** — colonization class
+
+---
+
+## Horizon — shelter & long (*Q2 / LT · Day 121*)
+
+- [x] **H-v2 antechamber + porch** — **✓** Days 126–127
+- [ ] **SHOE-2 · CL-COAT · straw hat · heat gloves**
+- [ ] **BOAT-1 · DONKEY-1 · BARN-1 · AGRI-2**
+- [ ] **IRON-1** — hematite **H-11** · Year 2+
+- [ ] **CU-SAW** — major copper budget
+
+---
+
+## Horizon — comfort & culture (*HORIZON-Q1 · not milestones yet*)
+
+- [ ] **Archery (bow v1)** — stave · string · practice
+- [~] **Clothing set** — breech · tabard · shoes · **coat ✓** · **hat ✓** Day 123 · gloves v0
+- [ ] **KIT-2 redundancy** — duplicate critical tools home + trail
+- [ ] **Expanded storage + pottery line** — PK-1 amphorae / vials
+- [ ] **Trail paint palette** — PM-2 beyond red/white
+- [ ] **Slit visor (OPT-1)** — glare reduction — not modern sunglasses
+- [ ] **Stringed instrument (MUS-1)** — lyre/harp v0
 
 ---
 
