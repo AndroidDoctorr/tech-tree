@@ -165,6 +165,33 @@
 | 155 | [day-155.md](days/week-023/day-155.md) | **Week 23** · **DONKEY Trip 3** | **CORRAL-1** · yearling in funnel |
 | 156 | [day-156.md](days/week-023/day-156.md) | **Trip 3 ✓** homeward | **CORRAL-1 QA** · brief watch |
 | 157 | [day-157.md](days/week-023/day-157.md) | **Trip 4 prep** | **100%** · **launch d158** |
+| 158 | [day-158.md](days/week-023/day-158.md) | **DONKEY Trip 4 LAUNCH** | **SHORT-PEN-1** · lead sniff |
+| 159 | [day-159.md](days/week-023/day-159.md) | **Lead day** | **Loop @ jaw** · **10 steps** · release |
+| 160 | [day-160.md](days/week-023/day-160.md) | **Trip 4 ✓ homeward** | **MOTEL-v2** · **TRIP-5 slate** |
+| 161 | [day-161.md](days/week-023/day-161.md) | **Week 23 close** · **AUTUMN-Q4** | fig scout · B-18 |
+| 162 | [day-162.md](days/week-024/day-162.md) | **FOOD-STORE trials** | **Parched grain** · fig tray · jerky #1 |
+| 163 | [day-163.md](days/week-024/day-163.md) | **DONKEY Trip 5 LAUNCH** | **YEARLING-1** held @ D-27 |
+| 164 | [day-164.md](days/week-024/day-164.md) | **Lead walk** | **D-27 → Camp-1** · **TIE-POST-1** |
+| 165 | [day-165.md](days/week-024/day-165.md) | **Homeward leg 1** | **~8 km** · corridor camp |
+| 166 | [day-166.md](days/week-024/day-166.md) | **Trip 5 ✓** | **YEARLING-1** · quarantine · **HOME** |
+| 167 | [day-167.md](days/week-024/day-167.md) | **Campus rhythm** | quarantine d1 · fig leather · B-19 |
+| 168 | [day-168.md](days/week-024/day-168.md) | **Build day** | **TROUGH-v2 ✓** · flue cap ~60% |
+| 169 | [day-169.md](days/week-025/day-169.md) | **Week 25** · **H-v2 complete** | hypocaust test · **WINTER audit** · FORGE-D |
+| 170 | [day-170.md](days/week-025/day-170.md) | **Wood haul** | **+~30.5 kg** · **120% food/animal touch** |
+| 171 | [day-171.md](days/week-025/day-171.md) | **Factory + rack** | **B-20** · **smoke batch** · **+~19 kg wood** |
+| 172 | [day-172.md](days/week-025/day-172.md) | **Harvest + haul** | **P-01 main** · **wood ~82 kg** |
+| 173 | [day-173.md](days/week-025/day-173.md) | **Forge + heat** | **FORGE-D ~58%** · **hypocaust production** |
+| 174 | [day-174.md](days/week-025/day-174.md) | **Shaft + tuyere** | **lip ✓** · **tuyere fired** · **~75%** |
+| 175 | [day-175.md](days/week-025/day-175.md) | **Factory + rack** | **B-21** · **smoke 120% ✓** |
+| 176 | [day-176.md](days/week-026/day-176.md) | **Week 26** · **Forge lining** | **~85%** · **parched #3 ~530 g** |
+| 177 | [day-177.md](days/week-026/day-177.md) | **Campus upkeep** | **B-22 open** · **charcoal base ✓** |
+| 178 | [day-178.md](days/week-026/day-178.md) | **Forge finish** | **lining ✓** · **shaft cap** · **~93%** |
+| 179 | [day-179.md](days/week-026/day-179.md) | **Blast trial** | **FORGE-D ✓** · **RS-4 planning** |
+| 180 | [day-180.md](days/week-026/day-180.md) | **Release day** | **YEARLING-1** · **parched ~700 g** |
+| 181 | [day-181.md](days/week-026/day-181.md) | **Winter fuel pivot** | **RS-4 optional** · **wood ~89 kg** |
+| 182 | [day-182.md](days/week-026/day-182.md) | **Wood + food** | **~117 kg** · **parched ~1.1 kg** |
+| 183 | [day-183.md](days/week-027/day-183.md) | **Week 27** · **SALT-1** | **S-03 ✓** · **EVAP-1** · brackish haul |
+| 184 | [day-184.md](days/week-027/day-184.md) | **Fuel + watch** | **B-24** · **wood ~130 kg** · **EVAP d1** |
 
 ## Centadials (every 100 days)
 
@@ -200,7 +227,11 @@ See [summaries/README.md](summaries/README.md).
 | 20 | [week-020.md](weeks/week-020.md) | 134–140 | **DONKEY-TRIP-1** prep · launch |
 | 21 | [week-021.md](weeks/week-021.md) | 141–147 | **WW-YARD** · sluice · **CAMP-1-INFRA** |
 | 22 | [week-022.md](weeks/week-022.md) | 148–154 | **Donkey Trip 2–3** prep |
-| 23 | [week-023.md](weeks/week-023.md) | 155–161 | **CORRAL-1** · **Trip 4** short pen |
+| 23 | [week-023.md](weeks/week-023.md) | 155–161 | **Trip 4 ✓** · **AUTUMN-Q4** opens |
+| 24 | [week-024.md](weeks/week-024.md) | 162–168 | **Trip 5 ✓** · quarantine · food trials |
+| 25 | [week-025.md](weeks/week-025.md) | 169–175 | **Winter buffer** · **FORGE-D** · hypocaust |
+| 26 | [week-026.md](weeks/week-026.md) | 176–182 | **Forge ✓** · **release** · **fuel pivot** |
+| 27 | [week-027.md](weeks/week-027.md) | 183–189 | **SALT-1** · **winter fuel** |
 
 ## Day folders
 
@@ -229,6 +260,10 @@ See [summaries/README.md](summaries/README.md).
 | 21 | [days/week-021/](days/week-021/) |
 | 22 | [days/week-022/](days/week-022/) |
 | 23 | [days/week-023/](days/week-023/) |
+| 24 | [days/week-024/](days/week-024/) |
+| 25 | [days/week-025/](days/week-025/) |
+| 26 | [days/week-026/](days/week-026/) |
+| 27 | [days/week-027/](days/week-027/) |
 
 ## Years
 

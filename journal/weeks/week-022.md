@@ -26,4 +26,4 @@ Week twenty-two closes the **Donkey Trip 2** habituation arc (yearling @ bait ro
 
 ---
 
-*Week closed Day 154 — see [week-023.md](week-023.md).*
+*Week closed Day 154 — see [week-023.md](week-023.md) · [week-024.md](week-024.md).*

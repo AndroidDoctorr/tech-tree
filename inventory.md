@@ -1,41 +1,50 @@
 # Inventory
 
-*Last audited: **Day 157** (~10,000 BC)*  
+*Last audited: **Day 184** (~10,000 BC)*  
 *Method: journal through Day 132 + [map.md](map.md) pile layout. **~estimate** = last hard count ± logged burns/consumption.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME** · **DONKEY Trip 4** prep **100%** · **launch Day 158** · respawn **H-v2**
+**Status:** **HOME** · **YEARLING-1 @ HOLDING-1** · **PRI-WINTER-FUEL** · respawn **H-v2**
 
-### DONKEY Trip 4 kit (staging — Day 157)
+### Winter stock snapshot (Day 184)
+
+| Line | Have | Target / 120% | Status |
+|------|------|---------------|--------|
+| **Smoked fish** | **~7.1–7.5 kg** | **~7.2 kg** 120% | **✓ GREEN** |
+| **Parched grain** | **~1.1 kg** | trail/winter stash | **✓ technique + volume** |
+| **Fig leather** | **~530 g** | hoard | **✓** |
+| **Pistachio (hull-on)** | **~5 kg** drying | autumn | **~65% crack** · shell ~Day 185 |
+| **Threshed grain** | **~25 g** (+ **~55 g** elite seed) | vault 120% | **LOW** — calories in parched/fish |
+| **Salt / jerky** | **EVAP-1 d1** | harvest ~Day 186–188 | **crystals forming** · rain watch |
+| **Charcoal Store C** | **~44.4 kg** | **48–60 kg** 120% | **~93%** — B-25 banked |
+| **Wood pile 5** | **~130 kg** | **100+ / ~130 120%** | **✓ GREAT** |
+| **O-1 malachite** | **~23.11 kg** | home smelt | **✓** — no trail needed |
+
+### YEARLING-1 @ HOLDING-1 (Day 180 release)
 
 | Item | Notes |
 |------|--------|
-| **Lead hank ~12 m** | DONKEY tag · **on pack** ✓ |
-| **Blindfold strip** | Linen + hide tie · **new Day 157** |
-| **Treat jar** | **~100%** — weeds + fig + grain |
-| **Haversack** | **~3 days** food — **packed** ✓ |
-| **Waterskins v1+v2** | **~3.2 L** — **filled** ✓ |
-| **FK-1 · RK-1 · MK-0+** | Go-bag |
-| **RS-DONKEY · PM pots** | Trip 4 rules locked |
+| **Location** | **HOLDING-1** ~5×4 m — N of **P-GOAT-1** · goat pen gate **CLOSED** |
+| **Post-release** | **Day 4** (Day 184) — calm |
+| **Lead hank ~12 m** | **~8 m slack** @ holding post |
+| **TROUGH-v2** | **✓** ~4 L @ holding gate W |
+| **Treat jar** | **~95%** @ W-1 |
 
-### Deployed @ D-27 (CORRAL-1 — unattended)
+### SALT-1 @ H-v2 porch (Day 183)
 
 | Item | Notes |
 |------|--------|
-| **80 m rope** | Wings + lip cross · **Trip 4** drops cross |
-| **Corral stakes ×8** | Set · QA **PASS** Day 156 |
+| **EVAP-1 tray** | P-ζ shallow + reed mat — **~60%** volume left · crystals @ edge · **d1** |
+| **Yield proj** | **~80–200 g** salt ~Day 186–188 if dry holds |
 
-### Camp-1 station REST-1+ (~16 km NE) — *unattended when away*
+### Deployed @ D-27 (unattended)
 
-| Item | Qty |
-|------|-----|
-| **Dry wood** | **~5.8 kg** (REST-1 + REST-2) |
-| **Cord · tinder** | **~9 m** · **2** tins |
-| **Water jar** | **~1.2 L** sealed |
-| **TIE-POST-1** | Oak + copper ring @ ~1.1 m |
-| **TROUGH-1** | **~5 L** clay pan · seep refill |
-| **FENCE-1** | **~8 m** wattle holding pen (~4×3 m) |
+| Item | Notes |
+|------|--------|
+| **80 m rope** | CORRAL-1 + SHORT-PEN-1 |
+| **Lead hank** | Lashed @ SHORT-PEN-1 *(spare @ home duplicate ~12 m)* |
+| **Corral stakes ×8** | Set |
 
 **Player on trail:** haversack · waterskins · FK/RK/MK · light travois return
 
@@ -66,7 +75,7 @@
 | Item | Qty | Notes |
 |------|-----|--------|
 | **Bed / respawn** | 1 | NW pad, off hypocaust void |
-| **Hypocaust / shell** | — | ~170 bricks in structure; 32 floor stones ~5.15 m² |
+| **Hypocaust / shell** | — | **Production heat ✓** Day 173 · ~170 bricks in structure |
 | **Slate + maps** | 1 set | PRI-Q3, ARCH-2, HORIZON-Q2/LT, RS markers |
 | **MK-0 medkit** | 1 | Boiled gauze + **MK-ribbon** lash (v1.1) |
 | **Personal basket** | 1 | Odds, tinder, spare cord |
@@ -93,11 +102,15 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Threshed grain** | **~1165 g** | Rows 1–6 harvest; elite seed **~55 g** separate labeled |
+| **Threshed grain** | **~25 g** | batch #6 Day 182 — bulk → parched |
+| **Elite seed** | **~55 g** | separate — not parched |
 | **Malachite ore (O-1)** | **~23.11 kg** | Smelt #12 **−~35 g** Day 149 |
 | **Quicklime (dry)** | **~0.60 kg** | REST-1 Camp-1 **−~0.15 kg** Day 137 |
-| **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class — not dry store long-term |
-| **Smoked fish** | **~0.8–1.2 kg** | Post-haul remainder on rack under eave |
+| **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class |
+| **Parched grain (PARCHED-1)** | **~1.1 kg** | batch #6 Day 182 |
+| **Fig leather (P-12)** | **~530 g** | trays #1–2 complete |
+| **Pistachio (P-01)** | **~5.0 kg** hull-on drying | ~65% hull crack Day 182 |
+| **Smoked fish** | **~7.1–7.5 kg** | **120% ✓** |
 | **Haul tray / labeled grain** | — | **Tray H** empty — merged Day 100 |
 | **Wall oven + chimney** | — | Operational; **not** respawn |
 | **Fired pottery (utility)** | set | P-ζ bowl, P-η dish, P-δ crucible staging, older pots |
@@ -111,9 +124,9 @@
 
 | Location | Qty | Notes |
 |----------|-----|--------|
-| **Store C** (vault) | **~17.7 kg** | B-17 open **+~6.2 kg** Day 154 |
-| **Pit B-18** | **banked** | Light load **~8 kg** wood Day 154 |
-| **Pile 5** (wood)** | **~19–29 kg** | Charcoal-grade oak + fuel sticks (estimate; pile “fat”) |
+| **Store C** (vault) | **~44.4 kg** | B-24 open **+~5.4 kg** Day 184 |
+| **Pit B-25** | **banked** | **~10 kg** oak Day 184 |
+| **Pile 5** (wood)** | **~130 kg** | **+~23.3 kg** haul · −10 B-25 bank Day 184 |
 | **Pit kiln (1 m)** | reusable | Batch charcoal method — not a stock |
 
 *Charcoal audit trail: Day 98 **44.5 kg** after fire #29 → expedition + smelts Days 100–116 → Day 117 **~23.9 kg** → Day 121 pot **−~2 kg** → **~21.9 kg**.*
@@ -215,7 +228,7 @@
 | **Bed C** | **Open** — plan root veg / flax / fallow |
 | **P-RETT-1** | Bundle **1** dry ✓ |
 | **Fence / scare** | **PASS** Day 127 |
-| **Grain (stored)** | **~1165 g** in **hut v1** (not field) |
+| **Grain (stored @ v1)** | **~1.1 kg parched** + **~80 g** seed/thresh | See dry store table |
 
 ---
 
@@ -225,7 +238,9 @@
 |------|--------|
 | **WW-WOOD-1** | **100%** staged — oak billets, willow poles, bushing blocks |
 | **GS-1 grindstone** | **Operational** — on **hub** for flywheel mass (modular) |
-| **WW-1 frame** | **~75%** — **SLUICE-1** full production |
+| **WW-1 frame** | **~82%** | tune Day 173 |
+| **FORGE-D** | **~97% operational** | belt blast trial ✓ Day 179 |
+| **Ore roast bed** | **✓ 100%** | @ FORGE marker E of pad |
 | **WW-SHED** | **~90%** — tool bay · collar service gap |
 | **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** (crank twin bag · clay nozzle) |
 | **Twin bellows (Kiln C)** | **Home** — separate from **WW-BLOWER-1** |
@@ -261,6 +276,6 @@ See [year-001-plan.md](year-001-plan.md) § **HORIZON-Q1 / Q2 / LT** — antecha
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
 | **Clay weigh** | Re-weigh on next clay haul |
-| **Next pit** | **B-16** when store **<~18 kg** |
+| **Next pit** | **B-24** open when store **<~40 kg** or charcoal sprint day |
 
 *Update this file at end of each day that moves stockpiles.*

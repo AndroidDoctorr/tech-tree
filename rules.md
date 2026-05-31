@@ -25,10 +25,20 @@
 | **Literal dead drops** for long journeys | **Yes** — items on person left at location of death (with fall damage etc, if applicable) |
 | **Immortal embryos** for cloning | **Yes** — a clone of me is immortal, too. Gestation might be VERY slow and VERY awkward, and the first few will wake up for the first time with a nonzero death count, but technically valid |
 
+## Emergency multiplayer *(last resort only)*
+
+If the solo speedrun hits a **hard wall** with no clever in-world workaround (tech-tree node that realistically needs more people), the player may invoke:
+
+- **Other "players"** exist — each started in a **different location** worldwide
+- Discovery by **stumble** (not spawn at camp); some may have **already met**
+- Use **only** when stuck — not for convenience or speed
+
+Film concept explores this by default: see [movie/](movie/).
+
 ## World
 
 - **Era:** ~10,000 BC, Orontes valley (near future Antioch)
-- **Humans:** None except player
+- **Humans:** None except player *(see Emergency multiplayer below)*
 - **Assistant:** Handheld device — voice Q&A, no physical crafting
 
 ## Play style

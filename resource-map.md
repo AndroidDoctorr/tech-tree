@@ -72,7 +72,25 @@
 | **W** | Fish weir | 200 m | Daily protein |
 | **F** | Farm plot | 200 m | **~96 m²** beds; fence ~95%; **6 rows ready** |
 | **C** | Circus stake | 520 m | Future city landmark |
-| **S-03** | Marsh edge | 700 m | Giant reeds, waterfowl |
+| **S-03** | Marsh edge | 700 m | Giant reeds, waterfowl · **SALT scout candidate** |
+
+---
+
+## Salt (SALT-1) — **unmapped · priority Day 182+**
+
+*You have **no table salt** yet. Jerky is smoke-only (shorter shelf). AUTUMN-Q4 slate queued **SALT-1** — not started.*
+
+| Option | Dist / time | Effort | Yield class | Notes |
+|--------|-------------|--------|-------------|-------|
+| **A — Marsh / plain scout** | **S-03 ~700 m** · Amuq NW | **✓ Day 183** | **~2.8 L/brackish haul** | **Confirmed** white crust + bitter pan @ reed line. **EVAP-1 @ porch.** Option B seep **marked WNW ~1.1 km** — batch #2 backup. |
+| **B — Saline spring scout** | **Plain W/NW** · unmarked | **½ day probe** | Unknown | [year-001-plan.md](year-001-plan.md): *“scout for saline seeps.”* Follow **mineral taste** / white stain on limestone — not the fresh Orontes (too dilute). |
+| **C — Mediterranean coast** | **~20+ km W** (haze Day 1) | **Multi-day** round trip | High if pans found | Day 1 **salt edge on breeze** — sea not far geologically. Beach / tidal flat **evaporation** or **wash salt** — real volume, not a half-day. |
+| **D — Saltbush (trap bait)** | Local | — | **Not cure salt** | Used @ A-03 goat trap — **animal bait**, not jerky-grade NaCl. |
+| **E — Murex / brackish farm** | Near camp | Year 2+ | — | [day-092](journal/days/week-014/day-092.md): live snails + salt edge + patience — **not Year 1 quick.** |
+
+**Recommended path:** **Option A** tomorrow — **SALT-1 scout** to **S-03 marsh edge** + NW plain skim (**~2–3 hr walk loop**). If brackish confirmed, set **evap pan @ v1 porch** same afternoon. If dry plain only, mark seeps and retry after rain.
+
+**Not salt:** Fresh river water · red seep clay (M-02) · lime pile.
 
 ---
 

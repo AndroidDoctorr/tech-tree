@@ -15,9 +15,23 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [year-001-plan.md](year-001-plan.md) | Year 1 strategy — kilns, bronze path, expeditions |
 | [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
-| [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`; week 4 = days 22+) |
+| [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`) — see **Week numbering** below |
 | [journal/weeks/](journal/weeks/) | Weekly rollups (weeks 1–3 done) |
 | [journal/years/](journal/years/) | Yearly rollups and era notes |
+| [movie/](movie/) | Feature-film concept — alien trial, ensemble players, story circle |
+
+## Week numbering
+
+**One week = seven days.** Week *N* covers days **(N−1)×7 + 1** through **N×7**.
+
+| Week | Days |
+|------|------|
+| 24 | 162–168 |
+| 25 | 169–175 |
+| 26 | 176–182 |
+| 27 | 183–189 |
+
+When advancing the journal, set each day file's **Meta → Week** and folder **`journal/days/week-NNN/`** from this table — not from “days since last week summary.” After moving a day across a week boundary, update [journal/index.md](journal/index.md), the week rollup in [journal/weeks/](journal/weeks/), and close the prior week summary at day *N×7*.
 
 ## Journal entry format
 

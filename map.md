@@ -44,8 +44,8 @@
 | **Retting pool P-RETT-1** | Farm ditch W | **~235** | 14 | **4 flax bundles** soaking |
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
 | **Farm plot** | T-2 | 200 | 10 | Fence **100%** · emmer heads golden |
-| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **1 kid** · **W-CHAN-1** |
-| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-YARD-1 ✓** staked · **WW-1 ~30%** build |
+| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **2 kids** · **YEARLING-1 @ HOLDING-1** Day 180 |
+| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-YARD-1 ✓** · **WW-1 ~82%** · **FORGE-D ~97% ✓** |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees |
 | Grape (P-03) | T-2 | 240 | 12 | Green berries |
 | Olive (P-02) | T-2 west | 400 | 22 | 6+ trees |
@@ -53,7 +53,7 @@
 | **Goat trap A-03** | Gorge E | **~850** | 55+ | **Live-capture mode** Day 79 |
 | Circus stake | T-3 NW | 520 | 32 | Future landmark |
 | Wild fig (P-12) | NW plain | 650 | 38 | ~Aug–Sep ripe |
-| Marsh (S-03) | NW plain | 700 | 42 | Reeds, waterfowl |
+| Marsh (S-03) | NW plain | 700 | 42 | Reeds · **brackish margin ✓ Day 183** |
 | White clay (S-01) | NW plain | 780 | 48 | Pottery R&D |
 | Chert terrace (S-02) | Plain E | 920 | 55 | Best knapping |
 
@@ -111,7 +111,7 @@
 | **Bricks in structure** | **~170** |
 | **Bed** | NW pad — **respawn anchor** |
 | **Door** | W gap **~0.9 m** · reed mat |
-| **Pending** | Flue cap SE; W wall closure above lintel; first hypocaust fire |
+| **Pending** | **First production hypocaust heat** (~Day 172+ cure); mortar cure |
 
 ---
 
@@ -134,6 +134,7 @@
 | **Crop** | **Harvested** — stubble weeded Day 127; grain in **v1** · **Bed C** open |
 | **P-RETT-1** | Flax **drying** on rack Day 92+ |
 | **Pen P-GOAT-1** | **~12×4 m** · **gate ✓** · **2 kids** · **GH-S1 ✓** |
+| **HOLDING-1** | **~5×4 m** N of pen · **YEARLING-1** released Day 180 · goat gate **CLOSED** · **TROUGH-v2 ✓** |
 | **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 |
 
 ---
@@ -268,10 +269,34 @@
 | 155 | **DONKEY Trip 3**; **CORRAL-1** @ D-27; yearling in funnel |
 | 156 | **Trip 3 ✓**; **CORRAL-1 QA**; brief watch; homeward |
 | 157 | **Trip 4 prep 100%**; blindfold strip; **launch d158** |
-
----
-
-## Scout watch list *(RS-1 — any trip)*
+| 158 | **DONKEY Trip 4 LAUNCH**; lip cross down; **SHORT-PEN-1**; yearling sniffed lead |
+| 159 | **Lead @ jaw**; hand treat; **~10 calm steps** inside pen; voluntary release |
+| 160 | **Trip 4 ✓** homeward; **CAMP-1-MOTEL-v2**; **TRIP-5 slate** |
+| 161 | **AUTUMN-Q4** slate; **P-12 fig** harvest; **B-18** open |
+| 162 | **Parched grain PASS**; fig dry tray; fish jerky trial #1 |
+| 163 | **DONKEY Trip 5 LAUNCH**; YEARLING-1 captive @ D-27 |
+| 164 | **D-27 → Camp-1** lead walk; **TIE-POST-1**; trough ritual |
+| 164 | **D-27 → Camp-1** lead walk ~3.1 km; **TIE-POST-1**; trough ritual |
+| 165 | **Camp-1 → corridor** ~8 km; **YEARLING-1** corridor camp · **~8 km to HOME** |
+| 166 | **Trip 5 ✓** · **YEARLING-1 @ quarantine** · **2-week clock** start |
+| 167 | **Quarantine routine**; fig leather ~250 g; **TROUGH-v2 ~40%**; B-19 open |
+| 168 | **TROUGH-v2 ✓**; **H-v2 flue cap ~60%**; P-12 fig tray #2 |
+| 169 | **Hypocaust test ✓**; **WINTER-STOCK-AUDIT GREEN**; **FORGE-D ~35%** |
+| 170 | **Wood +~30.5 kg**; browse 10-day; food scale-up; **P-01** first harvest |
+| 171 | **B-20 open +~5.2 kg**; **B-21 bank**; smoke batch; wood **~58 kg** |
+| 172 | **P-01 main ~5 kg** hull-on; **wood +~24 kg** → **~82 kg (120% ✓)** |
+| 173 | **FORGE-D ~58%**; **production hypocaust ✓**; WW-1 **~82%** |
+| 174 | **Tuyere ✓**; shaft lip **100%**; **FORGE-D ~75%**; wood **~96 kg** |
+| 175 | **B-21 +~5.6 kg**; **B-22 bank**; **smoked fish 120% ✓** |
+| 176 | **FORGE-D lining ~50%**; **~85%** total; **parched ~530 g** |
+| 177 | **B-22 +~5.8 kg**; **B-23 bank**; campus upkeep; charcoal **base ✓** |
+| 178 | **FORGE-D lining ✓**; shaft cap; ore bed **100%**; **~93%** |
+| 179 | **Belt blast trial ✓**; **FORGE-D ~97%**; RS-4 slate filed |
+| 180 | **YEARLING-1 release @ HOLDING-1**; parched **~700 g**; campus upkeep |
+| 181 | **PRI-WINTER-FUEL**; RS-4 kit ~40%; **B-23**; wood **~89 kg** |
+| 182 | **Wood ~117 kg (100+ ✓)**; parched **~1.1 kg**; holding d2 |
+| 183 | **S-03 brackish ✓**; **EVAP-1** porch; plain seep marked WNW |
+| 184 | **B-24 +~5.4 kg**; **B-25 bank**; wood **~130 kg**; EVAP-1 d1 |
 
 | # | Target | On scout |
 |---|--------|----------|
@@ -286,7 +311,7 @@
 | Pin | Day 94 | Notes |
 |-----|--------|-------|
 | **H-11** | **~11 km NE** | **Hematite bench** **~40 m** streak · boot-height face · **sample** Day 131 · **future iron trip** |
-| **D-27** | **~19 km NE** | **Herd ×4** · **CORRAL-1 ✓** Day 155 · yearling **in funnel @ rock ~32 m** |
+| **D-27** | **~19 km NE** | **CORRAL-1 + SHORT-PEN-1** · **YEARLING-1 on corridor march** Day 165 · **~8 km from HOME** |
 | **M-22** | **~22 km NE** | Magnetite grit — **weak→fair** lodestone · **yellow** spike Day 131 |
 | **M-G1** | **~27 km NE** | **Malachite/azurite stain** on cliff — **marked + chip** |
 | **M-G2** | **~27 km NE** (base E of M-G1) | **Strike pin** — talus sample #2 · **no climb zone** |
@@ -306,7 +331,7 @@
 
 | Camp | Distance from home | Notes |
 |------|-------------------|-------|
-| **Camp-1** | **~16 km NE** | **REST-1+** — cache · **TIE-POST** · **TROUGH ~5 L** · **FENCE ~8 m** · corridor hub |
+| **Camp-1** | **~16 km NE** | **REST-1+** · **CAMP-1-MOTEL-v2 ✓** Day 160 · **FENCE-1 ~5×4 m** · **REST-LEAN-1 ~60%** |
 | **Camp-2 / M-G1** | **~27 km NE** | **~16.8 kg ore loaded** Day 104 |
 | **Haul status** | **COMPLETE Day 106** | **~16.8 kg** store **O-1** |
 | **RS-3** | **✓ Day 132** | **~6.7 kg** second cut · **D-27 GREEN** · **H-11 bench** · **4-day** trip |
@@ -326,7 +351,8 @@
 | **Uses** | Forge blast · spindle · grindstone · **flywheel inertia** · shaft takeoffs |
 | **Design** | Durable · upgrade-able · field-repairable — log before build |
 | **WW-MODULAR** (*Day 140*) | **Hub + GS-1 flywheel** · **quick-release collar(s)** · blower / spindle **belt takeoffs** — swap without rigid single rig |
-| **WW-1 build** | **~75%** Day 146 — **SLUICE-1** full production |
+| **WW-1 build** | **~82%** — **SLUICE-1** full · **WW-BLOWER-1** ✓ |
+| **FORGE-D** | **~97% operational** Day 179 — belt blast ✓ · lining + cap ✓ · winter copper/charcoal class |
 | **SLUICE-1** | **✓** intake wing · gate · bypass · production spin |
 | **WW-SHED** | **~90%** — tool bay · service gap @ collar |
 | **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** belt-driven twin bag · nozzle → **FORGE** |
