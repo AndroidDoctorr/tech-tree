@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: end of Day 122 (~10,000 BC) — quantities in [inventory.md](inventory.md)*  
+*Last updated: **Day 200** (~10,000 BC) — quantities in [inventory.md](inventory.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -16,10 +16,12 @@
                                     |                        |
                               [H-v2 HOME]              [Workshop W-1]
                                     |
+                              [C-0 SUN-CAL-1]
+                                    |
               160 m          200 m          400 m
            pistachio ───── farm plot ───── olive slope (P-02)
-                \      P-RETT-1 · P-GOAT-1    |
-                 \    240 m grape tag          |
+                \      Bed D · P-GOAT-1    |
+                 \    P-03 trellis ✓       |
                   \                           |
                    ═══════ 200 m ══════════════╪════ Orontes
                                     |         |
@@ -28,6 +30,8 @@
                          520 m NW [CIRCUS STAKE]
                                     |
                               Amuq plain → W
+                                    |
+                         ~20 km W [COAST-SITE-1 · COAST-BEACON-1]
 ```
 
 ---
@@ -43,13 +47,19 @@
 | Clay bank | T-1 | 90 | 6 | Primary brick clay |
 | **Retting pool P-RETT-1** | Farm ditch W | **~235** | 14 | **4 flax bundles** soaking |
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
-| **Farm plot** | T-2 | 200 | 10 | Fence **100%** · emmer heads golden |
-| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **2 kids** · **YEARLING-1 @ HOLDING-1** Day 180 |
-| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-YARD-1 ✓** · **WW-1 ~82%** · **FORGE-D ~97% ✓** |
-| Pistachio (P-01) | T-2 | 160 | 8 | 4 trees |
-| Grape (P-03) | T-2 | 240 | 12 | **~400 g leather Year 1** · wine Year 2 |
-| Olive (P-02) | T-2 west | 400 | 22 | **Harvest window OPEN** · pick **188–189** |
-| Herbs (P-13–15) | T-1 / T-2 | 180–350 | — | **HERB-1 scout ~Day 188** |
+| **Farm plot** | T-2 | 200 | 10 | **Bed D ✓** · **P-03 trellis ✓** · **SEED-VAULT v0** |
+| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **2 kids** · **YEARLING-1 on COAST-1** Day 200 |
+| **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **BED-D-SEL** · fence **✓** |
+| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **MILLHOUSE-1 Phase 1 ✓** · **WW-1 ~85%** · **FORGE-D ~97%** · boring **6/14** |
+| **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Noon wall + ground track ✓** Day 195 |
+| Pistachio (P-01) | T-2 | 160 | 8 | 4 trees · **~5 kg** hull-on harvest |
+| Grape (P-03) | T-2 | 240 | 12 | **Trellis ✓** · **~680 g leather** · wine Year 2 |
+| Olive (P-02) | T-2 west | 400 | 22 | **Harvest ✓ Days 188–190** · **brine v0 ~2.0 kg** |
+| Herbs (P-13–15) | T-1 / T-2 | 180–350 | — | **HERB-1 ✓** — mint · garlic · coriander dried |
+| **COAST-SITE-1** | **~20 km W** | **~20 km** | **~4 h** | Beach · kelp **M-13** · sand · **M-11 mark** |
+| **COAST-TRAIL-1** | **~8 km W** | **~8 km** | **~1.5 h** | **M-spike #1** + PM-R1 + lime cap |
+| **COAST-BEACON-1** | **~20 km W beach** | **~20 km** | — | Cairn **~1.4 m** + **M-spike #2** · home vector **E** |
+| **COAST-CAMP-1** | Beach E dune | **~20 km W** | — | **Respawn while on COAST-1** · YEARLING tether |
 | Pine resin | N upslope | 150 + 30 climb | 15 | ~8 pines |
 | **Goat trap A-03** | Gorge E | **~850** | 55+ | **Live-capture mode** Day 79 |
 | Circus stake | T-3 NW | 520 | 32 | Future landmark |
@@ -78,7 +88,7 @@
 | **Respawn** | **H-v2 bed** — moved **Day 84** (was hut v1 Day 10–83) |
 | **Built** | Fire pit, pit kiln, **charcoal pits B-1–B-15** (B-15 banked), store C, piles 1–9, dry shelf, B-1 cache, slaking pit |
 | **Pile 8** | **Empty** — floor stones **on H-v2** (32 total, ~5.15 m²) |
-| **Charcoal store C** | **~22 kg** / ~75 kg cap — see [inventory.md](inventory.md) |
+| **Charcoal store C** | **~49.9 kg** / ~75 kg cap — see [inventory.md](inventory.md) |
 
 ---
 
@@ -276,7 +286,6 @@
 | 161 | **AUTUMN-Q4** slate; **P-12 fig** harvest; **B-18** open |
 | 162 | **Parched grain PASS**; fig dry tray; fish jerky trial #1 |
 | 163 | **DONKEY Trip 5 LAUNCH**; YEARLING-1 captive @ D-27 |
-| 164 | **D-27 → Camp-1** lead walk; **TIE-POST-1**; trough ritual |
 | 164 | **D-27 → Camp-1** lead walk ~3.1 km; **TIE-POST-1**; trough ritual |
 | 165 | **Camp-1 → corridor** ~8 km; **YEARLING-1** corridor camp · **~8 km to HOME** |
 | 166 | **Trip 5 ✓** · **YEARLING-1 @ quarantine** · **2-week clock** start |
@@ -298,6 +307,26 @@
 | 182 | **Wood ~117 kg (100+ ✓)**; parched **~1.1 kg**; holding d2 |
 | 183 | **S-03 brackish ✓**; **EVAP-1** porch; plain seep marked WNW |
 | 184 | **B-24 +~5.4 kg**; **B-25 bank**; wood **~130 kg**; EVAP-1 d1 |
+| 185 | **P-01 pistachio ~5 kg**; **P-02 recon ✓**; **JERKY-1 scale** |
+| 186 | **SALT-1 harvest prep**; holding browse stack |
+| 187 | **SALT-1 ✓ ~140 g**; **RS-4 NO**; **AUTUMN-Q5** filed; jerky trial |
+| 188 | **P-02 olive pick**; **HERB-1** mint/garlic/coriander; forge boring #2 |
+| 189 | **P-03 grape leather #2**; **Bed D nursery** start; **LENTIL-1** queued |
+| 190 | **Week 28**; **SUN-CAL-1** sketch; **MILLHOUSE-1** stake; **AGRI-2-Q1** |
+| 191 | **Bed D fence**; **LYE-1** ash leach start |
+| 192 | **P-03 trellis ✓**; **Bed D enclosed** |
+| 193 | **LYE-1 soap-grade ✓**; forge boring #3–#4 |
+| 194 | **QUARTZ-1 local ✓**; **SOAP-1** trial poured |
+| 195 | **SUN-CAL-1 v1 ✓** @ C-0; forge boring #5 |
+| 196 | **Week 28 close**; MILLHOUSE roof mat start; **SOAP-1** curing |
+| 197 | **Week 29** maintenance; holding routine |
+| 198 | **FORGE-D boring #6**; campus fuel audit |
+| 199 | **MILLHOUSE-1 Phase 1 ✓**; **COAST-1 prep**; browse 7-day stack |
+| 200 | **COAST-1 LAUNCHED**; **COAST-BEACON-1 v0**; kelp + sand; **M-11 mark**; **LIGHTHOUSE-1** filed |
+
+---
+
+## NE scout targets
 
 | # | Target | On scout |
 |---|--------|----------|
@@ -352,10 +381,11 @@
 | **Uses** | Forge blast · spindle · grindstone · **flywheel inertia** · shaft takeoffs |
 | **Design** | Durable · upgrade-able · field-repairable — log before build |
 | **WW-MODULAR** (*Day 140*) | **Hub + GS-1 flywheel** · **quick-release collar(s)** · blower / spindle **belt takeoffs** — swap without rigid single rig |
-| **WW-1 build** | **~82%** — **SLUICE-1** full · **WW-BLOWER-1** ✓ |
-| **FORGE-D** | **~97% operational** Day 179 — belt blast ✓ · lining + cap ✓ · winter copper/charcoal class |
+| **WW-1 build** | **~85%** — **SLUICE-1** full · **WW-BLOWER-1** ✓ |
+| **MILLHOUSE-1** | **Phase 1 ✓** Day 199 — open pole frame ~8×6 m · roof mat · Phase 2 forge wall queued |
+| **FORGE-D** | **~97% operational** — boring **6/14** toward iron gate · belt blast ✓ |
 | **SLUICE-1** | **✓** intake wing · gate · bypass · production spin |
-| **WW-SHED** | **~90%** — tool bay · service gap @ collar |
+| **WW-SHED** | **Superseded by MILLHOUSE-1 Phase 1** — belt/wheel clearance maintained |
 | **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** belt-driven twin bag · nozzle → **FORGE** |
 | **WW-YARD-1** | **~140 m** multipurpose workshop — stone markers: **WHEEL · HOUSE · BELT · FORGE · CHAR · ORE · TOOL** |
 
@@ -364,12 +394,27 @@
 | Marker | Zone | Future structure |
 |--------|------|------------------|
 | **WHEEL** | Axle / rim | **WW-1** + **GS-1** flywheel |
-| **HOUSE** | 3×4 m | **WW-SHED** — open lean · repair access |
+| **HOUSE** | 3×4 m | **MILLHOUSE-1 Phase 1 ✓** — open workshop · roof mat |
 | **BELT** | Straight line | Wheel → **blower** → **FORGE-D** |
 | **FORGE** | 4×3 m SW | Bloomery · **not** Kiln C |
 | **CHAR / ORE / TOOL** | Flanking | Fuel + feedstock + racks |
 
 **Power path:** water → hub (collars) → belt → blower (mid) → forge. **GS-1 stays on hub** when swapping loads.
+
+---
+
+## Coast route (*COAST-1 — Day 200 launch*)
+
+| Site | Distance from home | Notes |
+|------|-------------------|-------|
+| **COAST-TRAIL-1** | **~8 km W** | **M-spike #1** + PM-R1 + lime cap — return vector |
+| **COAST-SITE-1** | **~20 km W** | Beach · kelp **M-13** · quartz sand · cliff **M-11** alum mark |
+| **COAST-BEACON-1 v0** | **~20 km W** | Cairn **~1.4 m** + **M-spike #2** + lime/red bands · home vector **E** |
+| **COAST-CAMP-1** | Beach E dune | **Respawn while on trail** · YEARLING-1 tether · kelp drying |
+| **Return** | **~Days 201–202** | Dry kelp · store sand @ v1 · resume **SUN-CAL-1** @ C-0 |
+| **LIGHTHOUSE-1** | Horizon | Permanent nav mark — filed Day 200 · not started |
+
+**Trail doctrine:** M-spikes every **~8 km** · PM-R1 bands · lime caps · home vector marked on beacon.
 
 ---
 

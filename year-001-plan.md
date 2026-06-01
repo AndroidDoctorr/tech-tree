@@ -1,6 +1,6 @@
 # Year 1 strategy (~Days 1–365)
 
-*Last revised: **Day 187** (~10,000 BC). You are **Day 187 / Week 27** — late autumn.*
+*Last revised: **Day 200** (~10,000 BC). You are **Day 200 / Week 29** — **COAST-1 active**.*
 
 **Character:** Immortal solo · Orontes valley (~10,000 BC) · ADHD-parallel projects OK · realism on
 
@@ -783,32 +783,35 @@ Always packed; swap per trip:
 
 | # | Task | Status |
 |---|------|--------|
-| 1 | **SALT-1 harvest** + store in **P-η** | **~Day 187 AM** |
-| 2 | **Jerky trial @ scale** (salt + smoke) | **~Day 187–188** |
-| 3 | **RS-4 go/no-go** | **NO** (default) — revisit **Year 2** or dry spring |
+| 1 | **SALT-1 harvest** + store in **P-η** | **✓ Day 187** |
+| 2 | **Jerky trial @ scale** (salt + smoke) | **✓ ~620 g dry** |
+| 3 | **RS-4 go/no-go** | **NO** — revisit Year 2 |
 
 ### Tier 1 — Days 188–190 (seasonal + quick wins)
 
 | # | Task | Notes |
 |---|------|-------|
-| 4 | **P-02 olive harvest** | **Oct–Nov window** — T-2 **400 m** — fruit + seed selection |
-| 5 | **HERB-1 scout** | **½ day** — **P-13** mint · **P-14** garlic/leek · **P-15** coriander — map + first pick |
-| 6 | **P-03 grape vine check** | **~400 g leather Year 1** (Day ~167) — vine marked **Year 2** wine/vinegar |
+| 4 | **P-02 olive harvest** | **✓ Days 188–190** — brine v0 aging |
+| 5 | **HERB-1 scout** | **✓** — mint · garlic · coriander dried @ v1 |
+| 6 | **P-03 grape vine check** | **✓ trellis Day 192** · **~680 g leather** |
 
 ### Tier 2 — Days 191–210 (process + local chem scout)
 
 | # | Task | Notes |
 |---|------|-------|
-| 7 | **Olive brine v0** + seed bank + press trial | Oil volume = **years**; learn now |
-| 8 | **QUARTZ-1** local scout | **M-10** — OPT-1 + future glass silica |
-| 9 | **PK-1 / STORE-2** | Vials + small amphora for oil / vinegar experiments |
-| 10 | **NITRATE-1** mark-only | **M-12** — no collect Year 1 |
+| 7 | **Olive brine v0** + seed bank + press trial | **✓ brine ~2.0 kg** · **SEED-VAULT v0** |
+| 8 | **QUARTZ-1** local scout | **✓ Day 194** — **~380 g** local + coast sand on trail |
+| 9 | **PK-1 / STORE-2** | Partial — vials in use · amphora queued |
+| 10 | **NITRATE-1** mark-only | **Next** ~Days 201–220 |
+| 10b | **LYE-1 + SOAP-1** | **✓ LYE Day 193** · **SOAP-1 curing** — test ~Day 220 |
+| 10c | **SUN-CAL-1** @ C-0 | **✓ v1 Day 195** |
+| 10d | **MILLHOUSE-1 Phase 1** | **✓ Day 199** |
 
 ### Tier 3 — Before heavy rains / early Year 2
 
 | # | Task | Notes |
 |---|------|-------|
-| 11 | **COAST-1** (2–4 d, donkey) | **M-13** kelp · beach salt · sand · **M-11** alum **mark** |
+| 11 | **COAST-1** (2–4 d, donkey) | **✓ launched Day 200** — kelp · sand · **M-11 mark** · return **201–202** |
 | 12 | **Glass R&D** | Year 2 — soda ash + silica + furnace upgrade |
 | 13 | **Wine → vinegar** | Year 2 — needs **P-03** alcohol first |
 
@@ -817,20 +820,21 @@ Always packed; swap per trip:
 | Item | Why defer |
 |------|-----------|
 | **RS-4** modest ore cut | **O-1** adequate · autumn seasonal work higher ROI |
-| **H-11 iron bench** | Year 2+ |
+| **H-11 iron bench** | **FORGE-D boring 6/14** — bloom trial Year 2 |
+| **Sheep / zinc / potatoes** | **Horizon** — one step at a time after COAST return |
 | **Tin scout** | Year 2+ dedicated trip |
 | **Systematic chemistry** | Year 3+ per tech tree |
 
-### Calendar anchor (from Day 187)
+### Calendar anchor (from Day 187 → **Day 200**)
 
 | Day | Focus |
 |-----|--------|
-| **187** | Salt harvest · RS-4 **NO** · jerky trial start · **AUTUMN-Q5** filed |
-| **188–189** | **P-02** pick · **HERB-1** |
-| **190** | **P-03** check · olive brine start |
-| **191–195** | Jerky scale · olive process · quartz local scout |
-| **200–220** | Nitrate mark scout |
-| **Nov–Dec / spring** | **COAST-1** planning |
+| **187** | Salt harvest · RS-4 **NO** · jerky trial · **AUTUMN-Q5** filed |
+| **188–190** | **P-02 ✓** · **HERB-1 ✓** · **SUN-CAL / MILLHOUSE** stake |
+| **191–196** | **Bed D ✓** · **P-03 trellis ✓** · **LYE-1 ✓** · **QUARTZ-1 ✓** · **SUN-CAL-1 ✓** · **Week 28 close** |
+| **197–199** | **MILLHOUSE-1 Phase 1 ✓** · forge boring #6 · **COAST-1 prep** |
+| **200** | **COAST-1 LAUNCHED** · beacon · kelp · **M-11 mark** · **LIGHTHOUSE-1** filed |
+| **201–203** | COAST return · **NITRATE-1** scout · forge boring #7 · **Week 29 close** |
 
 *Catalog: [resource-map.md](resource-map.md) § **CHEM-1** · [materials-roadmap.md](materials-roadmap.md) § **CHEM-1**.*
 

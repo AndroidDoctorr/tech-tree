@@ -1,55 +1,75 @@
 # Inventory
 
-*Last audited: **Day 187** (~10,000 BC)*  
-*Method: journal through Day 132 + [map.md](map.md) pile layout. **~estimate** = last hard count ± logged burns/consumption.*
+*Last audited: **Day 200** (~10,000 BC)*  
+*Method: journal through Day 200 + [map.md](map.md) pile layout. **~estimate** = last hard count ± logged burns/consumption.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME** · **YEARLING-1 @ HOLDING-1** · **PRI-WINTER-FUEL** · respawn **H-v2**
+**Status:** **COAST-1 active (Day 200)** · **YEARLING-1 on trail** · **kids @ GH-S1** · respawn **COAST-CAMP-1** until **H-v2** sleep again
 
-### Winter stock snapshot (Day 187)
+### Winter stock snapshot (Day 200 — home stores)
 
-| Line | Have | Target / 120% | Status |
-|------|------|---------------|--------|
-| **Smoked fish** | **~7.5–7.6 kg** | **~7.2 kg** 120% | **✓ GREEN** |
-| **Fish jerky (JERKY-1)** | **~380 g** drying | trial → scale | **✓ salt-cure PASS** |
-| **Parched grain** | **~1.1 kg** | trail/winter stash | **✓ technique + volume** |
+| Line | Have @ home | Target / 120% | Status |
+|------|-------------|---------------|--------|
+| **Smoked fish** | **~9.0–9.2 kg** | **~7.2 kg** 120% | **✓ GREEN** |
+| **Fish jerky (JERKY-1)** | **~620 g** dry | scale class | **✓ PASS** |
+| **Parched grain** | **~1.1 kg** | trail/winter stash | **✓ GREEN** |
 | **Fig leather** | **~530 g** | hoard | **✓** |
-| **Grape leather (P-03)** | **~400 g** | Year 1 snack | **✓ ~Day 167** |
+| **Grape leather (P-03)** | **~680 g** class | snack | **✓** (#1 ~400 g + #2 ~280 g) |
 | **Pistachio (kernels)** | **~2.3 kg** | autumn snack | **✓ shelled Day 185** |
-| **Threshed grain** | **~25 g** (+ **~55 g** elite seed) | vault 120% | **LOW** — calories in parched/fish/pistachio |
-| **Salt (SALT-1)** | **~128 g** | jerky + cure | **✓ ~140 g harvested Day 187** |
-| **Charcoal Store C** | **~49.9 kg** | **48–60 kg** 120% | **✓ GREEN** — B-26 banked |
-| **Wood pile 5** | **~129 kg** | **100+ / ~130 120%** | **✓ GREAT** |
-| **O-1 malachite** | **~23.11 kg** | home smelt | **✓** — **RS-4 deferred** |
-| **P-02 olive** | **recon ✓** | pick 188–189 | **window OPEN** |
+| **Salt (SALT-1)** | **~98 g** | jerky + cure + brine | **✓** — **~12 g** in olive brine |
+| **Olive brine v0** | **~2.0 kg** fruit in crock | process learn | **✓ aging** |
+| **Charcoal Store C** | **~49.9 kg** | **48–60 kg** 120% | **✓ GREEN** |
+| **Wood pile 5** | **~128 kg** | **100+ / ~130 120%** | **✓ GREAT** |
+| **O-1 malachite** | **~23.11 kg** | home smelt | **✓** — **RS-4 abandoned** |
+| **SOAP-1** | **~120 g** wet bars curing | cure 2–4 wk | **~** test ~Day 220 |
+| **LYE-1 stock** | **~1.0 L** @ W-1 | SOAP-1 | **✓ soap-grade** |
 
-### YEARLING-1 @ HOLDING-1 (Day 180 release)
-
-| Item | Notes |
-|------|--------|
-| **Location** | **HOLDING-1** ~5×4 m — N of **P-GOAT-1** · goat pen gate **CLOSED** |
-| **Post-release** | **Day 7** (Day 187) — calm |
-| **Lead hank ~12 m** | **~8 m slack** @ holding post |
-| **TROUGH-v2** | **✓** ~4 L @ holding gate W |
-| **Treat jar** | **~95%** @ W-1 |
-
-### SALT-1 (Day 187 harvest)
+### COAST-1 trail pack (Day 200 — with player)
 
 | Item | Notes |
 |------|--------|
-| **Salt stock** | **~128 g** in **P-η** @ v1 dry shelf — batch #1 S-03 · **−~12 g** jerky trial |
-| **EVAP-1 tray** | **Cleared** Day 187 — batch #2 optional if stock thin |
+| **YEARLING-1** | Lead + treat jar · calm |
+| **Kelp (M-13)** | **~1.8 kg** wet — drying @ camp |
+| **Sand sample** | **~2.2 kg** quartz-rich — glass stack |
+| **M-spikes used** | **#1** @ ~8 km W trail · **#2** @ **COAST-BEACON-1** |
+| **M-spikes remain** | **×3** in pack *(×3 @ home go-bag when departed)* |
+| **Rations** | Smoke fish · parched · salt trail · PK-1 pot |
+| **KIT-2** | FK-1 · RK-1 · waterskin · haversack |
+
+### YEARLING-1 (when home @ HOLDING-1)
+
+| Item | Notes |
+|------|--------|
+| **Location** | **HOLDING-1** ~5×4 m — **on COAST-1 Day 200** |
+| **Post-release** | **d20+** when home — calm class |
+| **TROUGH-v2** | **✓** @ holding gate W |
+| **Browse @ home** | **7-day stack** staged Day 199 |
+
+### SALT-1 · brine · herbs
+
+| Item | Notes |
+|------|--------|
+| **Salt stock @ v1** | **~98 g** in **P-η** — jerky + brine use |
+| **P-02 brine crock** | **~2.0 kg** firm olives @ v1 cool shelf |
+| **Herb shelf @ v1** | Mint · coriander · garlic/leek dried · **SEED-VAULT** lines labeled |
+| **TALLOW-1** | **~8 g** remain after SOAP-1 trial |
 
 ### Deployed @ D-27 (unattended)
 
 | Item | Notes |
 |------|--------|
 | **80 m rope** | CORRAL-1 + SHORT-PEN-1 |
-| **Lead hank** | Lashed @ SHORT-PEN-1 *(spare @ home duplicate ~12 m)* |
+| **Lead hank** | Lashed @ SHORT-PEN-1 |
 | **Corral stakes ×8** | Set |
 
-**Player on trail:** haversack · waterskins · FK/RK/MK · light travois return
+### Deployed @ coast (unattended)
+
+| Item | Notes |
+|------|--------|
+| **COAST-BEACON-1 v0** | Cairn **~1.4 m** + **M-spike #2** + lime/red bands · home vector **E** |
+| **M-11 mark** | Char stake + PM-R1 **X** @ cliff **~400 m N** of beach — mark-only |
+| **COAST-TRAIL-1** | **M-spike #1** @ **~8 km W** — PM-R1 + lime cap |
 
 ---
 
@@ -113,7 +133,13 @@
 | **Parched grain (PARCHED-1)** | **~1.1 kg** | batch #6 Day 182 |
 | **Fig leather (P-12)** | **~530 g** | trays #1–2 complete |
 | **Pistachio (P-01)** | **~2.3 kg** kernels | Shelled Day 185 · hulls → pile 6 |
-| **Smoked fish** | **~7.1–7.5 kg** | **120% ✓** |
+| **Smoked fish** | **~9.0–9.2 kg** | **120% ✓** |
+| **Grape leather (P-03)** | **~680 g** | Aug + Day 189 batch |
+| **Herb shelf** | bundles | Mint · coriander · **HERB-1–3** |
+| **SEED-VAULT v0** | labeled jars | Grains · flax · pistachio · **P-02-SEL-1** · **P-03-SEL-1** · herbs |
+| **Olive (P-02)** | brine crock | **~2.0 kg** in brine v0 |
+| **M-10 local** | **~380 g** | **QUARTZ-1** sample tray |
+| **SOAP-1 green** | **~120 g** wet | Curing @ porch — **not for skin yet** |
 | **Haul tray / labeled grain** | — | **Tray H** empty — merged Day 100 |
 | **Wall oven + chimney** | — | Operational; **not** respawn |
 | **Fired pottery (utility)** | set | P-ζ bowl, P-η dish, P-δ crucible staging, older pots |
@@ -184,7 +210,7 @@
 | **Pen treat stash** | **~400 g** weeds · fig · **~150 g** grain — **Trip 2 jar packed** |
 | **Corral stakes (donkey)** | **×8** willow **~1.5 m** @ pile 9 |
 | **Lead hank (DONKEY)** | **~12 m** on Trip 4 pack *(Day 157)* |
-| **M-spikes ×5** | Fired + PM-R1 bands |
+| **M-spikes ×3** | **×2 deployed COAST-1** · **×3 remain @ home go-bag** *(was ×5)* |
 | **Bow drill / FK-1** | Home shelf + pack mirror |
 | **PM-1 paint pot** | PM-R1 red |
 | **PM-BK1 / PM-Y1** | Trial batches Day 120 |
@@ -227,11 +253,14 @@
 | Item | Notes |
 |------|--------|
 | **P-GOAT-1** | **2 kids** · pen **12×4 m** · gate · **GH-S1** · **W-CHAN-1** |
-| **Beds A–B** | **Stubble** — weeded + chaff mulch Day 127 |
-| **Bed C** | **Open** — plan root veg / flax / fallow |
+| **Bed A** | **Stubble** — weeded · scare line maintained |
+| **Bed B** | **Empty** — spring flax/herb split per **AGRI-2-Q1** |
+| **Bed C** | **P-GOAT-1** pen north — unchanged |
+| **Bed D (NEW)** | **~24 m²** S margin — **BED-D-SEL** · fence **✓** · selection nursery |
+| **P-03 trellis** | **✓ 100%** — vines **P-03a/b/c** marked |
 | **P-RETT-1** | Bundle **1** dry ✓ |
-| **Fence / scare** | **PASS** Day 127 |
-| **Grain (stored @ v1)** | **~1.1 kg parched** + **~80 g** seed/thresh | See dry store table |
+| **Fence / scare** | **100%** · Bed D goat-proof **✓** |
+| **Grain (stored @ v1)** | **~1.1 kg parched** + **SEED-VAULT** elite lines | See dry store table |
 
 ---
 
@@ -241,14 +270,15 @@
 |------|--------|
 | **WW-WOOD-1** | **100%** staged — oak billets, willow poles, bushing blocks |
 | **GS-1 grindstone** | **Operational** — on **hub** for flywheel mass (modular) |
-| **WW-1 frame** | **~82%** | tune Day 173 |
-| **FORGE-D** | **~97% operational** | belt blast trial ✓ Day 179 |
+| **WW-1 frame** | **~85%** | spoke tune ongoing |
+| **FORGE-D** | **~97% operational** | boring **6/14** toward iron gate · blast #6 ✓ Day 198 |
+| **MILLHOUSE-1 Phase 1** | **✓ 100%** | Open pole frame · roof mat **HOUSE zone ✓** · Phase 2 forge wall queued |
 | **Ore roast bed** | **✓ 100%** | @ FORGE marker E of pad |
-| **WW-SHED** | **~90%** — tool bay · collar service gap |
-| **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** (crank twin bag · clay nozzle) |
+| **WW-SHED** | **Superseded by MILLHOUSE-1 Phase 1** | belt/wheel clearance maintained |
+| **BLOWER-POST-1** | **✓** + **WW-BLOWER-1** (belt-driven twin bag) |
 | **Twin bellows (Kiln C)** | **Home** — separate from **WW-BLOWER-1** |
-| **WW-YARD-1** | Stone markers — **WHEEL·HOUSE·BELT·FORGE·CHAR·ORE·TOOL** |
-| **Seasoning rule** | No green lash until wood dries |
+| **WW-YARD-1** | Markers — **WHEEL·HOUSE·BELT·FORGE·CHAR·ORE·TOOL** |
+| **LYE-1 pot (P-ζ)** | **Dedicated @ W-1 drain** | **~1.0 L** stock · **LYE ONLY** label |
 
 ---
 
@@ -266,9 +296,18 @@
 
 ---
 
+## C-0 courtyard — SUN-CAL-1 (*Day 195 v1 ✓*)
+
+| Item | Notes |
+|------|--------|
+| **Site** | **S of H-v2** · **~12 m** square axis |
+| **Walls** | Parallel stone/clay **~1.0 m** · sight hole **~15 cm Ø** @ south |
+| **Track** | Ground dots + north-wall **speck** @ noon — **10+ ground · 6+ wall** by Day 199 |
+| **Gnomon** | Center post + portable discipline on trail |
+
 ## Horizon queue (not stored)
 
-See [year-001-plan.md](year-001-plan.md) § **HORIZON-Q1 / Q2 / LT** — antechamber, porch, coat liner, boat, donkey, iron, barn, etc.
+See [year-001-plan.md](year-001-plan.md) · [centadial-002.md](journal/summaries/centadial-002.md) — **iron · sheep · zinc · potatoes · lighthouse · lentil · bronze/tin**
 
 ---
 
@@ -279,6 +318,8 @@ See [year-001-plan.md](year-001-plan.md) § **HORIZON-Q1 / Q2 / LT** — antecha
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
 | **Clay weigh** | Re-weigh on next clay haul |
-| **Next pit** | **B-24** open when store **<~40 kg** or charcoal sprint day |
+| **Next pit** | **B-27** class maintenance when store dips |
+| **COAST return** | Kelp dry · sand · store @ v1 — **Day 201–202** |
+| **Respawn rule** | **COAST-CAMP-1** active while sleeping on trail |
 
 *Update this file at end of each day that moves stockpiles.*

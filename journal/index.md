@@ -195,12 +195,26 @@
 | 185 | [day-185.md](days/week-027/day-185.md) | **Prep close** | **B-25** · **charcoal 120% ✓** · **P-01 shell** · **EVAP d2** |
 | 186 | [day-186.md](days/week-027/day-186.md) | **Watch day** | **EVAP d3** · **smoke batch** · **harvest ~187** |
 | 187 | [day-187.md](days/week-027/day-187.md) | **SALT-1 ✓** | **~140 g salt** · **RS-4 NO** · **AUTUMN-Q5** · **JERKY-1** |
+| 188 | [day-188.md](days/week-027/day-188.md) | **T-2 loop** | **P-02 harvest ✓** · **HERB-1 ✓** · **P-03 grape** · **WW/FORGE tune** · **SHORE-UP-Q1** |
+| 189 | [day-189.md](days/week-027/day-189.md) | **Farm · v1** | **P-02 sort** · **SEED-VAULT v0** · **AGRI-2-Q1** · **Bed D** · **P-03 trellis ~60%** |
+| 190 | [day-190.md](days/week-028/day-190.md) | **Farm · WW-YARD · C-0** | **Week 28 opens** · **Brine v0** · **LYE-1 start** · **SUN-CAL-1** · **MILLHOUSE-1 sketch** |
+| 191 | [day-191.md](days/week-028/day-191.md) | **Farm · T-2 · WW-YARD** | **Bed D fence ✓** · **P-03 trellis ✓** · **FORGE-D boring #3** · **SUN-MARK-191** |
+| 192 | [day-192.md](days/week-028/day-192.md) | **W-1 · C-0** | **LYE-1 soap-grade ✓** · **SUN-CAL south wall ~45%** · **SUN-MARK-192** |
+| 193 | [day-193.md](days/week-028/day-193.md) | **Terrace · T-1 · WW-YARD** | **QUARTZ-1 ✓** · **FORGE-D #4** · **MILLHOUSE-1 ~30%** · **SUN-MARK-193** |
+| 194 | [day-194.md](days/week-028/day-194.md) | **C-0 · W-1 · WW-YARD** | **SUN-CAL sight hole ✓** · **TALLOW-1** · **MILLHOUSE ridge ~55%** · **SUN-SPECK-194** |
+| 195 | [day-195.md](days/week-028/day-195.md) | **W-1 · C-0 · WW-YARD** | **SOAP-1 trial ✓** · **SUN-CAL-1 v1 ✓** · **FORGE-D #5** · **SUN-SPECK-195** |
+| 196 | [day-196.md](days/week-028/day-196.md) | **WW-YARD · campus** | **Week 28 close** · **MILLHOUSE roof ~40%** · **campus audit** · **SUN-MARK-196** |
+| 197 | [day-197.md](days/week-029/day-197.md) | **Week 29 opens** · **WW-YARD** | **MILLHOUSE roof ~75%** · **COAST-1 plan** · **maintenance mode** · **SUN-MARK-197** |
+| 198 | [day-198.md](days/week-029/day-198.md) | **WW-YARD · C-0** | **FORGE-D #6** · **MILLHOUSE ~95%** · **COAST gates green** · **SUN-MARK-198** |
+| 199 | [day-199.md](days/week-029/day-199.md) | **Campus · holding** | **MILLHOUSE Phase 1 ✓** · **COAST-1 prep** · **go/no-go slate** · **SUN-MARK-199** |
+| 200 | [day-200.md](days/week-029/day-200.md) | **COAST-1 · beach** | **LAUNCHED ✓** · **COAST-BEACON-1 v0** · **kelp · sand · M-11 mark** |
 
 ## Centadials (every 100 days)
 
 | Centadial | Days | File |
 |-----------|------|------|
 | **1** | 1–100 | [centadial-001.md](summaries/centadial-001.md) |
+| **2** | 101–200 | [centadial-002.md](summaries/centadial-002.md) |
 
 See [summaries/README.md](summaries/README.md).
 
@@ -235,6 +249,8 @@ See [summaries/README.md](summaries/README.md).
 | 25 | [week-025.md](weeks/week-025.md) | 169–175 | **Winter buffer** · **FORGE-D** · hypocaust |
 | 26 | [week-026.md](weeks/week-026.md) | 176–182 | **Forge ✓** · **release** · **fuel pivot** |
 | 27 | [week-027.md](weeks/week-027.md) | 183–189 | **SALT-1** · **winter fuel** |
+| 28 | [week-028.md](weeks/week-028.md) | 190–196 | **Shore-up** · **chem · calendar · mill frame** |
+| 29 | [week-029.md](weeks/week-029.md) | 197–203 | **Finish · hold · COAST-1** *(in progress)* |
 
 ## Day folders
 
@@ -267,6 +283,8 @@ See [summaries/README.md](summaries/README.md).
 | 25 | [days/week-025/](days/week-025/) |
 | 26 | [days/week-026/](days/week-026/) |
 | 27 | [days/week-027/](days/week-027/) |
+| 28 | [days/week-028/](days/week-028/) |
+| 29 | [days/week-029/](days/week-029/) |
 
 ## Years
 

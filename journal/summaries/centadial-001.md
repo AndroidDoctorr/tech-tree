@@ -111,5 +111,5 @@ Goat pauses, **caligae**, twin bellows, micro-ore trial #1, ore pouch, factory r
 
 ---
 
-*Next centadial: [centadial-002.md](centadial-002.md) at Day 200 (placeholder).*  
+*Next centadial: [centadial-002.md](centadial-002.md) at Day 200.*  
 *Daily index: [index.md](../index.md)*

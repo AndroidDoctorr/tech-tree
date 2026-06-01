@@ -1,7 +1,7 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Stock by location:** [inventory.md](inventory.md) (audited Day 122).
+**Stock by location:** [inventory.md](inventory.md) (audited **Day 200**).
 
 ## Mortar / grout tiers
 
@@ -492,20 +492,55 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 
 *Player pivot: winter calories **GREEN** → **flavor + chemistry feedstock** before hero ore runs.*
 
-| Phase | When | Deliverable | Depends on |
-|-------|------|-------------|------------|
-| **0** | **Days 187–188** | **SALT-1 harvest** · **jerky trial @ scale** | EVAP-1 dry window |
-| **1** | **Days 188–190** | **P-02 olive** pick · **HERB-1** scout (P-13–15) | T-2 loop · holding boring |
-| **2** | **Days 191–195** | Olive brine v0 · seed bank · **P-03** vine check | P-η · dry store |
-| **3** | **Days 195–210** | **QUARTZ-1** local scout · **PK-1** vials/amphora | Terrace · river bar |
-| **4** | **Days 200–220** | **NITRATE-1** mark-only scout | Limestone · manure · cliffs |
-| **5** | **Before rains / spring** | **COAST-1** (2–4 d, donkey) — kelp · beach salt · **M-11** alum mark · sand | Dry window · KIT-2 |
-| **6** | **Year 2** | Wine → vinegar · glass melt trials · nitrate collect | Furnace temp · alcohol |
-| **7** | **Year 3+** | Systematic chemistry · voltaic (zinc path) | [tech-tree.md](tech-tree.md) |
+| Phase | When | Deliverable | Status |
+|-------|------|-------------|--------|
+| **0** | **Days 187–188** | **SALT-1 harvest** · **jerky trial @ scale** | **✓** — salt **~98 g** · jerky **~620 g** |
+| **1** | **Days 188–190** | **P-02 olive** pick · **HERB-1** scout (P-13–15) | **✓** — brine v0 · herbs dried |
+| **2** | **Days 191–195** | Olive brine v0 · **SEED-VAULT** · **P-03 trellis ✓** · **Bed D ✓** | **✓** |
+| **3** | **Days 195–210** | **QUARTZ-1 local ✓** · **LYE-1 ✓** · **SOAP-1** curing | **✓ local** · soap test ~Day 220 |
+| **4** | **Days 200–220** | **NITRATE-1** mark-only scout | **Next** after COAST return |
+| **5** | **Day 200+** | **COAST-1** — kelp · sand · **M-11 mark** | **✓ launched Day 200** · return **201–202** |
+| **6** | **Year 2** | Wine → vinegar · glass melt trials · nitrate collect | Queued |
+| **7** | **Year 3+** | Systematic chemistry · voltaic (**zinc / SPH-1**) | Queued |
 
 **Glass honest stack:** **Silica (M-10)** + **soda (wood/plant ash)** + **furnace > ~1100°C sustained** + **annealing patience** — **not** Year 1 production.
 
 **RS-4:** **Deferred** per AUTUMN-Q5 — **O-1 ~23 kg** covers Year 1 winter smelt.
+
+---
+
+## MILLHOUSE-1 (*Day 190 stake · Phase 1 ✓ Day 199*)
+
+| Phase | Status | Notes |
+|-------|--------|-------|
+| **Phase 1** | **✓ 100%** | Open pole frame **~8×6 m** @ WW yard **HOUSE** zone · roof mat · tool clearance |
+| **Phase 2** | Queued | Forge-adjacent wall · bellows shelter · char bay sight lines |
+| **Doctrine** | Maintenance | Finish before new hero tracks — **Week 29 close ✓** |
+
+---
+
+## COAST-BEACON-1 · LIGHTHOUSE-1 (*Day 200*)
+
+| Item | Status | Notes |
+|------|--------|-------|
+| **COAST-BEACON-1 v0** | **✓ deployed** | Cairn **~1.4 m** + **M-spike #2** + lime/red bands · home vector **E** |
+| **COAST-TRAIL-1** | **✓** | **M-spike #1** @ **~8 km W** |
+| **M-11 alum mark** | **✓ mark-only** | Cliff **~400 m N** of beach — no collect Year 1 |
+| **M-13 kelp** | **On trail** | **~1.8 kg wet** — dry return **Days 201–202** |
+| **LIGHTHOUSE-1** | **Horizon filed** | Permanent nav — after beacon doctrine proven |
+
+---
+
+## Long-horizon queue (*one step at a time — Day 200*)
+
+| Track | Next step | Notes |
+|-------|-----------|-------|
+| **Iron (FORGE-D)** | Boring **7/14** ~Days 201–203 | **H-11** bench Year 2+ · not Kiln C |
+| **Sheep** | Scout hills after COAST return | Year 2 flock — **30–100+ km** |
+| **Zinc (SPH-1)** | Mark on NE scouts | **Voltaic Year 3+** — mark before collect |
+| **Potatoes** | Not in region | **Horizon** — substitute roots Year 2 (turnip class) |
+| **Lentils (LENTIL-1)** | Scout with assistant ID | Queued Day 189 — spring sow candidate |
+| **Donkey flock** | **YEARLING-1** calm @ home | Trip 6+ when pen ready |
 
 ---
 
@@ -521,7 +556,7 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 | **WW-1** | Wheel after wood season — **GS-1 ✓** |
 | **OPT-1 / MUS-1** | Slit visor · lyre v0 — morale |
 | **HORIZON-Q2** | H-v2 ante/porch · **PORCH-CHAIR** (rocking) · SHOE-2 · coat · heat gloves |
-| **HORIZON-LT** | Boat · donkey · iron · barn · AGRI-2 |
+| **HORIZON-LT** | Boat · donkey flock · **iron** · barn · **AGRI-2** · **sheep · zinc · potatoes · lighthouse** |
 
 ---
 
