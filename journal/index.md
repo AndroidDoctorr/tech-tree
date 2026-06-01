@@ -192,6 +192,9 @@
 | 182 | [day-182.md](days/week-026/day-182.md) | **Wood + food** | **~117 kg** · **parched ~1.1 kg** |
 | 183 | [day-183.md](days/week-027/day-183.md) | **Week 27** · **SALT-1** | **S-03 ✓** · **EVAP-1** · brackish haul |
 | 184 | [day-184.md](days/week-027/day-184.md) | **Fuel + watch** | **B-24** · **wood ~130 kg** · **EVAP d1** |
+| 185 | [day-185.md](days/week-027/day-185.md) | **Prep close** | **B-25** · **charcoal 120% ✓** · **P-01 shell** · **EVAP d2** |
+| 186 | [day-186.md](days/week-027/day-186.md) | **Watch day** | **EVAP d3** · **smoke batch** · **harvest ~187** |
+| 187 | [day-187.md](days/week-027/day-187.md) | **SALT-1 ✓** | **~140 g salt** · **RS-4 NO** · **AUTUMN-Q5** · **JERKY-1** |
 
 ## Centadials (every 100 days)
 

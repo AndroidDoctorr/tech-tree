@@ -1,42 +1,45 @@
 # Inventory
 
-*Last audited: **Day 184** (~10,000 BC)*  
+*Last audited: **Day 187** (~10,000 BC)*  
 *Method: journal through Day 132 + [map.md](map.md) pile layout. **~estimate** = last hard count ± logged burns/consumption.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
 **Status:** **HOME** · **YEARLING-1 @ HOLDING-1** · **PRI-WINTER-FUEL** · respawn **H-v2**
 
-### Winter stock snapshot (Day 184)
+### Winter stock snapshot (Day 187)
 
 | Line | Have | Target / 120% | Status |
 |------|------|---------------|--------|
-| **Smoked fish** | **~7.1–7.5 kg** | **~7.2 kg** 120% | **✓ GREEN** |
+| **Smoked fish** | **~7.5–7.6 kg** | **~7.2 kg** 120% | **✓ GREEN** |
+| **Fish jerky (JERKY-1)** | **~380 g** drying | trial → scale | **✓ salt-cure PASS** |
 | **Parched grain** | **~1.1 kg** | trail/winter stash | **✓ technique + volume** |
 | **Fig leather** | **~530 g** | hoard | **✓** |
-| **Pistachio (hull-on)** | **~5 kg** drying | autumn | **~65% crack** · shell ~Day 185 |
-| **Threshed grain** | **~25 g** (+ **~55 g** elite seed) | vault 120% | **LOW** — calories in parched/fish |
-| **Salt / jerky** | **EVAP-1 d1** | harvest ~Day 186–188 | **crystals forming** · rain watch |
-| **Charcoal Store C** | **~44.4 kg** | **48–60 kg** 120% | **~93%** — B-25 banked |
-| **Wood pile 5** | **~130 kg** | **100+ / ~130 120%** | **✓ GREAT** |
-| **O-1 malachite** | **~23.11 kg** | home smelt | **✓** — no trail needed |
+| **Grape leather (P-03)** | **~400 g** | Year 1 snack | **✓ ~Day 167** |
+| **Pistachio (kernels)** | **~2.3 kg** | autumn snack | **✓ shelled Day 185** |
+| **Threshed grain** | **~25 g** (+ **~55 g** elite seed) | vault 120% | **LOW** — calories in parched/fish/pistachio |
+| **Salt (SALT-1)** | **~128 g** | jerky + cure | **✓ ~140 g harvested Day 187** |
+| **Charcoal Store C** | **~49.9 kg** | **48–60 kg** 120% | **✓ GREEN** — B-26 banked |
+| **Wood pile 5** | **~129 kg** | **100+ / ~130 120%** | **✓ GREAT** |
+| **O-1 malachite** | **~23.11 kg** | home smelt | **✓** — **RS-4 deferred** |
+| **P-02 olive** | **recon ✓** | pick 188–189 | **window OPEN** |
 
 ### YEARLING-1 @ HOLDING-1 (Day 180 release)
 
 | Item | Notes |
 |------|--------|
 | **Location** | **HOLDING-1** ~5×4 m — N of **P-GOAT-1** · goat pen gate **CLOSED** |
-| **Post-release** | **Day 4** (Day 184) — calm |
+| **Post-release** | **Day 7** (Day 187) — calm |
 | **Lead hank ~12 m** | **~8 m slack** @ holding post |
 | **TROUGH-v2** | **✓** ~4 L @ holding gate W |
 | **Treat jar** | **~95%** @ W-1 |
 
-### SALT-1 @ H-v2 porch (Day 183)
+### SALT-1 (Day 187 harvest)
 
 | Item | Notes |
 |------|--------|
-| **EVAP-1 tray** | P-ζ shallow + reed mat — **~60%** volume left · crystals @ edge · **d1** |
-| **Yield proj** | **~80–200 g** salt ~Day 186–188 if dry holds |
+| **Salt stock** | **~128 g** in **P-η** @ v1 dry shelf — batch #1 S-03 · **−~12 g** jerky trial |
+| **EVAP-1 tray** | **Cleared** Day 187 — batch #2 optional if stock thin |
 
 ### Deployed @ D-27 (unattended)
 
@@ -109,7 +112,7 @@
 | **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class |
 | **Parched grain (PARCHED-1)** | **~1.1 kg** | batch #6 Day 182 |
 | **Fig leather (P-12)** | **~530 g** | trays #1–2 complete |
-| **Pistachio (P-01)** | **~5.0 kg** hull-on drying | ~65% hull crack Day 182 |
+| **Pistachio (P-01)** | **~2.3 kg** kernels | Shelled Day 185 · hulls → pile 6 |
 | **Smoked fish** | **~7.1–7.5 kg** | **120% ✓** |
 | **Haul tray / labeled grain** | — | **Tray H** empty — merged Day 100 |
 | **Wall oven + chimney** | — | Operational; **not** respawn |
@@ -124,9 +127,9 @@
 
 | Location | Qty | Notes |
 |----------|-----|--------|
-| **Store C** (vault) | **~44.4 kg** | B-24 open **+~5.4 kg** Day 184 |
-| **Pit B-25** | **banked** | **~10 kg** oak Day 184 |
-| **Pile 5** (wood)** | **~130 kg** | **+~23.3 kg** haul · −10 B-25 bank Day 184 |
+| **Store C** (vault) | **~49.9 kg** | B-25 open **+~5.5 kg** Day 185 |
+| **Pit B-26** | **banked** | **~10 kg** oak Day 185 |
+| **Pile 5** (wood)** | **~129 kg** | **+~6.4 kg** touch Day 186 |
 | **Pit kiln (1 m)** | reusable | Batch charcoal method — not a stock |
 
 *Charcoal audit trail: Day 98 **44.5 kg** after fire #29 → expedition + smelts Days 100–116 → Day 117 **~23.9 kg** → Day 121 pot **−~2 kg** → **~21.9 kg**.*

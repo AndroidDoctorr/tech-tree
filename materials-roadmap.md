@@ -488,6 +488,27 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 
 ---
 
+## Chemistry & glass precursors (*CHEM-1 — Day 187+*)
+
+*Player pivot: winter calories **GREEN** → **flavor + chemistry feedstock** before hero ore runs.*
+
+| Phase | When | Deliverable | Depends on |
+|-------|------|-------------|------------|
+| **0** | **Days 187–188** | **SALT-1 harvest** · **jerky trial @ scale** | EVAP-1 dry window |
+| **1** | **Days 188–190** | **P-02 olive** pick · **HERB-1** scout (P-13–15) | T-2 loop · holding boring |
+| **2** | **Days 191–195** | Olive brine v0 · seed bank · **P-03** vine check | P-η · dry store |
+| **3** | **Days 195–210** | **QUARTZ-1** local scout · **PK-1** vials/amphora | Terrace · river bar |
+| **4** | **Days 200–220** | **NITRATE-1** mark-only scout | Limestone · manure · cliffs |
+| **5** | **Before rains / spring** | **COAST-1** (2–4 d, donkey) — kelp · beach salt · **M-11** alum mark · sand | Dry window · KIT-2 |
+| **6** | **Year 2** | Wine → vinegar · glass melt trials · nitrate collect | Furnace temp · alcohol |
+| **7** | **Year 3+** | Systematic chemistry · voltaic (zinc path) | [tech-tree.md](tech-tree.md) |
+
+**Glass honest stack:** **Silica (M-10)** + **soda (wood/plant ash)** + **furnace > ~1100°C sustained** + **annealing patience** — **not** Year 1 production.
+
+**RS-4:** **Deferred** per AUTUMN-Q5 — **O-1 ~23 kg** covers Year 1 winter smelt.
+
+---
+
 ## Horizon queue (*HORIZON-Q1 — see [year-001-plan.md](year-001-plan.md)*)
 
 | Track | Projects |

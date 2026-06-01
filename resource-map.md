@@ -1,7 +1,7 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: end of Day 17 (~10,000 BC)*
+*Last updated: **Day 187** (~10,000 BC)*
 
 **Also see:** [map.md](map.md) (trails, geography) · [inventory.md](inventory.md) (stock on hand)
 
@@ -23,8 +23,12 @@
 | ID | Name | Dist | Location / trail | Season | Intent | Notes |
 |----|------|------|------------------|--------|--------|-------|
 | **P-01** | Wild pistachio (*P. atlantica*) | 160 m | T-2 | Autumn hull | **Eat · Seed** | 4 trees; tags **T-a,b,c** for planting; largest nuts → seed bank |
-| **P-02** | Wild olive (*oleaster*) | 400 m | T-2 end | Oct–Nov fruit | **Watch · Seed** | 6+ scrub trees; oil years away; select largest fruit for seed when ripe |
-| **P-03** | Wild grape | 240 m | T-2 | Late summer | **Eat · Seed** | 1 bush tagged; green Day 13; vine cordage backup |
+| **P-02** | Wild olive (*oleaster*) | 400 m | T-2 end | **Oct–Nov fruit** | **Harvest · Seed** | 6+ scrub trees — **pick Days 188–190** · brine/oil v0 · **AUTUMN-Q5** |
+| **P-03** | Wild grape | 240 m | T-2 | Late summer | **Eat · Seed · Leather** | **~400 g** sun-leather **~Day 167** (light harvest) · vine **Year 2** wine/vinegar |
+| **P-13** | Wild mint (*Mentha* class) | **~180 m** | T-1 reed margin | **Spring–autumn** | **Eat · Dry** | **HERB-1 scout ~Day 188** — wet bank, ditch sun |
+| **P-14** | Wild garlic / leek (*Allium* class) | **~200–350 m** | T-2 ditch · farm shade | **Spring–autumn** | **Eat · Seed** | **HERB-1** — disturbed soil, slope shade |
+| **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1** — plain weed class; seed for Year 2 |
+| **P-16** | Other aromatics (thyme, etc.) | TBD | T-2 loop | — | **Scout** | Mark on **HERB-1** pass — don't over-collect |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
 | **P-05** | Einkorn | 200 m | Bed A R3–4 | Jun | **SOWN · Breed** | **~9 g** Day 16 |
 | **P-06** | Wild barley | 200 m | Bed A R5–6 | Jun | **SOWN · Breed** | **~12 g** Day 16 |
@@ -59,6 +63,29 @@
 | **M-07** | Green copper stain | Camp pile 4 | — | Ore clue | Not smelt-ready |
 | **M-08** | Aleppo pine resin | 150 m + climb N | — | Adhesive | Pitch future |
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
+| **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1** | **OPT-1 · Glass** | **QUARTZ-1 scout ~Days 195–210** — not chert |
+| **M-11** | **Alum** (alunite class) | **Not local** | **COAST-1** · volcanic scout | **Chem · Mordant** | **Mark only Year 1** — don't guess terrace |
+| **M-12** | **Nitrate** (efflorescence) | **Mark only** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-1 scout ~Days 200–220** — Year 2+ collect |
+| **M-13** | **Kelp / seaweed** | **~20+ km W** | **COAST-1** | **Iodine · Ash · Wrap** | Multi-day donkey — before heavy rains or spring |
+
+---
+
+## Chemistry & flavor precursors (*CHEM-1 — Day 187+*)
+
+*See [year-001-plan.md](year-001-plan.md) § **AUTUMN-Q5** · [materials-roadmap.md](materials-roadmap.md) § **CHEM-1**.*
+
+| Track | Year 1 | Year 2+ | Notes |
+|-------|--------|---------|-------|
+| **Salt (SALT-1)** | **✓ harvest ~Day 187** | Scale evap / coast salt | S-03 brackish · porch evap |
+| **Jerky / cure** | **Trial ~Day 187–188** | Scale with salt | Smoke + salt — not smoke-only |
+| **Olive oil (P-02)** | **Fruit + seed + brine v0** | Press · amphora | Oil volume = **years**; learn processing now |
+| **Wine → vinegar (P-03)** | **Leather only Year 1** | Wild ferment · acetobacter | **Vinegar needs alcohol first** |
+| **Glass** | **Scout silica + soda ash** | Furnace > copper routine | Wood/plant ash soda · **M-10** quartz |
+| **Alum (M-11)** | **Mark source** | Purification · mordant | With **COAST-1** |
+| **Nitrates (M-12)** | **Mark source** | Saltpeter collect | Gunpowder class — **Year 2–3** |
+| **Kelp (M-13)** | **COAST-1 haul** | Ash · iodine · wrap | Donkey · dry window |
+
+**RS-4 ore run:** **Deferred** — **O-1 ~23 kg** + **FORGE-D ✓** = campus winter; **AUTUMN-Q5** local harvests first.
 
 ---
 
@@ -76,19 +103,19 @@
 
 ---
 
-## Salt (SALT-1) — **unmapped · priority Day 182+**
+## Salt (SALT-1) — **✓ operational Day 187**
 
-*You have **no table salt** yet. Jerky is smoke-only (shorter shelf). AUTUMN-Q4 slate queued **SALT-1** — not started.*
+*First food-grade salt from **S-03** brackish → **EVAP-1** porch tray (Days 183–187).*
 
 | Option | Dist / time | Effort | Yield class | Notes |
 |--------|-------------|--------|-------------|-------|
-| **A — Marsh / plain scout** | **S-03 ~700 m** · Amuq NW | **✓ Day 183** | **~2.8 L/brackish haul** | **Confirmed** white crust + bitter pan @ reed line. **EVAP-1 @ porch.** Option B seep **marked WNW ~1.1 km** — batch #2 backup. |
+| **A — Marsh / plain scout** | **S-03 ~700 m** · Amuq NW | **✓ Day 183** | **~2.8 L/brackish haul** | **EVAP-1** **✓ harvest ~Day 187** · **~140 g** batch #1 in **P-η** @ v1. Option B seep **marked WNW ~1.1 km** — batch #2 if yield thin. |
 | **B — Saline spring scout** | **Plain W/NW** · unmarked | **½ day probe** | Unknown | [year-001-plan.md](year-001-plan.md): *“scout for saline seeps.”* Follow **mineral taste** / white stain on limestone — not the fresh Orontes (too dilute). |
 | **C — Mediterranean coast** | **~20+ km W** (haze Day 1) | **Multi-day** round trip | High if pans found | Day 1 **salt edge on breeze** — sea not far geologically. Beach / tidal flat **evaporation** or **wash salt** — real volume, not a half-day. |
 | **D — Saltbush (trap bait)** | Local | — | **Not cure salt** | Used @ A-03 goat trap — **animal bait**, not jerky-grade NaCl. |
 | **E — Murex / brackish farm** | Near camp | Year 2+ | — | [day-092](journal/days/week-014/day-092.md): live snails + salt edge + patience — **not Year 1 quick.** |
 
-**Recommended path:** **Option A** tomorrow — **SALT-1 scout** to **S-03 marsh edge** + NW plain skim (**~2–3 hr walk loop**). If brackish confirmed, set **evap pan @ v1 porch** same afternoon. If dry plain only, mark seeps and retry after rain.
+**Batch #2:** Only if winter jerky scale needs more — **Option B** seep or repeat S-03 haul.
 
 **Not salt:** Fresh river water · red seep clay (M-02) · lime pile.
 

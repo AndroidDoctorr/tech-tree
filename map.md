@@ -47,8 +47,9 @@
 | **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **2 kids** · **YEARLING-1 @ HOLDING-1** Day 180 |
 | **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-YARD-1 ✓** · **WW-1 ~82%** · **FORGE-D ~97% ✓** |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees |
-| Grape (P-03) | T-2 | 240 | 12 | Green berries |
-| Olive (P-02) | T-2 west | 400 | 22 | 6+ trees |
+| Grape (P-03) | T-2 | 240 | 12 | **~400 g leather Year 1** · wine Year 2 |
+| Olive (P-02) | T-2 west | 400 | 22 | **Harvest window OPEN** · pick **188–189** |
+| Herbs (P-13–15) | T-1 / T-2 | 180–350 | — | **HERB-1 scout ~Day 188** |
 | Pine resin | N upslope | 150 + 30 climb | 15 | ~8 pines |
 | **Goat trap A-03** | Gorge E | **~850** | 55+ | **Live-capture mode** Day 79 |
 | Circus stake | T-3 NW | 520 | 32 | Future landmark |

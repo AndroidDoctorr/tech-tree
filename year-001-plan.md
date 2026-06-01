@@ -1,6 +1,6 @@
 # Year 1 strategy (~Days 1–365)
 
-*Last revised: end of Day 65 (~10,000 BC). You are **Day 65 / Week 9** — early summer.*
+*Last revised: **Day 187** (~10,000 BC). You are **Day 187 / Week 27** — late autumn.*
 
 **Character:** Immortal solo · Orontes valley (~10,000 BC) · ADHD-parallel projects OK · realism on
 
@@ -770,6 +770,69 @@ Always packed; swap per trip:
 | 8 | **Sheep** — hills | 30–100+ km | Year 2 flock | Coast later |
 
 **Resource myths:** **Hemp** = flax (Bed B). **Apples** = no (fig/grape yes). **Cattle** = aurochs hunt only. **Neodymium** = magnetite weak only — not REE era. **Sphalerite (SPH-1)** = zinc ore — **mark** on NE scouts; **voltaic** needs **refined zinc** + acid/salt couples (**Year 3+**).
+
+---
+
+## AUTUMN-Q5 — flavor + chemistry pivot (*filed Day 187 @ H-v2*)
+
+**Context:** **PRI-WINTER-FUEL** calories **GREEN** (fish · parched · pistachio · fig leather · charcoal · wood). **SALT-1** closes the jerky gap. **RS-4** optional ore touch **deferred** — **O-1 ~23 kg** + **FORGE-D ✓** = campus winter copper.
+
+**Player doctrine:** *Animals and larder first. Local seasonal wins before NE heroics. Chemistry precursors are scouts and marks in Year 1 — not a glass factory yet.*
+
+### Tier 0 — Days 187–188 (finish open loops)
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | **SALT-1 harvest** + store in **P-η** | **~Day 187 AM** |
+| 2 | **Jerky trial @ scale** (salt + smoke) | **~Day 187–188** |
+| 3 | **RS-4 go/no-go** | **NO** (default) — revisit **Year 2** or dry spring |
+
+### Tier 1 — Days 188–190 (seasonal + quick wins)
+
+| # | Task | Notes |
+|---|------|-------|
+| 4 | **P-02 olive harvest** | **Oct–Nov window** — T-2 **400 m** — fruit + seed selection |
+| 5 | **HERB-1 scout** | **½ day** — **P-13** mint · **P-14** garlic/leek · **P-15** coriander — map + first pick |
+| 6 | **P-03 grape vine check** | **~400 g leather Year 1** (Day ~167) — vine marked **Year 2** wine/vinegar |
+
+### Tier 2 — Days 191–210 (process + local chem scout)
+
+| # | Task | Notes |
+|---|------|-------|
+| 7 | **Olive brine v0** + seed bank + press trial | Oil volume = **years**; learn now |
+| 8 | **QUARTZ-1** local scout | **M-10** — OPT-1 + future glass silica |
+| 9 | **PK-1 / STORE-2** | Vials + small amphora for oil / vinegar experiments |
+| 10 | **NITRATE-1** mark-only | **M-12** — no collect Year 1 |
+
+### Tier 3 — Before heavy rains / early Year 2
+
+| # | Task | Notes |
+|---|------|-------|
+| 11 | **COAST-1** (2–4 d, donkey) | **M-13** kelp · beach salt · sand · **M-11** alum **mark** |
+| 12 | **Glass R&D** | Year 2 — soda ash + silica + furnace upgrade |
+| 13 | **Wine → vinegar** | Year 2 — needs **P-03** alcohol first |
+
+### Deferred (explicit)
+
+| Item | Why defer |
+|------|-----------|
+| **RS-4** modest ore cut | **O-1** adequate · autumn seasonal work higher ROI |
+| **H-11 iron bench** | Year 2+ |
+| **Tin scout** | Year 2+ dedicated trip |
+| **Systematic chemistry** | Year 3+ per tech tree |
+
+### Calendar anchor (from Day 187)
+
+| Day | Focus |
+|-----|--------|
+| **187** | Salt harvest · RS-4 **NO** · jerky trial start · **AUTUMN-Q5** filed |
+| **188–189** | **P-02** pick · **HERB-1** |
+| **190** | **P-03** check · olive brine start |
+| **191–195** | Jerky scale · olive process · quartz local scout |
+| **200–220** | Nitrate mark scout |
+| **Nov–Dec / spring** | **COAST-1** planning |
+
+*Catalog: [resource-map.md](resource-map.md) § **CHEM-1** · [materials-roadmap.md](materials-roadmap.md) § **CHEM-1**.*
 
 ---
 
