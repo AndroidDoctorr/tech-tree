@@ -33,6 +33,9 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | 27 | 183–189 |
 | 28 | 190–196 |
 | 29 | 197–203 |
+| 30 | 204–210 |
+| 31 | 211–217 |
+| 32 | 218–224 |
 
 When advancing the journal, set each day file's **Meta → Week** and folder **`journal/days/week-NNN/`** from this table — not from “days since last week summary.” After moving a day across a week boundary, update [journal/index.md](journal/index.md), the week rollup in [journal/weeks/](journal/weeks/), and close the prior week summary at day *N×7*.
 

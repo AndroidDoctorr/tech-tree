@@ -1,7 +1,7 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: **Day 200** (~10,000 BC)*
+*Last updated: **Day 253** (~10,000 BC)*
 
 **Also see:** [map.md](map.md) (trails, geography) · [inventory.md](inventory.md) (stock on hand)
 
@@ -28,8 +28,8 @@
 | **P-13** | Wild mint (*Mentha* class) | **~180 m** | T-1 reed margin | **Spring–autumn** | **Eat · Dry** | **HERB-1 ✓** — dried @ v1 |
 | **P-14** | Wild garlic / leek (*Allium* class) | **~200–350 m** | T-2 ditch · farm shade | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
 | **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
-| **P-17** | Lentil (*Lens* class) | TBD | Plain / farm edge | Spring sow | **Scout · Breed** | **LENTIL-1 queued Day 189** — hard ID without assistant |
-| **P-16** | Other aromatics (thyme, etc.) | TBD | T-2 loop | — | **Scout** | Mark on **HERB-1** pass — don't over-collect |
+| **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓ Day 207** · **~22 g P-17-SEL-1** @ **SEED-VAULT** · spring Bed B trial |
+| **P-16** | Other aromatics (thyme, etc.) | **~350 m** | T-2 olive shade | Spring–autumn | **Eat · Dry** | **P-16a ✓ Day 215** — thyme/marjoram class · modest pick |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
 | **P-05** | Einkorn | 200 m | Bed A R3–4 | Jun | **SOWN · Breed** | **~9 g** Day 16 |
 | **P-06** | Wild barley | 200 m | Bed A R5–6 | Jun | **SOWN · Breed** | **~12 g** Day 16 |
@@ -38,7 +38,7 @@
 | **P-09** | Oak | Camp + slopes | Terrace | Acorns fall | **Material · Eat** | Leach tannins before calories; ash |
 | **P-10** | Willow | 90–200 m | T-1 | Year-round | **Material** | Stakes, lashings C-2 |
 | **P-11** | "Fake rye" (brome/barley) | 200 m | Plain | — | **Ignore** | Don't plant |
-| **P-12** | **Wild fig** | **650 m** | T-3 / T-4 NW | **~Aug–Sep** fruit | **Eat · Seed · Breed** | **PRIORITY.** Green Day 13–14; **collect seeds from best ripe figs**; 2 trees at cluster |
+| **P-12** | **Wild fig** | **650 m** | T-3 / T-4 NW | **~Aug–Sep** fruit | **Eat · Seed · Breed** | **~530 g leather** · **P-12a ✓ marked Day 216** · **FIG-PROP-1** spring cuttings |
 
 ### Fig watch (P-12) — your priority
 
@@ -62,12 +62,12 @@
 | **M-05** | River gravel chert | 200 m | T-1 | Knapping | Backup; lower yield |
 | **M-06** | Limestone | Camp terrace | — | Lime future | Pile 7 |
 | **M-07** | Green copper stain | Camp pile 4 | — | Ore clue | Not smelt-ready |
-| **M-08** | Aleppo pine resin | 150 m + climb N | — | Adhesive | Pitch future |
+| **M-08** | Aleppo pine resin | 150 m + climb N | — | Adhesive | **Pitch ✓** — amphora seal · hafting · **true tar/birch tar = horizon** |
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
-| **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1** | **OPT-1 · Glass** | **QUARTZ-1 ✓ Day 194** — **~380 g** local + **~2.2 kg** coast sand on trail |
-| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1** · volcanic scout | **Chem · Mordant** | **Mark-only ✓ Day 200** — char stake + PM-R1 **X** @ cliff **~400 m N** of beach |
-| **M-12** | **Nitrate** (efflorescence) | **Mark only** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-1 scout ~Days 200–220** — Year 2+ collect |
-| **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓** | **Iodine · Ash · Wrap** | **~1.8 kg wet collected Day 200** — drying @ **COAST-CAMP-1** |
+| **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1 ✓** | **OPT-1 · Glass** | **QUARTZ-1 ✓ Day 194** — **~335 g** local @ v1 + **~2.2 kg** coast sand @ pile 4 |
+| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · volcanic scout | **Chem · Mordant** | **Mark-only ✓ Day 200** — char stake + PM-R1 **X** @ cliff **~400 m N** of beach |
+| **M-12** | **Nitrate** (efflorescence) | **Mark only** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-MARK-1A/1B ✓ Day 203** — Year 2+ collect |
+| **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓ Day 202** | **Iodine · Ash · Wrap** | **~450 g dry** @ v1 shelf — kelp ash Year 2 |
 
 ---
 
@@ -77,17 +77,17 @@
 
 | Track | Year 1 | Year 2+ | Notes |
 |-------|--------|---------|-------|
-| **Salt (SALT-1)** | **✓ harvest Day 187** | Scale evap / coast salt | **~98 g** remain after jerky + brine |
-| **Jerky / cure** | **✓ scale ~Day 188+** | Maintain stock | **~620 g** dry · smoke + salt |
+| **Salt (SALT-1)** | **✓ batch #2 Day 287** | S-03 evap | **~225 g** @ v1 |
+| **Jerky / cure** | **✓ scale ~Day 188+** | Maintain stock | **~600 g** dry · smoke + salt |
 | **Olive oil (P-02)** | **✓ fruit + brine v0** | Press · amphora | **~2.0 kg** in brine crock aging |
 | **Wine → vinegar (P-03)** | **Leather + trellis ✓** | Wild ferment · acetobacter | **Vinegar needs alcohol first** |
-| **Soap (LYE-1)** | **✓ soap-grade Day 193** | Scale batches | **SOAP-1 ~120 g** curing — test ~Day 220 |
+| **Soap (LYE-1)** | **✓ soap-grade Day 193** | Scale batches | **SOAP-1 ~85 g** operational Day 220 |
 | **Glass** | **Quartz + coast sand ✓** | Furnace > copper routine | Wood/plant ash soda · melt Year 2 |
 | **Alum (M-11)** | **✓ mark Day 200** | Purification · mordant | Cliff mark @ **COAST-SITE-1** |
-| **Nitrates (M-12)** | **Mark scout next** | Saltpeter collect | **Days 201–220** when home |
-| **Kelp (M-13)** | **✓ collect Day 200** | Ash · iodine · wrap | **~1.8 kg wet** — return dry **Days 201–202** |
+| **Nitrates (M-12)** | **✓ mark Day 203** | Saltpeter collect | **NITRATE-MARK-1A/1B** filed |
+| **Kelp (M-13)** | **✓ stored Day 202** | Ash · iodine · wrap | **~450 g dry** @ v1 shelf |
 
-**RS-4 ore run:** **Deferred** — **O-1 ~23 kg** + **FORGE-D ✓** = campus winter; **AUTUMN-Q5** local harvests first.
+**RS-4 ore run:** **Deferred** — **O-1 ~6.9 kg** · **copper smelt on hold** · **char ~44 kg banked for iron** · **FORGE-D ✓ IRON-GATE 14/14**.
 
 ---
 
@@ -102,7 +102,7 @@
 | **F** | Farm plot | 200 m | **~96 m²** + **Bed D ~24 m²** · **P-03 trellis ✓** · **SEED-VAULT v0** |
 | **C-0** | **SUN-CAL-1 courtyard** | **~12 m S of H-v2** | Noon wall + ground track **✓ Day 195** |
 | **MH** | **MILLHOUSE-1** | **~140 m** WW yard | **Phase 1 ✓** — open workshop ~8×6 m |
-| **COAST-1** | **Coast route** | **~20 km W** | **Active Day 200** — beacon · kelp · sand · **M-11 mark** |
+| **COAST-1** | **Coast route** | **~20 km W** | **✓ complete Day 202** — beacon · kelp · sand · **M-11 mark** |
 | **C** | Circus stake | 520 m | Future city landmark |
 | **S-03** | Marsh edge | 700 m | Giant reeds, waterfowl · **SALT scout candidate** |
 
@@ -135,7 +135,7 @@
 | **A-03** | Wild goat | 850 m gorge | **Live trap** Day 79 | **Pause #6** drive when kid sign |
 | **A-04** | Night heron | 200 m weir | Competitor | Reset stakes |
 | **A-05** | Fox / partridge | Local | No | Background |
-| **A-06** | **Donkey (wild ass)** | **D-27 ~19 km NE** | **Herd ×4 sighted** | **CORRAL-1 ✓** · **YEARLING-1 lead-trained** · flock = Year 2 |
+| **A-06** | **Donkey (wild ass)** | **D-27 ~19 km NE** | **Herd ×4 sighted** | **CORRAL-1 ✓** · **YEARLING-1 @ HOLDING-1** · flock = Year 2 |
 | **A-07** | **Sheep** (wild) | **Hills 30–100+ km** | **Not scouted** | **Horizon** — one step at a time after coast return |
 
 ---

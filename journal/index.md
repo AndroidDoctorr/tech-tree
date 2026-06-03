@@ -208,6 +208,110 @@
 | 198 | [day-198.md](days/week-029/day-198.md) | **WW-YARD · C-0** | **FORGE-D #6** · **MILLHOUSE ~95%** · **COAST gates green** · **SUN-MARK-198** |
 | 199 | [day-199.md](days/week-029/day-199.md) | **Campus · holding** | **MILLHOUSE Phase 1 ✓** · **COAST-1 prep** · **go/no-go slate** · **SUN-MARK-199** |
 | 200 | [day-200.md](days/week-029/day-200.md) | **COAST-1 · beach** | **LAUNCHED ✓** · **COAST-BEACON-1 v0** · **kelp · sand · M-11 mark** |
+| 201 | [day-201.md](days/week-029/day-201.md) | **COAST-1 return** | **Kelp dry ✓** · **E march ~14 km** · **~6 km from HOME** · **beacon/spike QA** |
+| 202 | [day-202.md](days/week-029/day-202.md) | **HOME** | **COAST-1 ✓** · **haul stored** · **SUN-CAL resume** · **FORGE-D #7** |
+| 203 | [day-203.md](days/week-029/day-203.md) | **Campus · limestone** | **NITRATE-1 mark ✓** · **FORGE-D #8** · **Week 29 close** · **SUN-MARK-203** |
+| 204 | [day-204.md](days/week-030/day-204.md) | **Campus · WW-YARD** | **Week 30 opens** · **maintenance loop** · **FORGE-D #9** · **SUN-MARK-204** |
+| 205 | [day-205.md](days/week-030/day-205.md) | **Campus · holding** | **FORGE-D #10** · **vault/brine/trough** · **SUN-MARK-205** |
+| 206 | [day-206.md](days/week-030/day-206.md) | **Campus · farm** | **FORGE-D #11** · **LENTIL-1 prep** · **SUN-MARK-206** |
+| 207 | [day-207.md](days/week-030/day-207.md) | **Plain NW** | **LENTIL-1 ✓** · **P-17a** · **SEED-VAULT P-17-SEL-1** · **SUN-MARK-207** |
+| 208 | [day-208.md](days/week-030/day-208.md) | **Campus · WW-YARD** | **FORGE-D #12** · **campus loop** · **SUN-MARK-208** |
+| 209 | [day-209.md](days/week-030/day-209.md) | **Campus · holding** | **FORGE-D #13** · **SUN-MARK-209** · **Week 30 close prep** |
+| 210 | [day-210.md](days/week-030/day-210.md) | **WW-YARD · campus** | **FORGE-D #14 · IRON-GATE-1 ✓** · **Week 30 close** · **SUN-MARK-210** |
+| 211 | [day-211.md](days/week-031/day-211.md) | **H-v2 · campus** | **Week 31 opens** · **priorities audit ON TRACK** · **rest day** · **SUN-MARK-211** |
+| 212 | [day-212.md](days/week-031/day-212.md) | **Campus · P-RETT-1** | **flax glance** · **holding boring** · **SUN-MARK-212** |
+| 213 | [day-213.md](days/week-031/day-213.md) | **H-v2 porch** | **MUS-1 string #3** · **rest block ✓** · **SUN-MARK-213** |
+| 214 | [day-214.md](days/week-031/day-214.md) | **v1 · holding** | **STORE-2 touch** · **olive brine ✓** · **name slate** · **SUN-MARK-214** |
+| 215 | [day-215.md](days/week-031/day-215.md) | **T-2 · W-1 · C-0** | **P-16a ✓** · **flax spin ~18 m** · **BLANKET-1 slate** · **SUN-MARK-215** |
+| 216 | [day-216.md](days/week-031/day-216.md) | **v1 · NW fig · WW-YARD** | **STORE-2 ~60%** · **brine ✓** · **P-12a** · **MILLHOUSE Ph2 ~15%** |
+| 217 | [day-217.md](days/week-031/day-217.md) | **v1 · W-1 · WW-YARD** | **STORE-2 ~75%** · **BEDDING-1 strip** · **MILLHOUSE Ph2 ~35%** · **Week 31 close** |
+| 218 | [day-218.md](days/week-032/day-218.md) | **Campus · W-1** | **Week 32 opens** · **SOAP prep** · **~48 m thread** · **SUN-MARK-218** |
+| 219 | [day-219.md](days/week-032/day-219.md) | **W-1 · T-1** | **BEDDING-1-B** · **ROPE-2 ~6 m** · **flax audit** · **SUN-MARK-219** |
+| 220 | [day-220.md](days/week-032/day-220.md) | **W-1 · T-1 · WW-YARD** | **SOAP-1 ✓** · **ROPE-2 ~18 m** · **STORE-2 ~85%** · **MILLHOUSE Ph2 ~55%** · **SUN-MARK-220** |
+| 221 | [day-221.md](days/week-032/day-221.md) | **WW-YARD-1 · C-0** | **MILLHOUSE Ph2 ✓ ~95%** · **bellows shelter · char sight** · **SUN-MARK-221** |
+| 222 | [day-222.md](days/week-032/day-222.md) | **W-1 · campus · C-0** | **BEDDING-1-C ~30 cm** · **spin ~13 m** · **~65 g fiber** · **SUN-MARK-222** |
+| 223 | [day-223.md](days/week-032/day-223.md) | **W-1 · H-v2 · WW-YARD · Kiln C** | **BEDDING-1-D + pad shell** · **SMELT-13 staged** · **SUN-MARK-223** |
+| 224 | [day-224.md](days/week-032/day-224.md) | **Kiln C · farm margin · C-0** | **Smelt #13 ✓ ~22 g** · **straw bundled** · **SUN-MARK-224** |
+| 225 | [day-225.md](days/week-033/day-225.md) | **W-1 · WW-YARD · H-v2** | **Week 33 opens** · **BEDDING-1 ✓** · **BEDROLL-1 v0** · **SUN-MARK-225** |
+| 226 | [day-226.md](days/week-033/day-226.md) | **WW-YARD-1 · C-0** | **TENT-1 v0 ridge lean ✓** · **field camp kit dry PASS** · **SUN-MARK-226** |
+| 227 | [day-227.md](days/week-033/day-227.md) | **Millhouse · W-1 · terrace** | **SMELT-14 staged** · **CU-TOOL slate** · **SUN-MARK-227** |
+| 228 | [day-228.md](days/week-033/day-228.md) | **Kiln C · millhouse · C-0** | **Smelt #14 ✓ ~21 g** · **tongs prep** · **SUN-MARK-228** |
+| 229 | [day-229.md](days/week-033/day-229.md) | **W-1 · char lane · Kiln C** | **CU-FIRE-TONGS-1 ✓** · **char + P-δ tests PASS** · **SUN-MARK-229** |
+| 230 | [day-230.md](days/week-033/day-230.md) | **H-v2 porch · C-0** | **MUS-1 soundbox + pegs ~70%** · **~50 min practice** · **smelt hold** · **SUN-MARK-230** |
+| 231 | [day-231.md](days/week-033/day-231.md) | **Campus · W-1 · Kiln C** | **Week 33 close** · **CU-CHISEL-1 ✓** · **Smelt #15 ✓** · **SUN-MARK-231** |
+| 232 | [day-232.md](days/week-034/day-232.md) | **WW-1 · H-v2 porch · C-0** | **Week 34 opens** · **WW-1 ~88%** · **MUS-1 ~72%** · **SUN-MARK-232** |
+| 233 | [day-233.md](days/week-034/day-233.md) | **Kiln C · millhouse · C-0** | **Smelt #16 ✓ ~20 g** · **~75 g copper** · **SUN-MARK-233** |
+| 234 | [day-234.md](days/week-034/day-234.md) | **Campus · pit B-28** | **char +~7 kg → ~29 kg** · **no smelt** · **SUN-MARK-234** |
+| 235 | [day-235.md](days/week-034/day-235.md) | **Campus · H-v2 porch · C-0** | **MUS-1 ~76%** · **3 phrases** · **CU-SAW slate Day 236** · **SUN-MARK-235** |
+| 236 | [day-236.md](days/week-034/day-236.md) | **W-1 · C-0** | **CU-SAW v0 ✓** · **green willow rip PASS** · **~47 g remain** · **SUN-MARK-236** |
+| 237 | [day-237.md](days/week-034/day-237.md) | **T-2 · H-v2 · v1** | **WINTER-TREE-1 ✓** · **FEAST-237 ✓** · **solstice eve** · **SUN-MARK-237** |
+| 238 | [day-238.md](days/week-034/day-238.md) | **H-v2 · pit lane · C-0** | **YULE-BENCH-1 ✓** · **Pit B-29 ✓** · **leftovers** · **~36 kg char** · **SUN-MARK-238** |
+| 239 | [day-239.md](days/week-035/day-239.md) | **C-0 · pit · Kiln C** | **Week 35 opens** · **SUN-CAL-YEAR ✓** · **Smelt #17 ✓** · **Cal-Y2 D2** · **SUN-MARK-239** |
+| 240 | [day-240.md](days/week-035/day-240.md) | **Campus · pit B-31 · C-0** | **Pit B-31 +~7.2 kg** · **~43 kg char** · **no smelt** · **Cal-Y2 D3** · **SUN-MARK-240** |
+| 241 | [day-241.md](days/week-035/day-241.md) | **Kiln C · millhouse · C-0** | **Smelt #18 ✓ ~20 g** · **~87 g copper** · **Cal-Y2 D4** · **SUN-MARK-241** |
+| 242 | [day-242.md](days/week-035/day-242.md) | **Campus · pit B-32 · C-0** | **Pit B-32 +~7.1 kg** · **~42 kg char** · **no smelt** · **Cal-Y2 D5** · **SUN-MARK-242** |
+| 243 | [day-243.md](days/week-035/day-243.md) | **Kiln C · millhouse · C-0** | **Smelt #19 ✓ ~20 g** · **~107 g copper** · **Cal-Y2 D6** · **SUN-MARK-243** |
+| 244 | [day-244.md](days/week-035/day-244.md) | **Campus · pit · H-v2 porch** | **Pit B-33 +~7 kg** · **MUS-1 ~78%** · **no smelt** · **Cal-Y2 D7** · **SUN-MARK-244** |
+| 245 | [day-245.md](days/week-035/day-245.md) | **Kiln C · millhouse · C-0** | **Week 35 close** · **Smelt #20 ✓** · **block ✓ ~127 g** · **Cal-Y2 D8** · **SUN-MARK-245** |
+| 246 | [day-246.md](days/week-036/day-246.md) | **Campus · pit B-34 · v1** | **Week 36 opens** · **Pit B-34 +~7.2 kg** · **~40 kg char** · **consolidate slate** · **Cal-Y2 D9** · **SUN-MARK-246** |
+| 247 | [day-247.md](days/week-036/day-247.md) | **W-1 · Bed B · C-0** | **CU-HOE-1 ✓** · **Bed B scratch PASS** · **~105 g copper** · **Cal-Y2 D10** · **SUN-MARK-247** |
+| 248 | [day-248.md](days/week-036/day-248.md) | **W-1 north bay · C-0** | **CL-APRON-FORGE-1 ~40%** · **indoor leather** · **pit deferred** · **Cal-Y2 D11** · **SUN-MARK-248** |
+| 249 | [day-249.md](days/week-036/day-249.md) | **W-1 · pit B-35 · C-0** | **CL-APRON-FORGE-1 ✓** · **Pit B-35 +~7.1 kg** · **~46 kg char** · **Cal-Y2 D12** · **SUN-MARK-249** |
+| 250 | [day-250.md](days/week-036/day-250.md) | **W-1 · campus · C-0** | **OPT-1-FORGE ✓** · **smoked quartz slit** · **Cal-Y2 D13** · **SUN-MARK-250** |
+| 251 | [day-251.md](days/week-036/day-251.md) | **W-1 · Kiln C pad · C-0** | **CL-GLOVE-H v1 ✓** · **dual-grip PASS** · **Cal-Y2 D14** · **SUN-MARK-251** |
+| 252 | [day-252.md](days/week-036/day-252.md) | **W-1 · millhouse · C-0** | **Week 36 close** · **CU-FORGE-TONGS-1 ✓** · **FORGE-PPE-1 ✓** · **Cal-Y2 D15** · **SUN-MARK-252** |
+| 253 | [day-253.md](days/week-037/day-253.md) | **Farm Bed B · T-2 · C-0** | **Week 37 opens** · **Bed B full scratch ✓** · **SPRING-PREP-253** · **Cal-Y2 D16** · **SUN-MARK-253** |
+| 254 | [day-254.md](days/week-037/day-254.md) | **v1 · T-1 · camp · C-0** | **STORE-2 ~88% ✓** · **ROPE-2 ~40 m ✓** · **wood +~9 kg** · **Cal-Y2 D17** · **SUN-MARK-254** |
+| 255 | [day-255.md](days/week-037/day-255.md) | **Pit lane · H-v2 porch · C-0** | **Pit B-37 ✓ ~51 kg char** · **MUS-1 ~82% v0 frame** · **Cal-Y2 D18** · **SUN-MARK-255** |
+| 256 | [day-256.md](days/week-037/day-256.md) | **W-1 · v1 oven · C-0** | **TOWEL-1 v0 ✓** · **TEXTILE-R&D-256** · **Cal-Y2 D19** · **SUN-MARK-256** |
+| 257 | [day-257.md](days/week-037/day-257.md) | **Campus · W-1 · C-0** | **HACKLE-v0 ✓** · **LINEN-FULL-2** · **campus maintenance** · **Cal-Y2 D20** · **SUN-MARK-257** |
+| 258 | [day-258.md](days/week-037/day-258.md) | **W-1 · H-v2 porch · C-0** | **LINEN-LINE-1 trial ✓** · **~10 m line spin** · **Cal-Y2 D21** · **SUN-MARK-258** |
+| 259 | [day-259.md](days/week-037/day-259.md) | **Pit lane · campus · C-0** | **Pit B-38 ✓ ~58 kg char** · **campus maintenance** · **Cal-Y2 D22** · **SUN-MARK-259** |
+| 260 | [day-260.md](days/week-038/day-260.md) | **Pit lane · T-1 · C-0** | **Week 38 opens** · **CHAR-HOARD-38** · **~65 kg char** · **wood +~15 kg** · **Cal-Y2 D23** · **SUN-MARK-260** |
+| 261 | [day-261.md](days/week-038/day-261.md) | **Pit lane · T-1 · C-0** | **Pit B-40 ✓ ~72 kg char** · **CHAR-HOARD met** · **wood +~10 kg** · **Cal-Y2 D24** · **SUN-MARK-261** |
+| 262 | [day-262.md](days/week-038/day-262.md) | **Pit · T-1 · millhouse · C-0** | **Vault CAP ~75 kg** · **wood ~71 kg** · **FUEL-R&D-262** · **Cal-Y2 D25** · **SUN-MARK-262** |
+| 263 | [day-263.md](days/week-038/day-263.md) | **v1 · WW-YARD · T-1 · C-0** | **STORE-3 + MILLHOUSE-3 staked** · **TILE-ROOF-R&D** · **wood ~78 kg** · **Cal-Y2 D26** · **SUN-MARK-263** |
+| 264 | [day-264.md](days/week-038/day-264.md) | **Kiln yard · pile 1 · C-0** | **TILE-PRESS-1 ✓ 7 green** · **form + lap mock** · **TILE-FIRE-1 queued** · **Cal-Y2 D27** · **SUN-MARK-264** |
+| 265 | [day-265.md](days/week-038/day-265.md) | **Kiln yard · campus · C-0** | **TILE-FIRE-1 ✓ 5 fired** · **campus maintenance** · **TILE-MOCK-1 queued** · **Cal-Y2 D28** · **SUN-MARK-265** |
+| 266 | [day-266.md](days/week-038/day-266.md) | **Kiln yard · C-0** | **TILE-MOCK-1 ✓ PASS** · **pot rain sim** · **T7 butt thicken** · **Cal-Y2 D29** · **SUN-MARK-266** |
+| 267 | [day-267.md](days/week-039/day-267.md) | **v1 east · campus · C-0** | **Week 39 opens** · **STORE-3 ~30%** posts + sill · **campus ✓** · **Cal-Y2 D30** · **SUN-MARK-267** |
+| 268 | [day-268.md](days/week-039/day-268.md) | **v1 east · pile 1 · C-0** | **STORE-3 wattle ✓** · **lintel · daub ~55%** · **Cal-Y2 D31** · **SUN-MARK-268** |
+| 269 | [day-269.md](days/week-039/day-269.md) | **Kiln yard · H-v2 · C-0** | **TILE-BED-1 ✓** · **TILE-FIRE-2 T7 ✓** · **6 fired** · **Cal-Y2 D32** · **SUN-MARK-269** |
+| 270 | [day-270.md](days/week-039/day-270.md) | **Kiln yard · pile 1 · C-0** | **TILE-PRESS-2 ✓ 7 green** · **13 tiles total** · **Cal-Y2 D33** · **SUN-MARK-270** |
+| 271 | [day-271.md](days/week-039/day-271.md) | **Kiln yard · v1 east · C-0** | **TILE-FIRE-3 5/6 · 11 fired** · **STORE-3 ridge ~72%** · **Cal-Y2 D34** · **SUN-MARK-271** |
+| 272 | [day-272.md](days/week-039/day-272.md) | **v1 east · pile 2 · C-0** | **STORE-3 ✓ operational** · **thatch · shelves** · **Cal-Y2 D35** · **SUN-MARK-272** |
+| 273 | [day-273.md](days/week-039/day-273.md) | **T-1 · kiln yard · C-0** | **TILE-PRESS-3 · FIRE-4 ✓** · **20 tiles** · **Cal-Y2 D36** · **SUN-MARK-273** |
+| 274 | [day-274.md](days/week-040/day-274.md) | **WW-YARD · H-v2 · C-0** | **Week 40 opens** · **MILLHOUSE-3 ~35%** · **CHAR/TILE doctrine** · **Cal-Y2 D37** · **SUN-MARK-274** |
+| 275 | [day-275.md](days/week-040/day-275.md) | **Kiln yard · WW-YARD · C-0** | **TILE-FIRE-5 6/6 ✓ · TILE-PAUSE** · **MILLHOUSE ~58%** · **Cal-Y2 D38** · **SUN-MARK-275** |
+| 276 | [day-276.md](days/week-040/day-276.md) | **WW-YARD · pile 2 · C-0** | **MILLHOUSE-3 thatch ✓ ~85%** · **north bay live** · **Cal-Y2 D39** · **SUN-MARK-276** |
+| 277 | [day-277.md](days/week-040/day-277.md) | **Farm · WW-YARD · H-v2 · C-0** | **SPRING-PREP touch** · **MILLHOUSE ~95%** · **MUS-1 ~86%** · **Cal-Y2 D40** · **SUN-MARK-277** |
+| 278 | [day-278.md](days/week-040/day-278.md) | **WW-YARD · camp · H-v2 · C-0** | **MILLHOUSE-3 ✓ 100%** · **CHAR @ forge** · **WORKBENCH-1 ~25%** · **Cal-Y2 D41** · **SUN-MARK-278** |
+| 279 | [day-279.md](days/week-040/day-279.md) | **WW-YARD · pile 5 · C-0** | **WORKBENCH-1 ✓** · **FORGE district complete** · **Cal-Y2 D42** · **SUN-MARK-279** |
+| 280 | [day-280.md](days/week-040/day-280.md) | **Farm · WW-YARD · H-v2 · C-0** | **SPRING-PREP touch** · **MILLHOUSE-SHELF-1 ~25%** · **Week 40 close** · **Cal-Y2 D43** · **SUN-MARK-280** |
+| 281 | [day-281.md](days/week-041/day-281.md) | **WW-YARD · H-v2 · C-0** | **Week 41 opens light** · **SHELF-1 ~90%** · **MUS-1 ~90%** · **Cal-Y2 D44** · **SUN-MARK-281** |
+| 282 | [day-282.md](days/week-041/day-282.md) | **Campus · WW-YARD · farm · C-0** | **SHELF-1 ✓** · **campus chore loop** · **Cal-Y2 D45** · **SUN-MARK-282** |
+| 283 | [day-283.md](days/week-041/day-283.md) | **Farm · W-1 · H-v2 · C-0** | **spring touch · LM-1 check · MUS-1 ~92%** · **Cal-Y2 D46** · **SUN-MARK-283** |
+| 284 | [day-284.md](days/week-041/day-284.md) | **S-03 · H-v2 porch · W-1** | **SALT-2 haul · EVAP-2 · MEASURE-1 start** · **Cal-Y2 D47** · **SUN-MARK-284** |
+| 285 | [day-285.md](days/week-041/day-285.md) | **H-v2 porch · W-1 · C-0** | **EVAP-2 d1 · MASS-STONE 1/2×/5× · RULE-1** · **Cal-Y2 D48** · **SUN-MARK-285** |
+| 286 | [day-286.md](days/week-041/day-286.md) | **W-1 · H-v2 porch · C-0** | **BALANCE-1 ✓ · MEASURE ~75%** · **EVAP-2 d2** · **Cal-Y2 D49** · **SUN-MARK-286** |
+| 287 | [day-287.md](days/week-041/day-287.md) | **H-v2 porch · v1 · W-1** | **SALT-2 ✓ · MEASURE-1 ✓ · Week 41 close** · **Cal-Y2 D50** · **SUN-MARK-287** |
+| 288 | [day-288.md](days/week-042/day-288.md) | **T-2 · kiln yard · v1** | **KELP-ASH-1 ✓ · T-2 farm brush** · **Cal-Y2 D51** · **SUN-MARK-288** |
+| 289 | [day-289.md](days/week-042/day-289.md) | **WW-1 pad · WW-YARD** | **WW ~93% · GRIND-TAKEOFF ~20%** · **plan 2/7** · **Cal-Y2 D52** · **SUN-MARK-289** |
+| 290 | [day-290.md](days/week-042/day-290.md) | **pile 2 · v1 oven · W-1** | **ROPE ~52 m · TALLOW ~180 g** · **plan 3/7** · **Cal-Y2 D53** · **SUN-MARK-290** |
+| 291 | [day-291.md](days/week-042/day-291.md) | **WW-1 pad · WW-YARD** | **WW ~96% · GRIND belt live ~65%** · **plan 4/7** · **Cal-Y2 D54** · **SUN-MARK-291** |
+| 292 | [day-292.md](days/week-042/day-292.md) | **pit lane · campus** | **B-42 maintenance · char ~82.5 kg** · **plan 5/7** · **Cal-Y2 D55** · **SUN-MARK-292** |
+| 293 | [day-293.md](days/week-042/day-293.md) | **T-2 · WW-1 pad** | **TRAIL-CACHE-1 ✓ · rim 7/8 · WW ~97%** · **plan 6/7** · **Cal-Y2 D56** · **SUN-MARK-293** |
+| 294 | [day-294.md](days/week-042/day-294.md) | **WW-1 pad · campus** | **rim 8/8 ✓ · Week 42 close** · **GRIND ~75%** · **Cal-Y2 D57** · **SUN-MARK-294** |
+| 295 | [day-295.md](days/week-043/day-295.md) | **WW-1 pad · SLUICE-1** | **FLOOD-SPIN-1 ✓ · WW 100% · GRIND flood ~95%** · **Week 43 opens** · **Cal-Y2 D58** · **SUN-MARK-295** |
+| 296 | [day-296.md](days/week-043/day-296.md) | **campus · pit · H-v2** | **CERAMICS-FACTORY · B-43 · AMPHORA ~10%** · **Cal-Y2 D59** · **SUN-MARK-296** |
+| 297 | [day-297.md](days/week-043/day-297.md) | **pit lane · kiln yard** | **B-43 bank · TILE-PRESS-6 4G** · **Cal-Y2 D60** · **SUN-MARK-297** |
+| 298 | [day-298.md](days/week-043/day-298.md) | **pit lane · kiln yard** | **B-44 bank · TILE-PRESS-7 4G** · **Cal-Y2 D61** · **SUN-MARK-298** |
+| 299 | [day-299.md](days/week-043/day-299.md) | **kiln yard · T-1** | **TILE-FIRE-6 ✓ · wood haul** · **Cal-Y2 D62** · **SUN-MARK-299** |
+| 300 | [day-300.md](days/week-043/day-300.md) | **brick yard · v1** | **+14 bricks · AMPHORA ~40% · 2 green pots** · **Cal-Y2 D63** · **SUN-MARK-300** |
+| 301 | [day-301.md](days/week-043/day-301.md) | **Kiln B · kiln yard** | **9 brick fire ✓ · TILE-PRESS-8 · Centadial 3** · **Week 43 close** · **Cal-Y2 D64** |
+| 302 | [day-302.md](days/week-044/day-302.md) | **kiln yard · v1** | **TILE-FIRE-7 ✓ · AMPHORA ~70%** · **Cal-Y2 D65** · **SUN-MARK-302** |
+| 303 | [day-303.md](days/week-044/day-303.md) | **kiln yard · H-v2 ante** | **TILE-FIRE-8 ✓ · MUS-1 ✓ · pots** · **Cal-Y2 D66** · **SUN-MARK-303** |
+| 304 | [day-304.md](days/week-044/day-304.md) | **v1 table** | **AMPHORA twin handles ~90%** · **Cal-Y2 D67** · **SUN-MARK-304** |
 
 ## Centadials (every 100 days)
 
@@ -215,6 +319,7 @@
 |-----------|------|------|
 | **1** | 1–100 | [centadial-001.md](summaries/centadial-001.md) |
 | **2** | 101–200 | [centadial-002.md](summaries/centadial-002.md) |
+| **3** | 201–300 | [centadial-003.md](summaries/centadial-003.md) |
 
 See [summaries/README.md](summaries/README.md).
 
@@ -250,7 +355,21 @@ See [summaries/README.md](summaries/README.md).
 | 26 | [week-026.md](weeks/week-026.md) | 176–182 | **Forge ✓** · **release** · **fuel pivot** |
 | 27 | [week-027.md](weeks/week-027.md) | 183–189 | **SALT-1** · **winter fuel** |
 | 28 | [week-028.md](weeks/week-028.md) | 190–196 | **Shore-up** · **chem · calendar · mill frame** |
-| 29 | [week-029.md](weeks/week-029.md) | 197–203 | **Finish · hold · COAST-1** *(in progress)* |
+| 29 | [week-029.md](weeks/week-029.md) | 197–203 | **Finish · hold · COAST-1 ✓** |
+| 30 | [week-030.md](weeks/week-030.md) | 204–210 | **Maintenance · forge rhythm · IRON-GATE-1 ✓ · LENTIL-1 ✓** |
+| 31 | [week-031.md](weeks/week-031.md) | 211–217 | **Rest rhythm · STORE-2 · bedding · SOAP clock** |
+| 32 | [week-032.md](weeks/week-032.md) | 218–224 | **SOAP · linen · Phase 2 · Smelt #13** |
+| 33 | [week-033.md](weeks/week-033.md) | 225–231 | **Field camp · copper tools · lyre · smelt #14–15** |
+| 34 | [week-034.md](weeks/week-034.md) | 232–238 | **WW-1 · lyre · feast · YULE-BENCH-1** |
+| 35 | [week-035.md](weeks/week-035.md) | 239–245 | **SUN-CAL-YEAR · smelt block #17–20 ✓ · ~127 g** |
+| 36 | [week-036.md](weeks/week-036.md) | 246–252 | **CU-HOE-1 ✓ · FORGE-PPE-1 ✓ · forge tongs ✓** |
+| 37 | [week-037.md](weeks/week-037.md) | 253–259 | **Spring prep · textile R&D · char ~58 kg** |
+| 38 | [week-038.md](weeks/week-038.md) | 260–266 | **CHAR-HOARD · tile R&D · campus stakes** |
+| 39 | [week-039.md](weeks/week-039.md) | 267–273 | **STORE-3 ✓ · tile pipeline · char hold** |
+| 40 | [week-040.md](weeks/week-040.md) | 274–280 | **MILLHOUSE-3 ✓ · FORGE district ✓ · tile pause** *(closed Day 280)* |
+| 41 | [week-041.md](weeks/week-041.md) | 281–287 | **SALT-2 · MEASURE-1 ✓ · light campus** *(closed Day 287)* |
+| 42 | [week-042.md](weeks/week-042.md) | 288–294 | **Salt · measure · WW/grind · trail cache** *(closed Day 294)* |
+| 43 | [week-043.md](weeks/week-043.md) | 295–301 | **Flood trial · spring clock** *(in progress)* |
 
 ## Day folders
 
@@ -285,6 +404,20 @@ See [summaries/README.md](summaries/README.md).
 | 27 | [days/week-027/](days/week-027/) |
 | 28 | [days/week-028/](days/week-028/) |
 | 29 | [days/week-029/](days/week-029/) |
+| 30 | [days/week-030/](days/week-030/) |
+| 31 | [days/week-031/](days/week-031/) |
+| 32 | [days/week-032/](days/week-032/) |
+| 33 | [days/week-033/](days/week-033/) |
+| 34 | [days/week-034/](days/week-034/) |
+| 35 | [days/week-035/](days/week-035/) |
+| 36 | [days/week-036/](days/week-036/) |
+| 37 | [days/week-037/](days/week-037/) |
+| 38 | [days/week-038/](days/week-038/) |
+| 39 | [days/week-039/](days/week-039/) |
+| 40 | [days/week-040/](days/week-040/) |
+| 41 | [days/week-041/](days/week-041/) |
+| 42 | [days/week-042/](days/week-042/) |
+| 43 | [days/week-043/](days/week-043/) |
 
 ## Years
 

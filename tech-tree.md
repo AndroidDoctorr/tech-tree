@@ -90,7 +90,8 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 - [ ] **Archery (bow v1)** — stave · string · practice
 - [~] **Clothing set** — breech · tabard · shoes · **coat ✓** · **hat ✓** Day 123 · gloves v0
 - [ ] **KIT-2 redundancy** — duplicate critical tools home + trail
-- [ ] **Expanded storage + pottery line** — PK-1 amphorae / vials
+- [ ] **Expanded storage + pottery line** — PK-1 amphorae / vials · **STORE-3** annex (**CAMPUS-BUILD-263**)
+- [~] **WOOD-ROOF** — shake trial + **M-08** pitch seal · true tar coat Year 2
 - [ ] **Trail paint palette** — PM-2 beyond red/white
 - [ ] **Slit visor (OPT-1)** — glare reduction — not modern sunglasses
 - [ ] **Stringed instrument (MUS-1)** — lyre/harp v0

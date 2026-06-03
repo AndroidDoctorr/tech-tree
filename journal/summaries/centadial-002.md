@@ -175,4 +175,4 @@ The second hundred days turn a **prepared camp** into a **campus with institutio
 
 ---
 
-*Previous: [centadial-001.md](centadial-001.md) · Daily index: [index.md](../index.md)*
+*Previous: [centadial-001.md](centadial-001.md) · Next: [centadial-003.md](centadial-003.md) · Daily index: [index.md](../index.md)*
