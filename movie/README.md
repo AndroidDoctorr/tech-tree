@@ -54,6 +54,7 @@ Short version: **You → Need → Go → Search → Find → Take → Return →
 | [characters/README.md](characters/README.md) | Index |
 | [characters/spawn-locations.md](characters/spawn-locations.md) | **10 global drop sites** (~10,000 BC) |
 | [characters/player-roster.md](characters/player-roster.md) | **Full cast** — skills, gaps, chemistry |
+| [player-summaries/README.md](player-summaries/README.md) | **Year 1 @ Day 365** — per-player progress estimates |
 | [characters/death-and-respawn.md](characters/death-and-respawn.md) | Immortality reactions |
 | [scenes/README.md](scenes/README.md) | Scene bank index |
 | [scenes/](scenes/) | Individual beat sheets |
@@ -71,7 +72,7 @@ Short version: **You → Need → Go → Search → Find → Take → Return →
 | Assistant = DM / co-writer | Assistant = in-world device + possible alien back-channel |
 | No other humans unless emergency rule | Other players are **built-in** from the start |
 
-The journal remains the **proof-of-concept** for what one obsessive engineer can do alone. The movie asks what happens when several strangers inherit the same rules and disagree about priorities.
+The journal remains the **proof-of-concept** for what **Torr** achieves alone @ Orontes. The movie asks what happens when **nine strangers** inherit the same rules and disagree about priorities.
 
 ---
 

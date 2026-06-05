@@ -12,13 +12,16 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [map.md](map.md) | Geography, sites, trails, resources |
 | [resource-map.md](resource-map.md) | Resource catalog — plants, materials, fauna by location |
 | [materials-roadmap.md](materials-roadmap.md) | Grout, lime, kiln/hypocaust brick budget |
-| [year-001-plan.md](year-001-plan.md) | Year 1 strategy — kilns, bronze path, expeditions |
+| [sun-calendar.md](sun-calendar.md) | **Solar calendar** — SUN-CAL-1 dual track · YULE anchor · interpolation |
+| [year-002-plan.md](year-002-plan.md) | **Cal-Y2 strategy** — EXPED-C · glass · wire · anvil · campus · barn |
+| [year-001-plan.md](year-001-plan.md) | Year 1 strategy *(archived @ Day 237)* |
 | [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
+| [skills.md](skills.md) | **Skills ledger** — Start (IRL) + Now · player = you · [RAG-MUD](purpose.md#rag-mud) |
 | [ladder.md](ladder.md) | **Achievement ladder** — have vs need, all tracks, one glance |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
 | [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`) — see **Week numbering** below |
 | [journal/weeks/](journal/weeks/) | Weekly rollups — see [journal/index.md](journal/index.md) |
-| [journal/years/](journal/years/) | Yearly rollups and era notes |
+| [journal/years/year-001.md](journal/years/year-001.md) | **Calendar Year 1** summary (Days 1–237) |
 | [movie/](movie/) | Feature-film concept — alien trial, ensemble players, story circle |
 
 ## Week numbering

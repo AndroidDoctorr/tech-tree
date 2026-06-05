@@ -25,7 +25,7 @@
 1. **Threshold crossed** — beacon / orbit / cooperation score — however win is defined.
 2. **Sky changes subtly** — not Death Star; light refraction, silent presence.
 3. **Assistants pause** — then: *"Your observers request a conversation. You may decline."* **Free will beat #1.**
-4. **Players choose** — gather or ignore; at least Priya + Rosa + Elena say yes.
+4. **Players choose** — gather or ignore; at least **Torr + Rosa + Elena** say yes.
 5. **Contact form** — not humanoid required; **translated presence** (light, water shape, orbit ring) — **competent, still**.
 6. **Apology first:** *"We imposed fear. That was necessary to measure truth. We regret the cost to your peace of mind."*
 7. **Explanation:** First contact policy — species must demonstrate **cooperative survival + tech** without **central coercion**; trial simulates deep past to avoid contaminating present cultures.

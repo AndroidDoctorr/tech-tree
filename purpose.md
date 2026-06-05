@@ -15,3 +15,7 @@ I will tell you to go one day at a time, or one event at a time, or skip around 
 Challenge me with realism. I want to see what the challenges were that our ancestors faced getting us to this point, ultimately. I want to appreciate their perspective and their efforts.
 
 This might be impossible, because some steps might require more than one person. If so, I would like to see exactly where that happens and why. I'm really not sure where that would be.
+
+## RAG-MUD
+
+**RAG-MUD** = **R**eference-**A**ssisted **G**eneration + **M**UD-style play: a solo text adventure where the handheld assistant supplies reference knowledge (tech tree, maps, chemistry) and you supply choices, labor, and real-world skill transfer. **The player is you** — skills start at your real baseline on Day 1 and advance with practice, not from zero. Tracked in [skills.md](skills.md).

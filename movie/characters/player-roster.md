@@ -4,44 +4,40 @@
 
 **Design rule:** Nobody can solo the tech tree fast. **Together** they approximate what the journal one-player run achieves — **that may be the point.**
 
+**Orontes (#1) = Torr** — the [journal](../../README.md) protagonist · **not** a separate movie cast member. **Priya Mehta removed** (was a journal echo; slot merged into Torr). Year 1 estimates for other players → [../player-summaries/README.md](../player-summaries/README.md).
+
 ---
 
 ## Skill matrix (who knows what)
 
 | Skill lane | Strong | Weak | Can't at first |
 |------------|--------|------|----------------|
-| **Camp / water / fire** | Marcus, Yuki | Priya, Diego | Everyone except Marcus struggles day 1 |
+| **Camp / water / fire** | Marcus, Yuki | Rosa, Diego | Everyone except Marcus struggles day 1 |
 | **Food / preservation** | Rosa, Tom | Jin | Lime slaking, grain science |
-| **Building / wood** | Tom, Marcus | Priya | Brick hypocaust math |
+| **Building / wood** | Tom, Marcus | Jim | Brick hypocaust math |
 | **Medicine / body** | Elena | — | Surgery without kit |
-| **Hunt / track** | Marcus, Amara | Jin, Priya | — |
-| **Assistant power-use** | Jin, Priya | Marcus (suspicious of device) | Asking the *right* question |
-| **History / context** | Priya | — | Hands-on craft |
-| **Leadership / logistics** | Rosa | Jin | — |
-| **Metal / chemistry** | Tom (practical) | Everyone | Smelt from zero |
-| **Geography / site choice** | Priya | Amara (open sky not rivers) | — |
+| **Hunt / track** | Marcus, Amara | Jin | — |
+| **Assistant power-use** | Jin | Marcus (suspicious of device) | Asking the *right* question |
+| **History / context** | Jim | — | Hands-on craft |
+| **Leadership / logistics** | Rosa, Amara | Jin | — |
+| **Metal / chemistry** | Tom (practical), Diego | Everyone | Smelt from zero |
+| **Geography / site choice** | Amara | Amara (open sky not rivers) | — |
 
 ---
 
-## The ten (draft)
+## The nine (draft) + journal POV
 
-### 1. Priya Mehta — **The map in her head**
+### Torr — **Journal protagonist @ Orontes (#1)**
 
 | | |
 |--|--|
-| **Drop** | **Orontes (#1)** |
-| **Was** | Civil engineer, 34; side obsession with Near East geography (VR, war maps, Egypt trips) |
-| **Archetype** | Solo speedrunner · redundancy cultist · journal echo |
-| **Strong** | Site selection, planning, charcoal/brick pipeline once shown once |
-| **Weak** | People skills; assumes others think in Gantt charts |
-| **Blind spot** | Over-preps winter at the expense of saying hello |
-| **Arc** | Learns that **delegation isn't risk** — her compound works when Rosa feeds people and Elena stops infections |
-| **Death count** | Low ( cautious ) |
-| **Line** | *"Redundancy is good. So is redundancy."* |
+| **Drop** | **Orontes valley** — same site as journal |
+| **Canon** | [journal/index.md](../../journal/index.md) · Day-by-day · **not** duplicated in movie cast |
+| **Note** | Movie ensemble **does not** include a separate “engineer @ Antioch” — that’s you. |
 
 ---
 
-### 2. Rosa Delgado — **The kitchen that kept a restaurant alive**
+### 1. Rosa Delgado — **The kitchen that kept a restaurant alive**
 
 | | |
 |--|--|
@@ -57,7 +53,7 @@
 
 ---
 
-### 3. Marcus Cole — **Deer season every year, not every day**
+### 2. Marcus Cole — **Deer season every year, not every day**
 
 | | |
 |--|--|
@@ -66,14 +62,14 @@
 | **Archetype** | Quiet competence · tracks · suspicious of cities |
 | **Strong** | Trap logic, hide, meat, cold nights, reading sign |
 | **Weak** | Lime, copper, "chemistry talk," assistant trust |
-| **Blind spot** | Underestimates Priya until she has a roof and he doesn't |
+| **Blind spot** | Underestimates whoever has a real roof until he needs salt |
 | **Arc** | **Cannibalism scene partner** (victim or killer TBD) — learns respawn; shame → pragmatism |
 | **Death count** | Low then spike if predator phase |
 | **Line** | *"Wind's wrong. We wait."* |
 
 ---
 
-### 4. Jin Park — **Questions the tutorial**
+### 3. Jin Park — **Questions the tutorial**
 
 | | |
 |--|--|
@@ -89,7 +85,7 @@
 
 ---
 
-### 5. Elena Vasquez — **Calm when everyone else isn't**
+### 4. Elena Vasquez — **Calm when everyone else isn't**
 
 | | |
 |--|--|
@@ -105,7 +101,7 @@
 
 ---
 
-### 6. Tom Åkesson — **Built his own deck twice**
+### 5. Tom Åkesson — **Built his own deck twice**
 
 | | |
 |--|--|
@@ -121,7 +117,7 @@
 
 ---
 
-### 7. Amara Okonkwo — **Horizon specialist**
+### 6. Amara Okonkwo — **Horizon specialist**
 
 | | |
 |--|--|
@@ -137,7 +133,7 @@
 
 ---
 
-### 8. Diego Morales — **Hands that fix things**
+### 7. Diego Morales — **Hands that fix things**
 
 | | |
 |--|--|
@@ -147,13 +143,13 @@
 | **Strong** | Air flow, bellows, kiln tuning once shown clay; fishing from pier childhood |
 | **Weak** | Plants; patience for politics |
 | **Blind spot** | Will blow past bronze and hurt himself without Elena |
-| **Arc** | **Metal lane** owner after group forms; fights Priya on safety vs speed |
+| **Arc** | **Metal lane** owner after group forms; fights **Torr/Diego** on safety vs speed once campus meets coast |
 | **Death count** | Medium-high at forge |
 | **Line** | *"You're losing heat out the seam. Feel that?"* |
 
 ---
 
-### 9. Dr. James "Jim" Whitaker — **Context, not craft**
+### 8. Dr. James "Jim" Whitaker — **Context, not craft**
 
 | | |
 |--|--|
@@ -169,7 +165,7 @@
 
 ---
 
-### 10. Keiko "Yuki" Tanaka — **Small, stubborn, precise**
+### 9. Keiko "Yuki" Tanaka — **Small, stubborn, precise**
 
 | | |
 |--|--|
@@ -189,11 +185,12 @@
 
 | Pair | Dynamic |
 |------|---------|
-| **Priya + Rosa** | Plan vs plate — learn mutual respect |
+| **Torr + Rosa** | *(future)* Ore campus vs smokehouse — trade not yet @ journal d373 |
+| **Rosa + Elena** | Salt vs fish — **first likely contact** |
 | **Marcus + Jin** | Hunter vs hacker — death count scene aftermath |
 | **Elena + Marcus** | Medic cleans up after hunt; moral argument after cannibalism |
 | **Tom + Diego** | Bellows + frame — forge scene |
-| **Jim + Priya** | Theory vs engineer — *"Antioch works because—"* / *"I know."* |
+| **Jim + Torr** | Theory vs hands — *"Antioch works because—"* / *"I know."* |
 | **Amara + Rosa** | Supply chain meets smokehouse — **first intentional trade network** |
 | **Yuki + anyone** | Language of craft; earns place without speeches |
 

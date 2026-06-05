@@ -82,7 +82,7 @@ Full scene: [scenes/alien-reveal-apology.md](scenes/alien-reveal-apology.md)
 |---------------|--------|
 | **Invitation deferred** | Players changed; world not told — **Star Trek hope** |
 | **Compound stays** | They **choose** Bronze-age village together |
-| **Solo walkaway** | Priya alone with map — valid; observers accept |
+| **Solo walkaway** | Torr alone with campus — valid; observers accept |
 
 **Change:** Humanity is a **team sport** — or one person learns that and still wins the argument.
 

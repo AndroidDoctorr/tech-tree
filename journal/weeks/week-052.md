@@ -8,9 +8,7 @@
 
 ## Arc in one paragraph
 
-*(in progress)*
-
-Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing iron for the **W-1 tile roof** sprint. **Day 364:** **ROOF-W1 ✓** — first operational tile roof on campus. **Stone mallet** held for nail work; **48F factory stack deployed.** **BARN-1-v1** = wood shakes + pitch, not tile.
+Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing iron for the **W-1 tile roof** sprint. **PIT-CHAR-4** and **IRON-NAILS-2** feed rafters, battens, lime eave, and full tile lay. **Day 364:** **ROOF-W1 ✓** — first operational tile roof on campus · drip PASS. **48F factory stack deployed.** **BARN-1-v1** = wood shakes + pitch, not tile. Farm deferred until Week 53.
 
 ---
 
@@ -28,13 +26,13 @@ Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing
 
 ---
 
-## Carrying (current @ Day 364)
+## Carrying (end @ Day 364)
 
 - **ROOF-W1 ✓** — first campus tile roof · drip PASS
 - **0F tiles @ stock** — factory paused · annex volume queued
 - **NAILS ×5** · **CHAR ~7 kg** · **Wood ~75 kg**
-- **Queued:** **H-v2-KITCHEN-1 · CRANE-1 · BARN-1-v1 (wood roof)**
+- **Queued:** **farm watch · H-v2-KITCHEN-1 · CRANE-1 · BARN-1-v1 (wood roof)**
 
 ---
 
-*Week 52 opens Day 358.*
+*Week 52 closes Day 364. Week 53 opens Day 365.*

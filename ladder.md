@@ -1,6 +1,6 @@
 # Achievement ladder
 
-*Day **360** — breadth only. Stock: [inventory.md](inventory.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
+*Day **373** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
 
 **Legend:** ✓ have / done · ~ started / partial · · not yet
 
@@ -8,7 +8,7 @@
 
 ## Where you are
 
-**~364 days in.** **Cal-Y2 D127** · **Week 52**. **ROOF-W1 ✓ · first tile roof · factory stack empty**.
+**~373 days in.** **Cal-Y2 D136** · **Week 53**. **HOME · EXPED-C Phase 1 ✓ · HAUL-IRON-2 ✓**.
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
@@ -35,7 +35,11 @@
 | **MILLHOUSE-3** north bay enclosure | **✓ 100% Day 278** |
 | **WOOD-ROOF** shake / pitch seal | ~ **v0 trial queued · M-08 pitch + sand aggregate · BARN-1-v1 path** |
 | **TILE-ROOF-R&D** (log form · mock panel) | **✓ deploy Day 364 @ W-1** · **factory paused · annex = new volume** |
-| **Amphorae** | **AMPHORA-1/2/3 ✓ all pitched** |
+| **Fired roof tile @ W-1** | **✓ 47 on roof · 0 @ stock** |
+| **Amphorae** | **AMPHORA-1/2/3 ✓ all pitched · load trial ✓** |
+| **IRON-HAMMER-1** | **✓ ~195 g · Day 367** |
+| **IRON-DRAWPLATE-1** | · **~120 g bloom + chisel/punch · wire path** |
+| **ANVIL-1** (full block) | · **horn · hardy · mass · beyond ANVIL-FACE-1** |
 | Goat pen **P-GOAT-1** · holding **HOLDING-1** | ✓ |
 | Yearling pen / corral **D-27** | ✓ |
 | **Barn** (multi-species · hay · roofed) | · **BARN-1-v1 queued Day 363** — wood frame · **split shakes + pitch/sand seal** · not tile |
@@ -57,7 +61,7 @@
 | **Bucket** (wood stave · fired · leather) | · haul · lye · slaking · char wet-work |
 | **Basket set at scale** (labeled · zone haul) | ~ **3–4 more** for camp · v1 · trail |
 | Dry shelf @ camp · **v1 hut dry store** | ✓ |
-| **Charcoal vault** (~75 kg cap) | ✓ |
+| **Charcoal vault** (~75 kg cap) | ✓ **~67 kg after Day 367 draw** |
 | Smoked-fish / grain **larder at scale** | ✓ winter class |
 | **SEED-VAULT v0** (labeled jars) | ✓ |
 | **Haversack v1** (~8 L single-shoulder) | ✓ go-bag · **KIT-2** |
@@ -127,11 +131,11 @@
 | **SEED-VAULT** elite lines (grain · flax · pistachio · olive · grape · herbs) | ✓ |
 | **Scythe** (cu · iron · harvest at scale) | · after sickle/knife class · emmer/flax cut |
 | **AGRI-2** spring split (flax / herbs / fallow) | **SPRING-SOW-1+2 ✓** · Bed B live |
-| **Bed B spring sow** | ✓ **SPRING-SOW-1+2** · emmer emerging Day 339 |
+| **Bed B spring sow** | ✓ **SPRING-SOW-1+2** · **second thin Day 365** · watch only |
 | Olive **orchard** (plant cuttings · prune) | ~ wild harvest + seed · not orchard yet |
 | Grape **vineyard** (train · select · volume) | ~ trellis + leather · wine Year 2 |
-| Fig **propagation** (cuttings · P-12a) | **✓ FIG-PROP-1 Day 306** · **FIG-C1–4** @ Bed D |
-| Pulse / lentil crop | ~ **Year 2 trial** |
+| Fig **propagation** (cuttings · P-12a) | **✓ FIG-PROP-1 Day 306** · **FIG-C1–4** @ Bed D · **C2 lead Day 365** |
+| Pulse / lentil crop | ~ **P-17 true leaves Day 365 · hands-off** |
 | Crop **rotation + selection generations** | ~ Year 1 done · multi-year clock started |
 
 ---
@@ -214,6 +218,30 @@
 
 ---
 
+## Clothing · footwear · comfort
+
+*Player note Day 372: **not super comfortable** on long loaded legs — breech + open tabard + **caligae v1** on EXPED while **SHOE-2** and **CL-COAT** sit @ HOME.*
+
+| Rung | Status |
+|------|--------|
+| **Breechcloth** (linen band + hide tie) | ✓ **minimal** — chafe on long march |
+| **CL-1 tabard** (~55×38 cm · open sides · lime wash) | ✓ **sun layer** — not a shirt |
+| **CL-HAT** (reed brim ~12 cm) | ✓ **campus + trail** |
+| **CL-COAT** (hide shell + goat-fur liner) | ✓ **@ HOME** — **not** in EXPED-C pack |
+| **Caligae v1** (layered sole · bone glue · Day 62) | ✓ **trail default** — OK for day hikes · **thin on ore haul** |
+| **SHOE-2** (double sole · cross-lace · Day 122) | ✓ **@ HOME** — **walk test PASS loaded** Day 128 · **not packed d369** |
+| **Linen toe wrap / MK-0 foot class** | ~ **field fix Day 372** — not routine kit |
+| **CL-TUNIC-1** (closed linen under-tabard · LM panel) | · **shirt class** — arms/torso sun · cold dawn |
+| **CL-BREECH-2 / leg wrap** (full linen or leather leg) | · **beyond breechcloth** — brush · cold · dignity |
+| **CL-CLOAK-1** (rain · cold trail · sleep wrap) | · linen canvas first · wool when flock |
+| **CL-SOCK-1** (linen foot wrap under shoe) | · blister prevention · **pair with BOOT-3** |
+| **BOOT-3 / trail boot** (SHOE-2 + thicker sole · or hobnail later) | · **mandatory EXPED pack** · hide + glue · iron tack optional Year 2+ |
+| **Trail wear kit doctrine** | · **SHOE-2 minimum** or **BOOT-3** on travois weeks · coat in go-bag shoulder season |
+| **Winter stack** (coat + cloak + fur · layered) | ~ **CL-COAT ✓** · rest queued |
+| **LM-2 → garment pipeline** | · tunic · leg wrap · socks before **LM-3** yardage |
+
+---
+
 ## Tools — stone → copper → bronze → iron
 
 | Rung | Status |
@@ -225,15 +253,15 @@
 | **Pointed arrow stock ×12+** | **✓ Day 356** |
 | **Barbed thrust spear (SPEAR-2)** | **✓ Day 350** · S-02 chert · ash shaft |
 | **Predator / night defense doctrine** | ~ **SPEAR-2 ✓** · bow · fire · **FENCE-EXT +8 m** · *no contact logged* |
-| **Waterskin · haversack · belt · caligae** | ✓ |
+| **Waterskin · haversack · belt · caligae v1** | ✓ **trail default** — see **Clothing · footwear** |
 | **FK-1 / RK-1 / MK-0** kits | ✓ |
 | **CU-KNIFE v1** | ✓ |
 | Copper awl · needle · pin class | ✓ |
 | Smelt **#1–20** (malachite · on hold) | ✓ |
 | **FORGE-D** bloomery pad + belt blast | ✓ **IRON-GATE 14/14** |
-| **Iron bloom + weld** | ✓ **IRON-WELD-1 Day 337** · **BLOOM-4/5** · **BLOOM-5 → NAILS-2 Day 361** |
-| **Iron ore** **O-IRON-1** | **~3.3 kg** @ pile 4 |
-| **IRON-BLOOM-5** | **consumed Day 361 → NAILS-2** |
+| **Iron bloom + weld** | ✓ **IRON-WELD-1 Day 337** · **BLOOM-4/5/6** · **BLOOM-6 ~315 g Day 366** |
+| **Iron ore** **O-IRON-1** | **~12.2 kg** @ pile 4 |
+| **IRON-BLOOM-6** | **~120 g remain · drawplate stock** |
 | **ANVIL-FACE-1** (~480 g strike plate) | ✓ **Day 346 @ FORGE stump** |
 | **IRON-CHISEL-1** (stone dress) | ✓ **Day 345** |
 | **IRON-BAR-1** scrap | **~18 g** curl only |
@@ -241,7 +269,9 @@
 | **IRON-WEDGE-1** | **✓ ~95 g · Day 354** |
 | **IRON-NAILS-1** | **✓ ×5 remain (×48 made −×43 used)** |
 | **IRON-ADZE-1** | **✓ ~115 g · Day 358** |
-| **IRON-HAMMER-1** | · **~190 g bloom or #6 · stone mallet OK for roof** |
+| **IRON-HAMMER-1** | **✓ ~195 g · Day 367** |
+| **IRON-DRAWPLATE-1** | · **~120 g bloom + chisel/punch · wire path** |
+| **ANVIL-1** (full block) | · **horn · hardy · mass · beyond ANVIL-FACE-1** |
 | **Tin** scout (**cassiterite**) | · |
 | **Bronze** alloy | · |
 | **Bronze tools** (edge · socket) | · |
@@ -392,7 +422,7 @@
 | **Big stable storage** | amphorae · barn · cellar |
 | **Workshop** | **WORKBENCH-1 ✓** · W-1 loom · GS-1 ✓ |
 | **Tin → bronze → bronze tools** | cassiterite trip · alloy · cast/socket |
-| **Iron tools** | **chisel ✓ · anvil face ✓** · axe · wedge · hammer |
+| **Iron tools** | **chisel ✓ · anvil face ✓ · axe ✓ · adze ✓ · wedge ✓ · nails ✓ · hammer ✓** · drawplate · full anvil |
 | **Predator defense** | arrow stock · barbed spear · palisade · Year 2 |
 | **Backpack + basket scale** | **labeled wicker set ✓** · framed pack queued |
 | **Alum** | collect cliff · purify · mordant |
@@ -427,6 +457,7 @@
 | Goal | Have now | Need | Time (est.) |
 |------|----------|------|-------------|
 | **Backpack** | Haversack **~8 L** · belt · go-bag | Framed **BACKPACK-1**: 2 linen panels · willow/reed frame · straps · **~15–20 L** | **2–3 sessions** (weave panels if needed + frame + lash) |
+| **Trail boots + clothes** | **Caligae v1** trail · **SHOE-2 @ home** · tabard + breech | **BOOT-3** or pack **SHOE-2** on EXPED · **CL-TUNIC-1** · **CL-BREECH-2** · **CL-SOCK-1** | **~2–4 sessions** (hide glue + LM panel · foot wrap) |
 | **Pots & bowls** | **P-ζ** bowl · **P-η** dish · **P-ι-2 · P-κ-2** · **P-vial · bowl** (updraft) · **P-δ** crucible · **P-ζ** lye-dedicated · amphorae separate | **~6–8 fired utility pcs** — OK for one person · short **+4–6 bowls** for kitchen + trail cache | **~1 press day + 1 peripheral fire** |
 | **Wicker baskets** | **#2 + #3–6 labeled ✓ Day 356** | **N leg optional · BACKPACK-1 later** | **Set complete for farm class** |
 | **Spear / predator kit** | **SPEAR-2 ✓** · **bow ×16 (12 pointed)** · **CU-KNIFE** · fire · **FENCE-E ✓** | **practice · N fence leg · palisade later** | **Palisade Week 51+** |
@@ -449,22 +480,25 @@
 | **CRANE-1** | WW-YARD pole + counterweight + **ROPE-2** · tile/timber lift · before barn truss work |
 | **BARN-1** | **v1 = wood frame + split shakes · M-08 pitch + sand/lime aggregate seal** · D-27 class · not tile |
 | **H-v2-KITCHEN-1** | Opposite **H-v2-ANTE** · shared hut wall · **separate flue** · not through sleep room |
+| **CL-BOOTS-3 · CL-TUNIC-1 · trail wear kit** | Post-EXPED · **SHOE-2 in go-bag doctrine** · linen shirt · leg wrap · socks |
 
 ---
 
-## Suggested next rungs (Day 364+)
+## Suggested next rungs (Day 373+)
 
-1. **H-v2-KITCHEN-1 stake** **or** **farm watch** — **roof sprint closed**
-2. **TILE-FACTORY reopen** — **H-v2 annex · ~40–60 tiles**
-3. **IRON-BLOOM-6** **·** **WOOD-ROOF-v0 trial** **·** **CRANE-1 stake** — **pick one hero**
+1. **Rest · farm watch** — **Bed B emergence · scare only**
+2. **EXPED-C Phase 2 M-11 alum** — **~3-day W loop · separate pack**
+3. **CL-BOOTS-3 · CL-TUNIC-1** **or** **IRON-DRAWPLATE-1 · ANVIL-1** — **one hero pick**
+4. **LM-2 · kitchen · CRANE-1** — **interleave farm**
+5. **GLASS-1 trial** — **after sort · not same week as Phase 2**
 
 ### Reference cadence *(velocity — not daily log)*
 
-- **Char:** vault ~75 kg cap · forge lane **~11.5 kg** after anvil · pit when wood allows
-- **Iron axe:** bloom **~1 day** + forge **~1 day** · needs **~11 kg** lane margin
+- **Char:** vault **~67 kg** after Day 367 · forge lane **~2 kg** · vault draw for hero iron · pit for routine
+- **Iron tool:** bloom **~1 day** + forge **~1 day** · **~7–8 kg** lane or vault draw
 - **Pottery batch:** press **OR** fire hero · not both same day
 - **Peripheral fire:** **≤6 pcs · ~3–4 kg** pit char · not vault
 
 ---
 
-*Update when a rung moves. Linked: [tech-tree.md](tech-tree.md) (long milestones) · [year-001-plan.md](year-001-plan.md) (Year 1 strategy).*
+*Update when a rung moves. Linked: [tech-tree.md](tech-tree.md) · [year-002-plan.md](year-002-plan.md) · [year-001.md](journal/years/year-001.md).*

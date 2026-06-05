@@ -372,6 +372,15 @@
 | 362 | [day-362.md](days/week-052/day-362.md) | **W-1** | **ROOF-W1-BATTEN ✓ · ~75%** · **×40 nails** · **Cal-Y2 D125** · **SUN-MARK-362** |
 | 363 | [day-363.md](days/week-052/day-363.md) | **W-1 · v1 lime** | **ROOF-W1 mat + lime eave ✓ · ~85%** · **Cal-Y2 D126** · **SUN-MARK-363** |
 | 364 | [day-364.md](days/week-052/day-364.md) | **W-1 · v1 tile haul** | **ROOF-W1 ✓ · 48F deployed · drip PASS** · **Cal-Y2 D127** · **SUN-MARK-364** |
+| 365 | [day-365.md](days/week-053/day-365.md) | **farm · Bed B · Bed D** | **Week 53 opens · FARM-WATCH-365 · second flax thin** · **Cal-Y2 D128** · **SUN-MARK-365** |
+| 366 | [day-366.md](days/week-053/day-366.md) | **FORGE-D · WORKBENCH-1** | **IRON-BLOOM-6 ✓ ~315 g · hammer d367** · **Cal-Y2 D129** · **SUN-MARK-366** |
+| 367 | [day-367.md](days/week-053/day-367.md) | **Store C · FORGE · ANVIL-FACE-1** | **VAULT-CHAR ✓ · IRON-HAMMER-1 ✓ · YEAR2 slate** · **Cal-Y2 D130** · **SUN-MARK-367** |
+| 368 | [day-368.md](days/week-053/day-368.md) | **farm · campus · pile 5** | **EXPED-C gates GREEN · farm prep · wood carve · launch d369** · **Cal-Y2 D131** · **SUN-MARK-368** |
+| 369 | [day-369.md](days/week-053/day-369.md) | **HOME → H-11 bench** | **EXPED-C launch · HAUL-IRON-2 · mine prep d370** · **Cal-Y2 D132** · **SUN-MARK-369** |
+| 370 | [day-370.md](days/week-053/day-370.md) | **H-11 bench** | **~10.4 kg hematite · IRON-HAMMER-1 @ ore · loaded bivouac** · **Cal-Y2 D133** · **SUN-MARK-370** |
+| 371 | [day-371.md](days/week-053/day-371.md) | **H-11 → M-22 → Camp-1** | **Loaded march · M-22 CONFIRM · EXPED tier 1+2 ✓** · **Cal-Y2 D134** · **SUN-MARK-371** |
+| 372 | [day-372.md](days/week-053/day-372.md) | **Camp-1 → M-G1** | **~5.3 kg malachite · EXPED-C P1 ✓ · ~16.7 kg loaded** · **Cal-Y2 D135** · **SUN-MARK-372** |
+| 373 | [day-373.md](days/week-053/day-373.md) | **M-G1 → HOME** | **HAUL-IRON-2 ✓ · EXPED-C Phase 1 ✓ · pile 4 sort** · **Cal-Y2 D136** · **SUN-MARK-373** |
 
 ## Centadials (every 100 days)
 
@@ -438,7 +447,8 @@ See [summaries/README.md](summaries/README.md).
 | 49 | [week-049.md](weeks/week-049.md) | 337–343 | **IRON-WELD-1 · AMPHORA-3 green complete** *(closed Day 343)* |
 | 50 | [week-050.md](weeks/week-050.md) | 344–350 | **Amphora line · chisel · anvil · SPEAR-2** *(closed Day 350)* |
 | 51 | [week-051.md](weeks/week-051.md) | 351–357 | **IRON-AXE-1 · baskets · fence · PIT-CHAR-3 ✓** *(closed Day 357)* |
-| 52 | [week-052.md](weeks/week-052.md) | 358–364 | **IRON-ADZE-1 · ROOF-W1 sprint** *(in progress)* |
+| 52 | [week-052.md](weeks/week-052.md) | 358–364 | **IRON-ADZE-1 · ROOF-W1 ✓ · first tile roof** *(closed Day 364)* |
+| 53 | [week-053.md](weeks/week-053.md) | 365–371 | **FARM-WATCH-365 · post-roof pivot** *(open Day 365)* |
 
 ## Day folders
 
@@ -496,10 +506,14 @@ See [summaries/README.md](summaries/README.md).
 | 50 | [days/week-050/](days/week-050/) |
 | 51 | [days/week-051/](days/week-051/) |
 | 52 | [days/week-052/](days/week-052/) |
+| 53 | [days/week-053/](days/week-053/) |
 
 ## Years
 
-*(none yet)*
+| Year | File | Days | Summary |
+|------|------|------|---------|
+| **1** | [year-001.md](years/year-001.md) | 1–237 | Base → campus · harvest · copper · donkey · coast · **FEAST-237** |
+| **2** | *(in progress)* | 238+ | **Cal-Y2** — [year-002-plan.md](../../year-002-plan.md) · Day 367 |
 
 ## Era markers (planned)
 

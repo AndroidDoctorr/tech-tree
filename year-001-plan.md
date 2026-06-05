@@ -1,6 +1,6 @@
 # Year 1 strategy (~Days 1–365)
 
-*Last revised: **Day 200** (~10,000 BC). You are **Day 200 / Week 29** — **COAST-1 active**.*
+*Last revised: **Day 365** (~10,000 BC). **Calendar Year 1 closed Day 237** — see [journal/years/year-001.md](journal/years/year-001.md). **Current play: Cal-Y2 D128 (Day 365).***
 
 **Character:** Immortal solo · Orontes valley (~10,000 BC) · ADHD-parallel projects OK · realism on
 

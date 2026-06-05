@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 339** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 365** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -49,11 +49,11 @@
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
 | **Farm plot** | T-2 | 200 | 10 | **Bed B sown ✓** · **Bed D ✓** · **P-03 trellis ✓** · **SEED-VAULT v0** |
 | **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **~14×4 m ✓** · **2 kids** · **YEARLING-1 @ HOLDING-1** |
-| **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-1+2 ✓** — flax · emmer · P-17 trial |
+| **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-1+2 ✓ · thinned Day 353 + 365** · P-17 watch-only |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
 | **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-1 ✓ 100%** · **MILLHOUSE-1 ✓** · **FORGE-D ✓** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
-| **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2** · noon ground + wall track — see journal |
+| **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D128** · ground **221** · wall **217** · **YULE @ 139** — [sun-calendar.md](../sun-calendar.md) |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees · autumn harvest |
 | Grape (P-03) | T-2 | 240 | 12 | **Trellis ✓** · wine Year 2 |
 | Olive (P-02) | T-2 west | 400 | 22 | **Harvest ✓ Days 188–190** · brine aging @ v1 |
@@ -88,7 +88,7 @@
 |--|--|
 | **Footprint** | ~12 m × 8 m terrace |
 | **Respawn** | **H-v2 bed** — moved **Day 84** (was hut v1 Day 10–83) |
-| **Built** | Fire pit, pit kiln, **charcoal pits B-1–B-42** (B-42 banked), store C, piles 1–9 |
+| **Built** | Fire pit, pit kiln, **charcoal pits B-1–B-48** (B-48 banked Day 338), store C, piles 1–9 |
 
 ---
 
@@ -124,7 +124,7 @@
 | **Bed** | NW pad — **respawn anchor** |
 | **Door** | W gap **~0.9 m** · reed mat |
 | **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
-| **Queued** | **H-v2-KITCHEN-1** — opposite ante · shared wall · separate flue *(stake after W-1 tile)* |
+| **Queued** | **H-v2-KITCHEN-1** stake · **BARN-1-v1** (wood shakes + pitch) |
 
 ---
 
@@ -170,7 +170,7 @@
 
 ## Courtyard stakes **C-0** — camp upslope
 
-**~12 m square** horizon; drain axis set Day 67; **Year 2+** compound wing.
+**~12 m square** axis · **SUN-CAL-1 ✓** · dual noon track · **YULE-237 anchor** — full reference [sun-calendar.md](../sun-calendar.md).
 
 ---
 

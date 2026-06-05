@@ -1,7 +1,7 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: **Day 339** (~10,000 BC)*
+*Last updated: **Day 365** (~10,000 BC)*
 
 **Also see:** [map.md](map.md) (trails, geography) · [inventory.md](inventory.md) (**stock on hand — sole source for quantities**)
 
@@ -28,7 +28,7 @@
 | **P-13** | Wild mint (*Mentha* class) | **~180 m** | T-1 reed margin | **Spring–autumn** | **Eat · Dry** | **HERB-1 ✓** — dried @ v1 |
 | **P-14** | Wild garlic / leek (*Allium* class) | **~200–350 m** | T-2 ditch · farm shade | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
 | **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
-| **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Year 2 @ Bed B** |
+| **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Year 2 @ Bed B** · **true leaves Day 365 · hands-off** |
 | **P-16** | Other aromatics (thyme, etc.) | **~350 m** | T-2 olive shade | Spring–autumn | **Eat · Dry** | **P-16a ✓ Day 215** — thyme/marjoram class · modest pick |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
 | **P-05** | Einkorn | 200 m | Bed A R3–4 | Jun | **SOWN · Breed** | **~9 g** Day 16 |
@@ -45,7 +45,7 @@
 | | |
 |--|--|
 | **Distance** | 650 m NW (~38 min walk) |
-| **Status** | **P-12a ✓ marked** · leather @ v1 · **FIG-C1–4 @ Bed D** Day 306 |
+| **Status** | **P-12a ✓ marked** · leather @ v1 · **FIG-C1–4 @ Bed D** · **C2 lead Day 365** |
 | **Breeding** | Cuttings faster; seeds for variety — see **SEED-VAULT** |
 
 ---
@@ -86,7 +86,7 @@
 | **Nitrates (M-12)** | **✓ mark Day 203** | Saltpeter collect | **NITRATE-MARK-1A/1B** filed |
 | **Kelp (M-13)** | **✓ COAST-1** | Ash · iodine | **→ KELP-ASH-1 Day 288** |
 
-**Copper smelt on hold** · **O-1** reserve · **FORGE-D ✓ IRON-GATE 14/14** · **IRON-BAR-1 ✓**.
+**Copper smelt on hold** · **O-1 ~12.5 kg** · **O-IRON-1 ~1.8 kg** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.
 
 ---
 

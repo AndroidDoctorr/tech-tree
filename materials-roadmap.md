@@ -1,7 +1,7 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 339**).
+**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 365**).
 
 ## Mortar / grout tiers
 

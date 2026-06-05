@@ -1,6 +1,6 @@
 # Player spawn locations (~10,000 BC)
 
-**10 players** in the draft roster — global spread, **same era**, different biomes. Distances are **story geography**, not exact pins.
+**9 movie players + 1 journal POV** in the draft roster — global spread, **same era**, different biomes. Distances are **story geography**, not exact pins.
 
 Each site should **look different on screen** and **force different early priorities** (water vs cold vs salt vs flood timing).
 
@@ -30,7 +30,7 @@ Each site should **look different on screen** and **force different early priori
 
 | # | Site | Biome | Day-one crisis | Local advantage | Weak early season |
 |---|------|-------|----------------|-----------------|-------------------|
-| **1** | **Orontes valley** (Antioch-class) | River terrace, mild Levant | Where to sleep; not panic | Water, clay, plain, ore within range | Emotional isolation; over-plans |
+| **1** | **Orontes valley** (Antioch-class) | River terrace, mild Levant | Where to sleep; not panic | Water, clay, plain, ore within range | **Torr (journal POV)** — see [../../journal/index.md](../../journal/index.md) |
 | **2** | **Nile fringe / Fayum edge** | Floodplain + reed margin | Wet feet; hippo/bird noise | Fish, papyrus, silt fertility intuition | No stone; copper far; flood season |
 | **3** | **North Jordan / Dead Sea rift** | Hot rift valley, salt pans | Heat + thirst management | **Salt**, reeds, warm winter | Harsh summer; farming narrow |
 | **4** | **Çukurova / Cilician coast** | Coastal plain + river | Wind; sand in everything | Fish, timber, trade geometry later | Storm exposure; clay varies |
@@ -49,10 +49,10 @@ Each site should **look different on screen** and **force different early priori
 
 | Cluster | Members | Why they find each other |
 |---------|---------|--------------------------|
-| **Levant–Nile corridor** | **1, 2, 3** | Smoke columns + river paths; walkable in weeks if desperate |
+| **Levant–Nile corridor** | **Torr (#1), 2, 3** | Smoke columns + river paths; walkable in weeks if desperate — **no contact logged @ d365** |
 | **Fertile Crescent arc** | **1, 4, 5, 6** | Shared geography language; ore/agriculture trade story |
 | **Long isolation** | **7, 8, 9, 10** | May not meet until **midgame** or **finale migration** toward beacon |
-| **First contact (story)** | **3 + 6** or **2 + 1** | Salt + river = trade impulse; or Nile + Orontes recognition |
+| **First contact (story)** | **3 + 2** (Elena + Rosa) or **2 + 1** (Rosa sees Torr smoke) | Salt + fish = trade impulse |
 
 **Drama engine:** Players who **never meet** still affect the trial (competing smoke, accidental conflict at distance, beacon race).
 
@@ -77,6 +77,6 @@ Each site should **look different on screen** and **force different early priori
 
 ## Link to journal
 
-Site **#1** mirrors the [tech-tree journal](../../README.md). Other sites are **what-if** pressure tests — same rules, different starting hand.
+Site **#1** is **[Torr’s journal](../../README.md)**. Other sites are **what-if** pressure tests — same rules, different starting hand. Player progress @ Day 365 → [../player-summaries/README.md](../player-summaries/README.md).
 
 See [player-roster.md](player-roster.md) for who drops where.
