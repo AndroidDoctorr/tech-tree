@@ -6,7 +6,7 @@
 
 ## One paragraph
 
-Jim **knows the chapter names** and **builds slowly**. @ Day 365: **fired hand-built pots** (assistant refused, hands learned anyway), **wild grain collection**, **flint hafting**, **pit fire**, and a **partial reed shelter** he calls “Mehrgarh-cosplay.” He **will not ask the assistant** for procedure — professional ego — so rediscovery is **slower than Jin’s** despite better theory. **Seed selection notes** on slate exceed his **planted area**. Bad knee limits haul; **no smelt, no lime, no pack animal**. **Isolation extreme** — no smoke contact. He narrates to empty air: *“You’re skipping pottery Neolithic.”*
+Jim **knows the chapter names** and **builds slowly**. @ Day 365: **fired hand-built pots** (assistant refused, hands learned anyway), **wild grain collection**, **flint hafting**, **pit fire**, and a **partial reed shelter** he calls “Mehrgarh-cosplay.” He **will not ask the assistant** for procedure — professional ego — so rediscovery is **slower than Jin’s** despite better theory. **Seed selection notes** and **biosphere/agronomy sketches** on slate exceed his **planted area** — he is the cast’s **science communicator** lane, not a hands hero. Bad knee limits haul; **no smelt, no lime, no pack animal**. **Isolation extreme** — no smoke contact. He narrates to empty air: *“You’re skipping pottery Neolithic.”*
 
 ---
 
@@ -29,4 +29,4 @@ Jim **knows the chapter names** and **builds slowly**. @ Day 365: **fired hand-b
 
 ## Likely next
 
-**Humility beat** — student of **Rosa** when contact eventually happens · audience surrogate for “geography rules everything.”
+**Humility beat** — student of **Rosa** when contact eventually happens · **names macguffin/beacon context** when group merges · audience surrogate for “geography rules everything.”

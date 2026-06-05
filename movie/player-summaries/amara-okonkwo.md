@@ -6,7 +6,7 @@
 
 ## One paragraph
 
-Amara runs a **mobile supply doctrine** — not a campus. **Seasonal water pins**, **dried meat**, **gourd skins**, **light reed shade**, **ground-route map** scratched and redrawn. She has **no permanent kiln**, **no copper**, **minimal agriculture** (wild millet/sorghum class when in season). **Best logistics brain in the trial** @ d365 — calories **barely** stable through discipline, not abundance. @ Day ~340 she began **intentional smoke signals** (green branch, timed puffs) toward **north** — **no confirmed reply**. **First to seek alliance on purpose** — still **alone**. Assistant distrust (colonial echo) means she verifies everything twice.
+Amara runs a **mobile supply doctrine** — not a campus. **Seasonal water pins**, **dried meat**, **gourd skins**, **light reed shade**, **ground-route map** scratched and redrawn. She has **no permanent kiln**, **no copper**, **minimal agriculture** (wild millet/sorghum class when in season). **Best logistics brain in the trial** @ d365 — calories **barely** stable through discipline, not abundance. @ Day ~340 she began **intentional smoke signals** (green branch, timed puffs) toward **north** — **no reply** (expected: **no one within range**). **First to seek alliance on purpose** — still **alone**. Assistant distrust (colonial echo) means she verifies everything twice.
 
 ---
 
@@ -21,10 +21,10 @@ Amara runs a **mobile supply doctrine** — not a campus. **Seasonal water pins*
 
 ---
 
-## Signals
+## Signals (no contact @ d365)
 
-- **Outbound smoke** ~Day 340+ — **no reply logged**.
-- **Awareness:** “Someone NE maybe” — too far to walk on hope.
+- **Outbound smoke** ~Day 340+ — **theatrical** · continent-scale distance · **no reply possible**.
+- **Inbound:** none attributed to players.
 
 ---
 

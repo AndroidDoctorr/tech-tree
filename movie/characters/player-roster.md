@@ -4,7 +4,26 @@
 
 **Design rule:** Nobody can solo the tech tree fast. **Together** they approximate what the journal one-player run achieves — **that may be the point.**
 
-**Orontes (#1) = Torr** — the [journal](../../README.md) protagonist · **not** a separate movie cast member. **Priya Mehta removed** (was a journal echo; slot merged into Torr). Year 1 estimates for other players → [../player-summaries/README.md](../player-summaries/README.md).
+**Orontes (#1) = Torr** — the [journal](../../README.md) protagonist · **not** a duplicate cast member. **Ten** movie players elsewhere · Year 1 estimates → [../player-summaries/README.md](../player-summaries/README.md) · crew/endgame → [space-crew-matrix.md](space-crew-matrix.md).
+
+---
+
+## Beats Torr at (@ Year 1–2)
+
+*Torr = breadth / campus / ore / iron / physics / records. Others win **narrow lanes** — see [space-crew-matrix.md](space-crew-matrix.md).*
+
+| Player | Beats Torr at |
+|--------|----------------|
+| **Rosa** | Calories · smoke timing · feeding a group · morale-through-food |
+| **Elena** | Clinical care · infection control · **salt/brine chemistry** |
+| **Diego** | Bellows · heat flow · kiln tuning · “feel the seam” |
+| **Tom** | Timber frame · cold-country shelter · structural wood |
+| **Marcus** | Hide · hunt · sign · **meat without a farm** |
+| **Jin** | Systems/debug · assistant leverage · **comms/beacon architecture** |
+| **Amara** | Route discipline · supply chains · group logistics |
+| **Priya** | Site survey · **water redundancy** · exit planning — **not** ore mass |
+| **Yuki** | Fine motor · precision fab · astronomical patience |
+| **Jim** | Naming reinvented tech · **crop/biosphere theory** · **macguffin context** for audience |
 
 ---
 
@@ -13,19 +32,21 @@
 | Skill lane | Strong | Weak | Can't at first |
 |------------|--------|------|----------------|
 | **Camp / water / fire** | Marcus, Yuki | Rosa, Diego | Everyone except Marcus struggles day 1 |
-| **Food / preservation** | Rosa, Tom | Jin | Lime slaking, grain science |
-| **Building / wood** | Tom, Marcus | Jim | Brick hypocaust math |
+| **Food / preservation** | Rosa, Tom | Jin | Lime slaking · **Torr: not daily kitchen** |
+| **Building / wood** | Tom, Marcus | Priya, Jim | Brick hypocaust math |
 | **Medicine / body** | Elena | — | Surgery without kit |
-| **Hunt / track** | Marcus, Amara | Jin | — |
-| **Assistant power-use** | Jin | Marcus (suspicious of device) | Asking the *right* question |
-| **History / context** | Jim | — | Hands-on craft |
-| **Leadership / logistics** | Rosa, Amara | Jin | — |
+| **Hunt / track / protein** | Marcus | Jin, Priya | **Marcus: meat without farm** |
+| **Assistant power-use** | Jin, Priya | Marcus (suspicious of device) | Asking the *right* question |
+| **Comms / RF / beacon** | **Jin** | Diego (power/controls) | Orbital mechanics |
+| **Science comms / biosphere** | **Jim** | Priya (planning) | Hands-on speed |
+| **History / deep context** | Jim | — | — |
+| **Leadership / logistics** | Rosa, Amara, Priya | Jin | — |
 | **Metal / chemistry** | Tom (practical), Diego | Everyone | Smelt from zero |
-| **Geography / site choice** | Amara | Amara (open sky not rivers) | — |
+| **Geography / site choice** | Priya, Amara | Amara (open sky not rivers) | — |
 
 ---
 
-## The nine (draft) + journal POV
+## The ten (movie) + journal POV
 
 ### Torr — **Journal protagonist @ Orontes (#1)**
 
@@ -33,7 +54,10 @@
 |--|--|
 | **Drop** | **Orontes valley** — same site as journal |
 | **Canon** | [journal/index.md](../../journal/index.md) · Day-by-day · **not** duplicated in movie cast |
-| **Note** | Movie ensemble **does not** include a separate “engineer @ Antioch” — that’s you. |
+| **Archetype** | Skyscraper-at-Day-60 · breadth · institutions · **not Mary Sue** |
+| **Ahead of cast @ Y1–2** | Campus · ore · iron · forge · physics · calendar · expeditions |
+| **Behind cast** | Kitchen · medic · bellows feel · timber · hunt · comms · precision · biosphere theory |
+| **Meeting role** | Industrial base for launch — **metal/power because campus exists** |
 
 ---
 
@@ -47,7 +71,9 @@
 | **Strong** | Fish breakdown, smoke timing, "what smells done," feeding six on nothing |
 | **Weak** | Hunting; geology; assistant jargon |
 | **Blind spot** | Thinks tech is men's toys until she owns the smokehouse |
-| **Arc** | Becomes **food authority** — parched grain, jerky, fig leather scale; negotiates trade with Jordan salt player |
+| **Arc** | **Food authority** · **first trade with Elena (protected)** — salt ↔ fish instant win; later feeds launch sprint |
+| **Beats Torr** | Smoke · feeding · kitchen morale |
+| **Meet unlock** | **+ Elena** → jerky/brine scale · **+ Torr** → winter/trail food for campus |
 | **Death count** | Medium ( puts hands in wrong places ) |
 | **Line** | *"You're not hungry enough to be clever. Eat first."* |
 
@@ -63,7 +89,9 @@
 | **Strong** | Trap logic, hide, meat, cold nights, reading sign |
 | **Weak** | Lime, copper, "chemistry talk," assistant trust |
 | **Blind spot** | Underestimates whoever has a real roof until he needs salt |
-| **Arc** | **Cannibalism scene partner** (victim or killer TBD) — learns respawn; shame → pragmatism |
+| **Arc** | **Cannibalism scene partner** (victim or killer TBD) · shame → pragmatism · **field ops** — not another builder |
+| **Beats Torr** | Hide · hunt · sign · **protein without agriculture** |
+| **Meet unlock** | **+ camp** → meat/hide immediately · security on the trail |
 | **Death count** | Low then spike if predator phase |
 | **Line** | *"Wind's wrong. We wait."* |
 
@@ -74,14 +102,16 @@
 | | |
 |--|--|
 | **Drop** | **Upper Tigris (#6)** |
-| **Was** | Software engineer, 26; assistant asks *are* his personality |
-| **Archetype** | Device native · clever · physically soft |
-| **Strong** | Asks assistant precise questions; systems thinking; rope math |
+| **Was** | Software engineer, 26; **ham-radio / EE hobby**; assistant asks *are* his personality |
+| **Archetype** | Device native · **comms/beacon brain** · physically soft |
+| **Strong** | Assistant precise questions; systems thinking; **RF/signal architecture**; rope math; automation/logging |
 | **Weak** | First fire took twelve deaths; can't fillet a fish |
 | **Blind spot** | Treats people like APIs |
-| **Arc** | Highest early **death count** played for empathy not laughs; becomes **bridge translator** between factions |
+| **Arc** | Death-count empathy → **bridge translator** → **builds beacon/signal path** for macguffin endgame |
+| **Beats Torr** | Debug mindset · **comms** · group protocol · “stop dying stupid” |
+| **Meet unlock** | **+ any camp** → assistant as shared protocol · logging · **signal plan** |
 | **Death count** | **High early** → drops |
-| **Line** | *"What's the respawn anchor semantics?"* |
+| **Line** | *"What's the respawn anchor semantics?"* · *"That's not noise — that's a carrier."* |
 
 ---
 
@@ -90,12 +120,14 @@
 | | |
 |--|--|
 | **Drop** | **North Jordan / salt rift (#3)** |
-| **Was** | ER nurse, 37; divorce final signed the week before abduction |
+| **Was** | ER nurse, 37; **Jordanian-American**; divorce final signed the week before abduction |
 | **Archetype** | Medic · ethics · steady hands |
 | **Strong** | Wounds, infection reduction, triage, talks someone off panic |
 | **Weak** | Building; foraging taxonomy |
 | **Blind spot** | Carries others' trauma; forgets to sleep (bad anchor) |
-| **Arc** | Discovers **salt** early — unlocks real jerky for the network; moral center after cannibalism scene |
+| **Arc** | **Salt early** · **first contact with Rosa (protected)** · moral center after cannibalism |
+| **Beats Torr** | Medic · infection · **salt/brine chemistry** |
+| **Meet unlock** | **+ Rosa** → **instant** jerky/brine at scale (table-flip) |
 | **Death count** | Medium ( exhaustion mistakes ) |
 | **Line** | *"You're not dead. I'm looking at you. Breathe."* |
 
@@ -112,6 +144,8 @@
 | **Weak** | Heat without wood; deserts confuse him |
 | **Blind spot** | Impatient with "talkers" — respects Rosa instantly |
 | **Arc** | Migrates **south** toward Levant cluster mid-film; culture clash → mutual need |
+| **Beats Torr** | Timber frame · cold-country shelter · axe discipline |
+| **Meet unlock** | **+ Diego** → **forge that doesn’t lie** (frame + bellows) |
 | **Death count** | Low |
 | **Line** | *"Green wood steams. You hear it."* |
 
@@ -128,6 +162,8 @@
 | **Weak** | Fine motor crafts; assistant distrust (colonial echo in her head) |
 | **Blind spot** | Thinks solo is safer until a kid-equivalent goat moment breaks her |
 | **Arc** | **First to seek alliance on purpose** — sends smoke **message**, not accident |
+| **Beats Torr** | Routes · water timing · **supply-chain discipline** |
+| **Meet unlock** | **+ Rosa** → **first trade network** (schedule + smokehouse) |
 | **Death count** | Medium |
 | **Line** | *"We don't need friends. We need a supply chain."* |
 
@@ -143,7 +179,9 @@
 | **Strong** | Air flow, bellows, kiln tuning once shown clay; fishing from pier childhood |
 | **Weak** | Plants; patience for politics |
 | **Blind spot** | Will blow past bronze and hurt himself without Elena |
-| **Arc** | **Metal lane** owner after group forms; fights **Torr/Diego** on safety vs speed once campus meets coast |
+| **Arc** | **Metal lane** owner after group forms; fights **Priya/Torr** on safety vs speed |
+| **Beats Torr** | Bellows · heat seams · kiln tuning · **power/thermal feel** |
+| **Meet unlock** | **+ Tom** → forge frame · **+ Torr** → **repeatable smelt** |
 | **Death count** | Medium-high at forge |
 | **Line** | *"You're losing heat out the seam. Feel that?"* |
 
@@ -154,12 +192,14 @@
 | | |
 |--|--|
 | **Drop** | **Indus foothills (#7)** |
-| **Was** | Archaeology lecturer, 55; published on Neolithic transitions; bad knee |
-| **Archetype** | Knows *what* should happen · can't *do* it fast |
-| **Strong** | Names what they're reinventing; morale through story; seed selection theory |
+| **Was** | Archaeology lecturer, 55; **agronomy/biosphere side research**; published on Neolithic transitions; bad knee |
+| **Archetype** | **Science communicator** · knows *what* should happen · can't *do* it fast |
+| **Strong** | Names what they're reinventing; **crop/biosphere theory**; seed selection; **macguffin context** for audience |
 | **Weak** | Hands; cold; won't ask assistant (professional ego) |
 | **Blind spot** | Lectures while Jin dies again in the background |
-| **Arc** | Humility beat — **student of Rosa**; audience surrogate for "geography rules everything" |
+| **Arc** | Humility beat — **student of Rosa** · **names the beacon/archive** when group merges |
+| **Beats Torr** | **Neolithic chapter names** · blind-alley avoidance · biosphere theory |
+| **Meet unlock** | **+ group** → skip wrong paths · **observer comms** explainer |
 | **Death count** | Low ( avoids risk ) |
 | **Line** | *"This is pre-pottery Neolithic. You're skipping chapters."* |
 
@@ -176,22 +216,50 @@
 | **Weak** | Calories; altitude; big gestures |
 | **Blind spot** | May never join main group until Act 3 — **wildcard merge** |
 | **Arc** | Proves trial isn't only about **mass** but **precision** — brings llama/donkey-class logic or star calendar |
+| **Beats Torr** | Fine motor · cordage · **instruments/alignment** · astronomical notice |
+| **Meet unlock** | **+ forge group** → **drawplate · clocks · probe alignment** |
 | **Death count** | Low but memorable one ( cliff ) |
 | **Line** | *(nods)* · *"Wrong knot."* |
 
 ---
 
+### 10. Priya Mehta — **The map in her head**
+
+| | |
+|--|--|
+| **Drop** | **Iranian plateau interior (#11)** — Yazd / Dasht-e Kavir margin |
+| **Was** | Civil engineer, 34; side obsession with Near East geography (VR, war maps, Egypt trips) |
+| **Archetype** | Solo planner · redundancy cultist · **Act 2/3** contact |
+| **Strong** | Site selection, hydrology survey, charcoal/brick pipeline once shown once, assistant Q&A |
+| **Weak** | People skills; hands slower than Torr; desert calories |
+| **Blind spot** | Over-preps winter at the expense of saying hello |
+| **Arc** | Learns **delegation isn't risk** — her compound works when Rosa feeds people and Elena stops infections · meets **Torr** late |
+| **Beats Torr** | **Water/redundancy/survey** · exit routes · duplicate infrastructure |
+| **Loses to Torr** | Ore mass · industrial campus · iron pipeline |
+| **Meet unlock** | **+ Torr** *(Act 2/3)* → **expansion plan · no duplicate mistakes** |
+| **Death count** | Low ( cautious ) |
+| **Line** | *"Redundancy is good. So is redundancy."* |
+
+---
+
 ## Ensemble chemistry (scene fuel)
+
+*Instant unlocks → [space-crew-matrix.md](space-crew-matrix.md)*
 
 | Pair | Dynamic |
 |------|---------|
-| **Torr + Rosa** | *(future)* Ore campus vs smokehouse — trade not yet @ journal d373 |
-| **Rosa + Elena** | Salt vs fish — **first likely contact** |
+| **Elena + Rosa** | **First contact (protected)** — salt ↔ fish → **jerky/brine at scale** |
+| **Rosa + Torr** | *(future)* Smokehouse + campus → **winter/trail food** |
+| **Diego + Tom** | Bellows + frame → **forge that doesn’t lie** |
+| **Diego + Torr** | Heat + ore/char → **repeatable smelt** |
+| **Priya + Torr** | *(Act 2/3)* She **beats** water/redundancy plan; he **beats** ore mass |
+| **Priya + Diego** | Safety vs speed at the forge |
 | **Marcus + Jin** | Hunter vs hacker — death count scene aftermath |
 | **Elena + Marcus** | Medic cleans up after hunt; moral argument after cannibalism |
-| **Tom + Diego** | Bellows + frame — forge scene |
-| **Jim + Torr** | Theory vs hands — *"Antioch works because—"* / *"I know."* |
-| **Amara + Rosa** | Supply chain meets smokehouse — **first intentional trade network** |
+| **Jim + group** | Names the chapter · **macguffin context** · skip blind alleys |
+| **Jin + camp** | Assistant protocol · **logging · signal plan** |
+| **Amara + Rosa** | Supply chain meets smokehouse — **first trade network** |
+| **Yuki + forge group** | Precision → drawplate · alignment · clocks |
 | **Yuki + anyone** | Language of craft; earns place without speeches |
 
 ---
@@ -206,4 +274,4 @@ Solo players fail or stall; **cooperation is the hidden win metric** (see [../pr
 
 ## Casting note
 
-Age and body diversity on purpose. **No** "token" slot — each carries plot load. Avoid making the only non-Western characters mystics or killers; Amara is logistics, Rosa is food sovereignty, Yuki is precision.
+Age and body diversity on purpose. **No** "token" slot — each carries plot load. Avoid making the only non-Western characters mystics or killers; Amara is logistics, Rosa is food sovereignty, Yuki is precision, Priya is engineering.

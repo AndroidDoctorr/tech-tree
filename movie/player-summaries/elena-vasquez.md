@@ -6,7 +6,7 @@
 
 ## One paragraph
 
-Elena found **salt** early — the arc holds. **Evaporation pans**, **brine crock**, and **real jerky** are operational; she is the only player with **preservation chemistry** beyond smoke. Shelter is a **shade-reed hut** with a **cool pit store**; medicine is **MK-class** (boiled cloth, splint, infection discipline) without Elena naming it that. She has **chert tools**, **cordage**, and **parched wild grain** at modest scale — not a fenced farm. **No kiln copper.** She has seen **distant smoke** on the **Nile axis** (Rosa) and **northeast** (Torr) but stayed for **water + salt rhythm**. **No face-to-face meeting** yet. She sleeps on schedule when she remembers — blind spot still bites.
+Elena found **salt** early — the arc holds. **Jordanian-American** ER nurse; divorce signed the week before abduction. **Evaporation pans**, **brine crock**, and **real jerky** are operational; she is the only player with **preservation chemistry** beyond smoke. Shelter is a **shade-reed hut** with a **cool pit store**; medicine is **MK-class** (boiled cloth, splint, infection discipline) without Elena naming it that. She has **chert tools**, **cordage**, and **parched wild grain** at modest scale — not a fenced farm. **No kiln copper.** **No face-to-face meeting** yet. She sleeps on schedule when she remembers — blind spot still bites.
 
 ---
 
@@ -21,13 +21,14 @@ Elena found **salt** early — the arc holds. **Evaporation pans**, **brine croc
 
 ---
 
-## Signals (no contact yet)
+## Signals (no contact @ d365)
 
-- **Trade impulse ready** — would walk NW for fish smoke if drought worsens.
-- **Aware of NE smoke** — filed as “maybe camp, maybe wildfire.”
+- **No confirmed player smoke** — Rosa’s smokehouse **~200–350 km SW** · Torr **~300–400 km N** — both below identification threshold.
+- **Trade impulse ready** — would **walk** toward Nile fish smoke **if drought worsens** (smell on wind ≠ seeing Torr’s column).
+- **Wildfire / haze** — filed as weather, not people.
 
 ---
 
 ## Likely next
 
-**Rosa** first contact (salt ↔ fish). Becomes **moral center** after any cannibalism beat elsewhere — not present for Marcus intro @ d365.
+**Rosa** first contact (salt ↔ fish) — **deliberate walk · protected pair · instant jerky/brine scale**. Becomes **moral center** after any cannibalism beat elsewhere — not present for Marcus intro @ d365.

@@ -1,6 +1,6 @@
 # Player spawn locations (~10,000 BC)
 
-**9 movie players + 1 journal POV** in the draft roster — global spread, **same era**, different biomes. Distances are **story geography**, not exact pins.
+**10 movie players + Torr (journal POV @ #1)** — global spread, **same era**, different biomes. Distances are **story geography**, not exact pins.
 
 Each site should **look different on screen** and **force different early priorities** (water vs cold vs salt vs flood timing).
 
@@ -21,7 +21,8 @@ Each site should **look different on screen** and **force different early priori
                               |
               [SAHEL / SAVANNA EDGE] ——— [SE ASIA RIVER / MONSOON]
                               |
-                    [ANDES ALTIPLANO] ——— [AMAZON–GUIANA EDGE]
+         [IRANIAN PLATEAU — Priya]          [ANDES ALTIPLANO]
+              (far · Act 2/3)                    (Yuki)
 ```
 
 ---
@@ -40,8 +41,22 @@ Each site should **look different on screen** and **force different early priori
 | **8** | **Sahel / savanna edge** (W Africa class) | Grassland + seasonal water | **Visibility** — no cover | Game trails; open sky navigation | Seasonal water vanishes; different fauna |
 | **9** | **North European forest–steppe** (Baltic / N Germany class) | Cold forest, lake | **Temperature** — hypothermia fast | Timber, fish, game; preservation culture | Short growing season; lime/clay scarce |
 | **10** | **Central Andes altiplano** | High cold basin | Altitude, thin air, cold night | Lake protein (if Titicaca-class); tuber potential later | No familiar grains; isolation extreme |
+| **11** | **Iranian plateau interior** (Yazd / Dasht-e Kavir margin) | Hot arid basin · salt desert edge | **Water + heat** · visibility | Salt · survey geometry · wind patterns · qanat-class thinking | Calories sparse · no river terrace · **~1200+ km from Orontes** |
 
 **Alternates / bench:** SE Asia river (monsoon), Japanese archipelago (isolated island logic), Yucatán cenote (water easy, soil thin), Australian north coast (completely alien toolkit).
+
+---
+
+## Smoke visibility *(multiplayer realism)*
+
+| Signal type | Typical range | @ Day 365 |
+|-------------|---------------|-----------|
+| Camp / smokehouse | ~5–15 km | **No player-to-player ID** |
+| Kiln / charcoal column | ~30–80 km (exceptional) | **Anonymous haze at best** — Torr ↔ Diego **~120–180 km** |
+| Deliberate smoke code | Must be **within ~30 km** + agreed | **None confirmed** |
+| Travel / walk | Weeks in Levant cluster | **First contact path** |
+
+**Rule:** Meeting = **feet or beacon**, not binoculars on factory smoke.
 
 ---
 
@@ -49,12 +64,13 @@ Each site should **look different on screen** and **force different early priori
 
 | Cluster | Members | Why they find each other |
 |---------|---------|--------------------------|
-| **Levant–Nile corridor** | **Torr (#1), 2, 3** | Smoke columns + river paths; walkable in weeks if desperate — **no contact logged @ d365** |
-| **Fertile Crescent arc** | **1, 4, 5, 6** | Shared geography language; ore/agriculture trade story |
-| **Long isolation** | **7, 8, 9, 10** | May not meet until **midgame** or **finale migration** toward beacon |
-| **First contact (story)** | **3 + 2** (Elena + Rosa) or **2 + 1** (Rosa sees Torr smoke) | Salt + fish = trade impulse |
+| **Levant–Nile corridor** | **Torr (#1), 2, 3** | River paths · walkable in weeks if desperate — **no contact @ d365** |
+| **Fertile Crescent arc** | **1, 4, 5, 6** | Shared geography · ore/agriculture trade — **still mostly far** |
+| **Long isolation** | **7, 8, 9, 10, 11** | Act 2/3 · migration · beacon |
+| **First contact (story)** | **3 + 2** (Elena + Rosa) | Salt + fish — **walk**, not smoke |
+| **Late merge** | **11** (Priya) + **1** (Torr) | **Act 2/3** — westward march or beacon · **not** Levant crowded start |
 
-**Drama engine:** Players who **never meet** still affect the trial (competing smoke, accidental conflict at distance, beacon race).
+**Drama engine:** Players who **never meet** still affect the trial (beacon race · observer score · accidental conflict at distance).
 
 ---
 
@@ -72,6 +88,7 @@ Each site should **look different on screen** and **force different early priori
 | Sahel | Gold grass, acacia silhouette, vast sky |
 | N Europe | Grey lake, pine, breath visible |
 | Altiplano | Thin air blue, stone flats, llama-class fauna if used |
+| Iranian plateau | Bleached salt flat, wind towers, mirage heat, star-clear night |
 
 ---
 

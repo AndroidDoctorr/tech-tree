@@ -6,7 +6,7 @@ Parking lot for decisions. Strike when resolved.
 
 ## Plot engine
 
-- [ ] **Win condition** — orbit? probe? beacon? *(cooperation score locked draft)*
+- [ ] **Win condition** — orbit? probe? beacon? *(draft: [characters/space-crew-matrix.md](characters/space-crew-matrix.md) — beacon/archive + crew of few)*
 - [x] **Alien tone** — mysterious · not hostile · **Star Trek** · finale apology
 - [x] **Player roster** — see [characters/player-roster.md](characters/player-roster.md)
 - [x] **Spawn locations** — see [characters/spawn-locations.md](characters/spawn-locations.md)
