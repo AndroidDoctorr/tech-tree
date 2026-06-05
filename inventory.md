@@ -1,10 +1,10 @@
 # Inventory
 
-*Last audited: **Day 363** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography.*
+*Last audited: **Day 364** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **respawn H-v2 bed** · **YEARLING-1 @ HOLDING-1** · **Cal-Y2 D126** · **ROOF-W1 ~85% · tile lay GO**
+**Status:** **HOME H-v2** · **respawn H-v2 bed** · **YEARLING-1 @ HOLDING-1** · **Cal-Y2 D127** · **ROOF-W1 ✓ · first tile roof live**
 
 ### COAST-1 ✓ complete (Day 202) — haul stored @ home
 
@@ -165,9 +165,9 @@
 | **Pile 1** | **~3–7 kg** | Belly coils Day 342 |
 | **Red seep clay (M-02)** | small | Near pile 1 |
 | **River sand (grog)** | **~3 kg** | Pile 4 / kiln yard |
-| **Fired roof tiles** | **48** | **T1–T3,T5–T50** |
-| **Green roof tiles** | **0** | **FIRE-12 ✓** — **mid goal tagged** |
-| **Tile pipeline** | **TILE-FACTORY** | **48F · sprint closed · deploy = separate clock** |
+| **Fired roof tiles** | **0 @ stock · 47 @ W-1** | **ROOF-W1 ✓ Day 364 · T38 scrap** |
+| **Green roof tiles** | **0** | **FIRE-12 ✓ · deploy closed Day 364** |
+| **Tile pipeline** | **TILE-FACTORY paused** | **48F deployed @ W-1 · reopen for annex volume** |
 | **AMPHORA-3** | **✓ pitched · load trial Day 350** | **M-08 ✓** · **water class · no weep** |
 | **AMPHORA-2** | **✓ pitched Day 321** | M-08 · **TRAIL-CACHE-2** optional |
 | **AMPHORA-1** | **✓ transport** | Fired · M-08 · **TRAIL-CACHE-TRIAL-1 ✓** |
@@ -249,7 +249,7 @@
 
 | Item | Notes |
 |------|--------|
-| **ROOF-W1** | **~85% Day 363** — **rafters + battens ✓** · **reed mat ✓** · **lime eave ✓** · **clay slip staged · tile GO** |
+| **ROOF-W1** | **✓ 100% Day 364** — **47 tiles + ridge · drip PASS · T38 scrap** |
 | **LM-1 loom** | North bay — bands **#1–4** · checked Day 283 · idle ready · ~62 m coarse + ~10 m line bank |
 | **MEASURE-1** | **✓ Day 287** | **THUMB-1** · **RULE-1** · **MASS-STONE 1/2×/5×** · **BALANCE-1** @ W-1 |
 | **BALANCE-1** | **✓ Day 286** | Cross-beam · cord pivot · bark pans |

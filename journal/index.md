@@ -371,6 +371,7 @@
 | 361 | [day-361.md](days/week-052/day-361.md) | **FORGE-D · ANVIL-FACE-1** | **IRON-NAILS-2 ✓ ×32 · total ×45** · **BLOOM-5 spent** · **Cal-Y2 D124** · **SUN-MARK-361** |
 | 362 | [day-362.md](days/week-052/day-362.md) | **W-1** | **ROOF-W1-BATTEN ✓ · ~75%** · **×40 nails** · **Cal-Y2 D125** · **SUN-MARK-362** |
 | 363 | [day-363.md](days/week-052/day-363.md) | **W-1 · v1 lime** | **ROOF-W1 mat + lime eave ✓ · ~85%** · **Cal-Y2 D126** · **SUN-MARK-363** |
+| 364 | [day-364.md](days/week-052/day-364.md) | **W-1 · v1 tile haul** | **ROOF-W1 ✓ · 48F deployed · drip PASS** · **Cal-Y2 D127** · **SUN-MARK-364** |
 
 ## Centadials (every 100 days)
 

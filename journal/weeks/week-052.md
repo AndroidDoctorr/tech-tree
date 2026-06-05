@@ -10,7 +10,7 @@
 
 *(in progress)*
 
-Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing iron for the **W-1 tile roof** sprint. **Stone mallet** holds for nail work until **IRON-HAMMER-1** earns a bloom.
+Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing iron for the **W-1 tile roof** sprint. **Day 364:** **ROOF-W1 ✓** — first operational tile roof on campus. **Stone mallet** held for nail work; **48F factory stack deployed.** **BARN-1-v1** = wood shakes + pitch, not tile.
 
 ---
 
@@ -24,15 +24,16 @@ Week fifty-two opens with **IRON-BLOOM-5** and **IRON-ADZE-1** — timber-facing
 | [361](../days/week-052/day-361.md) | **IRON-NAILS-2 ✓ ×32 · total ×45** · **BLOOM-5 spent** · **Cal-Y2 D124** · **SUN-MARK-361** |
 | [362](../days/week-052/day-362.md) | **ROOF-W1-BATTEN ✓ · ×40 nails · ~75%** · **Cal-Y2 D125** · **SUN-MARK-362** |
 | [363](../days/week-052/day-363.md) | **ROOF-W1 mat + lime eave ✓ · ~85%** · **BARN-1-v1 doctrine** · **Cal-Y2 D126** · **SUN-MARK-363** |
+| [364](../days/week-052/day-364.md) | **ROOF-W1 ✓ · 48F deployed · drip PASS** · **first tile roof** · **Cal-Y2 D127** · **SUN-MARK-364** |
 
 ---
 
-## Carrying (current @ Day 363)
+## Carrying (current @ Day 364)
 
-- **ROOF-W1 ~85%** — mat + eave ✓ · **48F tile lay GO**
-- **48F roof tiles** @ v1 · **clay slip staged @ W-1**
+- **ROOF-W1 ✓** — first campus tile roof · drip PASS
+- **0F tiles @ stock** — factory paused · annex volume queued
 - **NAILS ×5** · **CHAR ~7 kg** · **Wood ~75 kg**
-- **BARN-1-v1** — wood + pitch/sand shakes · not tile
+- **Queued:** **H-v2-KITCHEN-1 · CRANE-1 · BARN-1-v1 (wood roof)**
 
 ---
 

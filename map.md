@@ -134,7 +134,7 @@
 |--|--|
 | **Footprint** | **~3 × 4 m** wattle |
 | **Status** | **Complete** Day 71 — brain-tan, tools, charcoal prep |
-| **ROOF-W1** | **~85% Day 363** — battens ✓ · mat + lime eave ✓ · tile lay next |
+| **ROOF-W1** | **✓ 100% Day 364** — **first campus tile roof · 48F deployed · drip PASS** |
 | **Stock** | Pile 9 — poles, withes, reed |
 
 ---

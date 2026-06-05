@@ -8,7 +8,7 @@
 
 ## Where you are
 
-**~363 days in.** **Cal-Y2 D126** · **Week 52**. **ROOF-W1 ~85% · mat + lime eave ✓ · tile lay GO**.
+**~364 days in.** **Cal-Y2 D127** · **Week 52**. **ROOF-W1 ✓ · first tile roof · factory stack empty**.
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
@@ -34,7 +34,7 @@
 | **STORE-3** v1 east annex (dry overflow) | **✓ operational Day 272** |
 | **MILLHOUSE-3** north bay enclosure | **✓ 100% Day 278** |
 | **WOOD-ROOF** shake / pitch seal | ~ **v0 trial queued · M-08 pitch + sand aggregate · BARN-1-v1 path** |
-| **TILE-ROOF-R&D** (log form · mock panel) | **TILE-FACTORY mid ✓** · **48F** · **deploy clock** |
+| **TILE-ROOF-R&D** (log form · mock panel) | **✓ deploy Day 364 @ W-1** · **factory paused · annex = new volume** |
 | **Amphorae** | **AMPHORA-1/2/3 ✓ all pitched** |
 | Goat pen **P-GOAT-1** · holding **HOLDING-1** | ✓ |
 | Yearling pen / corral **D-27** | ✓ |
@@ -183,7 +183,7 @@
 | Quicklime · grout · hypocaust mortar | ✓ |
 | Stackable **brick** hoard | ✓ 100+ class |
 | **Dressed stone block** (chisel trial · FS stock) | · **IRON-CHISEL-1** dress test @ pile 4 · floor-stone path |
-| Fired **tile** (roof · floor) | · |
+| Fired **tile** (roof · floor) | **✓ W-1 Day 364** · **0F stock · annex volume queued** |
 | **Super-hot furnace** lining (glass / iron grade) | ~ FORGE-D ~97% · not glass temp yet |
 
 ---
@@ -431,7 +431,7 @@
 | **Wicker baskets** | **#2 + #3–6 labeled ✓ Day 356** | **N leg optional · BACKPACK-1 later** | **Set complete for farm class** |
 | **Spear / predator kit** | **SPEAR-2 ✓** · **bow ×16 (12 pointed)** · **CU-KNIFE** · fire · **FENCE-E ✓** | **practice · N fence leg · palisade later** | **Palisade Week 51+** |
 | **Better loom** | **LM-1** ✓ · bands **#1–4** · **~62 m** coarse bank | **LM-2** heddle v2 → **LM-3** wide beam | **LM-2 ~1 week** part-time · **LM-3 +2 weeks** |
-| **Iron force multiply** | **AXE ✓ · ADZE ✓ · WEDGE ✓ · CHISEL ✓ · NAILS ×5** | **ROOF-W1 tile lay · mat/lime** | **Tile ~1 day · kitchen stake after PASS** |
+| **Iron force multiply** | **AXE ✓ · ADZE ✓ · WEDGE ✓ · CHISEL ✓ · NAILS ×5** | **Roof sprint closed · kitchen/bloom/farm** | **TILE reopen ~40–60 for annex** |
 
 **Predator note:** Orontes camp has had **no logged contact** — fox/partridge background only. Levant hills can hold **hyena · leopard · wolf** class sign; you're on **easy mode** until expeditions push into brush at night or livestock draws scavengers. Bow + pointed arrows + barbed spear + **never skip night fire** = reasonable Year 2 baseline before palisade.
 
@@ -452,11 +452,11 @@
 
 ---
 
-## Suggested next rungs (Day 363+)
+## Suggested next rungs (Day 364+)
 
-1. **ROOF-W1-TILE** — **48F lay · clay slip · ridge**
-2. **ROOF-W1 close** — **drip test · W-1 first tile roof ✓**
-3. **WOOD-ROOF-v0 trial** — **pitch + sand seal · BARN-1-v1 path**
+1. **H-v2-KITCHEN-1 stake** **or** **farm watch** — **roof sprint closed**
+2. **TILE-FACTORY reopen** — **H-v2 annex · ~40–60 tiles**
+3. **IRON-BLOOM-6** **·** **WOOD-ROOF-v0 trial** **·** **CRANE-1 stake** — **pick one hero**
 
 ### Reference cadence *(velocity — not daily log)*
 
