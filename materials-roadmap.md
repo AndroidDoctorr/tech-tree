@@ -1,7 +1,7 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Stock by location:** [inventory.md](inventory.md) (audited **Day 253**).
+**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 339**).
 
 ## Mortar / grout tiers
 
@@ -599,7 +599,7 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 | **Phase 2** | **✓ ~95% Day 221** | SW windbreak full · bellows shelter · char sight — spring re-lash = maintenance |
 | **Phase 3** | **✓ 100% Day 278** | North bay · thatch · zones CHAR·FORGE·TOOL·WORK |
 | **WORKBENCH-1** | **✓ Day 279** | Flat top · peg rail · tool stock @ FORGE zone |
-| **CHAR @ forge** | **~24.5 kg** | Bulk by FORGE-D · vault **~51 kg** campus reserve |
+| **CHAR @ forge** | see inventory | Forge lane · vault split — see inventory |
 | **MILLHOUSE-SHELF-1** | **✓ Day 282** | Two tiers · labels · smelt tray staged |
 | **Doctrine** | **Forge district ✓** · shelves for fiber/ore overflow |
 
@@ -734,12 +734,12 @@ Kiln A enlarged (high temp) + Kiln B production workhorse. **~80–100 extra fir
 | **COAST-BEACON-1 v0** | **✓ deployed** | Cairn **~1.4 m** + **M-spike #2** + lime/red bands · home vector **E** |
 | **COAST-TRAIL-1** | **✓** | **M-spike #1** @ **~8 km W** |
 | **M-11 alum mark** | **✓ mark-only** | Cliff **~400 m N** of beach — no collect Year 1 |
-| **M-13 kelp** | **✓ stored** | **~450 g dry** @ v1 shelf — kelp ash Year 2 |
+| **M-13 kelp** | **✓ COAST-1** | Burned Day 288 → **KELP-ASH-1** — see inventory |
 | **LIGHTHOUSE-1** | **Horizon filed** | Permanent nav — after beacon doctrine proven |
 
 ---
 
-## Long-horizon queue (*one step at a time — Day 253*)
+## Long-horizon queue (*one step at a time — see [ladder.md](ladder.md)*)
 
 | Track | Next step | Notes |
 |-------|-----------|-------|

@@ -347,6 +347,30 @@
 | 337 | [day-337.md](days/week-049/day-337.md) | **FORGE-D · W-1** | **IRON-WELD-1 ✓ · IRON-BAR-1 ~820 g · Week 49 opens** · **Cal-Y2 D100** · **SUN-MARK-337** |
 | 338 | [day-338.md](days/week-049/day-338.md) | **pit lane · CHAR zone** | **PIT-CHAR-2 ✓ · forge refill** · **Cal-Y2 D101** · **SUN-MARK-338** |
 | 339 | [day-339.md](days/week-049/day-339.md) | **v1 · east rack** | **AMPHORA-3 neck · ~50%** · **Cal-Y2 D102** · **SUN-MARK-339** |
+| 340 | [day-340.md](days/week-049/day-340.md) | **v1 · east rack** | **AMPHORA-3 handles · ~68%** · **Cal-Y2 D103** · **SUN-MARK-340** |
+| 341 | [day-341.md](days/week-049/day-341.md) | **T-1 · pile 5** | **WOOD-HAUL +~17 kg · amphora hold** · **Cal-Y2 D104** · **SUN-MARK-341** |
+| 342 | [day-342.md](days/week-049/day-342.md) | **v1 · farm pen** | **AMPHORA-3 belly ~82% · pen upkeep** · **Cal-Y2 D105** · **SUN-MARK-342** |
+| 343 | [day-343.md](days/week-049/day-343.md) | **v1 · Bed B** | **AMPHORA-3 foot ~95% green · Week 49 close** · **Cal-Y2 D106** · **SUN-MARK-343** |
+| 344 | [day-344.md](days/week-050/day-344.md) | **campus · farm** | **Week 50 opens · dry rack d1 · upkeep** · **Cal-Y2 D107** · **SUN-MARK-344** |
+| 345 | [day-345.md](days/week-050/day-345.md) | **FORGE · WORKBENCH-1** | **IRON-CHISEL-1 ✓ · bar ~690 g** · **Cal-Y2 D108** · **SUN-MARK-345** |
+| 346 | [day-346.md](days/week-050/day-346.md) | **FORGE · stump** | **ANVIL-FACE-1 ✓ · chisel touch-up · dry d3** · **Cal-Y2 D109** · **SUN-MARK-346** |
+| 347 | [day-347.md](days/week-050/day-347.md) | **farm · v1 rack** | **Dry test PASS · forge rest · fire GO d348** · **Cal-Y2 D110** · **SUN-MARK-347** |
+| 348 | [day-348.md](days/week-050/day-348.md) | **Kiln B · v1 rack** | **AMPHORA-FIRE-3 ✓ · third jar fired** · **Cal-Y2 D111** · **SUN-MARK-348** |
+| 349 | [day-349.md](days/week-050/day-349.md) | **v1 · WORKBENCH-1** | **M-08 AMPHORA-3 ✓ · +6 pointed arrows** · **Cal-Y2 D112** · **SUN-MARK-349** |
+| 350 | [day-350.md](days/week-050/day-350.md) | **WORKBENCH-1 · W-1 berm** | **SPEAR-2 ✓ · AMPHORA-3 load trial · Week 50 close** · **Cal-Y2 D113** · **SUN-MARK-350** |
+| 351 | [day-351.md](days/week-051/day-351.md) | **FORGE-D** | **Week 51 opens · IRON-BLOOM-4 ✓ ~320 g** · **Cal-Y2 D114** · **SUN-MARK-351** |
+| 352 | [day-352.md](days/week-051/day-352.md) | **FORGE · ANVIL-FACE-1** | **IRON-AXE-1 ✓ ~340 g · wood trial PASS** · **Cal-Y2 D115** · **SUN-MARK-352** |
+| 353 | [day-353.md](days/week-051/day-353.md) | **farm · Bed B** | **FARM-THIN-353 · flax + emmer** · **Cal-Y2 D116** · **SUN-MARK-353** |
+| 354 | [day-354.md](days/week-051/day-354.md) | **FORGE · WORKBENCH-1** | **IRON-WEDGE-1 ✓ · IRON-NAILS-1 ×16** · **Cal-Y2 D117** · **SUN-MARK-354** |
+| 355 | [day-355.md](days/week-051/day-355.md) | **T-1 · farm E margin** | **WOOD-HAUL +~22 kg · FENCE-EXT +8 m** · **Cal-Y2 D118** · **SUN-MARK-355** |
+| 356 | [day-356.md](days/week-051/day-356.md) | **W-1 · farm · bench** | **BASKET-BATCH-1 ✓ · fence tie-in · +4 arrows** · **Cal-Y2 D119** · **SUN-MARK-356** |
+| 357 | [day-357.md](days/week-051/day-357.md) | **pit lane · CHAR zone** | **PIT-CHAR-3 ✓ · Week 51 close** · **Cal-Y2 D120** · **SUN-MARK-357** |
+| 358 | [day-358.md](days/week-052/day-358.md) | **FORGE-D · ANVIL-FACE-1** | **Week 52 opens · BLOOM-5 · IRON-ADZE-1 ✓** · **Cal-Y2 D121** · **SUN-MARK-358** |
+| 359 | [day-359.md](days/week-052/day-359.md) | **W-1 · pile 5** | **ROOF-W1-DECK ~50% · rafters + ridge ✓** · **Cal-Y2 D122** · **SUN-MARK-359** |
+| 360 | [day-360.md](days/week-052/day-360.md) | **pit lane · CHAR zone** | **PIT-CHAR-4 ✓ · lane ~9 kg** · **Cal-Y2 D123** · **SUN-MARK-360** |
+| 361 | [day-361.md](days/week-052/day-361.md) | **FORGE-D · ANVIL-FACE-1** | **IRON-NAILS-2 ✓ ×32 · total ×45** · **BLOOM-5 spent** · **Cal-Y2 D124** · **SUN-MARK-361** |
+| 362 | [day-362.md](days/week-052/day-362.md) | **W-1** | **ROOF-W1-BATTEN ✓ · ~75%** · **×40 nails** · **Cal-Y2 D125** · **SUN-MARK-362** |
+| 363 | [day-363.md](days/week-052/day-363.md) | **W-1 · v1 lime** | **ROOF-W1 mat + lime eave ✓ · ~85%** · **Cal-Y2 D126** · **SUN-MARK-363** |
 
 ## Centadials (every 100 days)
 
@@ -409,7 +433,11 @@ See [summaries/README.md](summaries/README.md).
 | 45 | [week-045.md](weeks/week-045.md) | 309–315 | **Frost gate · sow-2 · tile sprint · AMPHORA-2** *(closed Day 315)* |
 | 46 | [week-046.md](weeks/week-046.md) | 316–322 | **Tile mid ✓ · AMPHORA-2 · EXPED-B recon** *(closed Day 322)* |
 | 47 | [week-047.md](weeks/week-047.md) | 323–329 | **EXPED-A · HAUL-IRON-1 ✓ · farm rest** *(closed Day 329)* |
-| 48 | [week-048.md](weeks/week-048.md) | 330–336 | **IRON-BLOOM-1 · farm** *(in progress)* |
+| 48 | [week-048.md](weeks/week-048.md) | 330–336 | **IRON-BLOOM-1–3 · pen complete · amphora #3 start** *(closed Day 336)* |
+| 49 | [week-049.md](weeks/week-049.md) | 337–343 | **IRON-WELD-1 · AMPHORA-3 green complete** *(closed Day 343)* |
+| 50 | [week-050.md](weeks/week-050.md) | 344–350 | **Amphora line · chisel · anvil · SPEAR-2** *(closed Day 350)* |
+| 51 | [week-051.md](weeks/week-051.md) | 351–357 | **IRON-AXE-1 · baskets · fence · PIT-CHAR-3 ✓** *(closed Day 357)* |
+| 52 | [week-052.md](weeks/week-052.md) | 358–364 | **IRON-ADZE-1 · ROOF-W1 sprint** *(in progress)* |
 
 ## Day folders
 
@@ -463,6 +491,10 @@ See [summaries/README.md](summaries/README.md).
 | 46 | [days/week-046/](days/week-046/) |
 | 47 | [days/week-047/](days/week-047/) |
 | 48 | [days/week-048/](days/week-048/) |
+| 49 | [days/week-049/](days/week-049/) |
+| 50 | [days/week-050/](days/week-050/) |
+| 51 | [days/week-051/](days/week-051/) |
+| 52 | [days/week-052/](days/week-052/) |
 
 ## Years
 

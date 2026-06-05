@@ -17,7 +17,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [ladder.md](ladder.md) | **Achievement ladder** — have vs need, all tracks, one glance |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
 | [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`) — see **Week numbering** below |
-| [journal/weeks/](journal/weeks/) | Weekly rollups (weeks 1–3 done) |
+| [journal/weeks/](journal/weeks/) | Weekly rollups — see [journal/index.md](journal/index.md) |
 | [journal/years/](journal/years/) | Yearly rollups and era notes |
 | [movie/](movie/) | Feature-film concept — alien trial, ensemble players, story circle |
 
