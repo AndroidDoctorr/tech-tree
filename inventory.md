@@ -1,11 +1,11 @@
 # Inventory
 
-*Last audited: **Day 304** (~10,000 BC)*  
+*Last audited: **Day 312** (~10,000 BC)*  
 *Method: journal through Day 255 + [map.md](map.md) pile layout. **~estimate** = last hard count ± logged burns/consumption.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **respawn H-v2 bed** · **YEARLING-1 @ HOLDING-1** · **Cal-Y2 D67** · **Week 44 · AMPHORA ~90% twin handles · FIRE-1 queued**
+**Status:** **HOME H-v2** · **respawn H-v2 bed** · **YEARLING-1 @ HOLDING-1** · **Cal-Y2 D102** · **AMPHORA-3 ~50% · IRON-BAR-1 hold**
 
 ### Day 253 snapshot — home stores & metal
 
@@ -19,10 +19,10 @@
 | **Salt (SALT-1)** | **~225 g** @ v1 | batch #1+#2 · jerky · brine · **✓ GREEN** |
 | **Olive brine v0** | **~2.0 kg** fruit in crock | aging | **✓** |
 | **Charcoal Store C** | **~79 kg** class | **iron reserve** — pit char → kiln fires only |
-| **Charcoal @ millhouse FORGE zone** | **~24.5 kg** | Lidded trays · bulk by forge Day 278 | **✓** |
-| **Charcoal home total** | **~88 kg** class | Split: forge ~24.5 · vault ~79 · pit draws kiln only |
-| **Wood pile 5** | **~69 kg** class | **+~18 kg** haul Day 299 · **GREEN** |
-| **O-1 malachite** | **~6.9 kg** | **~3 charges** · **copper smelt on hold** | **✓ stored** |
+| **Charcoal @ millhouse FORGE zone** | **~18 kg** class | **+~9 kg PIT-CHAR-2** · pit draw for forge/bloom |
+| **Charcoal home total** | **~97 kg** class | Split: vault ~79 · forge ~18 · pit pipeline |
+| **Wood pile 5** | **~67 kg** class | **−~10 kg PIT-CHAR-2** · **haul before ~60 kg** |
+| **O-1 malachite** | **~12.5 kg** class | **+~5.6 kg HAUL-IRON-1** · **~5+ charges** · **smelt on hold** | **✓ stored** |
 | **Copper peas (stock)** | **~83 g** | tools done · reserve | **✓** |
 | **SOAP-1** | **~85 g** usable @ porch | operational Day 220 | **✓** |
 | **LYE-1 stock** | **~1.0 L** @ W-1 | soap-grade | **✓** |
@@ -135,7 +135,7 @@
 |------|-----|--------|
 | **Threshed grain** | **~25 g** | batch #6 Day 182 — bulk → parched |
 | **Elite seed** | **~55 g** | separate — not parched |
-| **Malachite ore (O-1)** | **~6.9 kg** | Smelt **#17–20** **−~8 kg** Days 239–245 · **on hold** |
+| **Malachite ore (O-1)** | **~12.5 kg** class | **HAUL-IRON-1 +~5.6 kg** Day 328 · **on hold** |
 | **Quicklime (dry)** | **~0.58 kg** | **TILE-BED-1** **−~0.02 kg** Day 269 |
 | **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class |
 | **Parched grain (PARCHED-1)** | **~1.0 kg** | batch #6 Day 182 · winter draw |
@@ -175,7 +175,7 @@
 | **Store C** (vault) | **~75 kg CAP** | Pit **B-41 open** Day 262 · **~4 kg overflow @ CHAR lane** |
 | **CHAR lane overflow** | **~4 kg** | Lidded tray @ millhouse · Day 262 |
 | **Pit B-42** | **banked** | **~9 kg** oak Day 262 |
-| **Pile 5** (wood) | **~71 kg** | **+~18 kg** sprint Day 262 · **~70+ ✓** |
+| **Pile 5** (wood) | **~67 kg** | **−~10 kg PIT-CHAR-2** · **haul queued** |
 | **Pit kiln (1 m)** | reusable | Batch charcoal method — not a stock |
 
 *Charcoal audit trail: Day 98 **44.5 kg** after fire #29 → expedition + smelts Days 100–116 → Day 117 **~23.9 kg** → Day 121 pot **−~2 kg** → **~21.9 kg**.*
@@ -184,17 +184,19 @@
 
 | Location | Qty | Notes |
 |----------|-----|--------|
-| **Kiln pad hoard** | **~122** | **+9** Day 301 fire |
-| **Pile 3 / kiln yard** | **~117** | **Green** — stagger queue |
+| **Kiln pad hoard** | **~158** | **+9** Day 311 fire — maintenance met |
+| **Pile 3 / kiln yard** | **~95** | **Green** — stagger only |
 | **Kiln B lining** | **~35** | In situ fired lining |
 | **Kiln C lining** | **~22** | + insulation patches |
 | **Pile 1** | **~5–9 kg** | Days 124–125 daub/roof |
 | **Red seep clay (M-02)** | small | Near pile 1 |
 | **River sand (grog)** | **~3 kg** | Pile 4 / kiln yard |
-| **Fired roof tiles** | **32** | **T1–T3,T5–T34** · **bank closed** |
-| **Green roof tiles** | **0** | Press when roof sprint calls |
-| **Tile pipeline** | **TILE-FACTORY** | **32F · ~64% mid goal** · **FIRE-8 ✓** |
-| **AMPHORA-1** | **~90% green** | Twin strap handles shoulder→rim @ v1 · **AMPHORA-FIRE-1** queued · M-08 post-fire |
+| **Fired roof tiles** | **48** | **T1–T3,T5–T50** |
+| **Green roof tiles** | **0** | **FIRE-12 ✓** — **mid goal tagged** |
+| **Tile pipeline** | **TILE-FACTORY** | **48F · sprint closed · deploy = separate clock** |
+| **AMPHORA-3** | **~50% Day 339** | Neck/rim @ v1 east rack · handles queued |
+| **AMPHORA-2** | **✓ pitched Day 321** | M-08 · **TRAIL-CACHE-2** optional |
+| **AMPHORA-1** | **✓ transport** | Fired · M-08 · **TRAIL-CACHE-TRIAL-1 ✓** |
 | **Fired utility pots** | **P-ι-2 · P-κ-2** | Day 303 peripheral fire |
 | **TILE-FORM-1** | **1** | Half-log form @ kiln yard · sand-dusted |
 
@@ -213,7 +215,9 @@
 | **M-07 camp stain** | sample | Distinct from **O-1** |
 | **Chert cobbles (pile 5)** | **~18+** | **S-02 resupply Day 121**; go-bag stocked |
 | **Turquoise / scout chips** | small | Marked samples in dry shelf |
-| **H-11 hematite samples** | cobble + chip | RS-3 Day 131 — **not** smelt feed |
+| **H-11 hematite (O-IRON-1)** | **~6.3 kg** | **−~4.5 kg BLOOM-1/2/3** @ pile 4 · **bar stock** |
+| **Iron bar (IRON-BAR-1)** | **~820 g** wrought | **@ WORKBENCH-1** · **IRON-WELD-1 ✓ Day 337** · **tool stock** |
+| **H-11 samples** | cobble + chip | RS-3 / EXPED-A — **lab** **only** |
 | **M-22 magnetite grit** | **~15 g** | RS-3 Day 131 — lodestone test |
 
 ### Food · seed · misc
@@ -286,11 +290,11 @@
 
 | Item | Notes |
 |------|--------|
-| **P-GOAT-1** | **2 kids** · pen **12×4 m** · gate · **GH-S1** · **W-CHAN-1** |
+| **P-GOAT-1** | **2 kids** · pen **~14×4 m ✓ enclosed Day 336** · **PEN-GATE-1** · **W-CHAN-1** |
 | **Bed A** | **Stubble** — weeded · scare line maintained |
-| **Bed B** | **Scratched ✓ Day 253** — **not sown** | Spring split: **P-17 ~1 m · flax ~½ · herb margin** per **SPRING-PREP-253** |
+| **Bed B** | **SPRING-SOW-1+2 ✓** | **N:** P-17 trial + herbs · **center:** flax P-07 · **S:** emmer elite (Day 310) |
 | **Bed C** | **P-GOAT-1** pen north — unchanged |
-| **Bed D (NEW)** | **~24 m²** S margin — **BED-D-SEL** · fence **✓** · selection nursery |
+| **Bed D (NEW)** | **~24 m²** S margin — **FIG-C1–4** cuttings Day 306 · **BED-D-SEL** · fence **✓** |
 | **P-03 trellis** | **✓ 100%** — vines **P-03a/b/c** marked |
 | **P-RETT-1** | Bundle **1** dry ✓ |
 | **Fence / scare** | **100%** · Bed D goat-proof **✓** |
@@ -309,7 +313,7 @@
 | **GRIND-TAKEOFF-1** | **~95% Day 295** | Belt live under flood · bench grind operational |
 | **FORGE-D** | **~97% operational** | boring **6/14** toward iron gate · blast #6 ✓ Day 198 |
 | **MILLHOUSE-1** | **✓ 100%** Day 278 | Phase 1+2+3 · zones CHAR·FORGE·TOOL·WORK |
-| **CHAR @ forge** | **~24.5 kg** | Bulk fuel by FORGE-D |
+| **CHAR @ forge** | **~18 kg** class | **PIT-CHAR-2 ✓** · **IRON-BLOOM-4 GREEN** |
 | **WORKBENCH-1** | **✓ operational Day 279** | ~1.2×0.6 m oak top · peg rail · tool stock @ FORGE zone |
 | **MILLHOUSE-SHELF-1** | **✓ operational Day 282** | Two tiers · FIBER/CORD/SMELT-HOLD · end cap · smelt tray staged |
 | **Ore roast bed** | **✓ 100%** | @ FORGE marker E of pad |

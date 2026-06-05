@@ -312,6 +312,41 @@
 | 302 | [day-302.md](days/week-044/day-302.md) | **kiln yard · v1** | **TILE-FIRE-7 ✓ · AMPHORA ~70%** · **Cal-Y2 D65** · **SUN-MARK-302** |
 | 303 | [day-303.md](days/week-044/day-303.md) | **kiln yard · H-v2 ante** | **TILE-FIRE-8 ✓ · MUS-1 ✓ · pots** · **Cal-Y2 D66** · **SUN-MARK-303** |
 | 304 | [day-304.md](days/week-044/day-304.md) | **v1 table** | **AMPHORA twin handles ~90%** · **Cal-Y2 D67** · **SUN-MARK-304** |
+| 305 | [day-305.md](days/week-044/day-305.md) | **Bed B · Kiln B** | **SPRING-SOW-1 ✓ · AMPHORA fire ✓** · **Cal-Y2 D68** · **SUN-MARK-305** |
+| 306 | [day-306.md](days/week-044/day-306.md) | **farm · v1 · P-12a** | **FIG-PROP ✓ · M-08 pitch · pen/yearling** · **Cal-Y2 D69** · **SUN-MARK-306** |
+| 307 | [day-307.md](days/week-044/day-307.md) | **T-2 · TRAIL-CACHE-1** | **AMPHORA cache trial ✓** · **Cal-Y2 D70** · **SUN-MARK-307** |
+| 308 | [day-308.md](days/week-044/day-308.md) | **Kiln B · brick yard** | **frost HOLD · brick fire + press 14** · **Week 44 close** · **Cal-Y2 D71** · **SUN-MARK-308** |
+| 309 | [day-309.md](days/week-045/day-309.md) | **Bed B dawn · Kiln B** | **Week 45 opens · warm 1/3 · brick fire 9** · **Cal-Y2 D72** · **SUN-MARK-309** |
+| 310 | [day-310.md](days/week-045/day-310.md) | **Bed B · Kiln B** | **SPRING-SOW-2 ✓ · frost gate PASS · brick fire** · **Cal-Y2 D73** · **SUN-MARK-310** |
+| 311 | [day-311.md](days/week-045/day-311.md) | **Kiln B · farm glance** | **brick fire 9 · tile/amphora slate** · **Cal-Y2 D74** · **SUN-MARK-311** |
+| 312 | [day-312.md](days/week-045/day-312.md) | **kiln yard** | **TILE-PRESS-9 4G · sprint** · **Cal-Y2 D75** · **SUN-MARK-312** |
+| 313 | [day-313.md](days/week-045/day-313.md) | **v1 · farm** | **AMPHORA-2 base ~10%** · **Cal-Y2 D76** · **SUN-MARK-313** |
+| 314 | [day-314.md](days/week-045/day-314.md) | **kiln yard · v1** | **TILE-FIRE-9 ✓ · AMPHORA ~35%** · **Cal-Y2 D77** · **SUN-MARK-314** |
+| 315 | [day-315.md](days/week-045/day-315.md) | **kiln yard · v1** | **TILE-PRESS-10 · AMPHORA ~50%** · **Week 45 close** · **Cal-Y2 D78** · **SUN-MARK-315** |
+| 316 | [day-316.md](days/week-046/day-316.md) | **kiln yard · v1** | **Week 46 opens · TILE-FIRE-10 ✓ · AMPHORA ~70%** · **Cal-Y2 D79** · **SUN-MARK-316** |
+| 317 | [day-317.md](days/week-046/day-317.md) | **kiln yard** | **TILE-PRESS-11 · AMPHORA dry hold** · **Cal-Y2 D80** · **SUN-MARK-317** |
+| 318 | [day-318.md](days/week-046/day-318.md) | **kiln yard** | **TILE-FIRE-11 ✓ · AMPHORA check** · **Cal-Y2 D81** · **SUN-MARK-318** |
+| 319 | [day-319.md](days/week-046/day-319.md) | **kiln yard** | **AMPHORA-FIRE-2 ✓ · TILE-PRESS-12** · **Cal-Y2 D82** · **SUN-MARK-319** |
+| 320 | [day-320.md](days/week-046/day-320.md) | **kiln yard** | **TILE-FIRE-12 ✓ · 48F mid tagged** · **Cal-Y2 D83** · **SUN-MARK-320** |
+| 321 | [day-321.md](days/week-046/day-321.md) | **v1 · Bed B · H-v2** | **M-08 AMPHORA-2 ✓ · EXPED window** · **Cal-Y2 D84** · **SUN-MARK-321** |
+| 322 | [day-322.md](days/week-046/day-322.md) | **Gorge A-03** | **EXPED-B recon ✓ · Week 46 close** · **Cal-Y2 D85** · **SUN-MARK-322** |
+| 323 | [day-323.md](days/week-047/day-323.md) | **NE corridor · Camp-1** | **EXPED-A LAUNCH · H-11 · cache** · **Cal-Y2 D86** · **SUN-MARK-323** |
+| 324 | [day-324.md](days/week-047/day-324.md) | **M-G1 · Camp-2** | **cliff resurvey ✓ · paint sample** · **Cal-Y2 D87** · **SUN-MARK-324** |
+| 325 | [day-325.md](days/week-047/day-325.md) | **M-22 · D-27 · Camp-1** | **yellow forks ✓ · homeward** · **Cal-Y2 D88** · **SUN-MARK-325** |
+| 326 | [day-326.md](days/week-047/day-326.md) | **Camp-1 → HOME** | **EXPED-A ✓ return · flax lines** · **Cal-Y2 D89** · **SUN-MARK-326** |
+| 327 | [day-327.md](days/week-047/day-327.md) | **H-11 · Camp-1** | **HAUL-IRON ~10.8 kg · camp ✓** · **Cal-Y2 D90** · **SUN-MARK-327** |
+| 328 | [day-328.md](days/week-047/day-328.md) | **M-G1 → HOME** | **HAUL-IRON-1 ✓ iron+malachite** · **Cal-Y2 D91** · **SUN-MARK-328** |
+| 329 | [day-329.md](days/week-047/day-329.md) | **farm · H-v2** | **rest · flax thin · BLOOM slate** · **Week 47 close** · **Cal-Y2 D92** · **SUN-MARK-329** |
+| 330 | [day-330.md](days/week-048/day-330.md) | **FORGE-D · W-1** | **Week 48 opens · IRON-BLOOM-1 ✓** · **Cal-Y2 D93** · **SUN-MARK-330** |
+| 331 | [day-331.md](days/week-048/day-331.md) | **T-1 · pile 5** | **WOOD-HAUL +18 kg · pen stakes** · **Cal-Y2 D94** · **SUN-MARK-331** |
+| 332 | [day-332.md](days/week-048/day-332.md) | **pen · v1** | **PEN-FENCE +4 m · AMPHORA-3 base** · **Cal-Y2 D95** · **SUN-MARK-332** |
+| 333 | [day-333.md](days/week-048/day-333.md) | **pit lane · CHAR zone** | **PIT-CHAR-1 ✓ · forge refill** · **Cal-Y2 D96** · **SUN-MARK-333** |
+| 334 | [day-334.md](days/week-048/day-334.md) | **FORGE-D · W-1** | **IRON-BLOOM-2 ✓ · ~580 g stock** · **Cal-Y2 D97** · **SUN-MARK-334** |
+| 335 | [day-335.md](days/week-048/day-335.md) | **v1 · east rack** | **AMPHORA-3 coils · ~35%** · **Cal-Y2 D98** · **SUN-MARK-335** |
+| 336 | [day-336.md](days/week-048/day-336.md) | **P-GOAT-1 · FORGE-D** | **PEN-GATE-1 ✓ · BLOOM-3 · Week 48 close** · **Cal-Y2 D99** · **SUN-MARK-336** |
+| 337 | [day-337.md](days/week-049/day-337.md) | **FORGE-D · W-1** | **IRON-WELD-1 ✓ · IRON-BAR-1 ~820 g · Week 49 opens** · **Cal-Y2 D100** · **SUN-MARK-337** |
+| 338 | [day-338.md](days/week-049/day-338.md) | **pit lane · CHAR zone** | **PIT-CHAR-2 ✓ · forge refill** · **Cal-Y2 D101** · **SUN-MARK-338** |
+| 339 | [day-339.md](days/week-049/day-339.md) | **v1 · east rack** | **AMPHORA-3 neck · ~50%** · **Cal-Y2 D102** · **SUN-MARK-339** |
 
 ## Centadials (every 100 days)
 
@@ -369,7 +404,12 @@ See [summaries/README.md](summaries/README.md).
 | 40 | [week-040.md](weeks/week-040.md) | 274–280 | **MILLHOUSE-3 ✓ · FORGE district ✓ · tile pause** *(closed Day 280)* |
 | 41 | [week-041.md](weeks/week-041.md) | 281–287 | **SALT-2 · MEASURE-1 ✓ · light campus** *(closed Day 287)* |
 | 42 | [week-042.md](weeks/week-042.md) | 288–294 | **Salt · measure · WW/grind · trail cache** *(closed Day 294)* |
-| 43 | [week-043.md](weeks/week-043.md) | 295–301 | **Flood trial · spring clock** *(in progress)* |
+| 43 | [week-043.md](weeks/week-043.md) | 295–301 | **Flood trial · spring clock** *(closed Day 301)* |
+| 44 | [week-044.md](weeks/week-044.md) | 302–308 | **Tile bank · AMPHORA-1 ✓ · sow-1 · frost hold** *(closed Day 308)* |
+| 45 | [week-045.md](weeks/week-045.md) | 309–315 | **Frost gate · sow-2 · tile sprint · AMPHORA-2** *(closed Day 315)* |
+| 46 | [week-046.md](weeks/week-046.md) | 316–322 | **Tile mid ✓ · AMPHORA-2 · EXPED-B recon** *(closed Day 322)* |
+| 47 | [week-047.md](weeks/week-047.md) | 323–329 | **EXPED-A · HAUL-IRON-1 ✓ · farm rest** *(closed Day 329)* |
+| 48 | [week-048.md](weeks/week-048.md) | 330–336 | **IRON-BLOOM-1 · farm** *(in progress)* |
 
 ## Day folders
 
@@ -418,6 +458,11 @@ See [summaries/README.md](summaries/README.md).
 | 41 | [days/week-041/](days/week-041/) |
 | 42 | [days/week-042/](days/week-042/) |
 | 43 | [days/week-043/](days/week-043/) |
+| 44 | [days/week-044/](days/week-044/) |
+| 45 | [days/week-045/](days/week-045/) |
+| 46 | [days/week-046/](days/week-046/) |
+| 47 | [days/week-047/](days/week-047/) |
+| 48 | [days/week-048/](days/week-048/) |
 
 ## Years
 

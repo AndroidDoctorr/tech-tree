@@ -8,7 +8,7 @@
 
 ## Where you are
 
-**~304 days in.** **Cal-Y2 D67** · **Week 44**. **AMPHORA ~90% twin handles** · **fire queued** · **spring sow clock**.
+**~339 days in.** **Cal-Y2 D102** · **Week 49**. **AMPHORA-3 ~50% · IRON-BAR-1 hold**.
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
@@ -27,15 +27,15 @@
 | **SUN-CAL-YEAR** (feast-eve year close · dual date) | ✓ **Day 239 · YULE @ mark 237** |
 | Charcoal store **C** · wood pile · sorting piles | ✓ |
 | Trails **T-1–T-5** marked | ✓ · **T-2 farm leg cleared Day 288** |
-| **MILLHOUSE-1** open workshop | ✓ **100%** · **CHAR @ forge ~24.5 kg** |
+| **MILLHOUSE-1** open workshop | ✓ **100%** · **CHAR @ forge ~18 kg** |
 | **WORKBENCH-1** (forge flat table) | **✓ Day 279** · peg rail · tool stock |
 | **FORGE district complete** | **✓** wheel · blower · forge · millhouse · bench · char |
 | **MILLHOUSE-SHELF-1** (TOOL zone wall) | **✓ Day 282** · FIBER/CORD/SMELT-HOLD loaded |
 | **STORE-3** v1 east annex (dry overflow) | **✓ operational Day 272** |
 | **MILLHOUSE-3** north bay enclosure | **✓ 100% Day 278** |
 | **WOOD-ROOF** shake / pitch seal | ~ **v0 trial** queued · **tar coat Year 2** |
-| **TILE-ROOF-R&D** (log form · mock panel) | **TILE-FACTORY** · **19 fired bank** · peripheral pit-fire |
-| **Amphorae / large jars** | ~ **AMPHORA-1 ~10%** |
+| **TILE-ROOF-R&D** (log form · mock panel) | **TILE-FACTORY mid ✓** · **48F** · **deploy clock** |
+| **Amphorae** | **AMPHORA-1 ✓ · AMPHORA-2 ✓ · AMPHORA-3 ~50%** |
 | Goat pen **P-GOAT-1** · holding **HOLDING-1** | ✓ |
 | Yearling pen / corral **D-27** | ✓ |
 | **Barn** (multi-species · hay · roofed) | · |
@@ -118,11 +118,11 @@
 | **Bed D selection nursery** | ✓ |
 | **Grape trellis** | ✓ |
 | **SEED-VAULT** elite lines (grain · flax · pistachio · olive · grape · herbs) | ✓ |
-| **AGRI-2** spring split (flax / herbs / fallow) | ~ **SPRING-PREP-253 ✓** · sow Mar–Apr |
+| **AGRI-2** spring split (flax / herbs / fallow) | **SPRING-SOW-1+2 ✓** · Bed B live |
 | **Bed B full scratch** | ✓ **Day 253** · **not sown** |
 | Olive **orchard** (plant cuttings · prune) | ~ wild harvest + seed · not orchard yet |
 | Grape **vineyard** (train · select · volume) | ~ trellis + leather · wine Year 2 |
-| Fig **propagation** (cuttings · P-12a) | ~ **P-12a marked Day 216** · FIG-PROP-1 spring |
+| Fig **propagation** (cuttings · P-12a) | **✓ FIG-PROP-1 Day 306** · **FIG-C1–4** @ Bed D |
 | Pulse / lentil crop | · |
 | Crop **rotation + selection generations** | ~ Year 1 done · multi-year clock started |
 
@@ -218,12 +218,12 @@
 | **Smelt #16** (batch · ~2.0 kg ore) | ✓ Day 233 · **~20 g peas** |
 | **Smelt #17–20** (block · ~8 kg ore) | ✓ Days 239–245 · **~127 g peas** → tool draws |
 | **FORGE-D** bloomery pad + belt blast | ✓ **IRON-GATE-1 14/14** · Year 2 iron work |
-| **Iron ore** identified **H-11** | ✓ marked · Year 2 bench |
-| **Iron bloom** · bar · tools | · Year 2 sequence |
+| **Iron ore** **O-IRON-1** | **~10.8 kg H-11** @ pile 4 · **bloom stock** · **smelt on hold** |
+| **Iron bar IRON-BAR-1** | **✓ ~820 g** Day 337 · **tools** next |
 | **Tin** scout (**cassiterite**) | · |
 | **Bronze** alloy | · |
 | **Bronze tools** (edge · socket) | · |
-| **Iron tools** (axe · plow · nails) | · |
+| **Iron tools** (axe · chisel · nails) | · **bar stock** ready |
 | **Copper farm tools** (hoe · awl) | ✓ **CU-HOE-1 Day 247** |
 | **Steel** | · |
 | **Measuring tools** (rule · balance · marked stick) | **✓ Day 287** · **MEASURE-1** · **THUMB-1** · **BALANCE-1** |
@@ -407,7 +407,7 @@
 2. **Wood collect + char rhythm** — bank @ millhouse **CHAR lane** · **no copper smelt**
 3. **MUS-1** ✓ v0 frame · **flax → cloth** — meaningful storage free-up
 4. **Amphora ×1–2** optional — **M-08 pitch** seal · bulk dry storage
-5. **Mar–Apr sow** — **P-17 · flax · FIG-PROP-1** per **SPRING-PREP-253**
+5. **Mar–Apr sow** — **P-17 ✓ · flax held · FIG-PROP ✓** per **SPRING-PREP-253**
 6. **Iron Year 2** — when char bank + **FORGE-PPE-1** habit solid
 
 ---
