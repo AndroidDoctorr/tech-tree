@@ -4,7 +4,7 @@
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y2 D283** · **Week 75 · POT-KITCHEN-1 ✓ · kitchen ~90% close**
+**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y2 D291** · **Week 76 · KITCHEN-CLOSE ✓ · teal curtain ✓ · PLAN-528 filed**
 
 ### COAST-1 ✓ complete (Day 202) — haul stored @ home
 
@@ -113,18 +113,27 @@
 | **Layout** | **T** — kitchen west arm · ante+porch front leg downslope |
 | **Build** | **H-v2-KITCHEN-1 ✓ operational Day 507** — stock ✓ · CU-LADLE-1 ✓ · mitt ✓ |
 | **Window** | **KITCHEN-WINDOW-1 ✓ @ south counter ~45×40 cm · oak shutter · over future SINK-BASIN-1** *(stake Day 496 cross-draft)* |
-| **Sink** | **SINK-BASIN-1 queued** — drain to **D-1** staked · wet tap after **AQUEDUCT-1** |
+| **Sink** | **SINK-BASIN-1 ✓ Day 525** — fired P-κ @ south counter · wet feed from **AQ-V1** · drain **D-1** |
 | **Deployed** | **P-ζ · P-η · P-λ-1/2 · CU-FIRE-TONGS-1 · CU-KNIFE · towels · salt · herbs @ kitchen** |
 | **Utensils** | **KITCHEN-UTENSIL-BUNDLE-1 ✓** — spatula · forks ×2 · spoons ×2 · CU-SKILLET-1 · **POT-KITCHEN-1 ✓ fired** |
-| **Curtain queued** | **KITCHEN-CURTAIN-ROD-1 · KITCHEN-CURTAIN-1 · CU-EYELET-SET-1** *(after VERDIGRIS scrape)* |
+| **Curtain** | **KITCHEN-CURTAIN-ROD-1 ✓ · KITCHEN-CURTAIN-1 ✓ teal Day 528 · CU-EYELET-SET-1 ✓** |
 | **Reed** | **~0.2 kg scrap @ pile 2** — **thatch complete** |
 | **Floor** | **✓ checker lay + boot PASS Day 516** |
 | **KITCHEN-POT-HERB-1** | **✓ mint + coriander @ counter south shelf Day 518** |
 | **KITCHEN-WHITEWASH-1** | **✓ interior skim Day 518** |
-| **GOAT-HUNT-519** | **~2.1 kg fresh class · hide @ frame ~60% scraped · brain tan stock** |
-| **Queued** | **curtain rod/eyelets/dye · aqueduct · KITCHEN-CLOSE-1** |
+| **GOAT-HUNT-519** | **✓ brain tan Day 526 · ~0.9 m² @ W-1 rack** |
+| **KITCHEN-CURTAIN-ROD-1** | **✓ Day 521 @ window lintel** |
+| **CU-EYELET-SET-1** | **✓ 12/12 mounted on curtain panel Day 523** |
+| **KITCHEN-CURTAIN-1** | **✓ LM-2 linen ~1.12×0.88 m green-teal @ rod Day 528** |
+| **KITCHEN-DRY-RACK-1** | **✓ v0 oak dowels over sink Day 528** |
+| **KITCHEN-CLOSE-1** | **✓ Day 528** |
+| **KITCHEN-STOCK-528** | **parched · salt · olives · jerky · tallow · herbs @ pegs** |
+| **AQUEDUCT-1** | **~92% · v1 + FORGE-D + P-GOAT-1 stubs ✓ Day 527** |
+| **KITCHEN-FAUCET-1** | **queued — stem valve @ wet feed** |
+| **WATER-PRESSURE-1** | **queued — header tank / ram class · far** |
+| **Queued** | **PEN-EXPAND-1 dig · D-27 donkey #2–3 · GOAT-TROUGH-AUTO · COVERED-WAGON-1 · KITCHEN-FAUCET-1** |
 | **Roof** | **KITCHEN-TILE-ROOF-1 deferred — thatch holds** |
-| **KITCHEN-CLOSE** | **Floor + utensil bundle + curtain — not basin** |
+| **KITCHEN-CLOSE** | **✓ Day 528 — floor · utensils · sink · teal curtain · stock · dry rack** |
 | **Floor grout** | **✓ KITCHEN-FLOOR-GROUT-TRIAL-1 Day 509** |
 | **BROOM-1** | **✓ v0 @ ante peg** |
 | **DUSTPAN-1** | **✓ v0 @ ante peg · DUSTPAN-LINER-1 ✓** |
@@ -156,7 +165,7 @@
 | **Grape leather (P-03)** | **~560 g** | **−~120 g GRAPE-FERMENT-1 Day 490** |
 | **GRAPE-VINEGAR-1** | **~0.6 L** | **P-η crock @ v1 CHEM · Day 508 split** |
 | **GRAPE-VINEGAR-MOTHER** | **~0.3 L** | **Mother crock labeled @ v1 CHEM** |
-| **VERDIGRIS-TRAY-1** | **day ~12 WATCH Day 520** | **Green film forming · scrape ~Day 522–528 class** |
+| **VERDIGRIS-TRAY-1** | **spent Day 528 bath** | **tray reset · CURTAIN-DYE-1 ✓** |
 | **KELP-ASH-1** | **~108 g** | **−~6 g Day 388 · −~6.5 g TRIAL-3/4 Day 395** |
 | **M-11 alum (crude)** | **~1.75 kg** dry class | **EXPED-C P2** @ v1 CHEM tray · lidded |
 | **ALUM-PURIFY-1** | **~145 g** crystal class | **−~12 g DYE-PANEL-1 Day 493** |
@@ -243,7 +252,7 @@
 | **Floor stones (FS)** | **×6 flakes ~3.5 kg** @ pile 4 | **32** laid on **H-v2** (~77% of pad goal) · **+glean Day 434** |
 | **Limestone / calcite (pile 7)** | **~51 kg** class | **+~4.2 kg CART-GLEAN-492 Day 492** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
-| **Copper peas (stock)** | **~95 g** class | **−~28 g CU-SKILLET-1 Day 517** · eyelets reserve |
+| **Copper peas (stock)** | **~65 g** class | **−~18 g CU-EYELET finish Day 522** |
 | **Charcoal Store C** | *(see Store C + CHAR lane)* | **~55.8 kg vault + ~46.6 kg lane ≈ ~102.4 kg @ home** |
 | **M-07 camp stain** | sample | Distinct from **O-1** |
 | **Chert cobbles (pile 5)** | **~18+** | **S-02 resupply Day 121**; go-bag stocked |
@@ -359,9 +368,9 @@
 
 | Item | Notes |
 |------|--------|
-| **P-GOAT-1** | **2 kids** · pen **~14×4 m ✓ enclosed Day 336** · **PEN-GATE-1** · **W-CHAN-1** |
+| **P-GOAT-1** | **2 kids** · pen **~14×4 m** · **AQ wet stub ✓ Day 527** · **PEN-EXPAND-1 staked ~22×8 m** · **PEN-FENCE-2 · PEN-DEFENSE-1 after expand** |
 | **Bed A** | **Stubble** — weeded · scare line maintained |
-| **Bed B** | **SPRING-SOW-1+2 ✓ · thinned Day 353 + 365** | **N:** P-17 true-leaf · hands-off · **S:** emmer tillering · **FARM-READ GREEN Day 514** |
+| **Bed B** | **SPRING-SOW-1+2 ✓ · thinned Day 353 + 365** | **N:** P-17 stem elongation · **S:** emmer flag-leaf · **FARM-READ GREEN Day 526** |
 | **Bed C** | **P-GOAT-1** pen north — unchanged |
 | **Bed D (NEW)** | **~24 m²** S margin — **FIG-C1–4** cuttings Day 306 · **C2 leaf-out lead Day 433** · **BED-D-SEL** · fence **✓** |
 | **P-03 trellis** | **✓ 100%** — vines **P-03a/b/c** marked |

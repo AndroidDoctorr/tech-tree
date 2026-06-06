@@ -1,6 +1,6 @@
 # Achievement ladder
 
-*Day **520** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
+*Day **522** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
 
 **Legend:** ✓ have / done · ~ started / partial · · not yet
 
@@ -8,7 +8,7 @@
 
 ## Where you are
 
-**~520 days in.** **Cal-Y2 D283** · **Week 75.** **POT-KITCHEN-1 ✓ · verdigris WATCH · aqueduct queued**.
+**~528 days in.** **Cal-Y2 D291** · **Week 76.** **KITCHEN-CLOSE ✓ · PLAN-528 · pen expand + donkey #2 next**.
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
@@ -65,21 +65,29 @@
 | **KITCHEN-WHITEWASH-1** (lime skim wattle/daub walls) | **✓ Day 518 interior skim** |
 | **KITCHEN-TILE-ROOF-1** (replace thatch · W-1 class) | · **deferred · factory sprint** |
 | **GOAT-HUNT-1** (A-03 gorge · trap + bow) | **✓ Day 519 · 1 nanny · bow @ 12 m** |
-| **KITCHEN-WINDOW-1** (south counter · shutter · over sink) | **✓ doctrine Day 513 · SINK-BASIN-1 queued** |
+| **KITCHEN-WINDOW-1** (south counter · shutter · over sink) | **✓ · SINK-BASIN-1 ✓ Day 525** |
 | **KITCHEN-UTENSIL-BUNDLE-1** (fork · spoon · spatula · skillet · pot) | **✓ Day 517** |
 | **WOOD-SPATULA-1** | **✓ @ peg 8** |
 | **FORK-SET-1** | **✓ ×2 bone @ peg 9** |
 | **SPOON-SET-1** | **✓ WOOD-SPOON-1/2** |
 | **CU-SKILLET-1** | **✓ ~20 g @ peg 10** |
 | **POT-KITCHEN-1** | **✓ P-λ-5 fired Day 520 @ hearth shelf** |
-| **KITCHEN-CURTAIN-ROD-1** · **KITCHEN-CURTAIN-1** · **CU-EYELET-SET-1** | · **after VERDIGRIS scrape** |
+| **KITCHEN-CURTAIN-ROD-1** | **✓ Day 521 @ window lintel** |
+| **CU-EYELET-SET-1** | **✓ 12/12 Day 522** |
+| **KITCHEN-CURTAIN-1** | **✓ Day 528 teal dyed** |
 | **KITCHEN-FLOOR-GROUT-1** (lime bed · sand · clay slip) | **✓ trial PASS Day 509** |
 | **KITCHEN-FLOOR-LAYOUT-511** | **✓ 15×15 checker buff/iron-red** |
 | **KITCHEN-FLOOR-MEANDER-1** (Greek-key border · right-angle snake) | · **queued · smaller tile or stone-cut · Year 2+** |
-| **KITCHEN-CURTAIN-1** (LM-2 panel · smoke wash) | · **VERDIGRIS-1 + alum path filed Day 508** |
+| **KITCHEN-CURTAIN-1** (LM-2 panel · verdigris teal) | **✓ Day 528** |
+| **KITCHEN-CLOSE-1** | **✓ Day 528** |
+| **KITCHEN-DRY-RACK-1** | **✓ v0 Day 528** |
 | **WASTE-BIN-1** (camp dry waste · haul to midden) | **✓ v0** · **MIDDEN-PIT-1 ✓ Day 501** |
 | **CHEM-LAB-1** (expanded tinker space · vent · water · fire zones) | · **v1 CHEM cramped · annex or WW north bay** |
-| **AQUEDUCT-1** (gravity feed · campus · forge · kitchen) | **~ Week 74 · stake D517 · leg 1 D518+ · v1 tap first** |
+| **AQUEDUCT-1** (gravity feed · campus · forge · kitchen · pen) | **~92% · pen stub ✓ Day 527 · float auto soon** |
+| **COVERED-WAGON-1** (team cart · shelter · long expedition) | · **after donkey #2–3 · coast class not Tarsus direct** |
+| **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **staked Day 527 · dig queued · before defenses** |
+| **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | · **soon · pen stub live** |
+| **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | · **soon · with barn hay** |
 | Stone / tile **roof** campus-wide | · **W-1 ✓** · annex + barn class |
 | **Permanent stone buildings** (Roman-scale) | · **FS dress practice · mortar · crane** |
 | **Courtyard compound** (wings around central yard) | ~ **T-plan started** · kitchen west · stake drain |
@@ -271,8 +279,8 @@
 | **Dyes** (mordant path) | ✓ **MORDANT-TRIAL-1** · **DYE-PANEL-1 ✓ Day 493** · **DYE-WOAD-1 + DYE-MADDER-1 marked** |
 | **WOAD-VAT-1** (blue) | · **summer leaf trial @ DYE-WOAD-1** |
 | **MADDER-DIG-1** (red-orange) | · **autumn root @ DYE-MADDER-1** |
-| **VERDIGRIS-1** (Cu + vinegar patina) | **day ~12 WATCH · recheck ~522–528** |
-| **CURTAIN-DYE-1** (verdigris + alum · LM-2) | · **after VERDIGRIS paste** |
+| **VERDIGRIS-1** (Cu + vinegar patina) | **✓ scrape trial ~18 g Day 522** |
+| **CURTAIN-DYE-1** (verdigris + alum · LM-2) | **✓ Day 528** |
 | **LM-2 heddle v2** (pattern · faster shed) | ✓ **Day 377** · canvas trial strip |
 | **CL-TOWEL-2** (hand towel) | ✓ **Day 394 @ v1** |
 | **Lodestone / suspend proof** | **LODE-CORE-1 · MAGNET-PAN-1 · LODE-SUSPEND-1 ✓** |
@@ -608,11 +616,11 @@
 
 ## Suggested next rungs (Day 505+ · Week 73)
 
-**Immediate (kitchen close):**
+**Immediate (post-kitchen · PLAN-528):**
 
-1. **AQUEDUCT-STAKE-1** — **SLUICE-1 fork**
-2. **VERDIGRIS-SCRAPE-1** — **recheck ~Day 522+**
-3. **KITCHEN-CURTAIN-ROD-1 + CU-EYELET-SET-1 + CURTAIN-1**
+1. **PEN-EXPAND-1** — **post dig · ~22×8 m**
+2. **D-27-DONKEY-2** — **capture · train**
+3. **GOAT-TROUGH-AUTO-1** — **float @ pen stub · soon**
 3. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
 4. **GOAT-HUNT-1** — **~D519 @ A-03**
 3. **KITCHEN-UTENSIL-BUNDLE-1** — **forge + wood interleave**

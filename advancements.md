@@ -6,6 +6,14 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ## Summary
 
+**Day 528 · Cal-Y2 D291:** **CURTAIN-DYE ✓ · KITCHEN-CLOSE ✓ · dry rack · PLAN-528 wagon/ROI**
+**Day 527 · Cal-Y2 D290:** **Aqueduct pen stub ✓ · PEN-EXPAND staked · defenses deferred · verdigris cure hold**
+**Day 526 · Cal-Y2 D289:** **FARM-READ · SUN-CAL sync · goat hide tanned ✓ · aqueduct leg 3 partial · water/faucet doctrine**
+**Day 525 · Cal-Y2 D288:** **Week 75 close · FORGE-D tap ✓ · SINK-BASIN-1 ✓ · hide ~85% · verdigris bank ~24 g**
+**Day 524 · Cal-Y2 D287:** **Aqueduct leg 2 partial · sink basin ~50% · goat/Tarsus-ready amend · pen defense queued**
+**Day 523 · Cal-Y2 D286:** **AQ-V1 wet tap ✓ · curtain hung undyed · goat/Tarsus SP doctrine · verdigris re-soak**
+**Day 522 · Cal-Y2 D285:** **AQUEDUCT-LEG-1 partial · VERDIGRIS scrape · eyelets ✓ · wagon/goat doctrine**
+**Day 521 · Cal-Y2 D284:** **AQUEDUCT-STAKE-1 ✓ · KITCHEN-CURTAIN-ROD-1 · eyelets 4/12**
 **Day 520 · Cal-Y2 D283:** **POT-KITCHEN-FIRE-1 ✓ · VERDIGRIS day-12 WATCH · pending sweep**
 **Day 519 · Cal-Y2 D282:** **Week 75 opens · GOAT-HUNT-1 ✓ bow @ A-03 · kitchen paused**
 **Day 518 · Cal-Y2 D281:** **KITCHEN-POT-HERB-1 ✓ · KITCHEN-WHITEWASH-1 ✓**

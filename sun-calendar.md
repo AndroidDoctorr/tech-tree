@@ -1,6 +1,6 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 396** (~10,000 BC) · **Cal-Y2 D159***  
+*Last updated: **Day 528** (~10,000 BC) · **Cal-Y2 D291***  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
 **Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239**
 
@@ -61,6 +61,15 @@ You do **not** need perfect daily marks — **interpolate** between anchors when
 | **366** | D129 | Early spring | **223** | **219** | **140** | **IRON-BLOOM-6 ✓** |
 | **367** | D130 | Early spring | **225** | **221** | **141** | **VAULT-CHAR · IRON-HAMMER-1 ✓** |
 | **368** | D131 | Early spring | **227** | **223** | **142** | **EXPED-C gates GREEN** |
+| **500** | D263 | Late spring | **422** | **418** | **320** | Kitchen waste map · centadial approach |
+| **505** | D268 | Late spring | **427** | **423** | **320** | Week 73 opens · kitchen thatch |
+| **514** | D277 | Late spring | **436** | **432** | **320** | FARM-READ GREEN · emmer tillering |
+| **525** | D288 | Late spring → early summer | **447** | **443** | **320** | Week 75 close · FORGE-D tap |
+| **526** | D289 | **Late spring → early summer** | **449** | **445** | **322** | **SUN-CAL-SYNC-526** · FARM-READ |
+| **527** | D290 | **Early summer** | **451** | **447** | **324** | **AQ pen stub · PEN-EXPAND staked** |
+| **528** | D291 | **Early summer** | **453** | **449** | **326** | **KITCHEN-CLOSE · teal curtain** |
+
+*Interpolation between **Day 500–526**: **+2/day** ground and wall when marks skipped — **YULE @** ~**320** plateau then **+1–2** per logged day (**322** @ 526).*
 
 ---
 
@@ -100,7 +109,9 @@ Piecewise between anchors (linear segment):
 |--------------|------------|--------------|
 | Rising from ~46 ring | Speck climbing from 42 | **Late winter → spring** |
 | Mid **160–200** | Mid **156–196** | **Spring** |
-| High **200+** | High **196+** | **Late spring → summer** (Year 2 not reached yet @ D365) |
+| High **200+** | High **196+** | **Late spring → summer** |
+| **420–460** | **416–456** | **Late spring → early summer** (@ Cal-Y2 D263–289) |
+| Ground drift slowing | Wall speck near summer max | **Midsummer** |
 | Ground drift slowing | Wall speck near summer max | **Summer** |
 | Reverse toward 46 ring | Speck falling toward 42 band | **Autumn → winter** |
 

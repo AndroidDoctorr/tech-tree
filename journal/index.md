@@ -528,6 +528,14 @@
 | 518 | [day-518.md](days/week-074/day-518.md) | **v1 · H-v2 west wing** | **KITCHEN-POT-HERB-1 ✓ · KITCHEN-WHITEWASH-1 ✓** · **Cal-Y2 D281** · **SUN-MARK-518** |
 | 519 | [day-519.md](days/week-075/day-519.md) | **Gorge A-03 · campus** | **Week 75 opens · GOAT-HUNT-1 ✓ bow · kitchen paused** · **Cal-Y2 D282** · **SUN-MARK-519** |
 | 520 | [day-520.md](days/week-075/day-520.md) | **Kiln B · v1 CHEM · west wing** | **POT-KITCHEN-FIRE-1 ✓ · VERDIGRIS WATCH · pending sweep** · **Cal-Y2 D283** · **SUN-MARK-520** |
+| 521 | [day-521.md](days/week-075/day-521.md) | **SLUICE-1 · T-1 · west wing** | **AQUEDUCT-STAKE-1 ✓ · CURTAIN-ROD-1 ✓ · eyelets 4/12** · **Cal-Y2 D284** · **SUN-MARK-521** |
+| 522 | [day-522.md](days/week-075/day-522.md) | **AQ line · FORGE-D · v1 CHEM** | **AQUEDUCT-LEG-1 partial · VERDIGRIS scrape · eyelets ✓ · wagon/goat filed** · **Cal-Y2 D285** · **SUN-MARK-522** |
+| 523 | [day-523.md](days/week-075/day-523.md) | **AQ-V1 · LM-2 · west wing** | **AQ-V1 wet tap ✓ · curtain hung undyed · goat/Tarsus doctrine · verdigris re-soak** · **Cal-Y2 D286** · **SUN-MARK-523** |
+| 524 | [day-524.md](days/week-075/day-524.md) | **Campus line · FORGE-D · west wing** | **Aqueduct leg 2 partial · sink basin ~50% · Tarsus-ready amend · pen defense queued** · **Cal-Y2 D287** · **SUN-MARK-524** |
+| 525 | [day-525.md](days/week-075/day-525.md) | **FORGE-D · Kiln B · W-1** | **FORGE-D tap ✓ · SINK-BASIN-1 ✓ · hide ~85% · Week 75 close** · **Cal-Y2 D288** · **SUN-MARK-525** |
+| 526 | [day-526.md](days/week-076/day-526.md) | **Farm · W-1 · AQ line · pen** | **FARM-READ · hide tan ✓ · aqueduct leg 3 partial · faucet doctrine · SUN-CAL sync** · **Cal-Y2 D289** · **SUN-MARK-526** |
+| 527 | [day-527.md](days/week-076/day-527.md) | **Pen branch · P-GOAT-1 · v1 CHEM** | **AQ pen stub ✓ · PEN-EXPAND staked · food auto soon · verdigris cure** · **Cal-Y2 D290** · **SUN-MARK-527** |
+| 528 | [day-528.md](days/week-076/day-528.md) | **H-v2 west wing · v1 CHEM** | **CURTAIN-DYE ✓ · KITCHEN-CLOSE ✓ · dry rack · PLAN-528 wagon/ROI** · **Cal-Y2 D291** · **SUN-MARK-528** |
 
 ## Centadials (every 100 days)
 
@@ -619,7 +627,8 @@ See [summaries/README.md](summaries/README.md).
 | 72 | [week-072.md](weeks/week-072.md) | 498–504 | **Kitchen build sprint · waste · Centadial 5** *(closed Day 504)* |
 | 73 | [week-073.md](weeks/week-073.md) | 505–512 | **Kitchen shell · floor sprint · clean kit** *(closed Day 512)* |
 | 74 | [week-074.md](weeks/week-074.md) | 512–519 | **Kitchen floor · utensils · herbs/whitewash** *(closed Day 519)* |
-| 75 | [week-075.md](weeks/week-075.md) | 519+ | **GOAT-HUNT · aqueduct · kitchen close resume** *(opens Day 519)* |
+| 75 | [week-075.md](weeks/week-075.md) | 519–525 | **GOAT-HUNT · aqueduct phase 1 · sink** *(closed Day 525)* |
+| 76 | [week-076.md](weeks/week-076.md) | 526+ | **Curtain dye · kitchen close · pen branch · hide tan** *(opens Day 526)* |
 
 ## Day folders
 
@@ -700,6 +709,7 @@ See [summaries/README.md](summaries/README.md).
 | 73 | [days/week-073/](days/week-073/) |
 | 74 | [days/week-074/](days/week-074/) |
 | 75 | [days/week-075/](days/week-075/) |
+| 76 | [days/week-076/](days/week-076/) |
 
 ## Years
 
