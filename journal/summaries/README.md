@@ -1,14 +1,15 @@
-# Centadial summaries
+# Journal summaries
 
-One rollup every **100 days** of play.
+Rollups and benchmarks — not day-by-day logs.
 
 | Centadial | Days | File |
 |-----------|------|------|
 | **1** | 1–100 | [centadial-001.md](centadial-001.md) |
 | **2** | 101–200 | [centadial-002.md](centadial-002.md) |
 | **3** | 201–300 | [centadial-003.md](centadial-003.md) |
-| **4** | 301–400 | *(Day 365 — in progress)* |
+| **4** | 301–400 | [centadial-004.md](centadial-004.md) |
+| **5** | 401–500 | [centadial-005.md](centadial-005.md) |
 
----
+**Centadial** = one summary every **100 days** (*made-up but useful*).
 
-*Linked from [journal/index.md](../index.md).*
+Daily timeline: [index.md](../index.md)

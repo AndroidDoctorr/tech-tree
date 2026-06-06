@@ -63,6 +63,8 @@ Checkboxes track first reliable capability — not first attempt. Notes capture 
 - [ ] **Semiconductors** — purification nightmare; flag as likely "team" step
 - [ ] **Computing** — programmable, not just calculator
 
+*Day 501 reassess:* plausible near path = **aqueduct → factory ceramics → chem lab → more WW takeoffs → coke/retort → telegraph-class wire**. **Natural uranium reactors** (Oklo-type) are a **geology + enrichment** problem, not a camp-dig problem at 10,000 BC — see [ladder.md](ladder.md) force-multiplier table.
+
 ## Phase 6 — Bio & space
 
 - [ ] **Microbiology lab** — culture, stain, isolate

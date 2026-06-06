@@ -2,15 +2,13 @@
 
 **Days 365–371 · ~10,000 BC · Orontes valley**  
 **Home:** **H-v2** · **Respawn:** H-v2 bed  
-**Theme:** **Farm watch · post-roof pivot · next hero pick.**
+**Theme:** **Farm watch · iron shop · EXPED-C launch.**
 
 ---
 
 ## Arc in one paragraph
 
-*(in progress)*
-
-Week fifty-three opens with **FARM-WATCH-365** — full emergence read after the **ROOF-W1** sprint. **Bed B** second flax thin, **P-17** true-leaf watch, **FIG-C2** selection note, pen and yearling pass. **Hero pick queued:** **H-v2-KITCHEN-1 stake** or **IRON-BLOOM-6**.
+Week fifty-three opens with **FARM-WATCH-365** after the **ROOF-W1** sprint — second flax thin, **P-17** watch, pen and yearling pass. **IRON-BLOOM-6**, **VAULT-CHAR**, and **IRON-HAMMER-1** close the forge prep arc. **EXPED-C** gates **GREEN Day 368**; **HAUL-IRON-2** launches **Day 369** with **H-11** bench mine **Day 370**, loaded march to **Camp-1**, and **M-22** magnetite pin **Day 371**. Week closes on the NE corridor with iron on the travois and tiers 1–2 closed — **M-G1** malachite leg opens **Week 54**.
 
 ---
 
@@ -25,17 +23,15 @@ Week fifty-three opens with **FARM-WATCH-365** — full emergence read after the
 | [369](../days/week-053/day-369.md) | **EXPED-C Phase 1 launch · HAUL-IRON-2 → H-11 · mine prep d370** · **Cal-Y2 D132** · **SUN-MARK-369** |
 | [370](../days/week-053/day-370.md) | **H-11 ~10.4 kg ✓ · IRON-HAMMER-1 @ ore · loaded bivouac** · **Cal-Y2 D133** · **SUN-MARK-370** |
 | [371](../days/week-053/day-371.md) | **Loaded H-11 → Camp-1 · M-22 CONFIRM pin · tier 1+2 ✓** · **Cal-Y2 D134** · **SUN-MARK-371** |
-| [372](../days/week-053/day-372.md) | **M-G1 ~5.3 kg · EXPED-C Phase 1 ✓ · ~16.7 kg loaded homeward d373** · **Cal-Y2 D135** · **SUN-MARK-372** |
-| [373](../days/week-053/day-373.md) | **Homeward loaded · HOME · HAUL-IRON-2 ✓ · pile 4 sort · EXPED-C P1 closed** · **Cal-Y2 D136** · **SUN-MARK-373** |
 
 ---
 
-## Carrying (current @ Day 373)
+## Carrying (end @ Day 371)
 
-- **HOME H-v2** — **respawn bed · EXPED-C Phase 1 ✓**
-- **Pile 4** — **~12.2 kg O-IRON · ~17.8 kg O-1 · M-22 grit ~27 g**
-- **Next** — **rest · farm watch · Phase 2 M-11 · boots/clothes · forge picks**
+- **Camp-1** — **~10.4 kg O-IRON on travois · M-22 pin ✓**
+- **Queued Week 54** — **M-G1 malachite · homeward · pile 4 sort**
+- **Farm** — **Bed B post-thin watch · P-17 hands-off**
 
 ---
 
-*Week 53 opens Day 365.*
+*Week 53 closes Day 371. Week 54 opens Day 372.*

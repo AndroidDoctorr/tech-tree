@@ -1,6 +1,6 @@
 # Calendar Year 2 strategy (~Days 238–602)
 
-*Last revised: **Day 368** (~10,000 BC). **EXPED-C Phase 1 launch d369.***  
+*Last revised: **Day 397** (~10,000 BC). **CART-1 hero · BARN/CRANE parked · farm interleave.***  
 **Prior year:** [year-001.md](journal/years/year-001.md) · **Stock:** [inventory.md](inventory.md) · **Ladder:** [ladder.md](ladder.md)
 
 **Character:** Immortal solo · Orontes campus · parallel tracks OK · **one hero forge/build per week**
@@ -11,13 +11,64 @@
 
 | Priority | Goal | Why now |
 |----------|------|---------|
-| **1** | **EXPED-C — full ore/chem haul** | Malachite + hematite reliable · alum marked · magnetite to confirm · restock before factory hunger |
+| **1** | **EXPED-C — full ore/chem haul** | **✓ Day 381** — Phase 1 NE ore + Phase 2 M-11 alum |
 | **2** | **Glass-1 melt trial** | **KELP-ASH-1** · coast sand · quartz local — precursors stacked · need anneal + furnace window |
 | **3** | **IRON-DRAWPLATE-1 → wire** | EM path needs uniform copper · iron punch/graduated holes · **~120 g bloom remain** |
 | **4** | **ANVIL-1 (full block)** | **ANVIL-FACE-1** = plate only · horn · hardy · mass for real forging |
 | **5** | **Campus QoL** | **LM-2 loom** · +bowls · **H-v2-KITCHEN-1** · **CRANE-1** · labeled baskets @ scale |
 | **6** | **BARN-1-v1 start** | Target **Cal-Y3 open** · wood frame · shakes + **M-08 pitch/sand** · not tile |
-| **7** | **Cart vs boat** | **Cart wins Year 2** — NE ore corridor · **YEARLING-1** · **WW-1** wheel doctrine · boat when Orontes logistics matter |
+| **7** | **Cart vs boat** | **↑ CART-1 active Day 397** — barn/crane wait on haul PASS · boat autumn+ |
+
+---
+
+## CART-1 — campus haul (*Day 397 logistics*)
+
+**Doctrine:** **Cart before barn.** **WW-1 untouched** — build **WHEEL-CART** rims at **~1.0 m Ø** using proven **8/8 lap** grammar. **One hero build per week**; farm dawn + ½-day smelt/glass on non-rim days.
+
+### Site
+
+| Item | Spec |
+|------|------|
+| **CART-YARD** | **~3 × 6 m** pad **~18 m S of pile 5** · **~8 m W of T-2** |
+| **Trial lane** | **~40 m** on **T-2** — **50 kg → 100 kg** load tests |
+
+### Build order
+
+| Phase | Est. | Deliverable |
+|-------|------|-------------|
+| **0** | **✓ d397** | **CART-1-STAKE** · stock slate |
+| **1** | **2–3 d** | **WHEEL-CART-1** — hub · **×8** spokes · **8/8** rim · hand spin **≤5 mm** |
+| **1b** | **✓ d403** | **WHEELBARROW-1** — **WB-LOAD-1 ~28 kg PASS** · wheel 1 on barrow |
+| **2** | **2–3 d** | **WHEEL-CART-2** + **AXLE-CART-1** — fixed oak shaft **~1.1 m** · bushings |
+| **3** | **2 d** | **CART-BED-1** — **~1.9 × 0.9 m** · peg joints · **~28 cm** rails |
+| **4** | **1–2 d** | **YOKE-1** + **YEARLING-HARNESS-1** — padded yoke · traces |
+| **5** | **1 d** | **LOAD-TEST** on **T-2** — **50 kg** then **100 kg** · yearling **phase 5b** |
+
+### Stock gaps (before phase 3)
+
+| Need | Action |
+|------|--------|
+| **Oak** **+15–20 kg** | **✓ Day 399 WOOD-HAUL-2 +~18 kg · ~92 kg @ pile 5** |
+| **Nails ~20–30** | **✓ Day 398 — ×27 @ tray** |
+| **Rope ~10 m** | Budget from **ROPE-2** — **D-27 80 m** untouched |
+| **Tallow + hide trim** | Yoke pad · axle grease |
+
+### Interleave rules
+
+| Rule | Why |
+|------|-----|
+| **No rim-close + hero smelt same day** | Hands · char · focus |
+| **Glass = peripheral ½-day max** | Not same week as both wheel rims |
+| **Farm = scare only** until **~D210** flax pull |
+| **BARN-1 + CRANE-1 parked** | Resume after **cart 50 kg PASS** on **T-2** |
+
+### Payoff
+
+| After PASS | Unlocks |
+|------------|---------|
+| **Campus** | Char · clay · shake stock · timber for barn |
+| **Trail** | **T-2** wood corridor · lighter ore top-ups |
+| **Yearling** | **YEARLING-TRAIN-1** → **~80–100 kg** class loads |
 
 ---
 
@@ -44,7 +95,7 @@
 | 372 | **Camp-1 → M-G1** malachite top-up if capacity |
 | 373–374 | **Homeward** · **≤6 days total absence** |
 
-**Phase 2 — W alum (after return + pile 4 sort)** — **~3-day M-11 collect loop**
+**Phase 2 — W alum** — **✓ CLOSED Day 381** — **~2.2 kg M-11 @ v1 CHEM**
 
 1. ~~Scout day~~ — **gates GREEN Day 368**
 2. **HAUL-IRON-2** — **d369 launch**
@@ -65,6 +116,7 @@
 | **Kiln C hot blast** | Not yet **glass-routine** — trial = peripheral fire + small charge |
 
 **Order:** EXPED stable → **micro-melt trial** ( bead class ) → anneal pass/fail → scale or defer  
+**Status @ Day 395:** **TRIAL-1/3 beads ✓** · **TRIAL-4 70/30 blend partial** · **GLASS-ANNEAL-1 ✓** · **WIRE-DRY-1 ✓**  
 
 ---
 
@@ -86,8 +138,9 @@
 | **LM-2 heddle v2** | ~1 week part-time | Faster shed · canvas path |
 | **Kitchen pottery +4–6 bowls** | 1 press + 1 fire | Trail + kitchen |
 | **H-v2-KITCHEN-1 stake** | 2–3 layout days + build | Opposite ante · own flue |
-| **CRANE-1** | 2–3 days | Before barn trusses · **ROPE-2** |
-| **BARN-1-v1** | **Cal-Y3** | Wood · shakes · pitch · **D-27 class** optional |
+| **CART-1** | **~8–12 d part-time** | **↑ active Day 397** — **CART-YARD** · **WHEEL-CART** doctrine |
+| **CRANE-1** | 2–3 days | **Parked** — after **cart PASS** · before barn loft timbers |
+| **BARN-1-v1** | **Cal-Y3** | **Staked Day 396** — **parked** until cart haul proven |
 
 ---
 
@@ -96,7 +149,7 @@
 | Option | Use case now | Verdict |
 |--------|--------------|---------|
 | **Cart / travois + yearling** | NE ore · wood · tile annex haul | **Build Year 2** — axle · yoke · **WW** wheel spare |
-| **Boat (BOAT-1)** | Orontes fishing · cross-river · bulk downstream | **Defer** — campus ore boss is NE/W land trails |
+| **Boat (BOAT-1)** | Orontes → sea · coastal tin scout (**TIN-SCOUT-1** Tarsus class) | **Sketch Cal-Y2 autumn** — river-mouth recon first · full coast = Cal-Y3+ |
 
 ---
 
@@ -114,7 +167,7 @@
 
 | Window | Boss |
 |--------|------|
-| **Early spring (now)** | Iron shop · EXPED-C prep |
+| **Early spring (now)** | **CART-1** · farm watch · ½-day smelt/glass interleave |
 | **Pre-summer** | EXPED-C execute · farm watch |
 | **Late summer** | Glass trial · tile factory reopen if annex queued |
 | **Autumn** | Harvest · salt/smoke · ore if deferred |
@@ -127,7 +180,10 @@
 - **Four heroes same week** (EXPED + glass + anvil + kitchen)  
 - **Drain vault for kiln/tiles** — pit char factory exists for that  
 - **Bronze smelt before tin scout** — malachite stock ≠ bronze  
+- **Tarsus walk fantasy** — **~200+ km** coast = season · **boat** is the serious path ([map.md](map.md) **TIN-SCOUT-1**)  
+- **More iron/copper ore** — **hold** until forge hero or bronze path breaks it · **not** statue-scale hoarding  
 - **Tile barn** — **BARN-1 = wood roof** doctrine locked Day 363  
+- **Barn/crane before cart** — **haul capacity first** (Day 397 re-prioritization)  
 
 ---
 

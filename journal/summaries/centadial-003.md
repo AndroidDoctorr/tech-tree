@@ -190,4 +190,4 @@ The third hundred days finish what Centadial 2 started: you **returned from COAS
 
 ---
 
-*Previous: [centadial-002.md](centadial-002.md) · Daily index: [index.md](../index.md)*
+*Previous: [centadial-002.md](centadial-002.md) · Next: [centadial-004.md](centadial-004.md) · Daily index: [index.md](../index.md)*

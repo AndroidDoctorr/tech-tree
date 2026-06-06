@@ -1,6 +1,6 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 373** (~10,000 BC) · **Cal-Y2 D136***  
+*Last updated: **Day 396** (~10,000 BC) · **Cal-Y2 D159***  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
 **Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239**
 

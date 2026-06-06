@@ -378,9 +378,156 @@
 | 368 | [day-368.md](days/week-053/day-368.md) | **farm · campus · pile 5** | **EXPED-C gates GREEN · farm prep · wood carve · launch d369** · **Cal-Y2 D131** · **SUN-MARK-368** |
 | 369 | [day-369.md](days/week-053/day-369.md) | **HOME → H-11 bench** | **EXPED-C launch · HAUL-IRON-2 · mine prep d370** · **Cal-Y2 D132** · **SUN-MARK-369** |
 | 370 | [day-370.md](days/week-053/day-370.md) | **H-11 bench** | **~10.4 kg hematite · IRON-HAMMER-1 @ ore · loaded bivouac** · **Cal-Y2 D133** · **SUN-MARK-370** |
-| 371 | [day-371.md](days/week-053/day-371.md) | **H-11 → M-22 → Camp-1** | **Loaded march · M-22 CONFIRM · EXPED tier 1+2 ✓** · **Cal-Y2 D134** · **SUN-MARK-371** |
-| 372 | [day-372.md](days/week-053/day-372.md) | **Camp-1 → M-G1** | **~5.3 kg malachite · EXPED-C P1 ✓ · ~16.7 kg loaded** · **Cal-Y2 D135** · **SUN-MARK-372** |
-| 373 | [day-373.md](days/week-053/day-373.md) | **M-G1 → HOME** | **HAUL-IRON-2 ✓ · EXPED-C Phase 1 ✓ · pile 4 sort** · **Cal-Y2 D136** · **SUN-MARK-373** |
+| 371 | [day-371.md](days/week-053/day-371.md) | **H-11 → M-22 → Camp-1** | **Loaded march · M-22 CONFIRM · EXPED tier 1+2 ✓ · Week 53 close** · **Cal-Y2 D134** · **SUN-MARK-371** |
+| 372 | [day-372.md](days/week-054/day-372.md) | **Camp-1 → M-G1** | **Week 54 opens · ~5.3 kg malachite · EXPED-C P1 ✓ · ~16.7 kg loaded** · **Cal-Y2 D135** · **SUN-MARK-372** |
+| 373 | [day-373.md](days/week-054/day-373.md) | **M-G1 → HOME** | **HAUL-IRON-2 ✓ · EXPED-C Phase 1 ✓ · pile 4 sort** · **Cal-Y2 D136** · **SUN-MARK-373** |
+| 374 | [day-374.md](days/week-054/day-374.md) | **HOME · farm** | **Rest · farm watch · mission slate · TIN-SCOUT-1 horizon** · **Cal-Y2 D137** · **SUN-MARK-374** |
+| 375 | [day-375.md](days/week-054/day-375.md) | **farm · W-1 leather** | **BOOT-3 ✓ · CL-SOCK-1 ✓ · farm hero · ore hold** · **Cal-Y2 D138** · **SUN-MARK-375** |
+| 376 | [day-376.md](days/week-054/day-376.md) | **W-1 · LM-1** | **LM-2 heddle bars · string heddles ~45%** · **Cal-Y2 D139** · **SUN-MARK-376** |
+| 377 | [day-377.md](days/week-054/day-377.md) | **W-1 · LM-2** | **LM-2 ✓ · canvas trial strip · EXPED P2 prep** · **Cal-Y2 D140** · **SUN-MARK-377** |
+| 378 | [day-378.md](days/week-054/day-378.md) | **HOME → COAST-TRAIL-1** | **EXPED-C P2 launch · BOOT-3 shakedown · Week 54 close** · **Cal-Y2 D141** · **SUN-MARK-378** |
+| 379 | [day-379.md](days/week-055/day-379.md) | **COAST-SITE-1 · M-11** | **Week 55 opens · M-11 ~2.4 kg ✓ · BOOT-3 @ 20 km PASS** · **Cal-Y2 D142** · **SUN-MARK-379** |
+| 380 | [day-380.md](days/week-055/day-380.md) | **COAST → plain margin** | **Homeward · COAST-TRAIL-1 @ dark · ~6 km out** · **Cal-Y2 D143** · **SUN-MARK-380** |
+| 381 | [day-381.md](days/week-055/day-381.md) | **HOME** | **M-11 sort · EXPED-C P2 ✓ · BOOT-3 loop close** · **Cal-Y2 D144** · **SUN-MARK-381** |
+| 382 | [day-382.md](days/week-055/day-382.md) | **farm · v1 CHEM** | **FARM-WATCH-382 · ALUM-PURIFY-1 ~165 g ✓** · **Cal-Y2 D145** · **SUN-MARK-382** |
+| 383 | [day-383.md](days/week-055/day-383.md) | **W-1 · LM-2** | **CL-TUNIC-1 day 1/2 · line warp · body ~60%** · **Cal-Y2 D146** · **SUN-MARK-383** |
+| 384 | [day-384.md](days/week-055/day-384.md) | **W-1 · H-v2** | **CL-TUNIC-1 ✓ · gussets · sleeves · wear test under tabard** · **Cal-Y2 D147** · **SUN-MARK-384** |
+| 385 | [day-385.md](days/week-055/day-385.md) | **farm · forge · v1** | **FARM-READ GREEN · MORDANT-TRIAL-1 ✓ · DRAWPLATE ~55% · Week 55 close** · **Cal-Y2 D148** · **SUN-MARK-385** |
+| 386 | [day-386.md](days/week-056/day-386.md) | **FORGE · WORKBENCH-1** | **Week 56 opens · DRAWPLATE ✓ · WIRE-CU-1 first draw** · **Cal-Y2 D149** · **SUN-MARK-386** |
+| 387 | [day-387.md](days/week-056/day-387.md) | **WORKBENCH-1 · FORGE-D** | **WIRE-SPOOL-1 ✓ · WIRE-CU-2 ~2.1 m** · **Cal-Y2 D150** · **SUN-MARK-387** |
+| 388 | [day-388.md](days/week-056/day-388.md) | **STORE-3 · Kiln C** | **WIRE-DRY-1 ✓ · GLASS-TRIAL-1 bead · TRIAL-2 fail** · **Cal-Y2 D151** · **SUN-MARK-388** |
+| 389 | [day-389.md](days/week-056/day-389.md) | **Farm · W-1 · river** | **FARM-READ-389 · CL-TOWEL-2 ~45% · BOW-PRACTICE-1** · **Cal-Y2 D152** · **SUN-MARK-389** |
+| 390 | [day-390.md](days/week-056/day-390.md) | **HOME → Camp-1** | **EXPED-M22-1 launch · towel paused · body hunt slate** · **Cal-Y2 D153** · **SUN-MARK-390** |
+| 391 | [day-391.md](days/week-056/day-391.md) | **M-22 · M-22-UP · Camp-1** | **M-22 BODY ✓ · ~2.4 kg haul · lens marked** · **Cal-Y2 D154** · **SUN-MARK-391** |
+| 392 | [day-392.md](days/week-056/day-392.md) | **Camp-1 → HOME** | **EXPED-M22-1 ✓ · magnetite @ pile 4 · Week 56 close** · **Cal-Y2 D155** · **SUN-MARK-392** |
+| 393 | [day-393.md](days/week-057/day-393.md) | **Farm · T-1 · W-1** | **Week 57 opens · farm watch · WOOD-HAUL · mortise trial** · **Cal-Y2 D156** · **SUN-MARK-393** |
+| 394 | [day-394.md](days/week-057/day-394.md) | **W-1 · v1 · porch** | **CL-TOWEL-2 ✓ · LODESTONE-TRIAL-1 · suspend proof** · **Cal-Y2 D157** · **SUN-MARK-394** |
+| 395 | [day-395.md](days/week-057/day-395.md) | **Kiln C · farm** | **GLASS-TRIAL-3/4 · wash/sieve · FARM-READ-395 GREEN** · **Cal-Y2 D158** · **SUN-MARK-395** |
+| 396 | [day-396.md](days/week-057/day-396.md) | **Farm · WW-YARD** | **BARN-1-v1 loft stake · CRANE-1 logistics slate** · **Cal-Y2 D159** · **SUN-MARK-396** |
+| 397 | [day-397.md](days/week-057/day-397.md) | **Farm · CART-YARD** | **CART-1 logistics · WHEEL-CART doctrine · barn/crane parked** · **Cal-Y2 D160** · **SUN-MARK-397** |
+| 398 | [day-398.md](days/week-057/day-398.md) | **FORGE-D** | **IRON-NAILS-3 ✓ ×27 · BLOOM-6 consumed · cart set trial** · **Cal-Y2 D161** · **SUN-MARK-398** |
+| 399 | [day-399.md](days/week-057/day-399.md) | **Pit lane · T-1** | **PIT-CHAR-5 ✓ · WOOD-HAUL-2 ✓ · cart stock staged** · **Cal-Y2 D162** · **SUN-MARK-399** |
+| 400 | [day-400.md](days/week-058/day-400.md) | **CART-YARD** | **Week 58 opens · WHEEL-CART-1 hub · CART-BUSH-1 · spokes 4/8** · **Cal-Y2 D163** · **SUN-MARK-400** |
+| 401 | [day-401.md](days/week-058/day-401.md) | **CART-YARD · H-v2** | **WHEEL-CART spokes 8/8 · rim 3/8 · [Centadial 4](summaries/centadial-004.md)** · **Cal-Y2 D164** · **SUN-MARK-401** |
+| 402 | [day-402.md](days/week-058/day-402.md) | **CART-YARD** | **WHEEL-CART-1 ✓ · rim 8/8 · hand spin PASS ~4 mm** · **Cal-Y2 D165** · **SUN-MARK-402** |
+| 403 | [day-403.md](days/week-058/day-403.md) | **CART-YARD · T-2** | **WHEELBARROW-1 ✓ · WB-LOAD-1 ~28 kg PASS** · **Cal-Y2 D166** · **SUN-MARK-403** |
+| 404 | [day-404.md](days/week-058/day-404.md) | **CART-YARD** | **WHEEL-CART-2 hub · CART-BUSH-2 · spokes 8/8** · **Cal-Y2 D167** · **SUN-MARK-404** |
+| 405 | [day-405.md](days/week-058/day-405.md) | **pile 5 · CART-YARD** | **WB-HAUL-2 ✓ · WHEEL-CART-2 ✓ · shakes ×10** · **Cal-Y2 D168** · **SUN-MARK-405** |
+| 406 | [day-406.md](days/week-058/day-406.md) | **Farm · FORGE-D** | **FARM-MAINT-406 · IRON-BLOOM-7 ✓ · Week 58 close** · **Cal-Y2 D169** · **SUN-MARK-406** |
+| 407 | [day-407.md](days/week-059/day-407.md) | **CART-YARD** | **Week 59 opens · AXLE-CART-1 ✓ · both wheels united** · **Cal-Y2 D170** · **SUN-MARK-407** |
+| 408 | [day-408.md](days/week-059/day-408.md) | **pit lane · FORGE-D** | **PIT-CHAR-6 ✓ · IRON-NAILS-4 ✓ ×41** · **Cal-Y2 D171** · **SUN-MARK-408** |
+| 409 | [day-409.md](days/week-059/day-409.md) | **CART-YARD** | **CART-BED-1 ✓ · cart mounted · empty roll PASS** · **Cal-Y2 D172** · **SUN-MARK-409** |
+| 410 | [day-410.md](days/week-059/day-410.md) | **CART-YARD · T-2** | **CART-LOAD-TEST ✓ ~50 kg · round trip PASS** · **Cal-Y2 D173** · **SUN-MARK-410** |
+| 411 | [day-411.md](days/week-059/day-411.md) | **CART-YARD · HOLDING-1** | **YOKE-1 ✓ · yearling harness fit PASS** · **Cal-Y2 D174** · **SUN-MARK-411** |
+| 412 | [day-412.md](days/week-059/day-412.md) | **CART-YARD · T-2** | **CART-LOAD-100 ✓ ~100 kg · CART-1 complete** · **Cal-Y2 D175** · **SUN-MARK-412** |
+| 413 | [day-413.md](days/week-059/day-413.md) | **HOLDING-1 · CART-YARD** | **YEARLING-CART-25 ✓ · Week 59 close** · **Cal-Y2 D176** · **SUN-MARK-413** |
+| 414 | [day-414.md](days/week-060/day-414.md) | **T-2 trial lane** | **Week 60 opens · YEARLING-CART-50 ✓ · full T-2** · **Cal-Y2 D177** · **SUN-MARK-414** |
+| 415 | [day-415.md](days/week-060/day-415.md) | **pit lane · FORGE-D** | **PIT-CHAR-7 ✓ · IRON-BLOOM-8 ✓ · cart/yearling rest** · **Cal-Y2 D178** · **SUN-MARK-415** |
+| 416 | [day-416.md](days/week-060/day-416.md) | **T-2 trial lane** | **YEARLING-CART-80 ✓ · full T-2 round trip** · **Cal-Y2 D179** · **SUN-MARK-416** |
+| 417 | [day-417.md](days/week-060/day-417.md) | **pit lane · FORGE-D** | **PIT-CHAR-8 ✓ · IRON-BLOOM-9 ✓ · peg ~550 g** · **Cal-Y2 D180** · **SUN-MARK-417** |
+| 418 | [day-418.md](days/week-060/day-418.md) | **T-2 trial lane** | **CART-SPEED-TRIAL ✓ · ~0.46 km/h @ 80 kg** · **Cal-Y2 D181** · **SUN-MARK-418** |
+| 419 | [day-419.md](days/week-060/day-419.md) | **barn pad · W-1** | **BARN-STAKE-REFRESH ✓ · SHAKE-SPLIT ×24** · **Cal-Y2 D182** · **SUN-MARK-419** |
+| 420 | [day-420.md](days/week-060/day-420.md) | **WW-YARD-1** | **CRANE-1 ~35% · Week 60 close** · **Cal-Y2 D183** · **SUN-MARK-420** |
+| 421 | [day-421.md](days/week-061/day-421.md) | **T-1 · pile 5** | **Week 61 opens · CART-WOOD-HAUL-1 ✓ · ROPE +15 m** · **Cal-Y2 D184** · **SUN-MARK-421** |
+| 422 | [day-422.md](days/week-061/day-422.md) | **WW-YARD-1** | **CRANE-1 ✓ · 50 kg test PASS · barn loft unlocked** · **Cal-Y2 D185** · **SUN-MARK-422** |
+| 423 | [day-423.md](days/week-061/day-423.md) | **barn pad · WW-YARD** | **CRANE-RELOCATE ✓ · ridge reach PASS** · **Cal-Y2 D186** · **SUN-MARK-423** |
+| 424 | [day-424.md](days/week-061/day-424.md) | **barn pad** | **BARN-FOOTINGS ✓ ×6 FS pads** · **Cal-Y2 D187** · **SUN-MARK-424** |
+| 425 | [day-425.md](days/week-061/day-425.md) | **T-1 · barn margin** | **CART-WOOD-HAUL-2 ✓ · post timber · ROPE +12 m** · **Cal-Y2 D188** · **SUN-MARK-425** |
+| 426 | [day-426.md](days/week-061/day-426.md) | **barn pad** | **BARN-POSTS ✓ ×6 plumb** · **Cal-Y2 D189** · **SUN-MARK-426** |
+| 427 | [day-427.md](days/week-061/day-427.md) | **barn pad** | **BARN-SILL ✓ · Week 61 close** · **Cal-Y2 D190** · **SUN-MARK-427** |
+| 428 | [day-428.md](days/week-062/day-428.md) | **T-1 · barn margin** | **Week 62 opens · gate NO-GO loft · CART-WOOD-HAUL-3 ✓ · ROPE +12 m** · **Cal-Y2 D191** · **SUN-MARK-428** |
+| 429 | [day-429.md](days/week-062/day-429.md) | **barn pad** | **BARN-LOFT-JOISTS ✓ ×5 crane-lift · session 1** · **Cal-Y2 D192** · **SUN-MARK-429** |
+| 430 | [day-430.md](days/week-062/day-430.md) | **T-1 · barn margin** | **CART-WOOD-HAUL-4 ✓ · ROPE +12 m · joist fill staged** · **Cal-Y2 D193** · **SUN-MARK-430** |
+| 431 | [day-431.md](days/week-062/day-431.md) | **barn pad** | **BARN-LOFT-JOISTS ✓ ×9 row closed · session 2** · **Cal-Y2 D194** · **SUN-MARK-431** |
+| 432 | [day-432.md](days/week-062/day-432.md) | **W-1 · pile 9** | **SHAKE-SPLIT ✓ ×38 · ROPE +12 m** · **Cal-Y2 D195** · **SUN-MARK-432** |
+| 433 | [day-433.md](days/week-062/day-433.md) | **barn pad · farm** | **BARN-RIDGE ✓ · FARM-READ GREEN** · **Cal-Y2 D196** · **SUN-MARK-433** |
+| 434 | [day-434.md](days/week-062/day-434.md) | **T-1 · clay · weir** | **CART-MULTI-HAUL-1 ✓ · Week 62 close** · **Cal-Y2 D197** · **SUN-MARK-434** |
+| 435 | [day-435.md](days/week-063/day-435.md) | **barn pad** | **Week 63 opens · BARN-RAFTERS ✓ ×6 session 1** · **Cal-Y2 D198** · **SUN-MARK-435** |
+| 436 | [day-436.md](days/week-063/day-436.md) | **T-1 · weir · bar** | **CART-MULTI-HAUL-2 ✓ · CALCIUM stockpile** · **Cal-Y2 D199** · **SUN-MARK-436** |
+| 437 | [day-437.md](days/week-063/day-437.md) | **barn pad** | **BARN-RAFTERS ✓ ×12 both slopes · session 2** · **Cal-Y2 D200** · **SUN-MARK-437** |
+| 438 | [day-438.md](days/week-063/day-438.md) | **FORGE-D** | **IRON-NAILS-4 ✓ ×23 · batten gate GREEN** · **Cal-Y2 D201** · **SUN-MARK-438** |
+| 439 | [day-439.md](days/week-063/day-439.md) | **T-1 · weir · bar** | **CART-MULTI-HAUL-3 ✓ · batten + calcium** · **Cal-Y2 D202** · **SUN-MARK-439** |
+| 440 | [day-440.md](days/week-063/day-440.md) | **barn pad** | **BARN-BATTENS ✓ ×12 grid · ~70%** · **Cal-Y2 D203** · **SUN-MARK-440** |
+| 441 | [day-441.md](days/week-063/day-441.md) | **pit lane · FORGE-D** | **PIT-CHAR-9 ✓ · VAULT-DRAW ✓ · IRON-NAILS-5 ✓ ×25 · Week 63 close** · **Cal-Y2 D204** · **SUN-MARK-441** |
+| 442 | [day-442.md](days/week-064/day-442.md) | **W-1 · pile 9** | **Week 64 opens · SHAKE-SPLIT ✓ ×52 · FLAX window OPEN** · **Cal-Y2 D205** · **SUN-MARK-442** |
+| 443 | [day-443.md](days/week-064/day-443.md) | **Bed B · P-RETT-1** | **FLAX-PULL-1 ✓ · P-RETT-2 load · ~11 kg green** · **Cal-Y2 D206** · **SUN-MARK-443** |
+| 444 | [day-444.md](days/week-064/day-444.md) | **W-1 · pile 9** | **SHAKE-SPLIT ✓ ×66 · retting interleave** · **Cal-Y2 D207** · **SUN-MARK-444** |
+| 445 | [day-445.md](days/week-064/day-445.md) | **T-1 · weir · bar** | **CART-MULTI-HAUL-4 ✓ · wood + calcium · split gate GREEN** · **Cal-Y2 D208** · **SUN-MARK-445** |
+| 446 | [day-446.md](days/week-064/day-446.md) | **W-1 · pile 9** | **SHAKE-SPLIT ✓ ×80 · lay GO** · **Cal-Y2 D209** · **SUN-MARK-446** |
+| 447 | [day-447.md](days/week-064/day-447.md) | **barn pad** | **SHAKE-ROOF session 1 ✓ · N eave + course 2 · ~76%** · **Cal-Y2 D210** · **SUN-MARK-447** |
+| 448 | [day-448.md](days/week-064/day-448.md) | **barn pad · CRANE-1** | **SHAKE-ROOF session 2 ✓ · N mid-slope · ~83%** · **Cal-Y2 D211** · **SUN-MARK-448** |
+| 449 | [day-449.md](days/week-065/day-449.md) | **barn pad · CRANE-1** | **Week 65 opens · BARN-N-SLOPE ✓ · rest PM** · **Cal-Y2 D212** · **SUN-MARK-449** |
+| 450 | [day-450.md](days/week-065/day-450.md) | **farm · W-1** | **FARM-READ ✓ · SHAKE-SPLIT half ✓ · S gate GREEN** · **Cal-Y2 D213** · **SUN-MARK-450** |
+| 451 | [day-451.md](days/week-065/day-451.md) | **barn pad** | **SHAKE-ROOF session 4 ✓ · S eave + course 2 · ~90%** · **Cal-Y2 D214** · **SUN-MARK-451** |
+| 452 | [day-452.md](days/week-065/day-452.md) | **W-1 · pile 9** | **SHAKE-SPLIT half ✓ · BASKET-SHAKE-1 ✓ · stock ×22** · **Cal-Y2 D215** · **SUN-MARK-452** |
+| 453 | [day-453.md](days/week-065/day-453.md) | **W-1 · P-RETT-1** | **SHAKE-SPLIT half ✓ ×29 · FLAX pull test PASS** · **Cal-Y2 D216** · **SUN-MARK-453** |
+| 454 | [day-454.md](days/week-065/day-454.md) | **barn pad · CRANE-1** | **SHAKE-ROOF hero ✓ · S to batten 11 · ridge gap · ~95%** · **Cal-Y2 D217** · **SUN-MARK-454** |
+| 455 | [day-455.md](days/week-065/day-455.md) | **W-1 · barn pad** | **SHAKE-SPLIT ✓ ×8 · S ridge cap ✓ · skin closed · Week 65 close** · **Cal-Y2 D218** · **SUN-MARK-455** |
+| 456 | [day-456.md](days/week-066/day-456.md) | **barn pad · v1 · P-RETT-1** | **CAP-WALK ✓ · BARN-PITCH-1 eave trial · FLAX-BREAK-1 · Week 66 opens** · **Cal-Y2 D219** · **SUN-MARK-456** |
+| 457 | [day-457.md](days/week-066/day-457.md) | **barn pad · T-2 ditch** | **BARN-PITCH-2 N mid-slope · WILD-FLAX-1 ~5 kg · farm stubble green** · **Cal-Y2 D220** · **SUN-MARK-457** |
+| 458 | [day-458.md](days/week-066/day-458.md) | **barn pad · W-1** | **BARN-PITCH-3 N ✓ · FLAX-BREAK-2 complete · ~580 g fiber** · **Cal-Y2 D221** · **SUN-MARK-458** |
+| 459 | [day-459.md](days/week-066/day-459.md) | **barn pad · P-RETT-1** | **BARN-PITCH-4 S eave ✓ · courses 2–3 partial · P-RETT-3 live** · **Cal-Y2 D222** · **SUN-MARK-459** |
+| 460 | [day-460.md](days/week-066/day-460.md) | **W-1 · LM-2** | **FLAX-HACKLE-1 ✓ · FLAX-SPIN partial · ~234 g line · pitch hold** · **Cal-Y2 D223** · **SUN-MARK-460** |
+| 461 | [day-461.md](days/week-066/day-461.md) | **barn pad · v1** | **BARN-PITCH-5 S courses 4–6 partial · ~74% seal · SPINNING-WHEEL queued** · **Cal-Y2 D224** · **SUN-MARK-461** |
+| 462 | [day-462.md](days/week-066/day-462.md) | **farm · barn pad** | **FARM-SWEEP ✓ · BARN-PITCH-6 S ✓ · ~90% seal · Week 66 close** · **Cal-Y2 D225** · **SUN-MARK-462** |
+| 463 | [day-463.md](days/week-067/day-463.md) | **barn pad · pile 5** | **PITCH touch-up · LOFT-DECK-1 SW bay ✓ · Week 67 opens** · **Cal-Y2 D226** · **SUN-MARK-463** |
+| 464 | [day-464.md](days/week-067/day-464.md) | **barn pad · pile 5** | **LOFT-DECK-2 centre bay ✓ · ~30% floor · pile 5 thin** · **Cal-Y2 D227** · **SUN-MARK-464** |
+| 465 | [day-465.md](days/week-067/day-465.md) | **T-1 · weir** | **CART-MULTI-HAUL-5 ✓ · pile 5 ~47 kg · LOFT-DECK-3 GO** · **Cal-Y2 D228** · **SUN-MARK-465** |
+| 466 | [day-466.md](days/week-067/day-466.md) | **FORGE-D · Kiln B** | **IRON-NAILS-6 ✓ ×35 · POT-FIRE-466 ×4 bowls** · **Cal-Y2 D229** · **SUN-MARK-466** |
+| 467 | [day-467.md](days/week-067/day-467.md) | **barn pad · pile 5** | **LOFT-DECK ✓ full plane · ×4 crown nails · barn ~99.8%** · **Cal-Y2 D230** · **SUN-MARK-467** |
+| 468 | [day-468.md](days/week-067/day-468.md) | **barn pad · W-1 · pile 5** | **BARN-DOORS-1 ✓ · BARN-1-v1 closed · cart clearance PASS** · **Cal-Y2 D231** · **SUN-MARK-468** |
+| 469 | [day-469.md](days/week-067/day-469.md) | **P-RETT-1 · barn · holding** | **FLAX-PULL ✓ · HAY-LOAD-TRIAL-1 ✓ · barn proven · Week 67 close** · **Cal-Y2 D232** · **SUN-MARK-469** |
+| 470 | [day-470.md](days/week-068/day-470.md) | **W-1 · pile 5 · WW-YARD** | **FLAX-BREAK-3 s1 · hinge/latch plan · wheel wood staged · Week 68 opens** · **Cal-Y2 D233** · **SUN-MARK-470** |
+| 471 | [day-471.md](days/week-068/day-471.md) | **FORGE-D · pile 4** | **IRON-BLOOM-10 · IRON-TONGS-1 ✓ · CU tongs retired · hinges deferred** · **Cal-Y2 D234** · **SUN-MARK-471** |
+| 472 | [day-472.md](days/week-068/day-472.md) | **pool margin · pit lane** | **FLAX-BREAK-3 ✓ · PIT-CHAR-11 · lane ~8.5 kg** · **Cal-Y2 D235** · **SUN-MARK-472** |
+| 473 | [day-473.md](days/week-068/day-473.md) | **FORGE-D · WW-YARD** | **IRON-BLOOM-11 · IRON-WOOD-CHISEL-2 ✓ · M-22 spent** · **Cal-Y2 D236** · **SUN-MARK-473** |
+| 474 | [day-474.md](days/week-068/day-474.md) | **farm · WW-YARD** | **FARM scare · SPINNING-WHEEL-RIM-1 ~40%** · **Cal-Y2 D237** · **SUN-MARK-474** |
+| 475 | [day-475.md](days/week-068/day-475.md) | **W-1 · WW-YARD** | **FLAX-HACKLE-3 ✓ · SPINNING-WHEEL-RIM-2 ✓ · ~386 g line** · **Cal-Y2 D238** · **SUN-MARK-475** |
+| 476 | [day-476.md](days/week-068/day-476.md) | **farm · WW-YARD** | **SPINNING-WHEEL-FRAME-1 ✓ · Week 68 close** · **Cal-Y2 D239** · **SUN-MARK-476** |
+| 477 | [day-477.md](days/week-069/day-477.md) | **WW-YARD · CART-YARD** | **SPINNING-WHEEL-1 ✓ · M-22 haul prep · Week 69 opens** · **Cal-Y2 D240** · **SUN-MARK-477** |
+| 478 | [day-478.md](days/week-069/day-478.md) | **T-1 · M-22-UP · HOME** | **M-22-REPEAT-HAUL-1 ✓ · ~3.2 kg · bloom 12 GO** · **Cal-Y2 D241** · **SUN-MARK-478** |
+| 479 | [day-479.md](days/week-069/day-479.md) | **pit lane · FORGE-D** | **PIT-CHAR-12 · IRON-BLOOM-12 ✓ · peg ~525 g** · **Cal-Y2 D242** · **SUN-MARK-479** |
+| 480 | [day-480.md](days/week-069/day-480.md) | **CART-YARD · FORGE-D** | **CART-BUSH-MAINT-480 · ANVIL-MASS-1 ✓** · **Cal-Y2 D243** · **SUN-MARK-480** |
+| 481 | [day-481.md](days/week-069/day-481.md) | **pit lane · FORGE-D** | **PIT-CHAR-13 · IRON-BLOOM-13 ✓ · peg ~395 g** · **Cal-Y2 D244** · **SUN-MARK-481** |
+| 482 | [day-482.md](days/week-069/day-482.md) | **T-1 · pit lane · farm** | **CART-WOOD-HAUL-9 · PIT-CHAR-14 ✓ · lane ~15 kg** · **Cal-Y2 D245** · **SUN-MARK-482** |
+| 483 | [day-483.md](days/week-069/day-483.md) | **T-1 · weir · pit lane** | **CART-MULTI-HAUL-6 · PIT-CHAR-15 ✓ · lane ~22 kg** · **Cal-Y2 D246** · **SUN-MARK-483** |
+| 484 | [day-484.md](days/week-070/day-484.md) | **farm · barn · FORGE-D** | **BARN-HINGE-IRON-1 ✓ · latch ~90% · Week 70 opens** · **Cal-Y2 D247** · **SUN-MARK-484** |
+| 485 | [day-485.md](days/week-070/day-485.md) | **pit lane · barn pad** | **PIT-CHAR-16 · BARN-HINGE-MOUNT-1 ✓ · iron latch ✓** · **Cal-Y2 D248** · **SUN-MARK-485** |
+| 486 | [day-486.md](days/week-070/day-486.md) | **pit lane · WW-YARD** | **PIT-CHAR-17 · WHEEL-SPIN-2 · lane ~14 kg** · **Cal-Y2 D249** · **SUN-MARK-486** |
+| 487 | [day-487.md](days/week-070/day-487.md) | **pit lane · FORGE-D · v1** | **PIT-CHAR-18 · IRON-NAILS-7 · DYE-SURVEY** · **Cal-Y2 D250** · **SUN-MARK-487** |
+| 488 | [day-488.md](days/week-070/day-488.md) | **pit lane · WW-YARD** | **PIT-CHAR-19 · WHEEL-SPIN-3 · dye tier-2 chem** · **Cal-Y2 D251** · **SUN-MARK-488** |
+| 489 | [day-489.md](days/week-070/day-489.md) | **plain NW** | **WOAD-SCOUT-1 · MADDER-SCOUT-1 ✓** · **Cal-Y2 D252** · **SUN-MARK-489** |
+| 490 | [day-490.md](days/week-070/day-490.md) | **pit lane · v1 porch** | **PIT-CHAR-20 · GRAPE-FERMENT-1 d1 · PAINT-PALETTE** · **Cal-Y2 D253** · **SUN-MARK-490** |
+| 491 | [day-491.md](days/week-071/day-491.md) | **farm · FORGE-D** | **IRON-BLOOM-14 · IRON-SICKLE-1 · Week 71 opens** · **Cal-Y2 D254** · **SUN-MARK-491** |
+| 492 | [day-492.md](days/week-071/day-492.md) | **T-1 · weir · brick margin** | **CART-MULTI-HAUL-7 ✓ · wood + clay glean** · **Cal-Y2 D255** · **SUN-MARK-492** |
+| 493 | [day-493.md](days/week-071/day-493.md) | **WW-YARD · v1 CHEM** | **WHEEL-SPIN-4 · DYE-PANEL-1 ✓ · ferment foam** · **Cal-Y2 D256** · **SUN-MARK-493** |
+| 494 | [day-494.md](days/week-071/day-494.md) | **pit lane · WW-YARD** | **PIT-CHAR-21 · WHEEL-SPIN-5 · Week 72 kitchen filed** · **Cal-Y2 D257** · **SUN-MARK-494** |
+| 495 | [day-495.md](days/week-071/day-495.md) | **barn pad · WW-YARD** | **BARN-PITCH-CLOSE-1 ✓ · WHEEL-SPIN-6** · **Cal-Y2 D258** · **SUN-MARK-495** |
+| 496 | [day-496.md](days/week-071/day-496.md) | **farm · pit · H-v2 west** | **FARM-SWEEP · PIT-CHAR-22 · KITCHEN-STAKE-1 ✓** · **Cal-Y2 D259** · **SUN-MARK-496** |
+| 497 | [day-497.md](days/week-071/day-497.md) | **pit lane · Kiln C** | **PIT-CHAR-23 · SMELT-21 ✓ · Week 71 close** · **Cal-Y2 D260** · **SUN-MARK-497** |
+| 498 | [day-498.md](days/week-072/day-498.md) | **T-1 · H-v2 west · pit** | **CART-WOOD-HAUL-13 · KITCHEN-PREP-1 · Week 72 opens** · **Cal-Y2 D261** · **SUN-MARK-498** |
+| 499 | [day-499.md](days/week-072/day-499.md) | **pit · Kiln B · H-v2 west** | **PIT-CHAR-25 · KILN-B-BRICK-1 · KITCHEN-SILL-1 ✓** · **Cal-Y2 D262** · **SUN-MARK-499** |
+| 500 | [day-500.md](days/week-072/day-500.md) | **H-v2 west · D-1 · pile 6** | **KITCHEN-FRAME-1 ✓ · BRICK-LOWER ~40% · WASTE-BIN-1 v0** · **Cal-Y2 D263** · **SUN-MARK-500** |
+| 501 | [day-501.md](days/week-072/day-501.md) | **H-v2 west · MIDDEN-FAR-1** | **KITCHEN-BRICK-BELT-1 ✓ · MIDDEN-PIT-1 ✓ · [Centadial 5](summaries/centadial-005.md)** · **Cal-Y2 D264** · **SUN-MARK-501** |
+| 502 | [day-502.md](days/week-072/day-502.md) | **H-v2 west wing** | **KITCHEN-HEARTH-1 ✓ · FLUE-CHEEK ~70% · floor tile + clean kit queued** · **Cal-Y2 D265** · **SUN-MARK-502** |
+| 503 | [day-503.md](days/week-072/day-503.md) | **H-v2 west · ante** | **KITCHEN-FLUE-CHEEK-1 ✓ · BROOM-1 v0 · CAMP-LADDER-1 queued** · **Cal-Y2 D266** · **SUN-MARK-503** |
+| 504 | [day-504.md](days/week-072/day-504.md) | **H-v2 west · T-1** | **KITCHEN-WATTLE-1 ~65% · KITCHEN-DAUB-1 ~40% · Week 72 close** · **Cal-Y2 D267** · **SUN-MARK-504** |
+| 505 | [day-505.md](days/week-073/day-505.md) | **H-v2 west wing** | **WATTLE-2 ✓ · DAUB-2 ✓ · THATCH-1 ~60% · Week 73 opens** · **Cal-Y2 D268** · **SUN-MARK-505** |
+| 506 | [day-506.md](days/week-073/day-506.md) | **H-v2 west wing** | **THATCH-CLOSE ✓ · KITCHEN-COUNTER-1 ✓ · structure complete** · **Cal-Y2 D269** · **SUN-MARK-506** |
+| 507 | [day-507.md](days/week-073/day-507.md) | **H-v2 west · v1 · FORGE-D** | **KITCHEN-STOCK-1 ✓ · CU-LADLE-1 ✓ · KITCHEN-MITT-1 ✓ · kitchen operational** · **Cal-Y2 D270** · **SUN-MARK-507** |
+| 508 | [day-508.md](days/week-073/day-508.md) | **v1 porch · Kiln B** | **GRAPE-VINEGAR-1 ✓ · FLOOR-TILE 5F · VERDIGRIS tray** · **Cal-Y2 D271** · **SUN-MARK-508** |
+| 509 | [day-509.md](days/week-073/day-509.md) | **farm · H-v2 west · kiln yard** | **FARM-READ GREEN · GROUT-TRIAL PASS · TILE-PRESS-FLOOR-2 ×8** · **Cal-Y2 D272** · **SUN-MARK-509** |
+| 510 | [day-510.md](days/week-073/day-510.md) | **H-v2 west wing · v1 glance** | **DUSTPAN-1 · MOP-1 · CLEAN-KIT ✓ · FLOOR-LAYOUT-510** · **Cal-Y2 D273** · **SUN-MARK-510** |
+| 511 | [day-511.md](days/week-073/day-511.md) | **Kiln B · kiln yard · west wing** | **FLOOR-TILE-FIRE-2 · SLIP-TRIAL PASS · Layout C checker** · **Cal-Y2 D274** · **SUN-MARK-511** |
+| 512 | [day-512.md](days/week-074/day-512.md) | **Kiln B · kiln yard** | **Week 74 opens · FLOOR-TILE-FIRE-3 ✓ · TILE-PRESS-FLOOR-3 ✓** · **Cal-Y2 D275** · **SUN-MARK-512** |
+| 513 | [day-513.md](days/week-074/day-513.md) | **Kiln B · west wing slate** | **FLOOR-TILE-FIRE-4 ✓ · TILE-PRESS-FLOOR-4 ✓ · KITCHEN-WINDOW + close checklist** · **Cal-Y2 D276** · **SUN-MARK-513** |
+| 514 | [day-514.md](days/week-074/day-514.md) | **farm · Kiln B** | **FARM-READ GREEN · FLOOR-TILE-FIRE-5 ✓ · GOAT-HUNT window** · **Cal-Y2 D277** · **SUN-MARK-514** |
+| 515 | [day-515.md](days/week-074/day-515.md) | **Kiln B · H-v2 west wing** | **FLOOR-TILE-FIRE-6 ✓ · KITCHEN-FLOOR-LAY-1 ~65% checker** · **Cal-Y2 D278** · **SUN-MARK-515** |
+| 516 | [day-516.md](days/week-074/day-516.md) | **H-v2 west wing · char pit** | **KITCHEN-FLOOR-LAY ✓ · BOOT PASS · PIT-CHAR-26 · cosmetic slate** · **Cal-Y2 D279** · **SUN-MARK-516** |
+| 517 | [day-517.md](days/week-074/day-517.md) | **H-v2 west · FORGE-D · kiln yard** | **KITCHEN-UTENSIL-BUNDLE ✓ · CU-SKILLET-1 · POT-KITCHEN-1 green** · **Cal-Y2 D280** · **SUN-MARK-517** |
+| 518 | [day-518.md](days/week-074/day-518.md) | **v1 · H-v2 west wing** | **KITCHEN-POT-HERB-1 ✓ · KITCHEN-WHITEWASH-1 ✓** · **Cal-Y2 D281** · **SUN-MARK-518** |
+| 519 | [day-519.md](days/week-075/day-519.md) | **Gorge A-03 · campus** | **Week 75 opens · GOAT-HUNT-1 ✓ bow · kitchen paused** · **Cal-Y2 D282** · **SUN-MARK-519** |
+| 520 | [day-520.md](days/week-075/day-520.md) | **Kiln B · v1 CHEM · west wing** | **POT-KITCHEN-FIRE-1 ✓ · VERDIGRIS WATCH · pending sweep** · **Cal-Y2 D283** · **SUN-MARK-520** |
 
 ## Centadials (every 100 days)
 
@@ -389,6 +536,8 @@
 | **1** | 1–100 | [centadial-001.md](summaries/centadial-001.md) |
 | **2** | 101–200 | [centadial-002.md](summaries/centadial-002.md) |
 | **3** | 201–300 | [centadial-003.md](summaries/centadial-003.md) |
+| **4** | 301–400 | [centadial-004.md](summaries/centadial-004.md) |
+| **5** | 401–500 | [centadial-005.md](summaries/centadial-005.md) |
 
 See [summaries/README.md](summaries/README.md).
 
@@ -448,7 +597,29 @@ See [summaries/README.md](summaries/README.md).
 | 50 | [week-050.md](weeks/week-050.md) | 344–350 | **Amphora line · chisel · anvil · SPEAR-2** *(closed Day 350)* |
 | 51 | [week-051.md](weeks/week-051.md) | 351–357 | **IRON-AXE-1 · baskets · fence · PIT-CHAR-3 ✓** *(closed Day 357)* |
 | 52 | [week-052.md](weeks/week-052.md) | 358–364 | **IRON-ADZE-1 · ROOF-W1 ✓ · first tile roof** *(closed Day 364)* |
-| 53 | [week-053.md](weeks/week-053.md) | 365–371 | **FARM-WATCH-365 · post-roof pivot** *(open Day 365)* |
+| 53 | [week-053.md](weeks/week-053.md) | 365–371 | **FARM-WATCH-365 · EXPED-C launch · HAUL-IRON-2** *(closed Day 371)* |
+| 54 | [week-054.md](weeks/week-054.md) | 372–378 | **BOOT-3 · LM-2 ✓ · EXPED-C P2 launch** *(closed Day 378)* |
+| 55 | [week-055.md](weeks/week-055.md) | 379–385 | **EXPED-C ✓ · CL-TUNIC · mordant · drawplate start** *(closed Day 385)* |
+| 56 | [week-056.md](weeks/week-056.md) | 386–392 | **Wire · glass · magnetite body · EXPED-M22-1 ✓** *(closed Day 392)* |
+| 57 | [week-057.md](weeks/week-057.md) | 393–399 | **Cart pivot · nails · pit char · wood haul** *(closed Day 399)* |
+| 58 | [week-058.md](weeks/week-058.md) | 400–406 | **CART wheels · barrow · BLOOM-7** *(closed Day 406)* |
+| 59 | [week-059.md](weeks/week-059.md) | 407–413 | **AXLE · bed · cart · yearling 25 kg** *(closed Day 413)* |
+| 60 | [week-060.md](weeks/week-060.md) | 414–420 | **Yearling ramp · iron · barn · CRANE start** *(closed Day 420)* |
+| 61 | [week-061.md](weeks/week-061.md) | 421–427 | **CRANE-1 ✓ · barn ground frame ✓** *(closed Day 427)* |
+| 62 | [week-062.md](weeks/week-062.md) | 428–434 | **Joists · ridge · cart multi-haul** *(closed Day 434)* |
+| 63 | [week-063.md](weeks/week-063.md) | 435–441 | **Rafters · battens · nails · char** *(closed Day 441)* |
+| 64 | [week-064.md](weeks/week-064.md) | 442–448 | **Shake ramp · flax · roof lay start** *(closed Day 448)* |
+| 65 | [week-065.md](weeks/week-065.md) | 449–455 | **N ridge close · south skin · cap close** *(closed Day 455)* |
+| 66 | [week-066.md](weeks/week-066.md) | 456–462 | **Pitch seal · flax break · south roof close** *(closed Day 462)* |
+| 67 | [week-067.md](weeks/week-067.md) | 463–469 | **Barn proven · hay loft · flax pull · Week 67 close** |
+| 68 | [week-068.md](weeks/week-068.md) | 470–476 | **Wheel ~75% · flax line · iron tongs · Week 68 close** |
+| 69 | [week-069.md](weeks/week-069.md) | 477–483 | **Wheel finish · M-22 haul · forge resume** *(closed Day 483)* |
+| 70 | [week-070.md](weeks/week-070.md) | 484–490 | **Barn iron · char · dye scout · vinegar start** *(closed Day 490)* |
+| 71 | [week-071.md](weeks/week-071.md) | 491–497 | **Sickle · haul · textile · kitchen stake · SMELT-21** *(closed Day 497)* |
+| 72 | [week-072.md](weeks/week-072.md) | 498–504 | **Kitchen build sprint · waste · Centadial 5** *(closed Day 504)* |
+| 73 | [week-073.md](weeks/week-073.md) | 505–512 | **Kitchen shell · floor sprint · clean kit** *(closed Day 512)* |
+| 74 | [week-074.md](weeks/week-074.md) | 512–519 | **Kitchen floor · utensils · herbs/whitewash** *(closed Day 519)* |
+| 75 | [week-075.md](weeks/week-075.md) | 519+ | **GOAT-HUNT · aqueduct · kitchen close resume** *(opens Day 519)* |
 
 ## Day folders
 
@@ -507,6 +678,28 @@ See [summaries/README.md](summaries/README.md).
 | 51 | [days/week-051/](days/week-051/) |
 | 52 | [days/week-052/](days/week-052/) |
 | 53 | [days/week-053/](days/week-053/) |
+| 54 | [days/week-054/](days/week-054/) |
+| 55 | [days/week-055/](days/week-055/) |
+| 56 | [days/week-056/](days/week-056/) |
+| 57 | [days/week-057/](days/week-057/) |
+| 58 | [days/week-058/](days/week-058/) |
+| 59 | [days/week-059/](days/week-059/) |
+| 60 | [days/week-060/](days/week-060/) |
+| 61 | [days/week-061/](days/week-061/) |
+| 62 | [days/week-062/](days/week-062/) |
+| 63 | [days/week-063/](days/week-063/) |
+| 64 | [days/week-064/](days/week-064/) |
+| 65 | [days/week-065/](days/week-065/) |
+| 66 | [days/week-066/](days/week-066/) |
+| 67 | [days/week-067/](days/week-067/) |
+| 68 | [days/week-068/](days/week-068/) |
+| 69 | [days/week-069/](days/week-069/) |
+| 70 | [days/week-070/](days/week-070/) |
+| 71 | [days/week-071/](days/week-071/) |
+| 72 | [days/week-072/](days/week-072/) |
+| 73 | [days/week-073/](days/week-073/) |
+| 74 | [days/week-074/](days/week-074/) |
+| 75 | [days/week-075/](days/week-075/) |
 
 ## Years
 

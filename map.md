@@ -124,7 +124,7 @@
 | **Bed** | NW pad — **respawn anchor** |
 | **Door** | W gap **~0.9 m** · reed mat |
 | **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
-| **Queued** | **H-v2-KITCHEN-1** stake · **BARN-1-v1** (wood shakes + pitch) |
+| **Queued** | **CART-1** active · **H-v2-KITCHEN-1** stake · **BARN-1-v1** (after cart PASS) |
 
 ---
 
@@ -148,7 +148,10 @@
 | **P-RETT-1** | **Bundle 1 dry ✓** |
 | **Pen P-GOAT-1** | **~14×4 m ✓** · **PEN-GATE-1 ✓** · **2 kids** |
 | **HOLDING-1** | **~5×4 m** N of pen · **YEARLING-1** · **TROUGH-v2 ✓** |
-| **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 |
+| **BARN-1-v1 pad** | **~12×7 m** S of HOLDING-1 · **staked Day 396** · loft class · shake roof · **parked until cart PASS** |
+| **CART-YARD** | **~3×6 m** **~18 m S of pile 5** · **~8 m W of T-2** · **staked Day 397** · **40 m trial lane on T-2** |
+| **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 · kitchen spill → greywater fork |
+| **MIDDEN-FAR-1** | **~48 m W** of **H-v2** on D-1 extension — **MIDDEN-PIT-1 ✓ Day 501** · **WASTE-BIN-1** empty target |
 
 ---
 
@@ -215,7 +218,8 @@
 |-----|--------|-------|
 | **H-11** | **~11 km NE** | **Hematite bench** **~40 m** streak · boot-height face · **sample** Day 131 · **future iron trip** |
 | **D-27** | **~19 km NE** | **CORRAL-1 + SHORT-PEN-1** · **YEARLING-1 on corridor march** Day 165 · **~8 km from HOME** |
-| **M-22** | **~22 km NE** | Magnetite grit — **weak→fair** lodestone · **yellow** spike Day 131 |
+| **M-22** | **~22 km NE** | Magnetite pin — **fair** @ fork mouth · **yellow** spike Day 131 |
+| **M-22-UP** | **~22 km NE** (+380 m upstream) | **Ore lens ✓ Day 391** — **strong** lodestone · **yellow** spike #2 · repeat-haul ~2–4 kg |
 | **M-G1** | **~27 km NE** | **Malachite/azurite stain** on cliff — **marked + chip** |
 | **M-G2** | **~27 km NE** (base E of M-G1) | **Strike pin** — talus sample #2 · **no climb zone** |
 
@@ -288,6 +292,26 @@
 | **LIGHTHOUSE-1** | Horizon | Permanent nav mark — filed Day 200 · not started |
 
 **Trail doctrine:** M-spikes every **~8 km** · PM-R1 bands · lime caps · home vector marked on beacon.
+
+---
+
+## Tin corridor — Tarsus class (*TIN-SCOUT-1 · horizon Day 374*)
+
+| Leg | Dist (est.) | Mode | Notes |
+|-----|-------------|------|-------|
+| **HOME → river mouth** | **~60–80 km** downstream | **Walk** or **BOAT-1** when built | Orontes to Mediterranean · weir class known · mouth unmarked |
+| **River mouth → Tarsus coast** | **~200+ km S** | **Coastal boat** preferred | Med shoreline · easy navigation · long calendar |
+| **Walk alternative** | **~200+ km** one way | **~40+ trail days** class | Coast follow · no cliff heroics · season-scale not week-scale |
+| **Target** | **Cassiterite** (tin ore) | **Scout mark first** | Granite pegmatite / stream placer class · **not** M-22 magnetite |
+
+| Prereq | Status |
+|--------|--------|
+| **BOAT-1** (dugout or bundle raft) | **Not built** — Year 2 plan deferred boat for campus ore |
+| **COAST-1** trail | **✓** — launch point for river-mouth recon |
+| **AMPHORA water class** | **✓** — trail kit proven |
+| **Return risk** | Wind · wave · no lighthouse yet |
+
+**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · river-mouth recon **Cal-Y2 autumn** class · full Tarsus scout **Cal-Y3+** after boat exists.
 
 ---
 

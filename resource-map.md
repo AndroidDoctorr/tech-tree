@@ -30,6 +30,8 @@
 | **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
 | **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Year 2 @ Bed B** · **true leaves Day 365 · hands-off** |
 | **P-16** | Other aromatics (thyme, etc.) | **~350 m** | T-2 olive shade | Spring–autumn | **Eat · Dry** | **P-16a ✓ Day 215** — thyme/marjoram class · modest pick |
+| **P-18** | **Woad** (*Isatis* class) | **~2.8 km NW** | Plain limestone rise | **Leaf: summer · seed: autumn** | **Dye · Breed** | **DYE-WOAD-1 ✓ Day 489** — ~12 plants ~4 m² · **WOAD-LEAF-1** queued |
+| **P-19** | **Wild madder** (*Rubia* class) | **~3.1 km WNW** | Dry calcareous bank | **Root: autumn** | **Dye** | **DYE-MADDER-1 ✓ Day 489** — ~6 m mat · **MADDER-DIG-1** autumn |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
 | **P-05** | Einkorn | 200 m | Bed A R3–4 | Jun | **SOWN · Breed** | **~9 g** Day 16 |
 | **P-06** | Wild barley | 200 m | Bed A R5–6 | Jun | **SOWN · Breed** | **~12 g** Day 16 |
@@ -64,7 +66,7 @@
 | **M-08** | Aleppo pine resin | 150 m + climb N | — | Adhesive | **Pitch ✓** — amphora seal · hafting · **true tar/birch tar = horizon** |
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
 | **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1 ✓** | **OPT-1 · Glass** | **QUARTZ-1 ✓** · local + coast sand — see inventory |
-| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · volcanic scout | **Chem · Mordant** | **Mark-only ✓ Day 200** — char stake + PM-R1 **X** @ cliff **~400 m N** of beach |
+| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · **collect ✓ Day 379** | **Chem · Mordant** | **~2.4 kg** modest collect · stake refreshed |
 | **M-12** | **Nitrate** (efflorescence) | **Mark only** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-MARK-1A/1B ✓ Day 203** — Year 2+ collect |
 | **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓ Day 202** | **Iodine · Ash · Wrap** | Source site · **burned Day 288 → KELP-ASH-1** @ v1 |
 

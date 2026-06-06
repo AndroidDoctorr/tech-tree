@@ -7,6 +7,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | Path | Purpose |
 |------|---------|
 | [purpose.md](purpose.md) | Rules of the simulation and your role |
+| [rules.md](rules.md) | Canon rules — respawn, inventory, **resource & skill gates** |
 | [tech-tree.md](tech-tree.md) | Milestone checklist (eras and unlocks) |
 | [inventory.md](inventory.md) | What you have on person and at base |
 | [map.md](map.md) | Geography, sites, trails, resources |
@@ -50,6 +51,7 @@ Each day file uses the same sections so summaries are easy to compile:
 - **Status** — body, hunger, sleep debt, injuries, inventory
 - **Events** — what happened (narrative)
 - **Craft / experiments** — what you tried to make
+- **Skills** — skill checked vs [skills.md](skills.md) **Now** tier; PASS / PARTIAL / NO-GO *(required on hero craft/smelt days)*
 - **Discoveries** — resources, terrain, fauna noted
 - **Tech** — new capabilities or refinements (linked to tech-tree.md)
 - **Assistant** — questions you asked the device, answers given
@@ -60,6 +62,10 @@ Each day file uses the same sections so summaries are easy to compile:
 - **Day-by-day** when something new happens (crafting, danger, breakthrough).
 - **Fast travel** — multi-day walks or repetitive grind get one summary paragraph inside a single day file, or a dedicated `journal/skips/skip-NNN.md` if you prefer a paper trail without 37 empty files.
 - **Summaries** — ask for a week/year rollup when you want navigation, not during routine play.
+
+## Assistant duties
+
+The DM **checks gates before PASS** — see [rules.md — Resource & skill gates](rules.md#resource--skill-gates-assistant-duty). No building or crafting without stock, tools, prerequisite tech, and skill tier unless the day logs **NO-GO** / **queued** and names what's missing. **Wear, rot, and mishaps** apply at Easy→Normal — see [rules.md — Difficulty & realism](rules.md#difficulty--realism-easy--normal).
 
 ## Commands (tell the assistant)
 
