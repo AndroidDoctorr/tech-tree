@@ -1,11 +1,52 @@
 # Advancements
 
-*Last audited: **Day 468** (~10,000 BC)*
+*Last audited: **Day 552** (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md)
 
 ## Summary
 
+**Day 569 · Cal-Y2 D332:** **COVERED-WAGON-1 v1 ✓ · WAGON-TRAIN empty covered PASS**
+**Day 568 · Cal-Y2 D331:** **Week 82 opens · BARREL-1 ✓ · BUNG-TAP-1 ✓ · swell PASS**
+**Day 567 · Cal-Y2 D330:** **WATER-HEADER-BOX ✓ · BARREL-1 v0 ~75% · COOPERAGE trial**
+**Day 566 · Cal-Y2 D329:** **WAGON-ARCH-1 ~70% · VEHICLE-DOCTRINE cart / RV v2**
+**Day 565 · Cal-Y2 D328:** **WATER-HEADER-BOX-1 ~45% · HEADER-STAND-1 ✓ · plumb horizon filed**
+**Day 564 · Cal-Y2 D327:** **AQUEDUCT-1 ✓ · KITCHEN-FAUCET-1 ✓ · CU-SPIGOT-1**
+**Day 563 · Cal-Y2 D326:** **TEAM-CART-50 ✓ · WOOD-HAUL-563 · straight timber staged**
+**Day 562 · Cal-Y2 D325:** **BEDDING-SET-A ✓ · BLANKET-A-1 purple sandwich**
+**Day 561 · Cal-Y2 D324:** **Week 81 opens · TEAM-TRAIN-1 ✓ · TEAM-CART-25 ✓**
+**Day 560 · Cal-Y2 D323:** **Week 80 close · GOAT-TROUGH-AUTO ✓ · BLANKET-A grape · sandwich ~20%**
+**Day 559 · Cal-Y2 D322:** **TEAM-TRAIN session 3 ~78% · yoke · empty cart pull**
+**Day 558 · Cal-Y2 D321:** **PEN-EXPAND-1 ✓ · PEN-GATE-EXPAND-1 ✓**
+**Day 557 · Cal-Y2 D320:** **PIT-CHAR-31 ✓ · BLANKET-A faces ✓ · SET-A ~82%**
+**Day 556 · Cal-Y2 D319:** **PIT-CHAR-31 started · BLANKET-A panel 2 ~58%**
+**Day 555 · Cal-Y2 D318:** **PEN-EXPAND-1 ~85% · ~22×8 m dig · west/north wattle**
+**Day 554 · Cal-Y2 D317:** **Week 80 opens · TEAM-TRAIN session 2 ~55% · BLANKET-A panel 1 ✓**
+**Day 553 · Cal-Y2 D316:** **TEAM-TRAIN-1 session 1 ~30% · BLANKET-A panel 1 ~75%**
+**Day 552 · Cal-Y2 D315:** **BLANKET-B-1 ✓ sandwich undyed · SET-B ~90% · ANIMAL-BLANKET filed**
+**Day 551 · Cal-Y2 D314:** **BLANKET-B faces ✓ · sandwich ~25% · Humphrey d1 settle**
+**Day 550 · Cal-Y2 D313:** **Humphrey released · Mabel + Humphrey named · BLANKET-B ~70% · WHEEL-SPIN-7**
+**Day 549 · Cal-Y2 D312:** **BEDDING-SHEET-B-1 ✓ · BLANKET-B-1 start · PROPER-BED-1 filed**
+**Day 548 · Cal-Y2 D311:** **BLANKET-SANDWICH trial ✓ · SET-B start · SET-A blanket WIP · bedding doctrine**
+**Day 547 · Cal-Y2 D310:** **BEDDING-SET-A sheet + slip ✓ · tie-dye → madder · Week 79 opens**
+**Day 546 · Cal-Y2 D309:** **CL-SOCK-3 ✓ · PILLOW-SLIP-A-1 ✓ · BEDDING-SET-A ~40%**
+**Day 545 · Cal-Y2 D308:** **DYE-VIBRANT-STOCK ✓ · tie-dye prep · FARM-READ GREEN**
+**Day 544 · Cal-Y2 D307:** **CL-TOWEL-3/4 ✓ teal · kitchen curtain match · ×4 towel stack**
+**Day 543 · Cal-Y2 D306:** **CL-TUNIC-3 ✓ natural · ×3 tunic stack · one-day garment rhythm**
+**Day 542 · Cal-Y2 D305:** **CL-TABARD-2 ✓ grape purple · GRAPE-SKIN-DYE-1 · CL-SOCK-2 ✓**
+**Day 541 · Cal-Y2 D304:** **CL-TUNIC-2 ✓ · chest slit + eyelets · CL-TABARD-2 ~45% started**
+**Day 540 · Cal-Y2 D303:** **TEXTILE-MODE open · CL-TUNIC-2 body + teal dye · duplicate-stack doctrine**
+**Day 539 · Cal-Y2 D302:** **KITCHEN-TILE-ROOF-1 ✓ · batch 6 · north lay · full drip PASS · Week 77 close**
+**Day 538 · Cal-Y2 D301:** **KITCHEN-ROOF-LAY-2 ✓ · south ridge closed · drip PASS · batch 6 queued**
+**Day 537 · Cal-Y2 D300:** **KITCHEN-ROOF-BATTEN-1 ✓ · KITCHEN-ROOF-LAY-1 · south slope ~35% · TEXTILE → Week 78**
+**Day 536 · Cal-Y2 D299:** **DONKEY-HUNT-2 ✓ · YEARLING-2 @ quarantine · homeward march**
+**Day 535 · Cal-Y2 D298:** **Recruit #2 loop + 10 steps ✓ · voluntary release · homeward queued**
+**Day 534 · Cal-Y2 D297:** **D-27 setup · SHORT-PEN refresh · recruit #2 lead sniff**
+**Day 533 · Cal-Y2 D296:** **Stone cut practice · roof batch 5 · 34/~48 · DONKEY Trip 5 launch**
+**Day 532 · Cal-Y2 D295:** **Week 76 close · roof batch 4 · 27/~48 · PIT-CHAR-30**
+**Day 531 · Cal-Y2 D294:** **Roof tile batch 3 · PIT-CHAR-29 · 20/~48 · DONKEY-HUNT-2 window filed**
+**Day 530 · Cal-Y2 D293:** **Roof tile batch 2 · PIT-CHAR-28 · 13/~48 kitchen roof**
+**Day 529 · Cal-Y2 D292:** **Roof tile sprint · PIT-CHAR-27 · TARSUS-PLAN (hunt/trail/bridge/textile arc)**
 **Day 528 · Cal-Y2 D291:** **CURTAIN-DYE ✓ · KITCHEN-CLOSE ✓ · dry rack · PLAN-528 wagon/ROI**
 **Day 527 · Cal-Y2 D290:** **Aqueduct pen stub ✓ · PEN-EXPAND staked · defenses deferred · verdigris cure hold**
 **Day 526 · Cal-Y2 D289:** **FARM-READ · SUN-CAL sync · goat hide tanned ✓ · aqueduct leg 3 partial · water/faucet doctrine**
@@ -24,6 +65,19 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 **Day 513 · Cal-Y2 D276:** **FLOOR-TILE-FIRE-4 · TILE-PRESS-FLOOR-4 · KITCHEN-WINDOW + close checklist**
 **Day 512 · Cal-Y2 D275:** **Week 74 opens · FLOOR-TILE-FIRE-3 · TILE-PRESS-FLOOR-3 · aqueduct week filed**
 **Day 511 · Cal-Y2 D274:** **FLOOR-TILE-FIRE-2 · TILE-SLIP-TRIAL PASS · Layout C checker locked**
+**Day 582 · Cal-Y2 D345:** **P-17-HARVEST-1 ✓ · ~240 g · first Cal-Y2 lentil trial**
+**Day 581 · Cal-Y2 D344:** **EMMER-HARVEST-1 ✓ · ~1.75 kg · first Cal-Y2 emmer**
+**Day 580 · Cal-Y2 D343:** **ANIMAL-RAIN-SHEET-SET-1 ✓ · harvest eve**
+**Day 579 · Cal-Y2 D342:** **SHOWER-1 ✓ · PARCHED-1 ~2.1 kg**
+**Day 578 · Cal-Y2 D341:** **HARVEST-PREP ✓ · THRESH-ZONE-1**
+**Day 577 · Cal-Y2 D340:** **IRON-HOE-1 ✓ · IRON-BLOOM-15 from H-11**
+**Day 576 · Cal-Y2 D339:** **FARM-READ YELLOW-GREEN · campus cleanup · team rest**
+**Day 575 · Cal-Y2 D338:** **WAGON-LOAD-50 ✓ · WOOD-HAUL-LIGHT ✓ · haul gate open**
+**Day 574 · Cal-Y2 D337:** **WAGON-LOAD-25 ✓ · covered team haul · Week 82 close**
+**Day 573 · Cal-Y2 D336:** **BARREL-2 complete · BUNG-TAP-2 ✓ · barrel pair tappable**
+**Day 572 · Cal-Y2 D335:** **BARREL-2 ✓ · IRON-HOOP-1 ✓ · BARREL-SET-1 ~50%**
+**Day 571 · Cal-Y2 D334:** **WATER-PRESSURE-1 ✓ · KITCHEN-FAUCET v1.1 ~14 s fill**
+**Day 570 · Cal-Y2 D333:** **ANIMAL-BLANKET-SET-1 ✓ · donkey pamper grammar live**
 **Day 510 · Cal-Y2 D273:** **KITCHEN-CLEAN-KIT ✓ · KITCHEN-FLOOR-LAYOUT-510 · tile color doctrine filed**
 **Day 509 · Cal-Y2 D272:** **FARM-READ GREEN · KITCHEN-FLOOR-GROUT trial PASS · TILE-PRESS-FLOOR-2 ×8**
 

@@ -1,7 +1,7 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: **Day 365** (~10,000 BC)*
+*Last updated: **Day 552** (~10,000 BC)*
 
 **Also see:** [map.md](map.md) (trails, geography) · [inventory.md](inventory.md) (**stock on hand — sole source for quantities**)
 
@@ -28,14 +28,14 @@
 | **P-13** | Wild mint (*Mentha* class) | **~180 m** | T-1 reed margin | **Spring–autumn** | **Eat · Dry** | **HERB-1 ✓** — dried @ v1 |
 | **P-14** | Wild garlic / leek (*Allium* class) | **~200–350 m** | T-2 ditch · farm shade | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
 | **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
-| **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Year 2 @ Bed B** · **true leaves Day 365 · hands-off** |
+| **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Bed B** · **pod set watch · FARM-READ GREEN Day 545** |
 | **P-16** | Other aromatics (thyme, etc.) | **~350 m** | T-2 olive shade | Spring–autumn | **Eat · Dry** | **P-16a ✓ Day 215** — thyme/marjoram class · modest pick |
 | **P-18** | **Woad** (*Isatis* class) | **~2.8 km NW** | Plain limestone rise | **Leaf: summer · seed: autumn** | **Dye · Breed** | **DYE-WOAD-1 ✓ Day 489** — ~12 plants ~4 m² · **WOAD-LEAF-1** queued |
 | **P-19** | **Wild madder** (*Rubia* class) | **~3.1 km WNW** | Dry calcareous bank | **Root: autumn** | **Dye** | **DYE-MADDER-1 ✓ Day 489** — ~6 m mat · **MADDER-DIG-1** autumn |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
 | **P-05** | Einkorn | 200 m | Bed A R3–4 | Jun | **SOWN · Breed** | **~9 g** Day 16 |
 | **P-06** | Wild barley | 200 m | Bed A R5–6 | Jun | **SOWN · Breed** | **~12 g** Day 16 |
-| **P-07** | Flax (*Linum bienne*) | Bed B | Jul seed | **SOWN · Cordage** | **~7 g** Day 16 |
+| **P-07** | Flax (*Linum bienne*) | Bed B | **Pull: mid–late summer** | **SOWN · Cordage** | **Grain-fill class · pull ~Cal-Y2 D210–230 horizon from Day 545** |
 | **P-08** | Reed (*Phragmites*) | 180 m | T-1 river | Year-round | **Material** | Cordage winner C-1 |
 | **P-09** | Oak | Camp + slopes | Terrace | Acorns fall | **Material · Eat** | Leach tannins before calories; ash |
 | **P-10** | Willow | 90–200 m | T-1 | Year-round | **Material** | Stakes, lashings C-2 |
@@ -137,7 +137,7 @@
 | **A-03** | Wild goat | 850 m gorge | **Live trap** Day 79 | **Pause #6** drive when kid sign |
 | **A-04** | Night heron | 200 m weir | Competitor | Reset stakes |
 | **A-05** | Fox / partridge | Local | No | Background |
-| **A-06** | **Donkey (wild ass)** | **D-27 ~19 km NE** | **Herd ×4 sighted** | **CORRAL-1 ✓** · **YEARLING-1 @ HOLDING-1** · flock = Year 2 |
+| **A-06** | **Donkey (wild ass)** | **D-27 ~19 km NE** | **Herd ×4 sighted** | **Mabel + Humphrey @ HOLDING-1** · **TEAM-CART-25 ✓** · Trip 6+ optional |
 | **A-07** | **Sheep** (wild) | **Hills 30–100+ km** | **Not scouted** | **Horizon** — one step at a time after coast return |
 
 ---

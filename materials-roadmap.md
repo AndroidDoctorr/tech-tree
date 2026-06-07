@@ -1,7 +1,26 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 365**).
+**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 552**).
+
+---
+
+## Priority reassess — Day 552 (*pause · Cal-Y2 D315*)
+
+**Doctrine:** close loops before hero tracks · one rung at a time · start long clocks early.
+
+| Tier | Queue | Why |
+|------|-------|-----|
+| **0 — close loops** | **BLANKET-A-1** resume → **SET-A** · **TEAM-TRAIN-1** (Humphrey d3+) · farm **scare-only** (GREEN) | Textile sprint 80% done · wagon needs team · neglect arc costly |
+| **1 — campus ROI** | **PEN-EXPAND-1** dig · **GOAT-TROUGH-AUTO-1** · **KITCHEN-FAUCET-1** | Staked Day 527 · AQ stub live · comfort before defenses |
+| **2 — autumn clocks** | **MADDER-DIG-1** → **SET-B red** · **grape purple** → **SET-A** · **flax pull** mid–late summer | Dye after sandwich doctrine · field pull ~Cal-Y2 D210–230 class |
+| **3 — haul / expedition prep** | **COVERED-WAGON-1** · **CART-IRON-1** · **EXPED-SCOUT-1 + BRIDGE-1** | **Not yet** — team train first · scout before Tarsus-class south |
+| **4 — interleave practice** | **STONE-CUT-1** · **GLASS-PRACTICE-1** (½-day) · **ANVIL-1** · **CHEM-LAB / STORE expand** | Blocks = Roman horizon · glass marginal temp · storage when v1 cramped |
+| **5 — fun / horizon** | **MAGNET/COMPASS-1** (~85 g concentrate) · **TIN-SCOUT** · **LM-3 / LOOM-WING** · **WATER-PRESSURE-1** | Science queue · not blocking campus |
+
+**Wagon verdict @ Day 552:** **CART-1 ✓** + **Mabel solo @ 80 kg** proven — **COVERED-WAGON** is **worth building** for campus + T-2 haul **after TEAM-TRAIN**, but **not highest priority** vs bedding close + pen expand. **Long south trip** (Tarsus) still needs **scout/grade/bridge** — wagon without trail prep = slow hero week for marginal gain.
+
+---
 
 ## Mortar / grout tiers
 

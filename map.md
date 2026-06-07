@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 365** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 552** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -48,12 +48,13 @@
 | **Retting pool P-RETT-1** | Farm ditch W | **~235** | 14 | **Bundle 1 dry ✓** — break/scutch pending |
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
 | **Farm plot** | T-2 | 200 | 10 | **Bed B sown ✓** · **Bed D ✓** · **P-03 trellis ✓** · **SEED-VAULT v0** |
-| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **~14×4 m ✓** · **2 kids** · **YEARLING-1 @ HOLDING-1** |
+| **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **~22×8 m ✓** · **2 kids** · **gate widened Day 558** |
+| **HOLDING-1** | N of pen | **~205** | 12 | **Mabel + Humphrey** partitions A/B · **TROUGH-v2 ✓** |
 | **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-1+2 ✓ · thinned Day 353 + 365** · P-17 watch-only |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
 | **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-1 ✓ 100%** · **MILLHOUSE-1 ✓** · **FORGE-D ✓** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
-| **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D128** · ground **221** · wall **217** · **YULE @ 139** — [sun-calendar.md](../sun-calendar.md) |
+| **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D315** · ground **501** · wall **497** · **YULE @ 374** — [sun-calendar.md](../sun-calendar.md) |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees · autumn harvest |
 | Grape (P-03) | T-2 | 240 | 12 | **Trellis ✓** · wine Year 2 |
 | Olive (P-02) | T-2 west | 400 | 22 | **Harvest ✓ Days 188–190** · brine aging @ v1 |
@@ -124,7 +125,8 @@
 | **Bed** | NW pad — **respawn anchor** |
 | **Door** | W gap **~0.9 m** · reed mat |
 | **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
-| **Queued** | **CART-1** active · **H-v2-KITCHEN-1** stake · **BARN-1-v1** (after cart PASS) |
+| **H-v2-KITCHEN wing** | West T-plan arm | **✓ operational Day 507** · **tile roof ✓ Day 539** · sink · teal curtain · checker floor |
+| **AQUEDUCT-1** | v1 → H-v2 → FORGE-D → kitchen · pen float | **✓ Day 564** · **KITCHEN-FAUCET-1 ✓** |
 
 ---
 
@@ -146,10 +148,11 @@
 | **Area** | **~96 m²** + **Bed D ~24 m²** — Bed A stubble · **Bed B sown ✓** · Bed C pen north |
 | **Fence** | **Scare 100% · E wattle ✓ Day 356** · Bed D goat-proof **✓** · N leg optional |
 | **P-RETT-1** | **Bundle 1 dry ✓** |
-| **Pen P-GOAT-1** | **~14×4 m ✓** · **PEN-GATE-1 ✓** · **2 kids** |
-| **HOLDING-1** | **~5×4 m** N of pen · **YEARLING-1** · **TROUGH-v2 ✓** |
-| **BARN-1-v1 pad** | **~12×7 m** S of HOLDING-1 · **staked Day 396** · loft class · shake roof · **parked until cart PASS** |
-| **CART-YARD** | **~3×6 m** **~18 m S of pile 5** · **~8 m W of T-2** · **staked Day 397** · **40 m trial lane on T-2** |
+| **Pen P-GOAT-1** | **~22×8 m ✓** · **2 kids** · **PEN-GATE-EXPAND-1 ✓ Day 558** |
+| **HOLDING-1** | **~5×4 m** N of pen · **Mabel (A) + Humphrey (B)** · **TROUGH-v2 ✓** |
+| **BARN-1-v1** | **✓ proven Day 469** · **~90 kg hay @ loft** · iron hinges/latch Day 485 |
+| **CART-YARD** | **~3×6 m** · **CART-1 ✓** · **YEARLING-80 kg PASS** · **TEAM-TRAIN-1 queued** |
+| **CRANE-1** | **✓ Day 423** @ barn pad |
 | **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 · kitchen spill → greywater fork |
 | **MIDDEN-FAR-1** | **~48 m W** of **H-v2** on D-1 extension — **MIDDEN-PIT-1 ✓ Day 501** · **WASTE-BIN-1** empty target |
 

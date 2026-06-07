@@ -536,6 +536,60 @@
 | 526 | [day-526.md](days/week-076/day-526.md) | **Farm · W-1 · AQ line · pen** | **FARM-READ · hide tan ✓ · aqueduct leg 3 partial · faucet doctrine · SUN-CAL sync** · **Cal-Y2 D289** · **SUN-MARK-526** |
 | 527 | [day-527.md](days/week-076/day-527.md) | **Pen branch · P-GOAT-1 · v1 CHEM** | **AQ pen stub ✓ · PEN-EXPAND staked · food auto soon · verdigris cure** · **Cal-Y2 D290** · **SUN-MARK-527** |
 | 528 | [day-528.md](days/week-076/day-528.md) | **H-v2 west wing · v1 CHEM** | **CURTAIN-DYE ✓ · KITCHEN-CLOSE ✓ · dry rack · PLAN-528 wagon/ROI** · **Cal-Y2 D291** · **SUN-MARK-528** |
+| 529 | [day-529.md](days/week-076/day-529.md) | **Kiln yard · pit lane** | **Roof tile press/fire · PIT-CHAR-27 · TARSUS-PLAN amend** · **Cal-Y2 D292** · **SUN-MARK-529** |
+| 530 | [day-530.md](days/week-076/day-530.md) | **Kiln yard · pit lane** | **Roof tile batch 2 · PIT-CHAR-28 · 13/~48 fired** · **Cal-Y2 D293** · **SUN-MARK-530** |
+| 531 | [day-531.md](days/week-076/day-531.md) | **Kiln yard · porch** | **Roof tile batch 3 · PIT-CHAR-29 · 20/~48 · DONKEY-HUNT window** · **Cal-Y2 D294** · **SUN-MARK-531** |
+| 532 | [day-532.md](days/week-076/day-532.md) | **Kiln yard** | **Roof tile batch 4 · PIT-CHAR-30 · 27/~48 · Week 76 close** · **Cal-Y2 D295** · **SUN-MARK-532** |
+| 533 | [day-533.md](days/week-077/day-533.md) | **pile 4 · kiln · Camp-1** | **Stone cut · roof batch 5 · 34/~48 · DONKEY Trip 5 launch** · **Cal-Y2 D296** · **SUN-MARK-533** |
+| 534 | [day-534.md](days/week-077/day-534.md) | **D-27 · Camp-1** | **CORRAL QA · SHORT-PEN refresh · recruit #2 lead sniff** · **Cal-Y2 D297** · **SUN-MARK-534** |
+| 535 | [day-535.md](days/week-077/day-535.md) | **D-27 · Camp-1** | **Recruit #2 loop + 10 steps ✓ · release · homeward next** · **Cal-Y2 D298** |
+| 536 | [day-536.md](days/week-077/day-536.md) | **D-27 → HOME** | **DONKEY-HUNT-2 ✓ · YEARLING-2 @ quarantine** · **Cal-Y2 D299** |
+| 537 | [day-537.md](days/week-077/day-537.md) | **H-v2 west wing** | **KITCHEN-ROOF-LAY-1 · south slope ~35% · battens ✓** · **Cal-Y2 D300** |
+| 538 | [day-538.md](days/week-077/day-538.md) | **H-v2 west wing roof** | **KITCHEN-ROOF-LAY-2 ✓ · south ridge closed · drip PASS** · **Cal-Y2 D301** |
+| 539 | [day-539.md](days/week-077/day-539.md) | **kiln · H-v2 roof** | **KITCHEN-TILE-ROOF-1 ✓ · batch 6 · north lay · Week 77 close** · **Cal-Y2 D302** |
+| 540 | [day-540.md](days/week-078/day-540.md) | **W-1 · LM-2 · v1 CHEM** | **TEXTILE-MODE · CL-TUNIC-2 body + teal dye** · **Cal-Y2 D303** |
+| 541 | [day-541.md](days/week-078/day-541.md) | **W-1 · LM-2 · H-v2** | **CL-TUNIC-2 ✓ · CL-TABARD-2 ~45% · socks queued** · **Cal-Y2 D304** |
+| 542 | [day-542.md](days/week-078/day-542.md) | **W-1 · v1 CHEM · H-v2** | **CL-TABARD-2 ✓ purple · CL-SOCK-2 ✓ · grape skin dye** · **Cal-Y2 D305** |
+| 543 | [day-543.md](days/week-078/day-543.md) | **W-1 · LM-2** | **CL-TUNIC-3 ✓ natural · ×3 tunic stack · wash rotation** · **Cal-Y2 D306** |
+| 544 | [day-544.md](days/week-078/day-544.md) | **W-1 · kitchen** | **CL-TOWEL-3/4 ✓ teal · curtain match · kitchen coordinate** · **Cal-Y2 D307** |
+| 545 | [day-545.md](days/week-078/day-545.md) | **farm · v1 CHEM** | **DYE-VIBRANT-STOCK ✓ · tie-dye prep · FARM-READ GREEN** · **Cal-Y2 D308** |
+| 546 | [day-546.md](days/week-078/day-546.md) | **H-v2 · W-1 · LM-2** | **CL-SOCK-3 ✓ · PILLOW-SLIP-A-1 ✓ · BEDDING-SET-A start** · **Cal-Y2 D309** |
+| 547 | [day-547.md](days/week-079/day-547.md) | **W-1 · H-v2 pad** | **BEDDING-SET-A sheet + slip ✓ · tie-dye → madder** · **Cal-Y2 D310** |
+| 548 | [day-548.md](days/week-079/day-548.md) | **W-1 · LM-2** | **BLANKET-SANDWICH trial ✓ · SET-B start · doctrine** · **Cal-Y2 D311** |
+| 549 | [day-549.md](days/week-079/day-549.md) | **W-1 · LM-2** | **BEDDING-SHEET-B-1 ✓ · BLANKET-B-1 ~45%** · **Cal-Y2 D312** |
+| 550 | [day-550.md](days/week-079/day-550.md) | **HOLDING-1 · LM-2 · WW-YARD** | **Humphrey released · Mabel+Humphrey · BLANKET-B · spin** · **Cal-Y2 D313** |
+| 551 | [day-551.md](days/week-079/day-551.md) | **HOLDING-1 · LM-2** | **BLANKET-B faces ✓ · sandwich ~25% · Humphrey settle** · **Cal-Y2 D314** |
+| 552 | [day-552.md](days/week-079/day-552.md) | **W-1** | **BLANKET-B-1 ✓ sandwich · SET-B ~90% · animal blanket filed** · **Cal-Y2 D315** |
+| 553 | [day-553.md](days/week-079/day-553.md) | **HOLDING-1 · LM-2** | **TEAM-TRAIN session 1 · BLANKET-A ~75%** · **Cal-Y2 D316** |
+| 554 | [day-554.md](days/week-080/day-554.md) | **HOLDING-1 · LM-2** | **Week 80 opens · TEAM-TRAIN ~55% · BLANKET-A panel 1 ✓** · **Cal-Y2 D317** |
+| 555 | [day-555.md](days/week-080/day-555.md) | **P-GOAT-1 · T-2** | **PEN-EXPAND ~85% · ~22×8 m all day** · **Cal-Y2 D318** |
+| 556 | [day-556.md](days/week-080/day-556.md) | **pit lane · LM-2** | **PIT-CHAR-31 start · BLANKET-A ~58%** · **Cal-Y2 D319** |
+| 557 | [day-557.md](days/week-080/day-557.md) | **pit lane · LM-2** | **PIT-CHAR-31 ✓ · BLANKET-A faces ✓** · **Cal-Y2 D320** |
+| 558 | [day-558.md](days/week-080/day-558.md) | **P-GOAT-1** | **PEN-EXPAND ✓ · gate widen** · **Cal-Y2 D321** |
+| 559 | [day-559.md](days/week-080/day-559.md) | **HOLDING-1 · CART-YARD · T-2** | **TEAM-TRAIN session 3 ~78% · empty cart** · **Cal-Y2 D322** |
+| 560 | [day-560.md](days/week-080/day-560.md) | **P-GOAT-1 · v1 CHEM · W-1** | **GOAT-TROUGH-AUTO ✓ · BLANKET-A grape · Week 80 close** · **Cal-Y2 D323** |
+| 561 | [day-561.md](days/week-081/day-561.md) | **CART-YARD · T-2** | **TEAM-TRAIN ✓ · TEAM-CART-25 ✓ · Week 81 opens** · **Cal-Y2 D324** |
+| 562 | [day-562.md](days/week-081/day-562.md) | **W-1 · H-v2** | **BEDDING-SET-A ✓ · BLANKET-A sandwich** · **Cal-Y2 D325** |
+| 563 | [day-563.md](days/week-081/day-563.md) | **T-2 · CART-YARD** | **TEAM-CART-50 ✓ · multi-haul straight oak** · **Cal-Y2 D326** |
+| 564 | [day-564.md](days/week-081/day-564.md) | **H-v2 kitchen · forge bench** | **KITCHEN-FAUCET-1 ✓ · AQUEDUCT close** · **Cal-Y2 D327** |
+| 565 | [day-565.md](days/week-081/day-565.md) | **WW-YARD · AQ rise** | **WATER-HEADER box ~45% · stand ✓** · **Cal-Y2 D328** |
+| 566 | [day-566.md](days/week-081/day-566.md) | **CART-YARD** | **WAGON-ARCH ~70% · cart vs RV v2 doctrine** · **Cal-Y2 D329** |
+| 567 | [day-567.md](days/week-081/day-567.md) | **WW-YARD · W-1** | **WATER-HEADER ✓ · BARREL-1 v0 ~75%** · **Cal-Y2 D330** |
+| 568 | [day-568.md](days/week-082/day-568.md) | **W-1 · bench** | **Week 82 opens · BARREL-1 ✓ · BUNG-TAP ✓** · **Cal-Y2 D331** |
+| 569 | [day-569.md](days/week-082/day-569.md) | **CART-YARD · T-2** | **COVERED-WAGON v1 ✓ · team train empty** · **Cal-Y2 D332** |
+| 570 | [day-570.md](days/week-082/day-570.md) | **W-1 · HOLDING-1** | **ANIMAL-BLANKET-SET-1 ✓ · donkey rug fit** · **Cal-Y2 D333** |
+| 571 | [day-571.md](days/week-082/day-571.md) | **H-v2 kitchen · header** | **WATER-PRESSURE-1 ✓ · faucet tune** · **Cal-Y2 D334** |
+| 572 | [day-572.md](days/week-082/day-572.md) | **FORGE-D · W-1** | **BARREL-2 ✓ · IRON-HOOP-1 ✓** · **Cal-Y2 D335** |
+| 573 | [day-573.md](days/week-082/day-573.md) | **W-1 · bench** | **BARREL-2 swell ✓ · BUNG-TAP-2 ✓** · **Cal-Y2 D336** |
+| 574 | [day-574.md](days/week-082/day-574.md) | **CART-YARD · T-2** | **WAGON-LOAD-25 ✓ · Week 82 close** · **Cal-Y2 D337** |
+| 575 | [day-575.md](days/week-083/day-575.md) | **T-2 · upstream** | **WAGON-LOAD-50 ✓ · light wood haul** · **Cal-Y2 D338** |
+| 576 | [day-576.md](days/week-083/day-576.md) | **farm · campus** | **FARM-READ YELLOW-GREEN · cleanup · team rest** · **Cal-Y2 D339** |
+| 577 | [day-577.md](days/week-083/day-577.md) | **FORGE-D · farm margin** | **IRON-BLOOM-15 · IRON-HOE-1 ✓** · **Cal-Y2 D340** |
+| 578 | [day-578.md](days/week-083/day-578.md) | **barn pad · W-1** | **HARVEST-PREP ✓ · THRESH-ZONE-1** · **Cal-Y2 D341** |
+| 579 | [day-579.md](days/week-083/day-579.md) | **kitchen · oven** | **SHOWER-1 ✓ · PARCHED-2 ~2.1 kg** · **Cal-Y2 D342** |
+| 580 | [day-580.md](days/week-083/day-580.md) | **W-1 · river** | **rain sheets ✓ · stone · bow practice** · **Cal-Y2 D343** |
+| 581 | [day-581.md](days/week-083/day-581.md) | **Bed B · barn pad** | **EMMER-HARVEST ✓ · thresh · Week 83 close** · **Cal-Y2 D344** |
+| 582 | [day-582.md](days/week-084/day-582.md) | **Bed B north · smoke rack** | **P-17-HARVEST ✓ · Week 84 open** · **Cal-Y2 D345** |
 
 ## Centadials (every 100 days)
 
@@ -628,7 +682,15 @@ See [summaries/README.md](summaries/README.md).
 | 73 | [week-073.md](weeks/week-073.md) | 505–512 | **Kitchen shell · floor sprint · clean kit** *(closed Day 512)* |
 | 74 | [week-074.md](weeks/week-074.md) | 512–519 | **Kitchen floor · utensils · herbs/whitewash** *(closed Day 519)* |
 | 75 | [week-075.md](weeks/week-075.md) | 519–525 | **GOAT-HUNT · aqueduct phase 1 · sink** *(closed Day 525)* |
-| 76 | [week-076.md](weeks/week-076.md) | 526+ | **Curtain dye · kitchen close · pen branch · hide tan** *(opens Day 526)* |
+| 76 | [week-076.md](weeks/week-076.md) | 526–532 | **Kitchen close · factory block · TARSUS plan** *(closed Day 532)* |
+| 77 | [week-077.md](weeks/week-077.md) | 533–539 | **Donkey hunt ✓ · KITCHEN-TILE-ROOF-1 ✓** *(closed Day 539)* |
+| 78 | [week-078.md](weeks/week-078.md) | 540–546 | **TEXTILE-MODE · tunics · tabard · towels · bedding start** *(closed Day 546)* |
+| 79 | [week-079.md](weeks/week-079.md) | 547–553 | **BEDDING rotation · Humphrey release · SET-B ~90%** *(closed Day 553)* |
+| 80 | [week-080.md](weeks/week-080.md) | 554–560 | **PEN expand · TEAM-TRAIN · trough auto · SET-A dye** *(closed Day 560)* |
+| 81 | [week-081.md](weeks/week-081.md) | 561–567 | **SET-A ✓ · header · wagon arch · barrel start** *(closed Day 567)* |
+| 82 | [week-082.md](weeks/week-082.md) | 568–574 | **Barrel pair · rugs · pressure · WAGON-LOAD-25** *(closed Day 574)* |
+| 83 | [week-083.md](weeks/week-083.md) | 575–581 | **Harvest prep · shower · emmer Y2** *(closed Day 581)* |
+| 84 | [week-084.md](weeks/week-084.md) | 582+ | **P-17 · winter stock · feast clock** *(opens Day 582)* |
 
 ## Day folders
 
@@ -710,6 +772,7 @@ See [summaries/README.md](summaries/README.md).
 | 74 | [days/week-074/](days/week-074/) |
 | 75 | [days/week-075/](days/week-075/) |
 | 76 | [days/week-076/](days/week-076/) |
+| 77 | [days/week-077/](days/week-077/) |
 
 ## Years
 

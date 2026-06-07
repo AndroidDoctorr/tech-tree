@@ -1,13 +1,13 @@
 # Skills ledger
 
-*Last updated: **Day 473** (~10,000 BC) · doctrine revision — player = you, not blank slate*
+*Last updated: **Day 582** (~10,000 BC) · P-17 harvest · smoke sprint*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
 | Column | Meaning |
 |--------|---------|
 | **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. |
-| **Now @ d396** | Current total — **Start + in-world practice**. Not “game-only XP.” |
+| **Now @ d582** | Current total — **Start + in-world practice**. Not “game-only XP.” |
 | **Δ** | Rough gain since start (for glance only). |
 
 **Scale:**
@@ -32,17 +32,19 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Textiles & fiber
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Machine sewing** (tunics 10+, togas 2) | **4** | **4** | — | Pattern sense · **not** spindle/loom transfer. |
-| **Hand sewing / lash / stitch** | **2–3** | **3** | +0–1 | Leather · tabard · caligae · **BOOT-3** · wattle ties. |
-| **Chainmail (wire, dowel, pliers)** | **3** | **3** | — | Patience + ring logic · **wire draw not yet**. |
+| **Hand sewing / lash / stitch** | **2–3** | **4** | **+1** | **×3 tunics · tabard-2 · bedding hems · sandwich bind · wagon lash**. |
+| **Pattern geometry** (2D → 3D drape · fold · curve) | **4** | **4** | — | **IRL:** tunics + **lorica segmentata** foam replica + mail vest · **here:** bedding panels · cooper staves · arch cover · LM-2 garments. |
+| **Chainmail** (wire · dowel · pliers · **vest built IRL**) | **4** | **3** | — | **IRL vest ✓** · ring patience · **in-world wire draw started d386** — iron mail horizon. |
+| **Plate armour — lorica segmentata** (repair · segment fit · harness) | **4** | **2** | — | **IRL:** many repairs · **foam + duct-tape replica** · no bronze/iron plate forge yet · transfers to hinge/strap/bardings layout. |
 | **Flax retting · break · scutch · hackle** | **0** | **3** | **+3** | Retting pool ✓ · **HACKLE-v0** ✓ · fast ramp w/ assistant. |
-| **Spinning (drop spindle)** | **1** | **3** | **+2** | Cordage volume · fine thread for **LM-1**. |
-| **Weaving (loom)** | **1** | **4** | **+3** | **LM-2** heddle v2 ✓ · canvas strip · **LM-1** legacy panels. |
-| **Fulling / boil finish** | **1** | **2** | +1 | Towel path proved · garment pipeline open. |
+| **Spinning (drop spindle + wheel)** | **1** | **4** | **+3** | **WHEEL-SPIN-7 ✓** · **~82 m thread bank** · production class. |
+| **Weaving (loom)** | **1** | **4** | **+3** | **LM-2** · bedding sheets · sandwich panels · tunics. |
+| **Fulling / boil finish** | **1** | **3** | **+2** | Towels · sheets · **BLANKET-A/B sandwich fulling**. |
 | **Felt / wool** | **0** | **0** | — | No sheep. |
-| **Dye / mordant chemistry** | **2** | **3** | **+1** | **MORDANT-TRIAL-1 ✓** alum + pistachio hull on linen. |
+| **Dye / mordant chemistry** | **2** | **4** | **+2** | **Teal verdigris · grape-skin purple · vibrant stock · dye-before-stuff doctrine**. |
 | **Hemp — fiber crop** | **0** | **0** | — | Not found. |
 | **Hemp — drug / seed ID** | **5** | **5** | — | Can sex seeds · not applicable to cordage yet. |
 
@@ -50,7 +52,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Metal & chemistry
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Physics (B.S.) + math minor** | **5** | **5** | — | Heat/mass/stoichiometry · forge/kiln tuning · **IRON-GATE-1**. |
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
@@ -67,64 +69,68 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Ceramics · brick · lime
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale. |
+| **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale · **kitchen floor tiles**. |
 | **Kiln operation (multi-kiln)** | **1** | **4** | **+3** | A/B/C · **~1100°C** · tile factory. |
 | **Brick · mortar · hypocaust** | **2** | **4** | **+2** | **H-v2 complete** · suspensura **18/18**. |
-| **Roof tile deploy** | **2** | **3** | +1 | **ROOF-W1 ✓ d364** · 47 tiles · drip PASS. |
+| **Roof tile deploy** | **2** | **4** | **+1** | **ROOF-W1 ✓ · KITCHEN-TILE-ROOF-1 ✓ d539** · batch press rhythm. |
 
 ---
 
 ## Wood · structure · site
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber. |
-| **Framing · roofing · insulation** | **2** | **3** | +1 | Wattle · shake · tile · hypocaust — not drywall. |
-| **Fort planning / 3D staging** | **4** | **4** | — | Campus · EXPED-C slate · corral geometry. |
-| **Home repair** (fence · faucet · outlets · paint) | **3** | **3** | — | Fence **100%** · **FENCE-N-368** leg. |
-| **Wood carving** | **2** | **3** | +1 | **WOOD-JOINT-1 ✓ d393** · mortise · shake split · adze/axe. |
+| **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber · kitchen dry rack. |
+| **Framing · roofing · insulation** | **2** | **4** | **+1** | Wattle · shake · **tile kitchen wing** · hypocaust · barn iron hinges · **wagon arch d566**. |
+| **Fort planning / 3D staging** | **4** | **4** | — | Campus · EXPED-C slate · corral geometry · overlaps **pattern geometry** textile row. |
+| **Home repair** (fence · faucet · outlets · paint) | **3** | **4** | **+1** | Fence **100%** · **KITCHEN-FAUCET-1 ✓ · header box d564–567**. |
+| **Wood carving / cooper stave** | **2** | **4** | **+2** | **WOOD-JOINT-1** · **BARREL-1 v0 ✓ d567–568** · wagon rib sockets · adze/axe. |
 | **Crane / heavy lift** | **1** | **1** | — | **CRANE-1 logistics ✓ d396** · WW-YARD build · barn swing arc. |
 
 ---
 
 ## Food · preservation · cook
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Cooking & baking** | **5** | **5** | — | Jerky · brine · smoke · grain · feast **d237** · no oven cakes. |
 | **Fishing / weir / trap** | **2** | **3** | +1 | Weir steady · smoke class · Y1 buffer. |
-| **Farm ops** (emmer · flax · fig selection) | **2** | **3** | +1 | Y1 harvest ✓ · Y2 sow/thin · watch doctrine. |
+| **Farm ops** (emmer · flax · fig selection) | **2** | **4** | **+2** | Y2 sow/thin ✓ · **EMMER-HARVEST-1 ✓ d581** · **P-17-HARVEST-1 ✓ d582** · pulse thresh. |
 | **Orchard / vine timing** | **0** | **2** | **+2** | Olive brine · grape start · learned on-site. |
 
 ---
 
 ## Animals · husbandry
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Raise rats / cats from birth** | **3** | **3** | — | Handling · feeding rhythm · stress read. |
-| **Cattle (grandfather ~80 yr)** | **2** | **2** | — | Bits only · **YEARLING-1** · not herd scale. |
-| **Goat pen / browse / scare** | **0–1** | **3** | **+2** | **P-GOAT-1** · 7-day stack · lead-walking ✓. |
+| **Animal training / habituation** (general) | **4** | **4** | — | **IRL:** rats/cats from birth · calm persistence · reward timing · **here:** goats + donkeys confirm transfer. |
+| **Raise rats / cats from birth** | **3** | **3** | — | Sub-skill of general train · neonate handling · stress read. |
+| **Cattle (grandfather ~80 yr)** | **2** | **2** | — | Bits only · not herd scale. |
+| **Goat pen / browse / scare** | **0–1** | **3** | **+2** | **P-GOAT-1** · 7-day stack · **GOAT-HUNT-519** ✓. |
+| **Donkey capture · quarantine · integrate** | **0–1** | **4** | **+3** | **Trip 5 ×2 grammar** · **Mabel + Humphrey named** · partition A/B · **#3 post-harvest** queued. |
+| **Donkey team train** (lead · yoke · voice · cart/wagon) | **0–1** | **4** | **+3** | **TEAM-TRAIN-1 ✓ · TEAM-CART-25/50 ✓ · WAGON-TRAIN empty covered ✓** · species-specific reads (lag @ turn · farm bend). |
+| **Animal comfort textiles** (blanket · pad · yoke fleece) | **1** | **4** | **+3** | **Rugs d570 · rain sheets d580 · yoke pads · #3 post-harvest**. |
 
 ---
 
 ## Weapons · movement · fight
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **Bow v1** · **×16 (12 pointed · 4 blunt)** · **BOW-PRACTICE-1 ✓ d389** evening doctrine. |
+| **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **Bow v1** · **×16 (12 pointed · 4 blunt)** · **GOAT-HUNT-519 ✓**. |
 | **Melee spar** (Dagorhir · Belegarth · SCA) | **3** | **3** | — | Foam skill · spear distance · easy mode so far. |
-| **Foam craft** (weapons · hafting imagination) | **3** | **3** | — | Informs design · not physical transfer. |
+| **Foam craft** (weapons · hafting · **lorica replica**) | **4** | **3** | — | **IRL foam segmentata ✓** · Dagorhir weapons · informs plate layout · duct-tape not in-world. |
 | **Hunt / track / trap** | **1** | **2** | +1 | Gorge trap deferred · fish + small game. |
-| **Loaded march / travois** | **1** | **3** | **+2** | COAST-1 · RS-3 · **HAUL-IRON-1/2** · EXPED-C. |
+| **Loaded march / travois** | **1** | **4** | **+3** | COAST-1 · RS-3 · **HAUL-IRON-1/2** · **WOOD-HAUL-LIGHT covered d575**. |
 
 ---
 
 ## Fire · navigation · time · mind
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Friction fire** (almost IRL · bow drill in-world) | **2** | **5** | **+3** | Bow drill ✓ · spare kit · char cloth class. |
 | **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-48** · vault **~67 kg** · draw doctrine **d367**. |
@@ -138,9 +144,9 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Other craft
 
-| Skill | Start (IRL) | Now @ d396 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d582 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Tanning / leather chemistry** | **1–2** | **3** | +1–2 | Caligae · bags · shoemaking class. |
+| **Tanning / leather chemistry** | **1–2** | **3** | +1–2 | Caligae · bags · **GOAT-HUNT brain tan d526** · shoemaking class. |
 | **Stone knapping** | **1–2** | **3** | +1–2 | Chert suite · hafting · early survival tier. |
 | **Music / instrument** | **1–2** | **2** | — | **2 guitars** · restrung · **MUS-1 lyre v0** here. |
 | **Medicine / first aid** | **2–3** | **3** | — | MK-0 splinters · no major trauma. |
@@ -168,6 +174,33 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
+| **582** | Farm ops | *(hold 4)* | **P-17-HARVEST-1 · pulse thresh · elite save** |
+| **581** | Farm ops | **3→4** | **EMMER-HARVEST-1 · thresh · winnow · elite save** |
+| **580** | Animal comfort textiles | **3→4** | **ANIMAL-RAIN-SHEET-SET-1 · roll @ wagon** |
+| **579** | Home repair | *(hold 4)* | **SHOWER-1 v0 PASS** |
+| **578** | Farm ops | *(hold 3)* | **HARVEST-PREP — tier-4 @ cut day** |
+| **577** | Iron tool forge | *(hold 3)* | **IRON-HOE-1 — farm blade class · not tier-4 yet** |
+| **577** | Iron roast · bloom | *(hold 3)* | **IRON-BLOOM-15 H-11 — routine charge** |
+| **575** | Loaded march / travois | **3→4** | **WAGON-LOAD-50 + WOOD-HAUL-LIGHT covered** |
+| **575** | Donkey team train | *(hold 4)* | **50 kg covered PASS — reinforces tier 4** |
+| **572** | Iron tool forge | *(hold 3)* | **IRON-HOOP-1 lap weld — not tier-4 yet** |
+| **571** | Home repair | *(hold 4)* | **KITCHEN-FAUCET v1.1 · WATER-PRESSURE-1 PASS** |
+| **570** | Animal comfort textiles | **2→3** | **ANIMAL-BLANKET-SET-1 · fit Mabel + Humphrey** |
+| **569** | Donkey team train | **3→4** | **TEAM-CART-50 · WAGON-TRAIN empty covered PASS** |
+| **569** | Donkey capture · integrate | **3→4** | **Two named adults · repeatable team grammar** |
+| **568** | Wood carving / cooper | **3→4** | **BARREL-1 swell PASS · BUNG-TAP-1** |
+| **567** | Wood carving / cooper | **2→3** | **COOPERAGE trial · header box seams** |
+| **566** | Framing (wagon) | *(hold 4)* | **WAGON-ARCH ribs + ridge** — reinforces tier 4 |
+| **564** | Home repair | **3→4** | **KITCHEN-FAUCET-1 · stem valve PASS** |
+| **562** | Fulling / boil finish | *(hold 3)* | **BLANKET-A sandwich PASS** |
+| **561** | Donkey team train | **2→3** | **TEAM-TRAIN-1 close · TEAM-CART-25** |
+| **552** | Fulling / boil finish | **2→3** | **BLANKET-B sandwich fulling PASS** |
+| **550** | Donkey integrate | **2→3** | **Humphrey release · Mabel+Humphrey partition** |
+| **542** | Hand sewing | **3→4** | **CL-TABARD-2 · CL-SOCK-2 · garment rhythm** |
+| **541** | Dye / mordant | **3→4** | **Teal tunic · grape-skin · vibrant stock arc** |
+| **539** | Roof tile deploy | **3→4** | **KITCHEN-TILE-ROOF-1 ✓ full drip PASS** |
+| **537** | Framing / roofing | **3→4** | **Kitchen roof batten + lay sprint** |
+| **550** | Spinning | **3→4** | **WHEEL-SPIN-7 production · ~94 m bank** |
 | **471** | Iron tool forge | **3** *(hold)* | **IRON-TONGS-1 ✓** — jaw wobble · not tier-4 yet |
 | **466** | Iron tool forge | *(wear event)* | **×35 nails** — copper tongs degraded |
 | **370** | Bench ore mining | **3→4** | **IRON-HAMMER-1 @ H-11 · ~10.4 kg** |

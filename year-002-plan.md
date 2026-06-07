@@ -1,6 +1,19 @@
 # Calendar Year 2 strategy (~Days 238–602)
 
-*Last revised: **Day 397** (~10,000 BC). **CART-1 hero · BARN/CRANE parked · farm interleave.***  
+*Last revised: **Day 552** (~10,000 BC). **CART-1 ✓ · BARN ✓ · TEXTILE-MODE · reassess below.***  
+
+### Day 552 reassess — what changed since Day 397
+
+| Was | Now |
+|-----|-----|
+| Cart hero · barn parked | **CART-1 ✓ · BARN-1-v1 ✓ · CRANE-1 ✓ · YEARLING-80 kg** |
+| Single yearling | **Mabel + Humphrey @ HOLDING-1 · TEAM-TRAIN queued** |
+| Kitchen stake | **H-v2-KITCHEN-1 ✓ · tile roof ✓ · sink · teal curtain** |
+| LM-2 queued | **TEXTILE-MODE Week 78–79 · SET-B ~90% · SET-A ~60%** |
+| Pen comfort | **PEN-EXPAND-1 staked · AQ pen stub ✓ · dig queued** |
+
+**Next north stars (Day 552):** (1) close bedding A/B dye clocks · (2) team train · (3) pen expand · (4) wagon **after** team · (5) autumn madder/grape/flax pull.
+
 **Prior year:** [year-001.md](journal/years/year-001.md) · **Stock:** [inventory.md](inventory.md) · **Ladder:** [ladder.md](ladder.md)
 
 **Character:** Immortal solo · Orontes campus · parallel tracks OK · **one hero forge/build per week**

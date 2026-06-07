@@ -1,6 +1,6 @@
 # Achievement ladder
 
-*Day **522** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
+*Day **552** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
 
 **Legend:** ✓ have / done · ~ started / partial · · not yet
 
@@ -8,7 +8,7 @@
 
 ## Where you are
 
-**~528 days in.** **Cal-Y2 D291** · **Week 76.** **KITCHEN-CLOSE ✓ · PLAN-528 · pen expand + donkey #2 next**.
+**~569 days in.** **Cal-Y2 D332** · **Week 82.** **COVERED-WAGON-1 v1 ✓ · WAGON-TRAIN empty PASS**.
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
@@ -63,7 +63,7 @@
 | **KITCHEN-FLOOR-LAY-1** (checker · grout bed) | **✓ Day 516 · boot PASS** |
 | **KITCHEN-POT-HERB-1** (potted mint · coriander @ counter) | **✓ Day 518 @ south shelf** |
 | **KITCHEN-WHITEWASH-1** (lime skim wattle/daub walls) | **✓ Day 518 interior skim** |
-| **KITCHEN-TILE-ROOF-1** (replace thatch · W-1 class) | · **deferred · factory sprint** |
+| **KITCHEN-TILE-ROOF-1** (replace thatch · W-1 class) | **✓ Day 539 · tile roof operational** |
 | **GOAT-HUNT-1** (A-03 gorge · trap + bow) | **✓ Day 519 · 1 nanny · bow @ 12 m** |
 | **KITCHEN-WINDOW-1** (south counter · shutter · over sink) | **✓ · SINK-BASIN-1 ✓ Day 525** |
 | **KITCHEN-UTENSIL-BUNDLE-1** (fork · spoon · spatula · skillet · pot) | **✓ Day 517** |
@@ -79,14 +79,37 @@
 | **KITCHEN-FLOOR-LAYOUT-511** | **✓ 15×15 checker buff/iron-red** |
 | **KITCHEN-FLOOR-MEANDER-1** (Greek-key border · right-angle snake) | · **queued · smaller tile or stone-cut · Year 2+** |
 | **KITCHEN-CURTAIN-1** (LM-2 panel · verdigris teal) | **✓ Day 528** |
+| **CL-TOWEL-3/4** (teal · curtain match · bath + hand) | **✓ Day 544 @ kitchen** |
 | **KITCHEN-CLOSE-1** | **✓ Day 528** |
 | **KITCHEN-DRY-RACK-1** | **✓ v0 Day 528** |
 | **WASTE-BIN-1** (camp dry waste · haul to midden) | **✓ v0** · **MIDDEN-PIT-1 ✓ Day 501** |
 | **CHEM-LAB-1** (expanded tinker space · vent · water · fire zones) | · **v1 CHEM cramped · annex or WW north bay** |
-| **AQUEDUCT-1** (gravity feed · campus · forge · kitchen · pen) | **~92% · pen stub ✓ Day 527 · float auto soon** |
-| **COVERED-WAGON-1** (team cart · shelter · long expedition) | · **after donkey #2–3 · coast class not Tarsus direct** |
-| **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **staked Day 527 · dig queued · before defenses** |
-| **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | · **soon · pen stub live** |
+| **AQUEDUCT-1** (gravity feed · campus · forge · kitchen · pen) | **✓ Day 564 · KITCHEN-FAUCET-1 ✓** |
+| **DONKEY-HUNT-2** (D-27 · corral Trip 5 · recruit #2) | **✓ Day 536 · YEARLING-2 @ quarantine** |
+| **Humphrey** (YEARLING-2 · probable jack) | **✓ released Day 550 · HOLDING-1 partition B** |
+| **Mabel** (YEARLING-1 · probable jenny) | **✓ named Day 550 · HOLDING-1 partition A** |
+| **TEAM-TRAIN-1** (Mabel + Humphrey · yoke path) | **✓ Day 561 · TEAM-CART-25 PASS** |
+| **TEAM-CART-25** (dual trace · ~25 kg · T-2) | **✓ Day 561** |
+| **TEAM-CART-50** (team · ~50 kg · T-2 ramp) | **✓ Day 563** |
+| **STONE-CUT-1** (dressing · footing · bridge prep) | **practice Day 533 · 580** |
+| **THRESH-ZONE-1** (barn pad · winnow lane) | **✓ Day 578** |
+| **HARVEST-PREP-578** (sickle · basket · seed labels) | **✓ Day 578** |
+| **CART-1** (local haul · T-2 · campus · 50 kg team) | **✓ separate vehicle — uncover = haul mode** |
+| **COVERED-WAGON-1 v1** (shelter on CART-BED · multi-day shell) | **✓ Day 569 · WAGON-TRAIN empty PASS** |
+| **WAGON-ARCH-1** (×2 hoop ribs · ridge · cover lash points) | **✓ Day 569** |
+| **WAGON-COVER-THATCH-1** (reed/grass bundles · rope · M-08 ridge) | **✓ v0 removable Day 569** |
+| **WAGON-TRAIN-1** (empty covered · T-2) | **✓ Day 569** |
+| **WAGON-LOAD-25** (covered ~25 kg · T-2) | **✓ Day 574** |
+| **WAGON-LOAD-50** (covered ~50 kg · T-2 ramp) | **✓ Day 575** |
+| **WOOD-HAUL-LIGHT** (covered ~25 kg · one T-2 lap) | **✓ Day 575 · pile 5 ~48 kg** |
+| **WAGON-COVER-CANVAS-1** (LM-2 linen panels · sewn · ~8–10 m²) | · **after spin stock · phases OK · RV v2 class** |
+| **WAGON-COVER-HIDE-1** (stitched skins) | · **deferred · ~8–10 hides · hunt sprint not roof-first** |
+| **WAGON-RV-2** (Oregon Trail class · lashed amenities · interior storage) | · **v2 after v1 km boring · not wagon circle** |
+| **WATER-PRESSURE-1** (header head · jet vs trickle) | **✓ Day 571 · kitchen ~14 s fill class** |
+| **SHOWER-1** (overhead arm · stem valve · header feed) | **✓ Day 579 v0 @ kitchen wing** |
+| **FLUSH-TOILET-1** (reservoir · seat valve · soil drop) | · **horizon · needs header + drain grammar** |
+| **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **✓ Day 558 · PEN-GATE-EXPAND-1 ✓** |
+| **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | **✓ Day 560 @ pen north trough** |
 | **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | · **soon · with barn hay** |
 | Stone / tile **roof** campus-wide | · **W-1 ✓** · annex + barn class |
 | **Permanent stone buildings** (Roman-scale) | · **FS dress practice · mortar · crane** |
@@ -116,6 +139,14 @@
 | Fired bowls · dishes · vials · crucible | ✓ **~6–8 pcs** — see **Kitchen** below |
 | **Kitchen pottery at scale** (+4–6 bowls) | **+4 P-λ-1..4 Day 466** · press more when campus asks |
 | **Amphorae / large jars** (oil · brine · grain bulk) | **AMPHORA-1/2/3 ✓ all pitched** |
+| **COOPERAGE-1** (stave · hoop · head · tap bore) | **✓ swell PASS Day 568** |
+| **BARREL-1 v0** (~20–40 L · oak stave · willow hoop · M-08) | **✓ Day 568 · BUNG-TAP-1 · ~32 L** |
+| **BARREL-2 v0** (~20–40 L · oak · iron waist hoop · M-08) | **✓ Day 573 · BUNG-TAP-2 · ~31 L grain** |
+| **BUNG-TAP-1** (oak plug · CU lip · barrel draw) | **✓ Day 568** |
+| **BUNG-TAP-2** (oak plug · CU lip · barrel draw) | **✓ Day 573 @ BARREL-2** |
+| **BARREL-SET-1** (×3–4 labeled: water · grain · brine · ash) | **~50% Day 572 · water + grain @ W-1** |
+| **WATER-HEADER-1** (elevated tank · overflow @ high point) | **✓ WATER-HEADER-BOX-1 Day 567** |
+| **IRON-HOOP-1** (barrel strap · forge band) | **✓ Day 572 · BARREL-2 waist** |
 | **Shelves + bins** workshop-scale (**STORE-2**) | ~ **~88%** Day 254 |
 | **STORE-3** annex @ v1 (bulk overflow) | **✓ Day 272 operational** |
 | **COOL-CELLAR-1** (buried pit + vent stack) | · **stack-effect cold filed Day 496** |
@@ -175,7 +206,7 @@
 | **Vinegar** (needs alcohol first) | ~ **GRAPE-FERMENT-1 day 4 foam · ~20%** |
 | Bread / porridge routine | ~ parched only |
 | Cheese / dairy | · need milk animal |
-| Lentil / pulse staple | ~ **P-17 trial sown** · first harvest pending |
+| Lentil / pulse staple | **✓ P-17-Y2-582 · ~240 g bulk · ~48 g elite** |
 | **Varied daily plate** (herbs + pulse + oil + bread) | ~ **FEAST-237 ✓ Day 237** · not daily yet |
 | **Annual feast + tree benchmark (YULE-BENCH-1)** | ✓ **Year 1 Day 237** · repeat solstice eve · compare plate year-on-year |
 
@@ -190,14 +221,15 @@
 | **Bed D selection nursery** | ✓ |
 | **Grape trellis** | ✓ |
 | **SEED-VAULT** elite lines (grain · flax · pistachio · olive · grape · herbs) | ✓ |
-| **IRON-SICKLE-1** (harvest edge) | **✓ Day 491** · emmer/flax cut class |
+| **IRON-SICKLE-1** (harvest edge) | **✓ Day 491 · EMMER-HARVEST-1 ✓ Day 581** |
+| **IRON-HOE-1** (margin · stubble · root dig) | **✓ Day 577 · ~142 g head · CU-HOE backup** |
 | **Scythe** (cu · iron · harvest at scale) | · after sickle proven · wider swath |
 | **AGRI-2** spring split (flax / herbs / fallow) | **SPRING-SOW-1+2 ✓** · Bed B live |
 | **Bed B spring sow** | ✓ **SPRING-SOW-1+2** · **second thin Day 365** · watch only |
 | Olive **orchard** (plant cuttings · prune) | ~ wild harvest + seed · not orchard yet |
 | Grape **vineyard** (train · select · volume) | ~ trellis + leather · wine Year 2 |
 | Fig **propagation** (cuttings · P-12a) | **✓ FIG-PROP-1 Day 306** · **FIG-C1–4** @ Bed D · **C2 lead Day 365** |
-| Pulse / lentil crop | ~ **P-17 true leaves Day 365 · hands-off** |
+| Pulse / lentil crop | **✓ P-17-HARVEST-1 Day 582 · trial strip · Y2 seed vault** |
 | Crop **rotation + selection generations** | ~ Year 1 done · multi-year clock started |
 
 ---
@@ -211,14 +243,14 @@
 | **2 kid goats** @ pen | ✓ |
 | Wild **donkey herd** sighted **D-27** | ✓ |
 | Corral + short pen | ✓ |
-| **YEARLING-1** captured · lead-trained | ✓ **@ HOLDING-1** |
+| **Mabel (YEARLING-1)** captured · lead-trained | ✓ **@ HOLDING-1** |
 | **Donkey #2+** · small flock | · |
 | **Sheep** scout · capture · flock | · horizon |
 | **Aurochs / oxen** (hunt · orphan calf · corral) | · Year 2+ |
 | **Horse** | · much later · equines fine for now |
 | **Travois v1** | ✓ |
 | **Wheelbarrow** (single wheel · frame · handles) | **✓ WHEELBARROW-1 Day 403** · **WHEEL-CART-1** mounted · **WB-LOAD-1 PASS** |
-| **Cart / wagon** (two-wheel · axle · yoke) | ~ **AXLE-CART-1 ✓** · **CART-BED-1** after nails · **YOKE** queued |
+| **Cart / wagon** (two-wheel · axle · yoke) | **CART-1 ✓ · COVERED-WAGON-1 v1 ✓ · WAGON-RV-2 horizon** |
 | **Boat** (Orontes) | · filed **BOAT-1** |
 | **Lighthouse / coast nav** | ~ beacon v0 ✓ · lighthouse · |
 
@@ -287,10 +319,15 @@
 | **Compass v1** | · cork pivot · card · bearing |
 | **EXPED-M22-1** (magnetite body) | **✓ closed Day 392 · ~2.4 kg @ pile 4** |
 | **M-22-UP** (repeat-haul lens) | **✓ marked Day 391** |
-| **BLANKET-1** | · **wait flax pull ~D210–230** |
+| **BLANKET-1** | **BLANKET-SANDWICH grammar ✓ · A purple · B red** |
 | **CL-ROTATION-1** (spare clothes) | · post-pull |
 | **BEDDING-2 / PILLOW-1** | · straw tick now · down autumn |
-| **LM-3 wide beam** (canvas · blanket width) | · after LM-2 |
+| **LM-3 wide beam** (canvas · blanket · bed panels) | · **after SET-A/B sprint · PROPER-BED class** |
+| **LOOM-WING-1** (dedicated bay · wing on H-v2 or v1) | · **stake post-LM-3 prep** |
+| **EXPED-SCOUT-1** (path clear · grade · first/last leg) | · **before COVERED-WAGON south** |
+| **BRIDGE-1** (stream crossings @ scout) | · **with EXPED-SCOUT** |
+| **TRAP-CRAFT-2 · BOW-HUNT-2** | · **Tarsus calorie supplement** |
+| **BED-EXPAND-1** (Cal-Y3 sow · human + animal stock) | · **or slaughter goats @ age — no names** |
 | **Belt-driven spindle** (WW takeoff) | · Year 2 |
 
 ---
@@ -309,6 +346,19 @@
 | **SHOE-2** (double sole · cross-lace · Day 122) | ✓ **@ HOME peg** — campus shoe |
 | **Linen toe wrap / MK-0 foot class** | ~ **field fix Day 372** — superseded by **CL-SOCK-1** |
 | **CL-TUNIC-1** (closed linen under-tabard · gussets · sleeves) | ✓ **Day 384** · ~46×88 cm · LM-2 proper build |
+| **CL-TUNIC-2** (teal · chest slit · eyelets · double-stitch) | **✓ Day 541 · primary wear** |
+| **CL-TUNIC-3** (natural · wash rotation · double-stitch) | **✓ Day 543 · peg** |
+| **CL-TABARD-2** (grape-skin purple-mauve · open side) | **✓ Day 542 · primary over-layer** |
+| **GRAPE-SKIN-DYE-1** (skin bath · double dip · iron kiss) | **✓ Day 542 · fugitive purple class** |
+| **CL-SOCK-2** (linen foot wrap · rotation) | **✓ Day 542** |
+| **CL-SOCK-3** (go-bag foot wrap) | **✓ Day 546** |
+| **BEDDING-SET-A** (pillowcase + sheet + purple blanket) | **✓ Day 562 · BLANKET-A-1 purple sandwich** |
+| **BEDDING-SET-B** (pillowcase + sheet + red blanket) | **~90% · BLANKET-B-1 ✓ undyed · madder autumn** |
+| **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ rugs Day 570 · rain sheets Day 580** |
+| **PROPER-BED-1** (frame · slats · mattress class) | **deferred · tools yes · space no · LM-3** |
+| **BLANKET-SANDWICH-1** (double panel + tow batting) | **✓ trial Day 548** |
+| **PILLOW-DOWN-1** (feather fill) | **deferred · HUNT-FEATHER post week 79** |
+| **CL-TUNIC-TIEDYE-1** (bind-resist · vibrant) | **deferred · MADDER-DIG-1 autumn** |
 | **CL-BREECH-2 / leg wrap** (full linen or leather leg) | · **beyond breechcloth** — brush · cold · dignity |
 | **CL-CLOAK-1** (rain · cold trail · sleep wrap) | · linen canvas first · wool when flock |
 | **CL-SOCK-1** (linen foot wrap under shoe) | ✓ **Day 375** · worn under **BOOT-3** |
@@ -368,7 +418,8 @@
 | **Copper saw CU-SAW** | ✓ **v0 Day 236** — green rip class |
 | **Fire tongs CU-FIRE-TONGS-1** | ✓ **Day 229** |
 | **Wood chisel CU-CHISEL-1** | ✓ **Day 231** |
-| **Copper hoe CU-HOE-1** | ✓ **Day 247 · Bed B scratch PASS** |
+| **Copper hoe CU-HOE-1** | ✓ **Day 247 · Bed B scratch PASS** · **backup** |
+| **Iron hoe IRON-HOE-1** | **✓ Day 577 · margin trial · madder/post-harvest class** |
 | **Forge tongs CU-FORGE-TONGS-1** | ✓ **Day 252** · dual-grip w/ **CU-FIRE-TONGS-1** |
 
 ---
@@ -592,7 +643,7 @@
 | Rank | Multiplier | Why | Your status |
 |------|------------|-----|-------------|
 | **1** | **Animal haul (cart + yearling)** | Moves kg without wearing you | **✓ CART-1 · YEARLING-80 kg** |
-| **2** | **Running water on campus** | Ends bucket tax · quench · slake · retting · kitchen · forge | **WW-1 ✓ @ 140 m** · **AQUEDUCT-1 ·** |
+| **2** | **Running water on campus** | Ends bucket tax · quench · slake · retting · kitchen · forge | **WW-1 ✓ · AQUEDUCT-1 ✓ · header queued** |
 | **3** | **Containers at scale** (metal bucket + pottery factory) | Wet chemistry · char · ore wash · food storage | **METAL-BUCKET-1 · · CERAMICS-FACTORY-2 ~** |
 | **4** | **Mechanical power takeoffs** | Grind · blast · future hammer · spin | **WW ✓ · blower ✓ · grind ~95%** · more belts later |
 | **5** | **Second pack animal** | Parallel haul · less downtime | **Donkey #2 ·** |
@@ -614,14 +665,41 @@
 
 ---
 
-## Suggested next rungs (Day 505+ · Week 73)
+## Suggested next rungs (Day 552 reassess)
 
-**Immediate (post-kitchen · PLAN-528):**
+**Tier 0 — close loops:**
 
-1. **PEN-EXPAND-1** — **post dig · ~22×8 m**
-2. **D-27-DONKEY-2** — **capture · train**
-3. **GOAT-TROUGH-AUTO-1** — **float @ pen stub · soon**
-3. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
+1. **WINTER-STOCK-SPRINT** — **smoke · char · wood · feast clock**
+2. **MADDER-DIG-1** — **~Day 585+ · SET-B red @ autumn**
+3. **FALL-FLAX-STAKE** — **~Day 590 · thread ~15 m**
+5. **Farm scare** — **GREEN · hands-off except dawn**
+
+**Tier 1 — campus ROI:**
+
+6. **GOAT-FEEDER-1** — **hopper · hay chute**
+7. **PEN-FENCE-2 · PEN-DEFENSE-1** — **post-expand**
+8. **WAGON-TRAIN** — **empty → loaded T-2 loop**
+
+**Tier 2 — autumn / summer clocks:**
+
+9. **HUNT-FEATHER** — **PILLOW-DOWN-1 post bedding**
+
+**Tier 3 — haul (after team train):**
+
+10. **COVERED-WAGON-1** — **shelter build · after TEAM-CART-50 class**
+11. **EXPED-SCOUT-1 + BRIDGE-1** — **before Tarsus-class south**
+12. **CART-IRON-1** — **hub collars · wagon fittings**
+
+**Tier 4 — interleave:**
+
+13. **STONE-CUT-1** — **weekly practice · footing stock**
+14. **GLASS-PRACTICE-1** — **½-day bead cadence**
+15. **ANVIL-1** · **CHEM-LAB-1** · **STORE expand**
+16. **MAGNET/COMPASS-1** — **~85 g concentrate · fun not urgent**
+3. **FLAG-1** — **pattern slate · fun weave**
+3. **BLANKET-1** / **LM-3** — **bed width when stack fed**
+4. **FLAG-1** — **pattern slate · fun weave**
+5. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
 4. **GOAT-HUNT-1** — **~D519 @ A-03**
 3. **KITCHEN-UTENSIL-BUNDLE-1** — **forge + wood interleave**
 4. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
