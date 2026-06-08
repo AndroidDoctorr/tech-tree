@@ -65,6 +65,40 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 **Day 513 · Cal-Y2 D276:** **FLOOR-TILE-FIRE-4 · TILE-PRESS-FLOOR-4 · KITCHEN-WINDOW + close checklist**
 **Day 512 · Cal-Y2 D275:** **Week 74 opens · FLOOR-TILE-FIRE-3 · TILE-PRESS-FLOOR-3 · aqueduct week filed**
 **Day 511 · Cal-Y2 D274:** **FLOOR-TILE-FIRE-2 · TILE-SLIP-TRIAL PASS · Layout C checker locked**
+**Day 616 · Cal-Y3 D14:** **PROPER-BED-1 ✓ · SET-A on rope bed · first good night**
+**Day 615 · Cal-Y3 D13:** **SHOWER-2 ✓ · PROPER-BED ~55% · upgrade queues filed**
+**Day 614 · Cal-Y3 D12:** **HOT-WATER-1 ✓ · SHOWER-2 warm rinse PASS**
+**Day 613 · Cal-Y3 D11:** **EXPED-SCOUT-1 ✓ · PROPER-BED + HOT-WATER-1 doctrine**
+**Day 612 · Cal-Y3 D10:** **ICE-VAULT packed ✓ · PILLOW-DOWN-1 ✓**
+**Day 611 · Cal-Y3 D9:** **ICE-SCOUT-1 ✓ · ICE-ROUTE-1 · ~3.2 kg ICE-VAULT trial**
+**Day 610 · Cal-Y3 D8:** **Week 88 · COOL-CELLAR-1 complete — RACK · EVAP trough ✓**
+**Day 609 · Cal-Y3 D7:** **COOL-CELLAR-1 operational — RING-6 · AIR-ZIGZAG-7 ✓**
+**Day 608 · Cal-Y3 D6:** **COOL-CELLAR hatch ✓ · double airlock ✓**
+**Day 607 · Cal-Y3 D5:** **COOL-CELLAR shell ✓ — berm · vent · night damper**
+**Day 606 · Cal-Y3 D4:** **COOL-CELLAR lintel ✓ · straw tick ✓ · vent stack ~55%**
+**Day 605 · Cal-Y3 D3:** **IRON-PICK-1 ✓ · COOL-CELLAR depth ~2.6 m · RING-6 · AIR-ZIGZAG-7**
+**Day 604 · Cal-Y3 D2:** **BOOT-GRIP-1 ✓ · IRON-BLOOM-16 · IRON-SPADE-1 ✓**
+**Day 603 · Cal-Y3 D1:** **COOL-CELLAR-1 staked · BOOT-GRIP-1 trial · LATEX-SCOUT-1 filed**
+**Day 602 · Cal-Y2 D365:** **FEAST-602 ✓ · YULE-BENCH-2 ✓ · SUN-YULE-602 · Cal-Y2 close**
+**Day 601 · Cal-Y2 D364:** **WINTER-TREE-2 ✓ · YULE-TREE-ADD-Y2 · FEAST-COOK-601**
+**Day 600 · Cal-Y2 D363:** **FEAST-COOK-600 ✓ · food-menu.md · Centadial 6 filed**
+**Day 599 · Cal-Y2 D362:** **FEAST-PREP-599 ✓ · SALT-3 · JERKY-2 · leathers topped**
+**Day 598 · Cal-Y2 D361:** **COOL-CELLAR-2-EVAP filed · SALT-3 · JERKY-2 start**
+**Day 597 · Cal-Y2 D360:** **PIT-CHAR-35 ✓ · STOCK-SPRINT-597 ✓ · BIRD-HUNT-3 ✓**
+**Day 596 · Cal-Y2 D359:** **YULE-BENCH-2 prep ✓ · BIRD-HUNT-2 ✓ · Week 86 open**
+**Day 595 · Cal-Y2 D358:** **WHEEL-SPIN-9 ✓ · line flax depleted**
+**Day 594 · Cal-Y2 D357:** **PIT-CHAR-34 ✓ · GOAT-FEEDER-1 ✓**
+**Day 593 · Cal-Y2 D356:** **CL-BREECH-SET ×3 ✓ · BARREL-3 + BUNG-TAP-3 ✓**
+**Day 592 · Cal-Y2 D355:** **BARREL-3 started · BIRD-HUNT-1 ✓ · feather stock**
+**Day 591 · Cal-Y2 D354:** **CL-TUNIC-TIEDYE-1 ✓ · first vibrant bind-resist garment**
+**Day 590 · Cal-Y2 D353:** **FALL-FLAX-SOW ✓ · MORDANT-TUNIC prep · tie-dye Day 591**
+**Day 589 · Cal-Y2 D352:** **CL-TUNIC-TIEDYE-1 blank ✓ · Week 85 open**
+**Day 588 · Cal-Y2 D351:** **CL-TUNIC-TIEDYE-1 weave ~60% · day 1/2 @ LM-2**
+**Day 587 · Cal-Y2 D350:** **WHEEL-SPIN-8 ✓ · ~44 m · tie-dye warp cleared**
+**Day 586 · Cal-Y2 D349:** **DYE-BLANKET-B-1 ✓ · BEDDING-SET-B complete · first madder red**
+**Day 585 · Cal-Y2 D348:** **MADDER-DIG-1 ✓ · ~115 g dry · SET-B dye queued**
+**Day 584 · Cal-Y2 D347:** **SET-B-BATH-PREP ✓ · FALL-FLAX-STAKE Bed B south**
+**Day 583 · Cal-Y2 D346:** **PIT-CHAR-32 ✓ · WINTER-STOCK-SPRINT char lap**
 **Day 582 · Cal-Y2 D345:** **P-17-HARVEST-1 ✓ · ~240 g · first Cal-Y2 lentil trial**
 **Day 581 · Cal-Y2 D344:** **EMMER-HARVEST-1 ✓ · ~1.75 kg · first Cal-Y2 emmer**
 **Day 580 · Cal-Y2 D343:** **ANIMAL-RAIN-SHEET-SET-1 ✓ · harvest eve**

@@ -107,10 +107,13 @@
 | **WAGON-RV-2** (Oregon Trail class · lashed amenities · interior storage) | · **v2 after v1 km boring · not wagon circle** |
 | **WATER-PRESSURE-1** (header head · jet vs trickle) | **✓ Day 571 · kitchen ~14 s fill class** |
 | **SHOWER-1** (overhead arm · stem valve · header feed) | **✓ Day 579 v0 @ kitchen wing** |
+| **HOT-WATER-1** (brick/clay fire tank · 15–25 L) | **✓ Day 614 @ kitchen porch · ~20 L · firebox** |
+| **SHOWER-2** (hot + cold tee · mix @ stem · insulated) | **✓ Day 615 · ~25 min heat-to-rinse** |
+| **PROPER-BED-1** (oak frame · rope grid · tow mattress) | **✓ Day 616 @ H-v2 NW · SET-A deployed** |
 | **FLUSH-TOILET-1** (reservoir · seat valve · soil drop) | · **horizon · needs header + drain grammar** |
 | **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **✓ Day 558 · PEN-GATE-EXPAND-1 ✓** |
 | **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | **✓ Day 560 @ pen north trough** |
-| **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | · **soon · with barn hay** |
+| **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | **✓ Day 594 · barn loft → manger** |
 | Stone / tile **roof** campus-wide | · **W-1 ✓** · annex + barn class |
 | **Permanent stone buildings** (Roman-scale) | · **FS dress practice · mortar · crane** |
 | **Courtyard compound** (wings around central yard) | ~ **T-plan started** · kitchen west · stake drain |
@@ -149,8 +152,114 @@
 | **IRON-HOOP-1** (barrel strap · forge band) | **✓ Day 572 · BARREL-2 waist** |
 | **Shelves + bins** workshop-scale (**STORE-2**) | ~ **~88%** Day 254 |
 | **STORE-3** annex @ v1 (bulk overflow) | **✓ Day 272 operational** |
-| **COOL-CELLAR-1** (buried pit + vent stack) | · **stack-effect cold filed Day 496** |
+| **COOL-CELLAR-1** (buried pit + vent stack + ICE-VAULT) | **✓ Day 610** — full stack incl. **RACK · EVAP trough** |
+| **ICE-SCOUT-1** | **✓ Day 611** — **ICE-ROUTE-1** staked · **melt ~2 mm/24 h Day 613** |
+| **ICE-VAULT-1** | **✓ packed Day 612** — straw · hide · melt watch |
+| **PILLOW-DOWN-1** | **✓ Day 612** — **~120 g down @ H-v2 bed** |
+| **BOOT-GRIP-1** (pre-rubber sole traction) | **✓ Day 604** — hobnails ×8 + scuff hide on **BOOT-3** |
+| **LATEX / rubber path** | **LATEX-SCOUT-1 filed** — fig sap spring · true rubber not local |
 | **Big stable long-term store** (barn + pottery line) | **✓ BARN-1-v1 closed Day 468** |
+
+### COOL-CELLAR-1 — maximize cold doctrine *(filed Day 604 planning)*
+
+**Honest ceiling:** Not a freezer. **Smoke/salt/jerky** still wins for weeks. Cellar + ice = **extra days** on fresh meat/fish/dairy-class in **winter**; **ice alone** maybe **~1–2 weeks** class if packed right (Orontes mild winter).
+
+| Layer | Build | Why |
+|-------|-------|-----|
+| **Depth** | **≥~2.4 m** · deeper better | Earth temp stable · winter cold soaks in |
+| **Site** | **North shade** ✓ · **earth berm** over roof + partly on walls | No sun strike · mass insulation |
+| **Walls** | **Stone inner face** + **straw/reed batt** air gap + **earth** | Slow conduction |
+| **Roof** | **Stone lintel** + **straw tick** + **thick earth cap** (~≥40 cm class) | Biggest heat leak if thin |
+| **Floor** | **Clay pan** · **drain sump** → **D-1** | Ice melt + condensate out — not under food |
+| **Door** | **Double airlock** — hatch + **hide/reed curtain** inner | Every open = warm pulse in |
+| **Zones** | **ICE-VAULT** separate from **food racks** | Melt drains away · food not in brine puddle |
+
+**Coolest air sources (stack in priority):**
+
+1. **Night air @ winter** — **low intake** (north base) · **high exhaust** (vent stack) · **damper**: open cold nights · close warm days  
+2. **Stack effect** — vent draw up · never route kitchen hypocaust into cellar  
+3. **COOL-CELLAR-2-EVAP** — aqueduct **trickle** in **perimeter trough** on **dry** days only · **overflow drain** · humidity control — not a swamp  
+4. **Header/spring water** — run **cool inflow** over **stone screen** in intake channel (evap pre-cool) · separate from food splash  
+5. **Pre-chill** food on **porch winter night** before cellar load  
+
+**Ice retention (ICE-VAULT-1):**
+
+- **Dense blocks** from ridge haul · **straw/sawdust pack** on all sides + top blanket  
+- **Minimize surface area** — few big blocks not crushed chips  
+- **Drain floor below ice** — ice on **reed grate** above sump  
+- **No salt on food ice** — salt ice bath = separate sealed niche if ever  
+- **Load at coldest week** · **top up** only on new freeze haul  
+
+**Food on ice:**
+
+- **Racks above** cold sink — fish/meat in **waxed reed or hide wraps** · not touching ice  
+- **Barrels/aphorae** for brined goods stay @ **v1** — cellar = **short fresh window**  
+- **Open door** = once per day class · inventory fast  
+
+**Built sub-builds ✓:** `COOL-CELLAR-3-BERM` · `COOL-CELLAR-4-NIGHT-DAMPER` · `COOL-CELLAR-5-RACK` · `COOL-CELLAR-6-RING` · `COOL-CELLAR-7-AIR-ZIGZAG` · `ICE-SCOUT-1` · `ICE-VAULT-1 packed`
+
+**Upgrade queue:** see **COOL-CELLAR-1 — upgrade queue** below *(Day 615)*
+
+**Day 605 additions:**
+
+| ID | Build | Notes |
+|----|-------|-------|
+| **COOL-CELLAR-6-RING** | **Concentric annulus** ~0.7 m wide @ ~1.2 m depth ring · straw/reed fill · earth cap | **~2–4°C buffer** class vs inner pit alone · dig after lintel/roof |
+| **COOL-CELLAR-7-AIR-ZIGZAG** | **North intake** → stone step cascade ×5 zig-zag down wall · aqueduct trickle over each lip | **Double-cool** incoming air · overflow → **D-1** · keep food zone dry |
+| **Depth** | **~2.6 m** inner pit ✓ Day 605 | Deeper than 2.4 m plan — clay pan honest |
+| **IRON-SPADE-1** | **Wide scoop spade** ✓ Day 604 | Loam + spoil — rolled lip |
+| **IRON-PICK-1** | **Pick/adze** ✓ Day 605 | Stiff clay below ~1.2 m · niche cut · **RING-6** annulus dig |
+
+**Dig-tool gate:** One **IRON-BLOOM-16** (~650 g H-11) → spade + bar tail → pick. **~2 forge days** · **~11 kg lane char** · **vault untouched**.
+
+### PROPER-BED-1 · HOT-WATER-1 doctrine *(filed Day 613)*
+
+**PROPER-BED-1 @ H-v2 NW (~3.2×2.6 m shell):**
+
+| Layer | Build |
+|-------|-------|
+| **Frame** | **~2.0×0.95 m** oak posts + rails · pegged · clears hypocaust center + W door |
+| **Grid** | **ROPE-2** tension lattice — trial before mattress |
+| **Mattress** | Linen tick · tow batting (+ optional straw loft) — **BLANKET-SANDWICH** grammar |
+| **Linens** | **SET-A** sheet + **PILLOW-DOWN-1** + **BLANKET-A** on top |
+
+**HOT-WATER-1 — realistic stack @ Day 613 stock:**
+
+| Phase | Build | Stock fit |
+|-------|-------|-----------|
+| **1 ✓ Day 614** | **Brick/clay fire tank** ~20 L @ kitchen porch · firebox · header fill | **−~32 brick hoard** |
+| **Interim** | Batch heat **POT-λ / CU-LADLE** on hypocaust → pour into header — works today · not plumbed | **Copper tools ✓** |
+| **2 later** | **CU-BUCKET-1** ~100–200 g immersion pot inside brick well | **~28 g peas insufficient — smelt first** |
+| **3 ✓ Day 615** | **SHOWER-2** insulated · **~25 min** heat-to-rinse | **Pipe + tank wrap** |
+| **Skip for now** | Iron sheet tank · flue copper coil | **Leak/rust · need more Cu length** |
+
+### Water heat & pressure — upgrade queue *(filed Day 615)*
+
+| ID | Upgrade | Benefit | Depends on |
+|----|---------|---------|------------|
+| **HOT-WATER-2** | **Tank insulation** — straw/reed jacket + hide lid *(partial ✓ Day 615)* | Faster heat hold · less char per rinse | **HOT-WATER-1 ✓** |
+| **HOT-WATER-3** | **Hypocaust tap** — waste-flue or suspensura bleed to brick well | Fire-less warm batches on hypocaust days | **HOT-WATER-1 ✓** · duct trial |
+| **HOT-WATER-4** | **CU-BUCKET immersion** pot inside brick well | Cleaner water · faster heat transfer | **CU smelt ~100–200 g** |
+| **HOT-WATER-5** | **Aqueduct auto-fill** — float valve to hot tank + header | Less bucket tax | **GOAT-TROUGH float grammar** |
+| **WATER-PRESSURE-2** | **Raise header** — taller stand or second stacked box | Stronger shower jet · faster sink fill | **WATER-HEADER-1 ✓** |
+| **SHOWER-3** | **Better head** — narrower lip · higher mount | Warmer/longer rinse feel | **WATER-PRESSURE-2** class |
+| **FLUE-COIL-1** | **Copper coil** in porch firebox flue | Continuous pre-heat · char savings | **More Cu wire/stock** · join skill |
+
+### COOL-CELLAR-1 — upgrade queue *(filed Day 615)*
+
+*Base stack ✓ Day 610. Not a freezer — upgrades buy **days**, not **months**.*
+
+| ID | Upgrade | Benefit | Priority |
+|----|---------|---------|----------|
+| **ICE-HAUL-1** | **Wagon load** @ **ICE-ROUTE-1** on hard-freeze week | Real ICE-VAULT blocks | **High** *(melt ~1 mm/48 h @ Day 615)* |
+| **ICE-PACK-STRAW** | Full straw/sawdust pack on haul blocks | +days on ice | **With ICE-HAUL** |
+| **COOL-CELLAR-8-WALL** | **Stone inner face** + straw/reed batt in pit walls | Slower wall conduction | Medium |
+| **COOL-CELLAR-9-FLOOR** | **Clay pan finish** + reed grate refinement @ food zone | Dry racks · less mud | Medium |
+| **COOL-CELLAR-10-ZONE** | **Hide curtains** between ICE-VAULT / food / intake | Less warm pulse on open | Low |
+| **COOL-CELLAR-11-HYGRO** | **Humidity slate** — vent + evap trough valve discipline | Mold gate on dry goods | Ongoing |
+| **COOL-CELLAR-12-HEADER-COOL** | **Spring/header branch** on intake (not food splash) | Pre-chill on draw days | Low |
+| **COOL-CELLAR-13-LOAD** | **First food load trial** — waxed fish @ rack | Prove +2–4 d window | After ice haul |
+| **COOL-CELLAR-14-SALT-ICE** | **Separate sealed niche** for salt-ice bath | Dairy-class horizon · not on food ice | Horizon |
 
 ---
 
@@ -207,8 +316,10 @@
 | Bread / porridge routine | ~ parched only |
 | Cheese / dairy | · need milk animal |
 | Lentil / pulse staple | **✓ P-17-Y2-582 · ~240 g bulk · ~48 g elite** |
-| **Varied daily plate** (herbs + pulse + oil + bread) | ~ **FEAST-237 ✓ Day 237** · not daily yet |
-| **Annual feast + tree benchmark (YULE-BENCH-1)** | ✓ **Year 1 Day 237** · repeat solstice eve · compare plate year-on-year |
+| **Varied daily plate** (herbs + pulse + oil + bread) | ~ **FEAST-237 ✓** · **[food-menu.md](food-menu.md) Day 600** |
+| **Annual feast + tree benchmark (YULE-BENCH)** | ✓ **Y1 Day 237** · **Y2 FEAST-602 ✓ Day 602** · compare plate year-on-year |
+| **SUN-CAL full loop** | ✓ **Y2 @ Day 602** — winter **46/42** · summer peak **~535/531 @ Day 569** |
+| **YULE-TREE-ADD-Yn** (one new decor / year) | **✓ Y2 madder bows Day 601** · stack on WINTER-TREE-1 |
 
 ---
 
@@ -310,7 +421,7 @@
 | **Bone / copper needles** | ✓ |
 | **Dyes** (mordant path) | ✓ **MORDANT-TRIAL-1** · **DYE-PANEL-1 ✓ Day 493** · **DYE-WOAD-1 + DYE-MADDER-1 marked** |
 | **WOAD-VAT-1** (blue) | · **summer leaf trial @ DYE-WOAD-1** |
-| **MADDER-DIG-1** (red-orange) | · **autumn root @ DYE-MADDER-1** |
+| **MADDER-DIG-1** (red-orange) | **✓ Day 585 · ~115 g dry @ DYE-MADDER-1 · conservative dig** |
 | **VERDIGRIS-1** (Cu + vinegar patina) | **✓ scrape trial ~18 g Day 522** |
 | **CURTAIN-DYE-1** (verdigris + alum · LM-2) | **✓ Day 528** |
 | **LM-2 heddle v2** (pattern · faster shed) | ✓ **Day 377** · canvas trial strip |
@@ -324,8 +435,8 @@
 | **BEDDING-2 / PILLOW-1** | · straw tick now · down autumn |
 | **LM-3 wide beam** (canvas · blanket · bed panels) | · **after SET-A/B sprint · PROPER-BED class** |
 | **LOOM-WING-1** (dedicated bay · wing on H-v2 or v1) | · **stake post-LM-3 prep** |
-| **EXPED-SCOUT-1** (path clear · grade · first/last leg) | · **before COVERED-WAGON south** |
-| **BRIDGE-1** (stream crossings @ scout) | · **with EXPED-SCOUT** |
+| **EXPED-SCOUT-1** (path clear · grade · first/last leg) | **✓ Day 613 south T-2 ~4.5 km** |
+| **BRIDGE-1** (stream crossings @ scout) | **pin @ km 3 creek · build queued** |
 | **TRAP-CRAFT-2 · BOW-HUNT-2** | · **Tarsus calorie supplement** |
 | **BED-EXPAND-1** (Cal-Y3 sow · human + animal stock) | · **or slaughter goats @ age — no names** |
 | **Belt-driven spindle** (WW takeoff) | · Year 2 |
@@ -353,16 +464,16 @@
 | **CL-SOCK-2** (linen foot wrap · rotation) | **✓ Day 542** |
 | **CL-SOCK-3** (go-bag foot wrap) | **✓ Day 546** |
 | **BEDDING-SET-A** (pillowcase + sheet + purple blanket) | **✓ Day 562 · BLANKET-A-1 purple sandwich** |
-| **BEDDING-SET-B** (pillowcase + sheet + red blanket) | **~90% · BLANKET-B-1 ✓ undyed · madder autumn** |
+| **BEDDING-SET-B** (pillowcase + sheet + red blanket) | **✓ Day 586 · BLANKET-B-1 madder red-orange** |
 | **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ rugs Day 570 · rain sheets Day 580** |
-| **PROPER-BED-1** (frame · slats · mattress class) | **deferred · tools yes · space no · LM-3** |
+| **PROPER-BED-1** (oak frame · rope grid · linen/tow mattress) | **✓ Day 616 · BEDDING-SET-A on rope bed** |
 | **BLANKET-SANDWICH-1** (double panel + tow batting) | **✓ trial Day 548** |
-| **PILLOW-DOWN-1** (feather fill) | **deferred · HUNT-FEATHER post week 79** |
-| **CL-TUNIC-TIEDYE-1** (bind-resist · vibrant) | **deferred · MADDER-DIG-1 autumn** |
-| **CL-BREECH-2 / leg wrap** (full linen or leather leg) | · **beyond breechcloth** — brush · cold · dignity |
+| **PILLOW-DOWN-1** (feather fill) | **✓ Day 612 · ~120 g down · ~33 g contour reserve** |
+| **CL-TUNIC-TIEDYE-1** (bind-resist · vibrant) | **✓ Day 591 · iron · hull · grape · madder multi-dip** |
+| **CL-BREECH-2 / leg wrap** (full linen or leather leg) | **✓ CL-BREECH-2/3/4 rotation Day 593 · ×3 linen bands** |
 | **CL-CLOAK-1** (rain · cold trail · sleep wrap) | · linen canvas first · wool when flock |
 | **CL-SOCK-1** (linen foot wrap under shoe) | ✓ **Day 375** · worn under **BOOT-3** |
-| **BOOT-3 / trail boot** (SHOE-2 + third sole · heel cup) | ✓ **Day 375** · **full west loop PASS 378–381** · **EXPED primary** |
+| **BOOT-3 / trail boot** (SHOE-2 + third sole · heel cup) | ✓ **Day 375** · **BOOT-GRIP-1 ✓ Day 604** · **EXPED primary** |
 | **Caligae v1 backup** | ✓ **backup doctrine confirmed** — unused full loop |
 | **Trail wear kit doctrine** | ✓ **tunic under tabard · BOOT-3 · caligae backup · CL-SOCK-1** |
 | **Winter stack** (coat + cloak + fur · layered) | ~ **CL-COAT ✓** · rest queued |
@@ -669,20 +780,22 @@
 
 **Tier 0 — close loops:**
 
-1. **WINTER-STOCK-SPRINT** — **smoke · char · wood · feast clock**
-2. **MADDER-DIG-1** — **~Day 585+ · SET-B red @ autumn**
-3. **FALL-FLAX-STAKE** — **~Day 590 · thread ~15 m**
-5. **Farm scare** — **GREEN · hands-off except dawn**
+1. **ICE-HAUL-1** — **hard freeze week**
+2. **BRIDGE-1** · **EXPED** · **HOT-WATER-3** — **interleave**
+2. **ICE-HAUL-1** — **hard freeze week** *(melt slow — wait)*
+3. **BRIDGE-1** — **km 3 creek**
+4. **BRIDGE-1** — **km 3 creek before loaded wagon south**
+4. **Farm scare** — **fall flax watch · hands-off except dawn**
+5. **LATEX-SCOUT-1** — **fig sap @ spring prune**
 
 **Tier 1 — campus ROI:**
 
-6. **GOAT-FEEDER-1** — **hopper · hay chute**
-7. **PEN-FENCE-2 · PEN-DEFENSE-1** — **post-expand**
-8. **WAGON-TRAIN** — **empty → loaded T-2 loop**
+4. **PEN-FENCE-2 · PEN-DEFENSE-1** — **post-expand**
+5. **WAGON-TRAIN** — **empty → loaded T-2 loop**
 
 **Tier 2 — autumn / summer clocks:**
 
-9. **HUNT-FEATHER** — **PILLOW-DOWN-1 post bedding**
+9. **PILLOW-DOWN-1** — **✓ Day 612**
 
 **Tier 3 — haul (after team train):**
 

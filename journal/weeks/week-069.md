@@ -1,4 +1,4 @@
-# Week 69 summary
+# Week 69 (nice) summary
 
 **Days 477–483 · ~10,000 BC · Orontes valley**  
 **Home:** **H-v2** · **Respawn:** H-v2 bed  

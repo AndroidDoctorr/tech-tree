@@ -9,7 +9,9 @@ Rollups and benchmarks — not day-by-day logs.
 | **3** | 201–300 | [centadial-003.md](centadial-003.md) |
 | **4** | 301–400 | [centadial-004.md](centadial-004.md) |
 | **5** | 401–500 | [centadial-005.md](centadial-005.md) |
+| **6** | 501–600 | [centadial-006.md](centadial-006.md) |
 
-**Centadial** = one summary every **100 days** (*made-up but useful*).
+**Centadial** = one summary every **100 days** (*made-up but useful*).  
+**Recipes:** [food-menu.md](../../food-menu.md)
 
 Daily timeline: [index.md](../index.md)

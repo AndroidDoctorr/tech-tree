@@ -1,6 +1,6 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 582** · **Cal-Y2 D345** · **~20 days to feast eve (Day 602)***  
+*Last updated: **Day 616** · **Cal-Y3 D14** · **PROPER-BED ✓ · comfort week closed***  
 **Stock:** [inventory.md](inventory.md) · **Strategy:** [year-002-plan.md](year-002-plan.md) · **Sun seasons:** [sun-calendar.md](sun-calendar.md)
 
 ---
@@ -57,10 +57,10 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 
 | Check | Cadence | Trigger / look for | Last PASS |
 |-------|---------|-------------------|-----------|
-| **FARM-READ** | **Weekly** · spring–autumn | Emmer tillering · P-17 · fig C2 · GREEN/YELLOW/RED | **Day 578 YELLOW** |
-| **Char lane @ forge** | Weekly | Lane **~50 kg** class · pit banked · vault not drained for tiles | **Day 557 PIT-CHAR-31 ✓** |
-| **Wood pile 5** | Weekly | **~14 kg** class — low = pit/haul week | **Day 556** |
-| **Smoke / salt / parched** | Weekly pre-feast | Jerky · fish smoke · **PARCHED-1** draw | Winter prep **§4** |
+| **FARM-READ** | **Weekly** · spring–autumn | Emmer tillering · P-17 · fig C2 · GREEN/YELLOW/RED | **Day 584 fallow GREEN** |
+| **Char lane @ forge** | Weekly | Lane **~50 kg** class · pit banked · vault not drained for tiles | **Day 594 PIT-CHAR-34 ✓ · lane ~54 kg** |
+| **Wood pile 5** | Weekly | **~14 kg** class — low = pit/haul week | **Day 594 ~38 kg · on track** |
+| **Smoke / salt / parched** | Weekly pre-feast | Jerky · fish smoke · **PARCHED-1** draw | **Day 584 smoke cadence ✓** |
 | **Hay @ barn loft** | Biweekly | **~90 kg ~40% deck** — feeder build reduces waste | **Day 469** |
 | **Donkey train** | Post-haul | Hoof · girth · yoke rub · voice | **Day 561 TEAM-CART-25 ✓** |
 | **VERDIGRIS-TRAY-1** | **~2–4 wk** | Teal reserve · scrape or rebuild | **Day 547 rebuild d2** |
@@ -88,10 +88,10 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 |--------|----------|---------------|-------|----------|-------|
 | **Emmer harvest** | **~580–595** | **~D342–357** | Bed B south · sickle · thresh | **Hard** | **✓ Day 581** |
 | **P-17 harvest** | **~580–595** | **~D342–357** | Bed B north · pulse · seed save | **Hard** | **✓ Day 582 · ~240 g** |
-| **MADDER-DIG-1** | **~585–600** | **~D347–362** | Root dye · **SET-B red close** | **Hard** | Blanket undyed @ peg · bath @ v1 CHEM |
+| **MADDER-DIG-1** | **~585–600** | **~D347–362** | Root dye · **SET-B red close** | **Hard** | **✓ Day 585–586 · SET-B complete** |
 | **Fig / olive touch** | **~575–602** | **~D337–365** | Bed D prune · last fig leather pull | Soft | C2 lead · no hero |
-| **Fall flax sow** *(optional)* | **~590–602** | **~D352–365** | Bed A stubble or fallow strip | Soft | Only if line stock low — thread **~75 m** class OK |
-| **Winter stock sprint** | **~590–602** | **~D352–365** | Smoke · parched batch · salt · wood · char vault top-up | **Hard** | See §4 |
+| **Fall flax sow** | **~590–602** | **~D352–365** | **Bed B south strip** | **Soft→Hard** | **✓ Day 590 · ~18 g elite** |
+| **Winter stock sprint** | **~590–602** | **~D352–365** | Smoke · parched batch · salt · wood · char vault top-up | **Hard** | **In progress · PIT-CHAR-34 ✓ Day 594** |
 | **Feast eve / year close** | **602** | **D365** | **FEAST-602** · **YULE-BENCH-2** · Cal-Y3 opens D1 @ Day 603 | **Hard** | Compare plate to Day 237 |
 
 ### Cal-Y3 — horizon *(stake only)*

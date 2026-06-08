@@ -590,6 +590,40 @@
 | 580 | [day-580.md](days/week-083/day-580.md) | **W-1 · river** | **rain sheets ✓ · stone · bow practice** · **Cal-Y2 D343** |
 | 581 | [day-581.md](days/week-083/day-581.md) | **Bed B · barn pad** | **EMMER-HARVEST ✓ · thresh · Week 83 close** · **Cal-Y2 D344** |
 | 582 | [day-582.md](days/week-084/day-582.md) | **Bed B north · smoke rack** | **P-17-HARVEST ✓ · Week 84 open** · **Cal-Y2 D345** |
+| 583 | [day-583.md](days/week-084/day-583.md) | **char lane · smoke rack** | **PIT-CHAR-32 ✓ · stock sprint** · **Cal-Y2 D346** |
+| 584 | [day-584.md](days/week-084/day-584.md) | **v1 CHEM · Bed B** | **SET-B bath prep ✓ · fall flax stake** · **Cal-Y2 D347** |
+| 585 | [day-585.md](days/week-084/day-585.md) | **DYE-MADDER-1 · v1** | **MADDER-DIG-1 ✓ · roots dry** · **Cal-Y2 D348** |
+| 586 | [day-586.md](days/week-084/day-586.md) | **v1 CHEM · porch line** | **DYE-BLANKET-B ✓ · SET-B close · madder red** · **Cal-Y2 D349** |
+| 587 | [day-587.md](days/week-084/day-587.md) | **WW-YARD WHEEL** | **WHEEL-SPIN-8 ✓ · thread pull · tunic warp clear** · **Cal-Y2 D350** |
+| 588 | [day-588.md](days/week-084/day-588.md) | **W-1 · LM-2** | **CL-TUNIC-TIEDYE weave ~60% · day 1/2** · **Cal-Y2 D351** |
+| 589 | [day-589.md](days/week-085/day-589.md) | **W-1 · LM-2** | **CL-TUNIC-TIEDYE blank ✓ · Week 85 open** · **Cal-Y2 D352** |
+| 590 | [day-590.md](days/week-085/day-590.md) | **Bed B south · v1 CHEM** | **FALL-FLAX-SOW ✓ · tunic mordant prep** · **Cal-Y2 D353** |
+| 591 | [day-591.md](days/week-085/day-591.md) | **v1 CHEM · porch** | **CL-TUNIC-TIEDYE ✓ · bind-resist multi-dip** · **Cal-Y2 D354** |
+| 592 | [day-592.md](days/week-085/day-592.md) | **W-1 · river margin** | **BARREL-3 ~80% · BIRD-HUNT ✓** · **Cal-Y2 D355** |
+| 593 | [day-593.md](days/week-085/day-593.md) | **W-1 · LM-2** | **CL-BREECH ×3 ✓ · BARREL-3 ✓** · **Cal-Y2 D356** |
+| 594 | [day-594.md](days/week-085/day-594.md) | **char lane · barn pen** | **PIT-CHAR-34 ✓ · GOAT-FEEDER-1 ✓** · **Cal-Y2 D357** |
+| 595 | [day-595.md](days/week-085/day-595.md) | **WW-YARD WHEEL** | **WHEEL-SPIN-9 ✓ · line flax depleted** · **Cal-Y2 D358** |
+| 596 | [day-596.md](days/week-086/day-596.md) | **campus · river** | **YULE-BENCH-2 prep ✓ · BIRD-HUNT-2 · Week 86 open** · **Cal-Y2 D359** |
+| 597 | [day-597.md](days/week-086/day-597.md) | **char lane · river** | **PIT-CHAR-35 ✓ · STOCK-SPRINT · BIRD-HUNT-3** · **Cal-Y2 D360** |
+| 598 | [day-598.md](days/week-086/day-598.md) | **S-03 · porch · Bed D** | **SALT-3 · JERKY-2 · COOL-CELLAR-2-EVAP filed** · **Cal-Y2 D361** |
+| 599 | [day-599.md](days/week-086/day-599.md) | **porch · v1 · kitchen** | **SALT-3 ✓ · JERKY-2 ✓ · FEAST-PREP staged** · **Cal-Y2 D362** |
+| 600 | [day-600.md](days/week-086/day-600.md) | **kitchen · C-0** | **FEAST-COOK-600 ✓ · [food-menu.md](../food-menu.md) · [Centadial 6](summaries/centadial-006.md)** · **Cal-Y2 D363** |
+| 601 | [day-601.md](days/week-086/day-601.md) | **ante · kitchen** | **WINTER-TREE-2 ✓ · YULE-TREE-ADD-Y2 · FEAST-COOK-601** · **Cal-Y2 D364** |
+| 602 | [day-602.md](days/week-086/day-602.md) | **C-0 · H-v2 ante** | **FEAST-602 ✓ · YULE-BENCH-2 · SUN-YULE-602 · Cal-Y2 close** · **Cal-Y2 D365** |
+| 603 | [day-603.md](days/week-087/day-603.md) | **H-v2 north · W-1** | **Cal-Y3 D1 · COOL-CELLAR stake · BOOT-GRIP · LATEX-SCOUT** |
+| 604 | [day-604.md](days/week-087/day-604.md) | **FORGE-D** | **BOOT-GRIP-1 ✓ · IRON-SPADE-1 ✓** · **Cal-Y3 D2** |
+| 605 | [day-605.md](days/week-087/day-605.md) | **forge · north margin** | **IRON-PICK-1 ✓ · COOL-CELLAR depth ~2.6 m · RING-6 · AIR-ZIGZAG-7** · **Cal-Y3 D3** |
+| 606 | [day-606.md](days/week-087/day-606.md) | **north margin** | **COOL-CELLAR lintel ✓ · straw tick ✓ · vent ~55%** · **Cal-Y3 D4** |
+| 607 | [day-607.md](days/week-087/day-607.md) | **north margin** | **COOL-CELLAR berm ✓ · vent ✓ · night damper ✓** · **Cal-Y3 D5** |
+| 608 | [day-608.md](days/week-087/day-608.md) | **north margin** | **COOL-CELLAR hatch ✓ · double airlock ✓** · **Cal-Y3 D6** |
+| 609 | [day-609.md](days/week-087/day-609.md) | **north margin · aqueduct** | **RING-6 ✓ · AIR-ZIGZAG-7 ✓** · **Cal-Y3 D7** |
+| 610 | [day-610.md](days/week-088/day-610.md) | **north margin** | **Week 88 · RACK ✓ · EVAP trough ✓ · cellar complete** · **Cal-Y3 D8** |
+| 611 | [day-611.md](days/week-088/day-611.md) | **EXPED NE ridge** | **ICE-SCOUT-1 ✓ · ICE-ROUTE-1 · ice sample** · **Cal-Y3 D9** |
+| 612 | [day-612.md](days/week-088/day-612.md) | **cellar · H-v2** | **ICE-VAULT pack ✓ · PILLOW-DOWN-1 ✓** · **Cal-Y3 D10** |
+| 613 | [day-613.md](days/week-088/day-613.md) | **T-2 south EXPED** | **EXPED-SCOUT ✓ · bed + hot-water plan** · **Cal-Y3 D11** |
+| 614 | [day-614.md](days/week-088/day-614.md) | **kitchen porch** | **HOT-WATER-1 ✓ · SHOWER-2 warm rinse** · **Cal-Y3 D12** |
+| 615 | [day-615.md](days/week-088/day-615.md) | **porch · H-v2** | **SHOWER-2 ✓ · PROPER-BED frame · upgrade slates** · **Cal-Y3 D13** |
+| 616 | [day-616.md](days/week-088/day-616.md) | **H-v2** | **PROPER-BED-1 ✓ · SET-A · down pillow · good sleep** · **Cal-Y3 D14** |
 
 ## Centadials (every 100 days)
 
@@ -600,8 +634,9 @@
 | **3** | 201–300 | [centadial-003.md](summaries/centadial-003.md) |
 | **4** | 301–400 | [centadial-004.md](summaries/centadial-004.md) |
 | **5** | 401–500 | [centadial-005.md](summaries/centadial-005.md) |
+| **6** | 501–600 | [centadial-006.md](summaries/centadial-006.md) |
 
-See [summaries/README.md](summaries/README.md).
+See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md)
 
 ## Weeks
 
@@ -690,7 +725,11 @@ See [summaries/README.md](summaries/README.md).
 | 81 | [week-081.md](weeks/week-081.md) | 561–567 | **SET-A ✓ · header · wagon arch · barrel start** *(closed Day 567)* |
 | 82 | [week-082.md](weeks/week-082.md) | 568–574 | **Barrel pair · rugs · pressure · WAGON-LOAD-25** *(closed Day 574)* |
 | 83 | [week-083.md](weeks/week-083.md) | 575–581 | **Harvest prep · shower · emmer Y2** *(closed Day 581)* |
-| 84 | [week-084.md](weeks/week-084.md) | 582+ | **P-17 · winter stock · feast clock** *(opens Day 582)* |
+| 84 | [week-084.md](weeks/week-084.md) | 582–588 | **P-17 · madder · SET-B · spin** *(closed Day 588)* |
+| 85 | [week-085.md](weeks/week-085.md) | 589–595 | **Tie-dye · fall flax · feast clock** *(closed Day 595)* |
+| 86 | [week-086.md](weeks/week-086.md) | 596–602 | **YULE-BENCH-2 · FEAST-602 · Cal-Y2 close** *(closed Day 602)* |
+| 87 | [week-087.md](weeks/week-087.md) | 603–609 | **COOL-CELLAR build sprint** *(closed Day 609)* |
+| 88 | [week-088.md](weeks/week-088.md) | 610+ | **Cellar finish · ice scout** *(opens Day 610)* |
 
 ## Day folders
 

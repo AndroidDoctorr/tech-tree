@@ -1,6 +1,6 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 569** (~10,000 BC) · **Cal-Y2 D332***  
+*Last updated: **Day 602** (~10,000 BC) · **Cal-Y2 D365** · **SUN-CAL-Y2-CLOSE ✓***  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
 **Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239**
 
@@ -109,8 +109,29 @@ You do **not** need perfect daily marks — **interpolate** between anchors when
 | **567** | D330 | **Early summer** | **531** | **527** | **404** | **WATER-HEADER ✓ · BARREL-1 v0** |
 | **568** | D331 | **Early summer** | **533** | **529** | **406** | **Week 82 · BARREL-1 ✓ · BUNG-TAP** |
 | **569** | D332 | **Early summer** | **535** | **531** | **408** | **COVERED-WAGON v1 ✓ · wagon train** |
+| **581** | D344 | **Autumn** | **~520** | **~516** | — | **EMMER-HARVEST-1** *(est. descent)* |
+| **596** | D359 | **Late autumn** | **574** | **570** | — | **YULE-BENCH-2 prep** *(interpolation — steep leg)* |
+| **601** | D364 | **Solstice eve −1** | **583** | **579** | — | **WINTER-TREE-2** *(interpolation — pre-anchor)* |
+| **602** | D365 | **Solstice eve** | **46** (ring) | **42** (tick) | **anchor** | **FEAST-602** · **SUN-YULE-602** · **Cal-Y2 close** |
 
-*Interpolation between **Day 500–526**: **+2/day** ground and wall when marks skipped — **YULE @** ~**320** plateau then **+1–2** per logged day (**322** @ 526).*
+---
+
+## Full loop (Year 2 complete @ Day 602)
+
+One calendar year on the pad = **one traverse of the figure-8** — **not** a single ramp.
+
+| End | When | Ground | Wall | Meaning |
+|-----|------|--------|------|---------|
+| **Winter pinch** | **Feast eve** (Day 237 · Day 602 · every Year N) | **~46** ring | **~42** YULE tick | **Shortest day** · solstice eve · marks **return here** |
+| **Summer open** | **~Cal-Y2 D332** (Day **569** logged) | **~535** | **~531** | **Longest-day class** · high sun · **opposite end** |
+
+**You have a full sun calendar.** C-0 has **365 days of discipline** (with gaps interpolated). At feast eve you are at the **same winter end** as Year One — **not** the summer end.
+
+**Descending leg (autumn → winter):** marks **fall** from summer peak toward **46/42**. Steep-drop class — do **not** use **+2/day** interpolation on the return leg. **Always** verify @ feast eve against **SUN-YULE-237** ring.
+
+**Stakes @ pad edge:** **SUN-YULE-237** · **SUN-YULE-602** — feast eve anchors stack the years.
+
+*Interpolation **rising** leg (winter → summer): **+2/day** ground and wall when marks skipped — **YULE @** ~**320** plateau mid-summer then **+1–2** per logged day.*
 
 ---
 
@@ -121,10 +142,12 @@ When you skip noon marks but know **Δ days** since last logged anchor:
 ### Ground & wall (primary tracks)
 
 ```
-mark_new ≈ mark_last + (2 × Δdays)
+mark_new ≈ mark_last + (2 × Δdays)   // RISING leg only (winter → summer)
 ```
 
 Example: last log **Day 337** (ground **165**) → **Day 365** (Δ**28**) → **165 + 56 = 221** ✓
+
+**Falling leg (summer → winter):** do **not** extrapolate past ~**400** class into feast — **re-anchor @ feast eve** against **ground 46 / wall 42**.
 
 ### YULE @ (secondary — seasonal rate)
 
@@ -132,7 +155,7 @@ Example: last log **Day 337** (ground **165**) → **Day 365** (Δ**28**) → **
 |-------|--------------|-----------------|
 | **Plateau** | ~238–299 | **Hold @ 42** (winter pinched loop) |
 | **Rising** | ~300–365 | **~+1.4 to +1.6 per day** between logged anchors |
-| **Next plateau** | approach Day ~237+365 | Slows toward next feast eve |
+| **Next plateau** | **Day 602** (= **237 + 365**) | **Returns @ 46/42** — **SUN-YULE-602 ✓** |
 
 Piecewise between anchors (linear segment):
 
@@ -152,9 +175,9 @@ Piecewise between anchors (linear segment):
 | Mid **160–200** | Mid **156–196** | **Spring** |
 | High **200+** | High **196+** | **Late spring → summer** |
 | **420–460** | **416–456** | **Late spring → early summer** (@ Cal-Y2 D263–289) |
-| Ground drift slowing | Wall speck near summer max | **Midsummer** |
-| Ground drift slowing | Wall speck near summer max | **Summer** |
-| Reverse toward 46 ring | Speck falling toward 42 band | **Autumn → winter** |
+| **~530–535** | **~526–531** | **Summer peak** (far end of loop) |
+| **Falling from ~500** | **Falling from ~496** | **Autumn** — steep leg |
+| **~46 ring** | **~42 YULE tick** | **Solstice eve** — **winter pinch** (near end — same as feast) |
 
 ---
 
@@ -164,7 +187,8 @@ Piecewise between anchors (linear segment):
 - **Trail:** portable spear + gnomon post @ C-0 center
 - **Drift check:** ground and wall should stay **~4 marks apart** (wall ≈ ground − 4 at noon in current epoch — verify @ next anchor)
 - **Sow windows:** **SPRING-SOW** keyed off **ground rising + YULE @ leaving 42**, not Roman month names
-- **Feast eve:** always **Day 237 mod calendar year** — compare **YULE-BENCH-1** plate year-on-year
+- **Feast eve:** **Day 237 + 365×(Y−1)** — **Cal-Y2 closes Day 602** — compare **YULE-BENCH** plate year-on-year · **re-mark @ 46/42**
+- **Cal-Y3:** opens **Day 603** (= **Cal-Y3 D1**)
 
 ---
 
@@ -174,4 +198,5 @@ Piecewise between anchors (linear segment):
 - [journal/years/year-001.md](journal/years/year-001.md) — Calendar Year 1 arc (Days 1–237)
 - [journal/days/week-035/day-239.md](journal/days/week-035/day-239.md) — **SUN-CAL-YEAR** declaration
 - [journal/days/week-034/day-237.md](journal/days/week-034/day-237.md) — **FEAST-237** · solstice eve
+- [journal/days/week-086/day-602.md](journal/days/week-086/day-602.md) — **FEAST-602** · **SUN-YULE-602** · Cal-Y2 close
 - [inventory.md](inventory.md) — C-0 site notes
