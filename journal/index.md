@@ -624,6 +624,20 @@
 | 614 | [day-614.md](days/week-088/day-614.md) | **kitchen porch** | **HOT-WATER-1 ✓ · SHOWER-2 warm rinse** · **Cal-Y3 D12** |
 | 615 | [day-615.md](days/week-088/day-615.md) | **porch · H-v2** | **SHOWER-2 ✓ · PROPER-BED frame · upgrade slates** · **Cal-Y3 D13** |
 | 616 | [day-616.md](days/week-088/day-616.md) | **H-v2** | **PROPER-BED-1 ✓ · SET-A · down pillow · good sleep** · **Cal-Y3 D14** |
+| 617 | [day-617.md](days/week-089/day-617.md) | **pit · FORGE-D** | **Week 89 IRON · PIT-CHAR-36 · IRON-BLOOM-17 ✓** · **Cal-Y3 D15** |
+| 618 | [day-618.md](days/week-089/day-618.md) | **pit · FORGE-D** | **PIT-CHAR-37 · IRON-BLOOM-18 ✓ · peg ~340 g** · **Cal-Y3 D16** |
+| 619 | [day-619.md](days/week-089/day-619.md) | **FORGE-D** | **ANVIL-1 mass weld Day 1 ✓ · ~1.18 kg block** · **Cal-Y3 D17** |
+| 620 | [day-620.md](days/week-089/day-620.md) | **FORGE-D · pit** | **ANVIL-1 ✓ · PIT-CHAR-38 · vault draw** · **Cal-Y3 D18** |
+| 621 | [day-621.md](days/week-089/day-621.md) | **Kiln C · FORGE-D** | **SMELT-22 · CU-BUCKET-1 ✓** · **Cal-Y3 D19** |
+| 622 | [day-622.md](days/week-089/day-622.md) | **CART-YARD · FORGE-D** | **BLOOM-19 · CART-HUB-COLLAR-SB ~60%** · **Cal-Y3 D20** |
+| 623 | [day-623.md](days/week-089/day-623.md) | **FORGE-D · CART-YARD** | **CART-HUB-COLLAR-SB-1 ✓ · roll PASS** · **Cal-Y3 D21** |
+| 624 | [day-624.md](days/week-090/day-624.md) | **FORGE-D** | **Week 90 · BLOOM-20 · PT collar ~60%** · **Cal-Y3 D22** |
+| 625 | [day-625.md](days/week-090/day-625.md) | **FORGE-D · CART-YARD · pit** | **PT collar ✓ · hub pair · PIT-CHAR-39** · **Cal-Y3 D23** |
+| 626 | [day-626.md](days/week-090/day-626.md) | **T-1 · pile 5** | **CART-WOOD-HAUL-14 ✓ · pile 5 restored** · **Cal-Y3 D24** |
+| 627 | [day-627.md](days/week-090/day-627.md) | **pit · FORGE-D** | **PIT-CHAR-40 · IRON-BLOOM-21 ✓** · **Cal-Y3 D25** |
+| 628 | [day-628.md](days/week-090/day-628.md) | **FORGE-D · CART-YARD** | **CART-IRON-1 ✓ · bed fittings** · **Cal-Y3 D26** |
+| 629 | [day-629.md](days/week-090/day-629.md) | **pit · FORGE-D** | **PIT-CHAR-41 · BLOOM-22 · tool slate** · **Cal-Y3 D27** |
+| 630 | [day-630.md](days/week-090/day-630.md) | **pit · FORGE-D** | **PIT-CHAR-42 · BLOOM-23 · tongs queued** · **Cal-Y3 D28** |
 
 ## Centadials (every 100 days)
 
@@ -729,7 +743,9 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 85 | [week-085.md](weeks/week-085.md) | 589–595 | **Tie-dye · fall flax · feast clock** *(closed Day 595)* |
 | 86 | [week-086.md](weeks/week-086.md) | 596–602 | **YULE-BENCH-2 · FEAST-602 · Cal-Y2 close** *(closed Day 602)* |
 | 87 | [week-087.md](weeks/week-087.md) | 603–609 | **COOL-CELLAR build sprint** *(closed Day 609)* |
-| 88 | [week-088.md](weeks/week-088.md) | 610+ | **Cellar finish · ice scout** *(opens Day 610)* |
+| 88 | [week-088.md](weeks/week-088.md) | 610–616 | **Cellar · shower · proper bed** *(closed Day 616)* |
+| 89 | [week-089.md](weeks/week-089.md) | 617–623 | **Iron week — anvil · bucket · cart SB** *(closed Day 623)* |
+| 90 | [week-090.md](weeks/week-090.md) | 624+ | **Smelt week — bloom · CART-IRON finish** *(opens Day 624)* |
 
 ## Day folders
 

@@ -1,11 +1,42 @@
 # Advancements
 
-*Last audited: **Day 552** (~10,000 BC)*
+*Last audited: **Day 630** (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md)
 
 ## Summary
 
+**Day 630 · Cal-Y3 D28:** **IRON-BLOOM-23 ✓ · IRON-TONGS-2 queued**
+**Day 629 · Cal-Y3 D27:** **IRON-BLOOM-22 ✓ · tool backup slate**
+**Day 628 · Cal-Y3 D26:** **CART-IRON-1 ✓ · CART-BED-IRON-1**
+**Day 627 · Cal-Y3 D25:** **PIT-CHAR-40 · IRON-BLOOM-21 ✓ · peg ~259 g**
+**Day 626 · Cal-Y3 D24:** **CART-WOOD-HAUL-14 ✓ · pile 5 ~38 kg**
+**Day 625 · Cal-Y3 D23:** **CART hub collar pair ✓ · PIT-CHAR-39**
+**Day 624 · Cal-Y3 D22:** **Week 90 SMELT · IRON-BLOOM-20 · PT collar ~60%**
+**Day 623 · Cal-Y3 D21:** **CART-HUB-COLLAR-SB-1 ✓ · CART-IRON-1 ~50%**
+**Day 622 · Cal-Y3 D20:** **CART-IRON-1 ~35% · CART-HUB-COLLAR-SB-1 ~60%**
+**Day 621 · Cal-Y3 D19:** **SMELT-22 ✓ · CU-BUCKET-1 ✓ · METAL-BUCKET-1 cu leg**
+**Day 620 · Cal-Y3 D18:** **ANVIL-1 ✓ · hardy · full horn · FORGE-UPGRADE-1 anvil leg**
+**Day 619 · Cal-Y3 D17:** **ANVIL-1 mass weld Day 1 ✓ · ~1.18 kg · half horn**
+**Day 618 · Cal-Y3 D16:** **IRON-BLOOM-18 ✓ · peg ~340 g · CU-BUCKET path**
+**Day 617 · Cal-Y3 D15:** **Week 89 IRON · PIT-CHAR-36 · IRON-BLOOM-17 ✓**
+**Day 616 · Cal-Y3 D14:** **PROPER-BED-1 ✓ · SET-A on rope bed · first good night**
+**Day 615 · Cal-Y3 D13:** **SHOWER-2 ✓ · PROPER-BED ~55% · upgrade queues filed**
+**Day 614 · Cal-Y3 D12:** **HOT-WATER-1 ✓ · SHOWER-2 warm rinse PASS**
+**Day 613 · Cal-Y3 D11:** **EXPED-SCOUT-1 ✓ · PROPER-BED + HOT-WATER-1 doctrine**
+**Day 612 · Cal-Y3 D10:** **ICE-VAULT packed ✓ · PILLOW-DOWN-1 ✓**
+**Day 611 · Cal-Y3 D9:** **ICE-SCOUT-1 ✓ · ICE-ROUTE-1 · ~3.2 kg ICE-VAULT trial**
+**Day 610 · Cal-Y3 D8:** **Week 88 · COOL-CELLAR-1 complete — RACK · EVAP trough ✓**
+**Day 609 · Cal-Y3 D7:** **COOL-CELLAR-1 operational — RING-6 · AIR-ZIGZAG-7 ✓**
+**Day 608 · Cal-Y3 D6:** **COOL-CELLAR hatch ✓ · double airlock ✓**
+**Day 607 · Cal-Y3 D5:** **COOL-CELLAR shell ✓ — berm · vent · night damper**
+**Day 606 · Cal-Y3 D4:** **COOL-CELLAR lintel ✓ · straw tick ✓ · vent stack ~55%**
+**Day 605 · Cal-Y3 D3:** **IRON-PICK-1 ✓ · COOL-CELLAR depth ~2.6 m · RING-6 · AIR-ZIGZAG-7**
+**Day 604 · Cal-Y3 D2:** **BOOT-GRIP-1 ✓ · IRON-BLOOM-16 · IRON-SPADE-1 ✓**
+**Day 603 · Cal-Y3 D1:** **COOL-CELLAR-1 staked · BOOT-GRIP-1 trial · LATEX-SCOUT-1 filed**
+**Day 602 · Cal-Y2 D365:** **FEAST-602 ✓ · YULE-BENCH-2 ✓ · SUN-YULE-602 · Cal-Y2 close**
+**Day 601 · Cal-Y2 D364:** **WINTER-TREE-2 ✓ · YULE-TREE-ADD-Y2 · FEAST-COOK-601**
+**Day 600 · Cal-Y2 D363:** **FEAST-COOK-600 ✓ · food-menu.md · Centadial 6 filed**
 **Day 569 · Cal-Y2 D332:** **COVERED-WAGON-1 v1 ✓ · WAGON-TRAIN empty covered PASS**
 **Day 568 · Cal-Y2 D331:** **Week 82 opens · BARREL-1 ✓ · BUNG-TAP-1 ✓ · swell PASS**
 **Day 567 · Cal-Y2 D330:** **WATER-HEADER-BOX ✓ · BARREL-1 v0 ~75% · COOPERAGE trial**
@@ -65,23 +96,6 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 **Day 513 · Cal-Y2 D276:** **FLOOR-TILE-FIRE-4 · TILE-PRESS-FLOOR-4 · KITCHEN-WINDOW + close checklist**
 **Day 512 · Cal-Y2 D275:** **Week 74 opens · FLOOR-TILE-FIRE-3 · TILE-PRESS-FLOOR-3 · aqueduct week filed**
 **Day 511 · Cal-Y2 D274:** **FLOOR-TILE-FIRE-2 · TILE-SLIP-TRIAL PASS · Layout C checker locked**
-**Day 616 · Cal-Y3 D14:** **PROPER-BED-1 ✓ · SET-A on rope bed · first good night**
-**Day 615 · Cal-Y3 D13:** **SHOWER-2 ✓ · PROPER-BED ~55% · upgrade queues filed**
-**Day 614 · Cal-Y3 D12:** **HOT-WATER-1 ✓ · SHOWER-2 warm rinse PASS**
-**Day 613 · Cal-Y3 D11:** **EXPED-SCOUT-1 ✓ · PROPER-BED + HOT-WATER-1 doctrine**
-**Day 612 · Cal-Y3 D10:** **ICE-VAULT packed ✓ · PILLOW-DOWN-1 ✓**
-**Day 611 · Cal-Y3 D9:** **ICE-SCOUT-1 ✓ · ICE-ROUTE-1 · ~3.2 kg ICE-VAULT trial**
-**Day 610 · Cal-Y3 D8:** **Week 88 · COOL-CELLAR-1 complete — RACK · EVAP trough ✓**
-**Day 609 · Cal-Y3 D7:** **COOL-CELLAR-1 operational — RING-6 · AIR-ZIGZAG-7 ✓**
-**Day 608 · Cal-Y3 D6:** **COOL-CELLAR hatch ✓ · double airlock ✓**
-**Day 607 · Cal-Y3 D5:** **COOL-CELLAR shell ✓ — berm · vent · night damper**
-**Day 606 · Cal-Y3 D4:** **COOL-CELLAR lintel ✓ · straw tick ✓ · vent stack ~55%**
-**Day 605 · Cal-Y3 D3:** **IRON-PICK-1 ✓ · COOL-CELLAR depth ~2.6 m · RING-6 · AIR-ZIGZAG-7**
-**Day 604 · Cal-Y3 D2:** **BOOT-GRIP-1 ✓ · IRON-BLOOM-16 · IRON-SPADE-1 ✓**
-**Day 603 · Cal-Y3 D1:** **COOL-CELLAR-1 staked · BOOT-GRIP-1 trial · LATEX-SCOUT-1 filed**
-**Day 602 · Cal-Y2 D365:** **FEAST-602 ✓ · YULE-BENCH-2 ✓ · SUN-YULE-602 · Cal-Y2 close**
-**Day 601 · Cal-Y2 D364:** **WINTER-TREE-2 ✓ · YULE-TREE-ADD-Y2 · FEAST-COOK-601**
-**Day 600 · Cal-Y2 D363:** **FEAST-COOK-600 ✓ · food-menu.md · Centadial 6 filed**
 **Day 599 · Cal-Y2 D362:** **FEAST-PREP-599 ✓ · SALT-3 · JERKY-2 · leathers topped**
 **Day 598 · Cal-Y2 D361:** **COOL-CELLAR-2-EVAP filed · SALT-3 · JERKY-2 start**
 **Day 597 · Cal-Y2 D360:** **PIT-CHAR-35 ✓ · STOCK-SPRINT-597 ✓ · BIRD-HUNT-3 ✓**
@@ -118,7 +132,7 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 | | |
 |--|--|
 | **Iron shop** | Weld · blooms #1–14 · **axe · adze · chisel · wood-chisel · wedge · nails · hammer · tongs · sickle ✓** |
-| **Anvil** | **ANVIL-MASS-1 ✓** (face + block) · **ANVIL-1** full block ~queued |
+| **Anvil** | **ANVIL-1 ✓** (~1.22 kg · hardy · full horn) · **ANVIL-MASS-1** superseded |
 | **Wire path** | **DRAWPLATE ✓ · WIRE-DRY-1 ✓ · ~2.6 m vaulted** |
 | **Magnetite** | **M-22-UP body ✓ · ~2.4 kg @ pile 4 · repeat-haul marked** |
 | **Char doctrine** | Vault = iron insurance · **draw authorized Day 367** · pit = routine |
@@ -128,7 +142,7 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 | **Barn iron** | **×4 strap hinges mounted** · **iron latch ✓** · **BARN-PITCH ✓ Day 495** |
 | **Dye plants** | **DYE-PANEL-1 ✓ home palette** · **woad + madder marked** · **vat/dig seasonal** |
 | **Harvest** | **IRON-SICKLE-1 ✓** — emmer/flax cut class |
-| **Cal-Y3** | **ANVIL-MASS-1 ✓** · **steel = pack path not new forge** · **CART-IRON queued** |
+| **Cal-Y3** | **ANVIL-1 ✓** · **CART-IRON-1 ✓** · **CU-BUCKET-1 ✓** |
 
 ## Key tools @ Day 378
 

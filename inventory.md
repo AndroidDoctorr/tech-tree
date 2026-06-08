@@ -1,10 +1,10 @@
 # Inventory
 
-*Last audited: **Day 616** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography.*
+*Last audited: **Day 630** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography.*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y2 D358** · **Week 85 · GOAT-FEEDER-1 ✓ · line flax depleted · feast ~7 days**
+**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y3 D28** · **Week 90 SMELT · ANVIL-1 ✓ · CU-BUCKET-1 ✓ · CART-IRON-1 ✓ · IRON-TONGS-2 queued · H-11 low (~2.15 kg)**
 
 ### COAST-1 ✓ complete (Day 202) — haul stored @ home
 
@@ -207,7 +207,7 @@
 | **Emmer bulk (EMMER-Y2-581)** | **~1.75 kg** | **Day 581 Bed B south · @ v1 dry shelf / basket #5** |
 | **Threshed grain** | **~25 g** | batch #6 Day 182 — legacy small lot |
 | **Elite seed** | **~147 g** class | **+EMMER-ELITE-Y2 ~92 g Day 581 · prior lines** |
-| **Malachite ore (O-1)** | **~15.4 kg** class | **−~2.4 kg SMELT-21 Day 497** |
+| **Malachite ore (O-1)** | **~11.6 kg** class | **−~3.8 kg SMELT-22 Day 621** |
 | **Quicklime (dry)** | **~0.51 kg** | **−~0.04 kg KITCHEN-WHITEWASH-1 Day 518** |
 | **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class |
 | **Parched grain (PARCHED-1)** | **~1.7 kg** | **−~200 g FEAST-COOK-600 · winter target met** |
@@ -261,12 +261,12 @@
 
 | Location | Qty | Notes |
 |----------|-----|--------|
-| **Store C** (vault) | **~55.8 kg class** | **−~9.2 kg VAULT-DRAW Day 484 · hold Day 485** |
+| **Store C** (vault) | **~38.3 kg class** | **−~7.3 kg VAULT-DRAW-624 bloom + PT collar Day 624** |
 | **CHAR lane overflow** | **~60 kg** class | **+~6.2 kg PIT-CHAR-35 Day 597** |
 | **Pit B-58** | **banked Day 466** | **PIT-CHAR-10 Day 466** |
-| **Pile 5** (wood) | **~30 kg** class | **−~8 kg PIT-CHAR-35 Day 597** |
+| **Pile 5** (wood) | **~20 kg** class | **−~6 kg PIT-CHAR-42 Day 630** |
 | **CART-YARD timber** | **×1 straight oak ~4.2 m reserve** | **×2 → WAGON-ARCH ribs Day 566 · ridge from billet** |
-| **Pit B-81** | **banked Day 557** | **PIT-CHAR-31 ✓ · B-83 staked** |
+| **Pit B-89** | **spent Day 630** | **PIT-CHAR-42 ✓ · B-90 staked** |
 | **KITCHEN-THATCH** (pile 2) | **spent** | **roof ✓ Day 506 · ~0.2 kg scrap** |
 | **KITCHEN-WOOD** (staged) | **×4 billets** | **@ stake + pile 5 tag** |
 | **BARN shake stock** | **×0 @ pile 9 · ×109 laid (×56 N · ×53 S)** | **SHAKE-ROOF skin ✓ · BARN-PITCH ✓ Day 495** |
@@ -313,15 +313,19 @@
 | **Floor stones (FS)** | **×2 flakes ~1.4 kg** @ pile 4 | **−2 dressed Day 580 STONE-CUT · chips → grog** |
 | **Limestone / calcite (pile 7)** | **~51 kg** class | **+~4.2 kg CART-GLEAN-492 Day 492** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
-| **Copper peas (stock)** | **~28 g** class | **−~8 g BUNG-TAP-2 Day 573** |
-| **Charcoal Store C** | *(see Store C + CHAR lane)* | **~55.8 kg vault + ~40.8 kg lane ≈ ~97 kg @ home** |
+| **Copper peas (stock)** | **~12 g scrap** | **SMELT-22 + CU-BUCKET-1 Day 621** |
+| **CU-BUCKET-1** | **✓ ~128 g · ~3.8 L** | **Raised copper · riveted seam · bail · @ CART-YARD peg · leak PASS Day 621** |
+| **Charcoal Store C** | *(see Store C + CHAR lane)* | **~38.3 kg vault + ~29 kg lane ≈ ~67 kg @ home** |
 | **M-07 camp stain** | sample | Distinct from **O-1** |
 | **Chert cobbles (pile 5)** | **~18+** | **S-02 resupply Day 121**; go-bag stocked |
 | **Turquoise / scout chips** | small | Marked samples in dry shelf |
-| **H-11 hematite (O-IRON-1)** | **~6.70 kg** | **−~650 g IRON-BLOOM-16 Day 604** @ pile 4 · **hold doctrine** |
+| **H-11 hematite (O-IRON-1)** | **~2.15 kg** | **−~650 g IRON-BLOOM-23 Day 630** @ pile 4 · **hold doctrine · haul soon** |
 | **IRON-AXE-1** | **✓ ~340 g head · ash haft** | **Day 352 · wood trial PASS @ pile 5** |
 | **IRON-ADZE-1** | **✓ ~115 g · ash haft** | **Day 358 · batten face trial PASS** |
-| **Iron bloom stock** | **~8 g curl @ peg** | **IRON-BLOOM-16 tail spent → IRON-PICK-1 Day 605** |
+| **Iron bloom stock** | **~430 g @ peg** | **IRON-BLOOM-23 ✓ · IRON-TONGS-2 queued Day 631** |
+| **CART-BED-IRON-1** | **✓** | **×4 corner straps · tongue clevis + washers · Day 628** |
+| **CART-HUB-COLLAR-PT-1** | **✓ ~70 g** | **Port hub · mounted Day 625 · dual-hub roll PASS** |
+| **CART-HUB-COLLAR-SB-1** | **✓ ~72 g** | **Starboard hub · mounted Day 623 · spin + roll PASS** |
 | **IRON-HOE-1** | **✓ ~142 g head · ash ~1.1 m** | **Day 577 @ millhouse farm peg · CU-HOE-1 backup** |
 | **IRON-SPADE-1** | **✓ ~178 g scoop head · ash ~1.15 m** | **Day 604 @ WORKBENCH-1 peg · cellar dig** |
 | **IRON-PICK-1** | **✓ ~162 g pick/adze head · ash ~0.95 m** | **Day 605 @ WORKBENCH-1 peg · stiff clay + ring dig** |
@@ -335,10 +339,10 @@
 | **IRON-HAMMER-1** | **✓ ~195 g head · ash haft** | **Day 367 · metal-on-metal PASS @ ANVIL-FACE-1** |
 | **Iron bar (IRON-BAR-1)** | **~5 g** curl scrap | **−~6 g IRON-NAILS-5 Day 441 · fold remainder @ slag** |
 | **IRON-WEDGE-1** | **✓ ~95 g · oak haft** | **Day 354 @ WORKBENCH-1 peg** |
-| **IRON-NAILS-1** | **×33** | **+×15 IRON-NAILS-8 Day 491** |
+| **IRON-NAILS-1** | **×25** | **−×8 CART-BED-IRON-1 mount Day 628** |
 | **IRON-SICKLE-1** | **✓ ~108 g head · ash haft** | **Day 491 @ WORKBENCH-1 peg** |
 | **Iron chisel (IRON-CHISEL-1)** | **v0 ~130 g** | **@ WORKBENCH-1 peg** · edge refined Day 346 |
-| **Anvil mass (ANVIL-MASS-1)** | **~895 g class** (face + block) | **ANVIL-FACE-1 welded to ~415 g mass Day 480** · **horn stub** · **@ FORGE stump** |
+| **ANVIL-1** | **✓ ~1.22 kg class** @ FORGE stump | **Day 619–620 mass weld close** · **hardy ~28 mm · full horn · face dressed** |
 | **H-11 samples** | cobble + chip | RS-3 / EXPED-A — **lab** **only** |
 | **M-11 alum sample** | **~120 g** | Pile 4 chem margin duplicate · Day 381 |
 | **M-22 magnetite (MAGNETITE-HAUL-2)** | **~0 kg tray** | **−~1.0 kg BLOOM-14 Day 491 · body spent** |
@@ -390,7 +394,7 @@
 |-----------|------|--------|
 | **Kiln A** | Lime / high temp | Calcite reserve; cold |
 | **Kiln B** | Brick factory | **114** stackable nearby; **~120 green** queue |
-| **Kiln C** | Copper smelt | P-δ · bellows · **O-1 ~15.4 kg** · **SMELT-21 ✓ Day 497** |
+| **Kiln C** | Copper smelt | P-δ · bellows · **O-1 ~11.6 kg** · **SMELT-22 ✓ Day 621** |
 | **Ceramic updraft** | Pottery | **P-vial** + **P-bowl** fired Day 121 |
 
 ---
@@ -459,7 +463,7 @@
 | **GRIND-TAKEOFF-1** | **~95% Day 295** | Belt live under flood · bench grind operational |
 | **FORGE-D** | **✓ operational** | **IRON-GATE 14/14 ✓** · belt blast · bloom/weld path live |
 | **MILLHOUSE-1** | **✓ 100%** Day 278 | Phase 1+2+3 · zones CHAR·FORGE·TOOL·WORK |
-| **CHAR @ forge** | **~40.8 kg** class | **−~10.8 kg IRON-BLOOM-16 + spade/pick Day 604–605 · lane only** |
+| **CHAR @ forge** | **~26.2 kg** class | **+~5.0 kg PIT-CHAR-42 · −~4.8 kg IRON-BLOOM-23 Day 630** |
 | **WORKBENCH-1** | **✓ operational Day 279** | ~1.2×0.6 m oak top · peg rail · **hinge kit staged** |
 | **MILLHOUSE-SHELF-1** | **✓ operational Day 282** | Two tiers · FIBER/CORD/SMELT-HOLD · end cap · smelt tray staged |
 | **Ore roast bed** | **✓ 100%** | @ FORGE marker E of pad |
@@ -506,7 +510,7 @@ See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
 | **Clay weigh** | Re-weigh on next clay haul |
-| **Next pit** | **B-83 staked** — vault **~55.8 kg** hold · lane **~51.6 kg** |
+| **Next pit** | **B-90 staked** — vault **~38 kg** · lane **~26 kg** · **wood ~20 kg** |
 | **COAST-1** | **✓ complete Day 202** — kelp · sand · beacon stored |
 | **Respawn rule** | **H-v2 bed** — home anchor |
 

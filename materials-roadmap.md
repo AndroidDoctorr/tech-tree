@@ -1,11 +1,27 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 552**).
+**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 630**).
 
 ---
 
-## Priority reassess — Day 552 (*pause · Cal-Y2 D315*)
+## Priority reassess — Day 630 (*Cal-Y3 D28 · Week 90 SMELT*)
+
+**Doctrine:** tool backups before ore drain · **H-11 refill** is the binding constraint — not copper · not campus comfort.
+
+| Tier | Queue | Why |
+|------|-------|-----|
+| **0 — close loops** | **IRON-TONGS-2** → **IRON-WOOD-CHISEL-3** · **IRON-WEDGE-2** | Backup forge tools · peg ~430 g marginal but GO @ ANVIL-1 |
+| **1 — ore gate** | **HAUL-IRON-3 / H-11 expedition** | **~2.15 kg** left ≈ **3 blooms** · wagon + team ready · **BRIDGE-1 @ km 3** before loaded south |
+| **2 — smelt rhythm** | **PIT-CHAR** interleave · **0–2 blooms** only if peg holds | Char lane ~26 kg · vault ~38 kg · stop smelting when ore empty |
+| **3 — campus maintenance** | Farm **scare-only** · fall flax dormant · pen/holding dawn | Winter hands-off · no hero farm |
+| **4 — deferred** | **DONKEY-BLANKET-3** · **M-22 repeat** · **TIN-SCOUT** · **LM-3** | #3 donkey not caught · magnetite small · horizon tracks |
+
+**Wagon verdict @ Day 630:** **COVERED-WAGON ✓ · TEAM-TRAIN ✓ · CART-IRON-1 ✓ · EXPED-SCOUT south ✓** — **loaded H-11 haul** is the correct next expedition class (**30–50+ kg** realistic vs HAUL-IRON-2 ~10 kg foot haul). Finish **tongs (+ optional chisel/wedge)** first so forge isn't one-tool-deep on trail return.
+
+---
+
+## Priority reassess — Day 552 (*historical · Cal-Y2 D315*)
 
 **Doctrine:** close loops before hero tracks · one rung at a time · start long clocks early.
 

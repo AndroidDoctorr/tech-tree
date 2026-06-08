@@ -1,7 +1,16 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 616** · **Cal-Y3 D14** · **PROPER-BED ✓ · comfort week closed***  
+*Last updated: **Day 630** · **Cal-Y3 D28** · **IRON-TONGS-2 queued · peg ~430 g***  
 **Stock:** [inventory.md](inventory.md) · **Strategy:** [year-002-plan.md](year-002-plan.md) · **Sun seasons:** [sun-calendar.md](sun-calendar.md)
+
+### Current focus @ Day 630
+
+| Priority | Item | Notes |
+|----------|------|-------|
+| **Now** | **IRON-TONGS-2** | Day 631 @ ANVIL-1 |
+| **Next** | **IRON-WOOD-CHISEL-3 · IRON-WEDGE-2** | Tool backups if peg holds |
+| **Then** | **BRIDGE-1 + H-11 haul** | Ore **~2.15 kg** ≈ 3 blooms · wagon ready |
+| **Maintenance** | Farm scare · pit char interleave | Fall flax dormant · **B-90 staked** |
 
 ---
 
@@ -58,8 +67,8 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 | Check | Cadence | Trigger / look for | Last PASS |
 |-------|---------|-------------------|-----------|
 | **FARM-READ** | **Weekly** · spring–autumn | Emmer tillering · P-17 · fig C2 · GREEN/YELLOW/RED | **Day 584 fallow GREEN** |
-| **Char lane @ forge** | Weekly | Lane **~50 kg** class · pit banked · vault not drained for tiles | **Day 594 PIT-CHAR-34 ✓ · lane ~54 kg** |
-| **Wood pile 5** | Weekly | **~14 kg** class — low = pit/haul week | **Day 594 ~38 kg · on track** |
+| **Char lane @ forge** | Weekly | Lane **~25 kg** class · pit banked · vault not drained for tiles | **Day 630 PIT-CHAR-42 ✓ · lane ~26 kg · vault ~38 kg** |
+| **Wood pile 5** | Weekly | **~20 kg** class — low = pit/haul week | **Day 626 CART-WOOD-HAUL-14 ✓ · ~20 kg post-smelt** |
 | **Smoke / salt / parched** | Weekly pre-feast | Jerky · fish smoke · **PARCHED-1** draw | **Day 584 smoke cadence ✓** |
 | **Hay @ barn loft** | Biweekly | **~90 kg ~40% deck** — feeder build reduces waste | **Day 469** |
 | **Donkey train** | Post-haul | Hoof · girth · yoke rub · voice | **Day 561 TEAM-CART-25 ✓** |
@@ -91,8 +100,8 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 | **MADDER-DIG-1** | **~585–600** | **~D347–362** | Root dye · **SET-B red close** | **Hard** | **✓ Day 585–586 · SET-B complete** |
 | **Fig / olive touch** | **~575–602** | **~D337–365** | Bed D prune · last fig leather pull | Soft | C2 lead · no hero |
 | **Fall flax sow** | **~590–602** | **~D352–365** | **Bed B south strip** | **Soft→Hard** | **✓ Day 590 · ~18 g elite** |
-| **Winter stock sprint** | **~590–602** | **~D352–365** | Smoke · parched batch · salt · wood · char vault top-up | **Hard** | **In progress · PIT-CHAR-34 ✓ Day 594** |
-| **Feast eve / year close** | **602** | **D365** | **FEAST-602** · **YULE-BENCH-2** · Cal-Y3 opens D1 @ Day 603 | **Hard** | Compare plate to Day 237 |
+| **Winter stock sprint** | **~590–602** | **~D352–365** | Smoke · parched batch · salt · wood · char vault top-up | **Hard** | **✓ closed @ FEAST-602** |
+| **Feast eve / year close** | **602** | **D365** | **FEAST-602** · **YULE-BENCH-2** · Cal-Y3 opens D1 @ Day 603 | **Hard** | **✓ Day 602** |
 
 ### Cal-Y3 — horizon *(stake only)*
 
@@ -110,18 +119,19 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 
 ---
 
-## 4 — Winter stock targets *(before Day 602)*
+## 4 — Winter stock targets *(Cal-Y3 maintenance)*
 
-*Mild Orontes baseline — not famine prep.*
+*Mild Orontes baseline — Y2 feast closed; maintain not sprint.*
 
-| Stock | Target class | Now (Day 562) | Gap action |
+| Stock | Target class | Now (Day 630) | Gap action |
 |-------|--------------|---------------|------------|
-| **Char vault** | **~65 kg** insurance | **~67 kg** @ Day 367 audit · lane **~51 kg** | Pit routine · don’t drain vault for tiles |
-| **Wood pile 5** | **~30+ kg** pre-feast | **~47 kg** | **On track** — interleave if **<~35 kg** |
+| **Char vault + lane** | **~60+ kg** combined | **~38 kg vault · ~26 kg lane** | Pit interleave · don’t drain vault for tiles |
+| **Wood pile 5** | **~20+ kg** | **~20 kg** | Haul if **<~14 kg** |
 | **Smoked fish / jerky** | Multi-week campus | Weir routine | Weekly smoke cadence |
-| **Parched grain** | **~2+ kg** comfort | **~2.1 kg** ✓ Day 579 | **On track** |
-| **Hay** | Barn loft full class | **~90 kg ~40%** | **GOAT-FEEDER-1** reduces waste |
+| **Parched grain** | **~2+ kg** comfort | **~2.1 kg** ✓ | On track |
+| **Hay** | Barn loft full class | **~90 kg ~40%** | **GOAT-FEEDER-1 ✓** reduces waste |
 | **Salt** | Dry store | **SALT-2 ✓** | Touch S-03 if low |
+| **Iron ore H-11** | **10+ kg** smelt runway | **~2.15 kg** | **HAUL-IRON-3 expedition — urgent** |
 
 ---
 
@@ -155,7 +165,8 @@ Before logging a **hero week** (build sprint · expedition · smelt block · tex
 | **MADDER-DIG-1 → SET-B** | **~585–600** | ~D347–362 | **~23–38** | **Hard** | Autumn root | Closes **BEDDING-SET-B** |
 | **WINTER-STOCK-SPRINT** | **~590–602** | ~D352–365 | **~28–40** | **Hard** | — | Wood · smoke · parched · char |
 | **FEAST-602 / Y2 close** | **602** | D365 | **40** | **Hard** | — | **YULE-BENCH-2** |
-| **EXPED-SCOUT-1** | **~600–620** | ~D362+ | **~38+** | Medium | Wagon train boring | Grade · bridge pins · before Tarsus-class |
+| **EXPED-SCOUT-1** | **~600–620** | ~D362+ | **—** | **✓** | Wagon train boring | **Day 613 south · BRIDGE-1 @ km 3 queued** |
+| **HAUL-IRON-3** | **~631–640** | Cal-Y3 D29+ | **1–10** | **Hard** | BRIDGE-1 · tongs backup | **H-11 loaded wagon · 30–50+ kg class** |
 | **DONKEY-HUNT-3** | **~610+** | Cal-Y3+ | **~48+** | Low | Wagon boring · pen calm | Lead rotation · not before #2 team solid |
 | **EXPED-COAST / M-11 top-up** | **~620+** | Cal-Y3+ | **~58+** | Low | Wagon + scout | Alum · sand · kelp — not winter launch |
 | **TIN-SCOUT-1 / Tarsus** | **Cal-Y3+** | — | — | Horizon | **BOAT-1** sketch | **~200+ km** — season-class · [map.md](map.md) |

@@ -46,4 +46,4 @@ Week eighty-eight opens after **COOL-CELLAR-1 operational @ Day 609**. Close the
 
 ---
 
-*Week 88 opens Day 610. Week 87 closed Day 609.*
+*Week 88 opens Day 610 · closes Day 616. Week 89 opens Day 617.*

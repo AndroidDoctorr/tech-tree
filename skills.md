@@ -1,13 +1,13 @@
 # Skills ledger
 
-*Last updated: **Day 616** (~10,000 BC) · proper bed · rope mattress*
+*Last updated: **Day 630** (~10,000 BC) · week 90 · bloom 23 · tongs queued*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
 | Column | Meaning |
 |--------|---------|
 | **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. |
-| **Now @ d595** | Current total — **Start + in-world practice**. Not “game-only XP.” |
+| **Now @ d630** | Current total — **Start + in-world practice**. Not “game-only XP.” |
 | **Δ** | Rough gain since start (for glance only). |
 
 **Scale:**
@@ -32,7 +32,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Textiles & fiber
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Machine sewing** (tunics 10+, togas 2) | **4** | **4** | — | Pattern sense · **not** spindle/loom transfer. |
 | **Hand sewing / lash / stitch** | **2–3** | **4** | **+1** | **×3 tunics · tabard-2 · bedding hems · sandwich bind · wagon lash**. |
@@ -52,15 +52,15 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Metal & chemistry
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Physics (B.S.) + math minor** | **5** | **5** | — | Heat/mass/stoichiometry · forge/kiln tuning · **IRON-GATE-1**. |
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
 | **Circuits · motor · electroplating** | **4** theory | **2** | — | **Wire ✓ · LODE-SUSPEND-1 ✓ d394** — weak bearing · COMPASS-1 horizon. |
 | **Copper smelt / forge** | **1** | **4** | **+3** | Kiln C · **20+** smelts · full **CU-*** suite. |
-| **Iron roast · slag · bloom · weld** | **0** | **3** | **+3** | Blooms **#1–6** · **FORGE-D** ✓ · physics + practice. |
-| **Iron tool forge** | **0–1** | **3** | **+2** | Axe · adze · chisel · wedge · nails · hammer · **drawplate start d385** · **tongs queued d471**. |
-| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-2 ~10.4 kg d370** · **IRON-HAMMER-1** tier. |
+| **Iron roast · slag · bloom · weld** | **0** | **3** | **+3** | Blooms **#1–23** · **ANVIL-1 ✓** · **FORGE-D** ✓ · cart-iron weld class. |
+| **Iron tool forge** | **0–1** | **3** | **+2** | Axe · adze · spade · pick · sickle · hoe · cart bed iron · **IRON-TONGS-2 queued d631**. |
+| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-2 ~10.4 kg d370** · **H-11 ~2.15 kg — refill expedition queued**. |
 | **Malachite cliff cut** | **0** | **2** | **+2** | Modest haul · greed guard post Day 104. |
 | **Glass precursors** | **0** | **1** | +1 | **TRIAL-3 washed bead ✓ d395** · soak · anneal tray · blend doctrine. |
 | **Soap / lye / salt chemistry** | **2** | **2** | — | Salt · brine · tallow · **SOAP** ~phase 3. |
@@ -69,7 +69,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Ceramics · brick · lime
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale · **kitchen floor tiles**. |
 | **Kiln operation (multi-kiln)** | **1** | **4** | **+3** | A/B/C · **~1100°C** · tile factory. |
@@ -80,7 +80,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Wood · structure · site
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber · kitchen dry rack. |
 | **Framing · roofing · insulation** | **2** | **4** | **+1** | Wattle · shake · **tile kitchen wing** · hypocaust · barn iron hinges · **wagon arch d566**. |
@@ -93,7 +93,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Food · preservation · cook
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Cooking & baking** | **5** | **5** | — | Jerky · brine · smoke · grain · feast **d237** · no oven cakes. |
 | **Fishing / weir / trap** | **2** | **3** | +1 | Weir steady · smoke class · Y1 buffer. |
@@ -104,7 +104,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Animals · husbandry
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Animal training / habituation** (general) | **4** | **4** | — | **IRL:** rats/cats from birth · calm persistence · reward timing · **here:** goats + donkeys confirm transfer. |
 | **Raise rats / cats from birth** | **3** | **3** | — | Sub-skill of general train · neonate handling · stress read. |
@@ -118,7 +118,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Weapons · movement · fight
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **Bow v1** · **GOAT-HUNT-519 ✓ · BIRD-HUNT-592/596/597 ✓**. |
 | **Melee spar** (Dagorhir · Belegarth · SCA) | **3** | **3** | — | Foam skill · spear distance · easy mode so far. |
@@ -130,10 +130,10 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Fire · navigation · time · mind
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Friction fire** (almost IRL · bow drill in-world) | **2** | **5** | **+3** | Bow drill ✓ · spare kit · char cloth class. |
-| **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-48** · vault **~67 kg** · draw doctrine **d367**. |
+| **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-90 staked** · lane **~26 kg** · vault **~38 kg** · **PIT-CHAR-42 d630**. |
 | **Trail nav · map · spikes** | **3–4** | **4** | +0–1 | **M-spikes** · **PM-R1** · pins **H-11 · M-G1 · M-22 · M-11**. |
 | **Solar calendar** | **2** | **4** | **+2** | **SUN-CAL-1** dual track · daily marks · **YULE** anchor. |
 | **History / anthro media** (Primitive Technology · Milo · Histocrat…) | **4** | **4** | — | Recognition · priority hints · assistant fills procedure. |
@@ -144,7 +144,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Other craft
 
-| Skill | Start (IRL) | Now @ d595 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Tanning / leather chemistry** | **1–2** | **3** | +1–2 | Caligae · bags · **GOAT-HUNT brain tan d526** · shoemaking class. |
 | **Stone knapping** | **1–2** | **3** | +1–2 | Chert suite · hafting · early survival tier. |
@@ -156,15 +156,16 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Tool & PPE condition *(wear — not skill rank)*
 
-| Item | Condition @ d471 | Notes |
+| Item | Condition @ d630 | Notes |
 |------|------------------|-------|
-| **CU-FORGE-TONGS-1** | **worn → coals only** | Jaws sprung Day 471 bloom pull · retired hot-iron |
-| **IRON-TONGS-1** | **good · slight jaw wobble** | Day 471 · holds ~12 mm bar @ cheek heat |
-| **CU-FIRE-TONGS-1** | **fair** | Coals only — not bloom stock |
-| **ANVIL-FACE-1** | **thin face · stump mount** | OK for nails/chisel · **marginal** for hinge-scale multi-heat |
-| **IRON-CHISEL-1** | **good** | Stone dress · hot punch · nail drift |
-| **IRON-WOOD-CHISEL-2** | **good** | Paring class Day 473 · rim trial PASS |
-| **FORGE-PPE-1** | **good** | Apron · visor · **CL-GLOVE-H v1** — habit holding |
+| **CU-FORGE-TONGS-1** | **retired** | Coals only — jaws sprung d471 |
+| **IRON-TONGS-1** | **good · slight jaw wobble** | Primary hot-iron · **IRON-TONGS-2 backup queued** |
+| **CU-FIRE-TONGS-1** | **fair** | Coals only |
+| **ANVIL-1** | **good** | **~1.22 kg** full block · hardy · horn — supersedes ANVIL-FACE-1 |
+| **IRON-CHISEL-1** | **good** | Stone dress · hot punch |
+| **IRON-WOOD-CHISEL-2** | **good** | Paring · **IRON-WOOD-CHISEL-3 backup on slate** |
+| **IRON-WEDGE-1** | **good** | **IRON-WEDGE-2 backup on slate** |
+| **FORGE-PPE-1** | **good** | Apron · visor · **CL-GLOVE-H v1** |
 
 ---
 
@@ -174,6 +175,34 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
+| **624** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-20** |
+| **630** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-23** |
+| **630** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-42** |
+| **629** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-22** |
+| **629** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-41** |
+| **628** | Iron forge · weld · tool shaping | *(hold 3)* | **CART-BED-IRON-1 ✓** |
+| **628** | Furniture / cart maintenance | *(hold 2)* | **Mount · load trial** |
+| **627** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-21** |
+| **627** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-40** |
+| **626** | Camp logistics / haul | *(hold 4)* | **CART-WOOD-HAUL-14** |
+| **626** | Furniture / cart maintenance | *(hold 2)* | **Loaded roll · collar glance** |
+| **625** | Iron forge · weld · tool shaping | *(hold 3)* | **CART-HUB-COLLAR-PT-1 ✓** |
+| **625** | Furniture / cart maintenance | *(hold 2)* | **Dual-hub mount · roll** |
+| **625** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-39** |
+| **624** | Iron forge · weld · tool shaping | *(hold 3)* | **CART-HUB-COLLAR-PT-1 ~60%** |
+| **623** | Iron forge · weld · tool shaping | *(hold 3)* | **CART-HUB-COLLAR-SB-1 ✓** |
+| **623** | Furniture / cart maintenance | *(hold 2)* | **Mount · spin · roll** |
+| **622** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-19** |
+| **622** | Iron forge · weld · tool shaping | *(hold 3)* | **CART-HUB-COLLAR-SB-1** |
+| **622** | Furniture / cart maintenance | *(hold 2)* | Cart hub measure |
+| **621** | Copper smelt / forge | *(hold 4)* | **SMELT-22 · CU-BUCKET-1** |
+| **620** | Iron forge · weld · tool shaping | *(hold 3)* | **ANVIL-1 ✓ close** |
+| **620** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-38 · VAULT-DRAW-620** |
+| **619** | Iron forge · weld · tool shaping | *(hold 3)* | **ANVIL-1 mass weld Day 1** |
+| **618** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-18** |
+| **618** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-37** |
+| **617** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-17** |
+| **617** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-36** |
 | **616** | Hand sewing / lash / stitch | *(hold 4)* | **PROPER-BED tow mattress · SET-A deploy** |
 | **615** | Framing / roofing / insulation | *(hold 4)* | **SHOWER-2 pipe wrap · bed frame** |
 | **615** | Wood carving / cooper stave | *(hold 4)* | **PROPER-BED oak posts · rails** |

@@ -1,8 +1,23 @@
 # Calendar Year 2 strategy (~Days 238–602)
 
-*Last revised: **Day 552** (~10,000 BC). **CART-1 ✓ · BARN ✓ · TEXTILE-MODE · reassess below.***  
+*Last revised: **Day 630** (~10,000 BC). **Cal-Y3 D28 · iron week closed · ore gate next.***  
 
-### Day 552 reassess — what changed since Day 397
+### Cal-Y3 north stars @ Day 630
+
+| Priority | Goal | Why now |
+|----------|------|---------|
+| **1** | **IRON-TONGS-2** (+ chisel/wedge backups) | One-tool-deep forge risk · peg ~430 g |
+| **2** | **HAUL-IRON-3** (H-11 loaded wagon) | **~2.15 kg** ore left · smelt runway emptying |
+| **3** | **BRIDGE-1 @ km 3** | Scout pinned · before loaded south |
+| **4** | **PIT-CHAR maintenance** | Lane ~26 kg · vault ~38 kg — adequate not hoarded |
+| **5** | **Campus hands-off** | Farm scare · cool cellar · proper bed · shower — **maintain not hero** |
+| **6** | **Horizon** | TIN-SCOUT · LM-3 · glass · COMPASS — after ore refill |
+
+**Prior year:** [year-001.md](journal/years/year-001.md) · **Stock:** [inventory.md](inventory.md) · **Ladder:** [ladder.md](ladder.md)
+
+---
+
+### Day 552 reassess — what changed since Day 397 *(historical)*
 
 | Was | Now |
 |-----|-----|

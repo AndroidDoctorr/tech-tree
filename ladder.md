@@ -46,8 +46,8 @@
 | **WIRE-CU-2** (production spool) | ✓ **~2.1 m · ~0.75 mm class Day 387** |
 | **WIRE-DRY-1** | ✓ **Day 388 @ STORE-3** |
 | **Wire at telegraph scale / uniform gauge** | · longer single runs · insulation · **vaulted until draw day** |
-| **ANVIL-MASS-1** (face + wrought block) | **✓ Day 480** · **horn stub** |
-| **ANVIL-1** (full block) | ~ **hardy hole · full horn · more mass** |
+| **ANVIL-MASS-1** (face + wrought block) | **superseded Day 619** |
+| **ANVIL-1** (full block) | **✓ Day 620** · **~1.22 kg · hardy · full horn** |
 | Goat pen **P-GOAT-1** · holding **HOLDING-1** | ✓ |
 | Yearling pen / corral **D-27** | ✓ |
 | **Barn** (multi-species · hay · loft) | **✓ BARN-1-v1 proven Day 469** — **~90 kg hay @ loft (~40% deck) · south doors** |
@@ -129,7 +129,7 @@
 |------|--------|
 | Reed / **wicker** baskets · bark cups · pit cache | ✓ **#2 + #3–7 labeled** (seed · char · harvest · trail · **shake haul Day 452**) |
 | **Bucket** (wood stave · fired · leather) | · interim · lye · slaking · char wet-work |
-| **CU-BUCKET-1** (raised copper · rivets · bail) | · **~3–5 L class** · forge + kitchen · before iron sheet |
+| **CU-BUCKET-1** (raised copper · rivets · bail) | **✓ Day 621** · **~3.8 L @ CART-YARD peg** |
 | **IRON-BUCKET-1** (hammered sheet / strap · weld) | · **after CU-BUCKET-1** · hot-work · ore wash |
 | **METAL-BUCKET-1** (either Cu or Fe production line) | · **queued Day 501** · unlocks wet chemistry + char |
 | **Basket set at scale** (labeled · zone haul) | ~ **3–4 more** for camp · v1 · trail |
@@ -465,7 +465,7 @@
 | **CL-SOCK-3** (go-bag foot wrap) | **✓ Day 546** |
 | **BEDDING-SET-A** (pillowcase + sheet + purple blanket) | **✓ Day 562 · BLANKET-A-1 purple sandwich** |
 | **BEDDING-SET-B** (pillowcase + sheet + red blanket) | **✓ Day 586 · BLANKET-B-1 madder red-orange** |
-| **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ rugs Day 570 · rain sheets Day 580** |
+| **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ ×2 sets Day 570/580 · blanket #3 @ DONKEY #3** |
 | **PROPER-BED-1** (oak frame · rope grid · linen/tow mattress) | **✓ Day 616 · BEDDING-SET-A on rope bed** |
 | **BLANKET-SANDWICH-1** (double panel + tow batting) | **✓ trial Day 548** |
 | **PILLOW-DOWN-1** (feather fill) | **✓ Day 612 · ~120 g down · ~33 g contour reserve** |
@@ -496,17 +496,16 @@
 | **FK-1 / RK-1 / MK-0** kits | ✓ |
 | **CU-KNIFE v1** | ✓ |
 | Copper awl · needle · pin class | ✓ |
-| Smelt **#1–21** (malachite) | ✓ **SMELT-21 Day 497 · hold lifted for kitchen** |
+| Smelt **#1–22** (malachite) | ✓ **SMELT-22 Day 621 · CU-BUCKET stock** |
 | **FORGE-D** bloomery pad + belt blast | ✓ **IRON-GATE 14/14** |
-| **Iron bloom + weld** | ✓ **BLOOM #1–13** · **~395 g peg Day 481** |
-| **Iron ore** **O-IRON-1** | **~12.2 kg** @ pile 4 |
-| **IRON-BLOOM-9** | **~550 g @ peg (BLOOM-8+9) · hold ore spend** |
-| **ANVIL-MASS-1** (~895 g face + block) | **✓ Day 480 @ FORGE stump** |
+| **Iron bloom + weld** | ✓ **BLOOM #1–23** · **peg ~430 g Day 630** |
+| **Iron ore** **H-11 (O-IRON-1)** | **~2.15 kg** @ pile 4 · **~3 blooms left · haul refill urgent** |
+| **ANVIL-1** (full block · hardy · horn) | **✓ Day 620** · **~1.22 kg @ FORGE stump** |
 | **IRON-CHISEL-1** (stone dress) | ✓ **Day 345** |
-| **IRON-BAR-1** scrap | **~18 g** curl only |
+| **IRON-BAR-1** scrap | **~5 g** curl only |
 | **IRON-AXE-1** | **✓ ~340 g head · Day 352** |
 | **IRON-WEDGE-1** | **✓ ~95 g · Day 354** |
-| **IRON-NAILS-1** | **✓ ×33 remain** |
+| **IRON-NAILS-1** | **✓ ×25 remain** |
 | **IRON-ADZE-1** | **✓ ~115 g · Day 358** |
 | **IRON-HAMMER-1** | **✓ ~195 g · Day 367** |
 | **IRON-DRAWPLATE-1** | ✓ **Day 386** @ WORKBENCH-1 |
@@ -515,10 +514,10 @@
 | **WIRE-CU-2** (production spool) | ✓ **~2.1 m · ~0.75 mm class Day 387** |
 | **WIRE-DRY-1** | ✓ **Day 388 @ STORE-3** |
 | **Wire at telegraph scale / uniform gauge** | · longer single runs · insulation · **vaulted until draw day** |
-| **ANVIL-1** (full block) | ~ **hardy · full horn · more mass beyond ANVIL-MASS-1** |
+| **ANVIL-1** (full block) | **✓ Day 620** · **hardy · full horn · ~1.22 kg** |
 | **STEEL-PACK-1** (surface carburize) | · **charcoal pack · sealed box · FORGE-D soak** |
 | **STEEL-CASE-1** (case harden + quench) | · **after STEEL-PACK-1** |
-| **CART-IRON-1** (hub collar tubes · iron fittings) | · **post hardy · hardwood wear logged Day 480** |
+| **CART-IRON-1** (hub collar tubes · bed iron) | **✓ Day 628** · **hub pair + CART-BED-IRON-1** |
 | **Tin** scout (**cassiterite**) | · |
 | **Bronze** alloy | · |
 | **Bronze tools** (edge · socket) | · |
@@ -569,7 +568,7 @@
 | **MILLHOUSE smelt kit** (ore · tongs · slag · charcoal lane) | ✓ **Block #17–20 ✓ Day 245** · **~148 g stock class** |
 | **AQUEDUCT-1** (wood trough · clay pipe · stake line) | · **SLUICE-1 fork → v1 · H-v2 · FORGE-D** · **~140 m phased** |
 | **CHEM-LAB-1** (bench · shelf · vent · slop sink) | · **STORE-3 overflow or WW north bay enclosure** |
-| **FORGE-UPGRADE-1** (ANVIL-1 · hardy · horn · mass) | ~ **ANVIL-MASS-1 ✓** · full block · **CHAR-RETORT-1** · roast bed |
+| **FORGE-UPGRADE-1** (ANVIL-1 · hardy · horn · mass) | **ANVIL-1 ✓** · **CHAR-RETORT-1** · roast bed |
 | **FORGE-UPGRADE-2** (twin hearth · ore preheat · quench trough) | · **after AQUEDUCT-1** · water at stump |
 | **CERAMICS-FACTORY-2** (2nd mold · stagger · lab ware line) | ~ **Kiln B ✓** · factory paused · **press+fire rhythm restore** |
 | **POT-LAB-SET-1** (crucibles · vials · bowls · trays @ scale) | · **+6–12 pcs** · peripheral fires · chemistry throughput |
@@ -735,10 +734,10 @@
 | **Wheelbarrow · Cart · Crane · Barn · Spinning wheel** | **✓ closed Centadial 5** |
 | **H-v2-KITCHEN-1** | **✓ structure** · **KITCHEN-STOCK-1** → floor tiles |
 | **CAMP-LADDER-1** | **~3.5–4 m roof/loft ladder** — when maintenance asks |
-| **METAL-BUCKET-1** | **CU-BUCKET-1 first** · ~3–5 L · rivets · bail |
+| **METAL-BUCKET-1** | **CU-BUCKET-1 ✓ Day 621** · **IRON-BUCKET-1** fallback |
 | **AQUEDUCT-1** | **SLUICE-1 fork** · wooden trough stakes · clay pipe R&D · **~140 m phased** |
 | **CERAMICS-FACTORY-2** | **2nd mold** · Kiln B stagger · **POT-LAB-SET-1** · restore press+fire weeks |
-| **FORGE-UPGRADE-1** | **ANVIL-1** · hardy hole · **CHAR-RETORT-1** · **quench trough after aqueduct** |
+| **FORGE-UPGRADE-1** | **ANVIL-1 ✓** · **CHAR-RETORT-1** · **quench trough after aqueduct** |
 | **CHEM-LAB-1** | Vent · bench · water tap · fire zone · off v1 floor |
 | **STONE-CUT-PRACTICE** | **FS dress** interleave · footing stock · Roman-scale prep |
 | **Scythe** | After sickle season · emmer + flax at scale |
@@ -758,7 +757,7 @@
 | **3** | **Containers at scale** (metal bucket + pottery factory) | Wet chemistry · char · ore wash · food storage | **METAL-BUCKET-1 · · CERAMICS-FACTORY-2 ~** |
 | **4** | **Mechanical power takeoffs** | Grind · blast · future hammer · spin | **WW ✓ · blower ✓ · grind ~95%** · more belts later |
 | **5** | **Second pack animal** | Parallel haul · less downtime | **Donkey #2 ·** |
-| **6** | **Forge mass + anvil** | Every metal day faster | **ANVIL-MASS-1 ✓ · ANVIL-1 ~** |
+| **6** | **Forge mass + anvil** | Every metal day faster | **ANVIL-1 ✓ Day 620** |
 | **7** | **Bronze edges** (needs tin) | Tool life · cast sockets · **future knowledge target** | **TIN-SCOUT-1 ·** |
 | **8** | **Coke / coal metallurgy** | Hotter · longer burns | **M-COAL-1 scout · CHAR-RETORT-1 ·** |
 
@@ -776,45 +775,31 @@
 
 ---
 
-## Suggested next rungs (Day 552 reassess)
+## Suggested next rungs (Day 630 reassess)
 
-**Tier 0 — close loops:**
+**Tier 0 — forge backups (this week):**
 
-1. **ICE-HAUL-1** — **hard freeze week**
-2. **BRIDGE-1** · **EXPED** · **HOT-WATER-3** — **interleave**
-2. **ICE-HAUL-1** — **hard freeze week** *(melt slow — wait)*
-3. **BRIDGE-1** — **km 3 creek**
-4. **BRIDGE-1** — **km 3 creek before loaded wagon south**
-4. **Farm scare** — **fall flax watch · hands-off except dawn**
-5. **LATEX-SCOUT-1** — **fig sap @ spring prune**
+1. **IRON-TONGS-2** — **queued Day 631** · peg ~430 g · ANVIL-1 GO
+2. **IRON-WOOD-CHISEL-3** · **IRON-WEDGE-2** — **after tongs if peg rebuilds**
+3. **Farm scare-only** — fall flax dormant · dawn block only
 
-**Tier 1 — campus ROI:**
+**Tier 1 — ore gate (next hero week class):**
 
-4. **PEN-FENCE-2 · PEN-DEFENSE-1** — **post-expand**
-5. **WAGON-TRAIN** — **empty → loaded T-2 loop**
+4. **BRIDGE-1** — **km 3 creek** · pinned @ EXPED-SCOUT south
+5. **HAUL-IRON-3 / H-11 expedition** — **loaded wagon** · **30–50+ kg target** · **stop smelting when H-11 empty**
 
-**Tier 2 — autumn / summer clocks:**
+**Tier 2 — interleave (non-blocking):**
 
-9. **PILLOW-DOWN-1** — **✓ Day 612**
+6. **PIT-CHAR** — lane ~26 kg · vault ~38 kg · **B-90 staked**
+7. **STONE-CUT-1** · **GLASS-PRACTICE-1** — ½-day when home
+8. **M-22 repeat** · **M-11 coast top-up** — low priority vs H-11
 
-**Tier 3 — haul (after team train):**
+**Tier 3 — done / deferred:**
 
-10. **COVERED-WAGON-1** — **shelter build · after TEAM-CART-50 class**
-11. **EXPED-SCOUT-1 + BRIDGE-1** — **before Tarsus-class south**
-12. **CART-IRON-1** — **hub collars · wagon fittings**
-
-**Tier 4 — interleave:**
-
-13. **STONE-CUT-1** — **weekly practice · footing stock**
-14. **GLASS-PRACTICE-1** — **½-day bead cadence**
-15. **ANVIL-1** · **CHEM-LAB-1** · **STORE expand**
-16. **MAGNET/COMPASS-1** — **~85 g concentrate · fun not urgent**
-3. **FLAG-1** — **pattern slate · fun weave**
-3. **BLANKET-1** / **LM-3** — **bed width when stack fed**
-4. **FLAG-1** — **pattern slate · fun weave**
-5. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
-4. **GOAT-HUNT-1** — **~D519 @ A-03**
-3. **KITCHEN-UTENSIL-BUNDLE-1** — **forge + wood interleave**
+- **ANVIL-1 ✓ · CU-BUCKET-1 ✓ · CART-IRON-1 ✓ · EXPED-SCOUT-1 ✓ · COOL-CELLAR-1 ✓ · PROPER-BED-1 ✓**
+- **DONKEY-BLANKET-3** — defer until donkey #3
+- **TIN-SCOUT / Tarsus** — Cal-Y3+ horizon
+- **LM-3 / FLAG-1** — fun · not blocking iron loop
 4. **KITCHEN-CURTAIN-ROD-1 + CURTAIN-1 + CU-EYELET-SET-1**
 5. **AQUEDUCT-STAKE-1** — **after floor cure**
 4. **KITCHEN-FLOOR-LAY-1** — **after ~24F+ class**
