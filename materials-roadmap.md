@@ -1,7 +1,7 @@
 # Materials roadmap
 
 *Assistant notes from Day 19 — grout, high-temp kiln, quicklime.*  
-**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 630**).
+**Historical planning doc** — recipes, tiers, and build logic. **Current stock:** [inventory.md](inventory.md) only (audited **Day 634**).
 
 ---
 
@@ -11,8 +11,8 @@
 
 | Tier | Queue | Why |
 |------|-------|-----|
-| **0 — close loops** | **IRON-TONGS-2** → **IRON-WOOD-CHISEL-3** · **IRON-WEDGE-2** | Backup forge tools · peg ~430 g marginal but GO @ ANVIL-1 |
-| **1 — ore gate** | **HAUL-IRON-3 / H-11 expedition** | **~2.15 kg** left ≈ **3 blooms** · wagon + team ready · **BRIDGE-1 @ km 3** before loaded south |
+| **0 — close loops** | **Campus rhythm** | **Tool backup ✓** — tongs · wedge · chisel ×2 · HAUL-IRON-3 ✓ |
+| **1 — ore gate** | **HAUL-IRON-3** | **✓ ~40 kg @ pile 4** — smelt interleave when named |
 | **2 — smelt rhythm** | **PIT-CHAR** interleave · **0–2 blooms** only if peg holds | Char lane ~26 kg · vault ~38 kg · stop smelting when ore empty |
 | **3 — campus maintenance** | Farm **scare-only** · fall flax dormant · pen/holding dawn | Winter hands-off · no hero farm |
 | **4 — deferred** | **DONKEY-BLANKET-3** · **M-22 repeat** · **TIN-SCOUT** · **LM-3** | #3 donkey not caught · magnetite small · horizon tracks |

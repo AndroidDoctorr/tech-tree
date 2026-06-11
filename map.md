@@ -50,7 +50,7 @@
 | **Farm plot** | T-2 | 200 | 10 | **Bed B sown ✓** · **Bed D ✓** · **P-03 trellis ✓** · **SEED-VAULT v0** |
 | **Pen P-GOAT-1** | Bed C north | **~205** | 12 | **~22×8 m ✓** · **2 kids** · **gate widened Day 558** |
 | **HOLDING-1** | N of pen | **~205** | 12 | **Mabel + Humphrey** partitions A/B · **TROUGH-v2 ✓** |
-| **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-1+2 ✓ · thinned Day 353 + 365** · P-17 watch-only |
+| **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-3 ✓ Day 669** · P-17 · flax · emmer · herbs |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
 | **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-1 ✓ 100%** · **MILLHOUSE-1 ✓** · **FORGE-D ✓** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
@@ -127,6 +127,7 @@
 | **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
 | **H-v2-KITCHEN wing** | West T-plan arm | **✓ operational Day 507** · **tile roof ✓ Day 539** · sink · teal curtain · checker floor |
 | **AQUEDUCT-1** | v1 → H-v2 → FORGE-D → kitchen · pen float | **✓ Day 564** · **KITCHEN-FAUCET-1 ✓** |
+| **Domus H-V3** *(planned)* | **Courtyard villa** @ **C-0** · **culina** (new) vs **culina vetus** (H-v2) | **[house-plan.md](house-plan.md)** |
 
 ---
 
@@ -276,6 +277,7 @@
 |--------|------|------------------|
 | **WHEEL** | Axle / rim | **WW-1** + **GS-1** flywheel |
 | **HOUSE** | 3×4 m | **MILLHOUSE-1 Phase 1 ✓** — open workshop · roof mat |
+| **LAB** | **5×6 m** *(Stage 3 ~95% Day 667)* | **CHEM-LAB-WING-1** · **MURE-R1 courses 1–4 · ~1.1 m** · bond stubs — [chem-lab-plan.md](chem-lab-plan.md) |
 | **BELT** | Straight line | Wheel → **blower** → **FORGE-D** |
 | **FORGE** | 4×3 m SW | Bloomery · **not** Kiln C |
 | **CHAR / ORE / TOOL** | Flanking | Fuel + feedstock + racks |
@@ -303,9 +305,11 @@
 | Leg | Dist (est.) | Mode | Notes |
 |-----|-------------|------|-------|
 | **HOME → river mouth** | **~60–80 km** downstream | **Walk** or **BOAT-1** when built | Orontes to Mediterranean · weir class known · mouth unmarked |
-| **River mouth → Tarsus coast** | **~200+ km S** | **Coastal boat** preferred | Med shoreline · easy navigation · long calendar |
-| **Walk alternative** | **~200+ km** one way | **~40+ trail days** class | Coast follow · no cliff heroics · season-scale not week-scale |
-| **Target** | **Cassiterite** (tin ore) | **Scout mark first** | Granite pegmatite / stream placer class · **not** M-22 magnetite |
+| **River mouth → Cilician coast (Tarsus class)** | **~200+ km WNW** | **Coastal boat** preferred | Mersin/Tarsus corridor · **not** Tartus (Syrian coast) · long calendar |
+| **Walk alternative** | **~200+ km** one way | **~40+ trail days** class | Amuq → coast W then S along shore · season-scale not week-scale |
+| **Target** | **Cassiterite** (tin ore) | **Scout mark first** | **Taurus mountains north of Tarsus coastal plain** — pegmatite / stream placer · **not** local Amanus NE (ice/iron) · **not** M-22 magnetite |
+
+**Ore geography:** Tin lives **behind** the coast — inland Taurus slopes north of the Tarsus plain — not the ridge behind **HOME** (Amanus class = ice · iron scout only).
 
 | Prereq | Status |
 |--------|--------|

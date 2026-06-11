@@ -638,6 +638,50 @@
 | 628 | [day-628.md](days/week-090/day-628.md) | **FORGE-D · CART-YARD** | **CART-IRON-1 ✓ · bed fittings** · **Cal-Y3 D26** |
 | 629 | [day-629.md](days/week-090/day-629.md) | **pit · FORGE-D** | **PIT-CHAR-41 · BLOOM-22 · tool slate** · **Cal-Y3 D27** |
 | 630 | [day-630.md](days/week-090/day-630.md) | **pit · FORGE-D** | **PIT-CHAR-42 · BLOOM-23 · tongs queued** · **Cal-Y3 D28** |
+| 631 | [day-631.md](days/week-091/day-631.md) | **FORGE-D** | **Week 91 · IRON-TONGS-2 ✓** · **Cal-Y3 D29** |
+| 632 | [day-632.md](days/week-091/day-632.md) | **ICE-ROUTE-1 · COOL-CELLAR** | **ICE-HAUL-1 ✓ · vault ~20 kg** · **Cal-Y3 D30** |
+| 633 | [day-633.md](days/week-091/day-633.md) | **COOL-CELLAR** | **COOL-CELLAR-13-LOAD ✓** · **Cal-Y3 D31** |
+| 634 | [day-634.md](days/week-091/day-634.md) | **FORGE-D** | **BLOOM-24 · IRON-WEDGE-2 ✓** · **Cal-Y3 D32** |
+| 635 | [day-635.md](days/week-091/day-635.md) | **CART-YARD · farm** | **HAUL-IRON-3 prep · farm coast** · **Cal-Y3 D33** |
+| 636 | [day-636.md](days/week-091/day-636.md) | **HOME → H-11** | **HAUL-IRON-3 launch · wagon @ bench** · **Cal-Y3 D34** |
+| 637 | [day-637.md](days/week-091/day-637.md) | **H-11 bench** | **~38.5 kg mine · wagon loaded** · **Cal-Y3 D35** |
+| 638 | [day-638.md](days/week-092/day-638.md) | **H-11 → HOME** | **Week 92 · HAUL-IRON-3 ✓ · ~40 kg H-11** · **Cal-Y3 D36** |
+| 639 | [day-639.md](days/week-092/day-639.md) | **FORGE-D** | **IRON-WOOD-CHISEL-3 ✓ · tool backup closed** · **Cal-Y3 D37** |
+| 640 | [day-640.md](days/week-092/day-640.md) | **Kiln B · pit lane** | **PIT-CHAR-43 ✓ · KILN-B-BRICK-FIRE-640 ✓ · ~123 stack** · **Cal-Y3 D38** |
+| 641 | [day-641.md](days/week-092/day-641.md) | **Kiln B · pit lane** | **PIT-CHAR-44 ✓ · domus hoard slate · ~132 stack** · **Cal-Y3 D39** |
+| 642 | [day-642.md](days/week-092/day-642.md) | **T-1 haul** | **HAUL-MULTI-642 ✓ · wood ~36 kg · clay +~5 kg** · **Cal-Y3 D40** |
+| 643 | [day-643.md](days/week-092/day-643.md) | **FORGE-D** | **IRON-BLOOM-26 ✓ · BRICK-MOLD-IRON-1 ✓ · #2 ~65%** · **Cal-Y3 D41** |
+| 644 | [day-644.md](days/week-092/day-644.md) | **Kiln B · forge** | **BRICK-MOLD-IRON-2 ✓ · quad press · 9 fired · vault draw · PIT-CHAR-45** · **Cal-Y3 D42** |
+| 645 | [day-645.md](days/week-093/day-645.md) | **T-1 two-lap** | **Week 93 opens · HAUL-MULTI-645 ✓ · char week GO · FS-12–14** · **Cal-Y3 D43** |
+| 646 | [day-646.md](days/week-093/day-646.md) | **pit lane dual** | **PIT-CHAR-46+47 ✓ · PIT-DUAL stagger · lane ~15 kg** · **Cal-Y3 D44** |
+| 647 | [day-647.md](days/week-093/day-647.md) | **pit lane dual** | **PIT-CHAR-48+49 ✓ · lane ~25 kg · dual default doctrine** · **Cal-Y3 D45** |
+| 648 | [day-648.md](days/week-093/day-648.md) | **Store C** | **CHAR-VAULT-TOPUP-648 ✓ · vault ~51.5 kg** · **Cal-Y3 D46** |
+| 649 | [day-649.md](days/week-093/day-649.md) | **pit · Kiln B** | **FACTORY-SPLIT-649 ✓ · PIT-CHAR-50 + 9 fired · ~150 stack** · **Cal-Y3 D47** |
+| 650 | [day-650.md](days/week-093/day-650.md) | **T-1 · barn** | **HAUL-WOOD-650 ✓ · WOOD-SORT-DOCTRINE · barn timber · pile 5 ~48 kg** · **Cal-Y3 D48** |
+| 651 | [day-651.md](days/week-093/day-651.md) | **T-1 two-lap** | **Week 93 close · HAUL-MULTI-651 ✓ · ICE-WINDOW-GREEN** · **Cal-Y3 D49** |
+| 652 | [day-652.md](days/week-094/day-652.md) | **ICE-ROUTE-1** | **Week 94 opens · ICE-HAUL-2 ✓ · vault ~24 kg** · **Cal-Y3 D50** |
+| 653 | [day-653.md](days/week-094/day-653.md) | **ICE-ROUTE-1** | **ICE-HAUL-3 ✓ · max pack ~39 kg · overflow tray** · **Cal-Y3 D51** |
+| 654 | [day-654.md](days/week-094/day-654.md) | **Kiln B · pit** | **FACTORY-FULL-654 ✓ · quad ×14 · 9 fired · ~159 stack** · **Cal-Y3 D52** |
+| 655 | [day-655.md](days/week-094/day-655.md) | **Kiln B · pit** | **FACTORY-STREAK-655 ✓ · 9 fired · ~168 stack** · **Cal-Y3 D53** |
+| 656 | [day-656.md](days/week-094/day-656.md) | **pit dual** | **PIT-CHAR-53+54 ✓ · CHEM-LAB-WING filed · lane ~16 kg** · **Cal-Y3 D54** |
+| 657 | [day-657.md](days/week-094/day-657.md) | **WW-YARD** | **CHEM-LAB-STAKE-657 ✓ · socle ~40%** · **Cal-Y3 D55** |
+| 658 | [day-658.md](days/week-094/day-658.md) | **Kiln B** | **Week 94 close · FACTORY-FULL-658 ✓ · ~177 stack** · **Cal-Y3 D56** |
+| 659 | [day-659.md](days/week-095/day-659.md) | **T-1 three-lap** | **HAUL-BIG-659 ✓ · wood ~77 kg · clay ~46 kg · FS-15–18** · **Cal-Y3 D57** |
+| 660 | [day-660.md](days/week-095/day-660.md) | **Kiln B** | **FACTORY-FULL-660 ✓ · PIT-CHAR-56 · ~186 stack** · **Cal-Y3 D58** |
+| 661 | [day-661.md](days/week-095/day-661.md) | **WW-YARD** | **CHEM-LAB-SOCLE-CLOSE-661 ✓ · Stage 1 complete** · **Cal-Y3 D59** |
+| 662 | [day-662.md](days/week-095/day-662.md) | **pit · Bed B** | **CALCIUM-OK · SPRING-PREP-662 ✓ · PIT-CHAR-57** · **Cal-Y3 D60** |
+| 663 | [day-663.md](days/week-095/day-663.md) | **Kiln B** | **FACTORY-FULL-663 ✓ · KILN-SPLIT doctrine · ~195 stack** · **Cal-Y3 D61** |
+| 664 | [day-664.md](days/week-095/day-664.md) | **Kiln A · LAB** | **LIME-STAGGER-664 ✓ · CHEM-LAB-STAGE-2 ✓** · **Cal-Y3 D62** |
+| 665 | [day-665.md](days/week-095/day-665.md) | **WW-YARD** | **CHEM-LAB-WALL-665 ✓ · N+W courses 1–2 · Stage 3 ~35%** · **Cal-Y3 D63** |
+| 666 | [day-666.md](days/week-096/day-666.md) | **WW-YARD** | **Week 96 opens · CHEM-LAB-WALL-666 ✓ · perimeter course 2 · ~70%** · **Cal-Y3 D64** |
+| 667 | [day-667.md](days/week-096/day-667.md) | **WW-YARD · farm** | **CHEM-LAB-WALL-HEIGHT-667 ✓ · FROST-GATE-3 PASS · ~95%** · **Cal-Y3 D65** |
+| 668 | [day-668.md](days/week-096/day-668.md) | **Kiln B** | **FACTORY-FULL-668 ✓ · FROST-GATE-3 close · ~16 stack** · **Cal-Y3 D66** |
+| 669 | [day-669.md](days/week-096/day-669.md) | **Bed B** | **SPRING-SOW-3 ✓ · lentil · flax · emmer · herbs** · **Cal-Y3 D67** |
+| 670 | [day-670.md](days/week-096/day-670.md) | **Kiln B** | **FARM-READ GREEN · FACTORY-FULL-670 ✓ · ~25 stack** · **Cal-Y3 D68** |
+| 671 | [day-671.md](days/week-096/day-671.md) | **Kiln B** | **FACTORY-STREAK-671 ✓ · PIT-CHAR-61 · ~34 stack** · **Cal-Y3 D69** |
+| 672 | [day-672.md](days/week-096/day-672.md) | **Kiln B** | **Week 96 close · FACTORY-STREAK-672 ✓ · ~43 stack** · **Cal-Y3 D70** |
+| 673 | [day-673.md](days/week-097/day-673.md) | **Kiln B** | **Week 97 opens · FACTORY-STREAK-673 ✓ · clay/wood read** · **Cal-Y3 D71** |
+| 674 | [day-674.md](days/week-097/day-674.md) | **T-1 three-lap** | **HAUL-BIG-674 ✓ · wood ~72 kg · clay ~31 kg · FS-19–22** · **Cal-Y3 D72** |
 
 ## Centadials (every 100 days)
 
@@ -745,7 +789,14 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 87 | [week-087.md](weeks/week-087.md) | 603–609 | **COOL-CELLAR build sprint** *(closed Day 609)* |
 | 88 | [week-088.md](weeks/week-088.md) | 610–616 | **Cellar · shower · proper bed** *(closed Day 616)* |
 | 89 | [week-089.md](weeks/week-089.md) | 617–623 | **Iron week — anvil · bucket · cart SB** *(closed Day 623)* |
-| 90 | [week-090.md](weeks/week-090.md) | 624+ | **Smelt week — bloom · CART-IRON finish** *(opens Day 624)* |
+| 90 | [week-090.md](weeks/week-090.md) | 624–630 | **Smelt week — bloom · CART-IRON finish** *(closed Day 630)* |
+| 91 | [week-091.md](weeks/week-091.md) | 631–637 | **Tool backup + HAUL-IRON-3** *(closed Day 637)* |
+| 92 | [week-092.md](weeks/week-092.md) | 638–644 | **Post-haul campus — iron molds · vault draw** *(closed Day 644)* |
+| 93 | [week-093.md](weeks/week-093.md) | 645–651 | **Char marathon — dual pit · WOOD-SORT** *(closed Day 651)* |
+| 94 | [week-094.md](weeks/week-094.md) | 652–658 | **Ice · factory · CHEM-LAB-WING** *(closed Day 658)* |
+| 95 | [week-095.md](weeks/week-095.md) | 659–665 | **Socle · lime bed · first mure** *(closed Day 665)* |
+| 96 | [week-096.md](weeks/week-096.md) | 666–672 | **Walls · sow · factory streak** *(closed Day 672)* |
+| 97 | [week-097.md](weeks/week-097.md) | 673+ | **Factory · P-17 watch · lab top** *(opens Day 673)* |
 
 ## Day folders
 
@@ -828,6 +879,12 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 75 | [days/week-075/](days/week-075/) |
 | 76 | [days/week-076/](days/week-076/) |
 | 77 | [days/week-077/](days/week-077/) |
+| 92 | [days/week-092/](days/week-092/) |
+| 93 | [days/week-093/](days/week-093/) |
+| 94 | [days/week-094/](days/week-094/) |
+| 95 | [days/week-095/](days/week-095/) |
+| 96 | [days/week-096/](days/week-096/) |
+| 97 | [days/week-097/](days/week-097/) |
 
 ## Years
 

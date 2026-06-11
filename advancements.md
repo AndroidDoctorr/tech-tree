@@ -1,11 +1,55 @@
 # Advancements
 
-*Last audited: **Day 630** (~10,000 BC)*
+*Last audited: **Day 674** (~10,000 BC)*
 
-What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md)
+What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
 
 ## Summary
 
+**Day 674 · Cal-Y3 D72:** **HAUL-BIG-674 ✓ · wood ~72 kg · clay ~31 kg · FS-19–22**
+**Day 673 · Cal-Y3 D71:** **Week 97 opens · FACTORY-STREAK-673 ✓ · ~52 stack**
+**Day 672 · Cal-Y3 D70:** **Week 96 close · FACTORY-STREAK-672 ✓ · ~43 stack**
+**Day 671 · Cal-Y3 D69:** **FACTORY-STREAK-671 ✓ · ~34 stack**
+**Day 670 · Cal-Y3 D68:** **FACTORY-FULL-670 ✓ · FARM-READ GREEN · ~25 stack**
+**Day 669 · Cal-Y3 D67:** **SPRING-SOW-3 ✓ · Bed B Y3 split sown**
+**Day 668 · Cal-Y3 D66:** **FACTORY-FULL-668 ✓ · FROST-GATE-3 close · stack ~16**
+**Day 667 · Cal-Y3 D65:** **CHEM-LAB-WALL-HEIGHT-667 ✓ · FROST-GATE-3 PASS · Stage 3 ~95%**
+**Day 666 · Cal-Y3 D64:** **Week 96 opens · CHEM-LAB-WALL-666 ✓ · Stage 3 ~70%**
+**Day 665 · Cal-Y3 D63:** **CHEM-LAB-WALL-665 ✓ · Stage 3 ~35%**
+**Day 664 · Cal-Y3 D62:** **LIME-STAGGER-664 ✓ · CHEM-LAB-STAGE-2 ✓**
+**Day 663 · Cal-Y3 D61:** **FACTORY-FULL-663 ✓ · ~195 brick · KILN-SPLIT doctrine**
+**Day 662 · Cal-Y3 D60:** **SPRING-PREP-662 ✓ · PIT-CHAR-57 · CALCIUM-OK**
+**Day 661 · Cal-Y3 D59:** **CHEM-LAB-SOCLE-CLOSE-661 ✓ · Stage 1 complete**
+**Day 660 · Cal-Y3 D58:** **FACTORY-FULL-660 ✓ · ~186 brick**
+**Day 659 · Cal-Y3 D57:** **HAUL-BIG-659 ✓ · wood ~77 kg · clay ~46 kg · FS-15–18**
+**Day 658 · Cal-Y3 D56:** **Week 94 close · FACTORY-FULL-658 ✓ · ~177 brick**
+**Day 657 · Cal-Y3 D55:** **CHEM-LAB-STAKE-657 ✓ · socle ~40%**
+**Day 656 · Cal-Y3 D54:** **PIT-DUAL-656 ✓ · CHEM-LAB-WING filed**
+**Day 655 · Cal-Y3 D53:** **FACTORY-STREAK-655 ✓ · ~168 brick**
+**Day 654 · Cal-Y3 D52:** **FACTORY-FULL-654 ✓ · ~159 brick · quad press**
+**Day 653 · Cal-Y3 D51:** **ICE-HAUL-3 ✓ · ~39 kg cellar cold mass**
+**Day 652 · Cal-Y3 D50:** **Week 94 opens · ICE-HAUL-2 ✓ · vault ~24 kg**
+**Day 651 · Cal-Y3 D49:** **Week 93 close · HAUL-MULTI-651 ✓ · ICE-WINDOW-GREEN**
+**Day 650 · Cal-Y3 D48:** **HAUL-WOOD-650 ✓ · WOOD-SORT-DOCTRINE · barn timber stock**
+**Day 649 · Cal-Y3 D47:** **FACTORY-SPLIT-649 ✓ · ~150 brick · vault untouched**
+**Day 648 · Cal-Y3 D46:** **CHAR-VAULT-TOPUP-648 ✓ · vault ~51.5 kg**
+**Day 647 · Cal-Y3 D45:** **PIT-CHAR-48+49 ✓ · lane ~25 kg · PIT-DUAL default doctrine**
+**Day 646 · Cal-Y3 D44:** **PIT-CHAR-46+47 ✓ · PIT-DUAL stagger · lane ~15 kg**
+**Day 645 · Cal-Y3 D43:** **Week 93 opens · HAUL-MULTI-645 ✓ · char week GO · FS-12–14**
+**Day 644 · Cal-Y3 D42:** **BRICK-MOLD-IRON-2 ✓ · quad press · 9 fired · VAULT-DRAW-644 · PIT-CHAR-45**
+**Day 643 · Cal-Y3 D41:** **IRON-BLOOM-26 ✓ · BRICK-MOLD-IRON-1 ✓ · #2 ~65% · triple-press class**
+**Day 642 · Cal-Y3 D40:** **HAUL-MULTI-642 ✓ · wood ~36 kg · clay +~5 kg · partial domus doctrine**
+**Day 641 · Cal-Y3 D39:** **PIT-CHAR-44 ✓ · domus hoard slate · ~132 fired brick**
+**Day 640 · Cal-Y3 D38:** **PIT-CHAR-43 ✓ · KILN-B-BRICK-FIRE-640 ✓ · ~123 fired brick**
+**Day 639 · Cal-Y3 D37:** **IRON-WOOD-CHISEL-3 ✓ · tool backup queue closed**
+**Day 638 · Cal-Y3 D36:** **Week 92 opens · HAUL-IRON-3 ✓ · H-11 ~40 kg @ pile 4**
+**Day 637 · Cal-Y3 D35:** **H-11 bench mine ~38.5 kg · HAUL-IRON-3 loaded @ wagon**
+**Day 636 · Cal-Y3 D34:** **HAUL-IRON-3 launch · wagon @ H-11 bench**
+**Day 635 · Cal-Y3 D33:** **HAUL-IRON-3 staged · farm coast · wagon + motel bundle**
+**Day 634 · Cal-Y3 D32:** **IRON-BLOOM-24 ✓ · IRON-WEDGE-2 ✓ · H-11 ~1.50 kg**
+**Day 633 · Cal-Y3 D31:** **COOL-CELLAR-13-LOAD ✓ · waxed fish · fig leather**
+**Day 632 · Cal-Y3 D30:** **ICE-HAUL-1 ✓ · ICE-VAULT ~20 kg · COOL-CELLAR food-ready**
+**Day 631 · Cal-Y3 D29:** **Week 91 opens · IRON-TONGS-2 ✓ · backup hot-iron pair**
 **Day 630 · Cal-Y3 D28:** **IRON-BLOOM-23 ✓ · IRON-TONGS-2 queued**
 **Day 629 · Cal-Y3 D27:** **IRON-BLOOM-22 ✓ · tool backup slate**
 **Day 628 · Cal-Y3 D26:** **CART-IRON-1 ✓ · CART-BED-IRON-1**

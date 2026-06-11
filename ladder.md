@@ -251,14 +251,14 @@
 
 | ID | Upgrade | Benefit | Priority |
 |----|---------|---------|----------|
-| **ICE-HAUL-1** | **Wagon load** @ **ICE-ROUTE-1** on hard-freeze week | Real ICE-VAULT blocks | **High** *(melt ~1 mm/48 h @ Day 615)* |
-| **ICE-PACK-STRAW** | Full straw/sawdust pack on haul blocks | +days on ice | **With ICE-HAUL** |
+| **ICE-HAUL-1** | **✓ Day 632** @ **ICE-ROUTE-1** | **~20 kg** ICE-VAULT packed | **Done** |
+| **ICE-PACK-STRAW** | **✓ Day 632** full straw pack | +days on ice | **Done** |
 | **COOL-CELLAR-8-WALL** | **Stone inner face** + straw/reed batt in pit walls | Slower wall conduction | Medium |
 | **COOL-CELLAR-9-FLOOR** | **Clay pan finish** + reed grate refinement @ food zone | Dry racks · less mud | Medium |
 | **COOL-CELLAR-10-ZONE** | **Hide curtains** between ICE-VAULT / food / intake | Less warm pulse on open | Low |
 | **COOL-CELLAR-11-HYGRO** | **Humidity slate** — vent + evap trough valve discipline | Mold gate on dry goods | Ongoing |
 | **COOL-CELLAR-12-HEADER-COOL** | **Spring/header branch** on intake (not food splash) | Pre-chill on draw days | Low |
-| **COOL-CELLAR-13-LOAD** | **First food load trial** — waxed fish @ rack | Prove +2–4 d window | After ice haul |
+| **COOL-CELLAR-13-LOAD** | **✓ Day 633** — waxed fish + fig leather | +3 d target read | **Done** |
 | **COOL-CELLAR-14-SALT-ICE** | **Separate sealed niche** for salt-ice bath | Dairy-class horizon · not on food ice | Horizon |
 
 ---
@@ -498,13 +498,14 @@
 | Copper awl · needle · pin class | ✓ |
 | Smelt **#1–22** (malachite) | ✓ **SMELT-22 Day 621 · CU-BUCKET stock** |
 | **FORGE-D** bloomery pad + belt blast | ✓ **IRON-GATE 14/14** |
-| **Iron bloom + weld** | ✓ **BLOOM #1–23** · **peg ~430 g Day 630** |
-| **Iron ore** **H-11 (O-IRON-1)** | **~2.15 kg** @ pile 4 · **~3 blooms left · haul refill urgent** |
+| **Iron bloom + weld** | ✓ **BLOOM #1–25** · **peg ~200 g Day 639** |
+| **Iron ore** **H-11 (O-IRON-1)** | **~39.35 kg** @ pile 4 · **HAUL-IRON-3 ✓ Day 638** |
 | **ANVIL-1** (full block · hardy · horn) | **✓ Day 620** · **~1.22 kg @ FORGE stump** |
 | **IRON-CHISEL-1** (stone dress) | ✓ **Day 345** |
 | **IRON-BAR-1** scrap | **~5 g** curl only |
 | **IRON-AXE-1** | **✓ ~340 g head · Day 352** |
 | **IRON-WEDGE-1** | **✓ ~95 g · Day 354** |
+| **IRON-WEDGE-2** | **✓ ~98 g · Day 634** |
 | **IRON-NAILS-1** | **✓ ×25 remain** |
 | **IRON-ADZE-1** | **✓ ~115 g · Day 358** |
 | **IRON-HAMMER-1** | **✓ ~195 g · Day 367** |
@@ -567,10 +568,10 @@
 | **Forge + wheel + house** integrated yard | ~ WW-YARD-1 ✓ · millhouse ✓ · tune ongoing |
 | **MILLHOUSE smelt kit** (ore · tongs · slag · charcoal lane) | ✓ **Block #17–20 ✓ Day 245** · **~148 g stock class** |
 | **AQUEDUCT-1** (wood trough · clay pipe · stake line) | · **SLUICE-1 fork → v1 · H-v2 · FORGE-D** · **~140 m phased** |
-| **CHEM-LAB-1** (bench · shelf · vent · slop sink) | · **STORE-3 overflow or WW north bay enclosure** |
+| **CHEM-LAB-1** (bench · shelf · vent · slop sink) | ~ **Stage 3 ~95%** · **courses 1–4 @ WW-YARD** · **factory refill → bond beam** — [chem-lab-plan.md](chem-lab-plan.md) |
 | **FORGE-UPGRADE-1** (ANVIL-1 · hardy · horn · mass) | **ANVIL-1 ✓** · **CHAR-RETORT-1** · roast bed |
 | **FORGE-UPGRADE-2** (twin hearth · ore preheat · quench trough) | · **after AQUEDUCT-1** · water at stump |
-| **CERAMICS-FACTORY-2** (2nd mold · stagger · lab ware line) | ~ **Kiln B ✓** · factory paused · **press+fire rhythm restore** |
+| **CERAMICS-FACTORY-2** (iron molds · stagger · lab ware line) | **✓ iron molds #1+#2** · **quad press live** · **~14 green/day class** · POT-LAB-SET-1 next |
 | **POT-LAB-SET-1** (crucibles · vials · bowls · trays @ scale) | · **+6–12 pcs** · peripheral fires · chemistry throughput |
 | **KILN-C-UPGRADE-1** (glass window · longer soak) | · **after factory stable** · not peripheral bead only |
 
@@ -779,20 +780,21 @@
 
 **Tier 0 — forge backups (this week):**
 
-1. **IRON-TONGS-2** — **queued Day 631** · peg ~430 g · ANVIL-1 GO
-2. **IRON-WOOD-CHISEL-3** · **IRON-WEDGE-2** — **after tongs if peg rebuilds**
-3. **Farm scare-only** — fall flax dormant · dawn block only
+1. **IRON-TONGS-2 ✓ · ICE-HAUL-1 ✓ · COOL-CELLAR-13 ✓ · IRON-WEDGE-2 ✓**
+2. **HAUL-IRON-3** — **✓ Day 638 · ~40 kg @ pile 4**
+3. **IRON-WOOD-CHISEL-3** — **✓ Day 639**
+4. **Farm scare-only** — fall flax dormant · dawn block only
 
 **Tier 1 — ore gate (next hero week class):**
 
-4. **BRIDGE-1** — **km 3 creek** · pinned @ EXPED-SCOUT south
-5. **HAUL-IRON-3 / H-11 expedition** — **loaded wagon** · **30–50+ kg target** · **stop smelting when H-11 empty**
+5. **BRIDGE-1** — **km 3 creek** · pinned @ EXPED-SCOUT south
+6. **HAUL-IRON-3 / H-11 expedition** — **loaded wagon** · **30–50+ kg target** · **stop smelting when H-11 empty**
 
 **Tier 2 — interleave (non-blocking):**
 
-6. **PIT-CHAR** — lane ~26 kg · vault ~38 kg · **B-90 staked**
-7. **STONE-CUT-1** · **GLASS-PRACTICE-1** — ½-day when home
-8. **M-22 repeat** · **M-11 coast top-up** — low priority vs H-11
+7. **PIT-CHAR** — **✓ Day 640 PIT-CHAR-43** · lane **~8 kg** · vault **~38 kg** · **B-91 staked**
+8. **STONE-CUT-1** · **GLASS-PRACTICE-1** — ½-day when home
+9. **M-22 repeat** · **M-11 coast top-up** — low priority vs H-11
 
 **Tier 3 — done / deferred:**
 

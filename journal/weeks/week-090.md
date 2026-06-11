@@ -2,7 +2,7 @@
 
 **Days 624+ · ~10,000 BC · Orontes valley**  
 **Home:** **H-v2** · **Respawn:** H-v2 PROPER-BED-1  
-**Theme:** **Smelt week — bloom stock · finish CART-IRON · vault char OK**
+**Theme:** **Smelt week — bloom stock · finish CART-IRON · vault char OK** *(closed Day 630)*
 
 ---
 
@@ -50,13 +50,13 @@ Week ninety continues **forge hero grammar** from iron week: **H-11 blooms** and
 
 ---
 
-## Carrying (into Week 90)
+## Carrying (into Week 91)
 
-- **CHAR vault ~46 kg** · **lane ~26 kg**
-- **H-11 ~4.75 kg** · **peg ~90 g**
-- **CART-HUB-COLLAR-SB-1 ✓** · **PT ~60%**
+- **CHAR vault ~38 kg** · **lane ~25 kg**
+- **H-11 ~2.15 kg** · **peg ~430 g → tongs Day 631**
+- **CART-IRON-1 ✓** · **ANVIL-1 ✓ · CU-BUCKET-1 ✓**
 - **Line flax 0 g** · **~54 m fine thread**
 
 ---
 
-*Week 90 opens Day 624. Week 89 closed Day 623.*
+*Week 90 closed Day 630. Week 91 opens Day 631.*

@@ -1,6 +1,6 @@
 # Skills ledger
 
-*Last updated: **Day 630** (~10,000 BC) · week 90 · bloom 23 · tongs queued*
+*Last updated: **Day 642** (~10,000 BC) · week 92 · haul + factory · domus partial build OK
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
@@ -58,9 +58,9 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
 | **Circuits · motor · electroplating** | **4** theory | **2** | — | **Wire ✓ · LODE-SUSPEND-1 ✓ d394** — weak bearing · COMPASS-1 horizon. |
 | **Copper smelt / forge** | **1** | **4** | **+3** | Kiln C · **20+** smelts · full **CU-*** suite. |
-| **Iron roast · slag · bloom · weld** | **0** | **3** | **+3** | Blooms **#1–23** · **ANVIL-1 ✓** · **FORGE-D** ✓ · cart-iron weld class. |
-| **Iron tool forge** | **0–1** | **3** | **+2** | Axe · adze · spade · pick · sickle · hoe · cart bed iron · **IRON-TONGS-2 queued d631**. |
-| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-2 ~10.4 kg d370** · **H-11 ~2.15 kg — refill expedition queued**. |
+| **Iron roast · slag · bloom · weld** | **0** | **3** | **+3** | Blooms **#1–24** · **ANVIL-1 ✓** · **FORGE-D** ✓ · cart-iron weld class. |
+| **Iron tool forge** | **0–1** | **3** | **+2** | **TONGS ×2 · WEDGE ×2 · WOOD-CHISEL ×2 ✓ d639** — backup queue closed. |
+| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-2 ~10.4 kg** · **HAUL-IRON-3 ~38.5 kg d637** · **~40 kg stock**. |
 | **Malachite cliff cut** | **0** | **2** | **+2** | Modest haul · greed guard post Day 104. |
 | **Glass precursors** | **0** | **1** | +1 | **TRIAL-3 washed bead ✓ d395** · soak · anneal tray · blend doctrine. |
 | **Soap / lye / salt chemistry** | **2** | **2** | — | Salt · brine · tallow · **SOAP** ~phase 3. |
@@ -159,12 +159,15 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 | Item | Condition @ d630 | Notes |
 |------|------------------|-------|
 | **CU-FORGE-TONGS-1** | **retired** | Coals only — jaws sprung d471 |
-| **IRON-TONGS-1** | **good · slight jaw wobble** | Primary hot-iron · **IRON-TONGS-2 backup queued** |
+| **IRON-TONGS-1** | **good · slight jaw wobble** | Primary hot-iron @ FORGE peg |
+| **IRON-TONGS-2** | **good · slight jaw wobble** | Backup pair Day 631 · rotation with TONGS-1 |
 | **CU-FIRE-TONGS-1** | **fair** | Coals only |
 | **ANVIL-1** | **good** | **~1.22 kg** full block · hardy · horn — supersedes ANVIL-FACE-1 |
 | **IRON-CHISEL-1** | **good** | Stone dress · hot punch |
-| **IRON-WOOD-CHISEL-2** | **good** | Paring · **IRON-WOOD-CHISEL-3 backup on slate** |
-| **IRON-WEDGE-1** | **good** | **IRON-WEDGE-2 backup on slate** |
+| **IRON-WOOD-CHISEL-2** | **good** | Primary @ WORKBENCH peg |
+| **IRON-WOOD-CHISEL-3** | **good** | Backup Day 639 |
+| **IRON-WEDGE-1** | **good** | Primary @ WORKBENCH peg |
+| **IRON-WEDGE-2** | **good** | Backup Day 634 |
 | **FORGE-PPE-1** | **good** | Apron · visor · **CL-GLOVE-H v1** |
 
 ---
@@ -175,6 +178,18 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
+| **634** | Iron tool forge | *(hold 3)* | **IRON-WEDGE-2 ✓** |
+| **634** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-24** |
+| **633** | Cooking & baking | *(hold 5)* | **COOL-CELLAR-13-LOAD** |
+| **639** | Iron tool forge | *(hold 3)* | **IRON-WOOD-CHISEL-3 ✓** |
+| **639** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-25** |
+| **638** | Loaded march / travois | *(hold 4)* | **HAUL-IRON-3 ✓** |
+| **638** | Donkey team train | *(hold 4)* | **Loaded wagon return** |
+| **637** | Bench ore mining | *(hold 4)* | **H-11 ~38.5 kg wagon class** |
+| **636** | Donkey team train | *(hold 4)* | **HAUL-IRON-3 wagon launch** |
+| **636** | Loaded march / travois | *(hold 4)* | **HOME → H-11 @ wagon** |
+| **632** | Loaded march / travois | *(hold 4)* | **ICE-HAUL-1 ✓** |
+| **631** | Iron tool forge | *(hold 3)* | **IRON-TONGS-2 ✓** |
 | **624** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-20** |
 | **630** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-23** |
 | **630** | Fire maintenance / charcoal | *(hold 4)* | **PIT-CHAR-42** |
