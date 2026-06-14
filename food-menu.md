@@ -1,21 +1,23 @@
 # Food menu — recipes & pantry
 
-*Last audited: **Day 600** (~10,000 BC). **Stock:** [inventory.md](inventory.md) · **Feast slate:** FEAST-602 @ Day 602 · **Ladder gaps:** [ladder.md](ladder.md) (Food & calories)*
+*Last audited: **Day 727** · **FOOD-LEDGER-726** · **Stock:** [inventory.md](inventory.md) · **Ledger:** [food-ledger.md](food-ledger.md) · **Feast slate:** FEAST-602 @ Day 602 · **Ladder gaps:** [ladder.md](ladder.md) (Food & calories)*
 
 **Rule:** Listed **✓** = you have ingredients **and** technique logged. **~** = partial / substitute honest. **·** = missing gate ingredient or season.
 
 ---
 
-## Pantry snapshot (Day 600)
+## Pantry snapshot (Day 727)
 
 | Ingredient | ~Qty | Notes |
 |------------|------|-------|
-| **Smoked fish** | ~8 kg | Weir routine · hero fillet tagged for feast |
-| **Fish jerky** | ~860 g | Salt + smoke + dry |
-| **Salt** | ~320 g | S-03 evap batches |
-| **Parched grain** | ~1.7 kg | Feast draw in progress |
-| **Emmer** | ~1.6 kg | Thresh · porridge · grind |
-| **Lentils (P-17)** | ~120 g soak + ~120 g dry | Y2 harvest |
+| **Smoked fish** | ~8.9 kg | Weir routine |
+| **Fish jerky** | ~1.48 kg | Salt + smoke + dry |
+| **Snails (SNAIL-1)** | **~0.6 kg brined** | **SNAIL-ROUTINE ✓ Day 727 · 2×/week** |
+| **Salt** | ~290 g | S-03 evap batches |
+| **Parched grain** | ~4.0 kg | SCOUT + v1 draw |
+| **Emmer** | ~0.55 kg + BARREL-2 | Thresh · parched · barrel |
+| **Lentils (P-17)** | ~240 g | Y2 harvest |
+| **P-18 chickpea seed** | **~35 g** | **SEED-VAULT · autumn sow Bed A** |
 | **Olives (brine)** | ~2.0 kg crock | P-02 · months clock |
 | **Fig leather** | ~670 g | Sun-dried mash |
 | **Grape leather** | ~580 g | Sun-dried · vinegar rehydrate |
@@ -36,6 +38,7 @@
 | Dish | Key ingredients | Method |
 |------|-----------------|--------|
 | **Weir fish** (fresh) | Fish · salt · herb | Grill / clay bake / smoke excess |
+| **Snail bowl (SNAIL-BOWL-727)** | **SNAIL-1 · garlic · coriander · mint · tallow smear** | **Purge 24 h · boil 8 min · pick · eat or brine @ P-η** |
 | **Smoked fish** | Rack stock · salt | Re-warm @ oven cheek · herb rub |
 | **Jerky** (trail / snack) | Fish · salt · smoke · sun | Already scaled — eat dry or rehydrate in stew |
 | **Parched mash** | Parched · hot water · salt · mint | Closest daily "porridge" — thick · warm |

@@ -1,11 +1,40 @@
 # Advancements
 
-*Last audited: **Day 674** (~10,000 BC)*
+*Last audited: **Day 713** (~10,000 BC)*
 
 What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
 
 ## Summary
 
+**Day 750 · Cal-Y3 D148:** **COAST-SCOUT-1 launch · Week 108 · GOAT-ABSENCE-750 ✓ · ~46 kg @ COAST-TRAIL-1**
+**Day 748 · Cal-Y3 D146:** **PARCHED-BATCH-8 · JERKY-8 · CALORIE-BANK ~97%**
+**Day 747 · Cal-Y3 D145:** **ANIMAL-BLANKET-SILAS-1 ✓ · ×3 @ holding peg · COAST-WHEELS-UP-747 · prep closed**
+**Day 713 · Cal-Y3 D111:** **TEAM-TRAIN-3 session 3 ✓ · ~70% · empty cart hook · SCHEDULE-READ-713**
+**Day 711 · Cal-Y3 D109:** **LF 16F·8G · FIRE-2 ✓ · PRESS-3 ✓ · skim-before-lay doctrine**
+**Day 710 · Cal-Y3 D108:** **FACTORY interleave · LF 8F·16G · LAB-SURFACE-DOCTRINE · Week 102 boundary**
+**Day 709 · Cal-Y3 D107:** **STRAIGHT-EDGE-2 ✓ · MASON-IRON-KIT ✓ · LF ×8 green · ~100 tile layout**
+**Day 708 · Cal-Y3 D106:** **IRON-TROWEL-1 ✓ · IRON-MORTAR-FLOAT-1 ✓ · nails ×17 · MASON-IRON-KIT · slab unblocked**
+**Day 707 · Cal-Y3 D105:** **CHEM-LAB-WOODWORK-CLOSE ✓ · shelf ✓ · cab ✓ · sand/oil pass 2 · Stage 5 ~55%**
+**Day 706 · Cal-Y3 D104:** **SAND-SMOOTH ✓ · tallow doors ✓ · CAB ~95% · shelf ~85% · iron forge pace canon · BEE-SCOUT queued**
+**Day 705 · Cal-Y3 D103:** **CHEM-LAB-CAB-1 ~80% · E+W closed · weir draw · LAB-FINISH + lighting rungs @ ladder**
+**Day 704 · Cal-Y3 D102:** **CHEM-LAB-STAGE-5 ~25% · north shelves ~60% · east cabinet closed · west cab shell · interior doctrine filed**
+**Day 703 · Cal-Y3 D101:** **CHEM-LAB-STAGE-4 ✓ · vent hood skin ✓ · roof 100% · smoke draft PASS · VENT-FAN-PROVISION**
+**Day 702 · Cal-Y3 D100:** **TEAM-TRAIN-3 session 2 ✓ · ~55% · TURN-WATCH · pair yoke + Silas parallel**
+**Day 698 · Cal-Y3 D96:** **CHEM-LAB-ROOF-LAY-1 ✓ · ×21 laid · ~45% skin · drip PASS**
+**Day 697 · Cal-Y3 D95:** **TEAM-TRAIN-3 session 1 ✓ · Silas yoke sniff · ~30%**
+**Day 696 · Cal-Y3 D94:** **ROOF-TILE batch 4 ✓ · 28/~48 · lay gate OPEN**
+**Day 686 · Cal-Y3 D84:** **PIT-DUAL-686 ✓ · lane ~24 kg · ROOF-TILE batch 1 GREEN**
+**Day 685 · Cal-Y3 D83:** **CHEM-LAB-ROOF-SHELL ✓ · purlins + battens · vent hood frame · shell ~90%**
+**Day 684 · Cal-Y3 D82:** **HAUL-CLAY-WOOD-684 ✓ · clay ~48 kg · wood ~78 kg · ROOF-TILE-PIPELINE GREEN**
+**Day 683 · Cal-Y3 D81:** **LIME-REFILL-683 ✓ · CHEM-LAB-ROOF-FRAME ~50% · vent chase stub · quicklime ~1.04 kg**
+**Day 682 · Cal-Y3 D80:** **CHEM-LAB-STAGE-3 ✓ · CHEM-LAB-WALL-TOP-682 · BOND-BEAM-682 · ~216 brick in walls · Stage 4 queued**
+**Day 681 · Cal-Y3 D79:** **FACTORY-STREAK-681 ✓ · ~79 stack · CHEM-LAB-TOP-GREEN · quarantine d2**
+**Day 680 · Cal-Y3 D78:** **FACTORY-STREAK-680 ✓ · PIT-CHAR-65 · ~70 stack · YEARLING-3 quarantine d1**
+**Day 679 · Cal-Y3 D77:** **DONKEY-HUNT-3 ✓ · YEARLING-3 @ quarantine · Trip 6 complete · wagon escort homeward**
+**Day 678 · Cal-Y3 D76:** **Lead loop ✓ · 10-step walk ✓ · DONKEY-HUNT-3 homeward D679 queued**
+**Day 677 · Cal-Y3 D75:** **CORRAL QA ✓ · DONKEY-HUNT-3 d1 · recruit #3 lead sniff ✓ · loop D678**
+**Day 676 · Cal-Y3 D74:** **DONKEY-HUNT-3 Trip 6 launch ✓ · wagon + team → Camp-1 · absence day 1**
+**Day 675 · Cal-Y3 D73:** **P-17-COTYLEDON-675 ✓ · DONKEY-HUNT-3-PREP ✓ · FACTORY-675 ✓ · ~61 stack · launch D676**
 **Day 674 · Cal-Y3 D72:** **HAUL-BIG-674 ✓ · wood ~72 kg · clay ~31 kg · FS-19–22**
 **Day 673 · Cal-Y3 D71:** **Week 97 opens · FACTORY-STREAK-673 ✓ · ~52 stack**
 **Day 672 · Cal-Y3 D70:** **Week 96 close · FACTORY-STREAK-672 ✓ · ~43 stack**

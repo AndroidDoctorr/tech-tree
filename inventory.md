@@ -1,10 +1,10 @@
 # Inventory
 
-*Last audited: **Day 674** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography.*
+*Last audited: **Day 726** (~10,000 BC). **~estimate** = last hard count ± logged burns/consumption. Stock totals live here only — [map.md](map.md) for geography. **Food ledger:** [food-ledger.md](food-ledger.md)*
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y3 D72** · **Week 97 · HAUL-BIG-674 · factory runway restored**
+**Status:** **HOME H-v2** · **respawn H-v2 bed** · **Cal-Y3 D144** · **Week 107 · TRAIL-CACHE-2 ✓ · wheels-up ~748**
 
 ### COAST-1 ✓ complete (Day 202) — haul stored @ home
 
@@ -23,7 +23,7 @@
 | **Name** | **Mabel** — assigned Day 550 · **~70% probable female** |
 | **Location** | **HOLDING-1 partition A** ~5×4 m @ campus |
 | **Post-release** | **d200+** class — calm · lead-trained · **ANIMAL-BLANKET-MABEL-1 ✓ Day 570** |
-| **Train** | **TEAM-TRAIN-1 ✓ · WAGON-LOAD-25/50 ✓ · WOOD-HAUL-LIGHT ✓ Day 575** |
+| **Train** | **TEAM-TRAIN-3 ✓ Day 717 · WAGON-LOAD-50 team · WOOD-HAUL-LIGHT ✓ · TRIP-6 escort Day 679** |
 | **TROUGH-v2** | **✓** @ holding gate W |
 | **Browse @ home** | **7-day stack** class |
 
@@ -34,9 +34,21 @@
 | **Name** | **Humphrey** — assigned Day 550 · **~70% probable male** |
 | **Location** | **HOLDING-1 partition B** — released Day 550 |
 | **Source** | **DONKEY-HUNT-2 ✓ · D-27 darker-stripe recruit** |
-| **Post-release** | **d13 Day 576 — rest day · browse · shoulders clean** |
-| **Train** | **TEAM-TRAIN-1 ✓ · WAGON-LOAD-25/50 ✓ · WOOD-HAUL-LIGHT ✓ Day 575** |
+| **Post-release** | **d200+** class — calm · team-trained |
+| **Train** | **TEAM-TRAIN-3 ✓ Day 717 · WAGON-LOAD-50 team · WOOD-HAUL-LIGHT ✓ · TRIP-6 escort Day 679** |
 | **Sex confirm** | **Watch @ 18–24 mo · rename if wrong** |
+
+### Silas (YEARLING-3 · recruit #3 @ HOLDING-1)
+
+| Item | Notes |
+|------|--------|
+| **Name** | **Silas** — assigned Day 693 |
+| **Location** | **HOLDING-1 partition C** ~3×4 m — released Day 692 |
+| **Source** | **DONKEY-HUNT-3 ✓ · D-27 pale stockings recruit · Trip 6** |
+| **Mark** | **Pale frost stockings · no dark stripe** |
+| **Quarantine** | **✓ Day 679–692** |
+| **Train** | **TEAM-TRAIN-3 ✓ Day 717 · WAGON-LOAD-50 team PASS · Silas trace @ 50 kg** |
+| **Blanket** | **ANIMAL-BLANKET-SILAS-1 ✓ Day 747 · ~88×132 cm @ holding peg C** |
 
 ### SALT-1 · brine · herbs
 
@@ -78,6 +90,7 @@
 | **CL-TUNIC-TIEDYE-1** | **✓ Day 591** — bind-resist multi-dip · iron · hull · grape · madder · ~48×90 cm · **@ peg** |
 | **Tabard v1** | ~55×38 cm · **lime whitewash** — **@ peg rotation** |
 | **CL-TABARD-2** | **✓ Day 542** — purple-mauve grape skin · ~56×39 cm · **primary over-layer** |
+| **CL-CLOAK-1** | **✓ Day 737** — grape body · teal hood lining · **M-08 yoke** · CU clasp · **~1.1 kg · @ WAGON-LASH-KIT dry well** |
 | **SHOE-2** | **Campus shoe @ H-v2** — double sole · cross-lace |
 | **Gloves v0** | Work — open palm |
 | **CL-GLOVE-H v1** | Heat — layered · **dual-tong** cuff **✓ Day 251** |
@@ -154,7 +167,7 @@
 | **KITCHEN-CURTAIN-1** | **✓ LM-2 linen ~1.12×0.88 m green-teal @ rod Day 528** |
 | **KITCHEN-DRY-RACK-1** | **✓ v0 oak dowels over sink Day 528** |
 | **KITCHEN-CLOSE-1** | **✓ Day 528** |
-| **KITCHEN-STOCK-528** | **parched · salt · olives · jerky · tallow · herbs @ pegs** |
+| **KITCHEN-STOCK-528** | **parched · salt · olives · jerky · tallow · herbs @ pegs · **CALORIE-TRAY-1 SCOUT-BANK Day 722** · **COOL-CELLAR SCOUT L2–L3 Day 723** |
 | **AQUEDUCT-1** | **✓ Day 564 — intake → porch · forge tap · kitchen · pen float** |
 | **KITCHEN-FAUCET-1** | **✓ Day 564 · v1.1 tune Day 571 — ~14 s fill class @ sink** |
 | **CU-SPIGOT-1** | **✓ ~16 g hammered lip @ wet feed** |
@@ -171,7 +184,7 @@
 | **BUNG-TAP-3** | **✓ Day 593** — **oak plug + hide washer + CU lip ~7 g @ BARREL-3** |
 | **BARREL-SET-1** | **✓ ×3 tappable** — **BARREL-1 water · BARREL-2 grain · BARREL-3 water** |
 | **FEATHER-BAG-1** | **~153 g** mixed down + contour | **BIRD-HUNT-592/596/597 @ v1 FIBER peg** |
-| **ANIMAL-BLANKET-SET-1** | **✓ Day 570** — **holding rugs @ HOLDING peg** |
+| **ANIMAL-BLANKET-SET-1** | **✓ Day 570/747** — **holding rugs ×3 @ HOLDING peg (Mabel · Humphrey · Silas)** |
 | **ANIMAL-RAIN-SHEET-SET-1** | **✓ Day 580** — **×2 ~70×100 cm rollable @ wagon/CART peg** |
 | **BUNG-TAP-1** | **✓ Day 568** — **oak plug + hide washer + CU lip ~8 g @ bung** |
 | **COOPERAGE-1** | **✓ Day 567–568 · swell PASS** |
@@ -208,18 +221,21 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Emmer bulk (EMMER-Y2-581)** | **~1.75 kg** | **Day 581 Bed B south · @ v1 dry shelf / basket #5** |
+| **Emmer bulk (EMMER-Y2-581)** | **~0.55 kg** | **−~1.2 kg PARCHED-BATCH-722 · elite seed vault untouched** |
 | **Threshed grain** | **~25 g** | batch #6 Day 182 — legacy small lot |
 | **Elite seed** | **~120 g** class | **−emmer elite SPRING-SOW-3 Day 669 · +EMMER-ELITE-Y2 ~92 g Day 581** |
 | **Malachite ore (O-1)** | **~11.6 kg** class | **−~3.8 kg SMELT-22 Day 621** |
-| **Quicklime (dry)** | **~0.45 kg** | **−~0.30 kg slaked CHEM-LAB-WALL-HEIGHT-667 Day 667** |
-| **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class |
-| **Parched grain (PARCHED-1)** | **~1.7 kg** | **−~200 g FEAST-COOK-600 · winter target met** |
+| **Quicklime (dry)** | **~0.35 kg** | **−~0.7 kg BRIDGE-1 abutment skim + pin Day 718–720 · slake from pile 7 for bulk mortar** |
+| **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class · **~half full** |
+| **Slaked lime putty @ v1** | **~0.4 kg** | **Fresh batch Day 719 bridge cheek — cover water** |
+| **Parched grain (PARCHED-1)** | **~10.95 kg** | **PARCHED-BATCH-8 Day 748 · −cache draw Day 746** |
+| **Fish jerky (JERKY-1)** | **~2.15 kg** | **JERKY-8 Day 748 · −cache draw Day 746** |
+| **Smoked fish** | **~12.7 kg** | **Batches 732–734 · SCOUT + v1 daily draw** |
+| **SCOUT-TRAY-2** | **~8.47 kg @ v1 dry rack** | **+wax Day 748 · launch-ready** |
 | **Fig leather (P-12)** | **~450 g** | **−~220 g COOL-CELLAR-13 Day 633** |
 | **Pistachio (P-01)** | **~2.3 kg** kernels | Shelled Day 185 · hulls → pile 6 |
-| **Smoked fish** | **~7.5 kg** | **−~480 g COOL-CELLAR-13 Day 633** |
-| **Fish jerky (JERKY-1)** | **~860 g** dry | **+JERKY-2 ~240 g Day 599 · ~150 g @ TRAIL-CACHE-1** |
-| **Salt (SALT-1)** | **~320 g** | batch #1+#2+#3 · **P-η** @ v1 |
+| **Salt (SALT-1)** | **~290 g** | **−~10 g JERKY-4 prep Day 725** |
+| **Snails (SNAIL-1)** | **~1.1 kg** brined | **+~0.55 kg SNAIL-COOK-728 · SNAIL-ROUTINE 2×/wk** |
 | **Grape leather (P-03)** | **~580 g** | **+GRAPE-LEATHER-2 ~100 g Day 599** |
 | **GRAPE-VINEGAR-1** | **~0.6 L** | **P-η crock @ v1 CHEM · Day 508 split** |
 | **GRAPE-VINEGAR-MOTHER** | **~0.3 L** | **Mother crock labeled @ v1 CHEM** |
@@ -266,13 +282,13 @@
 | Location | Qty | Notes |
 |----------|-----|--------|
 | **Store C** (vault) | **~51.5 kg class** | **+~20 kg CHAR-VAULT-TOPUP-648 Day 648** |
-| **CHAR lane @ forge** | **~17 kg** class | **PIT-CHAR-63 + KILN-B Day 673 · lane only** |
+| **CHAR lane @ forge** | **~2 kg** class | **−~3.6 kg LF fire Day 710 · pit before next fire** |
 | **Pit B-58** | **banked Day 466** | **PIT-CHAR-10 Day 466** |
-| **Pile 5** (wood) | **~72 kg** char class | **+~43 kg HAUL-BIG-674 Day 674 · WOOD-SORT** |
-| **Barn timber stock** | **~31 kg** class | **+~7 kg straight oak Day 674 · WOOD-SORT-DOCTRINE** |
-| **CART-YARD timber** | **×1 straight oak ~4.2 m reserve** | **×2 → WAGON-ARCH ribs Day 566 · ridge from billet** |
-| **CHEM-LAB-WING-1** | **Stage 3 ~95% Day 667** | **MURE-R1 courses 1–4 · ~188 brick · ~1.1 m height · bond stubs** |
-| **Pit B-110** | **spent Day 673** | **PIT-CHAR-63 ✓ · B-111 staked** |
+| **Pile 5** (wood) | **~40 kg** char class | **+~32 kg WOOD-HAUL-2 Day 721 · −~22 kg BRIDGE-1 Days 718–720** |
+| **Barn timber stock** | **~18 kg** class | **−~13 kg bridge stringers/deck** |
+| **CART-YARD timber** | **×0 reserve** | **spent Day 719 peg stock** |
+| **CHEM-LAB-WING-1** | **Stage 5 ~64% · paused Day 716** | **Woodwork ✓ · LF paused · winter skim/lay** |
+| **Pit B-122** | **staked Day 700** | **PIT-CHAR-74 ✓ · next burn queued** |
 | **KITCHEN-THATCH** (pile 2) | **spent** | **roof ✓ Day 506 · ~0.2 kg scrap** |
 | **KITCHEN-WOOD** (staged) | **×4 billets** | **@ stake + pile 5 tag** |
 | **BARN shake stock** | **×0 @ pile 9 · ×109 laid (×56 N · ×53 S)** | **SHAKE-ROOF skin ✓ · BARN-PITCH ✓ Day 495** |
@@ -286,8 +302,22 @@
 | **WHEELBARROW-1** | **frame only** | **Wheel removed Day 407 · box/legs @ yard margin** |
 | **CART-BED-1** | **✓ Day 409** | **~1.9×0.9 m · COVERED-WAGON v1 mounted · strip cover = haul mode** |
 | **WAGON-ARCH-1** | **✓ Day 569** | **×2 ribs + ridge @ CART-BED-1** |
-| **WAGON-COVER-THATCH-1** | **✓ v0 Day 569** | **removable lash · M-08 ridge · replace after 2–3 trips** |
-| **COVERED-WAGON-1 v1** | **✓ Day 569** | **WAGON-LOAD-50 ✓ · WOOD-HAUL-LIGHT ✓ Day 575 — haul gate open — not WAGON-RV-2** |
+| **WAGON-COVER-THATCH-2** | **✓ v1 refresh Day 749** | **removable lash · M-08 ridge · replace after 2–3 trips** |
+### COVERED-WAGON-1 v1 *(COAST-SCOUT-1 · Day 750 · ~46 kg loaded @ COAST-TRAIL-1)*
+
+| Zone | Items | Notes |
+|------|-------|-------|
+| **Starboard cradles ×3** | **AMPHORA-1 · (2 @ cache) · AMPHORA-3** | **AMPHORA-2 @ TRAIL-CACHE-2 · 1+3 @ wagon** |
+| **Forward dry well** | **CU-BUCKET-1 · haversack/go-bag · CL-CLOAK-1 · TRAP-KIT-2** | Bail catch · quick-release hook · **CL-COAT @ HOME** |
+| **Aft roll zone** | **TENT-1 · BEDROLL-1** | Transverse ×2 rope |
+| **Port tool rail** | **IRON-AXE-1 · IRON-ADZE-1 · SPEAR-2 · bow + quiver** | Vertical pegs |
+| **Center bed (marked)** | **SCOUT-TRAY-2 ~8.47 kg waxed** | **@ wagon Day 750 · COAST-SCOUT-1** |
+| **Manifest** | **~38 kg empty kit @ yard** | **Shakedown loop ✓ · cover on · YOKE @ peg** |
+| **Haul mode** | **Strip cover** | Cradles stay · soft load tops bed · **WAGON-HAUL-STRIP-716** |
+
+**YOKE-1** @ yard peg when parked · **not** on bed overnight.
+
+---
 | **WOOD-JOINT-1 blank** | **1** | **Pegged mortise reference @ W-1 peg rail Day 393** |
 | **Pit kiln (1 m)** | reusable | Batch charcoal method — not a stock |
 
@@ -297,18 +327,20 @@
 |----------|-----|--------|
 | **Kiln pad hoard** | **~80** | **−~32 HOT-WATER-1 Day 614** |
 | **Floor tile (F-series)** | **32 laid · 3F spare @ pad** | **KITCHEN-FLOOR-LAY-1 ✓ Day 516 · boot PASS** |
+| **Lab floor tile (LF-series)** | **32F · 8G @ Kiln B rack** | **Paused Day 716 · winter finish · ~60 remain** |
+| **STRAIGHT-EDGE-2** | **✓ ~1.85 m oak + iron lip** | **Day 709 @ WORKBENCH-1 peg · MASON-IRON-KIT complete** |
 | **Pile 3 / kiln yard** | **~87** | **Green** — **−8 fired Day 499** |
 | **Kiln B lining** | **~35** | In situ fired lining |
 | **Kiln C lining** | **~22** | + insulation patches |
-| **Pile 1** | **~31 kg** class | **+~13 kg HAUL-BIG-674 Day 674** |
+| **Pile 1** | **~11 kg** class | **−~2 kg LF press Day 712** |
 | **Red seep clay (M-02)** | small | Near pile 1 |
 | **River sand (grog)** | **~5.0 kg** class | **−~3.5 kg CHEM-LAB-STAGE-2 Day 664** |
-| **Fired roof tiles** | **48-class on kitchen roof · 47 @ W-1** | **KITCHEN-TILE-ROOF-1 ✓ Day 539** |
-| **Green roof tiles** | **0** | **roof sprint closed** |
-| **Tile pipeline** | **idle** | **reopen when annex/barn volume** |
+| **Fired roof tiles** | **×47 on CHEM-LAB slope · ridge ✓ · vent hood ✓ · roof 100%** | **CHEM-LAB-STAGE-4 ✓ Day 703** |
+| **Green roof tiles** | **0** | **Sprint scrap → grog · CL-R39 lay scrap** |
+| **Tile pipeline** | **active** | **batches 1–3 ✓ · ~27 remain · batch 4 opens lay** |
 | **AMPHORA-3** | **✓ pitched · load trial Day 350** | **M-08 ✓** · **water class · no weep** |
-| **AMPHORA-2** | **✓ pitched Day 321** | M-08 · **TRAIL-CACHE-2** optional |
-| **AMPHORA-1** | **✓ transport** | Fired · M-08 · **TRAIL-CACHE-TRIAL-1 ✓** |
+| **AMPHORA-2** | **✓ @ TRAIL-CACHE-2 Day 746** | M-08 · empty shell · water refill on west march |
+| **AMPHORA-1** | **✓ transport** | Fired · M-08 · **@ wagon starboard cradle** |
 | **Fired utility pots** | **P-ι-2 · P-κ-2 · P-λ-1..5** | **POT-KITCHEN-1 P-λ-5 Day 520** |
 | **TILE-FORM-1** | **1** | Half-log form @ kiln yard · sand-dusted |
 
@@ -316,8 +348,9 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Floor stones (FS)** | **FS-12–18 on CHEM-LAB socle** · **FS-19–22 @ pile 8** | **+4 slabs HAUL-BIG-674 · bond beam reserve** |
-| **Limestone / calcite (pile 7)** | **~61 kg** class | **−~4 kg LIME-STAGGER-664 Day 664** |
+| **Field / bridge stone (pile 4)** | **~26 kg** class reserve | **+~14 kg STONE-HAUL-1 Day 721 · ~18 kg @ BRIDGE-1 abutments** |
+| **Floor stones (FS) — pile 8** | **×3 FS-class blocks ~8 kg** | **FS-BRIDGE-TAG-721 · STONE-BRIDGE-1 stock · chem-lab FS in situ** |
+| **Limestone / calcite (pile 7)** | **~52 kg** class | **−~5 kg slaked @ BRIDGE-1 Day 718–719** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
 | **Copper peas (stock)** | **~12 g scrap** | **SMELT-22 + CU-BUCKET-1 Day 621** |
 | **CU-BUCKET-1** | **✓ ~128 g · ~3.8 L** | **Raised copper · riveted seam · bail · @ CART-YARD peg · leak PASS Day 621** |
@@ -325,10 +358,10 @@
 | **M-07 camp stain** | sample | Distinct from **O-1** |
 | **Chert cobbles (pile 5)** | **~18+** | **S-02 resupply Day 121**; go-bag stocked |
 | **Turquoise / scout chips** | small | Marked samples in dry shelf |
-| **H-11 hematite (O-IRON-1)** | **~38.70 kg** | **−~650 g IRON-BLOOM-26 Day 643** @ pile 4 |
+| **H-11 hematite (O-IRON-1)** | **~38.05 kg** | **−~650 g IRON-BLOOM-27 Day 708** @ pile 4 |
 | **IRON-AXE-1** | **✓ ~340 g head · ash haft** | **Day 352 · wood trial PASS @ pile 5** |
 | **IRON-ADZE-1** | **✓ ~115 g · ash haft** | **Day 358 · batten face trial PASS** |
-| **Iron bloom stock** | **~112 g @ peg** | BRICK-MOLD-IRON-2 ✓ Day 644 · forge scrap class |
+| **Iron bloom stock** | **~5 g @ peg** | **−~30 g STRAIGHT-EDGE-2 iron lip Day 709** |
 | **CART-BED-IRON-1** | **✓** | **×4 corner straps · tongue clevis + washers · Day 628** |
 | **CART-HUB-COLLAR-PT-1** | **✓ ~70 g** | **Port hub · mounted Day 625 · dual-hub roll PASS** |
 | **CART-HUB-COLLAR-SB-1** | **✓ ~72 g** | **Starboard hub · mounted Day 623 · spin + roll PASS** |
@@ -348,7 +381,9 @@
 | **Iron bar (IRON-BAR-1)** | **~5 g** curl scrap | **−~6 g IRON-NAILS-5 Day 441 · fold remainder @ slag** |
 | **IRON-WEDGE-1** | **✓ ~95 g · oak haft** | **Day 354 @ WORKBENCH-1 peg · primary** |
 | **IRON-WEDGE-2** | **✓ ~98 g · oak haft** | **Day 634 backup @ WORKBENCH-1 peg** |
-| **IRON-NAILS-1** | **×25** | **−×8 CART-BED-IRON-1 mount Day 628** |
+| **IRON-NAILS-1** | **×17** | **+×10 IRON-NAILS-708 · prior ×7** |
+| **IRON-TROWEL-1** | **✓ ~95 g head · ash ~0.32 m** | **Day 708 @ WORKBENCH-1 peg · grout trial PASS** |
+| **IRON-MORTAR-FLOAT-1** | **✓ ~70 g plate · ash ~0.28 m** | **Day 708 @ WORKBENCH-1 peg · bed screed PASS** |
 | **IRON-SICKLE-1** | **✓ ~108 g head · ash haft** | **Day 491 @ WORKBENCH-1 peg** |
 | **Iron chisel (IRON-CHISEL-1)** | **v0 ~130 g** | **@ WORKBENCH-1 peg** · edge refined Day 346 |
 | **ANVIL-1** | **✓ ~1.22 kg class** @ FORGE stump | **Day 619–620 mass weld close** · **hardy ~28 mm · full horn · face dressed** |
@@ -381,6 +416,9 @@
 | **BEDROLL-1 v0** | BEDDING pad + tick roll @ H-v2 / go-bag class |
 | **Haversack** | Staged H-v2 / v1 — FK-1, RK-1 |
 | **Go-bag duplicates (KIT-2)** | +6 m cord, +4 flakes, FK patches, **waterskin #2** filled |
+| **TRAP-KIT-2** | **✓ Day 743 @ wagon forward dry well** — pegs · toggles · cord · bait · ~1.2 kg · deploy on march |
+| **TRAP-SET-WEIR-2** | **✓ Day 742** — reed funnel @ weir downstream · armed · 2×/week service |
+| **TRAP-SET-TRAIL-1** | **✓ Day 743** — ×3 snares @ T-2 oak margin · 2×/week service |
 | **REST-1 @ Camp-1** | **✓ Day 137** — see on-trail section · amphora **future** |
 | **Pen treat stash** | **~400 g** weeds · fig · **~150 g** grain — **Trip 2 jar packed** |
 | **Corral stakes (donkey)** | **×8** willow **~1.5 m** @ pile 9 |
@@ -402,7 +440,7 @@
 | Structure | Role | Stock |
 |-----------|------|--------|
 | **Kiln A** | Lime / high temp | Calcite reserve; cold |
-| **Kiln B** | Brick factory | **~52** stackable · **~161** green queue · **~188 in CHEM-LAB walls** |
+| **Kiln B** | Brick factory | **~123** stackable · **~195** green queue · **~216 in CHEM-LAB walls** |
 | **Brick mold #1 · #2** | Wood oak + willow clips | **22×11×5 cm** interior · Day 28 |
 | **BRICK-MOLD-IRON-1** | **✓ Day 643** | **~148 g** lap-weld frame · oak slip base · @ kiln yard |
 | **BRICK-MOLD-IRON-2** | **✓ Day 644** | **~112 g** lap-weld frame · oak slip base · @ kiln yard |
@@ -416,9 +454,9 @@
 | Item | Notes |
 |------|--------|
 | **ROOF-W1** | **✓ 100% Day 364** — **47 tiles + ridge · drip PASS · T38 scrap** |
-| **LM-2 loom** | **✓ idle — CL-TUNIC-TIEDYE-1 blank closed Day 589** |
+| **LM-2 loom** | **✓ idle — CL-CLOAK-1 closed Day 737** |
 | **Line flax @ FIBER row** | **~0 g** | **depleted WHEEL-SPIN-9 Day 595 · fall flax clock** |
-| **THREAD-STOCK-2** | **~26 m** | **+~20 m WHEEL-SPIN-9 Day 595** |
+| **THREAD-STOCK-2** | **~12 m** | **−~14 m ANIMAL-BLANKET-SILAS-1 Day 747** |
 | **THREAD-STOCK-1** | **~28 m** | **FLAX-SPIN-1 Day 460 @ W-1 peg** |
 | **Flax tow @ W-1** | **~155 g** class | **−~180 g BLANKET-A batting Day 560** |
 | **Coarse fiber @ FIBER row** | **~22 g** | Cordage class · not garment |
@@ -460,7 +498,7 @@
 | **BARN-HINGE-IRON-1** | **✓ mounted Day 485** | **×4 strap hinges @ south opening · oak pintles retired** |
 | **BARN-LATCH-IRON-1** | **✓ Day 485** | **sliding bolt @ south opening · oak drop bar staged pile 9** |
 | **Fence / scare** | **E margin ✓ Day 356** · **N leg ~3 m started Day 368** · scare 100% | **Tie-in Bed B → Bed D complete · N leg optional** |
-| **Grain (stored @ v1)** | **~1.75 kg emmer · ~240 g lentils · ~2.1 kg parched** + **SEED-VAULT** | **EMMER-Y2 ✓ · P-17-Y2 ✓ Day 582** |
+| **Grain (stored @ v1)** | **~0.55 kg emmer · ~240 g lentils · BARREL-2 draw class · **CALORIE-BANK ~97% Day 748** · COOL-CELLAR SCOUT** + **SEED-VAULT** |
 
 ---
 
@@ -472,6 +510,7 @@
 | **GS-1 grindstone** | **Operational** — on **hub** for flywheel mass (modular) |
 | **WW-1 frame** | **✓ 100% Day 295** | rim 8/8 · FLOOD-SPIN-1 ✓ · production class |
 | **TRAIL-CACHE-1** | **✓ Day 293** | T-2 NE fork ~4 km · grain · jerky · FK · rope tail |
+| **TRAIL-CACHE-2** | **✓ Day 746** | **~10 km W west rise · ~450 g parched · ~280 g jerky · FK · AMPHORA-2 shell · ~4 m rope · home vector E** |
 | **GRIND-TAKEOFF-1** | **~95% Day 295** | Belt live under flood · bench grind operational |
 | **FORGE-D** | **✓ operational** | **IRON-GATE 14/14 ✓** · belt blast · bloom/weld path live |
 | **MILLHOUSE-1** | **✓ 100%** Day 278 | Phase 1+2+3 · zones CHAR·FORGE·TOOL·WORK |
@@ -508,7 +547,7 @@
 | **Phase 1** | **✓ Day 373** — **~12.2 kg O-IRON · ~17.8 kg O-1 · M-22 pin · hold** |
 | **Phase 2** | **✓ Day 381** — **~2.2 kg M-11 @ v1 CHEM** |
 | **BOOT-3 doctrine** | **Primary EXPED · BOOT-GRIP-1 ✓ Day 604 · caligae backup · west loop 378–381** |
-| **Trail clothes** | **CL-TUNIC-1 under tabard · CL-COAT @ HOME shoulder season** |
+| **Trail clothes** | **CL-TUNIC-1 · CL-TABARD-2 · CL-CLOAK-1 @ wagon · CL-COAT @ HOME** |
 
 
 See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries/centadial-003.md) · [sun-calendar.md](sun-calendar.md) — **H-v2-KITCHEN-1 · bloom #6 · BARN-1-v1 · glass · bronze/tin**
@@ -521,8 +560,9 @@ See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries
 |-------|--------|
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
-| **Clay weigh** | Re-weigh on next clay haul |
-| **Next pit** | **B-90 staked** — vault **~38 kg** · lane **~26 kg** · **wood ~20 kg** |
+| **Clay weigh** | **~19 kg @ pile 1 Day 703** |
+| **Next pit** | **B-122 staked** — vault **~51.5 kg** · lane **~2 kg** · **wood ~40 kg pile 5 ✓ Day 721** |
+| **STOCK-AUDIT-720** | **Post-BRIDGE-1 read Day 720 — see hut v1 lime + pile 5/7/1/3** |
 | **COAST-1** | **✓ complete Day 202** — kelp · sand · beacon stored |
 | **Respawn rule** | **H-v2 bed** — home anchor |
 

@@ -682,6 +682,82 @@
 | 672 | [day-672.md](days/week-096/day-672.md) | **Kiln B** | **Week 96 close · FACTORY-STREAK-672 ✓ · ~43 stack** · **Cal-Y3 D70** |
 | 673 | [day-673.md](days/week-097/day-673.md) | **Kiln B** | **Week 97 opens · FACTORY-STREAK-673 ✓ · clay/wood read** · **Cal-Y3 D71** |
 | 674 | [day-674.md](days/week-097/day-674.md) | **T-1 three-lap** | **HAUL-BIG-674 ✓ · wood ~72 kg · clay ~31 kg · FS-19–22** · **Cal-Y3 D72** |
+| 675 | [day-675.md](days/week-097/day-675.md) | **HOME farm + kiln** | **P-17-COTYLEDON ✓ · DONKEY-HUNT-3-PREP ✓ · FACTORY + PIT-CHAR-64 · ~61 stack** · **Cal-Y3 D73** |
+| 676 | [day-676.md](days/week-097/day-676.md) | **HOME → Camp-1** | **DONKEY-HUNT-3 Trip 6 launch ✓ · wagon + team ~16 km · Camp-1 night #1** · **Cal-Y3 D74** |
+| 677 | [day-677.md](days/week-097/day-677.md) | **Camp-1 ↔ D-27** | **CORRAL QA ✓ · recruit #3 lead sniff ✓ · pale stockings yearling · loop D678** · **Cal-Y3 D75** |
+| 678 | [day-678.md](days/week-097/day-678.md) | **D-27 · Camp-1** | **Lead loop ✓ · 10-step walk ✓ · recruit #3 released · homeward D679** · **Cal-Y3 D76** |
+| 679 | [day-679.md](days/week-097/day-679.md) | **D-27 → HOME** | **DONKEY-HUNT-3 ✓ · YEARLING-3 @ quarantine · Trip 6 complete · wagon escort** · **Cal-Y3 D77** |
+| 680 | [day-680.md](days/week-098/day-680.md) | **HOME · Kiln B** | **FACTORY-STREAK-680 ✓ · PIT-CHAR-65 · ~70 stack · quarantine d1** · **Cal-Y3 D78** |
+| 681 | [day-681.md](days/week-098/day-681.md) | **HOME · Kiln B** | **FACTORY-STREAK-681 ✓ · ~79 stack · CHEM-LAB-TOP-GREEN · quarantine d2** · **Cal-Y3 D79** |
+| 682 | [day-682.md](days/week-098/day-682.md) | **WW-YARD · CHEM-LAB** | **CHEM-LAB-STAGE-3 ✓ · wall top + bond beam · ~216 brick in walls** · **Cal-Y3 D80** |
+| 683 | [day-683.md](days/week-098/day-683.md) | **Kiln A · WW-YARD** | **LIME-REFILL-683 ✓ · CHEM-LAB roof frame ~50% · vent chase stub** · **Cal-Y3 D81** |
+| 684 | [day-684.md](days/week-098/day-684.md) | **T-1 · piles 1+5** | **HAUL-CLAY-WOOD-684 ✓ · ~48 kg clay · ~78 kg wood · tile pipeline GREEN** · **Cal-Y3 D82** |
+| 685 | [day-685.md](days/week-098/day-685.md) | **WW-YARD · CHEM-LAB** | **CHEM-LAB-ROOF-SHELL ✓ · purlins + battens · shell ~90%** · **Cal-Y3 D83** |
+| 686 | [day-686.md](days/week-098/day-686.md) | **pit lane B** | **PIT-DUAL-686 ✓ · lane ~24 kg · tile sprint GREEN** · **Cal-Y3 D84** |
+| 687 | [day-687.md](days/week-099/day-687.md) | **kiln yard · Kiln B** | **Week 99 opens · ROOF-TILE batch 1 ✓ · 7/~48 CL-R · lane ~20 kg** · **Cal-Y3 D85** |
+| 688 | [day-688.md](days/week-099/day-688.md) | **kiln yard · Kiln B** | **ROOF-TILE batch 2 ✓ · 14/~48 CL-R · lane ~16 kg** · **Cal-Y3 D86** |
+| 689 | [day-689.md](days/week-099/day-689.md) | **kiln yard · Kiln B** | **ROOF-TILE batch 3 ✓ · 21/~48 CL-R · lay ~3 short** · **Cal-Y3 D87** |
+| 690 | [day-690.md](days/week-099/day-690.md) | **farm · pit lane B** | **FARM-MAINT-690 ✓ · PIT-CHAR-69 ✓ · FARM-READ GREEN** · **Cal-Y3 D88** |
+| 691 | [day-691.md](days/week-099/day-691.md) | **pit lane · Kiln B** | **FACTORY-STREAK-691 ✓ · ~60 stack · PIT-CHAR-70** · **Cal-Y3 D89** |
+| 692 | [day-692.md](days/week-099/day-692.md) | **HOLDING-1 · Kiln B** | **YEARLING-3 release ✓ · FACTORY-692 PM · ~69 stack** · **Cal-Y3 D90** |
+| 693 | [day-693.md](days/week-099/day-693.md) | **HOLDING-1 · Kiln B** | **Silas ✓ · FACTORY-STREAK-693 · ~78 stack · integration hold** · **Cal-Y3 D91** |
+| 694 | [day-694.md](days/week-100/day-694.md) | **T-1 bank · piles 1 + 5** | **Week 100 opens · HAUL-CLAY-WOOD-694 ✓ · ~43 clay · ~70 wood** · **Cal-Y3 D92** |
+| 695 | [day-695.md](days/week-100/day-695.md) | **HOLDING-1 · Kiln B** | **FACTORY-STREAK-695 ✓ · ~87 stack · PIT-CHAR-72** · **Cal-Y3 D93** |
+| 696 | [day-696.md](days/week-100/day-696.md) | **kiln yard · Kiln B** | **ROOF-TILE batch 4 ✓ · 28/~48 CL-R · lay gate OPEN** · **Cal-Y3 D94** |
+| 697 | [day-697.md](days/week-100/day-697.md) | **HOLDING-1 · CART-YARD** | **TEAM-TRAIN-3 session 1 ✓ · Silas yoke sniff · dry ~3–5 d** · **Cal-Y3 D95** |
+| 698 | [day-698.md](days/week-100/day-698.md) | **WW-YARD · CHEM-LAB roof** | **CHEM-LAB-ROOF-LAY-1 ✓ · ×21 laid · ~45% skin · drip PASS** · **Cal-Y3 D96** |
+| 699 | [day-699.md](days/week-100/day-699.md) | **pit lane · Kiln B** | **ROOF-TILE batch 5 ✓ · PIT-CHAR-73 · 34/~48 · ×19 ready to lay** · **Cal-Y3 D97** |
+| 700 | [day-700.md](days/week-100/day-700.md) | **kiln yard · Kiln B** | **Day 700 · batch 6 sprint CLOSE ✓ · 48/~48 · [Centadial 7](summaries/centadial-007.md)** · **Cal-Y3 D98** |
+| 701 | [day-701.md](days/week-101/day-701.md) | **WW-YARD · CHEM-LAB roof** | **Week 101 opens · ROOF-LAY-2 ✓ · ridge ✓ · slope drip PASS · ×47 on skin** · **Cal-Y3 D99** |
+| 702 | [day-702.md](days/week-101/day-702.md) | **HOLDING-1 · CART-YARD** | **TEAM-TRAIN-3 session 2 ✓ · ~55% · TURN-WATCH @ dusk · roof hedge** · **Cal-Y3 D100** |
+| 703 | [day-703.md](days/week-101/day-703.md) | **WW-YARD · CHEM-LAB north vent** | **CHEM-LAB-STAGE-4 ✓ · vent hood skin ✓ · roof 100% · smoke PASS · FAN-PROVISION** · **Cal-Y3 D101** |
+| 704 | [day-704.md](days/week-101/day-704.md) | **CHEM-LAB interior** | **CHEM-LAB-SHELF-704 ~60% · CAB-1 ~50% · Stage 5 ~25% · rain @ dusk** · **Cal-Y3 D102** |
+| 705 | [day-705.md](days/week-101/day-705.md) | **CHEM-LAB · weir** | **CHEM-LAB-CAB-1 ~80% · both closed · weir draw · finish/light queued @ ladder** · **Cal-Y3 D103** |
+| 706 | [day-706.md](days/week-101/day-706.md) | **CHEM-LAB interior** | **CAB ~95% · shelf ~85% · SAND-SMOOTH ✓ · tallow ✓ · iron forge pace filed** · **Cal-Y3 D104** |
+| 707 | [day-707.md](days/week-101/day-707.md) | **CHEM-LAB woodwork close** | **SHELF ✓ · CAB ✓ · WOODWORK-CLOSE ✓ · Stage 5 ~55%** · **Cal-Y3 D105** |
+| 708 | [day-708.md](days/week-102/day-708.md) | **FORGE-D mason iron** | **Week 102 opens · IRON-TROWEL-1 ✓ · MORTAR-FLOAT-1 ✓ · nails ×17 · slab unblocked** · **Cal-Y3 D106** |
+| 709 | [day-709.md](days/week-102/day-709.md) | **STRAIGHT-EDGE-2 · Kiln B** | **MASON-IRON-KIT ✓ · LF floor ×8 green · ~100 tile layout** · **Cal-Y3 D107** |
+| 710 | [day-710.md](days/week-102/day-710.md) | **Kiln B · LF interleave** | **FACTORY ✓ · LAB-FLOOR-TILE-FIRE-1 ✓ · LF 8F·16G · surface doctrine** · **Cal-Y3 D108** |
+| 711 | [day-711.md](days/week-102/day-711.md) | **Kiln B · LF interleave** | **LF 16F·8G · FIRE-2 ✓ · PRESS-3 ✓ · skim-before-lay doctrine** · **Cal-Y3 D109** |
+| 712 | [day-712.md](days/week-102/day-712.md) | **Kiln B · LF 24F stop** | **FIRE-3 ✓ · PRESS-4 ✓ · TEAM-TRAIN-3 @ Day 713** · **Cal-Y3 D110** |
+| 713 | [day-713.md](days/week-102/day-713.md) | **HOLDING-1 · CART-YARD** | **TEAM-TRAIN-3 session 3 ✓ · ~70% · empty cart hook · SCHEDULE-READ** · **Cal-Y3 D111** |
+| 714 | [day-714.md](days/week-102/day-714.md) | **Kiln B yard** | **LF 32F · FIRE-4 ✓ · PRESS-5 ✓ · TARSUS-DOCTRINE-714 @ map.md** · **Cal-Y3 D112** |
+| 715 | [day-715.md](days/week-103/day-715.md) | **HOLDING-1 · CART-YARD** | **Week 103 opens · TEAM-TRAIN-3 session 4 ✓ ~90% · ~25 kg load · COAST-SCOUT-PREP** · **Cal-Y3 D113** |
+| 716 | [day-716.md](days/week-103/day-716.md) | **CART-YARD** | **WAGON-LASH-KIT-1 ✓ · ~38 kg manifest · chem lab paused** · **Cal-Y3 D114** |
+| 717 | [day-717.md](days/week-103/day-717.md) | **CART-YARD · T-2 south** | **TEAM-TRAIN-3 ✓ · WAGON-LOAD-50 team PASS · BRIDGE-HAUL-GATE GREEN** · **Cal-Y3 D115** |
+| 718 | [day-718.md](days/week-103/day-718.md) | **T-2 south · km 3 creek** | **BRIDGE-1 ~35% · haul trip 1 ✓ · abutments ✓ · stringers staged** · **Cal-Y3 D116** |
+| 719 | [day-719.md](days/week-103/day-719.md) | **T-2 south · km 3 creek** | **BRIDGE-1 ~90% · deck ✓ · STONE-BRIDGE-1 horizon · wagon test Day 720** · **Cal-Y3 D117** |
+| 720 | [day-720.md](days/week-103/day-720.md) | **T-2 south · km 3 creek** | **BRIDGE-1 ✓ · careful wagon test PASS · STOCK-AUDIT-720** · **Cal-Y3 D118** |
+| 721 | [day-721.md](days/week-103/day-721.md) | **Pine N · T-2 creek** | **WOOD-HAUL-2 ✓ · STONE-HAUL-1 ✓ · Week 103 close · Week 104 @ 722** · **Cal-Y3 D119** |
+| 722 | [day-722.md](days/week-104/day-722.md) | **Kitchen wing · v1** | **Week 104 opens · CALORIE-BANK-1 ~25% · PARCHED-BATCH ✓ · JERKY-3 ~60%** · **Cal-Y3 D120** |
+| 723 | [day-723.md](days/week-104/day-723.md) | **Kitchen · COOL-CELLAR-1** | **JERKY-3 ✓ · PARCHED-BATCH-2 ✓ · COOL-CELLAR scout rack · CALORIE-BANK ~30% · HORSE-SCOUT filed** · **Cal-Y3 D121** |
+| 724 | [day-724.md](days/week-104/day-724.md) | **Weir · smoke rack · COOL-CELLAR** | **SMOKE-FISH-BATCH-724 ✓ · scout pack @ cellar · CALORIE-BANK ~34% · JERKY-4 queued** · **Cal-Y3 D122** |
+| 725 | [day-725.md](days/week-104/day-725.md) | **Kitchen porch · weir** | **SMOKE-TAIL ✓ · JERKY-4 ~60% · ×4 fish queued Day 726** · **Cal-Y3 D123** |
+| 726 | [day-726.md](days/week-104/day-726.md) | **Porch · COOL-CELLAR · weir** | **JERKY-4 ✓ · SMOKE-FISH-BATCH-726 ✓ · CALORIE-BANK ~38% · shakedown horizon** · **Cal-Y3 D124** |
+| 727 | [day-727.md](days/week-104/day-727.md) | **River · kitchen · Bed A** | **SNAIL-TRIAL ✓ · P-18-SEL-1 ~35 g · AUTUMN-SOW queued · JERKY-5 → Day 728** · **Cal-Y3 D125** |
+| 728 | [day-728.md](days/week-104/day-728.md) | **Kitchen porch · v1** | **SNAIL-BATCH-2 ✓ · JERKY-5 ~60% · COAST-PREP-SNAPSHOT ~32 d to window** · **Cal-Y3 D126** |
+| 729 | [day-729.md](days/week-105/day-729.md) | **Kitchen · COOL-CELLAR** | **Week 105 opens · JERKY-5 ✓ · PARCHED-BATCH-3 ✓ · CALORIE-BANK ~41%** · **Cal-Y3 D127** |
+| 730 | [day-730.md](days/week-105/day-730.md) | **Weir · porch · COOL-CELLAR** | **SMOKE-FISH-BATCH-730 ✓ · SHAKEDOWN-GATE ✓ · ~15.6 kg · ~45% bank** · **Cal-Y3 D128** |
+| 731 | [day-731.md](days/week-105/day-731.md) | **Kitchen · v1** | **PARCHED-BATCH-4 ✓ · SCOUT-TRAY-2 overflow · ~49% bank** · **Cal-Y3 D129** |
+| 732 | [day-732.md](days/week-105/day-732.md) | **Porch · weir** | **SMOKE-FISH-BATCH-732 ✓ · ~53% bank** · **Cal-Y3 D130** |
+| 733 | [day-733.md](days/week-105/day-733.md) | **Kitchen · porch** | **PARCHED-BATCH-5 ✓ · JERKY-6 ~60% · ~57% bank** · **Cal-Y3 D131** |
+| 734 | [day-734.md](days/week-105/day-734.md) | **Porch · v1** | **JERKY-6 ✓ · SMOKE-FISH-734 ✓ · SCOUT-TRAY wax · ~69% bank** · **Cal-Y3 D132** |
+| 735 | [day-735.md](days/week-105/day-735.md) | **Kitchen · v1 · H-v2** | **PARCHED-BATCH-6 ✓ · CALORIE-BANK-SPRINT-CLOSE ~30 kg ~86% · CL-CLOAK slate** · **Cal-Y3 D133** |
+| 736 | [day-736.md](days/week-106/day-736.md) | **W-1 · LM-2 · v1 CHEM** | **Week 106 opens · CL-CLOAK weave ~65% · grape warp · hood blank** · **Cal-Y3 D134** |
+| 737 | [day-737.md](days/week-106/day-737.md) | **v1 CHEM · CART-YARD** | **CL-CLOAK-1 ✓ · M-08 yoke · mist PASS · wagon pack · shakedown slate** · **Cal-Y3 D135** |
+| 738 | [day-738.md](days/week-106/day-738.md) | **HOME → COAST-TRAIL-1** | **COAST-SHAKEDOWN-1 launch · ~44 kg · BRIDGE-1 PASS · GOAT-DRY-RUN 1/3** · **Cal-Y3 D136** |
+| 739 | [day-739.md](days/week-106/day-739.md) | **COAST-TRAIL-1 → COAST-SITE-1** | **Loaded beach PASS · WAGON-SHINGLE-AUDIT ✓ · amphora fill · GOAT 2/3** · **Cal-Y3 D137** |
+| 740 | [day-740.md](days/week-106/day-740.md) | **COAST-SITE-1 → COAST-TRAIL-1** | **Homeward loaded · lash hold PASS · spike @ dark · GOAT 3/3** · **Cal-Y3 D138** |
+| 741 | [day-741.md](days/week-106/day-741.md) | **COAST-TRAIL-1 → HOME** | **COAST-SHAKEDOWN-1 ✓ · GOAT-DRY-RUN ✓ · wagon unload** · **Cal-Y3 D139** |
+| 742 | [day-742.md](days/week-106/day-742.md) | **W-1 · weir · Gorge A-03** | **TRAP-CRAFT-2 ~70% · TRAP-KIT-2 · TRAP-SET-WEIR-2 ✓ · A-03 service** · **Cal-Y3 D140** |
+| 743 | [day-743.md](days/week-107/day-743.md) | **T-2 · CART-YARD** | **Week 107 opens · TRAP-SET-TRAIL-1 ✓ · TRAP-KIT-2 @ wagon · TRAP-CRAFT-2 ✓** · **Cal-Y3 D141** |
+| 744 | [day-744.md](days/week-107/day-744.md) | **T-2 · river margin** | **BOW-PRACTICE-744 · BOW-HUNT-2 ✓ · IRL transfer honest · 2×/month doctrine** · **Cal-Y3 D142** |
+| 745 | [day-745.md](days/week-107/day-745.md) | **Kitchen · v1 · COOL-CELLAR** | **PARCHED-BATCH-7 · CALORIE-BANK ~93% · COAST-PREP-AUDIT ✓** · **Cal-Y3 D143** |
+| 746 | [day-746.md](days/week-107/day-746.md) | **HOME → west rise ~10 km W** | **TRAIL-CACHE-2 ✓ · AMPHORA-2 @ cache · early wheels-up slate** · **Cal-Y3 D144** |
+| 747 | [day-747.md](days/week-107/day-747.md) | **W-1 · LM-2 · HOLDING-1** | **ANIMAL-BLANKET-SILAS-1 ✓ · ×3 @ peg row · COAST-WHEELS-UP-747** · **Cal-Y3 D145** |
+| 748 | [day-748.md](days/week-107/day-748.md) | **Kitchen · weir · v1** | **PARCHED-BATCH-8 · JERKY-8 · CALORIE-BANK ~97%** · **Cal-Y3 D146** |
+| 749 | [day-749.md](days/week-107/day-749.md) | **River margin · CART-YARD · T-2** | **WAGON-COVER-REFRESH-2 ✓ · COAST-PREP-CLOSE-749** · **Cal-Y3 D147** |
+| 750 | [day-750.md](days/week-108/day-750.md) | **HOME → COAST-TRAIL-1** | **Week 108 opens · COAST-SCOUT-1 launch · GOAT-ABSENCE-750 ✓** · **Cal-Y3 D148** |
 
 ## Centadials (every 100 days)
 
@@ -693,6 +769,7 @@
 | **4** | 301–400 | [centadial-004.md](summaries/centadial-004.md) |
 | **5** | 401–500 | [centadial-005.md](summaries/centadial-005.md) |
 | **6** | 501–600 | [centadial-006.md](summaries/centadial-006.md) |
+| **7** | 601–700 | [centadial-007.md](summaries/centadial-007.md) |
 
 See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md)
 
@@ -796,7 +873,18 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 94 | [week-094.md](weeks/week-094.md) | 652–658 | **Ice · factory · CHEM-LAB-WING** *(closed Day 658)* |
 | 95 | [week-095.md](weeks/week-095.md) | 659–665 | **Socle · lime bed · first mure** *(closed Day 665)* |
 | 96 | [week-096.md](weeks/week-096.md) | 666–672 | **Walls · sow · factory streak** *(closed Day 672)* |
-| 97 | [week-097.md](weeks/week-097.md) | 673+ | **Factory · P-17 watch · lab top** *(opens Day 673)* |
+| 97 | [week-097.md](weeks/week-097.md) | 673–679 | **Donkey hunt · quarantine · factory** *(closed Day 679)* |
+| 98 | [week-098.md](weeks/week-098.md) | 680–686 | **Lab walls · shell · pit refill** *(closed Day 686)* |
+| 99 | [week-099.md](weeks/week-099.md) | 687–693 | **Tile sprint · Silas named** *(closed Day 693)* |
+| 100 | [week-100.md](weeks/week-100.md) | 694–700 | **Silas · tile sprint CLOSE · roof lay · Centadial 7** *(closed Day 700)* |
+| 101 | [week-101.md](weeks/week-101.md) | 701–707 | **Roof close · interior wood · Stage 5 ~55%** *(closed Day 707)* |
+| 102 | [week-102.md](weeks/week-102.md) | 708–714 | **Mason iron · LF floor · factory interleave** *(closed Day 714)* |
+| 103 | [week-103.md](weeks/week-103.md) | 715–721 | **Train · lash kit · BRIDGE-1 ✓ · resupply** *(closed Day 721)* |
+| 104 | [week-104.md](weeks/week-104.md) | 722–728 | **Calorie bank · snail trial · prep snapshot** *(closed Day 728)* |
+| 105 | [week-105.md](weeks/week-105.md) | 729–735 | **Bank sprint close ~86% · SHAKEDOWN-GATE · CL-CLOAK slate** |
+| 106 | [week-106.md](weeks/week-106.md) | 736–742 | **CL-CLOAK-1 ✓ · COAST-SHAKEDOWN-1 ✓ · TRAP-CRAFT day one** |
+| 107 | [week-107.md](weeks/week-107.md) | 743–749 | **Prep closed · TRAIL-CACHE-2 · blanket · bank · cover refresh** *(closed Day 749)* |
+| 108 | [week-108.md](weeks/week-108.md) | 750+ | **COAST-SCOUT-1 wheels-up · recon west** *(opens Day 750)* |
 
 ## Day folders
 
@@ -885,6 +973,17 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 95 | [days/week-095/](days/week-095/) |
 | 96 | [days/week-096/](days/week-096/) |
 | 97 | [days/week-097/](days/week-097/) |
+| 98 | [days/week-098/](days/week-098/) |
+| 99 | [days/week-099/](days/week-099/) |
+| 100 | [days/week-100/](days/week-100/) |
+| 101 | [days/week-101/](days/week-101/) |
+| 102 | [days/week-102/](days/week-102/) |
+| 103 | [days/week-103/](days/week-103/) |
+| 104 | [days/week-104/](days/week-104/) |
+| 105 | [days/week-105/](days/week-105/) |
+| 106 | [days/week-106/](days/week-106/) |
+| 107 | [days/week-107/](days/week-107/) |
+| 108 | [days/week-108/](days/week-108/) |
 
 ## Years
 

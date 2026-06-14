@@ -53,6 +53,7 @@
 | **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-3 ✓ Day 669** · P-17 · flax · emmer · herbs |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
 | **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-1 ✓ 100%** · **MILLHOUSE-1 ✓** · **FORGE-D ✓** |
+| **BRIDGE-1 @ km 3 creek** | **~3 km S on T-2** | **~3 km** | **~40 min wagon** | **✓ Day 720** · span **~2.4 m** · wagon empty + **~25 kg PASS** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
 | **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D315** · ground **501** · wall **497** · **YULE @ 374** — [sun-calendar.md](../sun-calendar.md) |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees · autumn harvest |
@@ -76,7 +77,7 @@
 | Trail | Total length | Status |
 |-------|--------------|--------|
 | **T-1** Camp → clay → weir | **290 m** | **100% cleared** |
-| **T-2** Camp → farm → olive | 600 m to olive | **Farm leg ✓ Day 288** · upstream partial |
+| **T-2** Camp → farm → olive | 600 m to olive | **Farm leg ✓ · south BRIDGE-1 ✓ @ km 3 Day 720** |
 | **T-3** Camp → circus | 520 m | Marked |
 | **T-4** Far loop | ~2.4 km | Marked |
 | **T-5** Hut ↔ camp | **80 m** | **100%** |
@@ -302,23 +303,69 @@
 
 ## Tin corridor — Tarsus class (*TIN-SCOUT-1 · horizon Day 374*)
 
+**Three places — do not merge:**
+
+| Place | From HOME | You |
+|-------|-----------|-----|
+| **COAST-SITE-1** (local Med beach) | **~20 km W** | **✓** — day trip / 3-day loop class |
+| **Orontes mouth** (river → sea) | **~60–80 km downstream** | **✗ unmarked** — **BOAT-1** launch site · **not** required to reach Tarsus by land |
+| **Tarsus / Cilician plain class** (tin geography behind Taurus) | **~100–150 km W/SW** via **coastal land route** from **COAST-SITE-1** | **Horizon** — scout mark first |
+
+**Boat is optional, not mandatory.** Day 374 filed **boat preferred** for **river mouth → coastal hop** (calories · return wind). **Walk the whole way** with **wagon + team** is valid doctrine — and **required** for **ore haul** (boat cannot replace wagon load).
+
 | Leg | Dist (est.) | Mode | Notes |
 |-----|-------------|------|-------|
-| **HOME → river mouth** | **~60–80 km** downstream | **Walk** or **BOAT-1** when built | Orontes to Mediterranean · weir class known · mouth unmarked |
-| **River mouth → Cilician coast (Tarsus class)** | **~200+ km WNW** | **Coastal boat** preferred | Mersin/Tarsus corridor · **not** Tartus (Syrian coast) · long calendar |
-| **Walk alternative** | **~200+ km** one way | **~40+ trail days** class | Amuq → coast W then S along shore · season-scale not week-scale |
-| **Target** | **Cassiterite** (tin ore) | **Scout mark first** | **Taurus mountains north of Tarsus coastal plain** — pegmatite / stream placer · **not** local Amanus NE (ice/iron) · **not** M-22 magnetite |
+| **HOME → COAST-SITE-1** | **~20 km** | **Foot / cart** | **✓ proven** — join Med here for westward coastal march |
+| **HOME → Orontes mouth** | **~60–80 km** downstream | **Walk** or **BOAT-1** when built | Separate recon · river navigation · **skip** if land-coastal route only |
+| **COAST-SITE-1 → Tarsus plain class** | **~100–150 km** W/SW along shore | **Wagon team + coastal walk** | **~5–10 days** one way @ **~15–25 km/d** honest coastal · **not** cliff heroics |
+| **Mouth → Tarsus (if mouth-first)** | **~80–100+ km** W along shore | **Walk or boat hop** | Longer total if you go downstream first — **only worth it for BOAT-1** |
+| **Coast → Taurus tin slopes** | **Variable inland** | **Foot + pack** from **trail cache** | **Scout mark** — ore behind plain · **haul = wagon** |
 
-**Ore geography:** Tin lives **behind** the coast — inland Taurus slopes north of the Tarsus plain — not the ridge behind **HOME** (Amanus class = ice · iron scout only).
+**Round trip to Tarsus coast (recon only — there and back):** **~3–5 weeks** class with **COVERED-WAGON-1** + **3-donkey rotate** + camp rhythm · **not** a day trip · **fits** mid-summer / mid-winter farm windows · **faster on repeat** with graded trail + caches.
+
+**Round trip with ore haul:** add **inland scout days** + **loaded return** → **season-scale** — still **wagon**, not boat.
 
 | Prereq | Status |
 |--------|--------|
-| **BOAT-1** (dugout or bundle raft) | **Not built** — Year 2 plan deferred boat for campus ore |
-| **COAST-1** trail | **✓** — launch point for river-mouth recon |
+| **BOAT-1** (dugout or bundle raft) | **Not built** — **optional** coastal shortcut · **not** tin-haul path |
+| **COAST-1** trail | **✓** — **start** of westward coastal route |
 | **AMPHORA water class** | **✓** — trail kit proven |
-| **Return risk** | Wind · wave · no lighthouse yet |
+| **Return risk (boat only)** | Wind · wave · no lighthouse yet |
 
-**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · river-mouth recon **Cal-Y2 autumn** class · full Tarsus scout **Cal-Y3+** after boat exists.
+**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · **Coastal land scout** viable **Cal-Y3+** · **river-mouth recon** only if pursuing **BOAT-1** · **wagon takes donkeys whole way** — no abandon-at-mouth grammar unless you **choose** a boat-only hop.
+
+### Expedition doctrine *(filed Day 714 · amended Day 714 clarifier)*
+
+**Recon round trip (get there and back):** **~3–5 weeks** — **feasible** in farm window with team + goats + caches.
+
+**Full tin mark + ore haul:** **season-scale** — extra inland leg + **50 kg** load math.
+
+| Leg | Dist | Mode @ your gear | Pace class |
+|-----|------|-----------------|------------|
+| **HOME → Tarsus plain (land recon)** | **~120–170 km** round trip travel | **COVERED-WAGON-1** + **3-donkey rotate** | **~3–5 weeks** round trip · **~15–25% faster** trip 2+ |
+| **HOME → Orontes mouth** *(optional)* | **~60–80 km** | **Wagon** | **~1–2 weeks** one way · **BOAT-1** stake |
+| **Coast → Taurus tin slopes** | **Variable** | **Foot + pack** from **trail cache** | **Scout mark first** · ore behind coast |
+
+**Donkeys + boat:** If you **boat** a coastal hop, **cache wagon + team** at **COAST-CAMP** or **mouth camp** — pick up on return. **Default tin doctrine: wagon the whole column** — boat does not solve ore.
+
+**Nomad wagon doctrine *(spitball OK)*:** **Campus = factory** (kiln · forge · chem lab · water power). **Covered wagon = acquisition RV** — weeks/months on road · live out of wagon + tent · hunt/trap/graze supplement · **trail caches** = pseudo-homes. **Full nomad forever** = slow deep tech (no WW-1 · no Kiln B factory). **Hybrid:** build the lab at HOME · run **season loops** with wagon as mobile base until tin/bronze banked.
+
+| Prereq | Have now | Gap |
+|--------|----------|-----|
+| **COVERED-WAGON-1** | **✓** | — |
+| **WAGON-LOAD-50** | **✓** | — |
+| **3 donkeys + rotate train** | **Mabel · Humphrey · Silas · TEAM-TRAIN ~70%** | **Session 4 ~25 kg · loaded wagon lap** |
+| **4th donkey** | **—** | **Marginal speed** — **eats wagon load** · spare for lame OK · **food cap unchanged** |
+| **Goats on trail** | **P-GOAT-1 · auto trough ✓ @ home** | **Mobile browse + milk/meat** · slows column · **home pen OK 2–3 wk** with feeder · **not** for **month+** without hay haul or slaughter stock |
+| **BOAT-1** | **✗** | **Optional** — skip for land recon |
+| **Coastal trail west** | **COAST-TRAIL-1 ✓ · M-spikes @ 8 km** | **Extend spikes W · grade · BRIDGE-1 @ km 3 (HOME leg)** |
+| **Calorie load** | **Parched · jerky · fish · amphorae ✓** | **Plan **~30–40 kg** food class per **3–4 wk** leg** · hunt/trap supplement · **main limiter** |
+| **Trail cache / second camp** | **TENT-1 · BEDROLL-1 ✓** | **COAST-CAMP-2+ westward · repeat trips faster** |
+| **Farm @ Tarsus** | **—** | **One season crop **✗** honest** — emmer wants **tend + known bed** · **gather/hunt/cache** yes |
+
+**Best windows:** **Mid-summer** (farm GREEN · scare-only) · **Mid-winter** (no sow/harvest crunch) · **Avoid** **spring sow** · **autumn harvest/madder/feast** block.
+
+**Speed-run path:** **(1)** **TEAM-TRAIN close** **(2)** **Coastal scout W** from **COAST-SITE-1** — mark Tarsus plain · **(3)** inland tin scout · **(4)** ore haul on wagon · **BOAT-1** only if you want river-mouth shortcut later.
 
 ---
 

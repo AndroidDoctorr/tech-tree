@@ -133,12 +133,13 @@
 | ID | Species | Dist seen | Reliable? | Notes |
 |----|---------|-----------|-----------|-------|
 | **A-01** | Fish (Orontes) | 200 m weir | **Daily** | 4–8 small / day |
-| **A-02** | Snails | 90–200 m river rocks | **Daily** | Bulk calories |
+| **A-02** | Snails | 90–200 m river rocks | **Daily** | **Bulk calories · **SNAIL-ROUTINE-727 ✓** · ~2×/week collect · brine @ v1** |
 | **A-03** | Wild goat | 850 m gorge | **Live trap** Day 79 | **Pause #6** drive when kid sign |
 | **A-04** | Night heron | 200 m weir | Competitor | Reset stakes |
 | **A-05** | Fox / partridge | Local | No | Background |
 | **A-06** | **Donkey (wild ass)** | **D-27 ~19 km NE** | **Herd ×4 sighted** | **Mabel + Humphrey @ HOLDING-1** · **TEAM-CART-25 ✓** · Trip 6+ optional |
 | **A-07** | **Sheep** (wild) | **Hills 30–100+ km** | **Not scouted** | **Horizon** — one step at a time after coast return |
+| **A-08** | **Horse** (wild *Equus* class) | **Not marked · est. ~80–150 km N/NE** | **Not scouted** | **HORSE-SCOUT-1 ~Cal-Y4 · optional HORSE-SIGN-1 ~D850–920 · filed Day 723** |
 
 ---
 

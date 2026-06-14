@@ -182,4 +182,4 @@ Centadial 6 is the century of **infrastructure becoming lifestyle**: water at th
 
 ---
 
-*Previous: [centadial-005.md](centadial-005.md) · Next: [centadial-007.md](centadial-007.md) at Day 700 · Daily index: [index.md](../index.md) · Menu: [food-menu.md](../../food-menu.md)*
+*Previous: [centadial-006.md](centadial-006.md) · Next: [centadial-008.md](centadial-008.md) at Day 800 · Daily index: [index.md](../index.md)*

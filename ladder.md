@@ -53,6 +53,16 @@
 | **Barn** (multi-species · hay · loft) | **✓ BARN-1-v1 proven Day 469** — **~90 kg hay @ loft (~40% deck) · south doors** |
 | **BARN-HINGE-IRON-1** (strap hinges ×4) | **✓ mounted Day 485** |
 | **BARN-LATCH-IRON-1** (sliding bolt) | **✓ Day 485** |
+| **BARN-HORSE-BAY-1** (NW stall · tie rail · horse manger) | **· fall/winter post-lab · HORSE-SCOUT-PREP-723** |
+| **HORSE-HOLD-1** (paddock ~12×8 m · double rail · NE of HOLDING-1) | **· queued · before first horse home** |
+| **HORSE-HAY-RACK-1 · HORSE-TROUGH-1** | **· queued · after bay** |
+| **HORSE-HALTER-1 · LEAD-ROPE-1 · CORRAL-WING-1** | **· queued · capture kit · Cal-Y4 scout** |
+| **HORSE-BLANKET-1** | **· queued · larger than donkey SET-1** |
+| **HORSE-SIGN-1** (foot NE · track pin only) | **· optional ~D900–980 post-lab · no capture** |
+| **HORSE-SCOUT-1** (steppe loop · capture attempt) | **· Cal-Y4 ~D1125–1165 · after infra + sign** |
+| **CAB-HINGE-IRON-1** (small strap pair · lab cabinet) | **✓ ×4 forged Days 703–704e · mounted 704–705** |
+| **CAB-LATCH-IRON-1** (sliding bolt · cabinet class) | **✓ ×2 forged Days 703–704e · mounted 704–705** |
+| **CU-HINGE-1** (copper strap · light door) | · **deferred** — **soft knuckle · creep · latch bolt bends** |
 | **CRANE-1** (A-frame · block · lift) | **✓ Day 423 @ barn pad** · ridge reach · loft lift |
 | **H-v2-KITCHEN-1** (west wing · brick-lower/wattle/thatch) | **✓ operational Day 507** · **floor tile queued** |
 | **KITCHEN-STOCK-1** (peg · bowls · tongs · ladle · mitt · jars) | **✓ Day 507** |
@@ -86,18 +96,21 @@
 | **CHEM-LAB-1** (expanded tinker space · vent · water · fire zones) | · **v1 CHEM cramped · annex or WW north bay** |
 | **AQUEDUCT-1** (gravity feed · campus · forge · kitchen · pen) | **✓ Day 564 · KITCHEN-FAUCET-1 ✓** |
 | **DONKEY-HUNT-2** (D-27 · corral Trip 5 · recruit #2) | **✓ Day 536 · YEARLING-2 @ quarantine** |
+| **DONKEY-HUNT-3** (D-27 · corral Trip 6 · recruit #3) | **✓ Day 679 · YEARLING-3 released Day 692** |
 | **Humphrey** (YEARLING-2 · probable jack) | **✓ released Day 550 · HOLDING-1 partition B** |
 | **Mabel** (YEARLING-1 · probable jenny) | **✓ named Day 550 · HOLDING-1 partition A** |
+| **YEARLING-3** (pale stockings · recruit #3) | **✓ Silas · released Day 692 · HOLDING-1 C** |
 | **TEAM-TRAIN-1** (Mabel + Humphrey · yoke path) | **✓ Day 561 · TEAM-CART-25 PASS** |
+| **TEAM-TRAIN-3** (Mabel + Humphrey + Silas) | **✓ Day 717 · WAGON-LOAD-50 team PASS · Silas trace @ 50 kg** |
 | **TEAM-CART-25** (dual trace · ~25 kg · T-2) | **✓ Day 561** |
 | **TEAM-CART-50** (team · ~50 kg · T-2 ramp) | **✓ Day 563** |
-| **STONE-CUT-1** (dressing · footing · bridge prep) | **practice Day 533 · 580** |
+| **STONE-CUT-1** (dressing · footing · bridge prep) | **practice Day 533 · 580 · STONE-HAUL-1 Day 721** |
 | **THRESH-ZONE-1** (barn pad · winnow lane) | **✓ Day 578** |
 | **HARVEST-PREP-578** (sickle · basket · seed labels) | **✓ Day 578** |
 | **CART-1** (local haul · T-2 · campus · 50 kg team) | **✓ separate vehicle — uncover = haul mode** |
 | **COVERED-WAGON-1 v1** (shelter on CART-BED · multi-day shell) | **✓ Day 569 · WAGON-TRAIN empty PASS** |
 | **WAGON-ARCH-1** (×2 hoop ribs · ridge · cover lash points) | **✓ Day 569** |
-| **WAGON-COVER-THATCH-1** (reed/grass bundles · rope · M-08 ridge) | **✓ v0 removable Day 569** |
+| **WAGON-COVER-THATCH-2** (reed/grass bundles · rope · M-08 ridge) | **✓ v1 refresh Day 749 · replaces v0 post-shakedown** |
 | **WAGON-TRAIN-1** (empty covered · T-2) | **✓ Day 569** |
 | **WAGON-LOAD-25** (covered ~25 kg · T-2) | **✓ Day 574** |
 | **WAGON-LOAD-50** (covered ~50 kg · T-2 ramp) | **✓ Day 575** |
@@ -114,7 +127,7 @@
 | **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **✓ Day 558 · PEN-GATE-EXPAND-1 ✓** |
 | **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | **✓ Day 560 @ pen north trough** |
 | **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | **✓ Day 594 · barn loft → manger** |
-| Stone / tile **roof** campus-wide | · **W-1 ✓** · annex + barn class |
+| Stone / tile **roof** campus-wide | · **W-1 ✓** · **CHEM-LAB sprint GREEN Day 684** · barn class |
 | **Permanent stone buildings** (Roman-scale) | · **FS dress practice · mortar · crane** |
 | **Courtyard compound** (wings around central yard) | ~ **T-plan started** · kitchen west · stake drain |
 | Hypocaust **antechamber furniture** (chair · bench) | ~ porch done · chair queued |
@@ -277,11 +290,84 @@
 
 ---
 
+## Wood surface finish *(interior · lab / cabinet class)*
+
+*Chem lab doctrine: **oak frames only** on work surfaces — but shelves, doors, and cabinet faces still deserve **straight · smooth · clean**. No modern varnish; rank = what you can **repeat** with campus stock.*
+
+| Rung | Status | Notes |
+|------|--------|-------|
+| **Rough adze / axe face** | ✓ | Default timber — **not** lab presentation |
+| **WOOD-SCRAPE-1** (chert scraper · **WOOD-CHISEL** · spokeshave class) | ✓ **practice** | Flatten face · knock tear-out · **Furniture 4** pace |
+| **SAND-SMOOTH-1** (river sand · leather pad · wet optional) | ~ **queued** | **No sandpaper** — sand + block = honest pre-finish · **~½ session / door face** |
+| **WOOD-PLANE-1** (oak body · **chert / iron** sole) | ~ **materials-roadmap** | Long grain only · **not copper sole** · pairs with **STRAIGHT-EDGE-2** |
+| **IRON-BURNISH-1** (iron edge · bone · hard wood rub) | ~ | Compresses fibers · **shine without stain** · end-grain cap |
+| **LAB-WOOD-OIL-1** (thin **tallow** wipe · rinse-smell acceptable) | ~ **now** | **KITCHEN-STOCK tallow ✓** · wipe · dry · **not** glossy · re-wipe quarterly |
+| **LAB-WOOD-LINSEED-1** (flax / linseed cold press · thin coat) | · | After **oil press** rung · harder than tallow · **still not polyurethane** |
+| **LAB-WOOD-OLIVE-OIL-1** | · | After **Olive oil (press · settle)** — kitchen-grade · same wipe grammar |
+| **LAB-WOOD-WAX-1** (beeswax rub · warm buff) | · | After **BEESWAX-1** — best **over** oil · lab-safe gloss |
+| **Pitch / M-08 interior seal** | **✗ doctrine** | Barn/waterproof class · **sticky · fumes · wrong room** |
+| **Verdigris / dye on bare wood** | ~ cosmetic | **Dye 4** · color only · **not** smoothness |
+| **LAB-WOOD-FINISH-BUNDLE-1** | **✓ Day 707 · CHEM-LAB oak — pass 2 tallow · wax @ BEESWAX-1** |
+
+**Realistic pace @ Furniture 4:** **one cabinet door face** to **sand-smooth + tallow wipe** ≈ **½ day** — **not** same session as hinge mount. Finish pass **after** Stage 5 carcases close.
+
+### Iron hardware — forge time *(not mount time)*
+
+*Mount days are **cold fit** only. **BARN-HINGE-IRON-1 Day 484** = full hero forge: **×4 heavy leaves · ~22 kg char · ~430 g stock · lane spent**.*
+
+| Piece | Forge budget @ **Iron tool forge 3** | Stock | Notes |
+|-------|--------------------------------------|-------|-------|
+| **CAB-HINGE-IRON-1** (1 pair · small strap) | **~¼ hero-day** | **~60–80 g bloom** · **×2–4 nails** | **~4–5 kg char** · lighter than barn leaf |
+| **CAB-LATCH-IRON-1** (bolt + keeper) | **~2–3 h** | **~35–50 g bloom** | **~2–3 kg char** · **needs stiffness** |
+| **IRON-NAILS-1** (batch ×12) | **~1–2 h** | nail rod · cutoffs | **~1–2 kg char** |
+| **Rule** | **Lane ~6 kg** → **pit before forge** · **mount ≠ forge** | | Log char + bloom draw per session |
+
+**Copper vs iron:** **CU strap** OK for **peg · hook · cup bail** — **not** cabinet **hinge knuckle** or **sliding latch** (soft · creeps · bolt bends). **Iron** for lab closers.
+
+---
+
+## Interior wall finish *(bright · smooth · light bounce)*
+
+*CHEM-LAB-WING-1 = **fired brick single wythe** — joints and face texture eat light. Kitchen **KITCHEN-WHITEWASH-1 ✓** is the grammar.*
+
+| Rung | Status | Notes |
+|------|--------|-------|
+| **LIME-WHITEWASH-1** (slaked lime · brush · 1–2 coats) | ✓ **kitchen Day 518** | **Fast bright gain** · **Brick · mortar 4** · does **not** fill deep joints alone |
+| **LAB-WALL-SKIM-1** (lime plaster · sand · hair/reed · **2–3 mm** over brick) | ~ **queued CHEM-LAB** | **Smooth flat white** · **~2–3 hero-days / wing** · screed with **RULE-1 / STRAIGHT-EDGE-2** |
+| **LAB-WALL-SKIM-2** (second coat · burnish · **lime wash cap**) | · | Pompeii-bright · **after** skim cures · **not** same week as cabinet sprint |
+| **Brick joint rake + flush grout** | ~ | Alternative to full skim — **slower** · less bright than skim + wash |
+| **Tile wainscot** (lower **~1 m** fired tile · grout) | · | **Chem-resistant** belt · **heavy** · after floor grammar |
+| **Whitewash on raw oak** | **✗** | **LINEN-FULL-1 lesson** — stiff · flakes · **frames stay oiled not limed** |
+
+**Light doctrine:** **White walls + pale lime floor** (later) + **multiple lamps** beat one hero window in a **5×6 m** brick box.
+
+---
+
+## Interior lighting *(oil · wick · campus)*
+
+*Until **glass chimney** — **open flame + ventilation**. Hood chase reserved for **LAB-VENT-FAN-1** later; lamps sit **south / east** away from reagent shelf drafts.*
+
+| Rung | Status | Notes |
+|------|--------|-------|
+| **Camp fire / torch** | ✓ | **Wrong default** — smoke · soot · **not lab** |
+| **OIL-LAMP-1 v0** (fired dish · **flax wick** · **tallow** pool) | ~ **now** | **P-λ bowl class** · **thread bank ✓** · **tallow ✓** · **~1 session** |
+| **OIL-LAMP-2** (pinched spout · stable wick · **less spill**) | ~ | Lucerna grammar · thumb pinch clay · **wick trim discipline** |
+| **OIL-LAMP-OLIVE-1** | · | After olive **press** — cleaner flame · less smoke than tallow |
+| **LAB-LAMP-RAIL-1** (peg rail · **×2–3** lamps @ south bench zone) | ~ **CHEM-LAB Stage 5** | **×3 ≈ ½ day** mount + fill · **not** same day as full cabinet close |
+| **CU-OIL-LAMP-1** (hammered cup · rim lip) | · | Stable · **no glass chimney yet** — wind still matters |
+| **REFLECTOR-1** (polished **copper sheet** · clay backing) | · | **Bounce** light to bench · **after** lamp rail |
+| **GLASS-LAMP-CHIMNEY-1** | · | **KILN-C-UPGRADE-1** + vessel glass · draft shield · **much later** |
+| **LAB-LIGHT-TARGET-1** | · | **×3 lamps + white walls** = workable night chemistry · **not daylight** |
+
+**Fuel honest:** **Tallow ✓ now** · **olive oil ·** · trim wick each session · keep **open flame** off **pitch** cabinet seals.
+
+---
+
 ## Food — ingredients found
 
 | Rung | Status |
 |------|--------|
-| Fish · snails | ✓ |
+| **SNAIL-1** (river · purge · boil · brine) | **✓ Day 727 · SNAIL-ROUTINE 2×/week** |
 | Pistachio **P-01** | ✓ |
 | Wild fig **P-12** | ✓ |
 | Emmer · einkorn · barley **P-04–06** | ✓ sown + harvested |
@@ -291,11 +377,16 @@
 | Mint · garlic/leek · coriander **P-13–15** | ✓ |
 | Acorns **P-09** | ✓ identified · not staple |
 | Lentils **P-17** | ✓ **sown Year 2 @ Bed B** |
+| **Chickpea P-18** | **P-18-SEL-1 ~35 g ✓ Day 727 · AUTUMN-SOW Bed A ~Day 880–920** |
+| **FOOD-LEDGER-726** | **✓ filed Day 726** — stocks · production · farm roadmap |
 | Thyme / other aromatics **P-16** | ✓ **P-16a Day 215** |
-| Root veg (turnip class — **potato substitute**) | · |
+| **BED-A-GRAIN-1** (reclaim fallow ~96 m²) | **· FOOD-LEDGER-726 · volume after P-18 trial** |
 | **Potatoes** | · not in region |
 | Yeast / wild ferment cultures | · |
-| Bee honey | · not logged |
+| **BEE-SCOUT-1** (hive sign · fig · orchard · cliff crevice) | · **upcoming** — **wrong to assume absent** |
+| **BEE-LOG-1** / **SKEP-1** (wicker · hollow log · swarm catch) | · after scout |
+| **HONEY-1** (crush-strain · comb settle) | · |
+| **BEESWAX-1** (capping · render · mold) | · unlocks **LAB-WOOD-WAX-1** |
 
 ---
 
@@ -358,7 +449,7 @@
 | **Donkey #2+** · small flock | · |
 | **Sheep** scout · capture · flock | · horizon |
 | **Aurochs / oxen** (hunt · orphan calf · corral) | · Year 2+ |
-| **Horse** | · much later · equines fine for now |
+| **Horse** | **HORSE-SCOUT-PREP-723 · barn bay + paddock before animal · Cal-Y4 scout window** |
 | **Travois v1** | ✓ |
 | **Wheelbarrow** (single wheel · frame · handles) | **✓ WHEELBARROW-1 Day 403** · **WHEEL-CART-1** mounted · **WB-LOAD-1 PASS** |
 | **Cart / wagon** (two-wheel · axle · yoke) | **CART-1 ✓ · COVERED-WAGON-1 v1 ✓ · WAGON-RV-2 horizon** |
@@ -395,6 +486,11 @@
 | **STONE-CUT-PRACTICE** (dress · trim · course stock) | · **weekly interleave** · pile 4 · barn/kitchen footing class |
 | Fired **tile** (roof · floor) | **✓ W-1 roof Day 364** · **KITCHEN-FLOOR-TILE-1 queued Day 502** |
 | **Super-hot furnace** lining (glass / iron grade) | ~ FORGE-D ~97% · not glass temp yet |
+| **IRON-TROWEL-1** (thin lip · grout · joint fill) | **✓ Day 708 @ WORKBENCH-1** |
+| **IRON-MORTAR-FLOAT-1** (flat plate · bed screed · skim assist) | **✓ Day 708 @ WORKBENCH-1** |
+| **STRAIGHT-EDGE-2** (oak rule · **iron burnish** lip) | **✓ Day 709 @ WORKBENCH-1** |
+| **MASON-IRON-KIT-1** (trowel + float + straight-edge + **RULE-1**) | **✓ Day 709 complete** |
+| **TRY-SQUARE-1** · **PLUMB-BOB-1** | · **LAYOUT-KIT-1** bundle |
 
 ---
 
@@ -427,7 +523,7 @@
 | **LM-2 heddle v2** (pattern · faster shed) | ✓ **Day 377** · canvas trial strip |
 | **CL-TOWEL-2** (hand towel) | ✓ **Day 394 @ v1** |
 | **Lodestone / suspend proof** | **LODE-CORE-1 · MAGNET-PAN-1 · LODE-SUSPEND-1 ✓** |
-| **Compass v1** | · cork pivot · card · bearing |
+| **Compass v1** | · cork pivot · card · bearing *(navigation — **LAYOUT-COMPASS-1** = scratch arc · separate)* |
 | **EXPED-M22-1** (magnetite body) | **✓ closed Day 392 · ~2.4 kg @ pile 4** |
 | **M-22-UP** (repeat-haul lens) | **✓ marked Day 391** |
 | **BLANKET-1** | **BLANKET-SANDWICH grammar ✓ · A purple · B red** |
@@ -436,8 +532,9 @@
 | **LM-3 wide beam** (canvas · blanket · bed panels) | · **after SET-A/B sprint · PROPER-BED class** |
 | **LOOM-WING-1** (dedicated bay · wing on H-v2 or v1) | · **stake post-LM-3 prep** |
 | **EXPED-SCOUT-1** (path clear · grade · first/last leg) | **✓ Day 613 south T-2 ~4.5 km** |
-| **BRIDGE-1** (stream crossings @ scout) | **pin @ km 3 creek · build queued** |
-| **TRAP-CRAFT-2 · BOW-HUNT-2** | · **Tarsus calorie supplement** |
+| **BRIDGE-1** (stream crossings @ scout) | **✓ Day 720 · km 3 creek · wagon empty + ~25 kg PASS** |
+| **STONE-BRIDGE-1** (dressed stone arch / culvert · permanent span) | **· horizon Day 719** — **player knows grammar** · **after timber span proven @ crossing** · FS dress · lime mortar · voussoir or flat lintel · replace deck when haul + chisel hours justify |
+| **TRAP-CRAFT-2 · BOW-HUNT-2** | **✓ Day 743–744 · bow practice 2×/month ongoing · coast supplement** |
 | **BED-EXPAND-1** (Cal-Y3 sow · human + animal stock) | · **or slaughter goats @ age — no names** |
 | **Belt-driven spindle** (WW takeoff) | · Year 2 |
 
@@ -465,13 +562,13 @@
 | **CL-SOCK-3** (go-bag foot wrap) | **✓ Day 546** |
 | **BEDDING-SET-A** (pillowcase + sheet + purple blanket) | **✓ Day 562 · BLANKET-A-1 purple sandwich** |
 | **BEDDING-SET-B** (pillowcase + sheet + red blanket) | **✓ Day 586 · BLANKET-B-1 madder red-orange** |
-| **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ ×2 sets Day 570/580 · blanket #3 @ DONKEY #3** |
+| **ANIMAL-BLANKET-1** (donkey rug · winter holding · pack rain sheet) | **✓ ×3 sets Day 570/747 · Mabel · Humphrey · Silas** |
 | **PROPER-BED-1** (oak frame · rope grid · linen/tow mattress) | **✓ Day 616 · BEDDING-SET-A on rope bed** |
 | **BLANKET-SANDWICH-1** (double panel + tow batting) | **✓ trial Day 548** |
 | **PILLOW-DOWN-1** (feather fill) | **✓ Day 612 · ~120 g down · ~33 g contour reserve** |
 | **CL-TUNIC-TIEDYE-1** (bind-resist · vibrant) | **✓ Day 591 · iron · hull · grape · madder multi-dip** |
 | **CL-BREECH-2 / leg wrap** (full linen or leather leg) | **✓ CL-BREECH-2/3/4 rotation Day 593 · ×3 linen bands** |
-| **CL-CLOAK-1** (rain · cold trail · sleep wrap) | · linen canvas first · wool when flock |
+| **CL-CLOAK-1** (rain · cold trail · sleep wrap) | **✓ Day 737 · grape · teal hood · M-08 yoke** |
 | **CL-SOCK-1** (linen foot wrap under shoe) | ✓ **Day 375** · worn under **BOOT-3** |
 | **BOOT-3 / trail boot** (SHOE-2 + third sole · heel cup) | ✓ **Day 375** · **BOOT-GRIP-1 ✓ Day 604** · **EXPED primary** |
 | **Caligae v1 backup** | ✓ **backup doctrine confirmed** — unused full loop |
@@ -506,7 +603,7 @@
 | **IRON-AXE-1** | **✓ ~340 g head · Day 352** |
 | **IRON-WEDGE-1** | **✓ ~95 g · Day 354** |
 | **IRON-WEDGE-2** | **✓ ~98 g · Day 634** |
-| **IRON-NAILS-1** | **✓ ×25 remain** |
+| **IRON-NAILS-1** | **✓ ×17 Day 708** |
 | **IRON-ADZE-1** | **✓ ~115 g · Day 358** |
 | **IRON-HAMMER-1** | **✓ ~195 g · Day 367** |
 | **IRON-DRAWPLATE-1** | ✓ **Day 386** @ WORKBENCH-1 |
@@ -568,7 +665,7 @@
 | **Forge + wheel + house** integrated yard | ~ WW-YARD-1 ✓ · millhouse ✓ · tune ongoing |
 | **MILLHOUSE smelt kit** (ore · tongs · slag · charcoal lane) | ✓ **Block #17–20 ✓ Day 245** · **~148 g stock class** |
 | **AQUEDUCT-1** (wood trough · clay pipe · stake line) | · **SLUICE-1 fork → v1 · H-v2 · FORGE-D** · **~140 m phased** |
-| **CHEM-LAB-1** (bench · shelf · vent · slop sink) | ~ **Stage 3 ~95%** · **courses 1–4 @ WW-YARD** · **factory refill → bond beam** — [chem-lab-plan.md](chem-lab-plan.md) |
+| **CHEM-LAB-1** (bench · shelf · vent · slop sink) | ~ **Stage 4 ✓ Day 703** · **Stage 5 interior queued** — [chem-lab-plan.md](chem-lab-plan.md) |
 | **FORGE-UPGRADE-1** (ANVIL-1 · hardy · horn · mass) | **ANVIL-1 ✓** · **CHAR-RETORT-1** · roast bed |
 | **FORGE-UPGRADE-2** (twin hearth · ore preheat · quench trough) | · **after AQUEDUCT-1** · water at stump |
 | **CERAMICS-FACTORY-2** (iron molds · stagger · lab ware line) | **✓ iron molds #1+#2** · **quad press live** · **~14 green/day class** · POT-LAB-SET-1 next |
@@ -639,6 +736,14 @@
 | **SUN-CAL-YEAR** · **SUN-YULE-237** anchor | ✓ **Cal-Y2 from Day 238** |
 | **LIGHTHOUSE-1** permanent | · |
 | **Standard measures** (length · weight · volume) | **✓ mass + length Day 287** · volume queued |
+| **MEASURE-1 kit** | **✓ RULE-1 · THUMB-1 · BALANCE-1 · MASS-STONE @ W-1** |
+| **PLUMB-BOB-1** (masonry plumb · cord · bob) | ~ **string+weight in use @ walls** · **build peg kit** — canon for MURE-R1 |
+| **STRAIGHT-EDGE-2** (oak rule · iron burnish edge) | · **upgrade from RULE-1** · tile bed · brick course |
+| **TRY-SQUARE-1** (fixed right angle · peg brace) | · timber · tile · bench legs |
+| **BOB-LEVEL-1** (cross-frame · dual bob · notch marks) | · **not spirit bubble** · horizontal + vertical in one frame |
+| **LAYOUT-COMPASS-1** (radius stick · scratch arc) | · footing arcs · **not** nav **COMPASS-1** |
+| **ARC-PROTRACTOR-1** (turn-fraction plate · chord table) | · **TURN-fraction angles** (¼·½·¾ turn) · **not 360°** |
+| **LAYOUT-KIT-1** | · **bundle above** @ WW-YARD peg · after lab roof or interleave |
 | **Clock** (water · mechanical) | · |
 
 ---
@@ -655,12 +760,12 @@
 | **SUN-CAL daily marks** | ✓ **YULE anchor Day 239** |
 | Flax break · scutch · spin · **hackle** | ~ **HACKLE-v0 ✓** · line flax separated |
 | Loom weaving · panel cut | ✓ basic |
-| Archery (blunt → pointed) | ~ bow v1 · **2/6 pointed** · practice sparse |
+| Archery (blunt → pointed) | **Bow 3 @ d744** · **11 pointed · 4 blunt** · **15 m honest · 20 m miss rate · 2×/month practice** |
 | **Predator defense** (spear · bow · camp fire) | ~ **easy mode so far** · see **Defense** below |
 | Olive / grape **seasonal timing** | ✓ learning |
 | **Selection breeding** (save best seed) | ✓ started |
 | **Salt / lye / soap** chemistry | ~ |
-| Coast **navigation** (beacon · spike trail) | ✓ **COAST-1** · **TRAIL-CACHE-1 @ T-2 NE Day 293** |
+| Coast **navigation** (beacon · spike trail) | ✓ **COAST-1** · **TRAIL-CACHE-1 @ T-2 NE Day 293** · **TRAIL-CACHE-2 @ ~10 km W Day 746** |
 | **Stone dress** (FS trim · footing · threshold) | ~ **IRON-CHISEL-1 ✓** · **weekly practice** |
 | **Iron forge** (bloom · weld · tool · nail rhythm) | ✓ routine · **ANVIL-1** · **sickle** · more reps |
 | **Glass** (bead · anneal · blend trials) | ~ **marginal temp** · furnace upgrade queued |
@@ -688,7 +793,7 @@
 | **Alum** | **collect ✓ · purify ✓ · MORDANT-TRIAL-1 ✓** |
 | **Nitrates** | mark → collect → fertilizer → powder |
 | **Boat** | hull · rope · river trial |
-| **Horse** | later · donkey first |
+| **Horse** | **BARN-HORSE-BAY-1 · HORSE-HOLD-1 · HORSE-SCOUT-1 ~Cal-Y4 · donkey team ✓ first** |
 | **Glass** | soda ash · >1100°C · anneal |
 | **Measuring tools** | **✓ Day 287** · balance · rule · mass stones |
 | **Permanent structures** | tile · stone · barn · lighthouse |
@@ -740,6 +845,7 @@
 | **CERAMICS-FACTORY-2** | **2nd mold** · Kiln B stagger · **POT-LAB-SET-1** · restore press+fire weeks |
 | **FORGE-UPGRADE-1** | **ANVIL-1 ✓** · **CHAR-RETORT-1** · **quench trough after aqueduct** |
 | **CHEM-LAB-1** | Vent · bench · water tap · fire zone · off v1 floor |
+| **LAYOUT-KIT-1** | Plumb · square · bob-level · straight edge · layout compass · turn-fraction protractor |
 | **STONE-CUT-PRACTICE** | **FS dress** interleave · footing stock · Roman-scale prep |
 | **Scythe** | After sickle season · emmer + flax at scale |
 | **Donkey #2** | Barn hay volume · cart redundancy |

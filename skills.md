@@ -1,13 +1,13 @@
 # Skills ledger
 
-*Last updated: **Day 642** (~10,000 BC) · week 92 · haul + factory · domus partial build OK
+*Last updated: **Day 750** (~10,000 BC) · week 108 · COAST-SCOUT-1 day 1*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
 | Column | Meaning |
 |--------|---------|
-| **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. |
-| **Now @ d630** | Current total — **Start + in-world practice**. Not “game-only XP.” |
+| **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. **Includes pre-wormhole life** (composite/recurve/PVC bow · Dagorhir · sewing · physics degree · etc.). |
+| **Now @ d750** | Current total — **Start + in-world practice**. Not “game-only XP.” |
 | **Δ** | Rough gain since start (for glance only). |
 
 **Scale:**
@@ -22,7 +22,9 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 | **5** | master | Fast · instinctive · teachable |
 | **?** | — | Not assessed |
 
-**Update rule:** bump **Now** when a day file logs **PASS** on a **new tier** of task. **Start** changes only if you tell the DM your background changed. You learn quickly · the **Assistant** fills reference gaps · deliberate practice is logged — **no retcon** of past days; ledger reflects **you** going forward.
+**Update rule:** bump **Now** when a day file logs **PASS** on a **new tier** of task. **Practice reps** that reinforce the current tier go in the **Changelog** as *(hold N)* — no numeric XP bar. **Start** changes only if you tell the DM your background changed. You learn quickly · the **Assistant** fills reference gaps · deliberate practice is logged — **no retcon** of past days; ledger reflects **you** going forward.
+
+**On progression:** this ledger **is** the XP system — **IRL floor + 0–5 tiers + changelog**. A separate point bar would duplicate that without much gain at ~750+ days. Optional later: **practice session count** per skill if you want granularity without gamifying every arrow.
 
 **Day-file rule:** hero craft/smelt days **must** cite the relevant skill + **Now** tier in a **Skills** section — see [rules.md](rules.md#skills-in-daily-play).
 
@@ -32,7 +34,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Textiles & fiber
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Machine sewing** (tunics 10+, togas 2) | **4** | **4** | — | Pattern sense · **not** spindle/loom transfer. |
 | **Hand sewing / lash / stitch** | **2–3** | **4** | **+1** | **×3 tunics · tabard-2 · bedding hems · sandwich bind · wagon lash**. |
@@ -52,7 +54,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Metal & chemistry
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Physics (B.S.) + math minor** | **5** | **5** | — | Heat/mass/stoichiometry · forge/kiln tuning · **IRON-GATE-1**. |
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
@@ -69,7 +71,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Ceramics · brick · lime
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale · **kitchen floor tiles**. |
 | **Kiln operation (multi-kiln)** | **1** | **4** | **+3** | A/B/C · **~1100°C** · tile factory. |
@@ -80,7 +82,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Wood · structure · site
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber · kitchen dry rack. |
 | **Framing · roofing · insulation** | **2** | **4** | **+1** | Wattle · shake · **tile kitchen wing** · hypocaust · barn iron hinges · **wagon arch d566**. |
@@ -93,10 +95,10 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Food · preservation · cook
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Cooking & baking** | **5** | **5** | — | Jerky · brine · smoke · grain · feast **d237** · no oven cakes. |
-| **Fishing / weir / trap** | **2** | **3** | +1 | Weir steady · smoke class · Y1 buffer. |
+| **Fishing / weir / trap** | **2** | **4** | **+2** | Weir steady · **TRAP-CRAFT-2 ✓ d742–743** · weir funnel · trail snares · A-03 service. |
 | **Farm ops** (emmer · flax · fig selection) | **2** | **4** | **+2** | Y2 harvests ✓ · **MADDER-DIG-1 ✓ d585** · flax stake d584. |
 | **Orchard / vine timing** | **0** | **2** | **+2** | Olive brine · grape start · learned on-site. |
 
@@ -104,33 +106,33 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Animals · husbandry
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Animal training / habituation** (general) | **4** | **4** | — | **IRL:** rats/cats from birth · calm persistence · reward timing · **here:** goats + donkeys confirm transfer. |
 | **Raise rats / cats from birth** | **3** | **3** | — | Sub-skill of general train · neonate handling · stress read. |
 | **Cattle (grandfather ~80 yr)** | **2** | **2** | — | Bits only · not herd scale. |
 | **Goat pen / browse / scare** | **0–1** | **3** | **+2** | **P-GOAT-1** · 7-day stack · **GOAT-HUNT-519** ✓. |
 | **Donkey capture · quarantine · integrate** | **0–1** | **4** | **+3** | **Trip 5 ×2 grammar** · **Mabel + Humphrey named** · partition A/B · **#3 post-harvest** queued. |
-| **Donkey team train** (lead · yoke · voice · cart/wagon) | **0–1** | **4** | **+3** | **TEAM-TRAIN-1 ✓ · TEAM-CART-25/50 ✓ · WAGON-TRAIN empty covered ✓** · species-specific reads (lag @ turn · farm bend). |
+| **Donkey team train** (lead · yoke · voice · cart/wagon) | **0–1** | **5** | **+4** | **TEAM-TRAIN-3 ✓ 50 kg · COAST-SHAKEDOWN loaded loop ✓ d738–741** · species-specific reads. |
 | **Animal comfort textiles** (blanket · pad · yoke fleece) | **1** | **4** | **+3** | **Rugs d570 · rain sheets d580 · yoke pads · #3 post-harvest**. |
 
 ---
 
 ## Weapons · movement · fight
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
-| **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **Bow v1** · **GOAT-HUNT-519 ✓ · BIRD-HUNT-592/596/597 ✓**. |
+| **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **IRL:** composite/recurve/PVC before wormhole · **here:** **GOAT-HUNT-519 ✓ · BIRD-HUNT-592+ ✓ · BOW-PRACTICE-744** — 15 m honest · 20 m miss rate real · **years horizon**. |
 | **Melee spar** (Dagorhir · Belegarth · SCA) | **3** | **3** | — | Foam skill · spear distance · easy mode so far. |
 | **Foam craft** (weapons · hafting · **lorica replica**) | **4** | **3** | — | **IRL foam segmentata ✓** · Dagorhir weapons · informs plate layout · duct-tape not in-world. |
-| **Hunt / track / trap** | **1** | **2** | +1 | Gorge trap deferred · fish + small game. |
-| **Loaded march / travois** | **1** | **4** | **+3** | COAST-1 · RS-3 · **HAUL-IRON-1/2** · **WOOD-HAUL-LIGHT covered d575**. |
+| **Hunt / track / trap** | **1** | **3** | **+2** | **TRAP-CRAFT-2 ✓** · gorge A-03 · fish + snares · bow supplement doctrine. |
+| **Loaded march / travois** | **1** | **5** | **+4** | COAST-1 · RS-3 · **HAUL-IRON** · **COAST-SHAKEDOWN-1 loaded ~40 km loop ✓ d738–741**. |
 
 ---
 
 ## Fire · navigation · time · mind
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Friction fire** (almost IRL · bow drill in-world) | **2** | **5** | **+3** | Bow drill ✓ · spare kit · char cloth class. |
 | **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-90 staked** · lane **~26 kg** · vault **~38 kg** · **PIT-CHAR-42 d630**. |
@@ -144,7 +146,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Other craft
 
-| Skill | Start (IRL) | Now @ d630 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Tanning / leather chemistry** | **1–2** | **3** | +1–2 | Caligae · bags · **GOAT-HUNT brain tan d526** · shoemaking class. |
 | **Stone knapping** | **1–2** | **3** | +1–2 | Chert suite · hafting · early survival tier. |
@@ -178,6 +180,13 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
+| **744** | Bow use | *(hold 3)* | **BOW-PRACTICE-744 · 15 m pointed · 20 m honest miss · IRL transfer** |
+| **744** | Hunt / track / trap | *(hold 3)* | **BOW-HUNT-2 prep close · coast supplement doctrine** |
+| **743** | Fishing / weir / trap | **3→4** | **TRAP-CRAFT-2 ✓ · weir + trail + wagon kit** |
+| **743** | Hunt / track / trap | **2→3** | **TRAP-SET-TRAIL-1 ×3 · TRAP-COAST-DEPLOY doctrine** |
+| **742** | Fishing / weir / trap | *(hold 3)* | **TRAP-SET-WEIR-2 · A-03 service · kit staging** |
+| **741** | Loaded march / travois | **4→5** | **COAST-SHAKEDOWN-1 ✓ loaded loop** |
+| **741** | Donkey team train | **4→5** | **Loaded shakedown · bridge ×2 · beach lash** |
 | **634** | Iron tool forge | *(hold 3)* | **IRON-WEDGE-2 ✓** |
 | **634** | Iron roast · slag · bloom · weld | *(hold 3)* | **IRON-BLOOM-24** |
 | **633** | Cooking & baking | *(hold 5)* | **COOL-CELLAR-13-LOAD** |

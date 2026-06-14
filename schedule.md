@@ -1,22 +1,202 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 674** · **Cal-Y3 D72** · **Week 97 · haul fed · factory streak resume*  
-**Stock:** [inventory.md](inventory.md) · **Strategy:** [year-002-plan.md](year-002-plan.md) · **Sun seasons:** [sun-calendar.md](sun-calendar.md)
+*Last updated: **Day 750** · **Cal-Y3 D148** · **Week 108 · COAST-SCOUT-1 day 1*
 
-### Current focus @ Day 674
+### COAST-SCOUT-1 @ Day 750 *(expedition live)*
+
+**Today:** Day **750** · **Cal-Y3 D148** · **early spring** · **COAST-TRAIL-1 (~8 km W)**
+
+| Clock | Days |
+|-------|------|
+| **→ Window opens** **(~Day 760 · Cal-Y3 D158)** | **~10** |
+| **→ COAST-SCOUT-1** | **✓ Day 750 wheels-up · day 1 @ COAST-TRAIL-1** |
+| **→ Window mid (~Day 780)** | **~35** |
+| **→ Window closes (~Day 800 · Cal-Y3 D198)** | **~55** |
+| **→ Cal-Y3 feast (~Day 968)** | **~225** |
+
+**Prep progress *(A = blocking)*:**
+
+| Item | Status | Notes |
+|------|--------|-------|
+| **TEAM-TRAIN-3 ✓** | **Done** | **50 kg PASS Day 717** |
+| **BRIDGE-1 ✓** | **Done** | **km 3 · loaded cross ×2 shakedown PASS** |
+| **WAGON-LASH-KIT-1 ✓** | **Done** | **Shakedown loop ✓ Day 741** |
+| **CALORIE-BANK-1** | **~97% ✓** | **~34.2/~35 kg · Day 748 top-up · cache deployed ~0.73 kg** |
+| **CL-CLOAK-1 ✓** | **Done** | **Day 737 · trail + coast PASS** |
+| **Coastal shakedown ✓** | **Done** | **COAST-SHAKEDOWN-1 ✓ Day 741** |
+| **Goat dry-run ✓** | **Done** | **GOAT-DRY-RUN-738 ✓ · 3-day absence PASS** |
+| **TRAP-CRAFT-2 ✓** | **Done** | **Day 743 · weir + trail + A-03 + wagon kit** |
+| **BOW-HUNT-2 ✓** | **Done** | **Day 744 · prep close · 2×/month practice doctrine** |
+| **CALORIE-BANK top-up** | **✓ Day 748 ~97%** | **PARCHED-BATCH-8 + JERKY-8** |
+| **3rd donkey blanket** | **✓ Day 747** | **ANIMAL-BLANKET-SILAS-1 · ×3 @ holding** |
+| **WAGON-COVER refresh** | **✓ Day 749** | **WAGON-COVER-THATCH-2 · post-shakedown** |
+
+**Rough hero-days left (blocking/strong):** **~0** · **~11 calendar days** to window open — **prep closed · wheels-up ~750+**.
+
+### Chem lab @ Day 728 *(paused — post-coast finish)*
+
+| Track | Status |
+|-------|--------|
+| **Stage** | **Stage 5 interior ~64% · paused Day 716 · lock Day 723** |
+| **Shell** | **Weathertight ✓ · roof 100% · woodwork ✓ · cabinets/shelves ✓** |
+| **LF tile bank** | **32F · 8G @ Kiln B · ~60 remain unpressed** |
+| **Next when resumed** | **LAB-WALL-SKIM-1 → bed trial → floor LAY → counters → sink → fire table** |
+| **Est. to close Stage 5** | **~8–12 hero-days** *(winter/interleave post-coast)* |
+| **Risk if left paused** | **Low** — dry store live · no lay until skim |
+
+---
+**Stock:** [inventory.md](inventory.md) · **Food ledger:** [food-ledger.md](food-ledger.md) · **Strategy:** [year-002-plan.md](year-002-plan.md) · **Sun seasons:** [sun-calendar.md](sun-calendar.md)
+
+### Watch the clock @ Day 715 *(Cal-Y3 D113)*
+
+| Track | Where you are | Watch for |
+|-------|---------------|-----------|
+| **Season** | **Early spring** · SUN ground **~148** · steep leg | **FARM-READ GREEN** — scare-only; hero build OK on campus |
+| **Ag** | **SPRING-SOW-3 ✓ Day 669** (emmer · flax · P-17 · herbs) | **No hard farm deadline** until **autumn harvest ~Days 943–967** (Cal-Y3 D341–365) |
+| **Feast / year** | **Cal-Y3 D111 / 365** | **FEAST-966** closes year @ **~Day 968** — not urgent |
+| **Donkeys** | **TEAM-TRAIN-3 ✓** · WAGON-LOAD-50 team | **BRIDGE-1 haul GREEN** |
+| **Lab** | **LF 32F · 8G** · ~60 remain | **LAB-WALL-SKIM-1 before lay** |
+| **Fuel** | **Char lane ~2 kg** · vault ~51 kg | **Pit before next LF fire** · don't drain vault for tiles alone |
+| **Clay** | **~11 kg pile 1** | Haul if **<~8 kg** before tile sprint resumes |
+| **Expedition** | **BOW-HUNT-2 ✓** | **Blocking prep closed · bank top-up optional · ~17 d to D760** |
+
+### Player priority stack *(locked Day 723 · one plate at a time)*
+
+| Order | Track | When | Rule |
+|-------|-------|------|------|
+| **1 — NOW** | **COAST-SCOUT** | **Spring → summer ~D760–800** | **Only expedition hero** · calorie bank · shakedown · wheels-up |
+| **2 — NEXT** | **CHEM-LAB finish** | **After coast return** | **Stage 5 resume** · skim · bed trial · floor lay · counters · sink · **before horse hero** |
+| **3 — THEN** | **Horse** | **Fall/winter post-lab** | **BARN-HORSE-BAY + HORSE-HOLD-1** · optional **HORSE-SIGN-1** short foot loop · **no parallel hero with lab sprint** |
+
+**Paused / no hero now:** LF tile sprint · horse barn · **HORSE-SCOUT-1** (Cal-Y4) · new forge threads.
+
+### Current focus @ Day 723
 
 | Priority | Item | Notes |
 |----------|------|-------|
-| **Done** | **HAUL-BIG-674 ✓** | **Wood ~72 kg · clay ~31 kg · FS-19–22** |
-| **Now** | **FACTORY streak** | **Stack ~52 → ~80+ · dual pit GO** |
-| **Watch** | **P-17 cotyledons** | **~Day 675** |
-| **Hold** | **CHEM-LAB-STAGE-3** | **~95% — top after stack fat** |
-| **Farm** | **FARM-READ GREEN** | **Scare-only** |
-| **Interleave** | **Smelt / stone / glass** | **~39 kg** H-11 when peg asks · ½-day FS dress |
-| **Maintenance** | **Cellar melt read** | Food trial on east racks |
-| **Route** | **NE red spine** | **Not** south · **Not** Tarsus · BRIDGE-1 = local T-2 only |
-| **Respawn** | **H-11 bench** | Until sleep HOME |
-| **Maintenance** | Farm coast holds | Scare-only @ absence |
+| **Done** | **TEAM-TRAIN-3 ✓ · WAGON-LASH-KIT-1 ✓ · BRIDGE-1 ✓** | **50 kg team · km 3 wagon PASS** |
+| **Now** | **COAST-SCOUT-1** | **Day 750 wheels-up · ~8 km W @ COAST-TRAIL-1 · lab paused** |
+| **Next** | **CHEM-LAB finish** | **Paused Day 716 · resume post-coast · weathertight shell holds** |
+| **Later** | **Horse fall/winter** | **Infra + optional sign scout · after lab · filed HORSE-SCOUT-PREP-723** |
+
+### COAST-SCOUT prep *(filed Day 715 · COAST-SCOUT-PREP-715)*
+
+**Target window:** **Mid-summer ~Days 760–800** (Cal-Y3 **D158–D198**) — farm **GREEN** · **3–5 week** round trip class toward Cilician coast (recon, not full tin haul).
+
+**Navigation:** **Med on left · M-spikes · COAST-BEACON-1 home vector E** — low lost risk.
+
+| Tier | Item | Why | Status |
+|------|------|-----|--------|
+| **A — must close before wheels-up** | **TEAM-TRAIN-3 close** (~50 kg lap) | Proves WAGON-LOAD-50 under team | **✓ Day 717** |
+| **A** | **BRIDGE-1 @ km 3 creek** | HOME leg speed | **✓ Day 720** |
+| **A** | **Coastal shakedown** (1–3 d loaded → COAST-SITE-1) | Cover · lash · amphora · shoulders | **✓ Day 741 · COAST-SHAKEDOWN-1** |
+| **A** | **Goat/home automation** | **~14–21 d** solo pen | **✓ Day 741 · GOAT-DRY-RUN-738 · 3-day PASS** |
+| **A** | **Calorie bank** | **~30–40 kg** for 3–4 wk leg | **~93% Day 745 ✓ launch-ready** |
+| **B — risk mitigation** | **CL-CLOAK-1** | Rain · cold camp | **✓ Day 737 · @ wagon dry well** |
+| **B** | **CL-COAT in wagon kit** | Multi-week cold | **Pack — was @ HOME only** |
+| **B** | **TRAP-CRAFT-2 · BOW-HUNT-2** | Calorie supplement | **✓ Day 743–744 · ongoing bow practice 2×/month** |
+| **B** | **AMPHORA ×3 lashed** + waterskin | Water | **×3 pitched ✓** |
+| **B** | **M-spikes west** (×3 @ go-bag) | Every **~8 km** | **×3 home** |
+| **B** | **ANIMAL-BLANKET ×3** | Rain · rest | **✓ ×3 Day 747** |
+| **C — trail on march** | **AXE + ADZE + WEDGE** | Clear · grade · stake | **✓** |
+| **C** | **ROPE reserve** (~10 m wagon) | Lash · bridge | **~52 m home** |
+| **C** | **TRAIL-CACHE-2+ west** | Food · cover stash | **✓ Day 746 @ ~10 km W · CACHE-1 ✓ @ 4 km NE** |
+| **C** | **Lean shelter @ COAST-CAMP-2** | Repeat base | **Horizon** |
+| **D — nice, not blocking** | **WAGON-RV-2** interior | Shelves · cook · bed lash | **Horizon** |
+| **D** | **BACKPACK-1** | Off-wagon scout | **Haversack ~8 L only** |
+| **D** | **Spare wheel** | Field repair | **CART-IRON ✓ · no spare** |
+| **D** | **METAL-BUCKET on trail** | Water · cook | **CU-BUCKET @ kitchen** |
+| **D** | **BOAT-1** | Orontes onramp | **Skip for land scout** |
+
+**Phased doctrine:** **(1)** 50 kg + bridge **(2)** loaded shakedown → COAST-SITE-1 **(3)** week push — spike @ 16 km W **(4)** multi-week toward Cilician plain **(5)** repeat faster.
+
+### Summer scout prep — time budget *(filed Day 715+ · scout-first)*
+
+**Today:** Day **715** · **~45–85 days** to window **760–800** · farm **GREEN** through summer.
+
+**Summer vs winter scout:** Less char/wood/blanket load · longer daylight · browse + hunt supplement · **CL-CLOAK** still worth it (storms) · **CL-COAT** optional for mid-summer recon.
+
+**Chem lab — can it sit?** **Yes.** Shell + roof + woodwork **✓** · wing is **weathertight** · shelves/cabinets **live for dry storage**. **Pause OK after tile stock run** — **do not floor LAY** until return if you skip skim/grout. **Finish in winter:** wall skim · bed trial · floor lay · counters · sink · fire table — indoor/cure work fits cold season.
+
+| # | Prep item | Est. (hero-days) | Calendar @ interleave | Blocking? | Notes |
+|---|-----------|------------------|------------------------|-----------|-------|
+| 1 | **TEAM-TRAIN-3 session 5** (~50 kg) | **1** | **✓ Day 717** | **Yes** | **Team close · BRIDGE-HAUL-GATE GREEN** |
+| 2 | **BRIDGE-1 @ km 3** | **3–4** | **✓ Day 720** | **Yes** | **Wagon empty + ~25 kg PASS** |
+| 3 | **Wagon lash kit** (coat · bucket · amphora · bedroll · tent) | **1** | **✓ Day 716** | **Yes** | **~38 kg empty · ~12 kg food headroom @ 50 cap** |
+| 4 | **Calorie bank** (~30–40 kg parched/jerky/salt) | **3–5** | **~97% Day 748 ✓** | **Yes** | **~34.2/~35 kg · cache deployed · march surplus only** |
+| 5 | **Coastal shakedown** (loaded → COAST-SITE-1) | **2–3** | **✓ Day 741** | **Yes** | **COAST-SHAKEDOWN-1 ✓** |
+| 6 | **CL-CLOAK-1** | **2** | **✓ Day 737** | **Strong** | **Grape · teal hood · M-08 yoke · mist PASS** |
+| 7 | **TRAP-CRAFT-2 + BOW-HUNT-2** | **2–3** | **✓ Day 743–744** | **Strong** | **Traps + bow prep · practice ongoing** |
+| 8 | **Goat pen dry run** (2–3 d absence) | **2–3** | **✓ Day 741** | **Strong** | **GOAT-DRY-RUN-738 ✓** |
+| 9 | **WAGON-COVER refresh** (if thin) | **1** | **✓ Day 749** | — | **WAGON-COVER-THATCH-2 · post-shakedown** |
+| 10 | **3rd donkey blanket** (Silas dedicated) | **1** | **✓ Day 747** | — | **ANIMAL-BLANKET-SILAS-1 · ×3 @ holding** |
+| 11 | **M-spike deploy** (×3 west) | **0** pre-build | On shakedown / trip 1 | — | Already @ go-bag |
+| 12 | **TRAIL-CACHE-2 west** | **1** | **✓ Day 746** | — | **~10 km W · AMPHORA-2 shell** |
+
+**Totals:** **~15–22 hero-days** blocking/strong prep · **~4–6 calendar weeks** at scare-only interleave · **~20–25 days slack** before **Day 760** if you start now.
+
+**Lab until coast return:** **Paused — no LF hero.** Shell weathertight · **32F · 8G** banked · dry storage live. **Do not** interleave tile sprint while calorie bank + scout prep run — plates full enough.
+
+**Lab after coast:** **Priority #2** — wall skim · bed trial · floor lay · counters · sink · fire table *(chem-lab-plan Stage 5 close)*.
+
+**Lab if time remains:** **Deferred** until post-coast — was spring filler; **player lock Day 723**.
+
+### HORSE-SCOUT prep *(filed Day 723 · HORSE-SCOUT-PREP-723)*
+
+**Player intent:** Horses = **game changer** · **barn is a big start** · **no horse hero until COAST done + CHEM-LAB finish** · infra + optional short sign scout **fall/winter only**.
+
+**Distance class:** **~80–150 km N/NE** steppe margins (**A-08** · **not** D-27 ass @ ~19 km NE). **5–8 week** round-trip class for **sign + capture attempt** vs **3–5 week** COAST-SCOUT.
+
+**Calendar doctrine — two summers, two jobs:**
+
+| Window | Track | Why |
+|--------|-------|-----|
+| **This summer ~D760–800** | **COAST-SCOUT-1** | **Committed** — tin corridor recon · wagon + donkeys |
+| **Next summer ~D1125–1165** (Cal-Y4 **D158–D198**) | **HORSE-SCOUT-1** | **Primary horse window** — long daylight · steppe dry · **~400 d** from now for barn + kit |
+| **Optional ~D900–980** (late Cal-Y3 **fall/winter · post-lab**) | **HORSE-SIGN-1** | **Foot-only** · **40–80 km NE** · **3–5 d** · mark tracks · **no capture** · **after lab finish** |
+
+**Do not stack:** Full **HORSE-SCOUT** the same summer as **COAST** — one long expedition per open season until automation holds.
+
+**What you already have (donkey grammar ≠ horse):**
+
+| Asset | Status | Horse gap |
+|-------|--------|-----------|
+| **BARN-1-v1** | **✓** 12×7 m · loft ~90 kg hay · iron doors · manger | **No horse bay** — ceiling height OK · **stall rails + tie post + higher manger** needed |
+| **HOLDING-1** | **✓** Mabel / Humphrey / Silas · **3×4–5 m** partitions | **Too small / wrong layout** for 500 kg class · need **HORSE-HOLD-1** paddock |
+| **PEN-EXPAND-1** | **✓** goats ~22×8 m · auto trough | **Keep separate** — horses spook goats · **adjacent not shared** |
+| **Capture** | **D-27 donkey trip grammar** | **CORRAL-WING-1** · hobbles · **stronger fence** · **lead + blanket** |
+
+| Tier | Item | Est. (hero-days) | When | Blocking? | Notes |
+|------|------|------------------|------|-----------|-------|
+| **A — before wheels-up (Cal-Y4)** | **BARN-HORSE-BAY-1** (NW bay · ~3×4 m · tie rail ~1.4 m · packed floor) | **2–3** | **Fall/winter Cal-Y3 post-lab** | **Yes** | Reuse barn timber + crane · **not** goat manger height |
+| **A** | **HORSE-HOLD-1** paddock (~12×8 m · double-rail fence · gate to bay) | **2–3** | Same block | **Yes** | **NE of HOLDING-1** · aqueduct branch from **AQUEDUCT-1** |
+| **A** | **HORSE-HAY-RACK-1 + HORSE-TROUGH-1** | **1** | After bay | **Yes** | Loft chute can fork · **higher lip** than goat feeder |
+| **A** | **HORSE-HALTER-1 · LEAD-ROPE-1 · picket pin** | **1** | Forge/rope week | **Yes** | Iron ring + hide halter · **D-27 lead grammar** scaled up |
+| **A** | **CORRAL-WING-1** @ steppe camp class | **2** | Before scout | **Yes** | Portable wing + wing posts · **capture not chase** |
+| **A** | **HORSE-BLANKET-1** | **1–2** | Textile interleave | **Strong** | Larger than **ANIMAL-BLANKET-SET-1** |
+| **A** | **Calorie bank (horse leg)** | **2–3** | Cal-Y4 spring | **Yes** | **~25–35 kg** dry · shorter leg than coast but harder country |
+| **B** | **HORSE-SIGN-1** foot loop NE | **3–5** | **~D900–980 post-lab** optional | Soft | Pin on map · shrink estimate · **not before lab close** |
+| **B** | **BACKPACK-1** | **2** | Any interleave | Soft | Off-wagon ridge days · coast kit partial |
+| **C** | **First horse home** | **—** | **After bay + paddock ✓** | — | **Quarantine week @ HORSE-HOLD-1** · **no goat mix** · donkey intro slow |
+
+**Phased doctrine:** **(1)** Close **COAST-SCOUT** **(2)** **CHEM-LAB finish** **(3)** **BARN-HORSE-BAY + HORSE-HOLD-1** fall/winter **(4)** optional **HORSE-SIGN-1** foot **(5)** **Cal-Y4** **HORSE-SCOUT-1** full loop.
+
+**Interleave rule:** **No horse hero now.** Spring/summer = **coast only** · farm scare · automation maintenance.
+
+---
+
+*Masonry/timber precision tools — improve on **MEASURE-1** · angles in **TURN-fractions** (¼·½·¾ of a full turn), not 360°.*
+
+| Order | Tool | Notes |
+|-------|------|-------|
+| **1** | **PLUMB-BOB-1** | Formal peg kit — bob + cord · **canon @ wall courses** |
+| **2** | **STRAIGHT-EDGE-2** | Upgrade **RULE-1** — longer stiffer edge for tile/brick |
+| **3** | **TRY-SQUARE-1** | Fixed right angle — timber + tile bed |
+| **4** | **BOB-LEVEL-1** | Dual-bob frame + notch marks — no spirit bubble |
+| **5** | **LAYOUT-COMPASS-1** | Radius stick / scratch arc — not nav compass |
+| **6** | **ARC-PROTRACTOR-1** | Turn-fraction plate + chord table — radian-class thinking |
+
+**Angle doctrine:** Full turn = **1 TURN** · quarter = **¼ TURN** (roof ~22° shed ≈ **¼ TURN ÷ 4** class) · chord lengths on a fixed radius for layout.
 
 ---
 
