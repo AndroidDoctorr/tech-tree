@@ -1,7 +1,7 @@
 # Calendar Year 1 — Days 1–237
 
 *~10,000 BC · Orontes valley · closes **Day 237** (feast eve)*  
-**Next:** [year-002.md](year-002.md) *(in progress — Day 238+ · see [centadial-003.md](../summaries/centadial-003.md) for Days 201–300)*  
+**Next:** [year-002.md](year-002.md) · [year-003](../years/year-003.md) *(in progress — Day 603+)*  
 **Prior rollups:** [centadial-001.md](../summaries/centadial-001.md) · [centadial-002.md](../summaries/centadial-002.md)
 
 ---
@@ -141,9 +141,7 @@ Goat pauses · **caligae** · twin bellows · **~176+ bricks** · **workshop W-1
 
 ## Year 1 → Year 2 handoff
 
-**Day 238** = **Cal-Y2 D1** (Boxing day charcoal class). Year 2 priorities filed @ centadial-3 horizon: **spring sow**, **tile deploy**, **amphora finish**, **first iron bloom**, **glass stack**, **factory maintenance**.
-
-*Year 2 progress @ Day 365: [ladder.md](../../ladder.md) · [inventory.md](../../inventory.md).*
+**Day 238** = **Cal-Y2 D1** (Boxing day charcoal class). Year 2 summary: [year-002.md](year-002.md).
 
 ---
 

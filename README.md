@@ -15,8 +15,9 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [materials-roadmap.md](materials-roadmap.md) | Grout, lime, kiln/hypocaust brick budget |
 | [sun-calendar.md](sun-calendar.md) | **Solar calendar** — SUN-CAL-1 dual track · YULE anchor · interpolation |
 | [schedule.md](schedule.md) | **Deadlines & routines** — daily grind · weekly checks · farm windows · expeditions · feast countdown |
-| [year-002-plan.md](year-002-plan.md) | **Cal-Y2 strategy** — EXPED-C · glass · wire · anvil · campus · barn |
+| [year-002-plan.md](year-002-plan.md) | **Cal-Y2 strategy archive** — pointer to [journal/years/year-002.md](journal/years/year-002.md) |
 | [year-001-plan.md](year-001-plan.md) | Year 1 strategy *(archived @ Day 237)* |
+| [journal/years/year-002.md](journal/years/year-002.md) | **Calendar Year 2** summary (Days 238–602) |
 | [advancements.md](advancements.md) | Infrastructure, tools, capabilities, key stats |
 | [skills.md](skills.md) | **Skills ledger** — Start (IRL) + Now · player = you · [RAG-MUD](purpose.md#rag-mud) |
 | [ladder.md](ladder.md) | **Achievement ladder** — have vs need, all tracks, one glance |
@@ -24,25 +25,21 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`) — see **Week numbering** below |
 | [journal/weeks/](journal/weeks/) | Weekly rollups — see [journal/index.md](journal/index.md) |
 | [journal/years/year-001.md](journal/years/year-001.md) | **Calendar Year 1** summary (Days 1–237) |
+| [journal/years/year-002.md](journal/years/year-002.md) | **Calendar Year 2** summary (Days 238–602) |
+| [journal/years/year-003.md](journal/years/year-003.md) | **Calendar Year 3** *(in progress · Day 603+)* |
 | [movie/](movie/) | Feature-film concept — alien trial, ensemble players, story circle |
 
 ## Week numbering
 
 **One week = seven days.** Week *N* covers days **(N−1)×7 + 1** through **N×7**.
 
-| Week | Days |
-|------|------|
-| 24 | 162–168 |
-| 25 | 169–175 |
-| 26 | 176–182 |
-| 27 | 183–189 |
-| 28 | 190–196 |
-| 29 | 197–203 |
-| 30 | 204–210 |
-| 31 | 211–217 |
-| 32 | 218–224 |
+| Week | Days | Notes |
+|------|------|-------|
+| *N* | *(N−1)×7+1 – N×7* | Formula — always derive from day number |
+| **113** | **785–791** | STORE-4 shell *(closed)* |
+| **114** | **792–798** | Fit-out · **STORAGE-REORG ✓ Day 797** *(open)* |
 
-When advancing the journal, set each day file's **Meta → Week** and folder **`journal/days/week-NNN/`** from this table — not from “days since last week summary.” After moving a day across a week boundary, update [journal/index.md](journal/index.md), the week rollup in [journal/weeks/](journal/weeks/), and close the prior week summary at day *N×7*.
+When advancing the journal, set each day file's **Meta → Week** and folder **`journal/days/year-00Y/week-NNN/`** from the formula — not from “days since last week summary.” After moving a day across a week boundary, update [journal/index.md](journal/index.md), the week rollup in [journal/weeks/](journal/weeks/), and close the prior week summary at day *N×7*.
 
 ## Journal entry format
 

@@ -1,12 +1,60 @@
 # Advancements
 
-*Last audited: **Day 713** (~10,000 BC)*
+*Last audited: **Day 797** (~10,000 BC)*
 
-What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [year-002-plan.md](year-002-plan.md) · **Full ladder:** [ladder.md](ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
+What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [journal/years/year-002.md](journal/years/year-002.md) · **Full ladder:** [ladder.md](ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
 
 ## Summary
 
-**Day 750 · Cal-Y3 D148:** **COAST-SCOUT-1 launch · Week 108 · GOAT-ABSENCE-750 ✓ · ~46 kg @ COAST-TRAIL-1**
+**Day 829 · Cal-Y3 D227:** **WW-BELT-RUN-LAB-1 ✓ · ~142 m belt · low-load spin PASS**
+**Day 828 · Cal-Y3 D226:** **WW-BELT-POST-SET-1 ✓ · posts 7/7 · belt lace prep @ T-1**
+**Day 827 · Cal-Y3 D225:** **Week 119 open · WW belt survey ✓ · posts 4/7 · GLASS-NO-MELT doctrine**
+**Day 826 · Cal-Y3 D224:** **GLASS-SAND-TABLE-1 ✓ · MARVER-STATION north draft lane · vent + farm next**
+**Day 825 · Cal-Y3 D223:** **P-LAB-VIAL-BATCH ✓ · GLASS-MARVER-1 ✓ · sand table d826**
+**Day 824 · Cal-Y3 D222:** **LAB-SCALE-2 ✓ · MASS-BOOTSTRAP · 1× ≈ 5 g · glass batch slate in grams**
+**Day 823 · Cal-Y3 D221:** **P-POUR-CRUC ×2 empty soak PASS · IRON-GLASS-SKIM-1 ✓ · crucibles glass-ready**
+**Day 822 · Cal-Y3 D220:** **P-POUR-CRUC ×2 fired ✓ · IRON-POUR-LADLE-1 ✓ · soak test d823**
+**Day 821 · Cal-Y3 D219:** **P-POUR-CRUC ×2 greenware · CLAY-LEVIG inner slip · CRUC-GLASS doctrine**
+**Day 820 · Cal-Y3 D218:** **Week 118 open · GLASS-GEAR-UPGRADE · IRON-GLASS-TONGS-1 ✓ · WW vent + trip hammer plans expanded**
+**Day 819 · Cal-Y3 D217:** **QUARTZ-CART-HAUL-1 ✓ · ~46.1 kg clean FACE-B · wash scaled · GLASS next**
+**Day 818 · Cal-Y3 D216:** **QUARTZ-CART-HAUL homeward leg 1 ✓ · Camp-1 · HOME + wash d819**
+**Day 817 · Cal-Y3 D215:** **QUARTZ-CART-HAUL chip ✓ · ~52.2 kg FACE-B · wagon loaded · homeward d818**
+**Day 816 · Cal-Y3 D214:** **QUARTZ-CART-HAUL leg 2 ✓ · FACE-B @ +235 m · wagon @ CART-PARK · chip d817**
+**Day 815 · Cal-Y3 D213:** **QUARTZ-CART-HAUL leg 1 ✓ · 3–4 d load · Camp-1 · quality-first doctrine**
+**Day 814 · Cal-Y3 D212:** **ORE-WASH-SIFT-1 ✓ · trickle tray @ chem sill · BEACH-ICED-DRINK stretch filed**
+**Day 813 · Cal-Y3 D211:** **CHAR-WOOD-SPRINT ✓ · QUARTZ-CART-HAUL prep · Week 117 opens**
+**Day 812 · Cal-Y3 D210:** **CART-WOOD-HAUL-812 ✓ · QUARTZ window ~38 d · TRIP-HAMMER plan · beach chair post-haul**
+**Day 811 · Cal-Y3 D209:** **POT-LAB-SET-1 ✓ · PIT-CHAR-82 · lane ~14 kg · side queue chair→shoes filed**
+**Day 810 · Cal-Y3 D208:** **POT-LAB-SET ~70% · P-LAB-CRUC ×3 + trays ×2 @ Kiln B · vial rack mounted**
+**Day 809 · Cal-Y3 D207:** **KILN-C-UPGRADE-1 ✓ · KILN-C-HOT-TEST soak PASS ~62 min · POT-LAB-SET ~25% interleave**
+**Day 808 · Cal-Y3 D206:** **KILN-C-BAFFLE-1 ✓ · TUYERE tune ✓ · CHIMNEY stub ✓ · upgrade ~65%**
+**Day 807 · Cal-Y3 D205:** **KILN-C-UPGRADE-1 opens · INSUL-v2 ✓ · BAFFLE-1 dry-fit · ~30%**
+**Day 806 · Cal-Y3 D204:** **QUARTZ-SURVEY-NUR-BELEN-1 ✓ · QUARTZ-BELEN-ZONE + CART-PARK marked · ~0.85 kg samples @ chem cabinet**
+**Day 805 · Cal-Y3 D203:** **QUARTZ-SCOUT leg 1 ✓ · white quartz vein sighting @ Belen foothill · slope camp**
+**Day 804 · Cal-Y3 D202:** **QUARTZ-SCOUT prep ✓ · post-quartz pipeline + beach checklist filed @ schedule.md**
+**Day 803 · Cal-Y3 D201:** **CART-WOOD-HAUL ✓ · PIT-CHAR-81 ✓ · IRON-NAILS ×20 ✓**
+**Day 796 · Cal-Y3 D194:** **Finish touches ✓ · LAB-FIRE-SUPPRESS-v0 ✓ · STORAGE-REORG ~55% · WIRE-DRY → chem cab · STORE-3 ~45% empty**
+**Day 795 · Cal-Y3 D193:** **STORE-4-LAYOUT-MAT ✓ · seal pass ✓ · E drain ✓ · food @ kitchen doctrine · STORE-3 retire scoped**
+**Day 794 · Cal-Y3 D192:** **Week 114 · STORE-4 fit-out ✓ · shelves ✓ · tallow wipe ✓ · annex live · reorg next**
+**Day 791 · Cal-Y3 D189:** **Week 113 close · STORE-4-FLOOR ✓ · shell weathertight through floor**
+**Day 792 · Cal-Y3 D190:** **STORE-4-DOOR ✓ · measured frame · flat slab · ×2 strap hinge · latch · swing PASS · tallow note filed**
+**Day 790 · Cal-Y3 D188:** **STORE-4-ROOF ✓ · weathertight · ×50 SR · drip PASS**
+**Day 789 · Cal-Y3 D187:** **STORE-4 ridge ✓ · roof rows 1–3 · CRANE-2 brainstorm @ map.md**
+**Day 788 · Cal-Y3 D186:** **STORE-4-BOND-BEAM ✓ · battens · roof prep ~15%**
+**Day 787 · Cal-Y3 D185:** **STORE-4 wythe ✓ · door lintel ✓ · ×133 brick**
+**Day 786 · Cal-Y3 D184:** **STORE-4 course 4 ✓ · ×12 brick · walls ~85% · ~13 stack · STOCK-REPLENISH post-reorg**
+**Day 785 · Cal-Y3 D183:** **Week 113 opens · course 4 partial · ×18 brick · walls ~75%**
+**Day 784 · Cal-Y3 D182:** **Week 112 close · STORE-4 course 3 ✓ · walls ~65% · ×90 brick in wythe**
+**Day 783 · Cal-Y3 D181:** **STORE-4 course 3 partial · ×18 brick · walls ~55%**
+**Day 782 · Cal-Y3 D180:** **STORE-4 course 2 ✓ · ×12 brick · walls ~45% · CL-BUTTON-BATCH backlog**
+**Day 780 · Cal-Y3 D178:** **STORE-4 course 1 ✓ · ×12 brick · door jamb stub · walls ~25%**
+**Day 779 · Cal-Y3 D177:** **STORE-4-WALLS-1 course 1 partial · ×18 brick · N bond tie · ~115 stackable**
+**Day 778 · Cal-Y3 D176:** **Week 112 opens · ROOF-TILE-STORE-4 ✓ 50F · SKIN-GATE OPEN**
+**Day 771 · Cal-Y3 D169:** **Week 111 opens · SOCLE ✓ · tile sprint · SHELF-IRON v2 deferred**
+**Day 770 · Cal-Y3 D168:** **STORE-4 drain ✓ · socle ~35% · floor-last doctrine**
+**Day 769 · Cal-Y3 D167:** **STORE-4 pad ✓ · gravel ✓ · MAT-AUDIT · LAB-OPS queue filed**
+**Day 768 · Cal-Y3 D166:** **STORE-4-STAKE ✓ · PAD-DIG ~40% · quartz window ~780+ filed**
+**Day 764 · Cal-Y3 D162:** **Week 110 opens · AQUEDUCT-LAB-BRANCH ✓ · CHEM-LAB-SINK-1 ✓**
 **Day 748 · Cal-Y3 D146:** **PARCHED-BATCH-8 · JERKY-8 · CALORIE-BANK ~97%**
 **Day 747 · Cal-Y3 D145:** **ANIMAL-BLANKET-SILAS-1 ✓ · ×3 @ holding peg · COAST-WHEELS-UP-747 · prep closed**
 **Day 713 · Cal-Y3 D111:** **TEAM-TRAIN-3 session 3 ✓ · ~70% · empty cart hook · SCHEDULE-READ-713**

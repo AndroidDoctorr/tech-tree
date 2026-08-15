@@ -40,7 +40,7 @@
 | **2** | **Gravel + lime bed** | **✓ Day 664** — ~22 kg gravel · lime-sand skim · compact · cure overnight |
 | **3** | **MURE-R1 walls** | **✓ Day 682** — courses 1–6 · ~216 brick · ~2.4 m height · **BOND-BEAM-682 ✓** |
 | **4** | **Roof** | **✓ Day 703 — ×47 tile · ridge · vent hood louver · Stage 4 close** |
-| **5** | **CHEM-LAB-1 interior** | **In progress Day 704+ — see [Stage 5 plan](#stage-5-interior-plan-filed-day-704)** |
+| **5** | **CHEM-LAB-1 interior** | **✓ Day 766 — Stage 5 close · CHEM-LAB-1 live** |
 | **6** | **Tool migration** | Millhouse pegs → lab wing · belt unchanged |
 | **7** | **MILLHOUSE-1 demo** | Strip Phase 1 · salvage oak |
 | **8** | **MILLHOUSE-2 mirror** | Same socle grammar · same **5×6** plan · tools return split across both bays |
@@ -86,20 +86,20 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 | Order | Work | Why this order |
 |-------|------|----------------|
 | **1** | **Shelves + closed cabinets** | Dry storage · layout pins floor/counter zones · **no slab work yet** |
-| **2** | **Tile floor bed** | **LF pipeline open Day 709 · ~100×15×15 buff · lime bed trial queued** |
-| **3** | **Counter / bench tops** | Pompeii-class grouted surface · vise peg · drawplate mount |
-| **4** | **Sink branch** | Aqueduct tee · drain E · after counter south edge set |
-| **5** | **Fire zone table** | Peripheral tile top · charcoal meter |
+| **2** | **Tile floor bed** | **✓ Day 762 — CHEM-LAB-FLOOR-LAY-1 · ×84 plain buff · 12F spare @ rack · south bench strip bare** |
+| **3** | **Counter / bench tops** | **✓ Day 763 — CHEM-LAB-COUNTER-1 · south bench ~3.6×0.6 m · Pompeii-class grouted LF top · vise stub west · sink margin east open** |
+| **4** | **Sink branch** | **✓ Day 764 — AQUEDUCT-LAB-BRANCH-1 · CHEM-LAB-SINK-1 · P-LAB-SINK-1 · slop drain E → D-1** |
+| **5** | **Fire zone table** | **✓ Day 765 — CHEM-LAB-FIRE-TABLE-1 · SW peripheral · tile top · char meter class** |
 | **6** | **Labware rack** | Ceramic + metal staging · glass shelf deferred |
 | **7** | **Wood finish pass** | **SAND-SMOOTH-1 → LAB-WOOD-OIL-1 ✓ Day 707 · CHEM-LAB-WOODWORK-CLOSE-707** |
-| **8** | **Wall skim + lamps** | **LAB-WALL-SKIM-1 before floor LAY** *(spill during grout)* · lamps parallel · **not** before tile press/fire |
+| **8** | **Wall skim + lamps** | **LAB-WALL-SKIM-1 ✓ Week 108 · LAB-LAMP-RAIL-1 ✓ Day 766** |
 
 ### Furnace / glass path *(canon — not blocking interior)*
 
 | Track | Status | Notes |
 |-------|--------|-------|
-| **Kiln C** | **Hot blast ~1100°C class ✓** | Copper · micro-glass bead · P-δ crucible |
-| **KILN-C-UPGRADE-1** | **Queued** | Insulation patch · **soak window** · tuyere tune — **not** a greenfield kiln |
+| **Kiln C** | **Hot blast ~1100°C ✓ · KILN-C-UPGRADE-1 ✓ Day 809** | Copper · micro-glass · **soak hold ~62 min PASS** · vessel glass class |
+| **KILN-C-UPGRADE-1** | **✓ Day 809** | Insulation v2 · baffle · tuyere · chimney stub · soak hold validated |
 | **FORGE-D lining** | **~97%** | Bloom/weld · not vessel-glass temp alone |
 | **Fresh “super furnace”** | **Later** | Better grout + lining + blower **helps** — but **upgrades first** unlock next rungs cheaper than starting over |
 | **Glass vessels** | **Blocked on upgrade + anneal routine** | Bead proved · cups/optics need **KILN-C-UPGRADE-1** class soak |
@@ -121,44 +121,96 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 
 **Rule:** **Tile where spills, heat, and scrubbing live.** **Lime skim where light and flat matter.** **Wood only where nothing corrosive sits.**
 
-**Interleave clock *(Day 710+):* **Factory AM · LF press/fire PM · TEAM-TRAIN-3 session 3 @ ~24F · LAB-WALL-SKIM-1 before floor LAY** *(tile stock can run ahead)*.
+**Pause *(Day 716 · scrub Day 750):* **COAST-SCOUT scrubbed** — **CHEM-LAB Stage 5 ✓ Day 766** · **Stage 6 tool migration queued**.
 
-**Pause *(Day 716 · lock Day 723):* **Stage 5 interior paused** for **COAST-SCOUT** — **no LF hero until coast return** · shell weathertight · woodwork ✓ · **LF 32F · 8G** banked · **resume = priority #2 post-coast:** skim · bed trial · lay · counters · sink · **then** horse barn fall/winter.
+### Post–Stage 5 backlog *(Day 797)*
+
+| ID | Target | Notes |
+|----|--------|-------|
+| **CL-LAB-WEAR-1** | **×2–3** dedicated tunics/breech | **CL-LAB-TUNIC-1 ~42%** · **CL-BUTTON-BATCH backlog** |
+| **CHEM-LAB-AIRLOCK-1** | **Covered porch @ lab door** | **Mat/peg v0 ✓** · full porch deferred |
+| **LAB-TOOLS-1** | Bench kit overflow | Staging |
+| **LAB-FIRE-SUPPRESS-1** | Fire response | **v0 ✓ Day 796** · v1 sprayer · v2 roof trough |
+| **STORAGE-REORG-1** | **✓ Day 797** | Mat/chem/tool → **STORE-4 ✓** · food @ kitchen · **STORE-3 retired** |
+| **STORE-4** | **✓ live Day 797** | See [map.md](map.md) — not blocking lab ops |
+| **WW-HUB-1** | **~3×3 m crossing** | Cart turn · airlock · links wings |
+| **LAB-VENT-FAN-1** | Hood chase fan | Provisioned Day 703 |
+| **STORAGE-JAR-SET-1** | **×6–10 lidded jars** | Reagent overflow |
+| **COOL-CELLAR-8+** | Evap partition | Horizon · not blocking |
+
+### Dust discipline *(LAB-DUST-DOCTRINE-754 · wet interior work)*
+
+**Problem:** **Kiln char · lime dust · clay fines · boot grit** on **wet skim / wash / grout** = **gray flecks · failed bond · rework**.
+
+| Gate | Rule |
+|------|------|
+| **Same-day kiln/factory** | **OFF** on **skim · wash · full floor LAY / grout** hero days |
+| **Bed trial interleave** | **Small mock patch AM OK · LF fire PM @ Kiln B** if **lab sealed · clothes swap · no factory stack** |
+| **Clothes change @ door** | **CL-TUNIC-2/3** rotation today · **dedicated lab set** → **CL-LAB-WEAR-1** backlog *(×2–3 cheap tunics/breech · lime peg only)* |
+| **Boot wipe** | **Damp rag/mat @ sill** *(CL-TOWEL-4 class)* before entry |
+| **Shake @ threshold** | **Hem + hair** before step-in |
+| **Door** | **Closed** between passes · **vent louver crack** · work **out** through door |
+| **Mask** | **Oak · cabinets · shelves** sheeted during plaster/wash |
+| **Hands** | **Rinse bucket** before touching wet wall with outdoor hands |
+| **Future** | **CHEM-LAB-AIRLOCK-1** — **covered porch @ lab door** · change · brush · mat · **buffer zone** before wing *(backlog)* |
+
+**Interleave:** **Tile press/fire OK** on **cure days** between wet hero passes — **not** same calendar day as wash/grout if avoidable.
+
+### LAB-FIT-FINISH-1 *(precision doctrine · filed Day 756)*
+
+**This is a lab.** Finish targets: **straight · even · level · flat · flush · smooth · consistent · square** — as close as tools allow.
+
+| Tool | Use |
+|------|-----|
+| **Plumb bob** *(lead/class)* | Walls · door frame · layout snaps |
+| **STRAIGHT-EDGE-2** | **~1.85 m** iron-lip rule — bed screed · tile plane · counter run |
+| **RULE-1 / try square** | Corner square · diagonal checks · ≤**3 mm** @ room diagonal class |
+| **IRON-TROWEL-1 · IRON-MORTAR-FLOAT-1** | Bed · grout · skim feather |
+| **MASON-IRON-KIT-1** | Straight edge + trowel + float bundle |
+
+**Floor LAY gates:** re-snap layout · bed plane ±**1 mm** @ rule · tile face flush · grout lines consistent · south bench strip reserved.
+
+### Services provision *(built-in · filed Day 656+ · amended Day 756)*
+
+**Designed from stake** for **water · steam class · power conduits · fume path** — surface mount **OK** if **straight · clipped · labeled**.
+
+| Service | Status | Notes |
+|---------|--------|-------|
+| **Fume hood + vent** | **✓ passive Day 703** | North hood · louver ×4 · **FAN-PROVISION** chase **~20×30 cm** · **LAB-VENT-FAN-1** queued |
+| **Ridge vent slot** | **✓** | Stack draft north · cross-draft discipline |
+| **OUTLET-BRICK-665** | **✓ N wall chase stub** | **Conduit / wire chase** — surface **CU strap** or tile clip OK |
+| **Aqueduct branch** | **✓ Day 764** | **AQUEDUCT-LAB-BRANCH-1 @ east sill · slop drain E → D-1 · wet feed live** |
+| **Steam / hot water** | **Horizon** | **HOT-WATER-1** grammar @ kitchen · lab = **batch steam class** or **aqueduct preheat** later |
+| **Electrical conduit** | **Horizon** | **Wire dry cabinet ✓** · chase stub + **surface raceway** on lime wall — neat bolted oak or **CU clip** |
+| **Rule** | **Do not block** fan chase · belt clearance · hood draft path |
 
 ---
 
-## Materials · brick hoard *(lab wing add-on)*
+### Stage 6+ *(queued)*
 
-*Added to campus total in [house-plan.md](house-plan.md) — **not** counted in domus ~700–1,000.*
-
-| Bucket | Est. fired brick | Notes |
-|--------|------------------|-------|
-| **CHEM-LAB-WING-1** walls + cheeks | **~120–160** | **5×6 m** single wythe · door · vent |
-| **Floor bed / tile margin** | **~20–40** | Lime bed · spill containment |
-| **MILLHOUSE-2 mirror** *(later)* | **~120–160** | Same grammar after demo |
-| **POT-LAB-SET / kiln maintenance** | **~40–60** | Crucibles · trays · spares |
-| **Lab wing subtotal** | **~200–280** | **Before mirror** · **~320–420** both wings |
-
-| Other | Est. |
-|-------|------|
-| **Cut stone (socle)** | **~1.2–1.8 m²** face · pile 8 + terrace haul |
-| **Tier 3 lime** | **~15–25 kg** slaked equiv. |
-| **Oak** | Bond beam · bench legs · door frame |
-| **Roof tile** | **~40–60** pieces if tile shed (else mat v1 staging) |
-
-**Pipeline now:** **~123** stackable @ Kiln B · **~195** green · **~216 in walls** — **Stage 5 ~64% Day 712 · LF 24F·8G · train @ 713**
+| Stage | Target | Notes |
+|-------|--------|-------|
+| **6** | **Tool migration** | Millhouse pegs → lab wing · belt unchanged |
+| **7** | **MILLHOUSE-1 demo** | Strip Phase 1 · salvage oak |
+| **8** | **MILLHOUSE-2 mirror** | Same **5×6** grammar · tools return split |
 
 ---
 
-## Parallel clocks *(Cal-Y3)*
+## Materials · brick hoard *(lab wing — historical budget)*
+
+*Campus brick totals also in [house-plan.md](house-plan.md). **CHEM-LAB walls ✓ ~216 brick in place.** **STORE-4 ✓ ~133 brick.** Factory queue: see [inventory.md](inventory.md).*
+
+---
+
+## Parallel clocks *(Cal-Y3 @ Day 797)*
 
 | Clock | Interleave |
 |-------|------------|
-| **Factory** | **1–2 days/week** — feed brick hoard |
-| **Pit dual** | When wood **>~40 kg** |
-| **Stone dress** | ½-day on haul / factory off-days |
-| **Domus H-V3** | **Deferred** until lab socle proved |
-| **SPRING-SOW-3** | **~Day 669** — no multi-day absence |
+| **STOCK-REPLENISH-1** | **Next hero** — brick factory · green ~195 |
+| **LAB-OPS backlog** | Loom · airlock · tools · fire suppress v1 |
+| **Factory** | **1–2 days/week** when not hero sprint |
+| **QUARTZ-SURVEY** | **~780–850** soft window |
+| **Domus H-V3** | **Deferred** — lab + STORE-4 live first |
 
 ---
 

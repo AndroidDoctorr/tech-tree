@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 552** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 797** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -155,6 +155,21 @@
 | **BARN-1-v1** | **✓ proven Day 469** · **~90 kg hay @ loft** · iron hinges/latch Day 485 |
 | **CART-YARD** | **~3×6 m** · **CART-1 ✓** · **YEARLING-80 kg PASS** · **TEAM-TRAIN-1 queued** |
 | **CRANE-1** | **✓ Day 423** @ barn pad |
+
+### CRANE-2 brainstorm *(filed Day 789 · not started)*
+
+**Trigger:** Heavier campus lifts ahead — **masonry lintels · bond beams · domus tile pallets · compound colonnade** class. **CRANE-1** = portable A-frame @ yard/barn · **~50 kg** test · relocate cost ~half-day.
+
+| Axis | CRANE-2 concept |
+|------|-----------------|
+| **Mobility** | **Wheeled carriage** @ WW-YARD hardpan · **iron-shod wheels** · **chock/brake blocks** @ set |
+| **Structure** | **Stronger mast** · **wider A-frame** · **iron cheek straps** on timber · **>100 kg** lift target |
+| **Rigging** | **Multi-purchase** block set · **tail** **+** **tag** **line** · **rated** **for** **stone/lintel** **bundles** |
+| **Ops** | **Set** **→** **lift** **→** **brake** **→** **travel** **short** **reposition** **without** **full** **relocate** **tear-down** |
+| **When** | **After** **STORE-4** **live** **+** **STOCK-REPLENISH** · **before** **major** **masonry** **/ H-V3** **compound** |
+| **Precursors** | **Iron** **shop** **·** **CART** **axle** **grammar** **·** **CRANE-1** **purchase** **lessons** **·** **ROPE-2** **reserve** |
+
+**Not now:** brainstorm only · **ladder** **grammar** **fine** **for** **STORE-4** **roof** **@** **Day** **789**.
 | **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 · kitchen spill → greywater fork |
 | **MIDDEN-FAR-1** | **~48 m W** of **H-v2** on D-1 extension — **MIDDEN-PIT-1 ✓ Day 501** · **WASTE-BIN-1** empty target |
 
@@ -265,7 +280,7 @@
 | **WW-MODULAR** (*Day 140*) | **Hub + GS-1 flywheel** · **quick-release collar(s)** · blower / spindle **belt takeoffs** — swap without rigid single rig |
 | **WW-1 build** | **✓ 100%** · **SLUICE-1 ✓** · **WW-BLOWER-1 ✓** · **FLOOD-SPIN-1 ✓** |
 | **MILLHOUSE-1** | **✓ 100%** · **WORKBENCH-1 ✓** · **MILLHOUSE-SHELF-1 ✓** |
-| **STORE-3** | **✓ operational Day 272** — v1 east annex |
+| **STORE-3** | **✓ RETIRED empty Day 797** — v1 east annex · demo optional |
 | **FORGE-D** | **✓ IRON-GATE 14/14** · belt blast · bloom/weld path live |
 | **SLUICE-1** | **✓** intake wing · gate · bypass · production spin |
 | **WW-SHED** | **Superseded by MILLHOUSE-1 Phase 1** — belt/wheel clearance maintained |
@@ -278,14 +293,104 @@
 |--------|------|------------------|
 | **WHEEL** | Axle / rim | **WW-1** + **GS-1** flywheel |
 | **HOUSE** | 3×4 m | **MILLHOUSE-1 Phase 1 ✓** — open workshop · roof mat |
-| **LAB** | **5×6 m** *(Stage 3 ~95% Day 667)* | **CHEM-LAB-WING-1** · **MURE-R1 courses 1–4 · ~1.1 m** · bond stubs — [chem-lab-plan.md](chem-lab-plan.md) |
+| **LAB** | **5×6 m** | **CHEM-LAB-WING-1 ✓ Stage 5 live** — [chem-lab-plan.md](chem-lab-plan.md) |
 | **BELT** | Straight line | Wheel → **blower** → **FORGE-D** |
 | **FORGE** | 4×3 m SW | Bloomery · **not** Kiln C |
 | **CHAR / ORE / TOOL** | Flanking | Fuel + feedstock + racks |
 
 **Power path:** water → hub (collars) → belt → blower (mid) → forge. **GS-1 stays on hub** when swapping loads.
 
----
+### WW-POWER-PLAN-765 *(filed Day 765 · player priority)*
+
+**Goal:** **More mechanical head** on campus — **fans · trip hammers · ore crushers** now · **small hydroelectric dam** horizon · **dual-wheel** operation so **WW-1 keeps running** while **WW-2** comes online.
+
+| Phase | Target | Notes |
+|-------|--------|-------|
+| **0 — proto on WW-1** | **Fan stub · trip-hammer mock · crusher peg** | **WW-MODULAR** quick-release collars · prove loads **before** new dig |
+| **1 — upstream head** | **SLUICE-2** class intake | **Bigger than SLUICE-1** · **upstream** of current fork · flood bypass · seasonal gate |
+| **2 — WW-2 + GS-2** | **Second wheel · larger flywheel** | **Stronger rim · more inertia · multiple belt takeoffs** · **WW-1** can stay on **blower** while **WW-2** runs **mill/crusher** |
+| **3 — mechanical tree** | **LAB-VENT-FAN-1 · ORE-CRUSHER-1 · TRIP-HAMMER-1** | Belt/cam off **GS-2** · ore prep · hood fan off Day 703 chase |
+| **4 — horizon** | **HYDRO-ELEC-1** | **Small dam @ upstream head** · **after** mechanical plant stable |
+
+**Animal power — TEAM-POWER-2:** **TEAM-TRAIN-3 ✓** → cart loops · thresh/stamp assist · header pump stub · clay/sand/char hauls when wheel idle.
+
+**Rule:** **Prototype on WW-1 → migrate to WW-2** — never dark forge blast without **char lane** buffer.
+
+### Quartz · glass — QUARTZ-SURVEY-NUR-BELEN-765 *(filed Day 765)*
+
+**Local M-10 ✓** (Day 193) · **target:** **high-purity vein quartz** @ **Nur Dağları / Belen pass** class (**~15–25 km NE** · day survey).
+
+**Pipeline:** survey → **fine crush** → **wash/sift** @ aqueduct trickle → **magnet sweep** (M-22 lodestone) → melt @ **KILN-C-UPGRADE-1**.
+
+**Survey windows *(Day 768 slate — not urgent)*:**
+
+| Window | Est. days | Why |
+|--------|-----------|-----|
+| **Late spring** | **~780–850** · Cal-Y3 **~D178–D248** | Dry · cool slope mornings · farm scare-only · **primary** |
+| **Early autumn** | **~900–930** · Cal-Y3 **~D298–D328** | Pre-harvest lull · before **943+** emmer crunch |
+| **Combine** | Either window | **M-22-UP** magnetite repeat · same NE corridor |
+| **Avoid tying up** | **943–967** harvest | Hard farm — no casual day trips |
+| **Blocker** | **Not survey** | **KILN-C-UPGRADE-1** + glass routine · **M-10 local ✓** covers R&D queue |
+
+**Now @ Day 829:** **Week 119 · vent ~50% · belt ✓ · fan wheel d830**
+
+### WW-YARD master plan *(filed Day 758 · WW-CAMPUS-PLAN-758)*
+
+**Two campus clocks — do not merge:**
+
+| Zone | Site | Role |
+|------|------|------|
+| **H-v2 campus** | **~92 m upslope** | **Living** · kitchen · cool cellar · **future Domus courtyard @ C-0** ([materials-roadmap.md](materials-roadmap.md) Day 66) |
+| **WW-YARD campus** | **~140 m @ T-1 fork** | **Production** · mill · lab · forge · kilns · **working court** (smoke/dry OK) |
+
+**Lab ↔ workshop — yes, connected:**
+
+| Structure | Size | Relation |
+|-----------|------|----------|
+| **MILLHOUSE-1** | **~3×4 m** @ **HOUSE** marker | **West leg** · Phase 1 open workshop |
+| **CHEM-LAB-WING-1** | **~5×6 m** | **East add-on** to HOUSE marker · **end-to-end E–W** · staked Day 657 |
+| **BELT** | Clearance **~1.2 m** | Runs **north** of both · wheel → blower → forge **SW** |
+| **Doors** | Lab **east** face + millhouse access | **Door gap east — belt stays clear** (Day 665) · drain **E** from lab pad |
+
+**Canon expansion grammar** ([chem-lab-plan.md](chem-lab-plan.md)): **rectangle pair ~5×12 m** flanking belt · **MILLHOUSE-2 mirror (5×6)** replaces torn Phase 1 after lab live · **north/south extension** on bond stubs · **not** two open frames unroofed in wet season.
+
+**+ shape (your sketch — fits canon):**
+
+```
+                    [STORE-4 ✓ · 5×6 horreum · ~72% load]  ← N leg · live Day 797
+                              |
+    [MILLHOUSE-2 · 5×6 plan] — [WW-HUB-1 · ~3×3 queued] — [CHEM-LAB ✓ · 5×6] — [east wing future]
+           W                      +                      S (lab leg today)
+                              |
+                    [belt · wheel · forge court]
+```
+
+| Leg | Build | Notes |
+|-----|-------|-------|
+| **S** | **CHEM-LAB-WING-1 ✓** | **Stage 5 live** · WIRE-DRY @ east cab · fire jar v0 |
+| **N** | **STORE-4 ✓** | **Mat/chem/tool store** · wood floor · zones live · **food stays @ kitchen** |
+| **Center** | **WW-HUB-1** *(queued)* | Cart turn · coat peg · boot mat · **CHEM-LAB-AIRLOCK-1** porch class |
+| **W** | **MILLHOUSE-2** *(plan)* | Replaces torn Phase 1 after Stage 6 tool migration |
+| **E** | **Deferred** | Long wing or second lab bay |
+
+**Courtyard options:**
+
+| Court | Where | Use |
+|-------|-------|-----|
+| **WW working court** | **South of belt · between forge/kilns** | Cart turn · char · smoke · **not** food storage |
+| **Domus court @ C-0** | **~12 m S of H-v2** | Villa compound · colonnade horizon · **horreum** replaces v1 long-term ([house-plan.md](house-plan.md)) |
+
+### STORE-4 ✓ live *(Days 768–797)*
+
+| Item | Status |
+|------|--------|
+| **Footprint** | **~5×6 m** horreum **north of CHEM-LAB** · stone socle · **MURE-R1** · **×50 roof tile** |
+| **Floor** | **Oak plank grid + gravel pad · tallow wipe ✓ · E drain closed · boot mat @ S** |
+| **Interior** | **Oak shelves · W amphora stub · zones N-LO / N-UP / E staging · ~72% load** |
+| **Doctrine** | **Materials · chemicals · tools · equipment — not kitchen food** *(food @ calorie bank / seed vault)* |
+| **STORE-3** | **✓ RETIRED empty Day 797** — peg @ door · thatch holds until demo decision |
+
+**Next campus storage work:** **[schedule.md](schedule.md)** — **STOCK-REPLENISH-1** · **LAB-OPS backlog** · **WW-HUB-1** · **MILLHOUSE-2** *(not more STORE-4 shell)*.
 
 ## Coast route (*COAST-1 ✓ complete Day 202*)
 
@@ -299,9 +404,33 @@
 
 **Trail doctrine:** M-spikes every **~8 km** · PM-R1 bands · lime caps · home vector marked on beacon.
 
+### COAST-VACATION-1 *(fun horizon · filed Day 753 · not tin scout)*
+
+**Idea:** **Vacation** to **COAST-SITE-1** — same proven **~20 km W** loop as **COAST-SHAKEDOWN-1**, but **pleasure grammar**, not ore recon. Pack **sandwiches** · sit on the beach · absurd luxury in **~10,000 BC**.
+
+| Item | Notes |
+|------|-------|
+| **BEACH-UMBRELLA-1** | **Frame + shade cloth** — reed or split oak · linen or goat-hair canvas · sand pegs |
+| **BEACH-TOWEL-1** | **Wide loom strip** or **felted wool** — **striped dye** below |
+| **SWIMSUIT-1** | **Linen brief class** or **minimal tunic** — shame optional |
+| **Picnic kit** | **Parched · jerky · fish · amphora** — **sandwich** = flatbread + fat + salt · **no PBJ** — **peanut ~8,000 mi** (Americas) · **honest substitute:** **sesame paste + fig** or **honey + crushed lentil** if you want the vibe |
+| **Other accoutrements** | **Sun hat · reed mat · shell collecting · nap** |
+
+**STRIPED-TOWEL-DYE-1 *(spitball Day 753):*** **Long shallow dye trough** (clay-lined or waxed plank gutter) · **one color per trough** · **towel warp wrapped on straight dowel** · **dip incrementally** — rotate dowel · lift · let drip · **next stripe** · same grammar as **CL-TUNIC-TIEDYE** but **linear bands** not all-over tie. **Risk:** bleed at stripe edge — **dry between colors** · **mordant stripe mask** with wax thread optional.
+
+**When *(Day 753+ doctrine):* **Not** on a fixed calendar — **pull when:**
+
+| Trigger | Examples |
+|---------|----------|
+| **a) Break / rhythm change** | Burnout · same hero lane too long · farm GREEN window · want absurdity |
+| **b) Celebration** | Big achievement worth marking — **Stage 5 close** · **bronze first pour** · **glass vessel** · **TEAM-TRAIN milestone** |
+| **c) New tech unlock** | Item was **blocked** before — e.g. **wide loom strip** for towel · **linen canvas** for umbrella · **STRIPED-TOWEL-DYE-1** trough rig · better **mordant palette** |
+
+**Prep already banked** (~97% calorie bank · wagon · cover · caches). **Not blocking** **TIN-SCOUT-1** or **chem lab** — **parallel fun**.
+
 ---
 
-## Tin corridor — Tarsus class (*TIN-SCOUT-1 · horizon Day 374*)
+## Tin corridor — Tarsus class (*TIN-SCOUT-1 · horizon Day 374 · **deferred Cal-Y4+ @ Day 805**)
 
 **Three places — do not merge:**
 
@@ -332,7 +461,7 @@
 | **AMPHORA water class** | **✓** — trail kit proven |
 | **Return risk (boat only)** | Wind · wave · no lighthouse yet |
 
-**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · **Coastal land scout** viable **Cal-Y3+** · **river-mouth recon** only if pursuing **BOAT-1** · **wagon takes donkeys whole way** — no abandon-at-mouth grammar unless you **choose** a boat-only hop.
+**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · **Not Cal-Y3** — user deferred **Day 805** (path · bridges · cart/team upgrades first) · **Coastal land scout** viable **Cal-Y4+** · **river-mouth recon** only if pursuing **BOAT-1** · **wagon takes donkeys whole way** — no abandon-at-mouth grammar unless you **choose** a boat-only hop.
 
 ### Expedition doctrine *(filed Day 714 · amended Day 714 clarifier)*
 

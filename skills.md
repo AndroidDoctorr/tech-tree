@@ -1,13 +1,13 @@
 # Skills ledger
 
-*Last updated: **Day 750** (~10,000 BC) · week 108 · COAST-SCOUT-1 day 1*
+*Last updated: **Day 767** (~10,000 BC) · week 110 · campus audit*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
 | Column | Meaning |
 |--------|---------|
 | **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. **Includes pre-wormhole life** (composite/recurve/PVC bow · Dagorhir · sewing · physics degree · etc.). |
-| **Now @ d750** | Current total — **Start + in-world practice**. Not “game-only XP.” |
+| **Now @ d767** | Current total — **Start + in-world practice**. Not “game-only XP.” |
 | **Δ** | Rough gain since start (for glance only). |
 
 **Scale:**
@@ -34,7 +34,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Textiles & fiber
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Machine sewing** (tunics 10+, togas 2) | **4** | **4** | — | Pattern sense · **not** spindle/loom transfer. |
 | **Hand sewing / lash / stitch** | **2–3** | **4** | **+1** | **×3 tunics · tabard-2 · bedding hems · sandwich bind · wagon lash**. |
@@ -54,7 +54,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Metal & chemistry
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Physics (B.S.) + math minor** | **5** | **5** | — | Heat/mass/stoichiometry · forge/kiln tuning · **IRON-GATE-1**. |
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
@@ -71,7 +71,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Ceramics · brick · lime
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale · **kitchen floor tiles**. |
 | **Kiln operation (multi-kiln)** | **1** | **4** | **+3** | A/B/C · **~1100°C** · tile factory. |
@@ -82,7 +82,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Wood · structure · site
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber · kitchen dry rack. |
 | **Framing · roofing · insulation** | **2** | **4** | **+1** | Wattle · shake · **tile kitchen wing** · hypocaust · barn iron hinges · **wagon arch d566**. |
@@ -95,7 +95,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Food · preservation · cook
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Cooking & baking** | **5** | **5** | — | Jerky · brine · smoke · grain · feast **d237** · no oven cakes. |
 | **Fishing / weir / trap** | **2** | **4** | **+2** | Weir steady · **TRAP-CRAFT-2 ✓ d742–743** · weir funnel · trail snares · A-03 service. |
@@ -106,7 +106,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Animals · husbandry
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Animal training / habituation** (general) | **4** | **4** | — | **IRL:** rats/cats from birth · calm persistence · reward timing · **here:** goats + donkeys confirm transfer. |
 | **Raise rats / cats from birth** | **3** | **3** | — | Sub-skill of general train · neonate handling · stress read. |
@@ -120,7 +120,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Weapons · movement · fight
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Bow use** (composite · recurve · PVC) | **3** | **3** | — | **IRL:** composite/recurve/PVC before wormhole · **here:** **GOAT-HUNT-519 ✓ · BIRD-HUNT-592+ ✓ · BOW-PRACTICE-744** — 15 m honest · 20 m miss rate real · **years horizon**. |
 | **Melee spar** (Dagorhir · Belegarth · SCA) | **3** | **3** | — | Foam skill · spear distance · easy mode so far. |
@@ -132,7 +132,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Fire · navigation · time · mind
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Friction fire** (almost IRL · bow drill in-world) | **2** | **5** | **+3** | Bow drill ✓ · spare kit · char cloth class. |
 | **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-90 staked** · lane **~26 kg** · vault **~38 kg** · **PIT-CHAR-42 d630**. |
@@ -146,7 +146,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Other craft
 
-| Skill | Start (IRL) | Now @ d750 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Tanning / leather chemistry** | **1–2** | **3** | +1–2 | Caligae · bags · **GOAT-HUNT brain tan d526** · shoemaking class. |
 | **Stone knapping** | **1–2** | **3** | +1–2 | Chert suite · hafting · early survival tier. |
