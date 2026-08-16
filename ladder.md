@@ -122,8 +122,9 @@
 | **SHOWER-1** (overhead arm · stem valve · header feed) | **✓ Day 579 v0 @ kitchen wing** |
 | **HOT-WATER-1** (brick/clay fire tank · 15–25 L) | **✓ Day 614 @ kitchen porch · ~20 L · firebox** |
 | **SHOWER-2** (hot + cold tee · mix @ stem · insulated) | **✓ Day 615 · ~25 min heat-to-rinse** |
+| **SHOWER-3** (header arm · reed lip · insulation wrap @ hygiene nook) | **✓ d939 @ DR-LT-01 · grey → DR-GT-01 · ~15 min warm rinse class** |
 | **PROPER-BED-1** (oak frame · rope grid · tow mattress) | **✓ Day 616 @ H-v2 NW · SET-A deployed** |
-| **FLUSH-TOILET-1** (reservoir · seat valve · soil drop) | · **horizon · needs header + drain grammar** |
+| **FLUSH-TOILET-1** (reservoir · seat valve · soil drop) | **✓ d937–938 · ~35 L reservoir · pressure flush @ DR-LT-01 → DR-SP-01 · never Orontes** |
 | **PEN-EXPAND-1** (~22×8 m · goats + donkeys comfort) | **✓ Day 558 · PEN-GATE-EXPAND-1 ✓** |
 | **GOAT-TROUGH-AUTO-1** (aqueduct branch · float refill) | **✓ Day 560 @ pen north trough** |
 | **GOAT-FEEDER-1** (hopper · hay chute · 10–14 d) | **✓ Day 594 · barn loft → manger** |
@@ -255,7 +256,7 @@
 | **HOT-WATER-4** | **CU-BUCKET immersion** pot inside brick well | Cleaner water · faster heat transfer | **CU smelt ~100–200 g** |
 | **HOT-WATER-5** | **Aqueduct auto-fill** — float valve to hot tank + header | Less bucket tax | **GOAT-TROUGH float grammar** |
 | **WATER-PRESSURE-2** | **Raise header** — taller stand or second stacked box | Stronger shower jet · faster sink fill | **WATER-HEADER-1 ✓** |
-| **SHOWER-3** | **Better head** — narrower lip · higher mount | Warmer/longer rinse feel | **WATER-PRESSURE-2** class |
+| **SHOWER-3** | **Better head** — narrower lip · higher mount | Warmer/longer rinse feel | **✓ d939 @ DR-LT-01 · header arm · reed wrap** |
 | **FLUE-COIL-1** | **Copper coil** in porch firebox flue | Continuous pre-heat · char savings | **More Cu wire/stock** · join skill |
 
 ### COOL-CELLAR-1 — upgrade queue *(filed Day 615)*
@@ -377,7 +378,8 @@
 | Mint · garlic/leek · coriander **P-13–15** | ✓ |
 | Acorns **P-09** | ✓ identified · not staple |
 | Lentils **P-17** | ✓ **sown Year 2 @ Bed B** |
-| **Chickpea P-18** | **P-18-SEL-1 ~35 g ✓ Day 727 · AUTUMN-SOW Bed A ~Day 880–920** |
+| **Chickpea P-18** | **P-18-SEL-1 ~59 g ✓ d727+d947 · Bed A trial** |
+| **Fava P-FAVA-SEL-1** | **~31 g ✓ d947 · Bed A trial horizon** |
 | **FOOD-LEDGER-726** | **✓ filed Day 726** — stocks · production · farm roadmap |
 | Thyme / other aromatics **P-16** | ✓ **P-16a Day 215** |
 | **BED-A-GRAIN-1** (reclaim fallow ~96 m²) | **· FOOD-LEDGER-726 · volume after P-18 trial** |

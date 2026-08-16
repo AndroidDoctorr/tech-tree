@@ -1,47 +1,66 @@
 # Food ledger — stocks · production · farm roadmap
 
 *Filed **Day 726** · **FOOD-LEDGER-726** · **Cal-Y3 D124**  
+**Post-harvest audit:** **Day 945** · **FOOD-STOCK-AUDIT-945** · **Cal-Y3 D343**  
 **Stock detail:** [inventory.md](inventory.md) · **Recipes:** [food-menu.md](food-menu.md) · **Fauna map:** [resource-map.md](resource-map.md) · **Schedule:** [schedule.md](schedule.md)*
 
 **Site read:** Orontes campus is a **high-survival** patch — perennial river, daily weir/snails, clay/salt edges, small farm, preservation stack, cool cellar. You are **not** hunger-gated for immortality. Risk is **monoculture**, **tiny arable volume**, and **expedition length** — not baseline calories.
 
 ---
 
-## 1 — Pantry snapshot @ Day 726
+## 1 — Pantry snapshot @ Day 946 *(shelf-life sprint closed)*
 
-### Campus dense food *(human edible)*
+### Campus dense food *(human edible · home larder)*
 
 | Category | ~kg | Notes |
 |----------|-----|-------|
-| **Smoked fish** | **8.9** | Largest bucket — weir pipeline |
-| **Parched grain** | **4.0** | ~1.5 kg SCOUT @ COOL-CELLAR L3 |
-| **Pistachio kernels** | **2.3** | Hoard — not annual campus crop |
-| **Fish jerky** | **1.5** | ~0.6 kg SCOUT @ cellar L2 |
-| **Olives (brine crock)** | **2.0** | ~**0.6–0.8 kg** edible flesh |
-| **Fig + grape leather** | **~1.0** | Trail / winter chew |
-| **Emmer bulk + lentils @ v1** | **~0.8** | Low — bank sprint drew down |
-| **Salt (SALT-1)** | **0.29** | Preserve agent |
-| **BARREL-2 grain @ W-1** | **~12–18** *(est.)* | **~31 L** tappable · **−1.5 kg** Day 723 · fill level not hard-counted |
-| **TRAIL-CACHE-1 @ 4 km** | **small** | Grain · jerky · FK — off-campus |
+| **Grain bulk** | **~11.5** | **~0.80 Y3 bay · BARREL-2 ~9–15 est. · Y2 legacy depleted** |
+| **Parched grain** | **~9.4** | Longest shelf life — primary calorie vault |
+| **Smoked fish** | **~9.2** | Weir pipeline · weekly smoke cadence |
+| **Fish jerky** | **~1.35** | Trail / cellar class |
+| **Pistachio kernels** | **~2.3** | Hoard — not annual campus crop |
+| **Olives (brine crock)** | **~2.0** | ~**0.6–0.8 kg** edible flesh |
+| **Fig + grape leather** | **~1.0** | Trail / cellar east rack |
+| **Lentils P-17 bulk** | **~0.5** | **~255 g Y3 + ~240 g Y2 legacy** |
+| **Snails (SNAIL-1)** | **~1.1** brined | SNAIL-ROUTINE 2×/wk |
+| **Salt (SALT-1)** | **0.29** | Preserve agent — WATCH below 200 g |
 
-**Hay @ barn loft ~90 kg** — **goats/donkeys**, not your plate.
+**Home larder total:** **~36 kg dry-equiv class · ~45+ person-days** *(weir + snails not counted)*
+
+### SEED-VAULT planting stock @ Day 947 *(never cook)*
+
+| Line | ~g | Cal-Y4 role |
+|------|-----|-------------|
+| **EMMER-ELITE-Y3** | **98** | Primary emmer @ Bed B south |
+| **EMMER-ELITE-Y2** | **92** | Backup line |
+| **P-17-ELITE-Y3** | **52** | Primary lentil @ Bed B north |
+| **P-17 legacy** | **48** | Backup lentil |
+| **P-07 flax elite + wild** | **18 + 14** | Bed B center or margin |
+| **P-18-SEL-1 chickpea** | **~59** | Bed A south trial *(+24 g d947)* |
+| **P-FAVA-SEL-1** | **~31** | **NEW d947 — Bed A fava trial** |
+| **P-16-SEL-947 thyme** | **~8** | Herb margin broadcast |
+| **GRAIN-WILD-A1–A3** | **~27** | Plain emmer/einkorn/barley — not elite mix |
+| **P-02/03-SEL** | labeled | Perennial — not bed sow |
+
+**ACORN-ROAST-Y3-956:** **~370 g @ v1 calorie row · leach→roast PASS d956**
+**ACORN-BANK-947:** **~570 g shelled remain · ~2.4 kg bulk — ACORN-LEACH-2 optional**
 
 ### Earmarked vs available
 
 | Pool | ~kg | Rule |
 |------|-----|------|
-| **SCOUT-BANK (COAST)** | **~13.2** | Earmarked — don't snack |
-| **COOL-CELLAR east SCOUT** | **~4.3** | Subset of scout bank |
-| **Home larder (excl. scout)** | **~18–22** | Daily kitchen + winter buffer |
-| **Total campus edible** | **~30–38** | If barrel ~full |
+| **Scout reserve @ HOME** | **~13.4** | Earmarked — don't snack |
+| **TRAIL-CACHE-2** | **~0.7** | Off-campus |
+| **Home larder (daily)** | **~36** | Kitchen + winter buffer |
+| **COOL-CELLAR east** | **~0.7** | Waxed fish + fig leather |
 
 ### Person-days *(very rough)*
 
-At **~0.7–1.0 kg mixed dry equivalent / day** from stores alone: **~25–45 person-days** campus-wide, or **~15–25** excluding scout bank.
-
-**Weir + snails not included** — they extend this indefinitely at home.
+At **~0.7–1.0 kg mixed dry equivalent / day** from stores alone: **~45+ person-days** home larder. **Weir + snails extend indefinitely @ home.**
 
 ---
+
+## 1b — Pantry snapshot @ Day 726 *(legacy baseline)*
 
 ## 2 — Daily wild acquisition *(short effort, not hero hunt)*
 
@@ -63,8 +82,8 @@ At **~0.7–1.0 kg mixed dry equivalent / day** from stores alone: **~25–45 pe
 
 | Crop | Last logged yield | Bed | Cal-Y3 status |
 |------|-------------------|-----|---------------|
-| **Emmer** | **~1.75 kg** clean (Day 581) · Y1 total **~1.1 kg** six rows | **Bed B south** | **SPRING-SOW-3 ✓** elite south |
-| **Lentils P-17** | **~240 g** clean (Day 582) | **Bed B north ~1 m strip** | Same strip sown |
+| **Emmer** | **~1.82 kg** clean (Day 943) · Y2 **~1.75 kg** (Day 581) | **Bed B south** | **✓ Y3 harvest · ~98 g elite saved** |
+| **Lentils P-17** | **~255 g** clean (Day 944) · Y2 **~240 g** (Day 582) | **Bed B north** | **✓ Y3 harvest · ~52 g elite saved** |
 | **Flax P-07** | Fiber — not food | **Bed B center** | Sown |
 | **Figs P-12 / Bed D** | Leather pipeline | **Bed D ~24 m²** | Nursery / cuttings |
 | **Grape P-03** | Leather · vinegar | **Trellis ✓** | Seasonal |
@@ -170,7 +189,7 @@ At **~0.7–1.0 kg mixed dry equivalent / day** from stores alone: **~25–45 pe
 | Resource | Status | Farm/hunt move |
 |----------|--------|----------------|
 | **Wild pig / boar** | **Background** (year-001-plan) | **PIT-TRAP-2** wooded slope · **saltbush bait** — supplementary · **hard solo** |
-| **Bees / honey** | **Not scouted · phobia OOC** | **HIVE-SCOUT-1** spring · reed skep @ Bed D edge · **APIARY-1** when ready — see [food-menu.md](food-menu.md) |
+| **Bees / honey** | **APIARY-PAD-1 ✓ d907 @ Bed D SE** | **Build queue filed · HIVE-SCOUT-1 spring · reed skep @ pad — see [food-menu.md](food-menu.md)** |
 | **Aurochs** | **20–60 km** | Hunt · not farm — ox horizon |
 | **Sheep** | **30–100+ km** | Post-coast scout |
 | **Olive oil** | **No press** | **P-02-PRESS-1** — fat unlock for cooking + lamp |
@@ -199,7 +218,7 @@ P-03 / P-02:            [ grape trellis · olive haul cycle ]
 | **Pistachio wild** | **Hoard · not campus annual** | Occasional haul |
 | **Goat gorge** | **Pause when kid sign** | Hunt meat · not steady |
 | **Wild pig** | **Untapped** | Hard · trap grammar |
-| **Bees** | **Untapped** | Infrastructure + practice + phobia |
+| **Bees** | **Pad staked d907 · no hive** | **APIARY-1 pipeline · spring scout/capture** |
 | **Coast kelp/salt/fish** | **COAST-SCOUT horizon** | Expands preserve inputs |
 | **Chickpea/fava** | **P-18-SEL-1 in vault · autumn sow queued** | **Bed A south ~Day 880–920** |
 | **Bed A arable** | **Idle** | **Best farm ROI for volume** |
@@ -215,7 +234,9 @@ P-03 / P-02:            [ grape trellis · olive haul cycle ]
 | **Post-harvest** | Thresh totals · vault elite · BARREL-2 fill · update this file |
 | **Feast eve** | Full ledger pass · compare to **FOOD-LEDGER-726** baseline |
 
-*Update **§1–§4** after harvest (~Day 950) and after **COAST-SCOUT** return.*
+*Update **§1** after harvest (~Day 950) and after **COAST-SCOUT** return.*
+
+**✓ Updated @ Day 945 — see §1 post-harvest · FARM-PLAN-Y4-945 · SHELF-LIFE-945**
 
 ---
 

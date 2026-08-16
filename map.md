@@ -1,9 +1,47 @@
 # Map
 
-*Last updated: **Day 797** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 949** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
+
+### CAMPUS-MASTER-PLAN-1 *(staked Day 883 · strings remain @ site)*
+
+| Stake line | Purpose |
+|------------|---------|
+| **TERRACE-UP ×2** | Upslope bench retaining faces @ H-v2 N margin — **✓ seg #1 d888 · ✓ seg #2 d910** |
+| **PATH-CROWN** | T-5 H-v2↔v1 · T-1 fork @ WW-YARD — **✓ crowned d911 · compact surfacing · cart PASS** |
+| **DRAIN-D-1** | Swale extension · greywater fork — **✓ d915 · GREASE-TRAP-1 ✓ d919 · SOIL-PIT-1 ✓ d925 @ DR-SP-01 (~2.0 m sealed)** |
+| **SLAG-DUMP-A/B/C** | **WF-SB-01 ✓ d923 first cart ~18 kg · pad live · T-5 crown → SW · A reserve · C reject** |
+| **WW-2-HEAD** | Upstream T-1 · sluice drop survey line (~5–10 m class · horizon) |
+| **H-V3-COURTYARD** | Ghost footprint @ C-0 — see [house-plan.md](house-plan.md) |
+| **GARDEN-ORCHARD** | Decorative bed terrace S · lemon-class tree site when species found · **OAK-ORCHARD-RESERVE ✓ ×6 slots @ SC-OAK-01–06 d949 · ~18×4 m · spring transplant only** |
+| **APIARY-PAD-1** | **✓ AG-AP-01 @ Bed D SE margin d907 · ~2.5×2 m · primary hive pad · reserve SC-GO-01 GARDEN-ORCHARD** |
+| **STONE-WALL ×2** | **SR-S1 ~28 m Bed D/pen ghost d917 · SR-W1 ~42 m campus W ghost d917 · terrace face grammar · build post-harvest** |
+| **STAKE-CODE-1** | **✓ d917 — color band · notch seg · chip scratch · kitchen slate master — see table below** |
+| **STORE-4-E / BARN-N** | Expansion ghosts — not started |
+
+**Rule:** Drainage and path crowns before decorative beds and hero masonry.
+
+### STAKE-CODE-1 *(filed Day 917 · read @ stake without slate)*
+
+| Prefix | Head band | Use | Example |
+|--------|-----------|-----|---------|
+| **SR** | Madder red | Structure — walls · terraces · buildings | **SR-S1-03** · **SR-W1-02** |
+| **PW** | Yellow ochre | Paths · crowns · cart lines | **PW-T5-01** |
+| **DR** | Alum white | Drain · water · swale | **DR-D1-02** |
+| **WF** | Char black | Waste · slag · midden | **WF-SB-01** *(SLAG-DUMP-B)* |
+| **AG** | Herb green | Farm · pen · garden · apiary | **AG-AP-01** *(APIARY-PAD-1)* |
+| **SC** | Woad blue-class | Scout · ghost · horizon · reserve | **SC-GO-01** *(GARDEN-ORCHARD)* |
+
+**On each stake:** band color **@ head** · **notch count** = segment # on line · **lime tick @ N face** = camp vector · **limestone chip @ foot** = scratch **PREFIX-LINE-POINT**. **Kitchen slate** = master duplicate.
+
+**Stone wall lines @ d917:**
+
+| Line | Code | Span | Stakes |
+|------|------|------|--------|
+| **Bed D / pen S margin** | **SR-S1** | **~28 m** | **×4 · SR-S1-01–04** |
+| **Campus W terrace toe → midden** | **SR-W1** | **~42 m** | **×5 · SR-W1-01–05** |
 
 ## Overview (distances in meters from camp)
 
@@ -119,7 +157,7 @@
 | | |
 |--|--|
 | **Footprint** | **~3.2 × 2.6 m** sunken |
-| **Structure** | Hypocaust void + flue channels; pilae ×2; suspensura **18/18**; walls ×3 + lintel; roof **100%** |
+| **Structure** | Hypocaust void + flue channels; pilae ×2; suspensura **18/18**; walls ×3 + lintel; roof **main shell thatch refresh ✓ Day 883** |
 | **Heat** | **Production hypocaust ✓** Day 173 |
 | **Floor** | **32 stones** · **~5.15 m²** (~77% of pad goal) |
 | **Bricks in structure** | **~170** |
@@ -170,7 +208,7 @@
 | **Precursors** | **Iron** **shop** **·** **CART** **axle** **grammar** **·** **CRANE-1** **purchase** **lessons** **·** **ROPE-2** **reserve** |
 
 **Not now:** brainstorm only · **ladder** **grammar** **fine** **for** **STORE-4** **roof** **@** **Day** **789**.
-| **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 · kitchen spill → greywater fork |
+| **Drain D-1** | **~8 m swale** W of **H-v2** — Day 93 · kitchen spill → greywater fork · **✓ extended d915 to MIDDEN-FAR · grease-trap stub live** |
 | **MIDDEN-FAR-1** | **~48 m W** of **H-v2** on D-1 extension — **MIDDEN-PIT-1 ✓ Day 501** · **WASTE-BIN-1** empty target |
 
 ---
@@ -239,7 +277,10 @@
 | **H-11** | **~11 km NE** | **Hematite bench** **~40 m** streak · boot-height face · **sample** Day 131 · **future iron trip** |
 | **D-27** | **~19 km NE** | **CORRAL-1 + SHORT-PEN-1** · **YEARLING-1 on corridor march** Day 165 · **~8 km from HOME** |
 | **M-22** | **~22 km NE** | Magnetite pin — **fair** @ fork mouth · **yellow** spike Day 131 |
-| **M-22-UP** | **~22 km NE** (+380 m upstream) | **Ore lens ✓ Day 391** — **strong** lodestone · **yellow** spike #2 · repeat-haul ~2–4 kg |
+| **M-22-UP** | **~22 km NE** (+380 m upstream) | **Ore lens ✓ Day 391** — **heavily worked d892 ~10.8 kg max** · **yellow** spike #2 · **fade** |
+| **M-22-LAT-UP-420** | **~22 km NE** (+420 m upstream wadi) | **Fair+ pull ✓ Day 895** — **yellow** spike #3 · **IRON-ORE-SCOUT-2** vector #1 partial · not PM-Y1 body |
+| **M-22-LAT-W750** | **~22 km NE** (−750 m west wadi) | **Fair+ pull ✓ Day 931** — **yellow** spike #4 · lateral backup · not body strip |
+| **M-22-TALUS-S1** | **~22 km NE** (E talus @ schist contact) | **PM-Y1 strong stain ✓ Day 931** — **yellow** spike #5 · **best lead since +420 m** · future wagon haul · not stripped d931 |
 | **M-G1** | **~27 km NE** | **Malachite/azurite stain** on cliff — **marked + chip** |
 | **M-G2** | **~27 km NE** (base E of M-G1) | **Strike pin** — talus sample #2 · **no climb zone** |
 
@@ -369,7 +410,7 @@
 |-----|-------|-------|
 | **S** | **CHEM-LAB-WING-1 ✓** | **Stage 5 live** · WIRE-DRY @ east cab · fire jar v0 |
 | **N** | **STORE-4 ✓** | **Mat/chem/tool store** · wood floor · zones live · **food stays @ kitchen** |
-| **Center** | **WW-HUB-1** *(queued)* | Cart turn · coat peg · boot mat · **CHEM-LAB-AIRLOCK-1** porch class |
+| **Center** | **WW-HUB-1** *(queued)* → **WW-HUB-TOWER-1** *(slate d884)* | Cart turn · **~2 m tower class** · heat plenum · upper vents · central hang · **linen wing E stub later** |
 | **W** | **MILLHOUSE-2** *(plan)* | Replaces torn Phase 1 after Stage 6 tool migration |
 | **E** | **Deferred** | Long wing or second lab bay |
 

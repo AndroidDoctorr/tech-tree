@@ -1,13 +1,13 @@
 # Skills ledger
 
-*Last updated: **Day 767** (~10,000 BC) · week 110 · campus audit*
+*Last updated: **Day 914** (~10,000 BC) · week 131 · H-11 head path · campus drain*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
 | Column | Meaning |
 |--------|---------|
 | **Start (IRL)** | What **you** brought on Day 1 — real experience, theory, and partial transfer from related work. **Includes pre-wormhole life** (composite/recurve/PVC bow · Dagorhir · sewing · physics degree · etc.). |
-| **Now @ d767** | Current total — **Start + in-world practice**. Not “game-only XP.” |
+| **Now @ d914** | Current total — **Start + in-world practice**. Not “game-only XP.” |
 | **Δ** | Rough gain since start (for glance only). |
 
 **Scale:**
@@ -54,15 +54,15 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 ## Metal & chemistry
 
-| Skill | Start (IRL) | Now @ d767 | Δ | Notes |
+| Skill | Start (IRL) | Now @ d914 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Physics (B.S.) + math minor** | **5** | **5** | — | Heat/mass/stoichiometry · forge/kiln tuning · **IRON-GATE-1**. |
 | **Lab technique** (variables · titrate · burner discipline) | **4** | **4** | — | Smelt postmortems · bloom timing · slag read. |
 | **Circuits · motor · electroplating** | **4** theory | **2** | — | **Wire ✓ · LODE-SUSPEND-1 ✓ d394** — weak bearing · COMPASS-1 horizon. |
 | **Copper smelt / forge** | **1** | **4** | **+3** | Kiln C · **20+** smelts · full **CU-*** suite. |
-| **Iron roast · slag · bloom · weld** | **0** | **3** | **+3** | Blooms **#1–24** · **ANVIL-1 ✓** · **FORGE-D** ✓ · cart-iron weld class. |
-| **Iron tool forge** | **0–1** | **3** | **+2** | **TONGS ×2 · WEDGE ×2 · WOOD-CHISEL ×2 ✓ d639** — backup queue closed. |
-| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-2 ~10.4 kg** · **HAUL-IRON-3 ~38.5 kg d637** · **~40 kg stock**. |
+| **Iron roast · slag · bloom · weld** | **0** | **4** | **+4** | **BLOOM-28–34 head class · H-11 hero path · multi-weld @ peg · TRIP-HEAD-STOCK ~7 kg** |
+| **Iron tool forge** | **0–1** | **4** | **+3** | **TONGS ×2 · WEDGE ×2 · CHISEL ×2 · IRON-SHEARS-1 ✓ d936** |
+| **Bench ore mining** (fire-setting · wedge) | **1** | **4** | **+3** | **HAUL-IRON-4 ~41 kg mined · ~77 kg H-11 banked · M-22 lens-limited** |
 | **Malachite cliff cut** | **0** | **2** | **+2** | Modest haul · greed guard post Day 104. |
 | **Glass precursors** | **0** | **1** | +1 | **TRIAL-3 washed bead ✓ d395** · soak · anneal tray · blend doctrine. |
 | **Soap / lye / salt chemistry** | **2** | **2** | — | Salt · brine · tallow · **SOAP** ~phase 3. |
@@ -75,7 +75,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 |-------|-------------|------------|---|-------|
 | **Hand / wheel ceramics** (slip · score · failures) | **3** wheel | **4** | +1 | HS + wheel sense · amphora line · grog · kiln scale · **kitchen floor tiles**. |
 | **Kiln operation (multi-kiln)** | **1** | **4** | **+3** | A/B/C · **~1100°C** · tile factory. |
-| **Brick · mortar · hypocaust** | **2** | **4** | **+2** | **H-v2 complete** · suspensura **18/18**. |
+| **Brick · mortar · hypocaust** | **2** | **5** | **+3** | **H-v2 complete** · suspensura **18/18** · **TERRACE-WALL seg #1+#2 ✓ d888–910** |
 | **Roof tile deploy** | **2** | **4** | **+1** | **ROOF-W1 ✓ · KITCHEN-TILE-ROOF-1 ✓ d539** · batch press rhythm. |
 
 ---
@@ -86,8 +86,8 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 |-------|-------------|------------|---|-------|
 | **Furniture / shelves / easel / theater sets** | **3** | **4** | +1 | Millhouse · workbench · WW-yard · campus timber · kitchen dry rack. |
 | **Framing · roofing · insulation** | **2** | **4** | **+1** | Wattle · shake · **tile kitchen wing** · hypocaust · barn iron hinges · **wagon arch d566**. |
-| **Fort planning / 3D staging** | **4** | **4** | — | Campus · EXPED-C slate · corral geometry · overlaps **pattern geometry** textile row. |
-| **Home repair** (fence · faucet · outlets · paint) | **3** | **4** | **+1** | Fence **100%** · **KITCHEN-FAUCET-1 ✓ · header box d564–567**. |
+| **Fort planning / 3D staging** | **4** | **5** | **+1** | **CAMPUS-MASTER-PLAN ✓ · PATH-CROWN · DRAIN · apiary · slag · waste stack** |
+| **Home repair** (fence · faucet · outlets · paint) | **3** | **4** | **+1** | Fence **100%** · **KITCHEN-FAUCET-1 ✓ · header box d564–567 · D-1 drain grammar** |
 | **Wood carving / cooper stave** | **2** | **4** | **+2** | **WOOD-JOINT-1** · **BARREL-1 v0 ✓ d567–568** · wagon rib sockets · adze/axe. |
 | **Crane / heavy lift** | **1** | **1** | — | **CRANE-1 logistics ✓ d396** · WW-YARD build · barn swing arc. |
 
@@ -135,7 +135,7 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 | Skill | Start (IRL) | Now @ d767 | Δ | Notes |
 |-------|-------------|------------|---|-------|
 | **Friction fire** (almost IRL · bow drill in-world) | **2** | **5** | **+3** | Bow drill ✓ · spare kit · char cloth class. |
-| **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | Pit **B-90 staked** · lane **~26 kg** · vault **~38 kg** · **PIT-CHAR-42 d630**. |
+| **Fire maintenance / charcoal** | **2–3** | **4** | +1–2 | **PIT-DUAL doctrine · lane ~33 kg · B-142 staked** |
 | **Trail nav · map · spikes** | **3–4** | **4** | +0–1 | **M-spikes** · **PM-R1** · pins **H-11 · M-G1 · M-22 · M-11**. |
 | **Solar calendar** | **2** | **4** | **+2** | **SUN-CAL-1** dual track · daily marks · **YULE** anchor. |
 | **History / anthro media** (Primitive Technology · Milo · Histocrat…) | **4** | **4** | — | Recognition · priority hints · assistant fills procedure. |
@@ -180,6 +180,42 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
+| **914** | Iron roast · slag · bloom · weld | *(hold 4)* | **IRON-BLOOM-34 · H-11 head weld @ ~7 kg peg** |
+| **924** | Iron roast · slag · bloom · weld | *(hold 4)* | **IRON-BLOOM-37 · ~9.92 kg TRIP-HEAD-STOCK @ peg (~50%)** |
+| **921** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-921 · lane ~33 kg GREEN** |
+| **927** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-927 · lane ~25 kg GREEN** |
+| **928** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-928 · lane ~38 kg GREEN** |
+| **930** | Fort planning / 3D staging | **5** | **HAUL-IRON-5 split slate · 5 d max · harvest buffer** |
+| **931** | Bench ore scout | **4** | **M-22 vectors 1–2 · M-22-TALUS-S1 + M-22-LAT-W750 marks** |
+| **932** | Bench ore mining | **4** | **H-11 modest ~17.5 kg · single fire-setting · loaded @ wagon** |
+| **933** | Camp logistics / haul | **4** | **HAUL-IRON-5 close · ~56.4 kg H-11 @ pile 4** |
+| **934** | Home repair | **4** | **LATRINE-SEAT-1 live · rim tie @ DR-SP-01** |
+| **934** | Wood carving / cooper stave | **4** | **CAMP-LADDER-1 close · deploy PASS** |
+| **935** | Home repair | **4** | **BIDET-1 live · stem tee · grey drain @ DR-GT-01** |
+| **936** | Iron roast · slag · bloom · weld | **4** | **IRON-BLOOM-38 maintenance smelt** |
+| **936** | Iron tool forge | **4** | **IRON-SHEARS-1 · pivot · linen/flax trial PASS** |
+| **937** | Home repair | **4** | **FLUSH-RESERVOIR-1 · pressure branch · reed valve** |
+| **938** | Home repair | **4** | **FLUSH-TOILET-1 live · seat valve · ×4 flush PASS** |
+| **939** | Home repair | **4** | **SHOWER-3 close · header arm @ DR-LT-01** |
+| **939** | Farm ops | **4** | **HARVEST-PREP start · FARM YELLOW · sickle dress** |
+| **940** | Fort planning / 3D staging | **5** | **GRAIN-BAY-Y3 · SHEAF-RACK-1 layout** |
+| **940** | Farm ops | **4** | **HARVEST-PREP close · FARM-READ · animal coast** |
+| **941** | Home repair | **4** | **Hygiene polish bundle · towel · brush · hand · boot wash** |
+| **941** | Hydraulic / aqueduct | **3** | **Pen gate tee · T-5 dip branch** |
+| **942** | Farm ops | **4** | **Pre-harvest FARM-READ GO · harvest eve slate** |
+| **943** | Farm ops | **4** | **EMMER-HARVEST-1 · thresh · winnow · GRAIN-BAY store** |
+| **944** | Farm ops | **4** | **P-17-HARVEST-1 · pulse thresh · elite save** |
+| **945** | Farm ops | **5** | **FOOD-STOCK-AUDIT · FARM-PLAN-Y4 · seed rates** |
+| **946** | Farm ops | **5** | **BARREL top-up · parched batch · seed expansion read** |
+| **947** | Forage / botany | **4** | **SEED-SCOUT · pulse · acorn · herb ID** |
+| **947** | Farm ops | **5** | **Vault sort · wild grain · transplant margin** |
+| **917** | Fort planning / 3D staging | *(hold 5)* | **STAKE-CODE-1 · SR-S1 + SR-W1 wall ghost stake-out** |
+| **917** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-917 · lane ~24 kg GREEN** |
+| **910** | Brick · mortar · hypocaust | **4→5** | **TERRACE-WALL-2 seg #2 cap + face close · ~8 m retaining** |
+| **911** | Fort planning / 3D staging | **4→5** | **PATH-CROWN-1 ✓ · T-5 + T-1 fork grade** |
+| **907** | Fort planning / 3D staging | *(hold 5)* | **APIARY-PAD-1 site scout · campus margin read** |
+| **896–914** | Iron roast · slag · bloom · weld | **3→4** | **BLOOM-28–34 H-11 hero head path · repeat weld grammar · TRIP-HEAD-STOCK** |
+| **905–913** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-905/909/913 · pit-before-bloom rhythm at scale** |
 | **744** | Bow use | *(hold 3)* | **BOW-PRACTICE-744 · 15 m pointed · 20 m honest miss · IRL transfer** |
 | **744** | Hunt / track / trap | *(hold 3)* | **BOW-HUNT-2 prep close · coast supplement doctrine** |
 | **743** | Fishing / weir / trap | **3→4** | **TRAP-CRAFT-2 ✓ · weir + trail + wagon kit** |

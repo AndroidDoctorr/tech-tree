@@ -2,7 +2,7 @@
 
 **Days 876+ · ~10,000 BC · Orontes valley · campus**  
 **Home:** **H-v2** · **Respawn:** H-v2 PROPER-BED-1  
-**Theme:** **LANTERN-WEEK-126 · frame · four panes · oil light**
+**Theme:** **LANTERN-WEEK-126 · CLOSED @ Day 882 · OIL-LANTERN-1 ✓**
 
 ---
 
@@ -40,6 +40,8 @@ Week one hundred twenty-six opens after **Week 125** closed a **pane bank** @ ra
 
 **LANTERN-FRAME-vs-PANE-FRAME-877:** **LANTERN-FRAME-1 = oak assembly box · LANTERN-PANE-FRAME-1 = sand-table pour mold ~6×8 · pane form after flax break.**
 
+**LANTERN-v2-SLATE-882:** **Chain replace cord · wrought iron assembly frame · batch more v1 class · OIL-LANTERN-1 travels now.**
+
 ## Day-by-day
 
 | Day | Highlights |
@@ -48,16 +50,19 @@ Week one hundred twenty-six opens after **Week 125** closed a **pane bank** @ ra
 | 877 | **LANTERN-FRAME-1 ~85% · peg · cap · bail · pane-frame vs assembly clarified · flax next** |
 | 878 | **FLAX-BREAK-3 ✓ · ~520 g fiber @ W-1 · rack cleared · hackle queued** |
 | 879 | **LANTERN-PANE-FRAME-1 ✓ · 873–874 form-fit PASS · pane #3 pour queued d880** |
+| 880 | **GP-876 face C @ anneal · FORM-POUR-GATE ✓ · tap d881 · face D next** |
+| 881 | **876 tap · 3/4 set · GP-877 face D @ anneal · LAB-LANTERN-HANG-1 ✓ · light d882** |
+| 882 | **OIL-LANTERN-1 ✓ · light trial PASS · chill · v2 slate (chain · iron frame · batch)** |
 
 ---
 
-## Camp @ Day 879
+## Camp @ Day 882
 
 | System | Status |
 |--------|--------|
-| **Glass** | **LANTERN-PANE-FRAME-1 ✓ · GP-876 pane #3 pour d880 · 2/4 banked** |
-| **Lantern** | **Assembly frame ~85% · pour form ✓ · faces C+D next** |
-| **Farm** | **~520 g fiber @ W-1 · hackle interleave** |
+| **Lantern** | **OIL-LANTERN-1 ✓ v1 · lit @ lab · portable · v2 queued** |
+| **Glass** | **LANTERN-WEEK hero closed · pane form live for batch later** |
+| **Farm** | **~520 g fiber @ W-1 · hackle interleave when ready** |
 | **Beach kit** | **UMBRELLA paused ~85%** |
 
 ---

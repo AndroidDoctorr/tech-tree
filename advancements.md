@@ -6,6 +6,92 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ## Summary
 
+**Day 969 · Cal-Y3 D367:** **BEACH-KIT ✓ · BEACH-CHAIR 100% · TOWEL-2 backup · yellow umbrella · teal chair · madder banked**
+**Day 968 · Cal-Y3 D366:** **TRIP-HEAD-MOUNT ✓ · first clang · palette red/yellow/teal · madder held**
+**Day 967 · Cal-Y3 D365:** **Week 139 open · TRIP-HEAD mount band ✓ ~18.56 kg · hard block closes**
+**Day 966 · Cal-Y3 D364:** **DYE-TRIP-1 ✓ · MADDER-DIG-2 ~144 g dry · WOAD seed · crowns planted**
+**Day 966 · Cal-Y3 D364:** **DYE-TRIP-1 ✓ · MADDER-DIG-2 ~144 g dry · WOAD seed · crowns planted**
+**Day 965 · Cal-Y3 D363:** **PIT-DUAL-965 ✓ · BEACH-CHAIR ~70% sling · DYE-TRIP window open**
+**Day 964 · Cal-Y3 D362:** **IRON-BLOOM-46 ✓ · TRIP-HEAD ~17.60 kg (~88%) · mount band ~1 charge out**
+**Day 963 · Cal-Y3 D361:** **PIT-DUAL-963 ✓ · BEACH-CHAIR ~45% joinery · lane ~33 kg GREEN**
+**Day 962 · Cal-Y3 D360:** **CART-WOOD-HAUL-962 ✓ · pile ~34 kg GREEN · PIT-DUAL runway restored**
+**Day 961 · Cal-Y3 D359:** **IRON-BLOOM-45 ✓ · TRIP-HEAD ~16.64 kg (~83%) · lane WATCH · haul queued**
+**Day 960 · Cal-Y3 D358:** **Week 138 open · PIT-DUAL-960 ✓ · BEACH-CHAIR-1 ~20% · pile depleted**
+**Day 959 · Cal-Y3 D357:** **IRON-BLOOM-44 ✓ · TRIP-HEAD ~15.68 kg (~78%) · UMB-STRIPE-DYE slate · Week 137 close**
+**Day 958 · Cal-Y3 D356:** **PIT-DUAL-958 ✓ · UMB-SAND-PEG ✓ · BEACH-UMBRELLA ~95% · lane GREEN**
+**Day 957 · Cal-Y3 D355:** **IRON-BLOOM-43 ✓ · TRIP-HEAD ~14.72 kg (~74%) · lane WATCH**
+**Day 955 · Cal-Y3 D353:** **IRON-BLOOM-42 ✓ · TRIP-HEAD ~13.76 kg (~69%) · lane WATCH**
+**Day 954 · Cal-Y3 D352:** **ACORN-LEACH PASS ✓ · PIT-DUAL-954 ✓ · lane ~27 kg GREEN**
+**Day 953 · Cal-Y3 D351:** **Week 137 open · ACORN-LEACH-3 ✓ · IRON-BLOOM-41 ✓ · TRIP-HEAD ~12.80 kg · DYE-TRIP slate**
+**Day 952 · Cal-Y3 D350:** **ACORN-LEACH-2 ✓ · CART-WOOD-HAUL-952 ✓ · MADDER-FARM-SLATE**
+**Day 951 · Cal-Y3 D349:** **PIT-DUAL-951 ✓ · lane ~25 kg GREEN · ACORN-LEACH batch 1 soak**
+**Day 950 · Cal-Y3 D348:** **IRON-BLOOM-40 ✓ · TRIP-HEAD ~11.84 kg (~59%) · lane WATCH**
+**Day 949 · Cal-Y3 D347:** **OAK-ORCHARD-RESERVE ✓ · IRON-BLOOM-39 ✓ · TRIP-HEAD ~10.88 kg (~55%)**
+**Day 948 · Cal-Y3 D346:** **CART-WOOD-HAUL-948 ✓ · pile 5 ~72 kg · TRIP runway**
+**Day 947 · Cal-Y3 D345:** **SEED-SCOUT-1 ✓ · fava · chickpea top-up · thyme · acorn · wild grain**
+**Day 946 · Cal-Y3 D344:** **BARREL-2-TOPUP ✓ · PARCHED-BATCH-Y3 ✓ · SHELF-LIFE sprint closed · SEED-SCOUT slate**
+**Day 945 · Cal-Y3 D343:** **FOOD-STOCK-AUDIT ✓ · FARM-PLAN-Y4 ✓ · SHELF-LIFE-945 · ~36 kg larder**
+**Day 944 · Cal-Y3 D342:** **P-17-HARVEST-1 ✓ · ~255 g bulk · ~52 g elite · Bed B clear**
+**Day 943 · Cal-Y3 D341:** **EMMER-HARVEST-1 ✓ · ~1.82 kg @ GRAIN-BAY · ~98 g elite · hard block opens**
+**Day 942 · Cal-Y3 D340:** **REST ✓ · FARM-READ GO · margin walk · cut d943 dawn queued**
+**Day 941 · Cal-Y3 D339:** **HYGIENE-POLISH ✓ · towel peg · hand wash · boot wash · nail brush · cut ~d943**
+**Day 940 · Cal-Y3 D338:** **GRAIN-BAY-Y3 ✓ · SHEAF-RACK-1 ✓ · HARVEST-PREP ✓ · rain sheets deployed · cut ~d943**
+**Day 939 · Cal-Y3 D337:** **SHOWER-3 ✓ · HAIRCUT-939 iron shears · HARVEST-PREP ~55% · FARM YELLOW · hygiene epic complete**
+**Day 938 · Cal-Y3 D336:** **FLUSH-TOILET-1 ✓ live · ×4 flush PASS · hygiene epic core closed @ DR-LT-01**
+**Day 937 · Cal-Y3 D335:** **FLUSH-RESERVOIR-1 ✓ · ~35 L · reed valve · header branch @ DR-LT-01 · chute trial PASS**
+**Day 936 · Cal-Y3 D334:** **IRON-SHEARS-1 ✓ · IRON-BLOOM-38 · ~148 g @ WORKBENCH-1 · linen/flax trial PASS**
+**Day 935 · Cal-Y3 D333:** **BIDET-1 ✓ live @ DR-LT-01 · grey → DR-GT-01 · hygiene epic step 2**
+**Day 934 · Cal-Y3 D332:** **LATRINE-SEAT-1 ✓ live · CAMP-LADDER-1 ✓ deploy · hygiene epic step 1 closed**
+**Day 933 · Cal-Y3 D331:** **HAUL-IRON-5 ✓ · ~56.4 kg H-11 @ pile 4 · hygiene epic hero · IRON-SHEARS deferred**
+**Day 932 · Cal-Y3 D330:** **H-11 modest mine ✓ · ~17.5 kg @ wagon · Week 134 open**
+**Day 931 · Cal-Y3 D329:** **M-22 foot scout ✓ · M-22-LAT-W750 + M-22-TALUS-S1 marked · ~28 g grit sample · HAUL-IRON-5 day 2/5**
+**Day 930 · Cal-Y3 D328:** **HAUL-IRON-5 day 1/5 · split trip launch · wagon @ Camp-1 · modest H-11 + M-22 scout slate**
+**Day 929 · Cal-Y3 D327:** **CART-WOOD-HAUL-929 ✓ · pile 5 ~41 kg GREEN · dual + ladder feeds unlocked**
+**Day 928 · Cal-Y3 D326:** **PIT-DUAL-928 ✓ · lane ~38 kg GREEN · CAMP-LADDER-1 ~45% · pile 5 AMBER critical**
+**Day 927 · Cal-Y3 D325:** **PIT-DUAL-927 ✓ · lane ~25 kg GREEN · LATRINE-SEAT-1 ~55%**
+**Day 926 · Cal-Y3 D324:** **CART-WOOD-HAUL-926 ✓ · pile 5 ~51 kg GREEN · dual feeds unlocked**
+**Day 925 · Cal-Y3 D323:** **Week 133 open · SOIL-PIT-1 ✓ · LATRINE-SEAT-1 unlocked @ DR-SP-01**
+**Day 924 · Cal-Y3 D322:** **IRON-BLOOM-37 ✓ · ~9.92 kg TRIP-HEAD-STOCK (~50%) · lane WATCH**
+**Day 922 · Cal-Y3 D320:** **IRON-BLOOM-36 ✓ · ~8.96 kg TRIP-HEAD-STOCK · lane ~22.5 kg GREEN**
+**Day 921 · Cal-Y3 D319:** **PIT-DUAL-921 ✓ · lane ~33 kg GREEN · SOIL-PIT-1 ~50% @ DR-SP-01**
+**Day 920 · Cal-Y3 D318:** **CART-WOOD-HAUL-920 ✓ · pile 5 ~39 kg GREEN · dual feeds unlocked**
+**Day 919 · Cal-Y3 D317:** **PIT-CHAR-98 ✓ · GREASE-TRAP-1 ✓ · HYGIENE-PACK slate · SOIL-PIT ~20%**
+**Day 918 · Cal-Y3 D316:** **Week 132 open · IRON-BLOOM-35 ✓ · ~8.00 kg TRIP-HEAD-STOCK · lane WATCH**
+**Day 917 · Cal-Y3 D315:** **PIT-DUAL-917 ✓ · lane ~24 kg GREEN · STAKE-CODE-1 · SR-S1 + SR-W1 ghost staked**
+**Day 916 · Cal-Y3 D314:** **CART-WOOD-HAUL-916 ✓ · pile 5 ~38 kg GREEN · SLAG-DUMP-B / WF-SB-01 primary**
+**Day 915 · Cal-Y3 D313:** **DRAIN-D-1 ✓ · SLAG-HAUL-SCOUT zones A/B/C · H-11-YIELD-PROJ slate**
+**Day 914 · Cal-Y3 D312:** **IRON-BLOOM-34 ✓ · ~7.04 kg TRIP-HEAD-STOCK · lane WATCH**
+**Day 913 · Cal-Y3 D311:** **PIT-DUAL-913 ✓ · DRAIN-D-1 partial ~40% · lane ~22 kg GREEN**
+**Day 912 · Cal-Y3 D310:** **IRON-BLOOM-33 ✓ · ~6.08 kg TRIP-HEAD-STOCK · WASTE-MGMT slate**
+**Day 911 · Cal-Y3 D309:** **Week 131 open · PATH-CROWN-1 ✓ · DRAIN-D-1 unlocked**
+**Day 910 · Cal-Y3 D308:** **Week 130 close · TERRACE-WALL-2 seg #2 ✓ · cap + face**
+**Day 909 · Cal-Y3 D307:** **PIT-DUAL-909 ✓ · TERRACE-WALL-2 course 5 · DRAIN-D-1 gate read**
+**Day 908 · Cal-Y3 D306:** **IRON-BLOOM-32 ✓ · ~5.12 kg TRIP-HEAD-STOCK · lane WATCH**
+**Day 907 · Cal-Y3 D305:** **CART-WOOD-HAUL-907 ✓ · APIARY-SITE-SCOUT · pad staked @ Bed D SE**
+**Day 906 · Cal-Y3 D304:** **FARM-READ-906 ✓ GREEN · TERRACE-WALL-2 course 4 · emmer pre-harvest watch**
+**Day 905 · Cal-Y3 D303:** **PIT-DUAL-905 ✓ · TERRACE-WALL-2 course 3 · lane ~18 kg GREEN**
+**Day 904 · Cal-Y3 D302:** **Week 130 open · IRON-BLOOM-31 ✓ · ~4.16 kg TRIP-HEAD-STOCK · lane WATCH**
+**Day 903 · Cal-Y3 D301:** **IRON-BLOOM-30 ✓ · H-11 head smelt · ~3.20 kg TRIP-HEAD-STOCK @ peg**
+**Day 902 · Cal-Y3 D300:** **CART-WOOD-HAUL-902 ✓ · ~34 kg oak · pile 5 GREEN**
+**Day 901 · Cal-Y3 D299:** **PIT-DUAL-901 relaxed ✓ · TERRACE-WALL-2 course 2 · wood AMBER**
+**Day 900 · Cal-Y3 D298:** **Centadial 9 @ Day 900 · PIT-DUAL · terrace stake #2 opens**
+**Day 899 · Cal-Y3 D297:** **IRON-BLOOM-29 ✓ · TRIP-HEAD-WELD ~2.24 kg @ peg · M-22 ~2.4 kg · lane WATCH**
+**Day 898 · Cal-Y3 D296:** **CART-WOOD-HAUL-898 ✓ · ~34 kg oak · pile 5 GREEN**
+**Day 897 · Cal-Y3 D295:** **Week 129 open · PIT-CHAR-84+85 dual · lane ~18 kg GREEN · vault ~75 kg**
+**Day 896 · Cal-Y3 D294:** **TRIP-ANVIL-STUB-1 ✓ · IRON-BLOOM-28 ~1.12 kg TRIP-HEAD-STOCK · TRIP-HAMMER ~55%**
+**Day 895 · Cal-Y3 D293:** **HAUL-IRON-4 ✓ · M-22-LAT-UP-420 spike #3 · ~77 kg H-11 @ pile 4**
+**Day 891 · Cal-Y3 D289:** **M-22 haul day 1/2 · wagon OUT · Camp-1**
+**Day 890 · Cal-Y3 D288:** **Week 128 open · WW-1-CAM-1 ✓ · 2-day wagon max prep**
+**Day 889 · Cal-Y3 D287:** **TRIP-HAMMER-1 start · WW-1-TRIP-STUB ~45% · CAMPUS-SOIL-SLATE**
+**Day 888 · Cal-Y3 D286:** **TERRACE-RETAINING-WALL seg #1 ✓ · CLOTH-AUDIT · LM-3-SAIL-SLATE · thread hold**
+**Day 887 · Cal-Y3 D285:** **LINEN-REPAIR-BATCH-887 ✓ · TERRACE-RETAINING-WALL ~55% · backfill complete**
+**Day 886 · Cal-Y3 D284:** **WHEEL-SPIN-10 ✓ · ~242 m fine thread · TERRACE-RETAINING-WALL ~38% · linen work open**
+**Day 885 · Cal-Y3 D283:** **FLAX-HACKLE-3 ✓ · ~275 g line @ FIBER · P-RETT-3 load closed · spin queued**
+**Day 884 · Cal-Y3 D282:** **TERRACE-RETAINING-WALL-1 ~20% · WW-HUB-TOWER + LINEN-WING slate · flax d885**
+**Day 883 · Cal-Y3 D281:** **Week 127 opens · CAMPUS-MASTER-PLAN-1 staked · H-v2 thatch refresh · tile deferred**
+**Day 882 · Cal-Y3 D280:** **OIL-LANTERN-1 ✓ · light trial PASS · LANTERN-v2-SLATE (chain · iron frame · batch)**
+**Day 881 · Cal-Y3 D279:** **OIL-LANTERN-1 ~98% · LAB-LANTERN-HANG-1 ✓ · GP-877 face D @ anneal · light d882**
+**Day 880 · Cal-Y3 D278:** **GP-876 face C @ anneal · FORM-POUR-GATE ✓ · LANTERN-PANE-FRAME-1 live pour PASS**
 **Day 879 · Cal-Y3 D277:** **LANTERN-PANE-FRAME-1 ✓ · PANE-FORM-FIT-GATE · 873–874 masters fit · GP-876 pour queued**
 **Day 878 · Cal-Y3 D276:** **FLAX-BREAK-3 ✓ · ~520 g fiber @ W-1 · rack cleared · LANTERN-PANE-FRAME next**
 **Day 877 · Cal-Y3 D275:** **LANTERN-FRAME-1 ~85% · peg · cap · bail · LANTERN-PANE-FRAME slate queued · FLAX-BREAK next**

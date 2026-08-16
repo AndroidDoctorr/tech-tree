@@ -1,23 +1,23 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 879** · **Cal-Y3 D277** · **Week 126 · LANTERN-PANE-FRAME-1 ✓**
+*Last updated: **Day 969** · **Cal-Y3 D367** · **Week 139 · BEACH-KIT ✓ · COAST test remain · madder banked*
 
 ---
 
-## Now @ Day 879
+## Now @ Day 969
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **GP-876 pane #3 @ form · d880 · 870 recipe · face C** |
-| **Glass** | **Pour form ✓ · 873–874 banked · 2 pours remain** |
-| **Lantern** | **Assembly ~85% · 4/4 dry-fit after panes · wick/oil later** |
-| **Farm** | **~520 g fiber @ W-1 · hackle interleave** |
-| **Beach kit** | **UMBRELLA paused ~85%** |
-| **Power** | **WW-1 belt build ~d827–831 · TRIP-HAMMER post-vent** |
+| **Hero** | **COAST deploy test · pit/haul · madder bank ~144 g · feast window** |
+| **Seed bank** | **Fava ~31 g · P-18 ~59 g · wild grain ~27 g · thyme ~8 g · WOAD ~15 g (Cal-Y4 sow)** |
+| **Storage** | **SHELF-LIFE ✓ · GRAIN-BAY ~0.80 kg · parched ~9.43 kg · ACORN-ROAST-Y3 ~370 g** |
+| **Forge** | **TRIP-HAMMER ~85% · lane ~19 kg WATCH · pile ~0 kg · H-11 ~12.3 kg** |
+| **Beach kit** | **Chair ✓ · towel ×2 (red + natural) · umbrella ~98% yellow wedge · COAST test** |
+| **WW-YARD** | **STORE-4 N · CHEM-LAB S · center gap = tower + linen path** |
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
 | **STOCK-REPLENISH** | **Paused @ ~49 stackable · ~141 green** |
 | **Lab wear** | **CL-LAB-TUNIC-1 ✓ @ lime peg** |
-| **→ Harvest hard block** | **~110 d (Day 943)** |
+| **→ Harvest hard block** | **✓ closed d967 · feast class opens · EMMER ✓ · P-17 ✓** |
 
 ### Season clocks
 
@@ -44,6 +44,7 @@
 | **6** | **HOME-COMFORT / wardrobe** | **Interleave** | **Shoes · socks · tunic · laundry on cure days** |
 | **7** | **BEACH / COAST craft** | **Post quartz haul** | **Chair · umbrella · towel — downtime reward** |
 | **8** | **STOCK-REPLENISH · STONE** | **When pipeline breathes** | **Brick · dress stone** |
+| **9** | **APIARY-1** | **Site ✓ d907 · build spring+** | **Skep · scout · capture · care queue filed** |
 
 ### Loose ends & deferred *(not abandoned — ranked)*
 
@@ -57,7 +58,50 @@
 | **STOCK-REPLENISH-1** | **Paused Day 804** | **~49 stackable OK for scout · resume before big build** |
 | **TIN-SCOUT-1 / Tarsus** | **Cal-Y4+** | **Not this year** — bridges · coastal path · cart/team upgrades first |
 | **HORSE-SCOUT / BOAT-1** | **Horizon** | Optional mouth recon · not blocking tin land route |
-| **Honey apiary** | **Neglected** | Sweet · ferment gap — no stake |
+| **MADDER-DIG-2 + MADDER-BED** | **✓ d966** | **MADDER-DIG-2 ~144 g dry · crowns ×4 planted · UMB/CHAIR stripe GO · WOAD seed Cal-Y4 spring** |
+
+### APIARY pipeline *(filed Day 907 · site staked · no build yet)*
+
+| # | ID | Est. | Notes |
+|---|-----|------|-------|
+| **0** | **APIARY-PAD-1** | **site ✓ d907** | **Bed D SE ~2.5×2 m · W-CHAN drip stub · reserve GARDEN-ORCHARD after path crowns** |
+| **1** | **REED-SKEP-1** | **1–2 d** | Wicker coil ~40 L · mud/pitch lip optional |
+| **2** | **SMOKER-1 + VEIL-1** | **½–1 d** | Smolder pot · linen veil · practice @ HOME before open hive |
+| **3** | **HIVE-SCOUT-1** | **1 d** | Wild colony recon · pistachio/olive/gorge · **spring swarm window** |
+| **4** | **SWARM-CAPTURE-1** | **1 d** | Bait skep · evening grammar · veil required |
+| **5** | **HIVE-CARE-1** | **ongoing** | Weekly calm-day pass · leave winter stores · harvest surplus year two+ |
+
+**Rejected apiary sites:** C-0 (H-V3 court) · WW-YARD (smoke) · H-v2 N terrace (masonry traffic).
+
+### Waste / QoL stack *(filed Day 912 · post trip-hammer mass)*
+
+| # | ID | Notes |
+|---|-----|-------|
+| **0** | **SLAG-HAUL-1** | **✓ d923 first cart ~18 kg @ WF-SB-01 · dish clear · repeat as blooms add** |
+| **1** | **DRAIN-D-1** | **✓ d915 · swale · greywater · grease-trap stub · midden tie** |
+| **2** | **GREASE-TRAP-1** | **✓ d919 · kitchen → swale · DR-GT-01 · reed baffle live** |
+| **3** | **SOIL-PIT-1** | **✓ d925 · DR-SP-01 · ~2.0 m sealed · LATRINE-SEAT unlocked** |
+| **4** | **FLUSH-TOILET-1** | **✓ d938 live · FLUSH-RESERVOIR d937 · never Orontes** |
+| **5** | **BIDET-1** | **✓ d935 · stem tee · grey → DR-GT-01** |
+
+### Hygiene pack *(filed Day 919 · no-smelt interleave on pit/cure days)*
+
+| # | ID | Iron? | Status |
+|---|-----|-------|--------|
+| **0** | **SOIL-PIT-1** | No | **✓ d925 close** |
+| **1** | **LATRINE-SEAT-1** | No | **✓ d934 live @ DR-LT-01 → DR-SP-01** |
+| **2** | **GREASE-TRAP-1** | No | **✓ d919** |
+| **3** | **BIDET-1** | No | **✓ d935 live @ DR-LT-01 · stem tee · grey → DR-GT-01** |
+| **4** | **SHOWER-3** | No | **✓ d939 closed @ DR-LT-01 · header arm · reed wrap · hygiene epic complete** |
+| **5** | **LAUNDRY-ROTATION** | No | **Char-cure afternoons · SOAP-1 · nook CL-TOWEL-2 split ✓ d941** |
+| **6** | **HAND-WASH-STATION-1** | No | **✓ d941 @ P-GOAT-1 gate · spigot · soap peg · grey swale** |
+| **6b** | **HYGIENE-TOWEL-PEG-1** | No | **✓ d941 @ DR-LT-01 · CL-TOWEL-2** |
+| **6c** | **BOOT-WASH-1** | No | **✓ d941 @ T-5 threshold · gravel tray · mud doctrine** |
+| **6d** | **NAIL-BRUSH-1** | No | **✓ d941 bone + reed @ hygiene nook** |
+| **7** | **CAMP-LADDER-1** | No | **✓ d934 deploy · portable ~3.8 m oak · nails + lash** |
+| **8** | **FLUSH-RESERVOIR-1** | No | **✓ d937 · ~35 L @ DR-LT-01 · reed valve · header branch** |
+| **9** | **FLUSH-TOILET-1** | Soft | **✓ d938 live · pressure flush · pull cord @ DR-LT-01 → DR-SP-01** |
+| **—** | **IRON-SHEARS-1** | **Yes** | **✓ d936 · ~148 g @ WORKBENCH-1 · linen/flax trial PASS** |
 
 ### Expedition windows
 
@@ -101,7 +145,7 @@
 
 | Check | Cadence | Last PASS |
 |-------|---------|-----------|
-| **FARM-READ** | Weekly spring–autumn | **GREEN · scare-only** |
+| **FARM-READ** | Weekly spring–autumn | **Hard block · P-17 d944 · scare ongoing** |
 | **Char lane @ forge** | Weekly | **~2 kg lane · vault ~51 kg** |
 | **Wood pile 5** | Weekly | **~6 kg · tag before pit** |
 | **AQUEDUCT drift** | Monthly | **Day 571 tune class** |
@@ -367,6 +411,39 @@
 
 ---
 
+## IRON-ORE-SCOUT-2 plan *(filed Day 892 · player ArcGIS/GE doctrine)*
+
+**Problem:** **M-22-UP lens #2** heavily worked @ **~10.8 kg** max haul — repeat cuts **diminish**. **Tray refilled** but **face depleted**. Modern range has **quarry/mine grammar** in these mountains — **new body likely** within **scout radius**.
+
+**Doctrine — foot vs cart:**
+
+| Mode | When | Why |
+|------|------|-----|
+| **Wagon → Camp-1 base** | **Day 1 OUT** | Food · water · sacks · tent strip · probe kit · **park covered** |
+| **Foot radial scout** | **Days 2–3** | **Pan forks · talus · schist contacts** — **cart does not climb wadi** |
+| **Wagon HOME** | **Day 3–4** | **After mark** · optional **modest first cut** if body found early |
+
+**Not:** solo cart same-day sample (**~3 kg** maintenance). **Not:** dragging wagon up **M-22-UP** wadi (d391 grammar).
+
+**Kit:** **IRON-PICK-1 ✓** · **IRON-WEDGE-1** · **MAGNET-PAN-1** · **lodestone needle** · **CU-KNIFE chip** · **yellow spikes ×6** · **sacks ×4** · **BOOT-3** · **BEDROLL-1**
+
+**Search vectors *(3–4 d budget)*:**
+
+| # | Vector | Target |
+|---|--------|--------|
+| **1** | **M-22 lateral wadis** | **Side forks ±0.5–1.5 km** from pin · **beyond +380 m upstream** |
+| **2** | **M-22 talus / black stain** | **Schist contact · strong needle pull** · **not fair pin dilute** |
+| **3** | **H-11 bench extension** | **~11 km NE · second face or bench run** · **hematite smelt feed** *(separate from magnetite)* |
+| **4** | **Yellow fork deviations** | **D-27 · RS-3 class** · **≤½ d each** if primary vectors dry |
+
+**Success:** **New spike @ body** · **PM-Y1 + black band** · **pan #5 rule** (strong pull = mark, don't strip on scout) · **M-22-UP-2** or **H-11-B** class ID
+
+**After scout:** **Wagon max haul** to new site · **or** return to **H-11 bench** mine grammar (**HAUL-IRON-3** class 30–50 kg)
+
+**Interleave:** **Trip hammer anvil/bloom** waits — **~10.8 kg tray** covers **head + blooms** if scout runs long
+
+---
+
 | Clock | Days | Notes |
 |-------|------|-------|
 | **→ Primary window close** | **✓ Day 850** | **Skipped return · ~45.9 kg sufficient · clarity = method** |
@@ -387,17 +464,43 @@
 |---|------|-------------|---------------|
 | ✓ | **FLAX-PULL-3** | Bed B P-07 · fiber + seed same pull · rett load | **✓ d863 · ~9.4 kg @ P-RETT-3 · ~38 g seed · LATE salvage** |
 | ✓ | **PANE-CONSISTENCY-WEEK-125** | Pane bank · clarity · template repeat | **CLOSED d875 · 873–874 lantern · 870–872 ~8×10 @ rack G** |
-| ☐ | **LANTERN-WEEK-126** | Assembly frame · pane form · 2 panes · oil · wick | **Frame ~85% · pane form after flax · 2/4 glass** |
+| ✓ | **LANTERN-WEEK-126** | OIL-LANTERN-1 · hang · light | **✓ d882 · v1 portable · v2 slate queued** |
+| ✓ | **CAMPUS-MASTER-PLAN-1** | Terraces · paths · drainage · future footprints | **✓ staked d883 · map updated · masonry follows** |
+| ✓ | **H-v2-ROOF** | Thatch refresh · tile later | **✓ thatch refresh d883 · TILE deferred** |
+| ✓ | **TERRACE-RETAINING-WALL-1** | H-v2 N terrace stake #1 · ~4 m | **✓ d888 · 6 courses + cap · face PASS** |
+| ✓ | **TERRACE-RETAINING-WALL-2** | Extension @ stake #2+ · campus plan | **✓ d910 seg #2 · ~8 m total face · PATH-CROWN next** |
+| ✓ | **PATH-CROWN-1** | T-5 · T-1 fork @ WW-YARD | **✓ d911 · crown graded · cart PASS** |
+| ✓ | **DRAIN-D-1** | Swale · greywater fork | **✓ d915 · GREASE-TRAP ✓ · SOIL-PIT-1 ✓ d925** |
+| ☐ | **LATRINE-SEAT-1** | Oak box + chute @ DR-LT-01 | **✓ d934 live @ DR-SP-01** |
+| ☐ | **STONE-WALL-SR-S1** | **~28 m Bed D/pen S · SR-S1-01–04 ghost d917 · animal + weed barrier** |
+| ☐ | **STONE-WALL-SR-W1** | **~42 m campus W · SR-W1-01–05 ghost d917 · terrace toe grammar** |
+| ☐ | **WW-HUB-TOWER-1** | Center gap STORE↔LAB · ~2 m · heat/light plenum | **Slate d884 · after wall breathe** |
+| ☐ | **LINEN-WING-1** | Dry indoor · hackle/spin/loom | **E stub slate · after tower shell** |
+| ☐ | **LM-3-SAIL-LOOM-1** | Wide beam · sail grammar · LOOM-WING | **Slate d888 · after BOAT-1 + flax m² · Cal-Y4+ class** |
+| ☐ | **LINEN-WORK** | Repair draw · named weave only | **~234 m fine hold d888 · LM-2 sufficient** |
+| ✓ | **FLAX-HACKLE-3** | Scutch s2 · hackle | **✓ d885 · ~275 g line @ FIBER** |
+| ✓ | **FLAX-SPIN-PRETT3-1** | ~275 g line → thread bank | **✓ d886 WHEEL-SPIN-10 · ~242 m fine** |
+| ✓ | **WHEEL-SPIN-10** | Full bank wheel pull | **✓ d886 · line depleted** |
+| ✓ | **WW-1-CAM-1** | Rim cam · lift · fall rhythm | **✓ d890 · ~30 cm · slow-spin PASS** |
+| ✓ | **WW-1-TRIP-STUB-1** | Pivot · lever · cam | **✓ d889–890 · powered fall live** |
+| ☐ | **TRIP-HAMMER-1** | Head weld · mount · tune | **✓ d968 head mounted · first clang · ~85% · ORE-CRUSHER-LINK optional** |
+| ✓ | **M-22-REPEAT-HAUL-2** | 2-day wagon max @ M-22-UP | **✓ d891–892 · ~10.8 kg · lens heavily worked** |
+| ✓ | **HAUL-IRON-5** | **d930–933 · split trip · modest H-11 + M-22 scout · 4/5 d | **✓ d933 · ~56.4 kg H-11 @ pile 4** |
+| ☐ | **IRON-ORE-SCOUT-2** | 3–4 d · Camp-1 base · foot radial · new body mark | **Vectors 1–2 ✓ d931 · M-22-TALUS-S1 + M-22-LAT-W750 · full radial deferred** |
+| ☐ | **CAMPUS-SOIL-HAUL-1** | Fertile loam · decorative beds · trees/shrubs | **Slate d889 · convenient haul · low maintenance** |
+| ☐ | **LANTERN-HANG-CHAIN-v2** | Iron link chain · replace cord bail | **Queued when forge arms agree** |
+| ☐ | **LANTERN-FRAME-IRON-v2** | Wrought iron assembly frame | **Queued · v1 oak travels now** |
+| ☐ | **LANTERN-BATCH** | More v1 class @ pane form + 870 recipe | **Queued · carry-one model proven** |
 | ✓ | **FLAX-BREAK-3** | Break · scutch | **✓ d878 · ~520 g @ W-1 · hackle queued** |
 | ✓ | **LANTERN-PANE-FRAME-1** | Sand-table ~6×8 pour mold | **✓ d879 · form-fit PASS · GP-876 pour d880** |
-| ☐ | **FLAX-HACKLE-3** | Scutch s2 · hackle · spin path | **~180 g tail · long clock** |
 | ☐ | **BOTTLE-WEEK-124** | Iron neck/seat *(paused)* | **GP-868 @ rack G · resume optional** |
-| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · linen canopy · sand pegs ×4 | **[~] ~85% paused · pegs + COAST when break** |
+| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · linen canopy · sand pegs ×4 | **[~] ~98% · UMB-STRIPE-DYE-969 ✓ yellow wedge · COAST test** |
 | ☐ | **BEACH-TOWEL-1** | **LM-3 wide strip** or felted wool · **≥150×80 cm** class | **✓ d854 · ~156×80 cm · longwise madder stripe** |
+| ☐ | **BEACH-TOWEL-2** | **Backup · plain natural** | **✓ d969 · ~156×80 cm @ v1 FIBER peg** |
 | ☐ | **STRIPED-TOWEL-DYE-1** | Clay/wax **dye trough** · dowel dip · madder/grape/iron bands | **✓ d854 accordion bind grammar** |
 | ☐ | **SWIMSUIT-1** | Minimal **linen brief** or short tunic | LM-2 ✓ |
 | ☐ | **BEACH-MAT-1** | Reed **+** hide backing roll · sand barrier | Reed ✓ |
-| ☐ | **BEACH-CHAIR-1** | Low **oak + linen sling** · folding peg grammar | Deck chair silhouette |
+| ☐ | **BEACH-CHAIR-1** | Low **oak + linen sling** · folding peg grammar | **✓ d969 · teal stripe sling · 100%** |
 | ☐ | **SUN-HAT-2** | **CL-HAT** upgrade · wider brim · chin cord | CL-HAT ✓ |
 | ☐ | **PICNIC-KIT-1** | Flatbread · salt · fat · jerky · **fig/honey** · **×2 amphora** water | Kitchen ✓ |
 | ☐ | **SANDWICH-BOX-1** | Waxed **P-η** dish + lid or birch bark wrap | Pottery ✓ |
