@@ -65,6 +65,27 @@ Before the player **builds, crafts, smelts, hauls, or field-tests** something ne
 
 The player may **choose** a different priority; the assistant should **push back** when a plan skips prerequisites (same tone as farm neglect / ore-hold doctrine). Do not retroactively grant stock or skills to make a requested day work — fix forward on a later day unless the player explicitly asks to retcon.
 
+### Build decomposition *(assistant duty)*
+
+Compound builds (belt runs, roof batches, forge kits, vent systems) **decompose into parts**. Before logging a finished **PASS**:
+
+| Step | Rule |
+|------|------|
+| **1 · Bill of materials** | List every **draw** — kg oak, m² hide, m rope, g wax, tool wear — from [inventory.md](inventory.md) |
+| **2 · Subcomponents** | If a part is not in stock, it needs its **own fab day** or phase (pulley batch, rope twist, hide tan) — not a hand-wave |
+| **3 · Doctrine choice** | When multiple materials work (e.g. **rope-primary vs hide-primary** belt), **audit**, pick, **file** — cite precedent day if any |
+| **4 · Phase ledger** | Multi-day heroes get phases in [schedule.md](schedule.md) with **Est. days**, **cumulative %**, and **draw column** |
+| **5 · Day file** | Log **−consumption** in **Craft** or **Events** (e.g. `HIDE-TRIM −0.04 m² pulley washers`) |
+
+**Red flags — stop and fix forward:**
+
+- Stock appears mid-day with no prior haul, hunt, or fab
+- Single named blob ("tannery offcut", "workshop spare") with **no inventory line**
+- Continuous material longer than physics allows from counted stock (e.g. **142 m hide strip** from **~2 m²** scrap)
+- Tool/material draw exceeds ledger (e.g. **54 g Cu** from **~12 g** peas)
+
+**If blocked:** queue the missing phase (**GOAT-HUNT**, **ROPE-TWIST**, **PULLEY-BATCH**) before the assembly day.
+
 ### Skills in daily play
 
 | Rule | Detail |

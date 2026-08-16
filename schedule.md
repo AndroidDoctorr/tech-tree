@@ -1,25 +1,23 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 829** · **Cal-Y3 D227** · **Week 119 · belt ✓ · fan wheel next**
+*Last updated: **Day 879** · **Cal-Y3 D277** · **Week 126 · LANTERN-PANE-FRAME-1 ✓**
 
 ---
 
-## Now @ Day 829
+## Now @ Day 879
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **LAB-VENT-FAN-1** — **~50% · belt ✓ · fan wheel d830 · close ~d831** |
-| **Doctrine** | **GLASS-NO-MELT — fan ✓ + FARM-STRUCT-READ ✓ before melt** |
-| **Gear** | **GLASS-GEAR ~85% ✓ · vent closes queue** |
-| **Farm** | **Quick scare ✓ · full struct walk slated d832** |
-| **GLASS-PRACTICE** | **Blocked · opens ~d833+** |
-| **Quartz** | **~46.1 kg clean dry · ~29 d window @ Day 850** |
-| **Soda** | **KELP-ASH-1 ~108 g · KELP-ASH-2 before Day 850** |
+| **Hero** | **GP-876 pane #3 @ form · d880 · 870 recipe · face C** |
+| **Glass** | **Pour form ✓ · 873–874 banked · 2 pours remain** |
+| **Lantern** | **Assembly ~85% · 4/4 dry-fit after panes · wick/oil later** |
+| **Farm** | **~520 g fiber @ W-1 · hackle interleave** |
+| **Beach kit** | **UMBRELLA paused ~85%** |
 | **Power** | **WW-1 belt build ~d827–831 · TRIP-HAMMER post-vent** |
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
 | **STOCK-REPLENISH** | **Paused @ ~49 stackable · ~141 green** |
 | **Lab wear** | **CL-LAB-TUNIC-1 ✓ @ lime peg** |
-| **→ Harvest hard block** | **~139 d from Day 804** |
+| **→ Harvest hard block** | **~110 d (Day 943)** |
 
 ### Season clocks
 
@@ -33,14 +31,14 @@
 
 | Order | Item | When | Notes |
 |-------|------|------|-------|
-| **0** | **QUARTZ-SEASON-CLOCK** | **~38 d → Day 850** | **CART-HAUL before window close** |
+| **0** | **QUARTZ-SEASON-CLOCK** | **Primary closed @850 · ~45.9 kg sufficient** | **Secondary ~900–930 if tonnage · clarity = method** |
 | **1** | **CHAR-WOOD-SPRINT-1** | **✓ d813** | **Lane ~16 kg · pile ~24 kg · vault ~68 kg** |
 | **2** | **ORE-WASH-SIFT-1** | **✓ d814** | **Trickle tray @ chem sill · Belen demo PASS** |
 | **3** | **QUARTZ-CART-HAUL-1** | **✓ d819** | **~46.1 kg clean FACE-B banked** |
 | **4** | **GLASS-GEAR-UPGRADE-1** | **~85% @826** | **Vent last · farm · GLASS-PRACTICE** |
-| **5** | **LAB-VENT-FAN-1** | **~50% @829** | **Belt ✓ · wheel d830 · close ~d831 · farm d832** |
-| **6** | **FARM-STRUCT-READ-1** | **d832** | **Scare · pen · structures walk · after vent** |
-| **7** | **GLASS-PRACTICE-1** | **d833+** | **Blocked until fan + farm ✓** |
+| **5** | **LAB-VENT-FAN-1** | **✓ d836** | **Slip @ HOME while on kelp trip** |
+| **6** | **FARM-STRUCT-READ-1** | **✓ d831** | **Early · player override · GREEN** |
+| **7** | **GLASS-PRACTICE-1** | **d841+ Week 121** | **Quality ladder · no vessels yet** |
 | **5** | **GLASS-PRACTICE-1** | **~d830–834** | **After gear queue · Belen bead/disk** |
 | **6** | **TRIP-HAMMER-1** | **Interleave d825+** | **WW-1 proto · see expanded plan** |
 | **6** | **HOME-COMFORT / wardrobe** | **Interleave** | **Shoes · socks · tunic · laundry on cure days** |
@@ -280,21 +278,59 @@
 
 ---
 
-## LAB-VENT-FAN-1 · WW belt plan *(expanded Day 820)*
+## LAB-VENT-FAN-1 · WW belt plan *(expanded Day 820 · materials audit Day 828)*
 
 **Problem:** Chem lab **~140 m** from **WW-1** @ T-1 fork. Hood chase **~20×30 cm** provisioned Day 703 — fan wheel mounts @ east/west cheek pegs.
 
 **Power source today:** **WW-1** rim + **GS-1** flywheel · **GRIND-TAKEOFF ~95%** · modular **slip** grammar from Day 145 blower.
 
-| Phase | ID | Est. | Cumulative | Work |
-|-------|-----|------|------------|------|
-| **0** | **LAB-VENT-CRANK-1** *(optional hedge)* | **½ d** | **0.5 d** | Hand paddle @ chase · immediate fume pull for first melts |
-| **1** | **WW-BELT-RUN-SURVEY-1** | **¼ d** | **0.75 d** | Line T-1 → chem east · **×6–8 post** sites · clearance @ belt |
-| **2** | **WW-BELT-POST-SET-1** | **1 d** | **1.75 d** | Oak posts · idle pulleys · tension screw stubs |
-| **3** | **WW-BELT-RUN-LAB-1** | **1 d** | **2.75 d** | **~140 m** leather/rope belt · lace + wax · test spin @ low load |
-| **4** | **LAB-VENT-FAN-WHEEL-1** | **1 d** | **3.75 d** | Paddle wheel @ hood chase · shaft · bearing block |
-| **5** | **LAB-VENT-FAN-LINK-1** | **½ d** | **4.25 d** | Belt takeoff @ nearest post · **slip clutch** when forge needs full WW |
-| **6** | **LAB-VENT-FAN-TUNE-1** | **¼ d** | **~4.5 d** | Draft read @ fire-table · smoke PASS |
+**Belt doctrine *(Day 828 audit)*:** **ROPE-PRIMARY** run **~142 m** — **leather lap wraps** @ **×7** pulleys + splices only. **Not** a continuous **142 m hide strip** (would need **~8 hides** — rejected). Matches **Day 291** grind-belt grammar.
+
+### Material ledger *(audit @ Day 828)*
+
+| Material | Have @ audit | Need | Gap | Resolve |
+|----------|--------------|------|-----|---------|
+| **ROPE-2** home @ pile 2 | **~59 m** | **~142 m** run | **−83 m** | **+ CRANE reclaim ~46 m** **+ ROPE-TWIST ~37 m** |
+| **ROPE-2** @ CRANE-1 | **~46 m** | Reclaim d832 | — | **Crane idle during vent OK** |
+| **HIDE-TRIM-SCRAP** @ peg | **~1.8 m²** | **~2.0 m²** wraps | **−~0.2 m²** | **GOAT-HUNT-6 ✓ d829 ~0.97 m²** |
+| **GOAT-HUNT-519** @ W-1 | **~0.9 m²** | Reserve | — | **Do not strip for belt** |
+| **Beeswax scrap** @ v1 | **~18 g** | **~8 g** lace | OK | **−8 g @ lace day** |
+| **TALLOW-1** @ v1 | **~165 g** | **~25 g** dressing | OK | **−25 g @ lace day** |
+| **Oak** @ pile 5 | **WW-WOOD 100%** | posts · pulleys · wheel | OK | **~2.9 kg pulleys d828 · logged per phase** |
+| **Cu scrap** | **~12 g** peas | **0** *(pulleys oak-pin)* | OK | **—** |
+
+### Build phases *(time + resources)*
+
+| Phase | ID | Est. | Cum. | Work | Key draws |
+|-------|-----|------|------|------|-----------|
+| **0** | **LAB-VENT-CRANK-1** *(skip)* | — | — | User deferred | — |
+| **1** | **WW-BELT-RUN-SURVEY-1** | **¼ d** | **0.25 d** | **✓ d827** | — |
+| **1b** | **WW-BELT-PULLEY-BATCH-1** | **¼ d** | **0.5 d** | **✓ d828** | **~2.9 kg oak · ~0.04 m² trim · oak-pin axles** |
+| **2** | **WW-BELT-POST-SET-1** | **1 d** | **1.5 d** | **✓ d827–828** | **×7 oak posts · ×7 pulleys mounted** |
+| **2b** | **WW-BELT-STOCK-AUDIT-1** | **¼ d** | **1.75 d** | **✓ d828** | Tallies filed · hunt queued |
+| **2c** | **GOAT-HUNT-6** | **1 d** | **2.75 d** | **✓ d829** | **~0.97 m² raw · ~3.4 kg meat** |
+| **2d** | **GOAT-HIDE-TAN-829** | **1 d** | **3.75 d** | **✓ d830** | Scrape · brain tan · shade rack |
+| **2e** | **ROPE-TWIST-VENT-1** | **1 d** | **4.75 d** | **✓ d832** | **CRANE ~46 m · +~37 m twist · dressing crock · VENT-BELT-ROPE ~142 m** |
+| **3** | **WW-BELT-RUN-LAB-1** | **1 d** | **5.75 d** | **✓ d833** | **~142 m lace · hide laps · spin PASS** |
+| **4** | **LAB-VENT-FAN-WHEEL-1** | **1 d** | **6.75 d** | **✓ d834** | **Oak shaft · ×8 paddles · bearing @ hood chase** |
+| **5** | **LAB-VENT-FAN-LINK-1** | **½ d** | **7.25 d** | **✓ d835** | **#7→wheel · slip pin · low-load drive PASS** |
+| **6** | **LAB-VENT-FAN-TUNE-1** | **¼ d** | **~7.5 d** | **✓ d836** | **3× smoke PASS · attended drive · vent close** |
+| **7** | **FARM-STRUCT-READ-1** | **1 d** | — | **✓ d831** | **Early player override · GREEN** |
+| **8** | **GLASS-PRACTICE-1** | — | — | **d840+** | **Unblocked · after KELP-ASH-2 loop** |
+
+**Calendar @ Day 829:**
+
+| Day | Hero |
+|-----|------|
+| **830** | Scrape finish · brain tan · shade rack |
+| **831** | **FARM-STRUCT-READ ✓ · hide flex · GOAT-SMOKE interleave** |
+| **832** | **ROPE-TWIST · CRANE reclaim · belt dressing prep** |
+| **833** | Wrap cut · **WW-BELT-RUN-LAB-1** lace + spin |
+| **834** | Fan wheel @ hood chase |
+| **835** | **Link + slip ✓ · fan driven** |
+| **836** | **Tune ✓ · vent close · kelp prep · roll d837** |
+| **837–839** | **KELP-ASH-2** *(on trail · **eat wagon bank** · burn @ return)* |
+| **840+** | **GLASS-PRACTICE-1** *(vent ✓ · soda leg)* |
 
 **Horizon:** **WW-2 + GS-2** upstream (Day 765 plan) — migrate fan + trip hammer to dedicated mechanical line · keep WW-1 on blast/grind.
 
@@ -333,7 +369,7 @@
 
 | Clock | Days | Notes |
 |-------|------|-------|
-| **→ Primary window close** | **~31 d** @ Day **850** | **Optional return trip · stock sufficient** |
+| **→ Primary window close** | **✓ Day 850** | **Skipped return · ~45.9 kg sufficient · clarity = method** |
 | **Scout** | **✓ d806** | **CART-PARK + PRIMARY marked** |
 | **Critical path** | | **SPRINT → wash/sift → cart haul → glass** |
 
@@ -349,9 +385,16 @@
 
 | ✓ | Item | Build notes | Unlock / have |
 |---|------|-------------|---------------|
-| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · **linen canvas** or goat-hair · sand pegs ×4 | Canvas grammar ✓ · wide loom strip |
-| ☐ | **BEACH-TOWEL-1** | **LM-3 wide strip** or felted wool · **≥150×80 cm** class | **STRIPED-TOWEL-DYE-1** below |
-| ☐ | **STRIPED-TOWEL-DYE-1** | Clay/wax **dye trough** · dowel dip · madder/grape/iron bands | Mordant palette ✓ |
+| ✓ | **FLAX-PULL-3** | Bed B P-07 · fiber + seed same pull · rett load | **✓ d863 · ~9.4 kg @ P-RETT-3 · ~38 g seed · LATE salvage** |
+| ✓ | **PANE-CONSISTENCY-WEEK-125** | Pane bank · clarity · template repeat | **CLOSED d875 · 873–874 lantern · 870–872 ~8×10 @ rack G** |
+| ☐ | **LANTERN-WEEK-126** | Assembly frame · pane form · 2 panes · oil · wick | **Frame ~85% · pane form after flax · 2/4 glass** |
+| ✓ | **FLAX-BREAK-3** | Break · scutch | **✓ d878 · ~520 g @ W-1 · hackle queued** |
+| ✓ | **LANTERN-PANE-FRAME-1** | Sand-table ~6×8 pour mold | **✓ d879 · form-fit PASS · GP-876 pour d880** |
+| ☐ | **FLAX-HACKLE-3** | Scutch s2 · hackle · spin path | **~180 g tail · long clock** |
+| ☐ | **BOTTLE-WEEK-124** | Iron neck/seat *(paused)* | **GP-868 @ rack G · resume optional** |
+| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · linen canopy · sand pegs ×4 | **[~] ~85% paused · pegs + COAST when break** |
+| ☐ | **BEACH-TOWEL-1** | **LM-3 wide strip** or felted wool · **≥150×80 cm** class | **✓ d854 · ~156×80 cm · longwise madder stripe** |
+| ☐ | **STRIPED-TOWEL-DYE-1** | Clay/wax **dye trough** · dowel dip · madder/grape/iron bands | **✓ d854 accordion bind grammar** |
 | ☐ | **SWIMSUIT-1** | Minimal **linen brief** or short tunic | LM-2 ✓ |
 | ☐ | **BEACH-MAT-1** | Reed **+** hide backing roll · sand barrier | Reed ✓ |
 | ☐ | **BEACH-CHAIR-1** | Low **oak + linen sling** · folding peg grammar | Deck chair silhouette |

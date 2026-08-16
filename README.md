@@ -14,7 +14,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [resource-map.md](resource-map.md) | Resource catalog — plants, materials, fauna by location |
 | [materials-roadmap.md](materials-roadmap.md) | Grout, lime, kiln/hypocaust brick budget |
 | [sun-calendar.md](sun-calendar.md) | **Solar calendar** — SUN-CAL-1 dual track · YULE anchor · interpolation |
-| [schedule.md](schedule.md) | **Deadlines & routines** — daily grind · weekly checks · farm windows · expeditions · feast countdown |
+| [schedule.md](schedule.md) | **Deadlines & routines** — daily grind · weekly checks · farm windows · **multi-day build phase ledgers** · expeditions · feast countdown |
 | [year-002-plan.md](year-002-plan.md) | **Cal-Y2 strategy archive** — pointer to [journal/years/year-002.md](journal/years/year-002.md) |
 | [year-001-plan.md](year-001-plan.md) | Year 1 strategy *(archived @ Day 237)* |
 | [journal/years/year-002.md](journal/years/year-002.md) | **Calendar Year 2** summary (Days 238–602) |
@@ -63,7 +63,7 @@ Each day file uses the same sections so summaries are easy to compile:
 
 ## Assistant duties
 
-The DM **checks gates before PASS** — see [rules.md — Resource & skill gates](rules.md#resource--skill-gates-assistant-duty). No building or crafting without stock, tools, prerequisite tech, and skill tier unless the day logs **NO-GO** / **queued** and names what's missing. **Wear, rot, and mishaps** apply at Easy→Normal — see [rules.md — Difficulty & realism](rules.md#difficulty--realism-easy--normal).
+The DM **checks gates before PASS** — see [rules.md — Resource & skill gates](rules.md#resource--skill-gates-assistant-duty) and [Build decomposition](rules.md#build-decomposition-assistant-duty). No building or crafting without stock, tools, prerequisite tech, and skill tier unless the day logs **NO-GO** / **queued** and names what's missing. **Multi-day builds** need a **material ledger** in schedule.md and **logged draws** in inventory.md — make subcomponents before assembly. **Wear, rot, and mishaps** apply at Easy→Normal — see [rules.md — Difficulty & realism](rules.md#difficulty--realism-easy--normal).
 
 **Schedule discipline:** Before a hero week or multi-day expedition, read [schedule.md](schedule.md) and **warn** if the plan crosses a **Hard** deadline in the next 7–14 days (harvest · madder · feast stock · queued farm window). Name the tradeoff; player may override.
 

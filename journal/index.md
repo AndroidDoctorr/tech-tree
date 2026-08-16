@@ -834,7 +834,54 @@
 | 824 | [day-824.md](days/year-003/week-118/day-824.md) | **LAB-SCALE-2 · mass bootstrap** | **MASS-CHIP set · gram batch slate · Cal-Y3 D222** |
 | 825 | [day-825.md](days/year-003/week-118/day-825.md) | **Vial labels · marver** | **G-A–F batch vials · GLASS-MARVER-1 ✓ · Cal-Y3 D223** |
 | 826 | [day-826.md](days/year-003/week-118/day-826.md) | **Marver move · sand table** | **MARVER-STATION north draft · GLASS-SAND-TABLE ✓ · Cal-Y3 D224** |
-| 829 | [day-829.md](days/year-003/week-119/day-829.md) | **Belt lace ✓ · spin test** | **WW-BELT-RUN-LAB-1 ✓ · ~142 m · low load PASS · Cal-Y3 D227** |
+| 828 | [day-828.md](days/year-003/week-119/day-828.md) | **Posts ✓ · audit · pulleys** | **WW-BELT-STOCK-AUDIT ✓ · pulley batch · hunt queued · Cal-Y3 D226** |
+| 830 | [day-830.md](days/year-003/week-119/day-830.md) | **Brain tan ✓** | **GOAT-HIDE-TAN-829 ✓ · ~0.95 m² · Cal-Y3 D228** |
+| 834 | [day-834.md](days/year-003/week-120/day-834.md) | **Fan wheel ✓ · bank read** | **Week 120 open · LAB-VENT-FAN-WHEEL-1 ✓ · CALORIE-BANK ~97% · Cal-Y3 D232** |
+| 835 | [day-835.md](days/year-003/week-120/day-835.md) | **Belt link ✓ · kelp queue** | **LAB-VENT-FAN-LINK-1 ✓ · fan driven · KELP-BANK doctrine · Cal-Y3 D233** |
+| 836 | [day-836.md](days/year-003/week-120/day-836.md) | **Vent ✓ · kelp prep** | **LAB-VENT-FAN-1 ✓ · KELP-ASH-2-PREP · Cal-Y3 D234** |
+| 837 | [day-837.md](days/year-003/week-120/day-837.md) | **Kelp leg 1 · west march** | **KELP-ASH-2 leg 1 · ~12 km W · bank −~1.15 kg · Cal-Y3 D235** |
+| 838 | [day-838.md](days/year-003/week-120/day-838.md) | **Beach · kelp harvest** | **~3.4 kg wet M-13 · beacon PASS · BEACH-TOWEL deferred · Cal-Y3 D236** |
+| 839 | [day-839.md](days/year-003/week-120/day-839.md) | **Return HOME** | **KELP-ASH-2 return ✓ · ~0.85 kg dry staged · burn d840 · Cal-Y3 D237** |
+| 840 | [day-840.md](days/year-003/week-120/day-840.md) | **Kelp burn ✓** | **KELP-ASH-2 ✓ · ~225 g ash · soda ~333 g · GLASS open · Cal-Y3 D238** |
+| 841 | [day-841.md](days/year-003/week-121/day-841.md) | **Glass week opens** | **GP-841-A/B ✓ · clarity log · Week 121 · Cal-Y3 D239** |
+| 842 | [day-842.md](days/year-003/week-121/day-842.md) | **Improvement tests** | **GP-842-C/D/E ✓ · bottle slate · Cal-Y3 D240** |
+| 843 | [day-843.md](days/year-003/week-121/day-843.md) | **Thick disk · anneal** | **GP-843-F · GLASS-ANNEAL-843 · frit doctrine · Cal-Y3 D241** |
+| 844 | [day-844.md](days/year-003/week-121/day-844.md) | **Anneal close · clarity** | **GLASS-ANNEAL-GATE ✓ · GP-844-A levigated · Cal-Y3 D242** |
+| 845 | [day-845.md](days/year-003/week-121/day-845.md) | **Shape intro · blowpipe slate** | **GP-845-AMP-1 · BLOWPIPE-SLATE-845 · Cal-Y3 D243** |
+| 846 | [day-846.md](days/year-003/week-121/day-846.md) | **Gather cup ✓ · shape repeat** | **IRON-GATHER-CUP-1 ✓ · GP-846-AMP-2 · Cal-Y3 D244** |
+| 847 | [day-847.md](days/year-003/week-121/day-847.md) | **Neck close · sealed ampoule** | **GP-847-SEAL ×2 · NECK-CLOSE-DOCTRINE · Cal-Y3 D245** |
+| 848 | [day-848.md](days/year-003/week-122/day-848.md) | **Week 122 · copper blow stub** | **COPPER-BLOW-STUB-1 ✓ · GP-848-PUFF-1 · Cal-Y3 D246** |
+| 849 | [day-849.md](days/year-003/week-122/day-849.md) | **Puff repeat · even wall** | **GP-849-PUFF ×2 · HOLLOW-ANNEAL-GATE ✓ · Cal-Y3 D247** |
+| 850 | [day-850.md](days/year-003/week-122/day-850.md) | **Even wall gate · quartz read** | **EVEN-WALL-GATE ✓ · scout skipped · Cal-Y3 D248** |
+| 851 | [day-851.md](days/year-003/week-122/day-851.md) | **50 g hollow · cork slate** | **GP-851-HOLLOW-1 · CORK-SLATE-851 · Cal-Y3 D249** |
+| 852 | [day-852.md](days/year-003/week-122/day-852.md) | **Cork scout · macchia** | **P-20-A · CORK-BARK-852 · Cal-Y3 D250** |
+| 853 | [day-853.md](days/year-003/week-122/day-853.md) | **Return · towel start** | **HOLLOW-ANNEAL-VOLUME ✓ · BEACH-TOWEL ~35% · Cal-Y3 D251** |
+| 854 | [day-854.md](days/year-003/week-122/day-854.md) | **Beach towel ✓ · madder stripes** | **BEACH-TOWEL-1 ✓ · STRIPED-TOWEL-DYE · Cal-Y3 D252** |
+| 855 | [day-855.md](days/year-003/week-123/day-855.md) | **Week 123 · flask neck** | **GP-855-FLASK-1 · cork seat · CORK-PLUG MARGINAL · Cal-Y3 D253** |
+| 856 | [day-856.md](days/year-003/week-123/day-856.md) | **Anneal tap · plug fit** | **CORK-PLUG-FIT ✓ · GP-856-FLASK-2 · Cal-Y3 D254** |
+| 857 | [day-857.md](days/year-003/week-123/day-857.md) | **Scale 100 g · bottle proto** | **SCALE-100-GATE ✓ · GP-857-BOTTLE-PROTO · Cal-Y3 D255** |
+| 858 | [day-858.md](days/year-003/week-123/day-858.md) | **Iron blowpipe start** | **IRON-BLOWPIPE ~40% · sec-1 leak MARGINAL · Cal-Y3 D256** |
+| 859 | [day-859.md](days/year-003/week-123/day-859.md) | **Bottle anneal tap** | **BOTTLE-ANNEAL-GATE ✓ · GP-857 @ rack K · Cal-Y3 D257** |
+| 860 | [day-860.md](days/year-003/week-123/day-860.md) | **Iron pipe · sec-1 sealed** | **IRON-BLOWPIPE-LEAK-GATE ✓ · ~55% · Cal-Y3 D258** |
+| 861 | [day-861.md](days/year-003/week-123/day-861.md) | **Iron blowpipe ✓** | **IRON-BLOWPIPE-1 full leak PASS · ~1.18 m · Cal-Y3 D259** |
+| 862 | [day-862.md](days/year-003/week-124/day-862.md) | **Week 124 · stock audit** | **STOCK-AUDIT-862 · BEACH-UMBRELLA ~25% · Cal-Y3 D260** |
+| 863 | [day-863.md](days/year-003/week-124/day-863.md) | **Flax pull late · umbrella frame** | **FLAX-PULL-3 ✓ · UMB frame ~55% · Cal-Y3 D261** |
+| 864 | [day-864.md](days/year-003/week-124/day-864.md) | **Umbrella canopy ✓** | **UMB-CANOPY-1 ✓ · BEACH-UMBRELLA ~85% · Cal-Y3 D262** |
+| 865 | [day-865.md](days/year-003/week-124/day-865.md) | **Iron puff trial ✓** | **IRON-PUFF-TRIAL-1 ✓ · iron primary · Cal-Y3 D263** |
+| 866 | [day-866.md](days/year-003/week-124/day-866.md) | **Bottle week · puff boring** | **GP-866 bottle stub @ bury · Cal-Y3 D264** |
+| 867 | [day-867.md](days/year-003/week-124/day-867.md) | **Bottle body #2** | **GP-867 @ bury · ±~0.9 mm wall · Cal-Y3 D265** |
+| 868 | [day-868.md](days/year-003/week-124/day-868.md) | **Iron neck trial** | **GP-868 @ bury · cork seat MARGINAL · Cal-Y3 D266** |
+| 869 | [day-869.md](days/year-003/week-125/day-869.md) | **Week 125 · window week opens** | **GP-869 disk + panes @ anneal · WINDOW-SLATE · Cal-Y3 D267** |
+| 870 | [day-870.md](days/year-003/week-125/day-870.md) | **Clarity push · pane tap** | **CLARITY-LADDER-870 · GP-870 @ anneal · Cal-Y3 D268** |
+| 871 | [day-871.md](days/year-003/week-125/day-871.md) | **Clarity repeat · size ↑** | **GP-871 ~8×10 @ anneal · LANTERN-SLATE · Cal-Y3 D269** |
+| 872 | [day-872.md](days/year-003/week-125/day-872.md) | **Pane consistency · edge fix** | **PANE-EDGE-DOCTRINE · GP-872 @ anneal · Cal-Y3 D270** |
+| 873 | [day-873.md](days/year-003/week-125/day-873.md) | **Flax pull · pane template** | **P-RETT-3 ✓ · GP-873 ~6×8 @ anneal · Cal-Y3 D271** |
+| 874 | [day-874.md](days/year-003/week-125/day-874.md) | **Template repeat · pane bank** | **GP-874 ~6×8 #2 @ anneal · 2/4 lantern · Cal-Y3 D272** |
+| 875 | [day-875.md](days/year-003/week-125/day-875.md) | **Week 125 close · tap only** | **WEEK-125 CLOSE · 2/4 lantern bank · Cal-Y3 D273** |
+| 876 | [day-876.md](days/year-003/week-126/day-876.md) | **Week 126 · lantern frame** | **LANTERN-FRAME-1 ~55% · dry-fit PASS · Cal-Y3 D274** |
+| 877 | [day-877.md](days/year-003/week-126/day-877.md) | **Assembly frame · peg · cap** | **LANTERN-FRAME-1 ~85% · pane frame queued · Cal-Y3 D275** |
+| 878 | [day-878.md](days/year-003/week-126/day-878.md) | **FLAX-BREAK-3 · arms day** | **~520 g fiber · rack cleared · Cal-Y3 D276** |
+| 879 | [day-879.md](days/year-003/week-126/day-879.md) | **Lantern pane pour frame** | **LANTERN-PANE-FRAME-1 ✓ · form-fit PASS · Cal-Y3 D277** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

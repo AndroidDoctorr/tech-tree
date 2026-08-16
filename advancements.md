@@ -6,8 +6,58 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ## Summary
 
-**Day 829 · Cal-Y3 D227:** **WW-BELT-RUN-LAB-1 ✓ · ~142 m belt · low-load spin PASS**
-**Day 828 · Cal-Y3 D226:** **WW-BELT-POST-SET-1 ✓ · posts 7/7 · belt lace prep @ T-1**
+**Day 879 · Cal-Y3 D277:** **LANTERN-PANE-FRAME-1 ✓ · PANE-FORM-FIT-GATE · 873–874 masters fit · GP-876 pour queued**
+**Day 878 · Cal-Y3 D276:** **FLAX-BREAK-3 ✓ · ~520 g fiber @ W-1 · rack cleared · LANTERN-PANE-FRAME next**
+**Day 877 · Cal-Y3 D275:** **LANTERN-FRAME-1 ~85% · peg · cap · bail · LANTERN-PANE-FRAME slate queued · FLAX-BREAK next**
+**Day 876 · Cal-Y3 D274:** **Week 126 opens · LANTERN-FRAME-1 ~55% · LANTERN-RABBET · 873–874 dry-fit PASS**
+**Day 875 · Cal-Y3 D273:** **WEEK-125 CLOSE · GP-874 tap ✓ · 2/4 lantern bank · FLAX-BREAK deferred · Week 126 opens**
+**Day 874 · Cal-Y3 D272:** **GP-873 tap ✓ · GP-874 template #2 @ anneal · PANE-TEMPLATE-GATE · 2/4 lantern bank**
+**Day 873 · Cal-Y3 D271:** **GP-872 tap ✓ · P-RETT-3 pull ✓ · GP-873 ~6×8 template @ anneal · FLAX-BREAK-3 queued ~d875+**
+**Day 872 · Cal-Y3 D270:** **GP-871 tap ✓ · PANE-EDGE-DOCTRINE · GP-872 even ~8×10 @ anneal · flax pull opens d873**
+**Day 871 · Cal-Y3 D269:** **GP-870 tap ✓ · clarity compare · GP-871 ~8×10 @ anneal · LANTERN-SLATE-871 queued Week 126**
+**Day 870 · Cal-Y3 D268:** **CLARITY-LADDER-870 · GP-869 tap ✓ · GP-870 best pane clarity @ anneal**
+**Day 869 · Cal-Y3 D267:** **Week 125 opens · WINDOW-WEEK · GP-869 disk + ×2 panes @ sand anneal · GP-868 tap ✓**
+**Day 868 · Cal-Y3 D266:** **First iron neck trial · GP-868 @ bury · cork seat MARGINAL · CORK-PLUG-TRIAL-868**
+**Day 867 · Cal-Y3 D265:** **GP-866 volume tap ✓ · GP-867 iron body #2 @ bury · wall ±~0.9 mm ↑**
+**Day 866 · Cal-Y3 D264:** **BOTTLE-WEEK opens · GP-866 puff ×2 + bottle stub @ bury · practice rack G · 3 usable unchanged**
+**Day 865 · Cal-Y3 D263:** **IRON-PUFF-TRIAL-1 ✓ · GP-865 ×2 @ anneal · iron primary · stub fine-work backup**
+**Day 864 · Cal-Y3 D262:** **UMB-CANOPY-1 ✓ · mounted · BEACH-UMBRELLA ~85% · −~26 m thread bank**
+**Day 863 · Cal-Y3 D261:** **FLAX-PULL-3 ✓ LATE salvage · P-RETT-3 · BEACH-UMBRELLA ~55% frame stop · wedge PASS**
+**Day 862 · Cal-Y3 D260:** **Week 124 opens · STOCK-AUDIT-862 · BEACH-UMBRELLA ~25% · FLAX OVERDUE read · IRON-BLOWPIPE bloom draw audit 858–861**
+**Day 861 · Cal-Y3 D259:** **IRON-BLOWPIPE-1 ✓ · ~1.18 m full leak PASS · iron primary blow tool**
+**Day 860 · Cal-Y3 D258:** **IRON-BLOWPIPE sec-1 leak PASS ✓ · PINHOLE-CHASE · sec-2 started ~55%**
+**Day 859 · Cal-Y3 D257:** **BOTTLE-ANNEAL-GATE ✓ · GP-857 @ rack K · storage-ready proto**
+**Day 858 · Cal-Y3 D256:** **IRON-BLOWPIPE-1 fab ~40% · sec-1 MARGINAL leak · stub stays primary**
+**Day 857 · Cal-Y3 D255:** **SCALE-100-GATE ✓ · GP-857-BOTTLE-PROTO-1 @ bottle anneal**
+**Day 856 · Cal-Y3 D254:** **CORK-PLUG-FIT ✓ · GP-856-FLASK-2 · GP-855 anneal tap PASS**
+**Day 855 · Cal-Y3 D253:** **Week 123 · GP-855-FLASK-1 neck + cork seat · CORK-PLUG MARGINAL**
+**Day 854 · Cal-Y3 D252:** **BEACH-TOWEL-1 ✓ · longwise madder stripes · STRIPED-TOWEL-DYE-854**
+**Day 853 · Cal-Y3 D251:** **HOLLOW-ANNEAL-VOLUME ✓ · BEACH-TOWEL-1 ~35% · cork dry @ sill**
+**Day 852 · Cal-Y3 D250:** **P-20-A cork oak found · CORK-BARK scout strip · RS-3 #4**
+**Day 851 · Cal-Y3 D249:** **GP-851-HOLLOW-1 ~50 g · volume anneal bury · CORK-SLATE-851 filed**
+**Day 850 · Cal-Y3 D248:** **EVEN-WALL-GATE ✓ · GP-850-PUFF ×2 · quartz scout skipped · primary window closed**
+**Day 849 · Cal-Y3 D247:** **GP-849-PUFF ×2 · even wall class · HOLLOW-ANNEAL-GATE ✓**
+**Day 848 · Cal-Y3 D246:** **COPPER-BLOW-STUB-1 ✓ · GP-848-PUFF-1 first hollow · Week 122 opens**
+**Day 847 · Cal-Y3 D245:** **GP-847 sealed ampoule ×2 · NECK-CLOSE-DOCTRINE · shape ladder ↑**
+**Day 846 · Cal-Y3 D244:** **IRON-GATHER-CUP-1 ✓ · GP-846-AMP-2 rounder · cup > punty**
+**Day 845 · Cal-Y3 D243:** **GP-845-AMP-1 shape stub · BLOWPIPE-SLATE-845 · seam wrap FAIL**
+**Day 844 · Cal-Y3 D242:** **GLASS-ANNEAL-GATE ✓ · GP-844-A levigated · consistency doctrine**
+**Day 843 · Cal-Y3 D241:** **GP-843-F ~50 g disk · GLASS-ANNEAL-843 · frit doctrine · 842 anneal PASS**
+**Day 842 · Cal-Y3 D240:** **GP-842-C/D/E ✓ · double-skim best clarity · bottle materials read OK**
+**Day 841 · Cal-Y3 D239:** **Week 121 glass week · GP-841-A/B ✓ · FACE-B purity path · clarity log**
+**Day 840 · Cal-Y3 D238:** **KELP-ASH-2 ✓ · ~225 g ash · soda ~333 g · GLASS-PRACTICE open**
+**Day 839 · Cal-Y3 D237:** **KELP-ASH-2 return ✓ · ~0.85 kg dry staged · bank −~3.2 kg trip · burn d840**
+**Day 838 · Cal-Y3 D236:** **KELP-ASH-2 beach ✓ · ~3.4 kg wet M-13 · BEACH-TOWEL-1 deferred**
+**Day 837 · Cal-Y3 D235:** **KELP-ASH-2 leg 1 ✓ · ~12 km W · bank −~1.15 kg · VENT-TRIP-DOCTRINE-837**
+**Day 836 · Cal-Y3 D234:** **LAB-VENT-FAN-1 ✓ · KELP-ASH-2-PREP · ~20.8 kg bank on wagon**
+**Day 835 · Cal-Y3 D233:** **LAB-VENT-FAN-LINK-1 ✓ · belt #7→wheel · slip clutch · KELP-BANK doctrine**
+**Day 834 · Cal-Y3 D232:** **LAB-VENT-FAN-WHEEL-1 ✓ · CALORIE-BANK-READ ~97% · COAST bank intact**
+**Day 833 · Cal-Y3 D231:** **WW-BELT-RUN-LAB-1 ✓ · ~142 m belt live · low-load spin PASS**
+**Day 832 · Cal-Y3 D230:** **ROPE-TWIST-VENT-1 ✓ · VENT-BELT-ROPE ~142 m · BELT-DRESSING crock staged**
+**Day 831 · Cal-Y3 D229:** **FARM-STRUCT-READ ✓ · GOAT-HIDE flex PASS · GOAT-SMOKE ~2.6 kg**
+**Day 830 · Cal-Y3 D228:** **GOAT-HIDE-TAN-829 ✓ · full leather day · ~0.95 m² @ shade rack**
+**Day 829 · Cal-Y3 D227:** **GOAT-HUNT-6 ✓ · hide @ frame · vent plan amended (materials honest)**
+**Day 828 · Cal-Y3 D226:** **WW-BELT-STOCK-AUDIT ✓ · pulley batch · posts 7/7 · rope-primary doctrine**
 **Day 827 · Cal-Y3 D225:** **Week 119 open · WW belt survey ✓ · posts 4/7 · GLASS-NO-MELT doctrine**
 **Day 826 · Cal-Y3 D224:** **GLASS-SAND-TABLE-1 ✓ · MARVER-STATION north draft lane · vent + farm next**
 **Day 825 · Cal-Y3 D223:** **P-LAB-VIAL-BATCH ✓ · GLASS-MARVER-1 ✓ · sand table d826**

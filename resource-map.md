@@ -37,10 +37,11 @@
 | **P-06** | Wild barley | 200 m | Bed A R5–6 | Jun | **SOWN · Breed** | **~12 g** Day 16 |
 | **P-07** | Flax (*Linum bienne*) | Bed B | **Pull: mid–late summer** | **SOWN · Cordage** | **Grain-fill class · pull ~Cal-Y2 D210–230 horizon from Day 545** |
 | **P-08** | Reed (*Phragmites*) | 180 m | T-1 river | Year-round | **Material** | Cordage winner C-1 |
-| **P-09** | Oak | Camp + slopes | Terrace | Acorns fall | **Material · Eat** | Leach tannins before calories; ash |
+| **P-09** | Oak | Camp + slopes | Terrace | Acorns fall | **Material · Eat** | Leach tannins before calories; ash · **not wine cork** |
 | **P-10** | Willow | 90–200 m | T-1 | Year-round | **Material** | Stakes, lashings C-2 |
 | **P-11** | "Fake rye" (brome/barley) | 200 m | Plain | — | **Ignore** | Don't plant |
 | **P-12** | **Wild fig** | **650 m** | T-3 / T-4 NW | **~Aug–Sep** fruit | **Eat · Seed · Breed** | Leather @ v1 · **P-12a ✓** · **FIG-C1–4 @ Bed D** |
+| **P-20** | **Cork oak** (*Quercus suber* class) | **~26 km W · SW macchia @ P-20-A** | **RS-3 #4 CORK-OAK-A** | **May–Aug** bark strip | **Material · Breed** | **✓ scout d852 · ~6 trees · regen 9 yr · not Orontes native** |
 
 ### Fig watch (P-12)
 

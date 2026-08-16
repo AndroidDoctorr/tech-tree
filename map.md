@@ -332,7 +332,7 @@
 | **Avoid tying up** | **943–967** harvest | Hard farm — no casual day trips |
 | **Blocker** | **Not survey** | **KILN-C-UPGRADE-1** + glass routine · **M-10 local ✓** covers R&D queue |
 
-**Now @ Day 829:** **Week 119 · vent ~50% · belt ✓ · fan wheel d830**
+**Now @ Day 834:** **Week 119 · vent ~90% · fan wheel ✓ · CALORIE-BANK ~97%**
 
 ### WW-YARD master plan *(filed Day 758 · WW-CAMPUS-PLAN-758)*
 
