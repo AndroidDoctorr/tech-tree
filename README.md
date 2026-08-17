@@ -22,6 +22,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [skills.md](skills.md) | **Skills ledger** — Start (IRL) + Now · player = you · [RAG-MUD](purpose.md#rag-mud) |
 | [ladder.md](ladder.md) | **Achievement ladder** — have vs need, all tracks, one glance |
 | [journal/index.md](journal/index.md) | Master timeline — links to every day and summary |
+| [journal/summaries/](journal/summaries/) | **Centadials** (every 100 days) · **milladial** (every 1000 days) |
 | [journal/days/](journal/days/) | Day files by week (`week-NNN/day-NNN.md`) — see **Week numbering** below |
 | [journal/weeks/](journal/weeks/) | Weekly rollups — see [journal/index.md](journal/index.md) |
 | [journal/years/year-001.md](journal/years/year-001.md) | **Calendar Year 1** summary (Days 1–237) |

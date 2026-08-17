@@ -4,7 +4,20 @@
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME H-v2** · **Cal-Y3 D367** · **Week 139 · BEACH-KIT ✓ · COAST test remain**
+**Status:** **HOME H-v2** · **Cal-Y4 D52** · **Week 146 · ~179 stackable · factory PAUSE**
+
+### TOWER-MATERIAL-AUDIT-988 *(Day 988 · stock sanity)*
+
+| Item | Corrected status |
+|------|------------------|
+| **Tower wythe** | **Kiln B fired brick ~22×11×5 cm — ~148 in WW-HUB-TOWER shell · NOT pile 8 · NOT stone brick** |
+| **Pile 8** | **×6 FS dimension stone ~18 kg only — lintels + bond beam spent · no brick** |
+| **Kiln B brick** | **~179 stackable · factory PAUSE d1019 · ×102 TR surplus · patch holds** |
+| **Pile 7 lime** | **~17 kg remain · quicklime jar ~0.7 kg · wash batch reserve** |
+| **Roof tiles** | **×0 spare · ×0 green · ~18–22 + ridge needed for tower · BLOCKER** |
+| **Pile 4 stone** | **~30 kg — GREEN** |
+| **Pile 5 oak** | **~4 kg — AMBER · factory pause · PIT-CHAR-131 d1019** |
+| **Char/clay** | **~24 kg char vault · lane ~0.3 kg · ~22 kg clay AMBER · ~179 stackable · ×102 TR · factory PAUSE** |
 
 ### Belt / hide / dressing *(audit Day 828)*
 
@@ -105,6 +118,7 @@
 | **CL-TUNIC-2** | **✓ Day 541** — teal · ~48×90 cm · chest slit · ×4 eyelets · **primary wear** |
 | **CL-TUNIC-3** | **✓ Day 543** — natural · ~48×90 cm · double stitch · closed front · **wash rotation** |
 | **CL-TUNIC-TIEDYE-1** | **✓ Day 591** — bind-resist multi-dip · iron · hull · grape · madder · ~48×90 cm · **@ peg** |
+| **CL-TUNIC-4** | **✓ Day 975** — natural · ~48×90 cm · double stitch · closed front · **@ rotation peg D** |
 | **Tabard v1** | ~55×38 cm · **lime whitewash** — **@ peg rotation** |
 | **CL-TABARD-2** | **✓ Day 542** — purple-mauve grape skin · ~56×39 cm · **primary over-layer** |
 | **CL-CLOAK-1** | **✓ Day 737** — grape body · teal hood lining · **M-08 yoke** · CU clasp · **~1.1 kg · @ WAGON-LASH-KIT dry well** |
@@ -213,7 +227,7 @@
 | **COOPERAGE-1** | **✓ Day 567–568 · swell PASS** |
 | **GOAT-FEEDER-1** | **✓ Day 594** — **wicker hopper · reed chute ~2.4 m · barn loft → manger** |
 | **COOL-CELLAR-1** | **✓ complete Day 610** @ H-v2 north margin · racks · evap trough · depth ~2.6 m |
-| **ICE-VAULT-1** | **~39 kg** total cold mass | **~32 kg** primary niche + **~7 kg** overflow tray · ICE-HAUL-3 ✓ Day 653 · baseline Day 653 |
+| **ICE-VAULT-1** | **~11 kg** total cold mass | **Single tier @ niche · ICE-SCOUT-HAUL-1004 ✓ · melt baseline Day 1004 · Y3 max was ~39 kg @ D653** |
 | **ICE-HAUL-1** | **✓ Day 632** — **~17.2 kg nett** @ gully lens |
 | **ICE-HAUL-2** | **✓ Day 652** — **~18.2 kg nett** |
 | **ICE-HAUL-3** | **✓ Day 653** — **~19.3 kg nett** · max-pack week |
@@ -254,9 +268,9 @@
 | **Threshed grain** | **~25 g** | batch #6 Day 182 — legacy small lot |
 | **Elite seed** | **~98 g EMMER-ELITE-Y3 · ~52 g P-17-ELITE-Y3 · Y2 backups** | **SEED-VAULT east · FARM-PLAN-Y4-945 rates filed** |
 | **Malachite ore (O-1)** | **~11.6 kg** class | **−~3.8 kg SMELT-22 Day 621** |
-| **Quicklime (dry)** | **~0.35 kg** | **−~0.7 kg BRIDGE-1 abutment skim + pin Day 718–720 · slake from pile 7 for bulk mortar** |
+| **Quicklime (dry)** | **~2.05 kg** | **+~1.7 kg KILN-A-LIME-991 @ v1 jar** |
 | **Tier 3 grout (wet bucket)** | 1 | Workshop top-up class · **~half full** |
-| **Slaked lime putty @ v1** | **~0.4 kg** | **Fresh batch Day 719 bridge cheek — cover water** |
+| **Slaked lime putty @ v1** | **~0 kg** | **Whitewash slake d997 · jar ~0.7 kg quicklime remain** |
 | **Parched grain (PARCHED-1)** | **~9.43 kg** | **+~480 g PARCHED-BATCH-Y3 d946 · hypocaust · not elite** |
 | **Fish jerky (JERKY-1)** | **~1.35 kg** | **−~0.8 kg scout slice → wagon d836** |
 | **Smoked fish** | **~9.2 kg** | **−~3.5 kg scout slice → wagon d836 · daily pool separate** |
@@ -332,8 +346,8 @@
 | Location | Qty | Notes |
 |----------|-----|--------|
 | **Store C** (vault) | **~75 kg class** | **+~7 kg PIT-CHAR-85 d897 · +~7 kg PIT-CHAR-83 Day 813** |
-| **Char lane @ forge** | **~19 kg** class | **−~10.5 kg IRON-BLOOM-47 d967 · WATCH · pit before next smelt** |
-| **Pile 5** (wood) | **~0 kg** class | **−~12 kg PIT-DUAL-965 d965 · depleted · haul after trip class** |
+| **Char lane @ forge** | **~0.3 kg** class | **−~10.4 kg KILN-B-BRICK-FIRE-1019 · vault hold · factory PAUSE** |
+| **Pile 5** (wood) | **~4 kg** class | **−~36 kg PIT-CHAR-131 d1019 · AMBER · factory pause** |
 | **Pit B-133** | **banked Day 913** | **PIT-CHAR-94 ✓ · cell A** |
 | **Pit B-152** | **banked Day 958** | **PIT-CHAR-112 ✓ · cell A** |
 | **Pit B-153** | **banked Day 958** | **PIT-CHAR-113 ✓ · cell B · B-154 staked** |
@@ -350,7 +364,7 @@
 | **Pit B-124** | **banked Day 897** | **PIT-CHAR-85 ✓ · cell B · B-125 staked** |
 | **Barn timber stock** | **~18 kg** class | **−~13 kg bridge stringers/deck** |
 | **CART-YARD timber** | **×0 reserve** | **spent Day 719 peg stock** |
-| **CHEM-LAB-WING-1** | **Stage 5 ✓ live Day 766** | **Floor · counter · sink · fire table · lamp rail ✓ · WIRE-DRY @ east cab Day 796** |
+| **CHEM-LAB-WING-1** | **Stage 5 ✓ live Day 766** | **Floor · counter · sink · fire table · lamp rail ✓ · WIRE-DRY @ east cab Day 796 · CHEM-LAB-AIRLOCK-1 ✓ d998 @ N passage** |
 | **Pit B-58** | **banked Day 466** | **PIT-CHAR-10 Day 466** |
 | **KITCHEN-THATCH** (pile 2) | **spent** | **roof ✓ Day 506 · ~0.2 kg scrap** |
 | **KITCHEN-WOOD** (staged) | **×4 billets** | **@ stake + pile 5 tag** |
@@ -395,12 +409,12 @@
 | **Pile 3 / kiln yard** | **~87** | **Green** — **−8 fired Day 499** |
 | **Kiln B lining** | **~35** | In situ fired lining |
 | **Kiln C lining** | **~22** | + insulation patches |
-| **Pile 1** | **~14 kg** class | **−~1 kg P-LAB-SINK-1 Day 764** |
+| **Pile 1** | **~22 kg** class | **−~17.8 kg GREEN-PRESS d1018 · AMBER · haul before long press run** |
 | **Red seep clay (M-02)** | small | Near pile 1 |
 | **River sand (grog)** | **~7 kg** class | **−~1 kg counter grout Day 763** |
-| **Fired roof tiles** | **×47 on CHEM-LAB · ×50 on STORE-4 slope ✓** | **STORE-4-ROOF-1 ✓ Day 790** |
-| **Green roof tiles** | **0** | **Sprint complete** |
-| **Tile pipeline** | **active** | **batches 1–3 ✓ · ~27 remain · batch 4 opens lay** |
+| **Fired roof tiles** | **×47 on CHEM-LAB · ×50 on STORE-4 · ×22 + ×2 RR on WW-HUB-TOWER · ×4 TR surplus @ rack** | **TOWER-ROOF ✓ · TR-19 chip · TR-27 patch · east wing / mill class** |
+| **Green roof tiles** | **×16 TR-H green @ rack · ×1 TR-5 grog** | **Hut/airlock class · fire d1001 PM** |
+| **Tile pipeline** | **active** | **TOWER batch queued d988 · TILE-FORM-1 @ kiln yard** |
 | **AMPHORA-3** | **✓ pitched · load trial Day 350** | **M-08 ✓** · **water class · no weep** |
 | **AMPHORA-2** | **✓ @ TRAIL-CACHE-2 Day 746** | M-08 · empty shell · water refill on west march |
 | **AMPHORA-1** | **✓ transport** | Fired · M-08 · **@ wagon starboard cradle** |
@@ -411,13 +425,13 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Field / bridge stone (pile 4)** | **~26 kg** class reserve | **+~14 kg STONE-HAUL-1 Day 721 · ~18 kg @ BRIDGE-1 abutments** |
-| **Floor stones (FS) — pile 8** | **×3 FS-class blocks ~8 kg** | **FS-BRIDGE-TAG-721 · STONE-BRIDGE-1 stock · chem-lab FS in situ** |
-| **Limestone / calcite (pile 7)** | **~21 kg** class | **−~2 kg SOIL-PIT-1 seal d925 · STORE-4 seal prior** |
+| **Field / bridge stone (pile 4)** | **~31 kg** class reserve | **TOWER dress stock · no haul needed** |
+| **Floor stones (FS) — pile 8** | **×6 FS-class blocks ~18 kg** | **Dimension stone only · LINTEL ×2 + bond beam ×4 spent · NOT brick source** |
+| **Limestone / calcite (pile 7)** | **~17 kg** class | **−~10.2 kg KILN-A-LIME-991 · mortar runway ✓** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
 | **Copper peas (stock)** | **~53 g scrap** | **SMELT-22 + SMELT-848 offcut ~41 g d848** |
 | **CU-BUCKET-1** | **✓ ~128 g · ~3.8 L** | **Raised copper · riveted seam · bail · @ CART-YARD peg · leak PASS Day 621** |
-| **Charcoal Store C** | *(see Store C + CHAR lane)* | **~51.5 kg vault + ~5.8 kg lane ≈ ~57.3 kg @ home** |
+| **Charcoal Store C** | *(see Store C + CHAR lane)* | **~24.3 kg vault + ~0.1 kg lane ≈ ~24.4 kg · tile fire d1011 · vault hold** |
 | **M-07 camp stain** | sample | Distinct from **O-1** |
 | **Chert cobbles (pile 5)** | **~18+** | **S-02 resupply Day 121**; go-bag stocked |
 | **Turquoise / scout chips** | small | Marked samples in dry shelf |
@@ -495,15 +509,25 @@
 | **OIL-LANTERN-1** | **✓ v1 · portable · default @ LAB-LANTERN-HANG-1** | **Day 882 · 4/4 panes · light trial PASS · cord bail · v2 slate queued** |
 | **LAB-LANTERN-HANG-1** | **✓ @ CHEM-LAB north rafter** | **Day 881 hook · C-2 cord · OIL-LANTERN-1 hung d882 · chain v2 queued** |
 | **LANTERN-PANE-FRAME-1** | **✓ @ GLASS-SAND-TABLE-1** | **Day 879 · ~6×8 ID sand pour form · dam lips · 873–874 form-fit PASS** |
-| **BEACH-UMBRELLA-1** | **[~] ~98%** | **UMB-STRIPE-DYE-969 ✓ yellow/natural wedge · UMB-SAND-PEG-958 ✓ · COAST deploy test queued** |
+| **BEACH-UMBRELLA-1** | **✓ 100% Day 975** | **UMB-STRIPE-DYE-969 ✓ · home deploy PASS d975 · COAST sand trip backlog** |
 | **BEACH-CHAIR-1** | **✓ 100%** | **BEACH-CHAIR-STRIPE-969 ✓ teal verdigris sling · fold flat · kit @ staging** |
+| **SWIMSUIT-1** | **✓ ~38×28 cm Day 974** | **Natural linen brief · drawcord · COAST class · @ v1 FIBER beach peg** |
 | **P-LAB-TRAY-1** | **×2 ✓ Day 811** | **Wash/anneal trays @ chem bench** |
 | **P-LAB-VIAL** | **×6 ✓ Day 811** | **Reagent rack A–F @ chem bench north** |
 | **P-LAB-VIAL-BATCH** | **×6 ✓ Day 825** | **G-A–F glass batch vials · wax tags · BATCH peg** |
+| **QUARTZ-FRIT-973** | **~220 g ✓ Day 977** | **−~200 g bottle melts d976+d977 · @ vial G-FRIT** |
+| **GP-974-FRIT-100** | **✓ Day 975 anneal PASS** | **~5.8 mm patty · 100 g frit batch · @ rack G · FRIT-100-974** |
+| **GP-976-BOTTLE-1** | **✓ @ rack L Day 979** | **Anneal PASS · punty transfer · plug fitted** |
+| **GP-977-BOTTLE-2** | **✓ @ rack L Day 979** | **Repeat grammar · wall ±~0.6 mm · plug fitted** |
+| **GP-977-LENS-1** | **✓ @ rack G practice Day 979** | **Hand biconvex · window-grade user read · not priority** |
+| **GP-978-LENS-2** | **✓ @ rack G practice Day 980** | **LENS-MOLD-1 press · symmetry ↑ · tap PASS** |
+| **GP-978-LENS-3** | **✓ @ rack G Day 979** | **Plano-convex ~20 mm · flat grind face · polish backlog** |
+| **LENS-MOLD-1** | **✓ Day 978** | **Concave grog dish ~26 mm R · @ GLASS-SAND-TABLE east lip** |
+| **GLASS-BOTTLE-1** | **✓ Day 976–977** | **×2 frit-fed wine bottles @ bury · REPEAT-GATE ✓ d977** |
 | **GLASS-MARVER-1** | **✓ Day 825 · relocated d826** | **~28×22 cm LF slab @ **north bench hood draft lane** (MARVER-STATION-826)** |
 | **GLASS-SAND-TABLE-1** | **✓ Day 826** | **~38×28 cm @ east sill · damp sand bed · disk/pane forms · parting dust** |
 | **QUARTZ-BELEN samples** | **~0.85 kg chips + scout P-vial ×6** | **Day 806 · chem cabinet · ~200 g demo washed @814** |
-| **QUARTZ-BELEN haul** | **~45.20 kg clean · dry-staging @ STORE-4 + P-LAB-TRAY** | **−~22 g GP-877 d881 · prior draws** |
+| **QUARTZ-BELEN haul** | **~44.4 kg clean · dry-staging @ STORE-4 + P-LAB-TRAY** | **−~800 g frit run d973 · QUARTZ-FRIT-973 ~620 g @ BATCH rack** |
 | **ORE-WASH-TRAY-814** | **✓ @ chem east sill** | **Aqueduct trickle · linen sieve · magnet stage · drain D-1** |
 
 ### Food · seed · misc
@@ -549,12 +573,12 @@
 
 | Structure | Role | Stock |
 |-----------|------|--------|
-| **Kiln A** | Lime / high temp | Calcite reserve; cold |
-| **Kiln B** | Brick factory | **~64** stackable *(+15 Day 803)* · **~123** green queue · **~216 in CHEM-LAB walls** |
+| **Kiln A** | Lime / high temp | **GREEN · crown hairline cosmetic · cold · monitor** |
+| **Kiln B** | Brick factory | **~179 stackable · factory PAUSE d1019 · patch holds · lane thin** |
 | **Brick mold #1 · #2** | Wood oak + willow clips | **22×11×5 cm** interior · Day 28 |
 | **BRICK-MOLD-IRON-1** | **✓ Day 643** | **~148 g** lap-weld frame · oak slip base · @ kiln yard |
 | **BRICK-MOLD-IRON-2** | **✓ Day 644** | **~112 g** lap-weld frame · oak slip base · @ kiln yard |
-| **Kiln C** | Copper smelt | P-δ · bellows · **O-1 ~11.6 kg** · **SMELT-22 ✓ Day 621** |
+| **Kiln C** | Copper smelt / glass | **GREEN · insul v2 ✓ d809 · baffle sound · soot cosmetic defer** |
 | **Ceramic updraft** | Pottery | **P-vial** + **P-bowl** fired Day 121 |
 
 ---
@@ -599,8 +623,8 @@
 | Item | Notes |
 |------|--------|
 | **P-GOAT-1** | **2 kids** · pen **~22×8 m ✓** · **GOAT-TROUGH-AUTO-1 ✓ · GOAT-FEEDER-1 ✓ Day 594** |
-| **Bed A** | **Stubble** — weeded · scare line maintained |
-| **Bed B** | **Full stubble d944** | **N+S harvested Y3 · Cal-Y4 plan @ FARM-PLAN-Y4-945 · **MADDER-BED-RESERVE ~2×3 m herb margin W slate d952** |
+| **Bed A** | **S scratch ✓ P-18 ready · N mulch ✓ · sow ~1034** |
+| **Bed B** | **N lentil expand ✓ · S emmer ✓ · center mulch ✓ · **MADDER W untouched** · sow ~1034** |
 | **Bed C** | **P-GOAT-1** pen north — unchanged |
 | **Bed D (NEW)** | **~24 m²** S margin — **FIG-C1–4** cuttings Day 306 · **C2 leaf-out lead Day 433** · **BED-D-SEL** · fence **✓** · **APIARY-PAD-1 ✓ staked SE margin Day 907** · **OAK-ORCHARD-RESERVE ✓ ×6 slots @ GARDEN-ORCHARD terrace S d949** |
 | **P-03 trellis** | **✓ 100%** — vines **P-03a/b/c** marked |
@@ -615,7 +639,7 @@
 | **LAB-FIRE-SUPPRESS-v0** | **✓ Day 796** | **P-λ-3 sealed · ~2.5 L · south rail @ fire table · THROW tag** |
 | **CHEM-DOOR-STRIP-v0** | **✓ Day 796** | **Oak + reed felt + pitch @ lab S jamb · boot rag @ sill** |
 | **BARN-LATCH-IRON-1** | **✓ Day 485** | **sliding bolt @ south opening · oak drop bar staged pile 9** |
-| **Fence / scare** | **E margin ✓ Day 356** · **N leg ~3 m started Day 368** · scare 100% | **Tie-in Bed B → Bed D complete · N leg optional** |
+| **Fence / scare** | **E margin ✓ · Bed B→D tie-in ✓ · N leg ~3 m optional · scare 100%** | **FENCE-SCARE-READ-1013 · N leg defer OK · pen 22×8 adequate** |
 | **Grain (stored @ v1)** | **~0.80 kg Y3 bay · ~255 g Y3 pulse · BARREL-2 topped · parched ~9.43 kg · scout ~13.4 kg separate** |
 
 ---
@@ -629,7 +653,8 @@
 | **WW-1 frame** | **✓ 100% Day 295** | rim 8/8 · FLOOD-SPIN-1 ✓ · production class |
 | **WW-1-TRIP-STUB-1** | **✓ d889–890** | **Pivot · lever · cam · powered fall · ~30 cm lift · rhythm PASS** |
 | **WW-1-CAM-1** | **✓ d890** | **Rim cam · belt takeoff · grind untouched** |
-| **TRIP-HAMMER-1** | **[~] ~85%** | **TRIP-HEAD-MOUNT-968 ✓ · TRIP-FIRST-CLANG-968 ✓ · ~18.56 kg head live · ORE-CRUSHER-LINK optional** |
+| **TRIP-HAMMER-1** | **✓ 100% Day 973** | **TRIP-HEAD-MOUNT-968 ✓ · TRIP-FIRST-CLANG-968 ✓ · ORE-CRUSHER-LINK-1 ✓ · ~18.56 kg head · WW-2 migrate horizon** |
+| **ORE-CRUSHER-LINK-1** | **✓ Day 973** | **CRUSHER-BOWL-1 · FRIT-SCREEN-1 · anvil swap · Belen frit feed live** |
 | **TERRACE-RETAINING-WALL-2** | **✓ seg #1+#2** | **~8 m H-v2 N face · PATH-CROWN ✓ d911 · DRAIN-D-1 unlocked** |
 | **M-22-REPEAT-HAUL-2** | **✓ d891–892** | **~10.8 kg @ pile 4 · 2-day wagon max · lens-limited** |
 | **HAUL-IRON-4** | **✓ d893–895** | **~41.2 kg mined d894 · M-22 recon d895 · ~77 kg H-11 @ pile 4** |

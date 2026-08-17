@@ -410,7 +410,7 @@
 |-----|-------|-------|
 | **S** | **CHEM-LAB-WING-1 ✓** | **Stage 5 live** · WIRE-DRY @ east cab · fire jar v0 |
 | **N** | **STORE-4 ✓** | **Mat/chem/tool store** · wood floor · zones live · **food stays @ kitchen** |
-| **Center** | **WW-HUB-1** *(queued)* → **WW-HUB-TOWER-1** *(slate d884)* | Cart turn · **~2 m tower class** · heat plenum · upper vents · central hang · **linen wing E stub later** |
+| **Center** | **WW-HUB-TOWER-1 ✓** | **STORE↔LAB connector** · oak floor · lime whitewash · tile roof · vent pole · **linen wing E stub later** |
 | **W** | **MILLHOUSE-2** *(plan)* | Replaces torn Phase 1 after Stage 6 tool migration |
 | **E** | **Deferred** | Long wing or second lab bay |
 

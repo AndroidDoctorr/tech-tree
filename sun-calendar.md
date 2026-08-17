@@ -1,8 +1,8 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 602** (~10,000 BC) · **Cal-Y2 D365** · **SUN-CAL-Y2-CLOSE ✓***  
+*Last updated: **Day 1004** (~10,000 BC) · **Cal-Y4 D37** · **SUN-CAL-YEARLY-WINDOWS ✓***  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
-**Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239**
+**Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239** · **Yearly windows ✓ Day 1004**
 
 ---
 
@@ -189,6 +189,49 @@ Piecewise between anchors (linear segment):
 - **Sow windows:** **SPRING-SOW** keyed off **ground rising + YULE @ leaving 42**, not Roman month names
 - **Feast eve:** **Day 237 + 365×(Y−1)** — **Cal-Y2 closes Day 602** — compare **YULE-BENCH** plate year-on-year · **re-mark @ 46/42**
 - **Cal-Y3:** opens **Day 603** (= **Cal-Y3 D1**)
+- **Yearly windows:** **SUN-CAL-YEARLY-WINDOWS-1004** — ritual + activity bands below · color ticks @ C-0 pad edge · duplicate @ kitchen slate
+
+---
+
+## Yearly windows *(Cal-Y anchor · repeats each calendar year)*
+
+*Filed **Day 1004** · journal **Day ≈ 968 + (Cal-Y D − 1)** for Year Four onward.*
+
+| Band | Cal-Y D | What | Ideal action |
+|------|---------|------|--------------|
+| **ICE HAUL** | **D30–D55** *(tail D56–D60)* | **Hard-frost dawn · ICE-ROUTE-1 NE gully** | **Scout @ D30 · max haul @ D49–D51** *(Y3: ~20–39 kg)* · **never skip two winters** |
+| **SPRING SOW** | **D67–D85** | **Frost gate · ground rising · YULE @ climbing** | **Bed prep · emmer · lentil · trials · woad · madder herb margin** |
+| **EXPED / CART TRIPS** | **D80–D280** | **Dry trail · team trained · no harvest block** | **Ore · quartz · dye · coast · tin scout horizon** |
+| **WILD FLAX PULL** | **D187–D217** | **Yellow shoulder · Bed B or wild margin** | **Miss window = coarse salvage · re-sow next spring** |
+| **APIARY / SWARM** | **D90–D120** | **Calm warm days post-sow** | **Hive scout · evening capture · veil required** |
+| **DONKEY HUNT** | **D260–D295** | **Mid-summer recruit window** | **Quarantine grammar · not winter** |
+| **QUARTZ / ORE HAUL** | **D100–D280** | **Dry season · cart covered** | **Wash/sift @ HOME · not wet mud hero** |
+| **SALT / EVAP** | **D320–D340** | **Dry autumn · brine trays** | **Rain sheets down · barrel top-up** |
+| **OLIVE / GRAPE / Q5** | **D330–D360** | **Autumn gather · press · brine** | **Parallel harvest prep · not blocking grain cut** |
+| **AUTUMN HARVEST** | **D341–D365** | **Hard block · emmer · pulse · seed bank** | **No casual trips · forge interleave only · FEAST @ D365** |
+| **YULE / FEAST** | **D365** | **Solstice eve @ ground 46 · wall 42** | **Tree · bench · chill plate · year close · SUN-YULE re-mark** |
+| **BIRD / WEIR HUNT** | **D40+ winter** | **Weir daily · bird winter class** | **Not seasonal hero — maintenance protein** |
+| **CALCIUM / WOOD** | **Any interleave** | **Pile banks · pit when lane thin** | **Factory rhythm — not a single window** |
+
+**C-0 pad edge ticks *(Day 1004):* **red** = ICE band · **green** = SOW band · **gold** = HARVEST band · **YULE @ 42** unchanged.
+
+**Y4 logged anchors:**
+
+| Day | Cal-Y4 | Ground | Wall | Notes |
+|-----|--------|--------|------|-------|
+| **1003** | D36 | **83** | **80** | Factory · stock backlog |
+| **1004** | D37 | **84** | **81** | **ICE-SCOUT-HAUL · yearly windows filed · ridge** |
+| **1005** | D38 | **85** | **82** | **PIT-CHAR · GREEN-PRESS · factory rhythm** |
+| **1006** | D39 | **86** | **83** | **WOOD-HAUL · pile 5 ~50 kg GREEN** |
+| **1007** | D40 | **87** | **84** | **PIT-CHAR · tile+brick dual fire · stackable ~109** |
+| **1008** | D41 | **88** | **85** | **Tile buffer sprint · ×46 TR surplus** |
+| **1009** | D42 | **89** | **86** | **Week 145 open · WOOD-HAUL · pile 5 ~44 kg** |
+| **1010** | D43 | **90** | **87** | **Tile pit/press/fire · ×74 TR surplus** |
+| **1011** | D44 | **91** | **88** | **Tile sprint 3 · ×102 TR · pile 5 empty** |
+| **1012** | D45 | **92** | **89** | **WOOD-HAUL · pile 5 ~40 kg GREEN** |
+| **1013** | D46 | **93** | **90** | **SOW-PREP slate · farm walk · stake marks** |
+| **1014** | D47 | **94** | **91** | **BED-SCRATCH hero · sow-ready · mulch** |
+| **1015** | D48 | **95** | **92** | **KILN audit · light brick press · repair slate** |
 
 ---
 

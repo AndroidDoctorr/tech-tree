@@ -970,8 +970,58 @@
 | 965 | [day-965.md](days/year-003/week-138/day-965.md) | **Pit · chair sling** | **PIT-DUAL-965 ✓ · BEACH-CHAIR ~70% · DYE-TRIP GO · Cal-Y3 D363** |
 | 966 | [day-966.md](days/year-003/week-138/day-966.md) | **Dye trip NW** | **DYE-TRIP-1 ✓ · MADDER + WOAD seed · Cal-Y3 D364** |
 | 967 | [day-967.md](days/year-003/week-139/day-967.md) | **Week 139 · final hero** | **IRON-BLOOM-47 ✓ · TRIP-HEAD mount band ✓ · Cal-Y3 D365** |
-| 968 | [day-968.md](days/year-003/week-139/day-968.md) | **Trip hammer mount** | **TRIP-HEAD-MOUNT ✓ · first clang · Cal-Y3 D366** |
-| 969 | [day-969.md](days/year-003/week-139/day-969.md) | **Beach kit day** | **BEACH-KIT ✓ · chair 100% · stripes · Cal-Y3 D367** |
+| 968 | [day-968.md](days/year-003/week-139/day-968.md) | **Trip hammer mount** | **TRIP-HEAD-MOUNT ✓ · first clang · Cal-Y4 D1** |
+| 969 | [day-969.md](days/year-003/week-139/day-969.md) | **Beach kit day** | **BEACH-KIT ✓ · chair 100% · stripes · Cal-Y4 D2** |
+| 970 | [day-970.md](days/year-003/week-139/day-970.md) | **Yule feast chill** | **FEAST-970 ✓ · SUN-YULE-970 · SUN-CAL-Y3-CLOSE · Cal-Y4 D3** |
+| 971 | [day-971.md](days/year-003/week-139/day-971.md) | **Wood haul** | **CART-WOOD-HAUL-971 ✓ · pile ~34 kg GREEN · Cal-Y4 D4** |
+| 972 | [day-972.md](days/year-003/week-139/day-972.md) | **Pit dual · loom** | **PIT-DUAL-972 ✓ · SWIMSUIT ~55% · CL-TUNIC-4 ~20% · Cal-Y4 D5** |
+| 973 | [day-973.md](days/year-003/week-139/day-973.md) | **Crusher link hero** | **ORE-CRUSHER-LINK-1 ✓ · TRIP-HAMMER-1 ✓ · QUARTZ-FRIT ~620 g · Week 139 close** |
+| 974 | [day-974.md](days/year-003/week-140/day-974.md) | **Week 140 · frit batch** | **GP-974-FRIT-100 ✓ · SWIMSUIT-1 ✓ · Cal-Y4 D7** |
+| 975 | [day-975.md](days/year-003/week-140/day-975.md) | **Anneal · tunic · beach** | **GLASS-FRIT-GATE ✓ · CL-TUNIC-4 ✓ · home deploy · Cal-Y4 D8** |
+| 976 | [day-976.md](days/year-003/week-140/day-976.md) | **Glass bottle hero** | **GLASS-BOTTLE-1 ✓ · GP-976 @ bury · PUNTY-TRANSFER · Cal-Y4 D9** |
+| 977 | [day-977.md](days/year-003/week-140/day-977.md) | **Bottle repeat · lens** | **BOTTLE-2 ✓ · LENS-PROTO · tower queued · Cal-Y4 D10** |
+| 978 | [day-978.md](days/year-003/week-140/day-978.md) | **Lens experiment 2** | **LENS-MOLD ✓ · GP-978-LENS-2/3 · experiment slate · Cal-Y4 D11** |
+| 979 | [day-979.md](days/year-003/week-140/day-979.md) | **Tower foundation** | **WW-HUB-TOWER ~15% · footing ✓ · + confirmed · Cal-Y4 D12** |
+| 980 | [day-980.md](days/year-003/week-140/day-980.md) | **Tower structure** | **4 corners ✓ · socle ~55% · stone haul slate · Cal-Y4 D13** |
+| 981 | [day-981.md](days/year-003/week-140/day-981.md) | **Socle close** | **TOWER-SOCLE-RING ✓ · wing tie-in · Cal-Y4 D14** |
+| 982 | [day-982.md](days/year-003/week-141/day-982.md) | **Stone haul** | **STONE-HAUL-2 ✓ · Week 141 open · Cal-Y4 D15** |
+| 983 | [day-983.md](days/year-003/week-141/day-983.md) | **Max stone haul** | **STONE-HAUL-3 ✓ · TOWER-STONE-BANK ✓ · Cal-Y4 D16** |
+| 984 | [day-984.md](days/year-003/week-141/day-984.md) | **Corner course 2** | **TOWER-CORNER-COURSE-2 ✓ · through-stones · Cal-Y4 D17** |
+| 985 | [day-985.md](days/year-003/week-141/day-985.md) | **Wall shell** | **TOWER-WALL-SHELL-1 ✓ · lintels · Cal-Y4 D18** |
+| 986 | [day-986.md](days/year-003/week-141/day-986.md) | **Course 3 + upper** | **CAMPUS-EXPANSION read · height slate · Cal-Y4 D19** |
+| 987 | [day-987.md](days/year-003/week-141/day-987.md) | **Course 4 + bond beam** | **TOWER-SCALE-READ · BOND-BEAM ✓ · Cal-Y4 D20** |
+| 988 | [day-988.md](days/year-003/week-142/day-988.md) | **Material audit** | **STOCK-SANITY ✓ · Week 142 open · Cal-Y4 D21** |
+| 989 | [day-989.md](days/year-003/week-142/day-989.md) | **Calcium collect** | **CALCIUM-COLLECT ✓ · pile 7 ~27 kg · Cal-Y4 D22** |
+| 990 | [day-990.md](days/year-003/week-142/day-990.md) | **Wood haul + pit char** | **WOOD-HAUL-4 ✓ · PIT-CHAR-122 · Cal-Y4 D23** |
+| 991 | [day-991.md](days/year-003/week-142/day-991.md) | **Kiln sprint** | **KILN-A lime · KILN-B brick · 7 tiles · Cal-Y4 D24** |
+| 992 | [day-992.md](days/year-003/week-142/day-992.md) | **Tile sprint** | **21/22 tiles · ridge · mise en place · Cal-Y4 D25** |
+| 993 | [day-993.md](days/year-003/week-142/day-993.md) | **Tile batch 4** | **22/22 ✓ · ×6 surplus · plenum GREEN · Cal-Y4 D26** |
+| 994 | [day-994.md](days/year-003/week-142/day-994.md) | **Plenum + roof start** | **PLENUM ✓ · roof ~70% · WW-HUB ~97% · Cal-Y4 D27** |
+| 995 | [day-995.md](days/year-003/week-143/day-995.md) | **Tower close** | **ROOF ✓ · WEATHERTIGHT ✓ · WW-HUB 100% · Week 143 open · Cal-Y4 D28** |
+| 996 | [day-996.md](days/year-003/week-143/day-996.md) | **Oak floor** | **TOWER-OAK-FLOOR ✓ · sand-smooth · cart PASS · Cal-Y4 D29** |
+| 997 | [day-997.md](days/year-003/week-143/day-997.md) | **Tallow · whitewash** | **Interior live · dropcloth · bright hub · Cal-Y4 D30** |
+| 998 | [day-998.md](days/year-003/week-143/day-998.md) | **Campus airlocks** | **CHEM-LAB-AIRLOCK ✓ · tower sill mats · Cal-Y4 D31** |
+| 999 | [day-999.md](days/year-003/week-143/day-999.md) | **Clay haul · ceramic prep** | **~42 kg clay · CERAMIC-RUN slate · Cal-Y4 D32** |
+| 1000 | [day-1000.md](days/year-003/week-143/day-1000.md) | **Pit + press combo · Centadial 10 · Milladial 1** | **PIT-CHAR-123 ✓ · GREEN-PRESS ✓ · [Centadial 10](summaries/centadial-010.md) · [Milladial 1](summaries/milladial-001.md) · Cal-Y4 D33** |
+| 1001 | [day-1001.md](days/year-003/week-143/day-1001.md) | **Haul day 1** | **HAUL-CLAY-WOOD ✓ · Week 143 close · Cal-Y4 D34** |
+| 1002 | [day-1002.md](days/year-003/week-144/day-1002.md) | **Haul day 2** | **Collect sprint ✓ · Week 144 open · Cal-Y4 D35** |
+| 1003 | [day-1003.md](days/year-003/week-144/day-1003.md) | **Char + brick factory** | **~74 stackable · BUILD-STOCK slate · Cal-Y4 D36** |
+| 1004 | [day-1004.md](days/year-003/week-144/day-1004.md) | **Ice scout/haul · yearly calendar** | **~11 kg ice · SUN-CAL windows ✓ · Cal-Y4 D37** |
+| 1005 | [day-1005.md](days/year-003/week-144/day-1005.md) | **Pit + green press** | **×40 green · lane ~12 kg · wood AMBER · Cal-Y4 D38** |
+| 1006 | [day-1006.md](days/year-003/week-144/day-1006.md) | **Wood haul** | **WOOD-HAUL-1006 ✓ · pile 5 ~50 kg · Cal-Y4 D39** |
+| 1007 | [day-1007.md](days/year-003/week-144/day-1007.md) | **Pit + dual kiln fire** | **~109 stackable · ×18 TR · tile+brick ✓ · Cal-Y4 D40** |
+| 1008 | [day-1008.md](days/year-003/week-144/day-1008.md) | **Tile buffer sprint** | **×46 TR surplus · press+fire ×32 · Cal-Y4 D41** |
+| 1009 | [day-1009.md](days/year-003/week-145/day-1009.md) | **Week 145 open · wood haul** | **WOOD-HAUL-1009 ✓ · pile 5 ~44 kg · Cal-Y4 D42** |
+| 1010 | [day-1010.md](days/year-003/week-145/day-1010.md) | **Tile pit/press/fire cycle** | **×74 TR surplus · rhythm hold · Cal-Y4 D43** |
+| 1011 | [day-1011.md](days/year-003/week-145/day-1011.md) | **Tile cycle ×3** | **×102 TR · pile 5 empty · Cal-Y4 D44** |
+| 1012 | [day-1012.md](days/year-003/week-145/day-1012.md) | **Wood haul** | **WOOD-HAUL-1012 ✓ · pile 5 ~40 kg · Cal-Y4 D45** |
+| 1013 | [day-1013.md](days/year-003/week-145/day-1013.md) | **Sow prep · farm walk** | **SOW-PREP-SLATE ✓ · seed audit · stakes · Cal-Y4 D46** |
+| 1014 | [day-1014.md](days/year-003/week-145/day-1014.md) | **Bed scratch hero** | **A/B scratch ✓ · mulch ✓ · sow-ready · Cal-Y4 D47** |
+| 1015 | [day-1015.md](days/year-003/week-145/day-1015.md) | **Kiln audit · light brick press** | **KILN-TERRACE-AUDIT ✓ · ×40 green · repair d1016 · Cal-Y4 D48** |
+| 1016 | [day-1016.md](days/year-003/week-146/day-1016.md) | **Week 146 open · kiln repair · clay haul** | **KILN-B patch+ash ✓ · HAUL-CLAY ✓ · pile 1 ~40 kg · Cal-Y4 D49** |
+| 1017 | [day-1017.md](days/year-003/week-146/day-1017.md) | **Pit char · brick fire** | **PIT-CHAR-130 ✓ · KILN-B 35/40 ✓ · stackable ~144 · Cal-Y4 D50** |
+| 1018 | [day-1018.md](days/year-003/week-146/day-1018.md) | **Wood haul · green press** | **WOOD-HAUL-1018 ✓ · GREEN-PRESS ✓ · ~40 green · Cal-Y4 D51** |
+| 1019 | [day-1019.md](days/year-003/week-146/day-1019.md) | **Pit char · brick fire · factory close** | **PIT-CHAR-131 ✓ · ~179 stackable · PAUSE · reassess slate · Cal-Y4 D52** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -987,6 +1037,11 @@
 | **7** | 601–700 | [centadial-007.md](summaries/centadial-007.md) |
 | **8** | 701–800 | [centadial-008.md](summaries/centadial-008.md) |
 | **9** | 801–900 | [centadial-009.md](summaries/centadial-009.md) |
+| **10** | 901–1000 | [centadial-010.md](summaries/centadial-010.md) |
+
+| Milladial | Days | File |
+|-----------|------|------|
+| **1** | 1–1000 | [milladial-001.md](summaries/milladial-001.md) |
 
 See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md)
 
@@ -1123,7 +1178,8 @@ See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md
 | 136 | [week-136.md](weeks/week-136.md) | 946–952 | **Shelf-life · seed scout · wood · forge · pit · acorn leach** *(closed Day 952)* |
 | 137 | [week-137.md](weeks/week-137.md) | 953–959 | **TRIP-HEAD resume · acorn leach · dye trip slate** *(closed Day 959)* |
 | 138 | [week-138.md](weeks/week-138.md) | 960–966 | **Beach chair · TRIP push · DYE-TRIP ✓** *(closed Day 966)* |
-| 139 | [week-139.md](weeks/week-139.md) | 967+ | **TRIP mount band ✓ · mount + stripes · feast window** *(open Day 967)* |
+| 139 | [week-139.md](weeks/week-139.md) | 967–973 | **TRIP-HAMMER ✓ · crusher link · feast · beach kit · Week close @ d973** |
+| 140 | [week-140.md](weeks/week-140.md) | 974+ | **Frit batch · SWIMSUIT ✓ · GLASS scale** *(open Day 974)* |
 
 ## Day folders
 

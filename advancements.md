@@ -6,10 +6,50 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ## Summary
 
-**Day 969 · Cal-Y3 D367:** **BEACH-KIT ✓ · BEACH-CHAIR 100% · TOWEL-2 backup · yellow umbrella · teal chair · madder banked**
-**Day 968 · Cal-Y3 D366:** **TRIP-HEAD-MOUNT ✓ · first clang · palette red/yellow/teal · madder held**
+**Day 1019 · Cal-Y4 D52:** **PIT-CHAR-131 ✓ · KILN-B-BRICK-FIRE ✓ 35/40 · ~179 stackable · factory PAUSE · BUILD-REASSESS-SLATE ✓**
+**Day 1018 · Cal-Y4 D51:** **WOOD-HAUL-1018 ✓ · GREEN-PRESS ✓ · ~40 green · pile 5 ~40 kg · clay AMBER**
+**Day 1017 · Cal-Y4 D50:** **PIT-CHAR-130 ✓ · KILN-B-BRICK-FIRE ✓ 35/40 · stackable ~144 · patch holds · wood AMBER**
+**Day 1016 · Cal-Y4 D49:** **KILN-B-MORTAR-PATCH ✓ · KILN-B-ASH-DRAW ✓ · HAUL-CLAY ✓ · pile 1 ~40 kg · Week 146 open**
+**Day 1015 · Cal-Y4 D48:** **KILN-TERRACE-AUDIT ✓ · GREEN-PRESS ×40 green · KILN-B patch+ash queued d1016 · clay AMBER**
+**Day 1014 · Cal-Y4 D47:** **BED-SCRATCH hero ✓ · A S P-18 · B N lentil + S emmer · mulch · madder clean · sow-ready ~20 d**
+**Day 1006 · Cal-Y4 D39:** **WOOD-HAUL-1006 ✓ · pile 5 ~50 kg GREEN · Pine N deadfall · pit runway restored**
+**Day 1004 · Cal-Y4 D37:** **SUN-CAL-YEARLY-WINDOWS ✓ · ICE-SCOUT-HAUL-1004 ✓ · ~11 kg vault · thin lens**
+**Day 1002 · Cal-Y4 D35:** **Week 144 open · HAUL-CLAY-WOOD day 2 ✓ · pile 1 ~74 kg · pile 5 ~64 kg**
+**Day 1001 · Cal-Y4 D34:** **HAUL-CLAY-WOOD day 1 ✓ · Week 143 close · kiln fire deferred**
+**Day 1000 · Cal-Y4 D33:** **PIT-CHAR-123 ✓ · GREEN-PRESS-1000 ✓ · ×40 green · ×16 TR-H**
+**Day 999 · Cal-Y4 D32:** **HAUL-CLAY-999 ✓ · WOOD-GLEAN ✓ · CERAMIC-RUN-PREP · AIRLOCK-WING slate**
+**Day 998 · Cal-Y4 D31:** **CAMPUS-AIRLOCK-READ ✓ · CHEM-LAB-AIRLOCK-1 ✓ · tower S/N sill mats ✓**
+**Day 997 · Cal-Y4 D30:** **TOWER-FLOOR-TALLOW ✓ · TOWER-WALL-WHITEWASH ✓ · dropcloth doctrine · bright hub**
+**Day 996 · Cal-Y4 D29:** **TOWER-OAK-FLOOR-1 ✓ · sand-smooth · boot PASS · cart corridor on oak**
+**Day 995 · Cal-Y4 D28:** **Week 143 open · TOWER-ROOF ✓ · WEATHERTIGHT ✓ · VENT-POLE ✓ · WW-HUB-TOWER 100% · connector live**
+**Day 994 · Cal-Y4 D27:** **TOWER-PLENUM-CAP-1 ✓ · TOWER-ROOF-LAY-1 ~70% · height accept slate · WW-HUB ~97%**
+**Day 993 · Cal-Y4 D26:** **ROOF-TILE-TOWER-BATCH-4 ✓ · 22/22 gate · ×6 surplus · ROOF-TILE-TOWER-1 ✓**
+**Day 992 · Cal-Y4 D25:** **ROOF-TILE batches 2–3 ✓ · ridge ×2 · 21/22 · TOWER-MISE-EN-PLACE slate**
+**Day 991 · Cal-Y4 D24:** **KILN-SPRINT ✓ · vault draw · lime mortar · 36 brick · 7 roof tiles**
+**Day 990 · Cal-Y4 D23:** **WOOD-HAUL-4 ✓ ~42 kg · PIT-CHAR-122 ✓ · lane ~13 kg · kiln sprint AMBER**
+**Day 989 · Cal-Y4 D22:** **CALCIUM-COLLECT ✓ · pile 7 ~27 kg · terrace + weir + river bar · clay/wood glean**
+**Day 988 · Cal-Y4 D21:** **Week 142 open · TOWER-MATERIAL-AUDIT ✓ · brick ledger fixed · collect slate**
+**Day 987 · Cal-Y4 D20:** **TOWER-SCALE-READ · course 4 ✓ · TOWER-BOND-BEAM-1 ✓ · ~2.75 m clear · ~92%**
+**Day 986 · Cal-Y4 D19:** **TOWER-CORNER-COURSE-3 ✓ · upper shell ~70% · CAMPUS-EXPANSION-READ · TOWER-HEIGHT-SLATE · ~85%**
+**Day 985 · Cal-Y4 D18:** **TOWER-WALL-SHELL-1 ✓ · square lintels S/N · WW-HUB-TOWER ~72%**
+**Day 984 · Cal-Y4 D17:** **TOWER-CORNER-COURSE-2 ✓ · ×4 through-stones · WW-HUB-TOWER ~58% · wall shell next**
+**Day 983 · Cal-Y4 D16:** **STONE-HAUL-3 ✓ ~52 kg max · TOWER-STONE-BANK ✓ · ~93 kg total · gap closed**
+**Day 982 · Cal-Y4 D15:** **Week 141 open · STONE-HAUL-2 ✓ · ~41 kg · pile 4/8 replenished · tower stock GREEN**
+**Day 981 · Cal-Y4 D14:** **TOWER-SOCLE-RING ✓ · wing tie-in ✓ · WW-HUB-TOWER ~48% · pile 4 thin**
+**Day 980 · Cal-Y4 D13:** **WW-HUB-TOWER ~38% · 4 corners ✓ · socle ~55% · STONE-SOURCE-SLATE · GP-978-LENS-2 ✓**
+**Day 979 · Cal-Y4 D12:** **WW-HUB-TOWER footing ✓ · plan ✓ · NE corner · bottles @ rack L · + confirmed**
+**Day 978 · Cal-Y4 D11:** **LENS-MOLD-1 ✓ · GP-978-LENS-2/3 @ anneal · LENS-EXPERIMENT-SLATE · lens bench pause**
+**Day 977 · Cal-Y4 D10:** **GLASS-BOTTLE-2 ✓ · REPEAT-GATE ✓ · GP-977-LENS-1 proto · LENS-IMPROVE-SLATE · tower queued**
+**Day 976 · Cal-Y4 D9:** **GLASS-BOTTLE-1 ✓ · GP-976 @ bury · PUNTY-TRANSFER ✓ · frit bottle hero**
+**Day 975 · Cal-Y4 D8:** **GP-974-FRIT anneal PASS · GLASS-FRIT-BATCH-GATE ✓ · CL-TUNIC-4 ✓ · BEACH-KIT home ✓**
+**Day 974 · Cal-Y4 D7:** **Week 140 open · GP-974-FRIT-100 ✓ · GLASS-FRIT-BATCH ✓ · SWIMSUIT-1 ✓**
+**Day 973 · Cal-Y4 D6:** **ORE-CRUSHER-LINK-1 ✓ · TRIP-HAMMER-1 ✓ 100% · QUARTZ-FRIT ~620 g · Week 139 close**
+**Day 972 · Cal-Y4 D5:** **PIT-DUAL-972 ✓ · lane ~31.5 kg GREEN · SWIMSUIT-1 ~55% · CL-TUNIC-4 ~20%**
+**Day 971 · Cal-Y4 D4:** **CART-WOOD-HAUL-971 ✓ · pile ~34 kg GREEN · lane ~19 kg WATCH · pit dual GO**
+**Day 970 · Cal-Y4 D3:** **FEAST-970 ✓ · SUN-YULE-970 ✓ · SUN-CAL-Y3-CLOSE ✓ · chill plate · Cal-Y4 open**
+**Day 969 · Cal-Y4 D2:** **BEACH-KIT ✓ · BEACH-CHAIR 100% · TOWEL-2 backup · yellow umbrella · teal chair · madder banked**
+**Day 968 · Cal-Y4 D1:** **TRIP-HEAD-MOUNT ✓ · first clang · palette red/yellow/teal · madder held**
 **Day 967 · Cal-Y3 D365:** **Week 139 open · TRIP-HEAD mount band ✓ ~18.56 kg · hard block closes**
-**Day 966 · Cal-Y3 D364:** **DYE-TRIP-1 ✓ · MADDER-DIG-2 ~144 g dry · WOAD seed · crowns planted**
 **Day 966 · Cal-Y3 D364:** **DYE-TRIP-1 ✓ · MADDER-DIG-2 ~144 g dry · WOAD seed · crowns planted**
 **Day 965 · Cal-Y3 D363:** **PIT-DUAL-965 ✓ · BEACH-CHAIR ~70% sling · DYE-TRIP window open**
 **Day 964 · Cal-Y3 D362:** **IRON-BLOOM-46 ✓ · TRIP-HEAD ~17.60 kg (~88%) · mount band ~1 charge out**

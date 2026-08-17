@@ -2,6 +2,9 @@
 
 Rollups and benchmarks — not day-by-day logs.
 
+**Centadial** = one summary every **100 days** (*made-up but useful*).  
+**Milladial** = one summary every **1000 days** (*mille* / thousand — same family, not a millennial).
+
 | Centadial | Days | File |
 |-----------|------|------|
 | **1** | 1–100 | [centadial-001.md](centadial-001.md) |
@@ -12,8 +15,13 @@ Rollups and benchmarks — not day-by-day logs.
 | **6** | 501–600 | [centadial-006.md](centadial-006.md) |
 | **7** | 601–700 | [centadial-007.md](centadial-007.md) |
 | **8** | 701–800 | [centadial-008.md](centadial-008.md) |
+| **9** | 801–900 | [centadial-009.md](centadial-009.md) |
+| **10** | 901–1000 | [centadial-010.md](centadial-010.md) |
 
-**Centadial** = one summary every **100 days** (*made-up but useful*).  
+| Milladial | Days | File |
+|-----------|------|------|
+| **1** | 1–1000 | [milladial-001.md](milladial-001.md) |
+
 **Recipes:** [food-menu.md](../../food-menu.md)
 
 Daily timeline: [index.md](../index.md)

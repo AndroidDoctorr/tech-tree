@@ -1,31 +1,34 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 969** · **Cal-Y3 D367** · **Week 139 · BEACH-KIT ✓ · COAST test remain · madder banked*
+*Last updated: **Day 1019** · **Cal-Y4 D52** · **Week 146 · factory close · reassess slate**
 
 ---
 
-## Now @ Day 969
+## Now @ Day 1019
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **COAST deploy test · pit/haul · madder bank ~144 g · feast window** |
+| **Hero** | **STORAGE-SPRINT / resource banking · BUILD-PICK · sow ~15 d · factory PAUSE** |
 | **Seed bank** | **Fava ~31 g · P-18 ~59 g · wild grain ~27 g · thyme ~8 g · WOAD ~15 g (Cal-Y4 sow)** |
 | **Storage** | **SHELF-LIFE ✓ · GRAIN-BAY ~0.80 kg · parched ~9.43 kg · ACORN-ROAST-Y3 ~370 g** |
-| **Forge** | **TRIP-HAMMER ~85% · lane ~19 kg WATCH · pile ~0 kg · H-11 ~12.3 kg** |
-| **Beach kit** | **Chair ✓ · towel ×2 (red + natural) · umbrella ~98% yellow wedge · COAST test** |
-| **WW-YARD** | **STORE-4 N · CHEM-LAB S · center gap = tower + linen path** |
+| **Forge** | **~179 stackable · ×102 TR · factory PAUSE · clay ~22 kg AMBER · wood ~4 kg AMBER** |
+| **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip backlog** |
+| **WW-YARD** | **STORE-4 N · CHEM-LAB S · WW-HUB-TOWER ✓ · oak floor · whitewash · connector live** |
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
-| **STOCK-REPLENISH** | **Paused @ ~49 stackable · ~141 green** |
+| **STOCK-REPLENISH** | **✓ drawable class ~179 brick · ×102 TR · BUILD-REASSESS-SLATE ✓ · storage sprint option** |
 | **Lab wear** | **CL-LAB-TUNIC-1 ✓ @ lime peg** |
-| **→ Harvest hard block** | **✓ closed d967 · feast class opens · EMMER ✓ · P-17 ✓** |
+| **→ Harvest hard block** | **✓ closed d967 · FEAST-970 ✓ d970 · SUN-CAL-Y3-CLOSE ✓ · EMMER ✓ · P-17 ✓** |
 
 ### Season clocks
 
-| Clock | Days | Cal-Y3 | Notes |
-|-------|------|--------|-------|
-| **→ Autumn harvest** | **~943–967** | **D341–365** | **Hard block** — no casual trips |
-| **→ Feast / Yule eve** | **~967–968** | **D365** | **~216 d from Day 797** |
-| **→ Cal-Y4 opens** | **~969+** | post-feast | — |
+| Clock | Days | Cal | Notes |
+|-------|------|-----|-------|
+| **→ ICE haul ideal** | **~998–1023** | **Y4 D30–D55** | **✓ thin haul d1004 @ D37 · next year scout @ D30 · max @ D49–D51** |
+| **→ Spring sow window** | **~1034–1052** | **Y4 D67–D85** | **Beds scratch ✓ d1014 · sow-ready · frost gate ~15 d** |
+| **→ EXPED / cart trips** | **~1048–1248** | **Y4 D80–D280** | **Dry season · see [sun-calendar.md](sun-calendar.md) yearly bands** |
+| **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **Hard block** — no casual trips |
+| **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **Solstice pin @ C-0 · 46/42** |
+| **Yearly windows** | **—** | **All Cal-Y** | **✓ SUN-CAL-YEARLY-WINDOWS-1004 @ C-0 + slate** |
 
 ### Priority stack *(reprioritized Day 812)*
 
@@ -209,7 +212,7 @@
 | **7** | **LAB-VENT-FAN-1** | **2–3 d** | Soft | Hood chase · WW belt or crank |
 | **8** | **GLASS-PRACTICE-1** | **interleave** | — | Local M-10 baseline → Belen chips after **1+4** |
 | **9** | **Glass vessels / labware** | **2–4 d** | — | After anneal routine stable |
-| **10** | **CHEM-LAB-AIRLOCK porch** | **1–2 d** | — | Dust buffer · can interleave |
+| **10** | **CHEM-LAB-AIRLOCK-1** | **✓ d998** | — | **Porch @ lab N · tower S/N mats · STORE S queued** |
 | **11** | **STORAGE-JAR-SET-1** | **1 d** | — | Reagent overflow |
 | **12** | **CL-LAB-WEAR ×2** | **loom interleave** | — | Rotation tunics · optional |
 
@@ -339,7 +342,7 @@
 | **HIDE-TRIM-SCRAP** @ peg | **~1.8 m²** | **~2.0 m²** wraps | **−~0.2 m²** | **GOAT-HUNT-6 ✓ d829 ~0.97 m²** |
 | **GOAT-HUNT-519** @ W-1 | **~0.9 m²** | Reserve | — | **Do not strip for belt** |
 | **Beeswax scrap** @ v1 | **~18 g** | **~8 g** lace | OK | **−8 g @ lace day** |
-| **TALLOW-1** @ v1 | **~165 g** | **~25 g** dressing | OK | **−25 g @ lace day** |
+| **TALLOW-1** @ v1 | **~153 g** | **~25 g** dressing | OK | **−12 g tower floor d997** |
 | **Oak** @ pile 5 | **WW-WOOD 100%** | posts · pulleys · wheel | OK | **~2.9 kg pulleys d828 · logged per phase** |
 | **Cu scrap** | **~12 g** peas | **0** *(pulleys oak-pin)* | OK | **—** |
 
@@ -402,7 +405,7 @@
 | **2** | **WW-1-CAM-1** | **1 d** | **~2 d** | Cam/lift off wheel rim · **belt clearance** recheck · lift **~25–35 cm** class |
 | **3** | **TRIP-ANVIL-STUB-1** | **½ d** | **~2.5 d** | Oak block · **iron face plate** · bed level @ WW pad |
 | **4** | **TRIP-HAMMER-1 v1** | **1–1½ d** | **~4 d** | **~18–22 kg** iron head · wrist pin · fall rhythm tune |
-| **5** | **ORE-CRUSHER-LINK-1** | **1 d** | **~5 d** | Mortar bowl under fall · **grog screen** · feeds **quartz frit** |
+| **5** | **ORE-CRUSHER-LINK-1** | **1 d** | **~5 d** | **✓ d973 · mortar bowl · grog screen · ~620 g frit PASS** |
 | **6** | **Migrate WW-2** | **Horizon** | — | Upstream sluice · **GS-2** · dual-wheel when live |
 
 **Suggested start:** **Day 825+ class** after pour-gear + first crucible fire — interleave **Phase 1 stub** on **Kiln B cure** days.
@@ -474,7 +477,8 @@
 | ☐ | **LATRINE-SEAT-1** | Oak box + chute @ DR-LT-01 | **✓ d934 live @ DR-SP-01** |
 | ☐ | **STONE-WALL-SR-S1** | **~28 m Bed D/pen S · SR-S1-01–04 ghost d917 · animal + weed barrier** |
 | ☐ | **STONE-WALL-SR-W1** | **~42 m campus W · SR-W1-01–05 ghost d917 · terrace toe grammar** |
-| ☐ | **WW-HUB-TOWER-1** | Center gap STORE↔LAB · ~2 m · heat/light plenum | **Slate d884 · after wall breathe** |
+| ✓ | **WW-HUB-TOWER-1** | Center gap STORE↔LAB · ~2.75 m clear · heat/light plenum | **✓ interior live · oak · tallow · whitewash · connector on oak** |
+| ☐ | **STONE-HAUL-2** | T-2 creek below BRIDGE-1 · FS-class blocks | **✓ d982–983 · ~93 kg total · TOWER-STONE-BANK ✓ · gap closed** |
 | ☐ | **LINEN-WING-1** | Dry indoor · hackle/spin/loom | **E stub slate · after tower shell** |
 | ☐ | **LM-3-SAIL-LOOM-1** | Wide beam · sail grammar · LOOM-WING | **Slate d888 · after BOAT-1 + flax m² · Cal-Y4+ class** |
 | ☐ | **LINEN-WORK** | Repair draw · named weave only | **~234 m fine hold d888 · LM-2 sufficient** |
@@ -483,7 +487,7 @@
 | ✓ | **WHEEL-SPIN-10** | Full bank wheel pull | **✓ d886 · line depleted** |
 | ✓ | **WW-1-CAM-1** | Rim cam · lift · fall rhythm | **✓ d890 · ~30 cm · slow-spin PASS** |
 | ✓ | **WW-1-TRIP-STUB-1** | Pivot · lever · cam | **✓ d889–890 · powered fall live** |
-| ☐ | **TRIP-HAMMER-1** | Head weld · mount · tune | **✓ d968 head mounted · first clang · ~85% · ORE-CRUSHER-LINK optional** |
+| ☐ | **TRIP-HAMMER-1** | Head weld · mount · tune · crusher link | **✓ d973 · 100% · ORE-CRUSHER-LINK-1 ✓ · WW-2 migrate horizon** |
 | ✓ | **M-22-REPEAT-HAUL-2** | 2-day wagon max @ M-22-UP | **✓ d891–892 · ~10.8 kg · lens heavily worked** |
 | ✓ | **HAUL-IRON-5** | **d930–933 · split trip · modest H-11 + M-22 scout · 4/5 d | **✓ d933 · ~56.4 kg H-11 @ pile 4** |
 | ☐ | **IRON-ORE-SCOUT-2** | 3–4 d · Camp-1 base · foot radial · new body mark | **Vectors 1–2 ✓ d931 · M-22-TALUS-S1 + M-22-LAT-W750 · full radial deferred** |
@@ -494,11 +498,11 @@
 | ✓ | **FLAX-BREAK-3** | Break · scutch | **✓ d878 · ~520 g @ W-1 · hackle queued** |
 | ✓ | **LANTERN-PANE-FRAME-1** | Sand-table ~6×8 pour mold | **✓ d879 · form-fit PASS · GP-876 pour d880** |
 | ☐ | **BOTTLE-WEEK-124** | Iron neck/seat *(paused)* | **GP-868 @ rack G · resume optional** |
-| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · linen canopy · sand pegs ×4 | **[~] ~98% · UMB-STRIPE-DYE-969 ✓ yellow wedge · COAST test** |
+| ☐ | **BEACH-UMBRELLA-1** | Split-oak frame · linen canopy · sand pegs ×4 | **✓ d975 · home deploy PASS · COAST sand trip backlog** |
 | ☐ | **BEACH-TOWEL-1** | **LM-3 wide strip** or felted wool · **≥150×80 cm** class | **✓ d854 · ~156×80 cm · longwise madder stripe** |
 | ☐ | **BEACH-TOWEL-2** | **Backup · plain natural** | **✓ d969 · ~156×80 cm @ v1 FIBER peg** |
 | ☐ | **STRIPED-TOWEL-DYE-1** | Clay/wax **dye trough** · dowel dip · madder/grape/iron bands | **✓ d854 accordion bind grammar** |
-| ☐ | **SWIMSUIT-1** | Minimal **linen brief** or short tunic | LM-2 ✓ |
+| ☐ | **SWIMSUIT-1** | Minimal **linen brief** or short tunic | **✓ d974 · ~38×28 cm natural brief @ beach peg** |
 | ☐ | **BEACH-MAT-1** | Reed **+** hide backing roll · sand barrier | Reed ✓ |
 | ☐ | **BEACH-CHAIR-1** | Low **oak + linen sling** · folding peg grammar | **✓ d969 · teal stripe sling · 100%** |
 | ☐ | **SUN-HAT-2** | **CL-HAT** upgrade · wider brim · chin cord | CL-HAT ✓ |

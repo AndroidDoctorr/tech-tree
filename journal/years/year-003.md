@@ -18,4 +18,4 @@
 
 **Prior year:** [year-002.md](year-002.md) · **Live priorities:** [schedule.md](../../schedule.md) · [inventory.md](../../inventory.md) · [map.md](../../map.md)
 
-*Full Year 3 summary when Cal-Y3 closes @ feast eve (~Day 969 class).*
+*Full Year 3 summary @ **SUN-CAL-Y3-CLOSE ✓ Day 970** · **Cal-Y4** opens Day 968.*
