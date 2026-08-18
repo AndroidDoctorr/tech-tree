@@ -1,21 +1,22 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1019** · **Cal-Y4 D52** · **Week 146 · factory close · reassess slate**
+*Last updated: **Day 1068** · **Cal-Y4 D101** · **Week 153 · ×64 green drying · fire d1069+*
 
 ---
 
-## Now @ Day 1019
+## Now @ Day 1068
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **STORAGE-SPRINT / resource banking · BUILD-PICK · sow ~15 d · factory PAUSE** |
-| **Seed bank** | **Fava ~31 g · P-18 ~59 g · wild grain ~27 g · thyme ~8 g · WOAD ~15 g (Cal-Y4 sow)** |
-| **Storage** | **SHELF-LIFE ✓ · GRAIN-BAY ~0.80 kg · parched ~9.43 kg · ACORN-ROAST-Y3 ~370 g** |
-| **Forge** | **~179 stackable · ×102 TR · factory PAUSE · clay ~22 kg AMBER · wood ~4 kg AMBER** |
+| **Hero** | **GREEN-TOUCH-TEST d1069 · KILN-B fire · brick sprint · gap ~59** |
+| **Factory** | **×64 green drying · pile 1 ~12.5 kg · stackable ~197** |
+| **Forge** | **Lane ~7.8 kg · pile 5 ~81 kg · vault ~68.6 kg** |
+| **Apiary** | **HIVE-1 hands-off · pollinator DEFER** |
+| **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ fired transport #4 · frit ~120 g** |
 | **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip backlog** |
 | **WW-YARD** | **STORE-4 N · CHEM-LAB S · WW-HUB-TOWER ✓ · oak floor · whitewash · connector live** |
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
-| **STOCK-REPLENISH** | **✓ drawable class ~179 brick · ×102 TR · BUILD-REASSESS-SLATE ✓ · storage sprint option** |
+| **STOCK-REPLENISH** | **✓ STORAGE-SPRINT CLOSE · overflow queue filed d1027 · horreum post-sow** |
 | **Lab wear** | **CL-LAB-TUNIC-1 ✓ @ lime peg** |
 | **→ Harvest hard block** | **✓ closed d967 · FEAST-970 ✓ d970 · SUN-CAL-Y3-CLOSE ✓ · EMMER ✓ · P-17 ✓** |
 
@@ -24,8 +25,9 @@
 | Clock | Days | Cal | Notes |
 |-------|------|-----|-------|
 | **→ ICE haul ideal** | **~998–1023** | **Y4 D30–D55** | **✓ thin haul d1004 @ D37 · next year scout @ D30 · max @ D49–D51** |
-| **→ Spring sow window** | **~1034–1052** | **Y4 D67–D85** | **Beds scratch ✓ d1014 · sow-ready · frost gate ~15 d** |
-| **→ EXPED / cart trips** | **~1048–1248** | **Y4 D80–D280** | **Dry season · see [sun-calendar.md](sun-calendar.md) yearly bands** |
+| **→ Spring sow window** | **~1034–1052** | **Y4 D67–D85** | **✓ SPRING-SOW-Y4 d1034 · FROST-GATE-Y4 OPEN · scare-only · ~2 d tail** |
+| **→ APIARY / swarm window** | **~1057–1087** | **Y4 D90–D120** | **WEEK-151 sprint · kit d1051–1056 · scout d1057+ · veil required** |
+| **→ EXPED / cart trips** | **~1047–1247** | **Y4 D80–D280** | **Opens ~10 d @ D70 · dry season band** |
 | **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **Hard block** — no casual trips |
 | **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **Solstice pin @ C-0 · 46/42** |
 | **Yearly windows** | **—** | **All Cal-Y** | **✓ SUN-CAL-YEARLY-WINDOWS-1004 @ C-0 + slate** |
@@ -47,7 +49,7 @@
 | **6** | **HOME-COMFORT / wardrobe** | **Interleave** | **Shoes · socks · tunic · laundry on cure days** |
 | **7** | **BEACH / COAST craft** | **Post quartz haul** | **Chair · umbrella · towel — downtime reward** |
 | **8** | **STOCK-REPLENISH · STONE** | **When pipeline breathes** | **Brick · dress stone** |
-| **9** | **APIARY-1** | **Site ✓ d907 · build spring+** | **Skep · scout · capture · care queue filed** |
+| **9** | **APIARY-1** | **✓ HIVE-1 d1059** | **Queen · skep · pad · care · honey year two+** |
 
 ### Loose ends & deferred *(not abandoned — ranked)*
 
@@ -63,16 +65,16 @@
 | **HORSE-SCOUT / BOAT-1** | **Horizon** | Optional mouth recon · not blocking tin land route |
 | **MADDER-DIG-2 + MADDER-BED** | **✓ d966** | **MADDER-DIG-2 ~144 g dry · crowns ×4 planted · UMB/CHAIR stripe GO · WOAD seed Cal-Y4 spring** |
 
-### APIARY pipeline *(filed Day 907 · site staked · no build yet)*
+### APIARY pipeline *(WEEK-151 LIVE Day 1051 · site staked d907)*
 
-| # | ID | Est. | Notes |
-|---|-----|------|-------|
-| **0** | **APIARY-PAD-1** | **site ✓ d907** | **Bed D SE ~2.5×2 m · W-CHAN drip stub · reserve GARDEN-ORCHARD after path crowns** |
-| **1** | **REED-SKEP-1** | **1–2 d** | Wicker coil ~40 L · mud/pitch lip optional |
-| **2** | **SMOKER-1 + VEIL-1** | **½–1 d** | Smolder pot · linen veil · practice @ HOME before open hive |
-| **3** | **HIVE-SCOUT-1** | **1 d** | Wild colony recon · pistachio/olive/gorge · **spring swarm window** |
-| **4** | **SWARM-CAPTURE-1** | **1 d** | Bait skep · evening grammar · veil required |
-| **5** | **HIVE-CARE-1** | **ongoing** | Weekly calm-day pass · leave winter stores · harvest surplus year two+ |
+| # | ID | Est. | Status @ d1051 | Notes |
+|---|-----|------|----------------|-------|
+| **0** | **APIARY-PAD-1** | **½ d** | **✓ d1054 AG-AP-01** | **Stand ~60 cm · moat · W-CHAN drip · SKEP-1 mounted** |
+| **1** | **REED-SKEP-1** | **1–2 d** | **✓ d1053 ~40 L @ pad** | **Throat ~120 mm · mud lip crown · stand before capture set** |
+| **2** | **SMOKER-1 + VEIL-1** | **½–1 d** | **✓ d1055 · practice PASS** | **Fired bowl · reed tube · smolder pack · linen veil · CL-GLOVE-H cuff** |
+| **3** | **HIVE-SCOUT-1** | **1 d** | **✓ d1057 HIVE-SITE-GW-01** | **Gorge W colony · crevice 3.6 m · capture @ flight line · not cut-out** |
+| **4** | **SWARM-CAPTURE-1** | **1 d** | **✓ d1059** | **Cast ~3.8k · QUEEN-PASS · HIVE-1 @ AG-AP-01** |
+| **5** | **HIVE-CARE-1** | **ongoing** | **✓ OPEN d1059** | **Hands-off hold · weekly calm pass · no harvest year one** |
 
 **Rejected apiary sites:** C-0 (H-V3 court) · WW-YARD (smoke) · H-v2 N terrace (masonry traffic).
 
@@ -547,6 +549,24 @@
 | ☐ | **Pack checklist run** | Day-before vacation |
 
 **Pull triggers:** burnout · **glass vessel ✓** · bronze pour · feast prep · *you want absurdity*.
+
+---
+
+## STOCK-REPLENISH-2 *(filed Day 1027 · post-sprint · pre/post sow interleave)*
+
+**Doctrine:** **STORE-4 north face ↔ WW-HUB-TOWER corridor** — labeled vertical stacks · no floor piles · dry under tile eaves.
+
+**Horreum:** **H-V3-NORTH-HORREUM-1 chamber A ✓ LIVE + stocked d1064 · KILN-A-LIME ✓ · full ghost B/C horizon**.
+
+| # | ID | Est. | Gate | Notes |
+|---|-----|------|------|-------|
+| **1** | **AMPHORA-4** | **✓ d1033 fired** | **Transport #4 · M-08 pitch optional d1034+** |
+| **2** | **IRON-NAILS-BATCH** | **✓ d1028 · d1031 · d1061 · d1062** | **×72 tray · fit-out comfortable · optional ×1 for full audit** |
+| **3** | **WOOD-HAUL** | **✓ d1029** | **—** | **~34 kg @ pile 5 · ~6 kg crate billets staged** |
+| **4** | **WOOD-CRATE-2+** | **~1 d each** | **Nails** | **✓ WOOD-CRATE-2 d1030 · WOOD-CRATE-3 d1036 · ×0 nails · batch before #4** |
+| **5** | **GLASS-BOTTLE-3** | **✓ d1033 CLOSE** | **—** | **×3 @ rack L · frit ~120 g remain** |
+| **—** | **H-V3-NORTH-HORREUM-1** | **A stocked** | **d1064+** | **Chamber A ✓ stocked · stock #2 · B/C future · lime runway improved** |
+| **—** | **APIARY-1** | **LIVE** | **d1051+** | **WEEK-151 sprint · scout @ d1057 · window D90–D120** |
 
 ---
 

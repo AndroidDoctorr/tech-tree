@@ -4,7 +4,7 @@
 **Home:** **H-v2** · **Respawn:** H-v2 PROPER-BED-1  
 **Theme:** **Kiln B repair · brick factory resume · sow countdown**
 
-**Status:** **OPEN @ Day 1016**
+**Status:** **CLOSED @ Day 1022**
 
 ---
 
@@ -27,9 +27,9 @@ Week one hundred forty-six opens on **Day 1016** (**Cal-Y4 D49**) with **KILN-B 
 | **0** | **KILN-B maintenance** | **✓ d1016 mortar + ash · ✓ d1017 fire · patch holds** |
 | **1** | **Brick factory** | **✓ ~179 stackable d1019 · PAUSE @ factory close** |
 | **2** | **Clay/wood bank** | **Clay ~22 kg AMBER · wood ~4 kg AMBER · not factory-critical** |
-| **3** | **SPRING-SOW-Y4** | **~1034 frost gate · ~15 d @ d1019** |
+| **3** | **SPRING-SOW-Y4** | **~1034 frost gate · ~13 d @ d1021** |
 | **4** | **Tile surplus** | **×102 TR hold · wing runway ✓** |
-| **5** | **STORAGE-SPRINT / BUILD-PICK** | **Slate d1019 · bowls · pots · baskets · boxes · bottles · wing choice** |
+| **5** | **STORAGE-SPRINT / HORREUM** | **Sprint day 1 ✓ d1021 · H-V3-NORTH-HORREUM ~175–205 brick · interleave** |
 
 ---
 
@@ -47,21 +47,20 @@ Week one hundred forty-six opens on **Day 1016** (**Cal-Y4 D49**) with **KILN-B 
 | 1017 | **Cal-Y4 D50 · PIT-CHAR-130 ✓ · KILN-B brick 35/40 ✓ · stackable ~144 · patch holds** |
 | 1018 | **Cal-Y4 D51 · WOOD-HAUL-1018 ✓ · GREEN-PRESS ✓ · ~40 green · pile 5 ~40 kg · clay AMBER** |
 | 1019 | **Cal-Y4 D52 · PIT-CHAR-131 ✓ · brick 35/40 ✓ · ~179 stackable · factory PAUSE · reassess slate** |
+| 1020 | **Cal-Y4 D53 · HAUL-CLAY ✓ · CALENDAR-READ · COURTYARD-PHASE-SLATE ✓ · pile 1 ~54 kg** |
+| 1022 | **Cal-Y4 D55 · STORAGE-SPRINT day 2 · pots ×2 · BOX-DRY-1 · basket #10 · ×6 green queued** |
 
 ---
 
-## Camp @ Day 1019
+## Camp @ Day 1022 close
 
 | System | Status |
 |--------|--------|
-| **Drawable brick** | **~179 stackable · factory PAUSE** |
-| **Drawable tile** | **×102 TR surplus** |
-| **Clay / wood** | **Pile 1 ~22 kg AMBER · pile 5 ~4 kg AMBER** |
-| **Kiln B** | **Idle · patch holds · lane thin** |
-| **Farm** | **Beds sow-ready · ~15 d to gate** |
-| **Pivot** | **BUILD-REASSESS-SLATE ✓ · STORAGE-SPRINT option** |
-| **Calendar** | **Cal-Y4 D52** |
+| **Drawable brick** | **~179 · horreum est ~175–205** |
+| **Sprint** | **Day 2 ✓ · ×6 green pottery · BOX-DRY-1 · baskets #8–10** |
+| **Clay** | **Pile 1 ~45 kg GREEN** |
+| **Farm** | **SOW ~1034 · ~12 d** |
 
 ---
 
-*Week 146 · One-seventy-nine stackable · factory closed · bank or build next.*
+*Week 146 closed @ 1022. Sprint day 2 ✓. Week 147 opens bank/build interleave.*

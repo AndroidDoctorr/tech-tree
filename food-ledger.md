@@ -189,7 +189,7 @@ At **~0.7–1.0 kg mixed dry equivalent / day** from stores alone: **~45+ person
 | Resource | Status | Farm/hunt move |
 |----------|--------|----------------|
 | **Wild pig / boar** | **Background** (year-001-plan) | **PIT-TRAP-2** wooded slope · **saltbush bait** — supplementary · **hard solo** |
-| **Bees / honey** | **APIARY-PAD-1 ✓ d907 @ Bed D SE** | **Build queue filed · HIVE-SCOUT-1 spring · reed skep @ pad — see [food-menu.md](food-menu.md)** |
+| **Bees / honey** | **HIVE-1 ✓ d1059 @ AG-AP-01 · cast from GW-01 · no harvest year one** | **HIVE-CARE-1 open · honey year two+ — see [food-menu.md](food-menu.md)** |
 | **Aurochs** | **20–60 km** | Hunt · not farm — ox horizon |
 | **Sheep** | **30–100+ km** | Post-coast scout |
 | **Olive oil** | **No press** | **P-02-PRESS-1** — fat unlock for cooking + lamp |
@@ -218,7 +218,7 @@ P-03 / P-02:            [ grape trellis · olive haul cycle ]
 | **Pistachio wild** | **Hoard · not campus annual** | Occasional haul |
 | **Goat gorge** | **Pause when kid sign** | Hunt meat · not steady |
 | **Wild pig** | **Untapped** | Hard · trap grammar |
-| **Bees** | **Pad staked d907 · no hive** | **APIARY-1 pipeline · spring scout/capture** |
+| **Bees** | **HIVE-1 ✓ ~3.8k @ AG-AP-01 d1059** | **QUEEN-PASS · HIVE-CARE-1 · honey horizon year two+** |
 | **Coast kelp/salt/fish** | **COAST-SCOUT horizon** | Expands preserve inputs |
 | **Chickpea/fava** | **P-18-SEL-1 in vault · autumn sow queued** | **Bed A south ~Day 880–920** |
 | **Bed A arable** | **Idle** | **Best farm ROI for volume** |

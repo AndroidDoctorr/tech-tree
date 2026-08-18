@@ -6,6 +6,55 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ## Summary
 
+**Day 1068 · Cal-Y4 D101:** **HAUL-CLAY-1068 ✓ ~30 kg · GREEN-PRESS-1068 ✓ ×40 · ×64 green drying**
+**Day 1067 · Cal-Y4 D100:** **STOCK-BRICK-SPRINT lap 1 · GREEN-PRESS-1067 ×24 · clay AMBER · HAUL-CLAY ~d1068**
+**Day 1066 · Cal-Y4 D99:** **PIT-CHAR-114 ✓ · HORREUM-A-STOCK-MOVE-2 ✓ · lane ~7.8 kg GREEN**
+**Day 1065 · Cal-Y4 D98:** **Week 153 open · WOOD-HAUL-1065 ✓ · APIARY-WEEKLY-READ-1 ✓ · POLLINATOR-TRANSPLANT-DEFER**
+**Day 1064 · Cal-Y4 D97:** **HORREUM-A-STOCK-MOVE-1064 ✓ · KILN-A-LIME-1064 ✓ · HORREUM-RHYME-1064 · lane empty**
+**Day 1063 · Cal-Y4 D96:** **HORREUM-A-FIT-OUT-1 ✓ · HORREUM-A-WHITEWASH-1 ✓ · chamber A LIVE · AMPHORA-RESERVE-A deployed**
+**Day 1062 · Cal-Y4 D95:** **IRON-NAILS-BATCH-1062 ✓ ×36 hero #2 · tray ×72 · fit-out comfortable · vault top-up**
+**Day 1061 · Cal-Y4 D94:** **IRON-NAILS-BATCH-1061 ✓ ×36 hero day · LIME-RUNWAY-READ-1061 · fit-out GO**
+**Day 1060 · Cal-Y4 D93:** **HAUL-LIME + WOOD ✓ · horreum lime staged · PAUSE lifted · pollinator slate · APIARY-WEEKLY-READ-1**
+**Day 1059 · Cal-Y4 D92:** **QUEEN-PASS ✓ · HIVE-1 @ AG-AP-01 · SWARM-CAPTURE-1 ✓ · HIVE-CARE-1 open**
+**Day 1058 · Cal-Y4 D91:** **SWARM-CAPTURE-1 ~85% · cast ~4k @ SKEP-1 · gentle · overnight @ gorge · Week 152 open**
+**Day 1057 · Cal-Y4 D90:** **HIVE-SCOUT-1 ✓ · HIVE-SITE-GW-01 @ gorge W · swarm window opens · capture slate**
+**Day 1056 · Cal-Y4 D89:** **APIARY-PPE-KIT CLOSE ✓ · tray · GO-BAG · rehearsal ×4 · scout slate · bait staged**
+**Day 1055 · Cal-Y4 D88:** **SMOKER-1 ✓ · VEIL-1 ✓ · APIARY-PPE-1 · HOME smoke practice PASS**
+**Day 1054 · Cal-Y4 D87:** **APIARY-PAD-1 ✓ · stand · moat · drip · SKEP-1 @ height · AG-AP-01**
+**Day 1053 · Cal-Y4 D86:** **REED-SKEP-1 ✓ · ~40 L · neck · rim · mud lip · SKEP-1 @ pad**
+**Day 1052 · Cal-Y4 D85:** **REED-SKEP-1 coil d1 ✓ · ~45% · ~18 L class · withe bind · mandrel @ pad**
+**Day 1051 · Cal-Y4 D84:** **APIARY-WEEK-151 slate ✓ · mat audit ✓ · reed haul ✓ · veil ~55% · smoker ~35% · horreum PAUSE**
+**Day 1050 · Cal-Y4 D83:** **HORREUM-A floor ✓ · SEED-READ all slated sown · nails ×0**
+**Day 1049 · Cal-Y4 D82:** **WEATHER-READ rain ~24–36 h · HORREUM-A roof ✓ weathertight**
+**Day 1048 · Cal-Y4 D81:** **HORREUM-A bond beam ✓ · door lintel ✓ · wythe ~92%**
+**Day 1047 · Cal-Y4 D80:** **GREEN-TOUCH-TEST PASS · KILN-B-BRICK-FIRE ✓ 36/40 · stackable ~197**
+**Day 1046 · Cal-Y4 D79:** **HORREUM-A wythe hero ✓ · ~58% · S/E/N/W legs**
+**Day 1045 · Cal-Y4 D78:** **GREEN-PRESS ×40 ✓ · wythe hero d1046 queued**
+**Day 1044 · Cal-Y4 D77:** **WOOD-HAUL ✓ · Week 150 open · pile 5 ~46 kg GREEN**
+**Day 1043 · Cal-Y4 D76:** **HAUL-CLAY ✓ · PIT-CHAR-136 ✓ · factory runway restored**
+**Day 1042 · Cal-Y4 D75:** **GREEN-TOUCH-TEST PASS · KILN-B-BRICK-FIRE ✓ 36/40 · stackable ~161**
+**Day 1041 · Cal-Y4 D74:** **FACTORY-UNPAUSE ✓ · PIT-CHAR-135 ✓ · GREEN-PRESS ×40 ✓**
+**Day 1040 · Cal-Y4 D73:** **HORREUM-A Stage 0 ✓ · socle ✓ · wythe ~20% · P-18 watch open**
+**Day 1039 · Cal-Y4 D72:** **HORREUM-A pad ✓ · socle ~65% · drain E ~85% · Stage 0 ~85%**
+**Day 1038 · Cal-Y4 D71:** **HORREUM-A Stage 0 ~55% ✓ · stake · pad · mat staging · APIARY-WAX slate**
+**Day 1037 · Cal-Y4 D70:** **IRON-NAILS ×18 ✓ · WOOD-HAUL-1037 ✓ · HORREUM-MAT-AUDIT ✓ · Week 149 open**
+**Day 1036 · Cal-Y4 D69:** **MULCH-FINISH-Y4 ✓ · WOOD-CRATE-3 ✓ slot 2 · Week 148 close · nails ×0**
+**Day 1035 · Cal-Y4 D68:** **PIT-CHAR-134 ✓ · FARM-READ-Y4 GREEN · BED-EXPANSION-SLATE filed**
+**Day 1034 · Cal-Y4 D67:** **FROST-GATE-Y4 ✓ OPEN · SPRING-SOW-Y4 ✓ · emmer · fava · P-18 · woad margin · hands-off farm**
+**Day 1033 · Cal-Y4 D66:** **GP-1031 tap ✓ · GLASS-BOTTLE-3 CLOSE · AMPHORA-FIRE-4 ✓ · transport #4**
+**Day 1032 · Cal-Y4 D65:** **DRY-HOLD ✓ · GP-1031 @ bury · AMPHORA-4 dry d2/3 · tap/fire d1033 queued**
+**Day 1031 · Cal-Y4 D64:** **IRON-NAILS-BATCH-1031 ✓ ×24 · GLASS-BOTTLE-3 @ bury · frit ~120 g · lane ~2.1 kg**
+**Day 1030 · Cal-Y4 D63:** **WOOD-CRATE-2 ✓ · AMPHORA-4 handles ~98% green complete · Week 148 open**
+**Day 1029 · Cal-Y4 D62:** **WOOD-HAUL-1029 ✓ · pile 5 ~34 kg · ~6 kg crate billets · Week 147 close**
+**Day 1028 · Cal-Y4 D61:** **IRON-NAILS-BATCH-1028 ✓ ×20 · AMPHORA-4 ~85% · crate wood gate**
+**Day 1027 · Cal-Y4 D60:** **PIT-CHAR-133 ✓ · lane ~10.7 kg · AMPHORA-4 ~62% · STORAGE-OVERFLOW-SLATE · horreum post-sow**
+**Day 1026 · Cal-Y4 D59:** **WOOD-HAUL-1026 ✓ · pile 5 ~40 kg GREEN · char rebuild queued · vault ~12 kg**
+**Day 1025 · Cal-Y4 D58:** **POT-STORAGE-FIRE ✓ 4/4 · STORAGE-SPRINT-1 CLOSE · AMPHORA-4 coils ~38%**
+**Day 1024 · Cal-Y4 D57:** **POT-STORAGE-BOWL-FIRE ✓ 4/4 · AMPHORA-4 base ~12% · vault char draw · ×4 green remain**
+**Day 1023 · Cal-Y4 D56:** **STORAGE-LABEL-KIT ✓ · BOTTLE-STORAGE ✓ · AMPHORA-RESERVE-A · P-ξ ×2 green · ×8 queue · Week 147 open**
+**Day 1022 · Cal-Y4 D55:** **STORAGE-SPRINT day 2 ✓ · pots ×2 green · BOX-DRY-1 · basket #10 · ×6 green queued · Week 146 close**
+**Day 1021 · Cal-Y4 D54:** **STORAGE-SPRINT-1 open ✓ · BASKET-BATCH-2 ×2 · bowls ×4 green · HORREUM-ESTIMATE ~175–205 brick · ~55–70 TR**
+**Day 1020 · Cal-Y4 D53:** **HAUL-CLAY ✓ · COURTYARD-PHASE-SLATE ✓ · pile 1 ~54 kg · south range first · loom @ W-1 deferred**
 **Day 1019 · Cal-Y4 D52:** **PIT-CHAR-131 ✓ · KILN-B-BRICK-FIRE ✓ 35/40 · ~179 stackable · factory PAUSE · BUILD-REASSESS-SLATE ✓**
 **Day 1018 · Cal-Y4 D51:** **WOOD-HAUL-1018 ✓ · GREEN-PRESS ✓ · ~40 green · pile 5 ~40 kg · clay AMBER**
 **Day 1017 · Cal-Y4 D50:** **PIT-CHAR-130 ✓ · KILN-B-BRICK-FIRE ✓ 35/40 · stackable ~144 · patch holds · wood AMBER**
