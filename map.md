@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 949** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 1094** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush

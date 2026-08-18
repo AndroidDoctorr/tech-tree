@@ -1071,6 +1071,32 @@
 | 1066 | [day-1066.md](days/year-003/week-153/day-1066.md) | **PIT-CHAR-114 · stock move #2 · lane green** | **Cal-Y4 D99** |
 | 1067 | [day-1067.md](days/year-003/week-153/day-1067.md) | **Brick sprint lap 1 · ×24 green · clay runway read** | **Cal-Y4 D100** |
 | 1068 | [day-1068.md](days/year-003/week-153/day-1068.md) | **Clay haul · press ×40 · ×64 green drying** | **Cal-Y4 D101** |
+| 1069 | [day-1069.md](days/year-003/week-153/day-1069.md) | **Clay haul · press ×40 · ×104 green · fire deferred** | **Cal-Y4 D102** |
+| 1070 | [day-1070.md](days/year-003/week-153/day-1070.md) | **PIT-CHAR dual · kiln hero · sprint ~CLOSE ~255** | **Cal-Y4 D103** |
+| 1071 | [day-1071.md](days/year-003/week-153/day-1071.md) | **HORREUM-B stake · pad dig ~55% · Stage 0 ~55%** | **Cal-Y4 D104** |
+| 1072 | [day-1072.md](days/year-003/week-154/day-1072.md) | **Week 154 open · HORREUM-B pad ✓ · drain E ~85%** | **Cal-Y4 D105** |
+| 1073 | [day-1073.md](days/year-003/week-154/day-1073.md) | **PIT-CHAR-116 · kiln +36 · green queue empty** | **Cal-Y4 D106** |
+| 1074 | [day-1074.md](days/year-003/week-154/day-1074.md) | **Stone haul · ×6 socle dressed · socle ~45%** | **Cal-Y4 D107** |
+| 1075 | [day-1075.md](days/year-003/week-154/day-1075.md) | **Drain E ✓ · W+S socle · pour PASS · socle ~65%** | **Cal-Y4 D108** |
+| 1076 | [day-1076.md](days/year-003/week-154/day-1076.md) | **Socle ✓ · Stage 0 ✓ · wythe W c1 · shell live** | **Cal-Y4 D109** |
+| 1077 | [day-1077.md](days/year-003/week-154/day-1077.md) | **Green press ×40 · calendar read · early summer** | **Cal-Y4 D110** |
+| 1078 | [day-1078.md](days/year-003/week-154/day-1078.md) | **Wythe hero ~58% · hive status · pollinator hold** | **Cal-Y4 D111** |
+| 1079 | [day-1079.md](days/year-003/week-155/day-1079.md) | **Week 155 open · bond beam ✓ · lintel ✓ · wythe ~92%** | **Cal-Y4 D112** |
+| 1080 | [day-1080.md](days/year-003/week-155/day-1080.md) | **Mortar cure · pit char · kiln +36 · ~273 stackable** | **Cal-Y4 D113** |
+| 1081 | [day-1081.md](days/year-003/week-155/day-1081.md) | **Roof TR ×22 ✓ · weathertight · shell ~98%** | **Cal-Y4 D114** |
+| 1082 | [day-1082.md](days/year-003/week-155/day-1082.md) | **Floor ✓ · oak plank · boot PASS** | **Cal-Y4 D115** |
+| 1083 | [day-1083.md](days/year-003/week-155/day-1083.md) | **Fit-out ✓ · CHAMBER-B LIVE · WORKSHOP-OVERFLOW** | **Cal-Y4 D116** |
+| 1084 | [day-1084.md](days/year-003/week-155/day-1084.md) | **Storage doctrine · chamber C stake · pad ~55%** | **Cal-Y4 D117** |
+| 1085 | [day-1085.md](days/year-003/week-155/day-1085.md) | **C pad ✓ · mat audit · AMBER pinches** | **Cal-Y4 D118** |
+| 1086 | [day-1086.md](days/year-003/week-156/day-1086.md) | **Drain E ✓ · stone haul · socle dress next** | **Cal-Y4 D119** |
+| 1087 | [day-1087.md](days/year-003/week-156/day-1087.md) | **Socle dress ×6 · mortar W/S next** | **Cal-Y4 D120** |
+| 1088 | [day-1088.md](days/year-003/week-156/day-1088.md) | **W+S socle live · pour PASS · E+N next** | **Cal-Y4 D121** |
+| 1089 | [day-1089.md](days/year-003/week-156/day-1089.md) | **Socle ✓ · Stage 0 ✓ · wythe ~20%** | **Cal-Y4 D122** |
+| 1090 | [day-1090.md](days/year-003/week-156/day-1090.md) | **Wythe hero ~58% · lime tight** | **Cal-Y4 D123** |
+| 1091 | [day-1091.md](days/year-003/week-156/day-1091.md) | **Bond beam ✓ · wythe ~92% · haul pause** | **Cal-Y4 D124** |
+| 1092 | [day-1092.md](days/year-003/week-156/day-1092.md) | **Stock lap ✓ · KILN-A · wood · clay · pause lifted** | **Cal-Y4 D125** |
+| 1093 | [day-1093.md](days/year-003/week-157/day-1093.md) | **Week 157 open · pit char · nails · ALL GREEN** | **Cal-Y4 D126** |
+| 1094 | [day-1094.md](days/year-003/week-157/day-1094.md) | **Roof TR ×22 ✓ · weathertight · floor next** | **Cal-Y4 D127** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

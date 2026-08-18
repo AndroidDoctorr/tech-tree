@@ -1,6 +1,6 @@
 # Achievement ladder
 
-*Day **552** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
+*Day **1094** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
 
 **Legend:** ✓ have / done · ~ started / partial · · not yet
 
@@ -8,11 +8,11 @@
 
 ## Where you are
 
-**~569 days in.** **Cal-Y2 D332** · **Week 82.** **COVERED-WAGON-1 v1 ✓ · WAGON-TRAIN empty PASS**.
+**~1094 days in.** **Cal-Y4 D127** · **Week 157.** **Horreum A+B LIVE · C weathertight ~98% · full ghost ~90%.**
 
 **Doctrine:** close loops before new hero tracks · one rung at a time · start long clocks early.
 
-**Reassess @ Day 501:** You are **not** medieval yet — you are **early Iron Age campus** with **Roman-scale ambition** (brick · tile · wheel · barn · measure). The next century is **horizontal scale**: more volume, more water, more bench space, more practice — not a single tech jump. **Future knowledge** helps you **pick the right queue** (tin · aqueduct · factory rhythm · coke); it does **not** skip charcoal, mortar cure, or glass temperature.
+**Posture @ Day 1094:** **Early Iron Age campus** executing **Roman-scale masonry** (horreum row · chem lab · WW belt · glass bottles). Next hero band = **C floor · fit-out · CHAMBER-C LIVE** · then **horizontal scale** (storage doctrine · pollinator · tin horizon Cal-Y4+). **Future knowledge** picks queues — it does **not** skip mortar cure, pit char rhythm, or glass anneal.
 
 ---
 
