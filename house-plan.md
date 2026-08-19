@@ -199,9 +199,9 @@
 
 ### Stage 0 — Courtyard stake *(before any hero range)*
 
-- [ ] **H-V3-STAKE-1** — compound strings from **C-0** · **fall to D-1** · crane arc
-- [ ] **H-V3-FOOTING-OUTLINE-1** — **full square** trench + gravel pad — all ranges same elevation
-- [ ] **IMPLUVIUM-DRAIN-1** — **C-0** sump · tile drain · tie **D-1**
+- [x] **H-V3-STAKE-1** — compound strings from **C-0** · **fall to D-1** · crane arc *(✓ d1099)*
+- [x] **H-V3-FOOTING-OUTLINE-1** — **full square** trench + gravel pad — all ranges same elevation *(✓ d1104)*
+- [x] **IMPLUVIUM-DRAIN-1** — **C-0** sump · tile drain · tie **D-1** *(✓ d1105 · pour PASS)*
 - [ ] Brick factory — **250+** before first domus mure · **600+** before officina brick cheeks · **1,000+** campus class before thermae hypocaust
 
 ### Stage 1 — South range *(culina · penus · porticus)*
@@ -214,6 +214,23 @@
 | Kitchen + pantry + porticus | **H-V3-CULINA-1** |
 | Impluvium drain live | **IMPLUVIUM-DRAIN-1** ✓ |
 | Grease trap | **GREASE-TRAP-1** |
+
+#### Culina fit-out *(after shell drip PASS · H-v2 grammar)*
+
+| System | ID | Notes |
+|--------|-----|-------|
+| **Tile floor** | **CULINA-SOUTH-FLOOR-1** | **✓ d1144** — **Layout E culina bay · boot PASS** |
+| **Floor layout** | **CULINA-SOUTH-FLOOR-LAYOUT-1139** | **Layout C** checker **or Layout E** octagon-corner *(light field + iron-slip dark ~5 cm inserts @ 45°)* · **2×2 trial before mass press** |
+| **Window @ sink** | **CULINA-SOUTH-WINDOW-1** | **✓ d1148** — **N cheek ~45×40 cm · oak shutter · cross-draft PASS · glass defer** |
+| **Sink / basin** | **CULINA-SOUTH-SINK-1** | **✓ d1147** — **P-κ @ N counter · drain → GREASE-TRAP-1 · under window ✓** |
+| **Cold pressurized** | **CULINA-SOUTH-WATER-COLD-1** | **✓ d1147** — **AQUEDUCT-SOUTH-BRANCH · ~16 s fill · KITCHEN-FAUCET-1 class** |
+| **Hot water** | **CULINA-SOUTH-WATER-HOT-1** | **✓ d1150** — **HOT-WATER-1 draw → south stub · reed wrap · twin tap @ basin · mix PASS** |
+| **Hearth** | **CULINA-SOUTH-HEARTH-1** | **✓ d1146** — **slab · throat · flue stack · live smoke PASS** |
+| **Flue stack / chimney** | **CULINA-SOUTH-FLUE-STACK-1** | **✓ d1146** — **Brick N cheek through bond beam + TR roof · clay cap · **isolated liner** *(east thermae tie horizon)* · *same deliverable as KITCHEN-FLUE-CHEEK H-v2 grammar — named @ d1146, not retconned* |
+| **Cauldron hang** | **CULINA-SOUTH-HEARTH-HOOK-1** | **✓ d1149** — **Iron bar @ bond beam · trammel S-hook · dry ~4 kg PASS** |
+| **Vent / draft** | **CULINA-SOUTH-VENT-1** | **✓ d1149** — **Hood lip · reed cheeks · louvers @ window · steam PASS** · **≠ flue stack** |
+
+**Build order:** **drip PASS** ✓ · **floor lay** ✓ · **hearth + flue stack + smoke** ✓ · **sink + cold** ✓ · **window** ✓ · **hook + vent** ✓ · **hot water** ✓ · **H-v2 closeout** ✓.
 
 **Respawn:** stays **H-v2**.
 
@@ -366,8 +383,8 @@
 
 ## Open decisions *(stake day)*
 
-- [ ] **Impluvium** — shallow pool vs **drain only** (pool = more humidity · more prestige)
-- [ ] **North tie** — open colonnade vs **covered passage** to H-v2
+- [ ] **Impluvium** — shallow pool vs **drain only** *(✓ drain-only default filed d1099 · pool defer)*
+- [ ] **North tie** — open colonnade vs **covered passage** to H-v2 *(✓ staked d1098 · ~3.2 m · PW ~1.4 m · SR ~2.6 m · build defer)*
 - [ ] **SOIL-PIT-1** exact margin site — fall · distance from well/aqueduct
 - [ ] **Hypocaust** under cubicula — **defer yes/no**
 

@@ -1097,6 +1097,102 @@
 | 1092 | [day-1092.md](days/year-003/week-156/day-1092.md) | **Stock lap ✓ · KILN-A · wood · clay · pause lifted** | **Cal-Y4 D125** |
 | 1093 | [day-1093.md](days/year-003/week-157/day-1093.md) | **Week 157 open · pit char · nails · ALL GREEN** | **Cal-Y4 D126** |
 | 1094 | [day-1094.md](days/year-003/week-157/day-1094.md) | **Roof TR ×22 ✓ · weathertight · floor next** | **Cal-Y4 D127** |
+| 1095 | [day-1095.md](days/year-003/week-157/day-1095.md) | **Floor oak plank ✓ · boot PASS · fit-out next** | **Cal-Y4 D128** |
+| 1096 | [day-1096.md](days/year-003/week-157/day-1096.md) | **Fit-out ✓ · CHAMBER-C LIVE · textile @ W-1** | **Cal-Y4 D129** |
+| 1097 | [day-1097.md](days/year-004/week-157/day-1097.md) | **BUILD-MAT stock move ✓ · AMPHORA-4 @ A** | **Cal-Y4 D130** |
+| 1098 | [day-1098.md](days/year-004/week-157/day-1098.md) | **North passage stake ✓ · full ghost shell 100%** | **Cal-Y4 D131** |
+| 1099 | [day-1099.md](days/year-004/week-157/day-1099.md) | **H-V3 Stage 0 stake ✓ · impluvium ghost** | **Cal-Y4 D132** |
+| 1100 | [day-1100.md](days/year-004/week-158/day-1100.md) | **Haul week open · Centadial 11** | **Clay+wood MAX · ×40 green · [Centadial 11](summaries/centadial-011.md) · Cal-Y4 D133** |
+| 1101 | [day-1101.md](days/year-004/week-158/day-1101.md) | **Stone haul ✓ · domus footing dress ×8 @ C-0** | **Cal-Y4 D134** |
+| 1102 | [day-1102.md](days/year-004/week-158/day-1102.md) | **Limestone MAX · KILN-A ✓ · haul week CLOSE** | **Cal-Y4 D135** |
+| 1103 | [day-1103.md](days/year-004/week-158/day-1103.md) | **PIT-CHAR ✓ · brick fire +36 · ~235 stackable** | **Cal-Y4 D136** |
+| 1104 | [day-1104.md](days/year-004/week-158/day-1104.md) | **Domus footing outline ✓ · gravel compact · blocks seated** | **Cal-Y4 D137** |
+| 1105 | [day-1105.md](days/year-004/week-158/day-1105.md) | **Impluvium drain ✓ · Stage 0 CLOSE · pour PASS** | **Cal-Y4 D138** |
+| 1106 | [day-1106.md](days/year-004/week-158/day-1106.md) | **West socle mortar ✓ · W+S course 1 · wythe defer** | **Cal-Y4 D139** |
+| 1107 | [day-1107.md](days/year-004/week-159/day-1107.md) | **Week 159 open · west wythe course 1 · ~18%** | **Cal-Y4 D140** |
+| 1108 | [day-1108.md](days/year-004/week-159/day-1108.md) | **Wythe c2–3 · E partition stub · ~45%** | **Cal-Y4 D141** |
+| 1109 | [day-1109.md](days/year-004/week-159/day-1109.md) | **KILN-A ✓ · c4 + E c2 · wythe ~58%** | **Cal-Y4 D142** |
+| 1110 | [day-1110.md](days/year-004/week-159/day-1110.md) | **Bond beam ✓ W+S · wythe ~75% · pit next** | **Cal-Y4 D143** |
+| 1111 | [day-1111.md](days/year-004/week-159/day-1111.md) | **Dual pit ✓ · lane ~15 kg · roof d1112+** | **Cal-Y4 D144** |
+| 1112 | [day-1112.md](days/year-004/week-159/day-1112.md) | **West roof ✓ · drip PASS · ~88%** | **Cal-Y4 D145** |
+| 1113 | [day-1113.md](days/year-004/week-159/day-1113.md) | **West floor ✓ · both cubicula · ~92%** | **Cal-Y4 D146** |
+| 1114 | [day-1114.md](days/year-004/week-160/day-1114.md) | **Week 160 · respawn ✓ · Doric drum 1 ~25%** | **Cal-Y4 D147** |
+| 1115 | [day-1115.md](days/year-004/week-160/day-1115.md) | **Post 1 ✓ · atrium gauge · lead horizon** | **Cal-Y4 D148** |
+| 1116 | [day-1116.md](days/year-004/week-160/day-1116.md) | **Post 2 ✓ · culina read · TR ledger clean** | **Cal-Y4 D149** |
+| 1117 | [day-1117.md](days/year-004/week-160/day-1117.md) | **Cubiculum bed rug ✓ · fit-out interleave** | **Cal-Y4 D150** |
+| 1118 | [day-1118.md](days/year-004/week-160/day-1118.md) | **Post 3 ✓ · west line close · burgundy dye read** | **Cal-Y4 D151** |
+| 1119 | [day-1119.md](days/year-004/week-160/day-1119.md) | **Rug burgundy dye ✓ · recipe card · loom/green read** | **Cal-Y4 D152** |
+| 1120 | [day-1120.md](days/year-004/week-160/day-1120.md) | **North stub post 1 ✓ · culina green + wall color slate** | **Cal-Y4 D153** |
+| 1121 | [day-1121.md](days/year-004/week-161/day-1121.md) | **Stone haul ✓ · Week 161 open · pile 4 refresh** | **Cal-Y4 D154** |
+| 1122 | [day-1122.md](days/year-004/week-161/day-1122.md) | **North stub post 2 ✓ · half-col close 100%** | **Cal-Y4 D155** |
+| 1123 | [day-1123.md](days/year-004/week-161/day-1123.md) | **Oak colonnade lintel ✓ · loculus shelf ~45%** | **Cal-Y4 D156** |
+| 1124 | [day-1124.md](days/year-004/week-161/day-1124.md) | **Loculus shelf ✓ · CULINA-PREP start · green press** | **Cal-Y4 D157** |
+| 1125 | [day-1125.md](days/year-004/week-161/day-1125.md) | **Wood haul lap 1 ✓ · pile 5 ~49 kg · CULINA-PREP ~50%** | **Cal-Y4 D158** |
+| 1126 | [day-1126.md](days/year-004/week-161/day-1126.md) | **Wood haul lap 2 ✓ · pile 5 ~89 kg · wood prep closed · CULINA-PREP ~62%** | **Cal-Y4 D159** |
+| 1127 | [day-1127.md](days/year-004/week-161/day-1127.md) | **PIT-CHAR-CULINA-1 ✓ · dual pit · lane ~30 kg · CULINA-PREP ~68%** | **Cal-Y4 D160** |
+| 1128 | [day-1128.md](days/year-004/week-162/day-1128.md) | **Week 162 open · TR-FIRE-CULINA-1 ✓ · ×20 TR surplus · CULINA-PREP ~85%** | **Cal-Y4 D161** |
+| 1129 | [day-1129.md](days/year-004/week-162/day-1129.md) | **KILN-A-LIME-CULINA ✓ · CULINA-PREP ✓ 100% · south shell GO** | **Cal-Y4 D162** |
+| 1130 | [day-1130.md](days/year-004/week-162/day-1130.md) | **CULINA-SOUTH-SOCLE-1 ✓ · south leg ×8 · shell ~15%** | **Cal-Y4 D163** |
+| 1131 | [day-1131.md](days/year-004/week-162/day-1131.md) | **Wall stake ✓ · wythe c1 ×9 · shell ~25% · putty AMBER** | **Cal-Y4 D164** |
+| 1132 | [day-1132.md](days/year-004/week-162/day-1132.md) | **KILN-A lime ✓ · wythe c2 ×9 interleave · shell ~35% · raw RED** | **Cal-Y4 D165** |
+| 1133 | [day-1133.md](days/year-004/week-162/day-1133.md) | **HAUL-LIME ✓ · pile 7 ~20 kg raw GREEN · wythe hold** | **Cal-Y4 D166** |
+| 1134 | [day-1134.md](days/year-004/week-162/day-1134.md) | **KILN-A lime ✓ · wythe c3 ×9 interleave · shell ~45% · beam mark close** | **Cal-Y4 D167** |
+| 1135 | [day-1135.md](days/year-004/week-163/day-1135.md) | **Week 163 open · wythe c4 ×9 @ seat mark · bond beam GO · shell ~55%** | **Cal-Y4 D168** |
+| 1136 | [day-1136.md](days/year-004/week-163/day-1136.md) | **KILN-A putty ✓ · mat stage ×36 interleave · pad ~54 · beam prep GO** | **Cal-Y4 D169** |
+| 1137 | [day-1137.md](days/year-004/week-163/day-1137.md) | **Door lintel ✓ · bond beam ✓ · shell ~65% · roof gate open** | **Cal-Y4 D170** |
+| 1138 | [day-1138.md](days/year-004/week-163/day-1138.md) | **Roof TR ×20 ✓ · drip PASS · weathertight · shell ~90%** | **Cal-Y4 D171** |
+| 1139 | [day-1139.md](days/year-004/week-163/day-1139.md) | **Floor prep ~25% · Layout E · fit-out stake · shell ~90%** | **Cal-Y4 D172** |
+| 1140 | [day-1140.md](days/year-004/week-163/day-1140.md) | **CULINA-DRIP-LIVE ✓ · Layout E trial · ×8 field green · tile ~30%** | **Cal-Y4 D173** |
+| 1141 | [day-1141.md](days/year-004/week-163/day-1141.md) | **TILE-PRESS ✓ ×26 Layout E · corner slip close · Week 163 close · fire queued** | **Cal-Y4 D174** |
+| 1142 | [day-1142.md](days/year-004/week-164/day-1142.md) | **Week 164 open · HAUL-CLAY + HAUL-LIME · runway read · tiles drying** | **Cal-Y4 D175** |
+| 1143 | [day-1143.md](days/year-004/week-164/day-1143.md) | **KILN-A ✓ · tile fire 27/28 ✓ · putty GREEN · floor lay next** | **Cal-Y4 D176** |
+| 1144 | [day-1144.md](days/year-004/week-164/day-1144.md) | **Layout E lay ✓ ×26 · F61 cut · boot PASS · shell ~92%** | **Cal-Y4 D177** |
+| 1145 | [day-1145.md](days/year-004/week-164/day-1145.md) | **Hearth ✓ · flue ~70% · fit-out ~25% · home @ the focus** | **Cal-Y4 D178** |
+| 1146 | [day-1146.md](days/year-004/week-164/day-1146.md) | **Flue stack ✓ · smoke PASS · chimney named · shell ~94%** | **Cal-Y4 D179** |
+| 1147 | [day-1147.md](days/year-004/week-164/day-1147.md) | **Sink ✓ · cold ✓ · aqueduct branch · wet handoff · shell ~95%** | **Cal-Y4 D180** |
+| 1148 | [day-1148.md](days/year-004/week-164/day-1148.md) | **Window ✓ · shutter · cross-draft PASS · Week 164 close** | **Cal-Y4 D181** |
+| 1149 | [day-1149.md](days/year-004/week-165/day-1149.md) | **Hook bar ✓ · vent hood ✓ · louvers · fit-out ~85% · Week 165 open** | **Cal-Y4 D182** |
+| 1150 | [day-1150.md](days/year-004/week-165/day-1150.md) | **Hive glance ✓ · hot water ✓ · twin tap · fit-out ~95%** | **Cal-Y4 D183** |
+| 1151 | [day-1151.md](days/year-004/week-165/day-1151.md) | **PIT-CHAR-140 ✓ · H-v2 gear move ✓ · south mise · fit-out ~98%** | **Cal-Y4 D184** |
+| 1152 | [day-1152.md](days/year-004/week-165/day-1152.md) | **Live cook handoff ✓ · fit-out ✓ · vestiarium ~35% · easy day** | **Cal-Y4 D185** |
+| 1153 | [day-1153.md](days/year-004/week-165/day-1153.md) | **Vestiarium ✓ · wardrobe live @ PAR-E · cubicula ~95%** | **Cal-Y4 D186** |
+| 1154 | [day-1154.md](days/year-004/week-165/day-1154.md) | **Dual pit ✓ · TR press ×16 · lane ~22.8 kg · glass AMBER** | **Cal-Y4 D187** |
+| 1155 | [day-1155.md](days/year-004/week-165/day-1155.md) | **WILD-FLAX-PULL ✓ · P-RETT-4 · wood glean · window open** | **Cal-Y4 D188** |
+| 1156 | [day-1156.md](days/year-004/week-166/day-1156.md) | **HAUL-CLAY ✓ · wood glean ✓ · pile 1 ~40 kg · Week 166 open** | **Cal-Y4 D189** |
+| 1157 | [day-1157.md](days/year-004/week-166/day-1157.md) | **TR-FIRE ✓ 15/16 · PIT-CHAR-142 ✓ · ×15 TR · lane ~24.4 kg** | **Cal-Y4 D190** |
+| 1158 | [day-1158.md](days/year-004/week-166/day-1158.md) | **Dual pit ✓ · lane ~41.4 kg GREEN · glass GO** | **Cal-Y4 D191** |
+| 1159 | [day-1159.md](days/year-004/week-166/day-1159.md) | **GLASS-PRACTICE ✓ · ×3 @ anneal · clarity ↑ · shapes · tap 1160+** | **Cal-Y4 D192** |
+| 1160 | [day-1160.md](days/year-004/week-166/day-1160.md) | **GLASS-TAP ✓ · neck grammar ✓ · GP-1159 @ rack G · lane ~24.7 kg** | **Cal-Y4 D193** |
+| 1161 | [day-1161.md](days/year-004/week-166/day-1161.md) | **Neck repeat ✓ · production merge · culina lites ×2 · flask @ bury** | **Cal-Y4 D194** |
+| 1162 | [day-1162.md](days/year-004/week-166/day-1162.md) | **Tap ✓ · flax heckle ✓ · domus assessment · H-v2 demo ~15%** | **Cal-Y4 D195** |
+| 1163 | [day-1163.md](days/year-004/week-167/day-1163.md) | **Week 167 open · dual pit ✓ · lane ~28.6 kg · H-v2 demo ~38%** | **Cal-Y4 D196** |
+| 1164 | [day-1164.md](days/year-004/week-167/day-1164.md) | **H-v2 full dismantle ✓ · obsolete shell down · horreum HOLD · farewell** | **Cal-Y4 D197** |
+| 1165 | [day-1165.md](days/year-004/week-167/day-1165.md) | **Demo ✓ close · reclaim sorted · P-PLANT-1 green · urn fire 1166+** | **Cal-Y4 D198** |
+| 1166 | [day-1166.md](days/year-004/week-167/day-1166.md) | **POT-FIRE ✓ · HOUSEPLANT-URN ✓ · WINTER-TREE-1 @ court · ficus defer** | **Cal-Y4 D199** |
+| 1167 | [day-1167.md](days/year-004/week-167/day-1167.md) | **WOOD-HAUL ✓ · dual pit ✓ · lane ~40.2 kg GREEN** | **Cal-Y4 D200** |
+| 1168 | [day-1168.md](days/year-004/week-167/day-1168.md) | **KILN-B-BRICK-FIRE ✓ +36 · TR-PRESS ✓ ×16 green · queue empty** | **Cal-Y4 D201** |
+| 1169 | [day-1169.md](days/year-004/week-167/day-1169.md) | **H-v2 reclaim eat ✓ · TR-FIRE ✓ ×30 · GREEN-PRESS ✓ · east course 1 · Week 167 close** | **Cal-Y4 D202** |
+| 1170 | [day-1170.md](days/year-004/week-168/day-1170.md) | **CULINA-GLASS-BATCH ✓ ×4 lites · GB fire defer · harvest ~138 d · Week 168 open** | **Cal-Y4 D203** |
+| 1171 | [day-1171.md](days/year-004/week-168/day-1171.md) | **PIT-CHAR ✓ · tap ×6 · culina glass ×3 · GB touch PASS · fire 1172+** | **Cal-Y4 D204** |
+| 1172 | [day-1172.md](days/year-004/week-168/day-1172.md) | **GLASS-TAP ✓ ×9 · KILN-B-BRICK-FIRE ✓ +36 · STONE-HAUL ✓ · pile 4 ~63 kg** | **Cal-Y4 D205** |
+| 1173 | [day-1173.md](days/year-004/week-168/day-1173.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ ×40 · TR-PRESS ✓ ×16 · factory queue full** | **Cal-Y4 D206** |
+| 1174 | [day-1174.md](days/year-004/week-168/day-1174.md) | **WOOD-HAUL ✓ · STONE-HAUL ✓ combined · pile 5 ~40 kg · pile 4 ~91 kg** | **Cal-Y4 D207** |
+| 1175 | [day-1175.md](days/year-004/week-168/day-1175.md) | **Dual pit ✓ · lane ~25.4 kg GREEN · green dry hold · fire 1176+** | **Cal-Y4 D208** |
+| 1176 | [day-1176.md](days/year-004/week-168/day-1176.md) | **Dual pit ✓ · TR-FIRE ✓ ×45 · KILN-B-BRICK-FIRE ✓ +36 · Week 168 close** | **Cal-Y4 D209** |
+| 1177 | [day-1177.md](days/year-004/week-169/day-1177.md) | **Week 169 open · WOOD-HAUL ✓ · HAUL-CLAY ✓ · pile 5 ~30 kg · pile 1 ~29 kg** | **Cal-Y4 D210** |
+| 1178 | [day-1178.md](days/year-004/week-169/day-1178.md) | **CULINA-GLASS-BATCH ✓ ×4 @ bury · ×13 when tapped · lane ~14 kg AMBER** | **Cal-Y4 D211** |
+| 1179 | [day-1179.md](days/year-004/week-169/day-1179.md) | **GLASS-TAP ✓ ×13 · PIT-CHAR ✓ · TR-PRESS ✓ ×16 green @ rack** | **Cal-Y4 D212** |
+| 1180 | [day-1180.md](days/year-004/week-169/day-1180.md) | **CULINA-GLASS-BATCH ✓ ×4 @ bury · ×17 when tapped · lane ~13 kg AMBER** | **Cal-Y4 D213** |
+| 1181 | [day-1181.md](days/year-004/week-169/day-1181.md) | **GREEN-PRESS ✓ ×40 GB-1181 · TR-TOUCH ✓ fire-ready · pile 1 ~6.6 kg AMBER** | **Cal-Y4 D214** |
+| 1182 | [day-1182.md](days/year-004/week-169/day-1182.md) | **PIT-CHAR ✓ · TR-FIRE ✓ ×60 · GB-1181 drying · lane ~16 kg AMBER** | **Cal-Y4 D215** |
+| 1183 | [day-1183.md](days/year-004/week-169/day-1183.md) | **GLASS-TAP ✓ ×17 · WOOD-HAUL ✓ · GB touch PASS · Week 169 close** | **Cal-Y4 D216** |
+| 1184 | [day-1184.md](days/year-004/week-170/day-1184.md) | **Week 170 open · PIT-CHAR ✓ · KILN-B-BRICK-FIRE ✓ +36 · ~315 @ Kiln B** | **Cal-Y4 D217** |
+| 1185 | [day-1185.md](days/year-004/week-170/day-1185.md) | **CULINA-WINDOW-INSTALL ✓ ×17 · PIT-CHAR ✓ parallel · ~85% fill · lane ~26 kg** | **Cal-Y4 D218** |
+| 1186 | [day-1186.md](days/year-004/week-170/day-1186.md) | **CULINA grid close ✓ ×3 batch · tap · full ~45×40 · CULINA-SOUTH-WINDOW-GLASS-1 ✓** | **Cal-Y4 D219** |
+| 1187 | [day-1187.md](days/year-004/week-170/day-1187.md) | **H-V3-EAST-WYTHE c2 ✓ · reclaim pad empty · curtain/woad slate · domus mat read** | **Cal-Y4 D220** |
+| 1188 | [day-1188.md](days/year-004/week-170/day-1188.md) | **WOAD-LEAF-1 ✓ · colonnade socle dress ×4 · set ×2 · factory pause** | **Cal-Y4 D221** |
+| 1189 | [day-1189.md](days/year-004/week-170/day-1189.md) | **WOAD-VAT-1 ✓ · forest-green swatch · socle ×4 mortar · clay haul lap** | **Cal-Y4 D222** |
+| 1190 | [day-1190.md](days/year-004/week-170/day-1190.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ ×40 · jeans slate · Week 170 close** | **Cal-Y4 D223** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1113,6 +1209,7 @@
 | **8** | 701–800 | [centadial-008.md](summaries/centadial-008.md) |
 | **9** | 801–900 | [centadial-009.md](summaries/centadial-009.md) |
 | **10** | 901–1000 | [centadial-010.md](summaries/centadial-010.md) |
+| **11** | 1001–1100 | [centadial-011.md](summaries/centadial-011.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 1094** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
+*Last updated: **Day 1098** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -14,10 +14,12 @@
 | **DRAIN-D-1** | Swale extension · greywater fork — **✓ d915 · GREASE-TRAP-1 ✓ d919 · SOIL-PIT-1 ✓ d925 @ DR-SP-01 (~2.0 m sealed)** |
 | **SLAG-DUMP-A/B/C** | **WF-SB-01 ✓ d923 first cart ~18 kg · pad live · T-5 crown → SW · A reserve · C reject** |
 | **WW-2-HEAD** | Upstream T-1 · sluice drop survey line (~5–10 m class · horizon) |
-| **H-V3-COURTYARD** | Ghost footprint @ C-0 — see [house-plan.md](house-plan.md) |
+| **H-V3-COURTYARD** | **✓ half-col + beam · east loculus ✓ d1124 · west bed+burgundy rug — see [house-plan.md](house-plan.md)** |
+| **IMPLUVIUM-DRAIN-1** | **✓ live d1105 · sump + DR-IM-01–03 → D-1 · pour PASS · Stage 0 ✓** |
 | **GARDEN-ORCHARD** | Decorative bed terrace S · lemon-class tree site when species found · **OAK-ORCHARD-RESERVE ✓ ×6 slots @ SC-OAK-01–06 d949 · ~18×4 m · spring transplant only** |
 | **APIARY-PAD-1** | **✓ AG-AP-01 @ Bed D SE margin d907 · ~2.5×2 m · primary hive pad · reserve SC-GO-01 GARDEN-ORCHARD** |
 | **STONE-WALL ×2** | **SR-S1 ~28 m Bed D/pen ghost d917 · SR-W1 ~42 m campus W ghost d917 · terrace face grammar · build post-harvest** |
+| **H-V3-NORTH-TIE-1** | **✓ staked d1098 · ~3.2 m strip H-v2↔horreum · PW ~1.4 m · SR covered option ~2.6 m · build defer** |
 | **STAKE-CODE-1** | **✓ d917 — color band · notch seg · chip scratch · kitchen slate master — see table below** |
 | **STORE-4-E / BARN-N** | Expansion ghosts — not started |
 
@@ -35,6 +37,17 @@
 | **SC** | Woad blue-class | Scout · ghost · horizon · reserve | **SC-GO-01** *(GARDEN-ORCHARD)* |
 
 **On each stake:** band color **@ head** · **notch count** = segment # on line · **lime tick @ N face** = camp vector · **limestone chip @ foot** = scratch **PREFIX-LINE-POINT**. **Kitchen slate** = master duplicate.
+
+**North passage @ H-v2 ↔ horreum** *(staked Day 1098 · build defer)*:
+
+| Stake | Code | Role |
+|-------|------|------|
+| **H-v2 north cheek E/W** | **SC-NP-01 · SC-NP-02** | Passage south mouth @ C-0 centerline |
+| **Horreum south sill W/E** | **SC-NP-03 · SC-NP-04** | Passage north mouth @ ghost ~6×8 line |
+| **Column ghosts ×3** | **SC-NP-05–07** | **~1.0 m OC** on centerline · colonnade horizon only |
+| **Inner path** | **PW-NP-01 · PW-NP-02** | **~1.4 m** clear boot + barrow |
+| **Covered option** | **SR-NP-01 · SR-NP-02** | **~2.6 m** outer ghost · madder SR band |
+| **Rule** | **Three chamber S doors stay independent** — passage is strip **in front of** row, not interior hall |
 
 **Stone wall lines @ d917:**
 
@@ -174,7 +187,8 @@
 
 | | |
 |--|--|
-| **Footprint** | **~3 × 4 m** wattle |
+| **Footprint** | **~3 × 4 m** wattle + daub |
+| **Floor** | **Packed earth + daub patch — no plank floor** |
 | **Status** | **Complete** Day 71 — brain-tan, tools, charcoal prep |
 | **ROOF-W1** | **✓ 100% Day 364** — **first campus tile roof · 48F deployed · drip PASS** |
 | **Stock** | Pile 9 — poles, withes, reed |
@@ -480,6 +494,8 @@
 | **COAST-SITE-1** (local Med beach) | **~20 km W** | **✓** — day trip / 3-day loop class |
 | **Orontes mouth** (river → sea) | **~60–80 km downstream** | **✗ unmarked** — **BOAT-1** launch site · **not** required to reach Tarsus by land |
 | **Tarsus / Cilician plain class** (tin geography behind Taurus) | **~100–150 km W/SW** via **coastal land route** from **COAST-SITE-1** | **Horizon** — scout mark first |
+
+**Lead (galena):** **×0 @ Orontes camp** *(d1115)* · **H-11 = hematite only** · **galena class** with **Taurus/Cilicia** tin slopes — **LEAD-SCOUT-0** same corridor as **TIN-SCOUT-1** · **not** local weekend haul.
 
 **Boat is optional, not mandatory.** Day 374 filed **boat preferred** for **river mouth → coastal hop** (calories · return wind). **Walk the whole way** with **wagon + team** is valid doctrine — and **required** for **ore haul** (boat cannot replace wagon load).
 
