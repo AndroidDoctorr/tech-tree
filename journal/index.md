@@ -1193,6 +1193,77 @@
 | 1188 | [day-1188.md](days/year-004/week-170/day-1188.md) | **WOAD-LEAF-1 ✓ · colonnade socle dress ×4 · set ×2 · factory pause** | **Cal-Y4 D221** |
 | 1189 | [day-1189.md](days/year-004/week-170/day-1189.md) | **WOAD-VAT-1 ✓ · forest-green swatch · socle ×4 mortar · clay haul lap** | **Cal-Y4 D222** |
 | 1190 | [day-1190.md](days/year-004/week-170/day-1190.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ ×40 · jeans slate · Week 170 close** | **Cal-Y4 D223** |
+| 1191 | [day-1191.md](days/year-004/week-171/day-1191.md) | **Week 171 open · WOOD-HAUL ✓ · GB-TOUCH ✓ · pile 5 ~42 kg · GB-1190 day-1** | **Cal-Y4 D224** |
+| 1192 | [day-1192.md](days/year-004/week-171/day-1192.md) | **Dual PIT-CHAR ✓ · east wythe c3 ✓ · GB-FIRE ✓ +36 · ~333 @ Kiln B · interleave** | **Cal-Y4 D225** |
+| 1193 | [day-1193.md](days/year-004/week-171/day-1193.md) | **WOOD-HAUL ✓ · HAUL-CLAY ✓ combined · pile 5 ~50 kg · pile 1 ~37 kg** | **Cal-Y4 D226** |
+| 1194 | [day-1194.md](days/year-004/week-171/day-1194.md) | **PIT-CHAR ✓ · GREEN-PRESS ✓ ×40 GB-1194 · lane ~33 kg · queue reseeded** | **Cal-Y4 D227** |
+| 1195 | [day-1195.md](days/year-004/week-171/day-1195.md) | **WOOD-HAUL ✓ · HAUL-CLAY ✓ combined · pile 5 ~66 kg · pile 1 ~38 kg** | **Cal-Y4 D228** |
+| 1196 | [day-1196.md](days/year-004/week-171/day-1196.md) | **c3 cure ✓ · east wythe c4 ✓ · GB-TOUCH ✓ · pit deferred** | **Cal-Y4 D229** |
+| 1197 | [day-1197.md](days/year-004/week-171/day-1197.md) | **PIT-CHAR ✓ · GB-FIRE ✓ +36 · ~351 @ Kiln B · queue empty** | **Cal-Y4 D230** |
+| 1198 | [day-1198.md](days/year-004/week-172/day-1198.md) | **Week 172 open · c4 AMBER · hypocaust void ✓ · pilae c1 ✓ ×12** | **Cal-Y4 D231** |
+| 1199 | [day-1199.md](days/year-004/week-172/day-1199.md) | **pilae c2 ✓ ×12 · ×24 total · wythe c4 cure hold** | **Cal-Y4 D232** |
+| 1200 | [day-1200.md](days/year-004/week-172/day-1200.md) | **pilae c3 ✓ ×12 · ×36 total · c4 cure PASS · c5 queued** | **Cal-Y4 D233** |
+| 1201 | [day-1201.md](days/year-004/week-172/day-1201.md) | **pilae c4 ✓ ×12 · ×48 target height ✓ · suspensura queued** | **Cal-Y4 D234** |
+| 1202 | [day-1202.md](days/year-004/week-172/day-1202.md) | **suspensura ✓ · hypocaust shell 100% · walk PASS · tile/flue defer** | **Cal-Y4 D235** |
+| 1203 | [day-1203.md](days/year-004/week-172/day-1203.md) | **furnus ✓ · flue throat ✓ · east cheek ~70% · void tie live** | **Cal-Y4 D236** |
+| 1204 | [day-1204.md](days/year-004/week-172/day-1204.md) | **east flue stack ✓ · smoke PASS · chimney named** | **Cal-Y4 D237** |
+| 1205 | [day-1205.md](days/year-004/week-173/day-1205.md) | **Week 173 open · east wythe c5 ✓ · ~58%** | **Cal-Y4 D238** |
+| 1206 | [day-1206.md](days/year-004/week-173/day-1206.md) | **TR-PRESS ✓ ×16 · PIT-CHAR ✓ · fire defer · green queue ×0** | **Cal-Y4 D239** |
+| 1207 | [day-1207.md](days/year-004/week-173/day-1207.md) | **GREEN-PRESS ✓ ×40 GB-1207 · PIT-CHAR ✓ · lane ~51 kg** | **Cal-Y4 D240** |
+| 1208 | [day-1208.md](days/year-004/week-173/day-1208.md) | **east wythe c6 ✓ · ~68% · TR-TOUCH ✓ · GB touch 1209+** | **Cal-Y4 D241** |
+| 1209 | [day-1209.md](days/year-004/week-173/day-1209.md) | **PIT-CHAR ✓ · TR-FIRE ✓ 15/16 · ×75 TR @ rack** | **Cal-Y4 D242** |
+| 1210 | [day-1210.md](days/year-004/week-173/day-1210.md) | **GB-FIRE ✓ +36 · hypocaust floor ~20% · ×12 TR laid** | **Cal-Y4 D243** |
+| 1211 | [day-1211.md](days/year-004/week-173/day-1211.md) | **HAUL-CLAY ✓ · pile 1 ~34.5 kg GREEN · Week 173 close** | **Cal-Y4 D244** |
+| 1212 | [day-1212.md](days/year-004/week-174/day-1212.md) | **WOOD-HAUL ✓ ×4 laps · pile 5 ~78 kg · Week 174 open** | **Cal-Y4 D245** |
+| 1213 | [day-1213.md](days/year-004/week-174/day-1213.md) | **GREEN-PRESS ✓ ×40 GB-1213 · PIT-CHAR ✓ · lane ~54 kg** | **Cal-Y4 D246** |
+| 1214 | [day-1214.md](days/year-004/week-174/day-1214.md) | **east wythe c7 ✓ · ~78% · hypocaust floor ~40% · ×24 TR** | **Cal-Y4 D247** |
+| 1215 | [day-1215.md](days/year-004/week-174/day-1215.md) | **GB-FIRE ✓ +36 · ×2 grates ✓ · floor ~65% · ~278 @ Kiln B** | **Cal-Y4 D248** |
+| 1216 | [day-1216.md](days/year-004/week-174/day-1216.md) | **H-V3-EAST-HYPO-FLOOR ✓ 100% · ×58 TR · grout · hero heat GO** | **Cal-Y4 D249** |
+| 1217 | [day-1217.md](days/year-004/week-174/day-1217.md) | **HYPO-HERO-HEAT ✓ · east wythe c8 ✓ · ~88% · ~260 @ Kiln B** | **Cal-Y4 D250** |
+| 1218 | [day-1218.md](days/year-004/week-174/day-1218.md) | **HAUL-CLAY ✓ · HAUL-LIME ✓ · Week 174 close · mortar runway restored** | **Cal-Y4 D251** |
+| 1219 | [day-1219.md](days/year-004/week-175/day-1219.md) | **H-V3-EAST-BOND-BEAM ✓ · KILN-A putty ✓ · Week 175 open · wythe ~92%** | **Cal-Y4 D252** |
+| 1220 | [day-1220.md](days/year-004/week-175/day-1220.md) | **TR-PRESS ✓ ×16 · PIT-CHAR ✓ dual · lane ~52 kg · beam cure night 1** | **Cal-Y4 D253** |
+| 1221 | [day-1221.md](days/year-004/week-175/day-1221.md) | **BOND-BEAM-CURE ✓ load GO · TR-TOUCH AMBER · fire defer 1222+** | **Cal-Y4 D254** |
+| 1222 | [day-1222.md](days/year-004/week-175/day-1222.md) | **TR-FIRE ✓ 15/16 · PIT-CHAR ✓ · ×32 TR @ rack · roof GO** | **Cal-Y4 D255** |
+| 1223 | [day-1223.md](days/year-004/week-175/day-1223.md) | **H-V3-EAST-ROOF-TR ✓ · flue pen ✓ · drip PASS · east shell ~96%** | **Cal-Y4 D256** |
+| 1224 | [day-1224.md](days/year-004/week-175/day-1224.md) | **H-V3-EAST-PLASTER ✓ · shell ~98% · bath fit-out horizon** | **Cal-Y4 D257** |
+| 1225 | [day-1225.md](days/year-004/week-175/day-1225.md) | **H-V3-BATH ✓ · tub · basin · latrine stub · Week 175 close** | **Cal-Y4 D258** |
+| 1226 | [day-1226.md](days/year-004/week-176/day-1226.md) | **H-V3-EAST-LATRINE-PIT-TIE ✓ · tub seal hold · Week 176 open · east ~100%** | **Cal-Y4 D259** |
+| 1227 | [day-1227.md](days/year-004/week-176/day-1227.md) | **caldarium tub soak ✓ · TR-PRESS ✓ ×16 · soap horizon filed** | **Cal-Y4 D260** |
+| 1228 | [day-1228.md](days/year-004/week-176/day-1228.md) | **TR-PRESS ✓ ×16 colonnade roof · floor green hold · ×32 TR green @ rack** | **Cal-Y4 D261** |
+| 1229 | [day-1229.md](days/year-004/week-176/day-1229.md) | **TR-PRESS ✓ ×16 colonnade roof batch 3 · floor cheek firm · ×48 TR green @ rack** | **Cal-Y4 D262** |
+| 1230 | [day-1230.md](days/year-004/week-176/day-1230.md) | **TR-FIRE ✓ 15/16 floor · TR-PRESS ✓ ×16 roof batch 4 · ×27 fired · penus lay GO** | **Cal-Y4 D263** |
+| 1231 | [day-1231.md](days/year-004/week-176/day-1231.md) | **PIT-CHAR ✓ dual · HAUL-CLAY ✓ · lane ~57 kg · pile 1 ~30 kg GREEN** | **Cal-Y4 D264** |
+| 1232 | [day-1232.md](days/year-004/week-176/day-1232.md) | **WOOD-HAUL ✓ ~52 kg · pile 5 ~58 kg GREEN · factory lanes all GREEN** | **Cal-Y4 D265** |
+| 1233 | [day-1233.md](days/year-004/week-177/day-1233.md) | **Week 177 open · TR-FIRE ✓ 45/48 · penus/porticus floor ✓ · compound ~82%** | **Cal-Y4 D266** |
+| 1234 | [day-1234.md](days/year-004/week-177/day-1234.md) | **COLONNADE-RING ~25% · south socle ✓ ×4 · COL-S post 1 ✓ · compound ~84%** | **Cal-Y4 D267** |
+| 1235 | [day-1235.md](days/year-004/week-177/day-1235.md) | **COLONNADE-S-1 ✓ ×4/4 south posts · south line closed · ring ~38%** | **Cal-Y4 D268** |
+| 1236 | [day-1236.md](days/year-004/week-177/day-1236.md) | **STONE-HAUL ✓ ~75 kg dual lap · pile 4 ~77 kg GREEN · east colonnade runway** | **Cal-Y4 D269** |
+| 1237 | [day-1237.md](days/year-004/week-177/day-1237.md) | **H-V3-COLONNADE-E-SOCLE ✓ ×4 · COL-S-BEAM GO · ring ~45%** | **Cal-Y4 D270** |
+| 1238 | [day-1238.md](days/year-004/week-177/day-1238.md) | **COL-S-BEAM ✓ · TR-PRESS ✓ ×16 · ring ~50% · ×16 TR green** | **Cal-Y4 D271** |
+| 1239 | [day-1239.md](days/year-004/week-177/day-1239.md) | **COLONNADE-E-1 ✓ ×4/4 east posts · Week 177 close · ring ~58%** | **Cal-Y4 D272** |
+| 1240 | [day-1240.md](days/year-004/week-178/day-1240.md) | **Week 178 open · COL-E-BEAM ✓ · TR-FIRE ✓ 15/16 · ×61 fired · ring ~62%** | **Cal-Y4 D273** |
+| 1241 | [day-1241.md](days/year-004/week-178/day-1241.md) | **COLONNADE-LEAN-TR ✓ S+E · ×28 laid · ×33 fired · ring ~75%** | **Cal-Y4 D274** |
+| 1242 | [day-1242.md](days/year-004/week-178/day-1242.md) | **COL-N post 1 ✓ @ NC-SP-01 · north court string · pile 4 RED · ring ~78%** | **Cal-Y4 D275** |
+| 1243 | [day-1243.md](days/year-004/week-178/day-1243.md) | **STONE-HAUL ✓ ~77 kg · pile 4 GREEN · ×6 FS · COL-N posts 2–4 runway** | **Cal-Y4 D276** |
+| 1244 | [day-1244.md](days/year-004/week-178/day-1244.md) | **COLONNADE-N ✓ ×4/4 north posts · north line closed · ring ~84% · beam queued** | **Cal-Y4 D277** |
+| 1245 | [day-1245.md](days/year-004/week-178/day-1245.md) | **COL-N-BEAM ✓ · N+W lean TR ✓ · ring ~93% · ×5 TR fired · compound ~92%** | **Cal-Y4 D278** |
+| 1246 | [day-1246.md](days/year-004/week-178/day-1246.md) | **Week 178 close · H-V3-NORTH-TIE ✓ · COLONNADE-RING ✓ 100% · compound ~94%** | **Cal-Y4 D279** |
+| 1247 | [day-1247.md](days/year-004/week-179/day-1247.md) | **Week 179 open · TR-PRESS ✓ ×16 green · pile 1 ~20 kg · touch 1249+** | **Cal-Y4 D280** |
+| 1248 | [day-1248.md](days/year-004/week-179/day-1248.md) | **COMPOUND-PLASTER partial ✓ · PAR + south/west · compound ~96%** | **Cal-Y4 D281** |
+| 1249 | [day-1249.md](days/year-004/week-179/day-1249.md) | **TR-PRESS ✓ ×16 · TR-TOUCH ✓ batch 1 · ×32 green @ rack · fire GO** | **Cal-Y4 D282** |
+| 1250 | [day-1250.md](days/year-004/week-179/day-1250.md) | **HAUL-CLAY ✓ · TR-PRESS ✓ batch 3 · TR-FIRE load 1 · triple fire 1252+** | **Cal-Y4 D283** |
+| 1251 | [day-1251.md](days/year-004/week-179/day-1251.md) | **COMPOUND-PLASTER near-close ✓ · north · culina · west ext · compound ~98%** | **Cal-Y4 D284** |
+| 1252 | [day-1252.md](days/year-004/week-179/day-1252.md) | **East thermae flush ✓ · reservoir · live toilet · H-V3-BATH-1 closed** | **Cal-Y4 D285** |
+| 1253 | [day-1253.md](days/year-004/week-179/day-1253.md) | **Week 179 close · TR-FIRE triple ✓ · plaster patch · ×50 TR fired** | **Cal-Y4 D286** |
+| 1254 | [day-1254.md](days/year-004/week-180/day-1254.md) | **Week 180 open · H-V2-STORE ✓ · forest curtain ✓ · compound ~100%** | **Cal-Y4 D287** |
+| 1255 | [day-1255.md](days/year-004/week-180/day-1255.md) | **H-V3-CUB-RUG-E-1 ✓ · cubicula burgundy pair · card repeat** | **Cal-Y4 D288** |
+| 1256 | [day-1256.md](days/year-004/week-180/day-1256.md) | **CULINA-RUG-1 ✓ · forest green floor mat · curtain pair** | **Cal-Y4 D289** |
+| 1257 | [day-1257.md](days/year-004/week-180/day-1257.md) | **DOMUS-ATRIUM-PAD-1 ✓ · court hardscape · ~51 d to harvest** | **Cal-Y4 D290** |
+| 1258 | [day-1258.md](days/year-004/week-180/day-1258.md) | **DOMUS-LANTERN-HANG-1 ✓ · ext whitewash ~35% start** | **Cal-Y4 D291** |
+| 1259 | [day-1259.md](days/year-004/week-180/day-1259.md) | **Ext whitewash lap 2 · east thermae + north horreum · ~70%** | **Cal-Y4 D292** |
+| 1260 | [day-1260.md](days/year-004/week-180/day-1260.md) | **Week 180 close · EXT-WHITEWASH-1 ✓ · DOMUS MVP ✓** | **Cal-Y4 D293** |
+| 1261 | [day-1261.md](days/year-004/week-181/day-1261.md) | **Week 181 open · FARM-READ · thresh prep · horreum clear** | **Cal-Y4 D294** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

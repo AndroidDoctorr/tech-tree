@@ -156,9 +156,26 @@
 | **West cubicula** | Footing → gravel → **lime slab + tile** · rugs · **no void** *(optional small hypocaust tap from east — defer)* |
 | **South culina** | Footing → gravel → **lime slab + tile** · **durable near focus** (hearth) |
 | **Porticus** | **Stone flags** or **packed gravel + tile** — splash-resistant |
-| **Courtyard** | **C-0** stone pad · **impluvium sump** · slope to drain |
+| **Courtyard** | **C-0** stone pad · **impluvium sump** · slope to drain | **DOMUS-ATRIUM-PAD-1 ✓ d1257 — ~3.6 m Ø flag ring @ compluvium margin** |
 
 **Heat:** **one furnus** in **thermae** (east) · hypocaust **east only** · **culina** oven shares flue via **isolated flue liner**.
+
+---
+
+## Interior textile palette *(DOMUS-TEXTILE-PALETTE · filed Day 1255)*
+
+*Room-color grammar for curtains, rugs, and soft goods — intuitive zoning like school-folder colors. Pigment classes tie to live dye cards ([inventory.md](inventory.md) · **DYE-RECIPE-BURGUNDY-1** · **WOAD-VAT-1** · **GRAPE-PURPLE-542** · verdigris scrape class).*
+
+| Zone | Color family | Grammar | Status |
+|------|--------------|---------|--------|
+| **Cubicula** *(west + east sleep cells)* | **Red / burgundy** | Madder + iron kiss · curtains + bedside rugs | **West rug ✓ d1119 · east rug ✓ d1255 · curtains horizon** |
+| **Culina** *(south kitchen)* | **Forest green** | Woad vat + onion overbath | **Curtain ✓ d1254 · rug ✓ d1256** |
+| **Thermae** *(east bath block)* | **Teal / verdigris** | Verdigris scrape · copper patina class · towels/rugs/soft goods | **Horizon** |
+| **Everywhere else** *(porticus · penus · atrium margins · PAR service soft goods)* | **Deep mauve / tyrian-class purple** | Grape skin double-dip + iron kiss · chase rich fugitive purple — honest camp, not murex | **Horizon · GRAPE-PURPLE-542 grammar** |
+
+**Rug coverage target:** **≥1 bedside or floor rug per major room** — cubicula ×2 · culina · thermae · porticus/penus class *(atrium = hardscape pad, not rug)*.
+
+**Note:** User filed **teal @ thermae** — if **east cubiculum** was meant instead of bath wing, swap that row only; west cell stays burgundy.
 
 ---
 
@@ -219,7 +236,7 @@
 
 | System | ID | Notes |
 |--------|-----|-------|
-| **Tile floor** | **CULINA-SOUTH-FLOOR-1** | **✓ d1144** — **Layout E culina bay · boot PASS** |
+| **Tile floor** | **CULINA-SOUTH-FLOOR-1** | **✓ d1233** — **Layout E culina bay d1144 · penus/porticus TR ×26 d1233 · boot PASS** |
 | **Floor layout** | **CULINA-SOUTH-FLOOR-LAYOUT-1139** | **Layout C** checker **or Layout E** octagon-corner *(light field + iron-slip dark ~5 cm inserts @ 45°)* · **2×2 trial before mass press** |
 | **Window @ sink** | **CULINA-SOUTH-WINDOW-1** | **✓ d1148** — **N cheek ~45×40 cm · oak shutter · cross-draft PASS · glass defer** |
 | **Sink / basin** | **CULINA-SOUTH-SINK-1** | **✓ d1147** — **P-κ @ N counter · drain → GREASE-TRAP-1 · under window ✓** |
@@ -253,7 +270,7 @@
 | Deliverable | ID |
 |-------------|-----|
 | East footing + hypocaust | **H-V3-EAST-HYPO-1** |
-| Bath · tub · basin · latrine | **H-V3-BATH-1** |
+| Bath · tub · basin · latrine · flush | **H-V3-BATH-1** | **✓ d1252 — tub · basin · hot/cold · latrine · **H-V3-EAST-FLUSH-TOILET-1** live**
 | Furnace + chimney | **H-V3-FURNACE-1** |
 | Soil pit @ margin | **SOIL-PIT-1** |
 
@@ -263,10 +280,10 @@
 
 | Deliverable | ID |
 |-------------|-----|
-| Colonnade complete | **COLONNADE-RING-1** |
+| Colonnade complete | **COLONNADE-RING-1** | **✓ 100% d1246** — **N+S+E+W court beamed+leaned ✓ · stub half-col tied ✓ · H-V3-NORTH-TIE open passage ✓ · SR cover defer · SC-NP-07 ghost optional**
 | North tie / horreum grammar | **H-V3-NORTH-TIE-1** |
-| Interior plaster | **H-V3-PLASTER-1** |
-| H-v2 → **store mode** formalized | **H-V2-STORE-1** |
+| Interior plaster | **H-V3-PLASTER-1** | **✓ d1253** — **COMPOUND-PLASTER-1 closed · temp panels off · court open · compound ~99%**
+| H-v2 → **store mode** formalized | **H-V2-STORE-1** | **✓ d1254 — horreum A/B/C LIVE · domus north range · doctrine @ kitchen + C-0**
 
 ---
 
@@ -342,7 +359,7 @@
 | **Tier 3 lime** | Plaster · bedding · pit seal |
 | **AQUEDUCT-1** ✓ | Kitchen · bath |
 | **CRANE-1** ✓ | Tile · pillar caps |
-| **FLUSH-TOILET-1** / latrine grammar | East range |
+| **FLUSH-TOILET-1** / latrine grammar | **DR-LT-01 ✓ d938 · east margin ✓ d1252** |
 | **CHEM-LAB-1** | Glass addons later |
 
 ---
@@ -384,7 +401,7 @@
 ## Open decisions *(stake day)*
 
 - [ ] **Impluvium** — shallow pool vs **drain only** *(✓ drain-only default filed d1099 · pool defer)*
-- [ ] **North tie** — open colonnade vs **covered passage** to H-v2 *(✓ staked d1098 · ~3.2 m · PW ~1.4 m · SR ~2.6 m · build defer)*
+- [x] **North tie** — **open colonnade passage ✓ d1246 · H-V3-NORTH-TIE-1 · SR covered option defer**
 - [ ] **SOIL-PIT-1** exact margin site — fall · distance from well/aqueduct
 - [ ] **Hypocaust** under cubicula — **defer yes/no**
 

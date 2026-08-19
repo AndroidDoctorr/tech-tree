@@ -4,21 +4,21 @@
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME C-0 west cubiculum** · **Cal-Y4 D223** · **Week 171 open · ×40 GB-1190 drying · ~315 @ Kiln B**
+**Status:** **HOME C-0 west cubiculum** · **Cal-Y4 D287** · **Week 180 · compound ~100% · DOMUS MVP sprint**
 
 ### TOWER-MATERIAL-AUDIT-988 *(Day 988 · stock sanity)*
 
 | Item | Corrected status |
 |------|------------------|
 | **Tower wythe** | **Kiln B fired brick ~22×11×5 cm — ~148 in WW-HUB-TOWER shell · NOT pile 8 · NOT stone brick** |
-| **Kiln B brick** | **~315 stackable @ Kiln B d1184** | **×40 GB-1190 green @ pile 3 d1190 · touch 1192+ · pit before fire** |
-| **Pile 7 lime** | **~14.1 kg CaCO₃ GREEN d1189 · putty ~0.70 kg GREEN @ trough · jar ~7.0 kg** |
-| **Roof tiles** | **×60 TR fired @ rack d1182 · ×0 TR green · penus/porticus horizon · ×4 TR grog + ×8 brick grog class** |
-| **Pile 4 stone** | **~79 kg dress stock d1188** | **−~12 kg colonnade socle dress · was ~91 kg d1174** |
-| **Pile 8** | **×8 FS dimension stone ~24 kg — lintel reserve d1174** |
-| **Pile 5 oak** | **~16 kg @ pile 5 d1185** | **−~10 kg PIT-CHAR-152 d1185 · −~10 kg PIT-CHAR-151 d1184 · +~26 kg WOOD-HAUL-1183** |
+| **Kiln B brick** | **~246 stackable @ Kiln B d1225** | **−×14 east tub d1225 · −×18 east c8 d1217 · +36 GB-FIRE-1215 d1215** |
+| **Pile 8** | **×6 FS dimension stone ~21 kg d1243** | **+×2 FS d1243 · was ×4 ~14 kg d1236** |
+| **Pile 7 lime** | **~1.2 kg CaCO₃ class d1260 · putty ~0.03 kg GREEN @ trough · jar ~0.8 kg reserve @ v1** |
+| **Roof tiles** | **×50 TR fired @ rack · ×0 TR green · ×56 laid colonnade lean ✓ · ×10 TR grog class** | **TR-FIRE-TRIPLE ✓ d1253 · press reseed optional** |
+| **Pile 4 stone** | **~2 kg dress stock d1244 RED** | **−~42 kg COL-N drums 2–4 d1244 · was ~77 kg d1243** |
+| **Pile 5 oak** | **~38.4 kg @ pile 5 d1254** | **−~0.6 kg curtain rod d1254 · was ~39 kg d1252** |
 | **Pile 9** | **Pole spill cleared d1097 · travois + corral/fence stakes + drop bar remain** |
-| **Char/clay** | **lane ~17.7 kg AMBER · pile 1 ~17.5 kg AMBER d1190 · pile 5 ~16 kg · green queue ×40 GB-1190 · ×0 TR green · east pad reclaim ×0** |
+| **Char/clay** | **lane ~14.0 kg GREEN d1253 · pile 1 ~46.5 kg GREEN · pile 5 ~38.4 kg · ×50 TR fired @ rack** |
 
 ### Belt / hide / dressing *(audit Day 828)*
 
@@ -145,8 +145,16 @@
 |------|-----|--------|
 | **Site status** | **H-V2-DEMO-1165 ✓ close** | **Void empty · ×52 reclaim eaten d1169+d1187 · east wythe c2 ✓ · ~38 pilae · ×32 F-tile sorted · horreum+cool cellar HOLD** |
 | **H-V2-RECLAIM-PILE-1** | **✓ eaten d1187** | **×18 c1 + ×34 c2 @ east thermae · east pad ×0 · ~11 grog @ crush tray · ~38 pilae** |
-| **H-V3-EAST-WYTHE-1** | **[~] ~28% d1187** | **Course 1–2 ✓ · hypocaust void defer · course 3+ from Kiln B stackable** |
-| **H-V3-COLONNADE-SOCLE-1188** | **✓ 100% d1189** | **×4 mortar set @ north stub line · cure hold · column horizon** |
+| **H-V3-EAST-WYTHE-1** | **~100% · caldarium soak ✓ d1227 · bath + latrine + flush ✓ d1252** | **H-V3-BATH-1 closed · repeat hypo burn when named** |
+| **H-V3-EAST-FLUSH-RESERVOIR-1** | **✓ d1252 @ east margin · ~35 L · reed valve · overflow → tepidarium grey** | **Cold tee @ aqueduct east branch** |
+| **H-V3-EAST-FLUSH-TOILET-1** | **✓ d1252 · pressure flush live · pull cord @ east margin seat** | **→ SOIL-PIT-1 east branch · never Orontes** |
+| **H-V3-COLONNADE-SOCLE-1188** | **✓ COLONNADE-RING ✓ 100% · COMPOUND-PLASTER ✓ · EXT-WHITEWASH-1 ✓ d1260 · DOMUS MVP ✓** | **LINENS-SPRINT post-harvest · ×50 TR @ rack** |
+| **H-V2-STORE-1** | **✓ d1254 · horreum A/B/C LIVE · domus north range formalized** | **Doctrine @ kitchen + C-0 · open PW passage** |
+| **CULINA-CURTAIN-1** | **✓ d1254 · forest green LM-2 @ south window · rod live** | **CULINA-SOUTH-SHELL-1 ✓ 100%** |
+| **CULINA-RUG-1** | **✓ d1256 · ~108×72 cm forest green @ culina bay center** | **WOAD-VAT-1 + onion · pairs with curtain · CULINA-GREEN-1 ✓** |
+| **H-V3-CUBICULUM-RUG-1** | **✓ d1119 · ~102×68 cm burgundy @ west respawn bay** | **DYE-RECIPE-BURGUNDY-1 · bedside class** |
+| **DOMUS-ATRIUM-PAD-1** | **✓ d1257 · ~3.6 m Ø flag ring @ compluvium margin · pour PASS** | **SUN-MARK pad folded @ S margin · DOMUS-ATRIUM-PAD-LIVE chalked** |
+| **H-V3-CUB-RUG-E-1** | **✓ d1255 · ~101×67 cm burgundy @ east cell bedside** | **Pair with west · card repeat** |
 | **WINTER-TREE-1** | **✓ @ C-0 court margin SE in P-PLANT-1 d1166** | **Aleppo pine · HOUSEPLANT-URN-1 ✓ · YULE decor grammar · COURT-PLANT-2 ficus horizon** |
 | **MUS-1 lyre** | **✓ @ v1 ante peg d1164** | **Moved from H-v2 ante** |
 | **SINK-BASIN-1** | **✓ salvage @ v1 staging d1164** | **P-κ + drain stub · was H-v2 kitchen counter** |
@@ -157,7 +165,7 @@
 | **BEDDING-SET-A** | **✓ complete** | **PILLOW-SLIP-A-1 ✓ · BEDDING-SHEET-A-1 ✓ · BLANKET-A-1 ✓** |
 | **BLANKET-B-1** | **1 ✓** | **~96×168 cm sandwich · madder red-orange @ peg · DYE-BLANKET-B-1 ✓ Day 586** |
 | **BEDDING-SET-B** | **✓ complete** | **PILLOW-SLIP-B-1 ✓ · BEDDING-SHEET-B-1 ✓ · BLANKET-B-1 ✓ madder red** |
-| **MADDER-ROOT-585** | **~118 g dry reserve** | **Held d969 · −~26 g H-V3-CUB-RUG-DYE-1 d1119 · @ v1 CHEM porch rack** |
+| **MADDER-ROOT-585** | **~96 g dry reserve** | **−~22 g H-V3-CUB-RUG-E-DYE-1255 · prior −~26 g d1119 · @ v1 CHEM porch rack** |
 | **WOAD-SEED-Y3-966** | **~15 g clean seed** | **DYE-TRIP-1 d966 · @ v1 CHEM dry shelf · **Cal-Y4 spring sow** · Bed D margin or herb trial** |
 | **MADDER-BED-RESERVE** | **×4 crowns planted d966** | **~2×3 m @ Bed B herb margin W · autumn heel-in · farm red path** |
 | **BLANKET-SANDWICH** | trial ✓ Day 548 | **double panel + tow batting + tuft grammar** |
@@ -188,7 +196,7 @@
 | **CULINA-SOUTH-GEAR-MOVE-1151** | **✓ d1151** | **Cart ×2 · utensils · pots · towels · herbs · tongs · ladle · skillet · pot @ trammel · H-v2 backup wet** |
 | **CULINA-SOUTH-MISE-1151** | **✓ d1151** | **Cook @ hearth · wash @ basin · serve @ penus stub** |
 | **CULINA-SOUTH-HANDOFF-1152** | **✓ d1152** | **First domus south meal · H-v2 demoted backup wet · fit-out 100%** |
-| **CULINA-SOUTH-FIT-OUT-1** | **✓ d1152** | **Floor · hearth · flue · sink · cold · hot · window glass ✓ d1186 · curtain defer → CULINA-GREEN-1 woad+onion** |
+| **CULINA-SOUTH-FIT-OUT-1** | **✓ d1152** | **Floor · hearth · flue · sink · cold · hot · window glass ✓ d1186 · curtain ✓ d1254** |
 | **H-V3-VESTIARIUM-1** | **✓ d1153** | **Oak rail ~92 cm @ PAR-E · peg finish · rotation hang · load PASS · shared west/east cells** |
 | **CULINA-SOUTH-HEARTH-HOOK-1** | **✓ d1149** | **Iron bar ~72 cm @ bond beam · trammel S-hook · dry ~4 kg PASS** |
 | **CULINA-SOUTH-VENT-1** | **✓ d1149** | **Hood lip · reed cheeks · louvers ×4 @ window · steam PASS** |
@@ -197,9 +205,10 @@
 | **HEADER-STAND-1** | **✓ ~2.2 m platform @ WW-YARD Day 565** |
 | **WATER-PRESSURE-1** | **✓ Day 571 · SHOWER-1 branch Day 579** |
 | **SHOWER-1** | **✓ kitchen arm capped d1164 · DR-LT-01 live** |
-| **THRESH-ZONE-1** | **✓ Day 578 — barn pad ~2.4×1.8 m · winnow lane W · tarps staged ✓ d940** |
-| **SHEAF-RACK-1** | **✓ d940 @ barn north face · ×4 fork stakes · ~6 sheaf capacity · leeward of thresh pad** |
-| **GRAIN-BAY-Y3** | **✓ d940 @ v1 — bulk bay ~0.20 kg remain · ~0.6 kg → HORREUM-A d1064 · elite @ SEED-VAULT east · no-mix doctrine** |
+| **THRESH-ZONE-1** | **✓ Day 578 — barn pad ~2.4×1.8 m · winnow lane W · tarps staged · refreshed ✓ d1261** |
+| **SHEAF-RACK-1** | **✓ d940 @ barn north face · ×4 fork stakes · ~6 sheaf capacity · recheck ✓ d1261** |
+| **GRAIN-BAY-Y4** | **✓ prep d1261 @ v1 — EMMER-BULK-Y4 bulk bay · baskets ×2 · elite @ SEED-VAULT · no-mix doctrine** |
+| **EMMER-INCOMING-Y4** | **✓ chalked d1261 @ horreum A north floor ~1.8×1.2 m clear · amphora ×2 → B overflow** |
 | **BARREL-1 v0** | **✓ Day 568** — **~32 L oak · wicker hoops ×3 · water @ W-1 rack** |
 | **BARREL-2 v0** | **✓ Day 573** — **~31 L oak · IRON-HOOP-1 waist · BUNG-TAP-2 · grain @ W-1 · +~1.02 kg d946 top-up · ~9–15 kg est.** |
 | **IRON-HOOP-1** | **✓ Day 572** — **~12 g lap-weld strap on BARREL-2** |
@@ -266,7 +275,7 @@
 | **WAGON scout bank** | **~17.6 kg @ v1/cellar repack** | **−~3.2 kg trip d837–839 · KELP-BANK doctrine** |
 | **Home scout reserve** | **~13.4 kg class** | **unchanged @ trip** |
 | **M-13 kelp (dry)** | **—** | **Burned d840 → KELP-ASH-2** |
-| **WOAD-VAT-1** | **✓ live @ v1 CHEM crock d1189** | **Small trial vat · S-WOAD blue · CULINA-GREEN forest swatch ✓ · curtain weave queued** |
+| **WOAD-VAT-1** | **✓ live @ v1 CHEM crock d1189** | **−1 dip CULINA-RUG d1256 · curtain d1254 · CULINA-GREEN-1 ✓** |
 | **KELP-ASH-2** | **~34 g** @ v1 CHEM | **−~8 g WOAD-VAT-1 d1189 · prior glass draws** |
 | **Soda total** | **~241 g class** | **KELP-ASH-1 + KELP-ASH-2 remain** |
 | **GP glass samples** | **845–847 sealed ampoules @ anneal · rack** | **Shape ladder · neck close d847** |
@@ -283,7 +292,7 @@
 | **TIE-DYE-SWATCH-545** | **×6 bind-resist tags** | **@ v1 CHEM shelf · dip order reference** |
 | **KELP-ASH-1** | **~108 g** | **−~6 g Day 388 · −~6.5 g TRIAL-3/4 Day 395 · unchanged d841** |
 | **M-11 alum (crude)** | **~1.75 kg** dry class | **EXPED-C P2** @ v1 CHEM tray · lidded |
-| **ALUM-PURIFY-1** | **~86 g** crystal class | **−~6 g WOAD-VAT-1 d1189 · prior draws** |
+| **ALUM-PURIFY-1** | **~56 g** crystal class | **−~13 g CULINA-RUG d1256 · prior draws d1254–1255** |
 | **MORDANT-TRIAL-1 swatches** | **×3 linen strips** | Alum+hull tan · controls @ v1 CHEM shelf |
 | **DYE-PANEL-1 swatches** | **×7 (S-01–S-07)** | Hull tan · iron liquor · grape · onion · tannin · control · thread dip @ v1 CHEM |
 | **DYE-PLAY-496 trials** | **×4 tags** | Deep hull · long iron · onion→hull seq · grape→iron mauve @ v1 CHEM |
@@ -427,7 +436,7 @@
 | **Red seep clay (M-02)** | small | Near pile 1 |
 | **River sand (grog)** | **~7 kg** class | **−~1 kg counter grout Day 763** |
 | **Fired roof tiles** | **×47 CHEM-LAB · ×50 STORE-4 · ×22+×2 RR WW-HUB-TOWER · ×20 @ CULINA-SOUTH roof d1138** | **A+B+C roofs ✓ · culina south ✓ · ×0 surplus @ rack** |
-| **Green roof tiles** | **×0 TR green · GB-1190 ×40 drying @ pile 3 d1190** | **GB-FIRE 1192+ after touch · pit lap before ×40 burn** |
+| **Green roof tiles** | **×0 TR green @ rack · ×0 GB green @ pile 3** | **×50 TR fired · TR-PRESS reseed optional · pile 1 ~46 kg** |
 | **Tile pipeline** | **active** | **TOWER batch queued d988 · TILE-FORM-1 @ kiln yard** |
 | **AMPHORA-3** | **✓ @ HORREUM-A RESERVE-A cradle d1063** | **M-08 ✓ · water/grain class · RESERVE-A LIVE** |
 | **AMPHORA-2** | **✓ @ TRAIL-CACHE-2 Day 746** | M-08 · empty shell · water refill on west march |
@@ -441,8 +450,8 @@
 | Item | Qty | Notes |
 |------|-----|--------|
 | **Field / bridge stone (pile 4)** | **~25 kg** dress reserve | **−~12 kg CULINA-SOUTH-SOCLE-1 d1130 · ×6 dress · wythe runway OK** |
-| **Floor stones (FS) — pile 8** | **×8 FS-class blocks ~22 kg** | **+×2 FS d1121 · dimension lintel reserve** |
-| **Limestone / calcite (pile 7)** | **~14.9 kg** raw CaCO₃ **GREEN d1187** | **putty ~1.05 kg GREEN · jar ~6.5 kg · −~1.0 kg east wythe c2 mortar** |
+| **Floor stones (FS) — pile 8** | **×6 FS-class blocks ~21 kg d1243** | **+×2 FS d1243 · COL-N-BEAM lintel reserve** |
+| **Limestone / calcite (pile 7)** | **~11.6 kg** raw CaCO₃ **GREEN d1252** | **putty ~0.25 kg GREEN · jar ~7.0 kg · −~0.18 kg east flush box d1252** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
 | **Copper peas (stock)** | **~53 g scrap** | **SMELT-22 + SMELT-848 offcut ~41 g d848** |
 | **CU-BUCKET-1** | **✓ ~128 g · ~3.8 L** | **Raised copper · riveted seam · bail · @ CART-YARD peg · leak PASS Day 621** |
@@ -529,8 +538,10 @@
 | **CORK-BARK-852** | **~1.05 kg dry class** | **Scout strip P-20-A · ~2.3 kg wet · @ chem east sill** |
 | **BEACH-TOWEL-1** | **✓ ~156×80 cm** | **Day 854 · longwise madder stripe · @ v1 FIBER peg** |
 | **BEACH-TOWEL-2** | **✓ ~156×80 cm** | **Day 969 · plain natural backup · @ v1 FIBER peg** |
-| **OIL-LANTERN-1** | **✓ v1 · portable · default @ LAB-LANTERN-HANG-1** | **Day 882 · 4/4 panes · light trial PASS · cord bail · v2 slate queued** |
-| **LAB-LANTERN-HANG-1** | **✓ @ CHEM-LAB north rafter** | **Day 881 hook · C-2 cord · OIL-LANTERN-1 hung d882 · chain v2 queued** |
+| **OIL-LANTERN-1** | **✓ v1 · portable · default @ DOMUS-LANTERN-HANG-1** | **Moved d1258 from lab · 4/4 panes · cord bail · chain v2 queued** |
+| **DOMUS-LANTERN-HANG-1** | **✓ @ south culina bond beam d1258** | **Iron S-hook · OIL-LANTERN-1 default · trial PASS** |
+| **EXT-WHITEWASH-1** | **✓ d1260 · 100% domus exterior lime wash** | **d1258–1260 · south · west · east · north · stubs · EXT-WHITEWASH-LIVE @ slate** |
+| **LAB-LANTERN-HANG-1** | **✓ hook empty @ CHEM-LAB north rafter** | **Lantern moved d1258 · lab dark default · chain v2 queued** |
 | **LANTERN-PANE-FRAME-1** | **✓ @ GLASS-SAND-TABLE-1** | **Day 879 · ~6×8 ID sand pour form · dam lips · 873–874 form-fit PASS** |
 | **BEACH-UMBRELLA-1** | **✓ 100% Day 975** | **UMB-STRIPE-DYE-969 ✓ · home deploy PASS d975 · COAST sand trip backlog** |
 | **BEACH-CHAIR-1** | **✓ 100%** | **BEACH-CHAIR-STRIPE-969 ✓ teal verdigris sling · fold flat · kit @ staging** |
@@ -616,9 +627,9 @@
 | **LM-2 loom** | **✓ @ W-1 under ROOF-W1** | **Primary textile shop · dry · room for loom + daily work *(TEXTILE-DOCTRINE-1096)* ** |
 | **LM-3-SAIL-LOOM-1** | **Slate d888 — not built** | **Wide beam · sail horizon · LOOM-WING · after BOAT-1 + flax m²** |
 | **Line flax @ FIBER row** | **~0 g** | **WHEEL-SPIN-10 ✓ d886 · depleted · field owns next pull** |
-| **THREAD-STOCK-2** | **~223 m @ W-1 d1117** | **−~11 m H-V3-CUBICULUM-RUG-1 · hold d888 base** |
+| **THREAD-STOCK-2** | **~114 m @ W-1 d1256** | **−~13 m CULINA-RUG d1256 · prior draws d1254–1255** |
 | **THREAD-STOCK-1** | **~12.8 m** | **−~0.8 m kitchen rod lash d887** |
-| **Flax tow @ W-1** | **~470 g @ W-1 d1162** | **+~175 g FLAX-HECKLE-1162 · prior ~295 g d1117** |
+| **Flax tow @ W-1** | **~145 g @ W-1 d1256** | **−~170 g CULINA-RUG d1256 · prior ~315 g d1255** |
 | **Wild flax line @ W-1** | **~430 g @ W-1 peg d1162** | **P-RETT-4 ✓ · FLAX-HECKLE-1162 · spin interleave** |
 | **Coarse fiber @ FIBER row** | **~22 g** | Cordage class · not garment |
 | **Coarse thread bank** | **~0 m @ W-1** | **~38 m → C TEXTILE-OVERFLOW long-store d1097** |
@@ -742,7 +753,7 @@ See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries
 |-------|--------|
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
-| **Clay weigh** | **~25.4 kg @ pile 1 · GREEN · re-weigh on factory day** |
+| **Clay weigh** | **~46.5 kg @ pile 1 · GREEN · ×50 TR fired @ rack · press reseed optional** |
 | **River sand** | **~7 kg — OK · haul if <~3 kg before grout hero** |
 | **Char lane** | **~12.8 kg GREEN · vault ~63 kg untouched · pile 7 ~15.9 kg raw GREEN** |
 | **Green queue** | **×0 @ pile 3 · press optional on clay haul** |

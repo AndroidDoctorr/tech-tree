@@ -8,6 +8,43 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 *Recent days only — full chronology: [journal/index.md](journal/index.md)*
 
+**Day 1227 · Cal-Y4 D260:** **H-V3-EAST-CALDARIUM-TEST ✓ · HYPO-HERO-HEAT-2 ✓ · TR-PRESS-1227 ✓ ×16 · soap defer**
+**Day 1226 · Cal-Y4 D259:** **H-V3-EAST-LATRINE-PIT-TIE ✓ · Week 176 open · east leg ~100% · tub soak 1227+**
+**Day 1225 · Cal-Y4 D258:** **H-V3-BATH-1 ✓ · tub · basin · hot/cold · latrine stub · Week 175 close · east ~99%**
+**Day 1224 · Cal-Y4 D257:** **H-V3-EAST-PLASTER-1 ✓ · east shell ~98% · bath fit-out horizon · compound ~76%**
+**Day 1223 · Cal-Y4 D256:** **H-V3-EAST-ROOF-TR-1 ✓ · H-V3-EAST-FLUE-PEN ✓ · drip PASS · east shell ~96%**
+**Day 1222 · Cal-Y4 D255:** **TR-FIRE-1222 ✓ 15/16 · PIT-CHAR-161 ✓ · ×32 TR @ rack · east roof GO**
+**Day 1221 · Cal-Y4 D254:** **BOND-BEAM-CURE-READ-1221 ✓ load GO · TR-TOUCH-1221 AMBER · fire defer 1222+**
+**Day 1220 · Cal-Y4 D253:** **TR-PRESS-1220 ✓ ×16 · PIT-CHAR-160 ✓ dual · lane ~52 kg · beam cure night 1**
+**Day 1219 · Cal-Y4 D252:** **H-V3-EAST-BOND-BEAM-1 ✓ · KILN-A-LIME-1219 ✓ · Week 175 open · wythe ~92%**
+**Day 1218 · Cal-Y4 D251:** **HAUL-CLAY-1218 ✓ · HAUL-LIME-1218 ✓ · Week 174 close · pile 7 ~25.6 kg**
+**Day 1217 · Cal-Y4 D250:** **H-V3-EAST-HYPO-HERO-HEAT-1 ✓ · H-V3-EAST-WYTHE c8 ✓ · ~88%**
+**Day 1216 · Cal-Y4 D249:** **H-V3-EAST-HYPO-FLOOR-1 ✓ 100% · ×58 TR · grout · hero heat GO**
+**Day 1215 · Cal-Y4 D248:** **GB-FIRE-1215 ✓ +36 · H-V3-EAST-GRATE-1 ✓ · hypo floor ~65% · ×40 TR**
+**Day 1214 · Cal-Y4 D247:** **H-V3-EAST-WYTHE c7 ✓ · ~78% · H-V3-EAST-HYPO-FLOOR ~40% · ×24 TR**
+**Day 1213 · Cal-Y4 D246:** **GREEN-PRESS-1213 ✓ ×40 GB-1213 · PIT-CHAR-159 ✓ · lane ~54 kg**
+**Day 1212 · Cal-Y4 D245:** **WOOD-HAUL-1212 ✓ ×4 laps · pile 5 ~78 kg GREEN · Week 174 open**
+**Day 1211 · Cal-Y4 D244:** **HAUL-CLAY-1211 ✓ · pile 1 ~34.5 kg GREEN · Week 173 close**
+**Day 1210 · Cal-Y4 D243:** **GB-FIRE-1210 ✓ +36 · H-V3-EAST-HYPO-FLOOR ~20% · ×12 TR laid**
+**Day 1209 · Cal-Y4 D242:** **PIT-CHAR-158 ✓ · TR-FIRE-1209 ✓ 15/16 · ×75 TR @ rack**
+**Day 1208 · Cal-Y4 D241:** **H-V3-EAST-WYTHE c6 ✓ · TR-TOUCH-1208 ✓ · ~68% · ~224 @ Kiln B**
+**Day 1207 · Cal-Y4 D240:** **GREEN-PRESS-1207 ✓ ×40 GB-1207 · PIT-CHAR-157 ✓ · lane ~51 kg**
+**Day 1206 · Cal-Y4 D239:** **TR-PRESS-1206 ✓ ×16 · PIT-CHAR-156 ✓ · FACTORY-BRANCH green ×0 → pit not fire**
+**Day 1205 · Cal-Y4 D238:** **WEEK-173-OPEN ✓ · H-V3-EAST-WYTHE c5 ✓ · ~58% · ~242 @ Kiln B**
+**Day 1204 · Cal-Y4 D237:** **H-V3-EAST-FLUE-STACK-1 ✓ · SMOKE-TEST-1204 ✓ · chimney named @ east leg**
+**Day 1203 · Cal-Y4 D236:** **H-V3-EAST-FURNUS-1 ✓ · FLUE-THROAT ✓ · FLUE-CHEEK ~70% · void tie live**
+**Day 1202 · Cal-Y4 D235:** **H-V3-EAST-SUSPENSURA-1 ✓ · HYPO-SHELL-CLOSE ✓ · walk PASS · tile/flue defer**
+**Day 1201 · Cal-Y4 D234:** **H-V3-EAST-PILAE-C4 ✓ ×12 · pilae ×48 target height ✓ · suspensura queued**
+**Day 1200 · Cal-Y4 D233:** **H-V3-EAST-PILAE-C3 ✓ ×12 · pilae ×36 · CURE-READ-1200 c4 PASS · c5 queued**
+**Day 1199 · Cal-Y4 D232:** **H-V3-EAST-PILAE-C2 ✓ ×12 · pilae ×24 total · wythe c4 cure hold**
+**Day 1198 · Cal-Y4 D231:** **WEEK-172-OPEN ✓ · CURE-READ-1198 AMBER · H-V3-EAST-HYPO void ✓ · PILAE-C1 ✓ ×12**
+**Day 1197 · Cal-Y4 D230:** **PIT-CHAR-155 ✓ · KILN-B-BRICK-FIRE-1197 ✓ +36 · ~351 @ Kiln B**
+**Day 1196 · Cal-Y4 D229:** **CURE-READ-1196 ✓ · H-V3-EAST-WYTHE c4 ✓ · GB-TOUCH-1196 ✓ · PIT-CHAR-155 deferred**
+**Day 1195 · Cal-Y4 D228:** **HAUL-COMBO-1195 ✓ · WOOD-HAUL-1195 ✓ · HAUL-CLAY-1195 ✓ · pile 5 ~66 kg · pile 1 ~38 kg**
+**Day 1194 · Cal-Y4 D227:** **PIT-CHAR-154 ✓ · GREEN-PRESS-1194 ✓ ×40 GB-1194 · lane ~33 kg**
+**Day 1193 · Cal-Y4 D226:** **HAUL-COMBO-1193 ✓ · WOOD-HAUL-1193 ✓ · HAUL-CLAY-1193 ✓ · pile 5 ~50 kg · pile 1 ~37 kg**
+**Day 1192 · Cal-Y4 D225:** **PIT-CHAR-153 ✓ dual · H-V3-EAST-WYTHE c3 ✓ · KILN-B-BRICK-FIRE-1192 ✓ +36 · ~333 @ Kiln B**
+**Day 1191 · Cal-Y4 D224:** **WEEK-171-OPEN ✓ · WOOD-HAUL-1191 ✓ · GB-TOUCH-1191 ✓ · pile 5 ~42 kg**
 **Day 1190 · Cal-Y4 D223:** **HAUL-CLAY-1190 ✓ · GREEN-PRESS-1190 ✓ ×40 GB-1190 · CL-WOAD-JEANS-SLATE · Week 170 close**
 **Day 1189 · Cal-Y4 D222:** **WOAD-VAT-1 ✓ · CULINA-GREEN-SWATCH ✓ · H-V3-COLONNADE-SOCLE ✓ ×4 · HAUL-CLAY-1189 ✓**
 **Day 1188 · Cal-Y4 D221:** **WOAD-LEAF-1 ✓ ~240 g fresh · H-V3-COLONNADE-SOCLE-1188 ✓ · factory pause**
