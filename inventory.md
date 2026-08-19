@@ -16,9 +16,9 @@
 | **Pile 7 lime** | **~1.2 kg CaCO₃ class d1260 · putty ~0.03 kg GREEN @ trough · jar ~0.8 kg reserve @ v1** |
 | **Roof tiles** | **×50 TR fired @ rack · ×0 TR green · ×56 laid colonnade lean ✓ · ×10 TR grog class** | **TR-FIRE-TRIPLE ✓ d1253 · press reseed optional** |
 | **Pile 4 stone** | **~2 kg dress stock d1244 RED** | **−~42 kg COL-N drums 2–4 d1244 · was ~77 kg d1243** |
-| **Pile 5 oak** | **~38.4 kg @ pile 5 d1254** | **−~0.6 kg curtain rod d1254 · was ~39 kg d1252** |
+| **Pile 5 oak** | **~36.4 kg @ pile 5 d1268** | **−~18 kg PIT-CHAR-DUAL-1268 · prior ~54.4 kg d1267** |
 | **Pile 9** | **Pole spill cleared d1097 · travois + corral/fence stakes + drop bar remain** |
-| **Char/clay** | **lane ~14.0 kg GREEN d1253 · pile 1 ~46.5 kg GREEN · pile 5 ~38.4 kg · ×50 TR fired @ rack** |
+| **Char/clay** | **lane ~25.6 kg AMBER d1268 · pile 1 ~46.5 kg · pile 5 ~36.4 kg · ×50 TR @ rack** |
 
 ### Belt / hide / dressing *(audit Day 828)*
 
@@ -276,7 +276,7 @@
 | **Home scout reserve** | **~13.4 kg class** | **unchanged @ trip** |
 | **M-13 kelp (dry)** | **—** | **Burned d840 → KELP-ASH-2** |
 | **WOAD-VAT-1** | **✓ live @ v1 CHEM crock d1189** | **−1 dip CULINA-RUG d1256 · curtain d1254 · CULINA-GREEN-1 ✓** |
-| **KELP-ASH-2** | **~34 g** @ v1 CHEM | **−~8 g WOAD-VAT-1 d1189 · prior glass draws** |
+| **KELP-ASH-2** | **~8.6 g** @ v1 CHEM | **−~14.4 g OIL-LANTERN-2 panes d1265 · prior draws** |
 | **Soda total** | **~241 g class** | **KELP-ASH-1 + KELP-ASH-2 remain** |
 | **GP glass samples** | **845–847 sealed ampoules @ anneal · rack** | **Shape ladder · neck close d847** |
 | **Home scout reserve** | **~13.4 kg class** | **Not on wagon · kitchen/weir separate** |
@@ -396,7 +396,7 @@
 | Location | Qty | Notes |
 |----------|-----|--------|
 | **Store C** (vault) | **~63 kg class** | **−~5.5 kg KILN-A-LIME-1092 · pit char before lane empty fires** |
-| **Char lane @ forge** | **~1.6 kg** class | **−~2.4 kg basin fire d1147 · RED** |
+| **Char lane @ forge** | **~25.6 kg** class | **PIT-CHAR-DUAL-1268 · glass WATCH · maintenance GO · vault ~63 kg cold** |
 | **Pile 1** | **~26 kg** class | **−~0.8 kg basin d1147 · hearth/flue/tile prior** |
 | **Pile 5** (wood) | **~58 kg** class | **−~2.0 kg vent d1149 · window/aqueduct prior** |
 | **Pile 3 green brick** | **~40** queued | **GREEN-PRESS-1124 ✓ d1124 · fire when leather-hard** |
@@ -449,7 +449,7 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Field / bridge stone (pile 4)** | **~25 kg** dress reserve | **−~12 kg CULINA-SOUTH-SOCLE-1 d1130 · ×6 dress · wythe runway OK** |
+| **Field / bridge stone (pile 4)** | **~47 kg** dress reserve | **+~22 kg HAUL-STONE-1270 · ×7 FS candidates marked · MILLHOUSE-2 runway** |
 | **Floor stones (FS) — pile 8** | **×6 FS-class blocks ~21 kg d1243** | **+×2 FS d1243 · COL-N-BEAM lintel reserve** |
 | **Limestone / calcite (pile 7)** | **~11.6 kg** raw CaCO₃ **GREEN d1252** | **putty ~0.25 kg GREEN · jar ~7.0 kg · −~0.18 kg east flush box d1252** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
@@ -527,6 +527,10 @@
 | **GP-1159-HOLLOW-1** | **✓ @ rack G shape reference** | **Day 1159 · tap d1160 · ~11 mm ID · wall even · stub rough** |
 | **GP-1160-NECK-GRAMMAR-1** | **✓ @ rack G grammar reference** | **Day 1160 · tap d1161 · seat MARGINAL · grammar not pantry** |
 | **GP-1161-FLASK-1** | **✓ @ rack J spare flask** | **Day 1161 · tap d1162 · ~50 g · seat PASS · plug fitted** |
+| **GP-1263-LAB-FLASK-1** | **✓ @ chem bench d1264** | **Lab bench primary · plug PASS cold · POT-LAB-SET-1 · 855 grammar** |
+| **GP-1263-VIAL-G/H/I** | **✓ @ rack G–I d1264** | **×3 fresh vials · wax tags G/H/I-1263 · legacy A–F untouched** |
+| **GP-1265-OL2-PANE-1..4** | **✓ set @ OIL-LANTERN-2 faces A–D d1266** | **870-class ~6×8 · tap d1266 · 4/4 assembly PASS** |
+| **OIL-LANTERN-2** | **✓ @ LAB-LANTERN-HANG-1 east d1266** | **Oak frame · GP-1265 ×4 · tallow · thread wick · cord bail · lab default** |
 | **GP-1161-CULINA-LITE-2** | **✓ @ culina sill tray lite #2** | **Day 1161 · tap d1162 · ~8×10 · SE fix PASS** |
 | **WOAD-LEAF-STOCK-1188** | **✓ consumed d1189 → WOAD-VAT-1** | **~58 g dry from ~240 g fresh · patch pull d1188** |
 | **CULINA-WINDOW-GLASS-STOCK** | **×20 set @ culina window d1186 · full ~45×40 grid ✓** | **CULINA-SOUTH-WINDOW-GLASS-1 ✓ · curtain defer → CULINA-GREEN-1** |
@@ -541,7 +545,7 @@
 | **OIL-LANTERN-1** | **✓ v1 · portable · default @ DOMUS-LANTERN-HANG-1** | **Moved d1258 from lab · 4/4 panes · cord bail · chain v2 queued** |
 | **DOMUS-LANTERN-HANG-1** | **✓ @ south culina bond beam d1258** | **Iron S-hook · OIL-LANTERN-1 default · trial PASS** |
 | **EXT-WHITEWASH-1** | **✓ d1260 · 100% domus exterior lime wash** | **d1258–1260 · south · west · east · north · stubs · EXT-WHITEWASH-LIVE @ slate** |
-| **LAB-LANTERN-HANG-1** | **✓ hook empty @ CHEM-LAB north rafter** | **Lantern moved d1258 · lab dark default · chain v2 queued** |
+| **LAB-LANTERN-HANG-1** | **✓ OIL-LANTERN-2 @ chem-lab east d1266** | **Iron S-hook · ~1.7 m drop @ bench lane · light trial PASS · chain v2 queued** |
 | **LANTERN-PANE-FRAME-1** | **✓ @ GLASS-SAND-TABLE-1** | **Day 879 · ~6×8 ID sand pour form · dam lips · 873–874 form-fit PASS** |
 | **BEACH-UMBRELLA-1** | **✓ 100% Day 975** | **UMB-STRIPE-DYE-969 ✓ · home deploy PASS d975 · COAST sand trip backlog** |
 | **BEACH-CHAIR-1** | **✓ 100%** | **BEACH-CHAIR-STRIPE-969 ✓ teal verdigris sling · fold flat · kit @ staging** |

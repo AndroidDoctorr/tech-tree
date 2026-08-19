@@ -1,17 +1,18 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1261** · **Cal-Y4 D294** · **Week 181 open · HARVEST-PREP ~25%**
+*Last updated: **Day 1270** · **Cal-Y4 D303** · **HAUL-STONE ✓ · MILLHOUSE-2 slate filed**
 
 ---
 
-## Now @ Day 1261
+## Now @ Day 1270
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **Harvest prep rhythm · labware/lantern interleave · ~47 d to block** |
-| **Domus** | **MVP ✓ closed d1260 · linens sprint post-harvest** |
-| **Factory** | **×50 TR fired @ rack · pile 1 ~46 kg · char ~14 kg** |
-| **Farm** | **FARM-READ GREEN · scare-only · HARVEST-PREP ~25% · thresh refreshed** |
+| **Hero** | **MILLHOUSE-2 stake/socle horizon · storage jars · farm interleave · ~38 d to block** |
+| **Factory** | **Lane ~25.6 kg AMBER · pile 4 ~47 kg dress · pile 8 ×6 FS ~21 kg** |
+| **Farm** | **FARM-READ ✓ d1269 · scare-only · HARVEST-PREP ~25%** |
+| **Campus** | **MILLHOUSE-2 west-leg mirror · adjacent build · demo Phase 1 defer** |
+| **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
 | **Textile / dye** | **WOAD-VAT-1 live · CL-WOAD-JEANS horizon** |
 | **Textile** | **THREAD-STOCK-2 ~114 m · tow ~145 g @ W-1 · cubicula + culina rugs ✓** |
 | **Lead / tin** | **×0 local · galena = Taurus/Tarsus horizon** |
@@ -72,6 +73,9 @@
 | **DOMUS-MVP** | **✓ d1260** | **Store · deco · court · lantern · ext skin closed · linens post-harvest** |
 | **LINENS-SPRINT** | **Slated post-harvest** | **Thermae teal · porticus purple · curtains · rugs · towels · after Day ~1332** |
 | **HARVEST-PREP-1261** | **[~] ~25% d1261** | **FARM-READ ✓ · thresh ✓ · horreum A clear · sickle dress · close ~d1290** |
+| **LABWARE-GLASS-SPRINT** | **✓ closed d1264** | **GP-1263 flask @ bench · vials G–I @ rack · wax tags ✓** |
+| **OIL-LANTERN-2** | **✓ d1266** | **GP-1265 panes A–D · assembly · light trial · @ chem-lab east default** |
+| **DOMUS-LANTERN-HANG-1** | **✓ OIL-LANTERN-1 @ south culina** | **OIL-LANTERN-2 @ chem-lab · two-lantern doctrine live** |
 | **DOMUS-RUG-SLATE** | **Paused** | **Cubicula ✓ · culina ✓ · rest → linens sprint post-harvest** |
 | **WALL-COLOR-TRIAL-1** | **Slated d1120** | **Limewash + pigment offcuts · madder/grape/verdigris/hull/iron/burgundy** |
 

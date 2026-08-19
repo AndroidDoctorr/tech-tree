@@ -1264,6 +1264,15 @@
 | 1259 | [day-1259.md](days/year-004/week-180/day-1259.md) | **Ext whitewash lap 2 · east thermae + north horreum · ~70%** | **Cal-Y4 D292** |
 | 1260 | [day-1260.md](days/year-004/week-180/day-1260.md) | **Week 180 close · EXT-WHITEWASH-1 ✓ · DOMUS MVP ✓** | **Cal-Y4 D293** |
 | 1261 | [day-1261.md](days/year-004/week-181/day-1261.md) | **Week 181 open · FARM-READ · thresh prep · horreum clear** | **Cal-Y4 D294** |
+| 1262 | [day-1262.md](days/year-004/week-181/day-1262.md) | **Dual pit char ✓ · lane ~31 kg · lab glass sprint GO d1263** | **Cal-Y4 D295** |
+| 1263 | [day-1263.md](days/year-004/week-181/day-1263.md) | **LABWARE-GLASS-SPRINT ✓ · lab flask + ×3 vials @ bury** | **Cal-Y4 D296** |
+| 1264 | [day-1264.md](days/year-004/week-181/day-1264.md) | **GLASS-TAP ✓ · bench flask + vials G–I live · lantern gate** | **Cal-Y4 D297** |
+| 1265 | [day-1265.md](days/year-004/week-181/day-1265.md) | **OIL-LANTERN-2 ×4 panes @ bury · char gate PASS** | **Cal-Y4 D298** |
+| 1266 | [day-1266.md](days/year-004/week-181/day-1266.md) | **OIL-LANTERN-2 ✓ · assembly · light · hang @ chem-lab** | **Cal-Y4 D299** |
+| 1267 | [day-1267.md](days/year-004/week-181/day-1267.md) | **CART-WOOD-HAUL ✓ · pile 5 ~54 kg · Week 181 close** | **Cal-Y4 D300** |
+| 1268 | [day-1268.md](days/year-004/week-182/day-1268.md) | **Week 182 open · dual pit ✓ · farm scare interleave** | **Cal-Y4 D301** |
+| 1269 | [day-1269.md](days/year-004/week-182/day-1269.md) | **FARM-READ ✓ · animal coast · harvest prep verify** | **Cal-Y4 D302** |
+| 1270 | [day-1270.md](days/year-004/week-182/day-1270.md) | **Stone haul ✓ · MILLHOUSE-2 west-leg slate · pile 4 ~47 kg** | **Cal-Y4 D303** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
