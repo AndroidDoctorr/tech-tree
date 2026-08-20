@@ -1202,7 +1202,7 @@
 | 1197 | [day-1197.md](days/year-004/week-171/day-1197.md) | **PIT-CHAR ✓ · GB-FIRE ✓ +36 · ~351 @ Kiln B · queue empty** | **Cal-Y4 D230** |
 | 1198 | [day-1198.md](days/year-004/week-172/day-1198.md) | **Week 172 open · c4 AMBER · hypocaust void ✓ · pilae c1 ✓ ×12** | **Cal-Y4 D231** |
 | 1199 | [day-1199.md](days/year-004/week-172/day-1199.md) | **pilae c2 ✓ ×12 · ×24 total · wythe c4 cure hold** | **Cal-Y4 D232** |
-| 1200 | [day-1200.md](days/year-004/week-172/day-1200.md) | **pilae c3 ✓ ×12 · ×36 total · c4 cure PASS · c5 queued** | **Cal-Y4 D233** |
+| 1200 | [day-1200.md](days/year-004/week-172/day-1200.md) | **Pilae c3 · Centadial 12** | **×36 pilae · hypo ~70% · [Centadial 12](summaries/centadial-012.md) · Cal-Y4 D233** |
 | 1201 | [day-1201.md](days/year-004/week-172/day-1201.md) | **pilae c4 ✓ ×12 · ×48 target height ✓ · suspensura queued** | **Cal-Y4 D234** |
 | 1202 | [day-1202.md](days/year-004/week-172/day-1202.md) | **suspensura ✓ · hypocaust shell 100% · walk PASS · tile/flue defer** | **Cal-Y4 D235** |
 | 1203 | [day-1203.md](days/year-004/week-172/day-1203.md) | **furnus ✓ · flue throat ✓ · east cheek ~70% · void tie live** | **Cal-Y4 D236** |
@@ -1273,6 +1273,62 @@
 | 1268 | [day-1268.md](days/year-004/week-182/day-1268.md) | **Week 182 open · dual pit ✓ · farm scare interleave** | **Cal-Y4 D301** |
 | 1269 | [day-1269.md](days/year-004/week-182/day-1269.md) | **FARM-READ ✓ · animal coast · harvest prep verify** | **Cal-Y4 D302** |
 | 1270 | [day-1270.md](days/year-004/week-182/day-1270.md) | **Stone haul ✓ · MILLHOUSE-2 west-leg slate · pile 4 ~47 kg** | **Cal-Y4 D303** |
+| 1271 | [day-1271.md](days/year-004/week-182/day-1271.md) | **Stone haul ✓ · pile 4 ~69 kg · dress defer** | **Cal-Y4 D304** |
+| 1272 | [day-1272.md](days/year-004/week-182/day-1272.md) | **FARM-READ ✓ · ×7 FS socle dress @ pile 8** | **Cal-Y4 D305** |
+| 1273 | [day-1273.md](days/year-004/week-182/day-1273.md) | **Stone haul ✓ · pile 4 ~86 kg · harvest prep read** | **Cal-Y4 D306** |
+| 1274 | [day-1274.md](days/year-004/week-182/day-1274.md) | **Dual pit ✓ · sickle dress ✓ · Week 182 close** | **Cal-Y4 D307** |
+| 1275 | [day-1275.md](days/year-004/week-183/day-1275.md) | **Week 183 open · CART-WOOD-HAUL ✓ · pile 5 ~52 kg** | **Cal-Y4 D308** |
+| 1276 | [day-1276.md](days/year-004/week-183/day-1276.md) | **FARM-SCARE ✓ · MILLHOUSE-2 stake ✓ · footing trench ~85%** | **Cal-Y4 D309** |
+| 1277 | [day-1277.md](days/year-004/week-183/day-1277.md) | **MILLHOUSE-2 socle close ✓ · wythe c1 W+N · post-harvest slate** | **Cal-Y4 D310** |
+| 1278 | [day-1278.md](days/year-004/week-183/day-1278.md) | **Factory mode ✓ · GREEN-PRESS ×40 · pit char · no haul** | **Cal-Y4 D311** |
+| 1279 | [day-1279.md](days/year-004/week-183/day-1279.md) | **TR-PRESS ✓ ×32 green @ rack · roof reseed · clay AMBER** | **Cal-Y4 D312** |
+| 1280 | [day-1280.md](days/year-004/week-183/day-1280.md) | **HAUL-CLAY ✓ · pile 1 ~38 kg GREEN · factory runway restored** | **Cal-Y4 D313** |
+| 1281 | [day-1281.md](days/year-004/week-183/day-1281.md) | **TR-TOUCH ✓ · TR-PRESS ✓ ×16 · ×48 green @ rack · Week 183 close** | **Cal-Y4 D314** |
+| 1282 | [day-1282.md](days/year-004/week-184/day-1282.md) | **Week 184 open · FARM-SCARE ✓ · PIT-CHAR ✓ · lane ~61 kg** | **Cal-Y4 D315** |
+| 1283 | [day-1283.md](days/year-004/week-184/day-1283.md) | **GB-TOUCH ✓ · GB-FIRE ✓ +36 · CART-WOOD-HAUL ✓ · ~272 @ Kiln B** | **Cal-Y4 D316** |
+| 1284 | [day-1284.md](days/year-004/week-184/day-1284.md) | **FARM-SCARE ✓ · PIT-CHAR-149 ✓ · lane ~61 kg** | **Cal-Y4 D317** |
+| 1285 | [day-1285.md](days/year-004/week-184/day-1285.md) | **TR-FIRE ✓ 31/32 · ×81 @ rack · CART-WOOD-HAUL ✓ · pile 5 ~80 kg** | **Cal-Y4 D318** |
+| 1286 | [day-1286.md](days/year-004/week-184/day-1286.md) | **HAUL-LIME ✓ · KILN-A-LIME ✓ · MILLHOUSE-2 wythe c2 · ~28%** | **Cal-Y4 D319** |
+| 1287 | [day-1287.md](days/year-004/week-184/day-1287.md) | **FARM-SCARE ✓ · MILLHOUSE-2 wythe c3 · ~40%** | **Cal-Y4 D320** |
+| 1288 | [day-1288.md](days/year-004/week-184/day-1288.md) | **TR-FIRE ✓ · KILN-A-LIME ✓ · ×96 TR · Week 184 close** | **Cal-Y4 D321** |
+| 1289 | [day-1289.md](days/year-004/week-185/day-1289.md) | **Week 185 open · MILLHOUSE-2 wythe c4 · ~52%** | **Cal-Y4 D322** |
+| 1290 | [day-1290.md](days/year-004/week-185/day-1290.md) | **HAUL-LIME ✓ · KILN-A-LIME ✓ · putty ~2.8 kg GREEN** | **Cal-Y4 D323** |
+| 1291 | [day-1291.md](days/year-004/week-185/day-1291.md) | **MILLHOUSE-2 wythe c5 · ~64% · bond-beam ghost** | **Cal-Y4 D324** |
+| 1292 | [day-1292.md](days/year-004/week-185/day-1292.md) | **MILLHOUSE-2 wythe c6 · W+N @ seat · farm scare margin** | **Cal-Y4 D325** |
+| 1293 | [day-1293.md](days/year-004/week-185/day-1293.md) | **MILLHOUSE-2 mise en place · post-harvest defer · farm scare** | **Cal-Y4 D326** |
+| 1294 | [day-1294.md](days/year-004/week-185/day-1294.md) | **CL-LAB-TUNIC-2 ~22% · lab wear rotation · thread ~104 m** | **Cal-Y4 D327** |
+| 1295 | [day-1295.md](days/year-004/week-185/day-1295.md) | **Week 185 close · CL-LAB-COAT-2 ~50% · EMMER-STARCH trial ✓** | **Cal-Y4 D328** |
+| 1296 | [day-1296.md](days/year-004/week-186/day-1296.md) | **Week 186 open · CL-LAB-COAT-2 body off loom · ~78%** | **Cal-Y4 D329** |
+| 1297 | [day-1297.md](days/year-004/week-186/day-1297.md) | **CL-LAB-COAT-2 ✓ · EMMER-STARCH-1 ✓ · peg #2 rotation** | **Cal-Y4 D330** |
+| 1298 | [day-1298.md](days/year-004/week-186/day-1298.md) | **FARM-MAINT · pen extension stake · ~10 d to block** | **Cal-Y4 D331** |
+| 1299 | [day-1299.md](days/year-004/week-186/day-1299.md) | **CL-LAB-BREECH-1 ~55% · lab wear 3/3 close next** | **Cal-Y4 D332** |
+| 1300 | [day-1300.md](days/year-004/week-186/day-1300.md) | **CL-LAB-WEAR 3/3 · Centadial 13** | **Breech ✓ · peg #3 · [Centadial 13](summaries/centadial-013.md) · Cal-Y4 D333** |
+| 1301 | [day-1301.md](days/year-004/week-186/day-1301.md) | **FARM-CHECK · pen ext wood stage · BOM estimate** | **Cal-Y4 D334** |
+| 1302 | [day-1302.md](days/year-004/week-186/day-1302.md) | **PEN-EXT mise ✓ · willow + cord · Week 186 close** | **Cal-Y4 D335** |
+| 1303 | [day-1303.md](days/year-004/week-187/day-1303.md) | **Week 187 open · WHEEL-SPIN-11 ✓ · thread ~99 m** | **Cal-Y4 D336** |
+| 1304 | [day-1304.md](days/year-004/week-187/day-1304.md) | **WHEEL-SPIN-12 ✓ · scare lap · thread ~137 m** | **Cal-Y4 D337** |
+| 1305 | [day-1305.md](days/year-004/week-187/day-1305.md) | **FINAL-GO ✓ · WHEEL-SPIN-13 ✓ · thread ~175 m** | **Cal-Y4 D338** |
+| 1306 | [day-1306.md](days/year-004/week-187/day-1306.md) | **WHEEL-SPIN-14 ✓ · scare lap · ~3 d to block** | **Cal-Y4 D339** |
+| 1307 | [day-1307.md](days/year-004/week-187/day-1307.md) | **WHEEL-SPIN-15 ✓ · scare lap · ~2 d to block** | **Cal-Y4 D340** |
+| 1308 | [day-1308.md](days/year-004/week-187/day-1308.md) | **WHEEL-SPIN-16 ✓ · harvest eve · thread ~289 m** | **Cal-Y4 D341** |
+| 1309 | [day-1309.md](days/year-004/week-187/day-1309.md) | **EMMER-HARVEST-Y4 ✓ · ~2.05 kg · Week 187 close · hard block** | **Cal-Y4 D342** |
+| 1310 | [day-1310.md](days/year-004/week-188/day-1310.md) | **Week 188 open · P-18-HARVEST-Y4 ✓ · field harvest closed** | **Cal-Y4 D343** |
+| 1311 | [day-1311.md](days/year-004/week-188/day-1311.md) | **FOOD-STOCK-AUDIT ✓ · ~35 kg larder · FARM-PLAN · P-18 PASS** | **Cal-Y4 D344** |
+| 1312 | [day-1312.md](days/year-004/week-188/day-1312.md) | **SHELF-LIFE sprint ✓ · PARCHED-BATCH-Y4 · PLATE-HARVEST-1312** | **Cal-Y4 D345** |
+| 1313 | [day-1313.md](days/year-004/week-188/day-1313.md) | **REST · PLATE-HARVEST feast ✓ · slow day** | **Cal-Y4 D346** |
+| 1314 | [day-1314.md](days/year-004/week-188/day-1314.md) | **MILLHOUSE-2 POST-HARVEST OPEN · bond beam · S+E c1 · ~82%** | **Cal-Y4 D347** |
+| 1315 | [day-1315.md](days/year-004/week-188/day-1315.md) | **MILLHOUSE-2 S+E c2 · brick rhythm · ~86% wythe** | **Cal-Y4 D348** |
+| 1316 | [day-1316.md](days/year-004/week-188/day-1316.md) | **MILLHOUSE-2 S+E c3 · ~90% · Week 188 close · putty empty** | **Cal-Y4 D349** |
+| 1317 | [day-1317.md](days/year-004/week-189/day-1317.md) | **Week 189 open · KILN-A-LIME ✓ · putty restored · brick queued** | **Cal-Y4 D350** |
+| 1318 | [day-1318.md](days/year-004/week-189/day-1318.md) | **HAUL-LIME ✓ · raw runway restored · brick d1319+** | **Cal-Y4 D351** |
+| 1319 | [day-1319.md](days/year-004/week-189/day-1319.md) | **MILLHOUSE-2 S+E c4 · brick rhythm · ~94% wythe** | **Cal-Y4 D352** |
+| 1320 | [day-1320.md](days/year-004/week-189/day-1320.md) | **MILLHOUSE-2 S+E c5 · brick rhythm · ~97% wythe** | **Cal-Y4 D353** |
+| 1321 | [day-1321.md](days/year-004/week-189/day-1321.md) | **MILLHOUSE-2 WYTHE CLOSE ✓ · S+E c6 · TR roof queued** | **Cal-Y4 D354** |
+| 1322 | [day-1322.md](days/year-004/week-189/day-1322.md) | **MILLHOUSE-2 TR ROOF ✓ · WEATHERTIGHT · demo queued** | **Cal-Y4 D355** |
+| 1323 | [day-1323.md](days/year-004/week-189/day-1323.md) | **MILLHOUSE-2 GRAVEL-BED ✓ · Week 189 close · floor queued** | **Cal-Y4 D356** |
+| 1324 | [day-1324.md](days/year-004/week-190/day-1324.md) | **Week 190 open · MILLHOUSE-2 FLOOR ✓ · zones chalked · demo queued** | **Cal-Y4 D357** |
+| 1325 | [day-1325.md](days/year-004/week-190/day-1325.md) | **MILLHOUSE-2 FIT-OUT ✓ · whitewash · peg rails · demo queued** | **Cal-Y4 D358** |
+| 1326 | [day-1326.md](days/year-004/week-190/day-1326.md) | **PHASE 1 DEMO ✓ · migration ✓ · MILLHOUSE-2 LIVE** | **Cal-Y4 D359** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1290,6 +1346,8 @@
 | **9** | 801–900 | [centadial-009.md](summaries/centadial-009.md) |
 | **10** | 901–1000 | [centadial-010.md](summaries/centadial-010.md) |
 | **11** | 1001–1100 | [centadial-011.md](summaries/centadial-011.md) |
+| **12** | 1101–1200 | [centadial-012.md](summaries/centadial-012.md) |
+| **13** | 1201–1300 | [centadial-013.md](summaries/centadial-013.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

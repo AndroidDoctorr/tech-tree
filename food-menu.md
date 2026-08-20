@@ -1,6 +1,6 @@
 # Food menu — recipes & pantry
 
-*Last audited: **Day 727** · **FOOD-LEDGER-726** · **Stock:** [inventory.md](inventory.md) · **Ledger:** [food-ledger.md](food-ledger.md) · **Feast slate:** FEAST-602 @ Day 602 · **Ladder gaps:** [ladder.md](ladder.md) (Food & calories)*
+*Last audited: **Day 1312** · **FOOD-LEDGER-726** · **Stock:** [inventory.md](inventory.md) · **Ledger:** [food-ledger.md](food-ledger.md) · **Feast slate:** FEAST-602 @ Day 602 · **Ladder gaps:** [ladder.md](ladder.md) (Food & calories)*
 
 **Rule:** Listed **✓** = you have ingredients **and** technique logged. **~** = partial / substitute honest. **·** = missing gate ingredient or season.
 
@@ -45,6 +45,7 @@
 | **Emmer porridge** | Emmer · water · salt · mint/coriander | Crack or whole · hypocaust pot |
 | **Lentil stew** | Lentils · water · salt · garlic · coriander | Soak · simmer · smoke fat optional |
 | **Lentil + emmer mash** | Lentils · emmer · herbs | Pulse + grain combo — filling |
+| **LENTIL-P18-EMMER-STEW-1312** | **P-17 · P-18 · emmer · coriander · garlic · thyme · marjoram · smoked fish flake · tallow smear · vinegar finish** | **✓ Day 1312 · PLATE-HARVEST hero bowl — peak honest plate without oil/honey** |
 | **Brined olives** | P-02 crock · coriander dust | Drain · eat — no oil drizzle yet |
 | **Fig / grape leather** | Leather · knife | Chew · trail calorie · rehydrate for must |
 | **Pistachio handful** | P-01 · salt optional | Raw crunch · feast bowl class |

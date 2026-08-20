@@ -1,29 +1,29 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1270** · **Cal-Y4 D303** · **HAUL-STONE ✓ · MILLHOUSE-2 slate filed**
+*Last updated: **Day 1326** · **Cal-Y4 D359** · **Week 190 · MILLHOUSE-2 LIVE · Phase 1 mat DOWN**
 
 ---
 
-## Now @ Day 1270
+## Now @ Day 1326
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **MILLHOUSE-2 stake/socle horizon · storage jars · farm interleave · ~38 d to block** |
-| **Factory** | **Lane ~25.6 kg AMBER · pile 4 ~47 kg dress · pile 8 ×6 FS ~21 kg** |
-| **Farm** | **FARM-READ ✓ d1269 · scare-only · HARVEST-PREP ~25%** |
-| **Campus** | **MILLHOUSE-2 west-leg mirror · adjacent build · demo Phase 1 defer** |
+| **Hero** | **MILLHOUSE-2 ✓ LIVE · Phase 1 mat DOWN · PEN-EXT or hinge kit queued** |
+| **Textile** | **THREAD ~289 m · LINENS-SPRINT unblocked · CL-LAB-WEAR 3/3 ✓** |
+| **Factory** | **M2 west leg LIVE · CHAR·FORGE·TOOL·WORK migrated · WW-1 · FORGE-D @ pad** |
+| **Campus** | **×46 TR surplus · pile 5 ~37 kg · Phase 1 mat salvaged** |
+| **Farm** | **Hard block live · scare-only rhythm** |
 | **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
 | **Textile / dye** | **WOAD-VAT-1 live · CL-WOAD-JEANS horizon** |
-| **Textile** | **THREAD-STOCK-2 ~114 m · tow ~145 g @ W-1 · cubicula + culina rugs ✓** |
 | **Lead / tin** | **×0 local · galena = Taurus/Tarsus horizon** |
-| **Horreum** | **Full ghost ✓ 100% · C BUILD-MAT overflow reserve** |
+| **Horreum** | **EMMER-BULK-Y4 ~2.05 kg @ A · C BUILD-MAT overflow reserve** |
 | **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ @ horreum A · frit ~120 g** |
 | **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip deprioritized** |
 | **WW-YARD** | **STORE-4 N · CHEM-LAB S · WW-HUB-TOWER ✓ · oak floor · whitewash · connector live** |
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
 | **STOCK-REPLENISH** | **✓ STORAGE-SPRINT CLOSE · overflow queue filed d1027 · horreum post-sow** |
-| **Lab wear** | **CL-LAB-TUNIC-1 ✓ @ lime peg** |
-| **→ Harvest hard block** | **✓ closed d967 · FEAST-970 ✓ d970 · SUN-CAL-Y3-CLOSE ✓ · EMMER ✓ · P-17 ✓** |
+| **Lab wear** | **CL-LAB-WEAR 3/3 ✓ · peg #1/#2/#3 · change @ door doctrine** |
+| **→ Harvest hard block** | **✓ OPEN @ d1309 · FIELD-HARVEST-Y4 ✓ d1309–1310 · block d1309–1332** |
 
 ### Season clocks
 
@@ -34,7 +34,7 @@
 | **→ APIARY / swarm window** | **~1057–1087** | **Y4 D90–D120** | **✓ closed d1059 · HIVE-1 @ AG-AP-01 · hands-off year one** |
 | **→ EXPED / cart trips** | **~1047–1247** | **Y4 D80–D280** | **✓ CLOSED @ Day 1257 · no casual long trips until post-harvest** |
 | **→ WILD FLAX PULL** | **~1154–1184** | **Y4 D187–D217** | **✓ P-RETT-4 close d1162 · ~430 g line · optional lap 2** |
-| **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **Hard block** — no casual trips |
+| **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **✓ OPEN @ Day 1309 · EMMER-Y4 ✓ · hard block live** |
 | **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **Solstice pin @ C-0 · 46/42** |
 | **Yearly windows** | **—** | **All Cal-Y** | **✓ SUN-CAL-YEARLY-WINDOWS-1004 @ C-0 + slate** |
 
@@ -72,7 +72,7 @@
 | **EXT-WHITEWASH-1** | **✓ d1260 · 100%** | **d1258 south+west · d1259 east+north · d1260 stubs+lap · EXT-WHITEWASH-LIVE @ slate** |
 | **DOMUS-MVP** | **✓ d1260** | **Store · deco · court · lantern · ext skin closed · linens post-harvest** |
 | **LINENS-SPRINT** | **Slated post-harvest** | **Thermae teal · porticus purple · curtains · rugs · towels · after Day ~1332** |
-| **HARVEST-PREP-1261** | **[~] ~25% d1261** | **FARM-READ ✓ · thresh ✓ · horreum A clear · sickle dress · close ~d1290** |
+| **HARVEST-PREP-1261** | **[~] ~40% d1274** | **Thresh ✓ · horreum ✓ · sickle ✓ d1274 · final read ~d1305+ defer** |
 | **LABWARE-GLASS-SPRINT** | **✓ closed d1264** | **GP-1263 flask @ bench · vials G–I @ rack · wax tags ✓** |
 | **OIL-LANTERN-2** | **✓ d1266** | **GP-1265 panes A–D · assembly · light trial · @ chem-lab east default** |
 | **DOMUS-LANTERN-HANG-1** | **✓ OIL-LANTERN-1 @ south culina** | **OIL-LANTERN-2 @ chem-lab · two-lantern doctrine live** |
