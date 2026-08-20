@@ -1329,6 +1329,47 @@
 | 1324 | [day-1324.md](days/year-004/week-190/day-1324.md) | **Week 190 open · MILLHOUSE-2 FLOOR ✓ · zones chalked · demo queued** | **Cal-Y4 D357** |
 | 1325 | [day-1325.md](days/year-004/week-190/day-1325.md) | **MILLHOUSE-2 FIT-OUT ✓ · whitewash · peg rails · demo queued** | **Cal-Y4 D358** |
 | 1326 | [day-1326.md](days/year-004/week-190/day-1326.md) | **PHASE 1 DEMO ✓ · migration ✓ · MILLHOUSE-2 LIVE** | **Cal-Y4 D359** |
+| 1327 | [day-1327.md](days/year-004/week-190/day-1327.md) | **PEN-EXT BUILD ✓ · ~23 m wattle · daub defer** | **Cal-Y4 D360** |
+| 1328 | [day-1328.md](days/year-004/week-190/day-1328.md) | **PEN-EXT DAUB ✓ · LINENS-SPRINT slate filed** | **Cal-Y4 D361** |
+| 1329 | [day-1329.md](days/year-004/week-190/day-1329.md) | **LINENS-SPRINT swatch ✓ · dye cards ×5 · ×15 tags** | **Cal-Y4 D362** |
+| 1330 | [day-1330.md](days/year-004/week-190/day-1330.md) | **LINENS-SPRINT SOCKS ✓ · Week 190 close · Yule 2 d** | **Cal-Y4 D363** |
+| 1331 | [day-1331.md](days/year-004/week-191/day-1331.md) | **Week 191 open · BOXERS ✓ · Yule rest · ICE-Y5 slate** | **Cal-Y4 D364** |
+| 1332 | [day-1332.md](days/year-004/week-191/day-1332.md) | **BOW-HUNT goose ✓ · FEAST-YULE ✓ · SUN-YULE-1332 · block lifts · Cal-Y4 close** | **Cal-Y4 D365** |
+| 1333 | [day-1333.md](days/year-004/week-191/day-1333.md) | **Cal-Y5 D1 · WOAD-VAT-REFRESH-2 ✓ · JEANS-1 weave ~60% · grammar** | **Cal-Y5 D1** |
+| 1334 | [day-1334.md](days/year-004/week-191/day-1334.md) | **JEANS-1 weave ✓ · panel dye ✓ · sew queued d1335** | **Cal-Y5 D2** |
+| 1335 | [day-1335.md](days/year-004/week-191/day-1335.md) | **CL-WOAD-JEANS-1-SEW ✓ · @ peg F · pair 2 queued** | **Cal-Y5 D3** |
+| 1336 | [day-1336.md](days/year-004/week-191/day-1336.md) | **CL-WOAD-JEANS-2 weave ~60%** | **Cal-Y5 D4** |
+| 1337 | [day-1337.md](days/year-004/week-191/day-1337.md) | **CL-WOAD-JEANS-2 weave ✓ · panel dye ✓ · Week 191 close** | **Cal-Y5 D5** |
+| 1338 | [day-1338.md](days/year-004/week-192/day-1338.md) | **CL-WOAD-JEANS-2 ✓ peg G · LINENS-JEANS ✓ · Week 192 open** | **Cal-Y5 D6** |
+| 1339 | [day-1339.md](days/year-004/week-192/day-1339.md) | **WHEEL-SPIN-17/18 ✓ · wild line peg cleared · ~249 m bank** | **Cal-Y5 D7** |
+| 1340 | [day-1340.md](days/year-004/week-192/day-1340.md) | **CL-TUNIC-TIEDYE-GRAMMAR ✓ · TIEDYE-2 Palette A weave ~60%** | **Cal-Y5 D8** |
+| 1341 | [day-1341.md](days/year-004/week-192/day-1341.md) | **TIEDYE-2 WEAVE ✓ · SEW ✓ · DYE-COLLECT-Y5 slate** | **Cal-Y5 D9** |
+| 1342 | [day-1342.md](days/year-004/week-192/day-1342.md) | **TIEDYE-2 BIND ✓ · DYE ✓ · Palette A reveal @ porch** | **Cal-Y5 D10** |
+| 1343 | [day-1343.md](days/year-004/week-192/day-1343.md) | **TIEDYE-2 deploy ✓ peg H · TIEDYE-3 Palette B weave ~60%** | **Cal-Y5 D11** |
+| 1344 | [day-1344.md](days/year-004/week-192/day-1344.md) | **TIEDYE-3 WEAVE ✓ · SEW ✓ · blank @ peg** | **Cal-Y5 D12** |
+| 1345 | [day-1345.md](days/year-004/week-193/day-1345.md) | **Week 193 open · WOAD-VAT-REFRESH-3 ✓ · TIEDYE-3 Palette B ✓** | **Cal-Y5 D13** |
+| 1346 | [day-1346.md](days/year-004/week-193/day-1346.md) | **TIEDYE-3 deploy ✓ peg I · TIEDYE-4 Palette C weave ~60%** | **Cal-Y5 D14** |
+| 1347 | [day-1347.md](days/year-004/week-193/day-1347.md) | **TIEDYE-4 WEAVE ✓ · SEW ✓ · LINENS-SPRINT-TUNICS-SEW ✓** | **Cal-Y5 D15** |
+| 1348 | [day-1348.md](days/year-004/week-193/day-1348.md) | **TIEDYE-4 BIND ✓ · DYE ✓ · Palette C · LINENS-SPRINT-TUNICS ✓** | **Cal-Y5 D16** |
+| 1349 | [day-1349.md](days/year-004/week-193/day-1349.md) | **TIEDYE-4 deploy ✓ peg J · THERMAE-RUG-1 weave ~60% · DOMUS-RUG-SLATE** | **Cal-Y5 D17** |
+| 1350 | [day-1350.md](days/year-004/week-193/day-1350.md) | **THERMAE-RUG-1 ✓ · CALENDAR-READ · ICE scout ~12 d** | **Cal-Y5 D18** |
+| 1351 | [day-1351.md](days/year-004/week-193/day-1351.md) | **PORTICUS-RUG-1 weave ~60% · CL-LINEN-COAT-SLATE · Week 193 close** | **Cal-Y5 D19** |
+| 1352 | [day-1352.md](days/year-004/week-194/day-1352.md) | **Week 194 open · PORTICUS-RUG-1 ✓ · DOMUS-RUG-SLATE close** | **Cal-Y5 D20** |
+| 1353 | [day-1353.md](days/year-004/week-194/day-1353.md) | **CL-LINEN-COAT-1-PLAN ✓ · GRAMMAR ✓ · ICE runway ~10 d** | **Cal-Y5 D21** |
+| 1354 | [day-1354.md](days/year-004/week-194/day-1354.md) | **CL-LINEN-COAT-1 WEAVE-D1 ~60% back @ LM-2** | **Cal-Y5 D22** |
+| 1355 | [day-1355.md](days/year-004/week-194/day-1355.md) | **CL-LINEN-COAT-1 WEAVE ✓ · all panels @ W-1** | **Cal-Y5 D23** |
+| 1356 | [day-1356.md](days/year-004/week-194/day-1356.md) | **CL-LINEN-COAT-1 CUT ✓ · SEW-D1 ✓ · ~80% blank WIP** | **Cal-Y5 D24** |
+| 1357 | [day-1357.md](days/year-004/week-194/day-1357.md) | **CL-LINEN-COAT-1 SEW ✓ · blank @ peg K · dye d1358** | **Cal-Y5 D25** |
+| 1358 | [day-1358.md](days/year-004/week-194/day-1358.md) | **CL-LINEN-COAT-1 DYE ✓ path C · naval gray-blue · Week 194 close** | **Cal-Y5 D26** |
+| 1359 | [day-1359.md](days/year-004/week-195/day-1359.md) | **Week 195 open · CL-LINEN-COAT-1 ✓ @ peg K · spin d1360** | **Cal-Y5 D27** |
+| 1360 | [day-1360.md](days/year-004/week-195/day-1360.md) | **WHEEL-SPIN-19/20 ✓ · hackle-tow · ~89 m bank · curtains GO** | **Cal-Y5 D28** |
+| 1361 | [day-1361.md](days/year-004/week-195/day-1361.md) | **H-V3-CUB-CURTAIN-W-1 WEAVE ✓ · natural @ W-1** | **Cal-Y5 D29** |
+| 1362 | [day-1362.md](days/year-004/week-195/day-1362.md) | **H-V3-CUB-CURTAIN-E-1 WEAVE ✓ · pair stacked · ICE scout d1363** | **Cal-Y5 D30** |
+| 1363 | [day-1363.md](days/year-004/week-195/day-1363.md) | **ICE-SCOUT-Y5 ✓ · sprint wear stack · lens ~52% · haul ~d1381** | **Cal-Y5 D31** |
+| 1364 | [day-1364.md](days/year-004/week-195/day-1364.md) | **H-V3-CUB-CURTAIN-BURGUNDY-DYE ✓ ×2 · @ porch line · hang d1365** | **Cal-Y5 D32** |
+| 1365 | [day-1365.md](days/year-004/week-195/day-1365.md) | **H-V3-CUB-CURTAIN ✓ live ×2 · cubicula suite · Week 195 close** | **Cal-Y5 D33** |
+| 1366 | [day-1366.md](days/year-004/week-196/day-1366.md) | **Week 196 open · WHEEL-SPIN-21/22 ✓ · ~135 m bank** | **Cal-Y5 D34** |
+| 1367 | [day-1367.md](days/year-004/week-196/day-1367.md) | **PORTICUS-CURTAIN-1 WEAVE ✓ · D825 camp slate filed** | **Cal-Y5 D35** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

@@ -1,20 +1,21 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1326** · **Cal-Y4 D359** · **Week 190 · MILLHOUSE-2 LIVE · Phase 1 mat DOWN**
+*Last updated: **Day 1367** · **Cal-Y5 D35** · **PORTICUS-CURTAIN weave ✓ · D825 slate**
 
 ---
 
-## Now @ Day 1326
+## Now @ Day 1367
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **MILLHOUSE-2 ✓ LIVE · Phase 1 mat DOWN · PEN-EXT or hinge kit queued** |
-| **Textile** | **THREAD ~289 m · LINENS-SPRINT unblocked · CL-LAB-WEAR 3/3 ✓** |
-| **Factory** | **M2 west leg LIVE · CHAR·FORGE·TOOL·WORK migrated · WW-1 · FORGE-D @ pad** |
-| **Campus** | **×46 TR surplus · pile 5 ~37 kg · Phase 1 mat salvaged** |
-| **Farm** | **Hard block live · scare-only rhythm** |
+| **Hero** | **Thermae curtain weave · curtain dye/hang · D825 prep (TENT-2) · ICE max ~d1381** |
+| **Textile** | **THREAD ~125 m · PORTICUS-CURTAIN-1 weave ✓ natural · thermae queued · grape stock OK** |
+| **Ice** | **Scout ✓ · max haul ~d1381–1383** |
+| **Calendar** | **Week 196 open · WOAD sow ~d1399** |
+| **Calendar** | **ICE band opening · WOAD sow ~d1399 · leaf/dig summer · dye defer OK** |
+| **Farm** | **Hard block ✓ lifted · heroes unblocked** |
 | **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
-| **Textile / dye** | **WOAD-VAT-1 live · CL-WOAD-JEANS horizon** |
+| **Textile / dye** | **×2 jeans ✓ · TIEDYE ✓ · DOMUS-RUG-SLATE ✓ · coat ✓ · ICE scout ✓ · max haul ~d1381** |
 | **Lead / tin** | **×0 local · galena = Taurus/Tarsus horizon** |
 | **Horreum** | **EMMER-BULK-Y4 ~2.05 kg @ A · C BUILD-MAT overflow reserve** |
 | **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ @ horreum A · frit ~120 g** |
@@ -23,20 +24,25 @@
 | **ORE-WASH-SIFT-1** | **✓ · process haul @ HOME** |
 | **STOCK-REPLENISH** | **✓ STORAGE-SPRINT CLOSE · overflow queue filed d1027 · horreum post-sow** |
 | **Lab wear** | **CL-LAB-WEAR 3/3 ✓ · peg #1/#2/#3 · change @ door doctrine** |
-| **→ Harvest hard block** | **✓ OPEN @ d1309 · FIELD-HARVEST-Y4 ✓ d1309–1310 · block d1309–1332** |
+| **→ Harvest hard block** | **✓ lifted @ d1332 · FIELD-HARVEST-Y4 ✓ · farm heroes unblocked** |
 
 ### Season clocks
 
 | Clock | Days | Cal | Notes |
 |-------|------|-----|-------|
-| **→ ICE haul ideal** | **~998–1023** | **Y4 D30–D55** | **✓ thin haul d1004 @ D37 · next year scout @ D30 · max @ D49–D51** |
+| **→ ICE haul ideal** | **~1363–1388** | **Y5 D30–D55** | **ICE-HAUL-Y5-SLATE ✓ d1331 · scout @ D30 · max @ D49–51 · beat Y4 ~11 kg thin** |
 | **→ Spring sow window** | **~1034–1052** | **Y4 D67–D85** | **✓ SPRING-SOW-Y4 d1034 · FROST-GATE-Y4 OPEN · scare-only · ~2 d tail** |
 | **→ APIARY / swarm window** | **~1057–1087** | **Y4 D90–D120** | **✓ closed d1059 · HIVE-1 @ AG-AP-01 · hands-off year one** |
 | **→ EXPED / cart trips** | **~1047–1247** | **Y4 D80–D280** | **✓ CLOSED @ Day 1257 · no casual long trips until post-harvest** |
 | **→ WILD FLAX PULL** | **~1154–1184** | **Y4 D187–D217** | **✓ P-RETT-4 close d1162 · ~430 g line · optional lap 2** |
-| **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **✓ OPEN @ Day 1309 · EMMER-Y4 ✓ · hard block live** |
-| **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **Solstice pin @ C-0 · 46/42** |
-| **Yearly windows** | **—** | **All Cal-Y** | **✓ SUN-CAL-YEARLY-WINDOWS-1004 @ C-0 + slate** |
+| **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **✓ CLOSE @ d1332 · block lifted @ Yule** |
+| **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **✓ FEAST-YULE-1332 · BOW-HUNT goose · SUN-YULE-1332 · 46/42** |
+| **→ Cal-Y5 open** | **~1333** | **Y5 D1** | **✓ OPEN @ d1333 · WOAD-VAT-REFRESH-2 ✓ · jeans hero live** |
+| **→ WOAD-SEED sow** | **~1399–1417** | **Y5 D67–D85** | **~15 g @ CHEM shelf · Bed D / herb margin · frost gate** |
+| **→ WOAD-LEAF pull** | **~1532–1572** | **Y5 D200–D240** | **DYE-WOAD-1 NW · modest pull · vat stock · DYE-COLLECT-Y5-SLATE ✓ d1341** |
+| **→ WOAD-SEED collect** | **~1652–1692** | **Y5 D320–D360** | **DYE-WOAD-1 · seed only · autumn trip class** |
+| **→ MADDER-DIG** | **~1662–1696** | **Y5 D330–D364** | **DYE-MADDER-1 · conservative dig · ~88 g dry now · domus burgundy runway** |
+| **Yearly windows** | **—** | **All Cal-Y** | **✓ SUN-CAL-YEARLY-WINDOWS-1004 + DYE-COLLECT-Y5 d1341** |
 
 ### Completed stacks *(archived detail in day files)*
 
@@ -63,7 +69,8 @@
 | **CULINA-GREEN-1** | **✓ d1189 swatch · curtain ✓ d1254 · rug ✓ d1256** | **Forest green textile path closed** |
 | **CULINA-CURTAIN-1** | **✓ d1254** | **LM-2 panel · woad+onion · rod · hang live** |
 | **CULINA-RUG-1** | **✓ d1256** | **~108×72 cm floor mat @ culina bay · pairs with curtain** |
-| **CL-WOAD-BREECH-1** | **Slated d1190** | **Woad indigo multi-dip · heavy twill · jeans class · vestiarium fill · textile day** |
+| **ICE-HAUL-Y5-SLATE-1331** | **Slated ~d1363–1388** | **Scout @ Cal-Y5 D30 · max haul @ D49–51 · target >~25 kg nett vs Y4 ~11 kg thin d1004** |
+| **YULE-REST-SLATE-1331** | **✓ d1332 FEAST-YULE + BOW-HUNT** | **Goose hero · block lifts · Cal-Y4 close** |
 | **CULINA-SOUTH-SHELL-1** | **✓ 100% d1254** | **Fit-out ✓ · floor ✓ · glass ✓ · curtain ✓** |
 | **H-V2-STORE-1** | **✓ d1254** | **Horreum A/B/C LIVE · domus north range · doctrine filed** |
 | **Stackable brick** | Shell reserve | **Compound ~100% · MVP tail** | **Lantern · whitewash · linens post-harvest** |
@@ -71,12 +78,13 @@
 | **DOMUS-LANTERN-HANG-1** | **✓ d1258** | **OIL-LANTERN-1 @ south culina bond beam · lab hook empty** |
 | **EXT-WHITEWASH-1** | **✓ d1260 · 100%** | **d1258 south+west · d1259 east+north · d1260 stubs+lap · EXT-WHITEWASH-LIVE @ slate** |
 | **DOMUS-MVP** | **✓ d1260** | **Store · deco · court · lantern · ext skin closed · linens post-harvest** |
-| **LINENS-SPRINT** | **Slated post-harvest** | **Thermae teal · porticus purple · curtains · rugs · towels · after Day ~1332** |
+| **LINENS-SPRINT** | **Jeans ×2 ✓ · TIEDYE ✓ · COAT ✓ · CUB curtains ✓ · DOMUS-RUG-SLATE ✓** | **Porticus · thermae curtains · ICE max ~d1381** |
 | **HARVEST-PREP-1261** | **[~] ~40% d1274** | **Thresh ✓ · horreum ✓ · sickle ✓ d1274 · final read ~d1305+ defer** |
 | **LABWARE-GLASS-SPRINT** | **✓ closed d1264** | **GP-1263 flask @ bench · vials G–I @ rack · wax tags ✓** |
 | **OIL-LANTERN-2** | **✓ d1266** | **GP-1265 panes A–D · assembly · light trial · @ chem-lab east default** |
 | **DOMUS-LANTERN-HANG-1** | **✓ OIL-LANTERN-1 @ south culina** | **OIL-LANTERN-2 @ chem-lab · two-lantern doctrine live** |
-| **DOMUS-RUG-SLATE** | **Paused** | **Cubicula ✓ · culina ✓ · rest → linens sprint post-harvest** |
+| **DOMUS-RUG-SLATE** | **✓ d1352 · CUB curtains ✓ d1365** | **Porticus · thermae curtains defer · ICE max ~d1381** |
+| **CL-LINEN-COAT-SLATE-1351** | **✓ d1359 @ peg K** | **Re-dye defer · woad leaf band · scout wear OK** |
 | **WALL-COLOR-TRIAL-1** | **Slated d1120** | **Limewash + pigment offcuts · madder/grape/verdigris/hull/iron/burgundy** |
 
 ---

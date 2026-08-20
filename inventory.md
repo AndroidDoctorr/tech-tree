@@ -16,10 +16,10 @@
 | **Pile 7 lime** | **~8.3 kg CaCO₃ raw d1325 · putty ~0.3 kg GREEN @ trough · jar ~2.3 kg @ v1** |
 | **Roof tiles** | **×46 TR fired @ rack surplus · MILLHOUSE-2 roof ✓ d1322 · green ×0** | **M2 LIVE d1326 · Phase 1 mat DOWN · one-roof rule closed** |
 | **Pile 4 stone** | **~2 kg dress stock d1244 RED** | **−~42 kg COL-N drums 2–4 d1244 · was ~77 kg d1243** |
-| **Pile 5 oak** | **~37 kg @ pile 5 d1326** | **+~6 kg Phase 1 mat salvage d1326 · −~7 kg fit-out d1325 · −~12 kg floor d1324 · PEN-EXT-MAT ~18 kg staged** |
-| **PEN-EXT-MAT @ farm fork pad** | **~18 kg oak · ×48 willow ~7.8 kg · ~30 m hemp coil d1302** | **PEN-EXT-MISE ✓ · wattle build ~1309+ · daub optional @ build** |
+| **Pile 5 oak** | **~39 kg @ pile 5 d1327** | **+~2 kg PEN-EXT spare d1327 · +~6 kg Phase 1 salvage d1326 · floor/fit-out draws prior** |
+| **PEN-EXT @ farm fork** | **✓ complete d1328** | **Wattle d1327 · holding E daub ~9 kg d1328 · browse wattle-only · LINENS-SPRINT queued** |
 | **Pile 9** | **Pole spill cleared d1097 · travois + corral/fence stakes + drop bar remain** |
-| **Char/clay** | **lane ~34.9 kg AMBER d1317 · pile 1 ~33.1 kg GREEN · pile 5 ~37 kg · ~9 kg working @ M2 CHAR shelf d1326 · PEN-EXT-MAT ~18 kg staged · TR green ×0** |
+| **Char/clay** | **lane ~34.9 kg AMBER d1317 · pile 1 ~24 kg GREEN d1328 · pile 5 ~39 kg · PEN-EXT ✓ complete d1328** |
 
 ### Belt / hide / dressing *(audit Day 828)*
 
@@ -116,10 +116,18 @@
 | **Breechcloth** | **CL-BREECH-2 ✓** — **primary wear Day 593** |
 | **CL-BREECH-3** | **✓ @ vestiarium PAR-E d1153** |
 | **CL-BREECH-4** | **✓ @ vestiarium PAR-E d1153** |
+| **CL-BREECH-5** | **✓ natural @ vestiarium peg D d1331** |
+| **CL-BREECH-6** | **✓ palette B tie-dye @ vestiarium peg E d1331** |
+| **CL-WOAD-JEANS-1** | **✓ heavy 2/2 twill · 3-dip woad · hide drawcord @ vestiarium peg F d1335** |
+| **CL-WOAD-JEANS-2** | **✓ mirror pair @ vestiarium peg G d1338 · wear/wash rotation w/ peg F** |
 | **CL-TUNIC-1** | **✓ Day 384** — natural linen · ~46×88 cm · peg backup |
 | **CL-TUNIC-2** | **✓ Day 541** — teal · ~48×90 cm · chest slit · ×4 eyelets · **primary wear** |
 | **CL-TUNIC-3** | **✓ Day 543** — natural · ~48×90 cm · double stitch · closed front · **@ vestiarium PAR-E d1153** |
 | **CL-TUNIC-TIEDYE-1** | **✓ Day 591** — bind-resist multi-dip · iron · hull · grape · madder · ~48×90 cm · **@ peg** |
+| **CL-TUNIC-TIEDYE-2** | **✓ d1342–1343 · Palette A bind-resist · verdigris · woad-onion · onion yellow · ~48×90 cm · @ vestiarium peg H** |
+| **CL-TUNIC-TIEDYE-3** | **✓ d1345–1346 · Palette B bind-resist · woad · grape mauve · iron magenta · ~48×90 cm · @ vestiarium peg I** |
+| **CL-TUNIC-TIEDYE-4** | **✓ d1348–1349 · Palette C · @ vestiarium peg J · green · yellow · orange** |
+| **CL-LINEN-COAT-1** | **✓ d1359 · naval gray-blue @ vestiarium peg K · ×8 bone CL-BUTTON · wear OK · re-dye enrich defer (woad leaf ~d1532 band)** |
 | **CL-TUNIC-4** | **✓ Day 975** — natural · ~48×90 cm · double stitch · closed front · **@ vestiarium PAR-E d1153** |
 | **Tabard v1** | ~55×38 cm · **lime whitewash** — **@ peg rotation** |
 | **CL-TABARD-2** | **✓ Day 542** — purple-mauve grape skin · ~56×39 cm · **primary over-layer** |
@@ -135,7 +143,7 @@
 | **Copper needle v1** | Belt |
 | **Copper awl v0** | Belt backup |
 | **Bow v1** | Sinew string |
-| **Quiver** | **15** arrows (**11** pointed recovered, **4** blunt) | **BIRD-HUNT-592 · ×2 shot recovered** |
+| **Quiver** | **15** arrows (**11** pointed recovered, **4** blunt) | **BOW-HUNT-1332 · ×1 shot recovered @ oxbow** |
 | **Waterskin v1** | ~1.8 L class, usually filled |
 
 ---
@@ -152,7 +160,12 @@
 | **H-V3-COLONNADE-SOCLE-1188** | **✓ COLONNADE-RING ✓ 100% · COMPOUND-PLASTER ✓ · EXT-WHITEWASH-1 ✓ d1260 · DOMUS MVP ✓** | **LINENS-SPRINT post-harvest · ×50 TR @ rack** |
 | **H-V2-STORE-1** | **✓ d1254 · horreum A/B/C LIVE · domus north range formalized** | **Doctrine @ kitchen + C-0 · open PW passage** |
 | **CULINA-CURTAIN-1** | **✓ d1254 · forest green LM-2 @ south window · rod live** | **CULINA-SOUTH-SHELL-1 ✓ 100%** |
+| **H-V3-CUB-CURTAIN-W-1** | **✓ d1365 · burgundy ~1.12×0.88 m @ west cell window · pairs H-V3-CUBICULUM-RUG-1** |
+| **H-V3-CUB-CURTAIN-E-1** | **✓ d1365 · burgundy @ east cell window · pairs H-V3-CUB-RUG-E-1** |
+| **PORTICUS-CURTAIN-1** | **✓ d1367 weave natural @ W-1 stack · grape/iron dye + rod queued** | **DYE-RECIPE-PORTICUS-PURPLE-1329 · pairs PORTICUS-RUG-1** |
 | **CULINA-RUG-1** | **✓ d1256 · ~108×72 cm forest green @ culina bay center** | **WOAD-VAT-1 + onion · pairs with curtain · CULINA-GREEN-1 ✓** |
+| **THERMAE-RUG-1** | **✓ d1350 · ~109×73 cm verdigris teal @ east thermae apodyterium** | **DYE-RECIPE-THERMAE-TEAL-1329 · tile boot PASS** |
+| **PORTICUS-RUG-1** | **✓ d1352 · ~108×72 cm grape purple @ penus/porticus** | **DYE-RECIPE-PORTICUS-PURPLE-1329 · tile boot PASS · DOMUS-RUG-SLATE ✓** |
 | **H-V3-CUBICULUM-RUG-1** | **✓ d1119 · ~102×68 cm burgundy @ west respawn bay** | **DYE-RECIPE-BURGUNDY-1 · bedside class** |
 | **DOMUS-ATRIUM-PAD-1** | **✓ d1257 · ~3.6 m Ø flag ring @ compluvium margin · pour PASS** | **SUN-MARK pad folded @ S margin · DOMUS-ATRIUM-PAD-LIVE chalked** |
 | **H-V3-CUB-RUG-E-1** | **✓ d1255 · ~101×67 cm burgundy @ east cell bedside** | **Pair with west · card repeat** |
@@ -166,7 +179,7 @@
 | **BEDDING-SET-A** | **✓ complete** | **PILLOW-SLIP-A-1 ✓ · BEDDING-SHEET-A-1 ✓ · BLANKET-A-1 ✓** |
 | **BLANKET-B-1** | **1 ✓** | **~96×168 cm sandwich · madder red-orange @ peg · DYE-BLANKET-B-1 ✓ Day 586** |
 | **BEDDING-SET-B** | **✓ complete** | **PILLOW-SLIP-B-1 ✓ · BEDDING-SHEET-B-1 ✓ · BLANKET-B-1 ✓ madder red** |
-| **MADDER-ROOT-585** | **~96 g dry reserve** | **−~22 g H-V3-CUB-RUG-E-DYE-1255 · prior −~26 g d1119 · @ v1 CHEM porch rack** |
+| **MADDER-ROOT-585** | **~46 g dry reserve d1364** | **−~36 g CUB-CURTAIN-BURGUNDY ×2 d1364 · prior sprint logged** |
 | **WOAD-SEED-Y3-966** | **~15 g clean seed** | **DYE-TRIP-1 d966 · @ v1 CHEM dry shelf · **Cal-Y4 spring sow** · Bed D margin or herb trial** |
 | **MADDER-BED-RESERVE** | **×4 crowns planted d966** | **~2×3 m @ Bed B herb margin W · autumn heel-in · farm red path** |
 | **BLANKET-SANDWICH** | trial ✓ Day 548 | **double panel + tow batting + tuft grammar** |
@@ -217,7 +230,7 @@
 | **BARREL-3 v0** | **✓ Day 593** — **~30 L oak · wicker hoops ×3 · water @ W-1 rack** |
 | **BUNG-TAP-3** | **✓ Day 593** — **oak plug + hide washer + CU lip ~7 g @ BARREL-3** |
 | **BARREL-SET-1** | **✓ ×3 tappable** — **BARREL-1 water · BARREL-2 grain · BARREL-3 water** |
-| **FEATHER-BAG-1** | **~153 g** mixed down + contour | **BIRD-HUNT-592/596/597 @ v1 FIBER peg** |
+| **FEATHER-BAG-1** | **~75 g** mixed down + contour | **+~42 g BOW-HUNT-1332 @ v1 FIBER peg · PILLOW reserve class** |
 | **ANIMAL-BLANKET-SET-1** | **✓ Day 570/747** — **holding rugs ×3 @ HOLDING peg (Mabel · Humphrey · Silas)** |
 | **ANIMAL-RAIN-SHEET-SET-1** | **✓ Day 580** — **×2 ~70×100 cm · ×1 @ P-GOAT-1 · ×1 @ HOLDING-1 lean-to · spare roll @ wagon peg** |
 | **BUNG-TAP-1** | **✓ Day 568** — **oak plug + hide washer + CU lip ~8 g @ bung** |
@@ -231,7 +244,7 @@
 | **ICE-ROUTE-1** | **✓ staked NE ~8 km · ~4 h round wagon class** |
 | **COOL-CELLAR-13-LOAD** | **✓ Day 633** — **~480 g waxed smoked fish · ~220 g fig leather @ east racks** |
 | **PILLOW-DOWN-1** | **✓ @ H-v2 bed in PILLOW-SLIP-A-1 · ~120 g down fill** |
-| **FEATHER-BAG-1** | **~33 g contour reserve** | **−~120 g → PILLOW-DOWN-1 Day 612** |
+| **FEATHER-BAG-1** | **~75 g @ v1 FIBER peg** | **33 g post-pillow reserve + ~42 g BOW-HUNT-1332** |
 | **HOT-WATER-1** | **✓ Day 614** @ kitchen porch · **~20 L** brick/clay · firebox |
 | **SHOWER-2** | **✓ Day 615** · insulated · **~25 min** heat-to-rinse |
 | **SHOWER-3** | **✓ d939 @ DR-LT-01 · header arm · reed lip · straw wrap · grey → DR-GT-01 · HYGIENE-TOWEL-PEG-1 ✓ d941** |
@@ -276,7 +289,7 @@
 | **WAGON scout bank** | **~17.6 kg @ v1/cellar repack** | **−~3.2 kg trip d837–839 · KELP-BANK doctrine** |
 | **Home scout reserve** | **~13.4 kg class** | **unchanged @ trip** |
 | **M-13 kelp (dry)** | **—** | **Burned d840 → KELP-ASH-2** |
-| **WOAD-VAT-1** | **✓ live @ v1 CHEM crock d1189** | **−1 dip CULINA-RUG d1256 · curtain d1254 · CULINA-GREEN-1 ✓** |
+| **WOAD-VAT-1** | **✓ live · very tired post-CL-LINEN-COAT-1 d1358** | **Refresh before navy re-dye · domus burgundy needs fresh lap** |
 | **KELP-ASH-2** | **~8.6 g** @ v1 CHEM | **−~14.4 g OIL-LANTERN-2 panes d1265 · prior draws** |
 | **Soda total** | **~241 g class** | **KELP-ASH-1 + KELP-ASH-2 remain** |
 | **GP glass samples** | **845–847 sealed ampoules @ anneal · rack** | **Shape ladder · neck close d847** |
@@ -285,15 +298,15 @@
 | **Pistachio (P-01)** | **~2.3 kg** kernels | Shelled Day 185 · hulls → pile 6 |
 | **Salt (SALT-1)** | **~290 g** | **−~10 g JERKY-4 prep Day 725** |
 | **Snails (SNAIL-1)** | **~1.1 kg** brined | **+~0.55 kg SNAIL-COOK-728 · SNAIL-ROUTINE 2×/wk** |
-| **Grape leather (P-03)** | **~580 g** | **+GRAPE-LEATHER-2 ~100 g Day 599** |
+| **Grape leather (P-03)** | **~522 g** | **−~30 g PORTICUS-RUG-1 d1352 · prior TIEDYE-3/breech/swatch logged** |
 | **GRAPE-VINEGAR-1** | **~0.6 L** | **P-η crock @ v1 CHEM · Day 508 split** |
 | **GRAPE-VINEGAR-MOTHER** | **~0.3 L** | **Mother crock labeled @ v1 CHEM** |
-| **VERDIGRIS-TRAY-1** | **rebuild day 2 Day 547** | **teal reserve · −~9 g BEACH-CHAIR-STRIPE d969 · ~13 g scrape remain class** |
+| **VERDIGRIS-TRAY-1** | **rebuild day 2 Day 547** | **−~4 g THERMAE-RUG-1 d1350 · ~4 g scrape remain class** |
 | **DYE-VIBRANT-STOCK-545** | **×4 live baths @ v1 CHEM** | **iron · hull gold · grape purple · onion yellow** |
-| **TIE-DYE-SWATCH-545** | **×6 bind-resist tags** | **@ v1 CHEM shelf · dip order reference** |
+| **TIE-DYE-SWATCH-545** | **×6 bind-resist tags** | **@ v1 CHEM shelf · superseded by LINENS-PALETTE-A/B/C ×15 tag set d1329** |
 | **KELP-ASH-1** | **~108 g** | **−~6 g Day 388 · −~6.5 g TRIAL-3/4 Day 395 · unchanged d841** |
 | **M-11 alum (crude)** | **~1.75 kg** dry class | **EXPED-C P2** @ v1 CHEM tray · lidded |
-| **ALUM-PURIFY-1** | **~56 g** crystal class | **−~13 g CULINA-RUG d1256 · prior draws d1254–1255** |
+| **ALUM-PURIFY-1** | **~0 g crystal · depleted d1364** | **−~18 g CUB-CURTAIN ×2 · M-11 crude ~1.75 kg @ v1 tray for future mordant** |
 | **MORDANT-TRIAL-1 swatches** | **×3 linen strips** | Alum+hull tan · controls @ v1 CHEM shelf |
 | **DYE-PANEL-1 swatches** | **×7 (S-01–S-07)** | Hull tan · iron liquor · grape · onion · tannin · control · thread dip @ v1 CHEM |
 | **DYE-PLAY-496 trials** | **×4 tags** | Deep hull · long iron · onion→hull seq · grape→iron mauve @ v1 CHEM |
@@ -633,11 +646,11 @@
 | **LM-2 loom** | **✓ @ W-1 under ROOF-W1** | **Primary textile shop · dry · room for loom + daily work *(TEXTILE-DOCTRINE-1096)* ** |
 | **LM-3-SAIL-LOOM-1** | **Slate d888 — not built** | **Wide beam · sail horizon · LOOM-WING · after BOAT-1 + flax m²** |
 | **Line flax @ FIBER row** | **~0 g** | **WHEEL-SPIN-10 ✓ d886 · depleted · field owns next pull** |
-| **THREAD-STOCK-2** | **~289 m @ W-1 d1308** | **+~114 m WHEEL-SPIN-11–16 d1303–1308 · prior ~61 m d1300 · harvest d1309 no spin** |
+| **THREAD-STOCK-2** | **~125 m @ W-1 d1367** | **−~10 m PORTICUS-CURTAIN-1 weave · thermae + dye margin** |
 | **CL-LAB-WEAR @ chem-lab peg rail** | **CL-LAB-TUNIC-1 ✓ peg #1 · CL-LAB-COAT-2 ✓ peg #2 · CL-LAB-BREECH-1 ✓ peg #3 d1300** | **3/3 ✓ · lime peg only · change @ chem-lab door** |
 | **THREAD-STOCK-1** | **~12.8 m** | **−~0.8 m kitchen rod lash d887** |
-| **Flax tow @ W-1** | **~145 g @ W-1 d1256** | **−~170 g CULINA-RUG d1256 · prior ~315 g d1255** |
-| **Wild flax line @ W-1** | **~100 g @ W-1 peg d1308** | **−~330 g WHEEL-SPIN-11–16 d1303–1308 · prior ~430 g · P-RETT-4 ✓** |
+| **Flax tow @ W-1** | **~6 g scrap** | **−~130 g hackle d1366 · ~600 g remain @ WOOD-CRATE-2** |
+| **Wild flax line @ W-1** | **~0 g @ peg d1360** | **WHEEL-SPIN-19/20 cleared hackle line · horreum tow = spin feedstock path** |
 | **Coarse fiber @ FIBER row** | **~22 g** | Cordage class · not garment |
 | **Coarse thread bank** | **~0 m @ W-1** | **~38 m → C TEXTILE-OVERFLOW long-store d1097** |
 | **MEASURE-1** | **✓ Day 287** | **THUMB-1** · **RULE-1** · **MASS-STONE 1/2×/5× (~5 g/1× recal d824)** · **BALANCE-1** @ W-1 |
@@ -745,12 +758,12 @@
 | Item | Notes |
 |------|--------|
 | **Travois v1** | @ pile 9 |
-| **Feet** | **BOOT-3 @ go-bag · CL-SOCK-1 wear · CL-SOCK-2 peg · CL-SOCK-3 go-bag** |
+| **Feet** | **BOOT-3 wear d1363 · CL-SOCK-5 wear · CL-SOCK-1 peg · CL-SOCK-3 go-bag · CL-SOCK-4 vestiarium · CL-SOCK-2 peg** |
 | **Trail tools** | **TENT-1 · BEDROLL-1 · AMPHORA-1 · SPEAR-2 · bow — dry · racked** |
 | **Phase 1** | **✓ Day 373** — **~12.2 kg O-IRON · ~17.8 kg O-1 · M-22 pin · hold** |
 | **Phase 2** | **✓ Day 381** — **~2.2 kg M-11 @ v1 CHEM** |
 | **BOOT-3 doctrine** | **Primary EXPED · BOOT-GRIP-1 ✓ Day 604 · caligae backup · west loop 378–381** |
-| **Trail clothes** | **CL-TUNIC-1 · CL-TABARD-2 · CL-CLOAK-1 @ wagon · CL-COAT @ HOME** |
+| **Trail clothes** | **WEAR-STACK-SPRINT-1363 ✓ · CL-LINEN-COAT-1 · CL-WOAD-JEANS-2 · TIEDYE-2 · CL-COAT @ HOME (ridge optional)** |
 
 
 See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries/centadial-003.md) · [sun-calendar.md](sun-calendar.md) — **H-v2-KITCHEN-1 · bloom #6 · BARN-1-v1 · glass · bronze/tin**
@@ -763,7 +776,7 @@ See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries
 |-------|--------|
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
-| **Clay weigh** | **MILLHOUSE-2 ✓ LIVE d1326 · Phase 1 mat DOWN · migration complete · ×46 TR surplus** |
+| **Clay weigh** | **THREAD ~125 m · porticus weave ✓ · thermae curtain queued · TENT-2/D825 slate · ICE max ~d1381** |
 | **River sand** | **~7 kg — OK · haul if <~3 kg before grout hero** |
 | **Char lane** | **~36.9 kg AMBER d1290 · vault ~63 kg untouched · KILN-A-LIME-1290 ✓** |
 | **Green queue** | **×0 @ pile 3 · GREEN-PRESS reseed when named · pile 1 ~33 kg GO** |

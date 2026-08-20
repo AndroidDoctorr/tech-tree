@@ -211,6 +211,10 @@ Piecewise between anchors (linear segment):
 | **AUTUMN HARVEST** | **D341–D365** | **Hard block · emmer · pulse · seed bank** | **No casual trips · forge interleave only · FEAST @ D365** |
 | **YULE / FEAST** | **D365** | **Solstice eve @ ground 46 · wall 42** | **Tree · bench · chill plate · year close · SUN-YULE re-mark** |
 | **BIRD / WEIR HUNT** | **D40+ winter** | **Weir daily · bird winter class** | **Not seasonal hero — maintenance protein** |
+| **WOAD LEAF PULL** | **D200–D240** | **Summer leaf · yellow flower @ DYE-WOAD-1 ~2.8 km NW** | **Modest pull ~200–240 g fresh · dry · vat top-up · Y4 ref d1188 @ D221** |
+| **WOAD SEED SOW** | **D67–D85** | **Spring frost gate · herb margin** | **WOAD-SEED @ CHEM shelf · Bed D / herb trial · not autumn plant** |
+| **WOAD SEED COLLECT** | **D320–D360** | **Autumn @ DYE-WOAD-1** | **Seed only · no leaf strip · bag for spring sow** |
+| **MADDER ROOT DIG** | **D330–D364** | **Late summer–autumn · tops yellow-back @ DYE-MADDER-1** | **Conservative dig · crown slips · home MADDER-BED ×4 · Y3 ref d966 @ D364** |
 | **CALCIUM / WOOD** | **Any interleave** | **Pile banks · pit when lane thin** | **Factory rhythm — not a single window** |
 
 **C-0 pad edge ticks *(Day 1004):* **red** = ICE band · **green** = SOW band · **gold** = HARVEST band · **YULE @ 42** unchanged.
