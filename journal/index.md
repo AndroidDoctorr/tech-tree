@@ -1370,6 +1370,96 @@
 | 1365 | [day-1365.md](days/year-004/week-195/day-1365.md) | **H-V3-CUB-CURTAIN ✓ live ×2 · cubicula suite · Week 195 close** | **Cal-Y5 D33** |
 | 1366 | [day-1366.md](days/year-004/week-196/day-1366.md) | **Week 196 open · WHEEL-SPIN-21/22 ✓ · ~135 m bank** | **Cal-Y5 D34** |
 | 1367 | [day-1367.md](days/year-004/week-196/day-1367.md) | **PORTICUS-CURTAIN-1 WEAVE ✓ · D825 camp slate filed** | **Cal-Y5 D35** |
+| 1368 | [day-1368.md](days/year-004/week-196/day-1368.md) | **THERMAE-CURTAIN-1 WEAVE ✓ · 4/4 weave slate · TENT-2 waterproof doctrine** | **Cal-Y5 D36** |
+| 1369 | [day-1369.md](days/year-004/week-196/day-1369.md) | **CURTAIN-DYE-PAIR ✓ · porticus purple + thermae teal @ line** | **Cal-Y5 D37** |
+| 1370 | [day-1370.md](days/year-004/week-196/day-1370.md) | **CURTAIN-DEPLOY ✓ ×2 · DOMUS-CURTAIN-SLATE closed** | **Cal-Y5 D38** |
+| 1371 | [day-1371.md](days/year-004/week-196/day-1371.md) | **TENT-2 weave/sew ~70% · panels + cap strip · no spin day** | **Cal-Y5 D39** |
+| 1372 | [day-1372.md](days/year-004/week-196/day-1372.md) | **TENT-2 ✓ rain PASS · D825-SUMMER-PREP-SLATE** | **Cal-Y5 D40** |
+| 1373 | [day-1373.md](days/year-004/week-197/day-1373.md) | **Week 197 open · BRIDGE-KIT-1 ✓ ~28 kg @ wagon · manifest** | **Cal-Y5 D41** |
+| 1374 | [day-1374.md](days/year-004/week-197/day-1374.md) | **TEAM-TRAIN-4 ✓ · ~50 kg expedition lash · BRIDGE-1 cross** | **Cal-Y5 D42** |
+| 1375 | [day-1375.md](days/year-004/week-197/day-1375.md) | **TRAIL-MARK-BATCH-1 ✓ · ×28 marks · D825 trail mark doctrine** | **Cal-Y5 D43** |
+| 1376 | [day-1376.md](days/year-004/week-197/day-1376.md) | **TALLOW-RENDER ✓ · ICE-MAX-HAUL-PREP ✓ · haul mode manifest** | **Cal-Y5 D44** |
+| 1377 | [day-1377.md](days/year-004/week-197/day-1377.md) | **HAUL-LIME ✓ · ~20 kg raw @ pile 7 · bridge stock queued** | **Cal-Y5 D45** |
+| 1378 | [day-1378.md](days/year-004/week-197/day-1378.md) | **KILN-A-LIME ✓ · BRIDGE-RESERVE-1 ✓ · two-crossing runway @ horreum B** | **Cal-Y5 D46** |
+| 1379 | [day-1379.md](days/year-004/week-197/day-1379.md) | **STONE-HAUL ✓ hybrid · BRIDGE-FILL-1 ~18 kg · seed + creek pick** | **Cal-Y5 D47** |
+| 1380 | [day-1380.md](days/year-004/week-198/day-1380.md) | **Week 198 open · ICE-MAX-HAUL-Y5-1 ✓ · ~30.8 kg nett · ~41 kg cellar** | **Cal-Y5 D48** |
+| 1381 | [day-1381.md](days/year-004/week-198/day-1381.md) | **ICE-MAX-HAUL-Y5-2 ✓ · ~63.6 kg cellar · Y5 ice band closed** | **Cal-Y5 D49** |
+| 1382 | [day-1382.md](days/year-004/week-198/day-1382.md) | **BELEN-WAGON-REKIT ✓ · ~107 kg expedition column · TEAM-TRAIN-5 touch** | **Cal-Y5 D50** |
+| 1383 | [day-1383.md](days/year-004/week-198/day-1383.md) | **NORTH-TRIB-SCOUT-1 ✓ · ford slate · ×5 marks · field notes doctrine** | **Cal-Y5 D51** |
+| 1384 | [day-1384.md](days/year-004/week-198/day-1384.md) | **KARASU trib crossings ✓ · bridge @ ~16 km · cache · trail camp** | **Cal-Y5 D52** |
+| 1385 | [day-1385.md](days/year-004/week-198/day-1385.md) | **ORE-TRIP slate · ASI-ORONTES scout · route A · Seyhan defer** | **Cal-Y5 D53** |
+| 1386 | [day-1386.md](days/year-004/week-198/day-1386.md) | **ASI-ORONTES-1-BRIDGE ✓ site B · leg 1 close · RESERVE spent** | **Cal-Y5 D54** |
+| 1387 | [day-1387.md](days/year-004/week-199/day-1387.md) | **Week 199 open · RETURN-HOME ✓ · BRIDGE-REFILL ✓ @ horreum B** | **Cal-Y5 D55** |
+| 1388 | [day-1388.md](days/year-004/week-199/day-1388.md) | **BELEN-WAGON-REKIT ✓ · ~81 kg north · camp @ trib-02 · Afrin scout queued** | **Cal-Y5 D56** |
+| 1389 | [day-1389.md](days/year-004/week-199/day-1389.md) | **AFRIN-1-SCOUT ✓ · trunk loaded ford GO · bridge @ site B queued** | **Cal-Y5 D57** |
+| 1390 | [day-1390.md](days/year-004/week-199/day-1390.md) | **AFRIN-1-BRIDGE ✓ · trunk ford ✓ · leg 2 close · stock ×0** | **Cal-Y5 D58** |
+| 1391 | [day-1391.md](days/year-004/week-199/day-1391.md) | **RETURN-HOME ✓ · BRIDGE-REFILL ✓ · RESERVE-3 @ horreum B · pile 8 empty** | **Cal-Y5 D59** |
+| 1392 | [day-1392.md](days/year-004/week-199/day-1392.md) | **STONE-HAUL ✓ · pile 8 ×5 FS restored · Kirikhan scout queued** | **Cal-Y5 D60** |
+| 1393 | [day-1393.md](days/year-004/week-199/day-1393.md) | **HAUL-LIME ✓ · pile 7 ~21.6 kg · cook runway restored** | **Cal-Y5 D61** |
+| 1394 | [day-1394.md](days/year-004/week-200/day-1394.md) | **Week 200 open · BELEN-WAGON-REKIT ✓ · north push · post-Afrin camp** | **Cal-Y5 D62** |
+| 1395 | [day-1395.md](days/year-004/week-200/day-1395.md) | **KIRIKHAN-SPLIT-SCOUT ✓ · approach bridge @ B queued · route A west staked** | **Cal-Y5 D63** |
+| 1396 | [day-1396.md](days/year-004/week-200/day-1396.md) | **KIRIKHAN-APPROACH-BRIDGE ✓ · leg 3 close · stock ×0 · WOAD ~3 d** | **Cal-Y5 D64** |
+| 1397 | [day-1397.md](days/year-004/week-200/day-1397.md) | **RETURN-HOME ✓ · leg 3 slate · refill queued d1398** | **Cal-Y5 D65** |
+| 1398 | [day-1398.md](days/year-004/week-200/day-1398.md) | **BRIDGE-REFILL ✓ · RESERVE-4 + FILL-4 @ horreum B · WOAD sow ~d1399** | **Cal-Y5 D66** |
+| 1399 | [day-1399.md](days/year-004/week-200/day-1399.md) | **WOAD-SEED-SOW ✓ · Bed D margin ~15 g · frost gate · scare-only** | **Cal-Y5 D67** |
+| 1400 | [day-1400.md](days/year-004/week-200/day-1400.md) | **Scare loop · Centadial 14** | **WOAD watch d1 · [Centadial 14](summaries/centadial-014.md) · Cal-Y5 D68** |
+| 1401 | [day-1401.md](days/year-004/week-201/day-1401.md) | **Week 201 open · FARM-SCARE ✓ · BELEN-WAGON-REKIT ✓ · ~81 kg @ yard** | **Cal-Y5 D69** |
+| 1402 | [day-1402.md](days/year-004/week-201/day-1402.md) | **BELEN-STRING-SCOUT ✓ · approach bridge @ B queued · leg 4 slate · camp west terrace** | **Cal-Y5 D70** |
+| 1403 | [day-1403.md](days/year-004/week-201/day-1403.md) | **BELEN-APPROACH-1-BRIDGE ✓ · ISK-COAST-SCOUT ✓ · leg 4 close · line map · stock ×0** | **Cal-Y5 D71** |
+| 1404 | [day-1404.md](days/year-004/week-201/day-1404.md) | **RETURN leg 1 ✓ · TRAIL-WORK ✓ · route TQ ~2.0 · camp @ post-Afrin** | **Cal-Y5 D72** |
+| 1405 | [day-1405.md](days/year-004/week-201/day-1405.md) | **RETURN leg 2 ✓ · STONE-HAUL ✓ · BRIDGE-REFILL ✓ · camp @ Belen terrace** | **Cal-Y5 D73** |
+| 1406 | [day-1406.md](days/year-004/week-201/day-1406.md) | **ISK-APPROACH-1-BRIDGE ✓ · leg 5 close · ×6 bridges live · stock ×0 · Cilicia queued** | **Cal-Y5 D74** |
+| 1407 | [day-1407.md](days/year-004/week-201/day-1407.md) | **RETURN leg 1 ✓ · TRAIL-WORK ✓ · camp @ post-Afrin · ~54 km** | **Cal-Y5 D75** |
+| 1408 | [day-1408.md](days/year-004/week-202/day-1408.md) | **Week 202 open · RETURN leg 2 ✓ · TRAIL-WORK ✓ · TQ ~2.2 · campus/farm break** | **Cal-Y5 D76** |
+| 1409 | [day-1409.md](days/year-004/week-202/day-1409.md) | **FARM-SCARE ✓ · STOCK-TAKE ✓ · WAGON-READ ✓ · stone haul AMBER · load-prep slate** | **Cal-Y5 D77** |
+| 1410 | [day-1410.md](days/year-004/week-202/day-1410.md) | **STONE-HAUL ✓ · ART-BRUSH-SET-1 ✓ · PAINT-AUDIT · ART-SPRINT-1 open** | **Cal-Y5 D78** |
+| 1411 | [day-1411.md](days/year-004/week-202/day-1411.md) | **WOAD-VAT-REFRESH-4 ✓ · ART-PIGMENT-PANEL-1 ✓ · reserve jar RED** | **Cal-Y5 D79** |
+| 1412 | [day-1412.md](days/year-004/week-202/day-1412.md) | **Canvas stretcher ✓ · paper mould/deckle ✓ · PAPER-GRAMMAR · cotyledon break** | **Cal-Y5 D80** |
+| 1413 | [day-1413.md](days/year-004/week-202/day-1413.md) | **WOAD audit ✓ · BRIDGE-REFILL-6 ✓ · wagon load ✓ · depart d1414** | **Cal-Y5 D81** |
+| 1414 | [day-1414.md](days/year-004/week-202/day-1414.md) | **EXPED-DEPART ✓ · live chain ✓ · camp @ Belen west terrace** | **Cal-Y5 D82** |
+| 1415 | [day-1415.md](days/year-004/week-203/day-1415.md) | **Week 203 open · ISK-PASS ✓ · PINARUS-1-SCOUT ✓ · camp @ Isk north terrace** | **Cal-Y5 D83** |
+| 1416 | [day-1416.md](days/year-004/week-203/day-1416.md) | **PINARUS-1-BRIDGE ✓ · leg 6 close · ×7 bridges · stock ×0 · Payas queued** | **Cal-Y5 D84** |
+| 1417 | [day-1417.md](days/year-004/week-203/day-1417.md) | **PAYAS-APPROACH-1-SCOUT ✓ · BRIDGE-DURABILITY slate · Dörtyol horizon** | **Cal-Y5 D85** |
+| 1418 | [day-1418.md](days/year-004/week-203/day-1418.md) | **RETURN leg 1 ✓ · TRAIL-WORK ✓ · camp @ post-Afrin · REFILL-7 queued** | **Cal-Y5 D86** |
+| 1419 | [day-1419.md](days/year-004/week-203/day-1419.md) | **RETURN leg 2 ✓ · STONE-HAUL ✓ · BRIDGE-REFILL-7 ✓ · HOME** | **Cal-Y5 D87** |
+| 1420 | [day-1420.md](days/year-004/week-203/day-1420.md) | **HAUL-LIME ✓ · TRAIL-STONE-COLLECT doctrine · pile 7 GREEN** | **Cal-Y5 D88** |
+| 1421 | [day-1421.md](days/year-004/week-203/day-1421.md) | **EXPED-WAGON-LOAD ✓ · EXPED-DEPART ✓ · camp @ Belen · PAYAS queued** | **Cal-Y5 D89** |
+| 1422 | [day-1422.md](days/year-004/week-204/day-1422.md) | **Week 204 open · ISK-PASS ✓ · PINARUS-CROSS ✓ · camp @ PINARUS · PAYAS d1423** | **Cal-Y5 D90** |
+| 1423 | [day-1423.md](days/year-004/week-204/day-1423.md) | **PAYAS-APPROACH-1-BRIDGE ✓ · leg 7 close · ×8 bridges · stock ×0 · ~105 km** | **Cal-Y5 D91** |
+| 1424 | [day-1424.md](days/year-004/week-204/day-1424.md) | **DORTYOL-APPROACH-1-SCOUT ✓ · TRAIL-CLEAR L11 ✓ · furthest ~117 km · Erzin queued** | **Cal-Y5 D92** |
+| 1425 | [day-1425.md](days/year-004/week-204/day-1425.md) | **RETURN leg 1 ✓ · TRAIL-STONE-COLLECT-LATE · camp @ post-Afrin · REFILL-8 d1426** | **Cal-Y5 D93** |
+| 1426 | [day-1426.md](days/year-004/week-204/day-1426.md) | **RETURN leg 2 ✓ · TRAIL-STONE-COLLECT ✓ · STONE-HAUL ✓ · BRIDGE-REFILL-8 ✓ · HOME** | **Cal-Y5 D94** |
+| 1427 | [day-1427.md](days/year-004/week-204/day-1427.md) | **EXPED-WAGON-LOAD ✓ · RESERVE-8 + FILL-8 lashed · ~88 kg @ yard · DORTYOL queued** | **Cal-Y5 D95** |
+| 1428 | [day-1428.md](days/year-004/week-204/day-1428.md) | **EXPED-DEPART ✓ · third north lap open · camp @ Belen · DORTYOL d1431 class** | **Cal-Y5 D96** |
+| 1429 | [day-1429.md](days/year-004/week-205/day-1429.md) | **Week 205 open · ISK-PASS ✓ · PINARUS-CROSS ✓ · camp @ PINARUS north terrace** | **Cal-Y5 D97** |
+| 1430 | [day-1430.md](days/year-004/week-205/day-1430.md) | **PAYAS-CROSS ✓ · camp @ Payas north string · DORTYOL build d1431** | **Cal-Y5 D98** |
+| 1431 | [day-1431.md](days/year-004/week-205/day-1431.md) | **DORTYOL-APPROACH-1-BRIDGE ✓ · leg 8 close · ×9 bridges · stock ×0 · ~117 km** | **Cal-Y5 D99** |
+| 1432 | [day-1432.md](days/year-004/week-205/day-1432.md) | **ERZIN-APPROACH-1-SCOUT ✓ · furthest ~132 km · Toprakkale ~10 km NNW** | **Cal-Y5 D100** |
+| 1433 | [day-1433.md](days/year-004/week-205/day-1433.md) | **RETURN leg 1 ✓ · TRAIL-WORK ✓ · camp @ post-Afrin · COLLECT + REFILL-9 d1434** | **Cal-Y5 D101** |
+| 1434 | [day-1434.md](days/year-004/week-205/day-1434.md) | **RETURN leg 2 ✓ · TRAIL-STONE-COLLECT ✓ · BRIDGE-REFILL-9 ✓ · HOME · ERZIN queued** | **Cal-Y5 D102** |
+| 1435 | [day-1435.md](days/year-004/week-205/day-1435.md) | **STONE-HAUL ✓ · PAPER-SPRINT-1 ✓ · ROUTE-NOMENCLATURE ✓ · campus day** | **Cal-Y5 D103** |
+| 1436 | [day-1436.md](days/year-004/week-206/day-1436.md) | **Week 206 open · PAPER-COUCH-FELT ✓ · PAPER-SHEET-4–5 ✓ · TRAIL-Q-AUDIT ✓** | **Cal-Y5 D104** |
+| 1437 | [day-1437.md](days/year-004/week-206/day-1437.md) | **EXPED-RUNWAY-GATE ✓ · EXPED-WAGON-LOAD ✓ · RESERVE-9 lashed · ERZIN queued** | **Cal-Y5 D105** |
+| 1438 | [day-1438.md](days/year-004/week-206/day-1438.md) | **EXPED-DEPART ✓ · fourth lap open · camp @ Belen west terrace** | **Cal-Y5 D106** |
+| 1439 | [day-1439.md](days/year-004/week-206/day-1439.md) | **ISK-PASS ✓ · PINARUS-CROSS ✓ · camp @ PINARUS north terrace** | **Cal-Y5 D107** |
+| 1440 | [day-1440.md](days/year-004/week-206/day-1440.md) | **PAYAS-CROSS ✓ · camp @ Payas north string · ERZIN hero queued** | **Cal-Y5 D108** |
+| 1441 | [day-1441.md](days/year-004/week-206/day-1441.md) | **DORTYOL-CROSS ✓ · ERZIN-APPROACH-1-BRIDGE ✓ · leg 9 close · ×10 bridges · ~132 km** | **Cal-Y5 D109** |
+| 1442 | [day-1442.md](days/year-004/week-206/day-1442.md) | **THE-CASTLE-HILL-SCOUT ✓ · TURN-BACK ✓ · furthest ~142 km · RETURN d1443** | **Cal-Y5 D110** |
+| 1443 | [day-1443.md](days/year-004/week-207/day-1443.md) | **Week 207 open · RETURN leg 1 ✓ · TRAIL-WORK ✓ · post-Afrin camp · waystation slate** | **Cal-Y5 D111** |
+| 1444 | [day-1444.md](days/year-004/week-207/day-1444.md) | **RETURN leg 2 ✓ · COLLECT ✓ · BRIDGE-REFILL-10 ✓ · fourth lap close · HOME** | **Cal-Y5 D112** |
+| 1445 | [day-1445.md](days/year-004/week-207/day-1445.md) | **LIME-HAUL ✓ · KIT-RUNWAY-START ✓ · campus scare ✓ · lash defer** | **Cal-Y5 D113** |
+| 1446 | [day-1446.md](days/year-004/week-207/day-1446.md) | **EXPED-WAGON-LOAD ✓ · ~88 kg @ yard · fifth lap queued · depart d1447** | **Cal-Y5 D114** |
+| 1447 | [day-1447.md](days/year-004/week-207/day-1447.md) | **EXPED-DEPART ✓ · LEG-1-TRAIL-WORK ✓ · Belen intel · fifth lap open · camp @ Belen** | **Cal-Y5 D115** |
+| 1448 | [day-1448.md](days/year-004/week-207/day-1448.md) | **ISK + PINARUS ✓ · BELEN-WAYSTATION-SITE-C ✓ · camp @ PINARUS · Ceyhan push** | **Cal-Y5 D116** |
+| 1449 | [day-1449.md](days/year-004/week-207/day-1449.md) | **PAYAS-CROSS ✓ · camp @ Payas north string · Week 207 close** | **Cal-Y5 D117** |
+| 1450 | [day-1450.md](days/year-004/week-208/day-1450.md) | **Week 208 open · DORTYOL + ERZIN crosses ✓ · Castle re-read ✓ · CEYHAN scout ✓ · ~155 km** | **Cal-Y5 D118** |
+| 1451 | [day-1451.md](days/year-004/week-208/day-1451.md) | **CEYHAN bar march ✓ · camp @ north terrace · ~167 km · CART-UPGRADE slate · hero when named** | **Cal-Y5 D119** |
+| 1452 | [day-1452.md](days/year-004/week-208/day-1452.md) | **CEYHAN bridge ✓ · ×11 bridges · split waystation intel ✓ · ~170 km** | **Cal-Y5 D120** |
+| 1453 | [day-1453.md](days/year-004/week-208/day-1453.md) | **TURN-BACK ✓ · RETURN leg 1 ✓ · CILICIA-PROPER ✓ · site B locked · camp @ post-Afrin** | **Cal-Y5 D121** |
+| 1454 | [day-1454.md](days/year-004/week-208/day-1454.md) | **RETURN leg 2 ✓ · COLLECT ✓ · BRIDGE-REFILL-11 ✓ · fifth lap close · HOME** | **Cal-Y5 D122** |
+| 1455 | [day-1455.md](days/year-004/week-208/day-1455.md) | **campus · CART-AUDIT ✓ · WAYSTATION-INFRA-LOAD-START ✓ · calendar read** | **Cal-Y5 D123** |
+| 1456 | [day-1456.md](days/year-004/week-208/day-1456.md) | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · first waypoint · Week 208 close** | **Cal-Y5 D124** |
+| 1457 | [day-1457.md](days/year-004/week-209/day-1457.md) | **RETURN HOME ✓ · TRAIL-STONE-COLLECT ✓ · Belen infra loop close · Week 209 open** | **Cal-Y5 D125** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1389,6 +1479,7 @@
 | **11** | 1001–1100 | [centadial-011.md](summaries/centadial-011.md) |
 | **12** | 1101–1200 | [centadial-012.md](summaries/centadial-012.md) |
 | **13** | 1201–1300 | [centadial-013.md](summaries/centadial-013.md) |
+| **14** | 1301–1400 | [centadial-014.md](summaries/centadial-014.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

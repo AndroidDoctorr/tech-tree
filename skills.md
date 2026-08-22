@@ -1,6 +1,6 @@
 # Skills ledger
 
-*Last updated: **Day 1094** (~10,000 BC) · Week 157 · horreum C shell · factory lap*
+*Last updated: **Day 1411** (~10,000 BC) · Week 202 · ART-SPRINT-1 · WOAD-VAT fresh*
 
 This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**eference-**A**ssisted **G**eneration + **MUD-style text play.
 
@@ -180,7 +180,64 @@ This file tracks **your** skills in **[RAG-MUD](purpose.md#rag-mud)** — **R**e
 
 | Day | Skill | Now Δ | Trigger |
 |-----|-------|-------|---------|
-| **1094** | Brick · mortar · hypocaust | *(hold 5)* | **HORREUM-C-ROOF-1 ✓ · shell ~98%** |
+| **1411** | Dye / mordant chemistry | *(hold 5)* | **WOAD-VAT-REFRESH-4 · ART-PIGMENT-PANEL-1 · woad paint grammar** |
+| **1411** | Salt / lye / soap chemistry | *(hold 5)* | **Hide size · lime wash · kelp-ash lap @ vat refresh** |
+| **1412** | Carpentry / joinery | *(hold 5)* | **CANVAS-STRETCHER-INNER-1 · PAPER-DECKLE + MOULD** |
+| **1415** | Fort planning / 3D staging | *(hold 5)* | **PINARUS-1-SCOUT · leg 6 slate · north token table** |
+| **1416** | Brick · mortar · hypocaust | *(hold 5)* | **BRIDGE-PINARUS-SITE-B · MORTAR-SACK-7 slake** |
+| **1421** | Camp logistics / haul | *(hold 5)* | **EXPED runway gate · wagon load · depart** |
+| **1423** | Brick · mortar · hypocaust | *(hold 5)* | **PAYAS bridge · MORTAR-SACK-8 slake @ site** |
+| **1423** | Camp logistics / haul | *(hold 5)* | **RESERVE-7 deploy · leg 7 close · ×8 bridges** |
+| **1424** | Fort planning / 3D staging | *(hold 5)* | **DORTYOL read · leg 8 slate · Erzin token** |
+| **1424** | Camp logistics / haul | *(hold 5)* | **Scout loop · L11 TRAIL-CLEAR · forward camp** |
+| **1425** | Camp logistics / haul | *(hold 5)* | **Return leg 1 · ~89 km · post-Afrin camp** |
+| **1425** | Donkey team train | *(hold 5)* | **~53 kg · DORTYOL ford @ A · long south chain** |
+| **1426** | Camp logistics / haul | *(hold 5)* | **Return leg 2 · COLLECT · haul · REFILL-8 stage** |
+| **1426** | Brick · mortar · hypocaust | *(hold 5)* | **Kiln A · MORTAR-SACK-9** |
+| **1426** | Farm ops | *(hold 5)* | **Scare · WOAD d27 watch** |
+| **1427** | Brick · mortar · hypocaust | *(hold 5)* | **Dry-sack read · no pre-depart cook** |
+| **1428** | Camp logistics / haul | *(hold 5)* | **HOME gate · EXPED-DEPART · Belen camp** |
+| **1428** | Donkey team train | *(hold 5)* | **~88 kg · third lap · TQ ~2.3 pace** |
+| **1429** | Donkey team train | *(hold 5)* | **Belen→PINARUS · third lap TQ ~2.4** |
+| **1430** | Camp logistics / haul | *(hold 5)* | **PAYAS cross · listen · camp north string** |
+| **1431** | Brick · mortar · hypocaust | *(hold 5)* | **DORTYOL bridge · MORTAR-SACK-9 slake @ site** |
+| **1431** | Camp logistics / haul | *(hold 5)* | **RESERVE-8 deploy · leg 8 close · ×9 bridges** |
+| **1432** | Fort planning / 3D staging | *(hold 5)* | **Erzin read · leg 9 slate · Toprakkale token** |
+| **1432** | Camp logistics / haul | *(hold 5)* | **Scout loop · DORTYOL listen · forward camp** |
+| **1433** | Camp logistics / haul | *(hold 5)* | **Return leg 1 · ~104 km · post-Afrin camp** |
+| **1433** | Donkey team train | *(hold 5)* | **~53 kg · Erzin ford @ A · long south chain** |
+| **1434** | Camp logistics / haul | *(hold 5)* | **Return leg 2 · COLLECT · haul · REFILL-9 stage** |
+| **1434** | Brick · mortar · hypocaust | *(hold 5)* | **Kiln A · MORTAR-SACK-10** |
+| **1434** | Farm ops | *(hold 5)* | **Scare · WOAD d35 watch** |
+| **1435** | Camp logistics / haul | *(hold 5)* | **Light STONE-HAUL @ T-2 · pile 4 runway** |
+| **1435** | Textile / fiber craft | *(hold 5)* | **PAPER-SPRINT-1 · beat · dip · couch** |
+| **1435** | Fort planning / 3D staging | *(hold 5)* | **ROUTE-NOMENCLATURE · map sheet sketch** |
+| **1436** | Textile / fiber craft | *(hold 5)* | **PAPER-COUCH-FELT · sheets 4–5** |
+| **1436** | Fort planning / 3D staging | *(hold 5)* | **TRAIL-Q-AUDIT · leg pace table** |
+| **1419** | Brick · mortar · hypocaust | *(hold 5)* | **KILN-A partial · MORTAR-SACK-8 · pile 7 depleted** |
+| **1418** | Donkey team train | *(hold 5)* | **South chain · ×4 bridges + ford · TRAIL-WORK local** |
+| **1414** | Donkey team train | *(hold 5)* | **~88 kg · seven crossings · long day** |
+| **1413** | Farm ops | *(hold 5)* | **WOAD-SOW audit · cotyledon d16 · no re-sow** |
+| **1407** | Camp logistics / haul | *(hold 5)* | **RETURN leg 1 +6 WP · camp @ post-Afrin · ~54 km** |
+| **1405** | Camp logistics / haul | *(hold 5)* | **STONE-HAUL + BRIDGE-REFILL + re-lash · north chain · MAINT-SLICE outbound** |
+| **1404** | Camp logistics / haul | *(hold 5)* | **RETURN leg 1 · TRAIL-WORK +8 WP · camp @ post-Afrin** |
+| **1404** | Fort planning / 3D staging | *(hold 5)* | **TRAIL-Q system · Cilicia naming · Cappadocia pozz defer** |
+| **1403** | Camp logistics / haul | *(hold 5)* | **BELEN-APPROACH-1-BRIDGE · leg 4 close · stock ×0 · ×5 bridges live** |
+| **1403** | Fort planning / 3D staging | *(hold 5)* | **ISK-COAST-SCOUT · ISK-APPROACH-1 @ B · leg 5 slate** |
+| **1402** | Fort planning / 3D staging | *(hold 5)* | **BELEN-STRING-SCOUT · leg 4 slate · coast reads @ site B** |
+| **1402** | Camp logistics / haul | *(hold 5)* | **Full north chain · west scout · stakes · west table** |
+| **1401** | Farm ops | *(hold 5)* | **FARM-SCARE-1401 · scare loop break · WOAD watch d2** |
+| **1401** | Camp logistics / haul | *(hold 5)* | **BELEN-WAGON-REKIT-1401 · ~81 kg · RESERVE-4 + FILL-4 · Week 201 open** |
+| **1400** | Farm ops | *(hold 5)* | **FARM-SCARE-1400 · scare loop d1 · WOAD watch · GREEN** |
+| **1398** | Camp logistics / haul | *(hold 5)* | **BRIDGE-REFILL-1398 · ~52 kg @ horreum B · material bill** |
+| **1397** | Farm ops | *(hold 5)* | **WOAD-RUNWAY-READ-1397 · sow ~d1399 · frost gate** |
+| **1396** | Donkey team train | *(hold 5)* | **Loaded cross 4th live bridge · split west turn** |
+| **1396** | Camp logistics / haul | *(hold 5)* | **ORE-TRIP-LEG-3-CLOSE · material bill · column ~53 kg** |
+| **1396** | Fort planning / 3D staging | *(hold 5)* | **Leg 3 close · PW crown · Belen horizon slate** |
+| **1395** | Fort planning / 3D staging | *(hold 5)* | **KIRIKHAN-SPLIT-SCOUT · leg 3 slate · route A west** |
+| **1395** | Donkey team train | *(hold 5)* | **~81 kg scout march · long NNE leg** |
+| **1394** | Camp logistics / haul | *(hold 5)* | **NORTH-PUSH · five loaded crossings · ~81 kg column** |
+| **1394** | Donkey team train | *(hold 5)* | **Loaded ford + ×3 bridges single day** |
 | **914** | Iron roast · slag · bloom · weld | *(hold 4)* | **IRON-BLOOM-34 · H-11 head weld @ ~7 kg peg** |
 | **924** | Iron roast · slag · bloom · weld | *(hold 4)* | **IRON-BLOOM-37 · ~9.92 kg TRIP-HEAD-STOCK @ peg (~50%)** |
 | **921** | Fire maintenance / charcoal | *(hold 4)* | **PIT-DUAL-921 · lane ~33 kg GREEN** |

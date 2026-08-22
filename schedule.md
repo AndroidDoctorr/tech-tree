@@ -1,22 +1,27 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1367** · **Cal-Y5 D35** · **PORTICUS-CURTAIN weave ✓ · D825 slate**
+*Last updated: **Day 1457** · **Cal-Y5 D125** · **HOME · Belen infra loop close · Cappadocian runway**
 
 ---
 
-## Now @ Day 1367
+## Now @ Day 1457
 
 | Track | Status |
 |-------|--------|
-| **Hero** | **Thermae curtain weave · curtain dye/hang · D825 prep (TENT-2) · ICE max ~d1381** |
-| **Textile** | **THREAD ~125 m · PORTICUS-CURTAIN-1 weave ✓ natural · thermae queued · grape stock OK** |
-| **Ice** | **Scout ✓ · max haul ~d1381–1383** |
-| **Calendar** | **Week 196 open · WOAD sow ~d1399** |
-| **Calendar** | **ICE band opening · WOAD sow ~d1399 · leaf/dig summer · dye defer OK** |
+| **Waypoint** | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · first on Route A · lean-to + corral · holds** |
+| **Expedition** | **Wagon light @ CART-YARD · RESERVE-11 @ horreum B · Cappadocian push when named** |
+| **Bridge kit** | **RESERVE-11 @ horreum B · Cappadocian push after HOME** |
+| **Bridges** | **×11 live + ×2 fords · furthest ~170 km @ Ceyhan split (lap 5)** |
+| **Calendar** | **WOAD leaf ~d1532 (~76 d) · no hard block** |
+| **Trail** | **Composite TQ ~2.8 · L8 fastest · L12 frontier · ruts + shortcuts = honest** |
+| **Waystation** | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · Ceyhan pad B defer · three laps @ split pending** |
+| **Pace** | **Incremental TQ only — no fast-travel assumption** |
+| **Farm** | **WOAD @ HOME · scare-only** |
+| **Calendar** | **WOAD leaf ~d1532 · early winter · ICE band closed** |
 | **Farm** | **Hard block ✓ lifted · heroes unblocked** |
 | **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
-| **Textile / dye** | **×2 jeans ✓ · TIEDYE ✓ · DOMUS-RUG-SLATE ✓ · coat ✓ · ICE scout ✓ · max haul ~d1381** |
-| **Lead / tin** | **×0 local · galena = Taurus/Tarsus horizon** |
+| **Textile / dye** | **×2 jeans ✓ · TIEDYE ✓ · DOMUS-RUG-SLATE ✓ · coat ✓ · ICE-MAX-HAUL-Y5 ✓ d1380–1381 · ~63.6 kg cellar** |
+| **Lead / tin** | **×0 local · ORE-TRIP Route A → **Cilicia** · tin horizon Taurus class · [route-a-road.md](route-a-road.md)** |
 | **Horreum** | **EMMER-BULK-Y4 ~2.05 kg @ A · C BUILD-MAT overflow reserve** |
 | **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ @ horreum A · frit ~120 g** |
 | **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip deprioritized** |
@@ -38,7 +43,7 @@
 | **→ Autumn harvest** | **~1309–1332** | **Y4 D341–365** | **✓ CLOSE @ d1332 · block lifted @ Yule** |
 | **→ Feast / Yule eve** | **~1332** | **Y4 D365** | **✓ FEAST-YULE-1332 · BOW-HUNT goose · SUN-YULE-1332 · 46/42** |
 | **→ Cal-Y5 open** | **~1333** | **Y5 D1** | **✓ OPEN @ d1333 · WOAD-VAT-REFRESH-2 ✓ · jeans hero live** |
-| **→ WOAD-SEED sow** | **~1399–1417** | **Y5 D67–D85** | **~15 g @ CHEM shelf · Bed D / herb margin · frost gate** |
+| **→ WOAD-SEED sow** | **~1399–1417** | **Y5 D67–D85** | **✓ WOAD-SOW-MARGIN-Y5 d1399 @ Bed D · scare-only until green** |
 | **→ WOAD-LEAF pull** | **~1532–1572** | **Y5 D200–D240** | **DYE-WOAD-1 NW · modest pull · vat stock · DYE-COLLECT-Y5-SLATE ✓ d1341** |
 | **→ WOAD-SEED collect** | **~1652–1692** | **Y5 D320–D360** | **DYE-WOAD-1 · seed only · autumn trip class** |
 | **→ MADDER-DIG** | **~1662–1696** | **Y5 D330–D364** | **DYE-MADDER-1 · conservative dig · ~88 g dry now · domus burgundy runway** |
@@ -78,14 +83,14 @@
 | **DOMUS-LANTERN-HANG-1** | **✓ d1258** | **OIL-LANTERN-1 @ south culina bond beam · lab hook empty** |
 | **EXT-WHITEWASH-1** | **✓ d1260 · 100%** | **d1258 south+west · d1259 east+north · d1260 stubs+lap · EXT-WHITEWASH-LIVE @ slate** |
 | **DOMUS-MVP** | **✓ d1260** | **Store · deco · court · lantern · ext skin closed · linens post-harvest** |
-| **LINENS-SPRINT** | **Jeans ×2 ✓ · TIEDYE ✓ · COAT ✓ · CUB curtains ✓ · DOMUS-RUG-SLATE ✓** | **Porticus · thermae curtains · ICE max ~d1381** |
+| **LINENS-SPRINT** | **Jeans ×2 ✓ · TIEDYE ✓ · COAT ✓ · DOMUS curtains ✓ · TENT-2 ✓ · DOMUS-RUG-SLATE ✓** | **D825 prep · ICE max ~d1381** |
 | **HARVEST-PREP-1261** | **[~] ~40% d1274** | **Thresh ✓ · horreum ✓ · sickle ✓ d1274 · final read ~d1305+ defer** |
 | **LABWARE-GLASS-SPRINT** | **✓ closed d1264** | **GP-1263 flask @ bench · vials G–I @ rack · wax tags ✓** |
 | **OIL-LANTERN-2** | **✓ d1266** | **GP-1265 panes A–D · assembly · light trial · @ chem-lab east default** |
 | **DOMUS-LANTERN-HANG-1** | **✓ OIL-LANTERN-1 @ south culina** | **OIL-LANTERN-2 @ chem-lab · two-lantern doctrine live** |
-| **DOMUS-RUG-SLATE** | **✓ d1352 · CUB curtains ✓ d1365** | **Porticus · thermae curtains defer · ICE max ~d1381** |
+| **DOMUS-RUG-SLATE** | **✓ d1352 · DOMUS curtains ✓ d1370 4/4** | **TENT-2 · ICE max ~d1381 · D825 after camp kit** |
 | **CL-LINEN-COAT-SLATE-1351** | **✓ d1359 @ peg K** | **Re-dye defer · woad leaf band · scout wear OK** |
-| **WALL-COLOR-TRIAL-1** | **Slated d1120** | **Limewash + pigment offcuts · madder/grape/verdigris/hull/iron/burgundy** |
+| **WALL-COLOR-TRIAL-1** | **Slated d1120 · ART-SPRINT-1 active d1410** | **Limewash + pigment offcuts · madder/grape/verdigris/hull/iron/burgundy · brushes ✓** |
 
 ---
 
