@@ -72,7 +72,7 @@
 | **15 km NW · Isk outskirts** | **ISK-APPROACH-1 · ISK-PASS** | **✓ leg 5 resume d1415 · cross @ B live · outskirts pass ✓ · ~85 km** |
 | **Isk pass → Erzin** | **PINARUS · PAYAS · DORTYOL · ERZIN-APPROACH-1** | **✓ leg 9 close d1441 · ERZIN bridge @ B live · ~132 km** |
 | **Erzin → The Castle hill** | **SC-THE-CASTLE-HILL · Toprakkale terrace** | **✓ scout d1442 · ~142 km furthest · turn-back · Ceyhan horizon** |
-| **Ceyhan north · Kozan camp** | **KOZAN-SCOUT-CAMP** | **Tin target horizon** |
+| **Ceyhan north · Kozan camp** | **KOZAN-SCOUT-CAMP** | **✓ gate ~220 km · **SC-KOZAN-TIN-PATH-B** ✓ · **CASSITERITE-VERIFY** ✓ d1479 · TIN-HAUL-1 horizon** |
 | **Adana · CROSS Seyhan** | **SEYHAN-1** | **Defer · raft/rope ferry · north bypass · upstream — slate d1385** |
 
 **Retcon:** d1383–1384 **TRIB-FT-01/02** = **Karasu feeder tribs** on the NNE string **before** the main **Asi/Orontes trunk** crossing. Trail km ~16 camp ≠ ore-trip km 8 Asi point (trail vs avian); trunk crossing **~2 km west** of camp string @ stadium shallows class + **upstream site B** preferred for bridge.

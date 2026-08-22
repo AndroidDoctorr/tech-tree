@@ -1460,6 +1460,73 @@
 | 1455 | [day-1455.md](days/year-004/week-208/day-1455.md) | **campus · CART-AUDIT ✓ · WAYSTATION-INFRA-LOAD-START ✓ · calendar read** | **Cal-Y5 D123** |
 | 1456 | [day-1456.md](days/year-004/week-208/day-1456.md) | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · first waypoint · Week 208 close** | **Cal-Y5 D124** |
 | 1457 | [day-1457.md](days/year-004/week-209/day-1457.md) | **RETURN HOME ✓ · TRAIL-STONE-COLLECT ✓ · Belen infra loop close · Week 209 open** | **Cal-Y5 D125** |
+| 1458 | [day-1458.md](days/year-004/week-209/day-1458.md) | **CART-AUDIT ✓ · EXPED-WAGON-LOAD ✓ · Cappadocian push queued · ~88 kg @ yard** | **Cal-Y5 D126** |
+| 1459 | [day-1459.md](days/year-004/week-209/day-1459.md) | **EXPED-DEPART ✓ · FAST-STRING day 1 ✓ · ~92 km @ PINARUS · sixth lap open** | **Cal-Y5 D127** |
+| 1460 | [day-1460.md](days/year-004/week-209/day-1460.md) | **FAST-STRING day 2 ✓ · ~132 km @ ERZIN · Cilicia string · CART-IRON-RIM queued** | **Cal-Y5 D128** |
+| 1461 | [day-1461.md](days/year-004/week-209/day-1461.md) | **CART-RIM-CAMP ✓ · CART-IRON-RIM PARTIAL ✓ · TRAIL-WORK L12 ✓ · wp2 pace read** | **Cal-Y5 D129** |
+| 1462 | [day-1462.md](days/year-004/week-209/day-1462.md) | **CEYHAN-BRIDGE-AUDIT ✓ · BRIDGE-REINFORCE ✓ · kit spent @ bar · camp @ split · Kozan queued** | **Cal-Y5 D130** |
+| 1463 | [day-1463.md](days/year-004/week-209/day-1463.md) | **BRIDGE-UPGRADE-DOCTRINE ✓ · KOZAN-SCOUT-1 phase 1 ✓ · CAP-0 open · ~195 km** | **Cal-Y5 D131** |
+| 1464 | [day-1464.md](days/year-004/week-210/day-1464.md) | **Week 210 open · KOZAN-PATH-ESTABLISH ✓ · TURN-BACK ✓ · ~220 km closed · camp @ split** | **Cal-Y5 D132** |
+| 1465 | [day-1465.md](days/year-004/week-210/day-1465.md) | **CLEAR-MOVE day 1 ✓ · split → Erzin · pace audit · 3-day return** | **Cal-Y5 D133** |
+| 1466 | [day-1466.md](days/year-004/week-210/day-1466.md) | **CLEAR-MOVE day 2 ✓ · Erzin → post-Afrin · +3 WP** | **Cal-Y5 D134** |
+| 1467 | [day-1467.md](days/year-004/week-210/day-1467.md) | **CLEAR-MOVE day 3 ✓ · HOME ✓ · REFILL-12 ✓ · CART-IRON-RIM ✓ · lap close** | **Cal-Y5 D135** |
+| 1468 | [day-1468.md](days/year-004/week-210/day-1468.md) | **CART-TUNE-FORGE ✓ · forge day · no pit/haul · rim+hub+lash+nails · ~+55 g cart** | **Cal-Y5 D136** |
+| 1469 | [day-1469.md](days/year-004/week-210/day-1469.md) | **ROPE-AUDIT ✓ · EXPED-ROPE-1 ~18 m ✓ · harness tune ✓ · partial load ~62 kg** | **Cal-Y5 D137** |
+| 1470 | [day-1470.md](days/year-004/week-210/day-1470.md) | **Week 210 close · EXPED-WAGON-LOAD ✓ · TEAM-TRAIN ✓ · WAYSTATION-DOCTRINE ✓ · ~88 kg GO** | **Cal-Y5 D138** |
+| 1471 | [day-1471.md](days/year-005/week-211/day-1471.md) | **Week 211 open · EXPED-DEPART ✓ · FAST-STRING day 1 ✓ · ~92 km @ PINARUS · Kozan runway** | **Cal-Y5 D139** |
+| 1472 | [day-1472.md](days/year-005/week-211/day-1472.md) | **FAST-STRING day 2 ✓ · ~132 km @ ERZIN · TRIB-N02 queued · split day 3+** | **Cal-Y5 D140** |
+| 1473 | [day-1473.md](days/year-005/week-211/day-1473.md) | **BUILD day ✓ · split ✓ · TRIB-N02 hero ✓ · ×12 bridges · ~182 km @ CAP-0** | **Cal-Y5 D141** |
+| 1474 | [day-1474.md](days/year-005/week-211/day-1474.md) | **CAP-0 infra push ✓ · KOZAN-NORTH-GATE ✓ · ~220 km · end of road · foot tin queued** | **Cal-Y5 D142** |
+| 1475 | [day-1475.md](days/year-005/week-211/day-1475.md) | **KOZAN-TIN-SCOUT-FOOT ✓ · SC-KOZAN-TIN-PATH-B ✓ · cassiterite sample · turn runway** | **Cal-Y5 D143** |
+| 1476 | [day-1476.md](days/year-005/week-211/day-1476.md) | **TURN-BACK ✓ · RETURN leg 1 ✓ · ~170 km @ split · lap win · 4-day HOME runway** | **Cal-Y5 D144** |
+| 1477 | [day-1477.md](days/year-005/week-211/day-1477.md) | **Week 211 close · CLEAR-MOVE day 1 ✓ · split → Erzin ~132 km · sample secure** | **Cal-Y5 D145** |
+| 1478 | [day-1478.md](days/year-005/week-212/day-1478.md) | **Week 212 open · CLEAR-MOVE day 2 ✓ · Erzin → post-Afrin · sample secure** | **Cal-Y5 D146** |
+| 1479 | [day-1479.md](days/year-005/week-212/day-1479.md) | **Week 212 close · HOME ✓ · REFILL-13 ✓ · CASSITERITE-VERIFY ✓ · seventh lap close** | **Cal-Y5 D147** |
+| 1480 | [day-1480.md](days/year-005/week-212/day-1480.md) | **Week 212 day 3 · CAMPUS-RESOURCE-AUDIT ✓ · CART-KIT-MINI ×2 · EXPED-CARRY doctrine ✓** | **Cal-Y5 D148** |
+| 1481 | [day-1481.md](days/year-005/week-212/day-1481.md) | **Week 212 day 4 · BELEN-INFRA-TRIP ✓ · CART-KIT-MINI-BELEN-1 ✓ @ site C · road-first** | **Cal-Y5 D149** |
+| 1482 | [day-1482.md](days/year-005/week-212/day-1482.md) | **RETURN HOME ✓ · Belen loop close ✓ · EXPED-RESTOCK ✓ · food · carry kit · MAINT** | **Cal-Y5 D150** |
+| 1483 | [day-1483.md](days/year-005/week-212/day-1483.md) | **WAYPOINT-SLATE ✓ · ERZIN-CORRIDOR-INFRA runway · kits restocked · Erzin stop 2 / Ceyhan wp2** | **Cal-Y5 D151** |
+| 1484 | [day-1484.md](days/year-005/week-212/day-1484.md) | **Week 212 close ✓ · STOP-CHAIN ✓ · ERZIN-CORRIDOR-INFRA day 1 ✓ · @ Belen wp1 verify** | **Cal-Y5 D152** |
+| 1485 | [day-1485.md](days/year-005/week-213/day-1485.md) | **Week 213 open ✓ · Belen → Erzin WORK ✓ · TRAIL-WAYSTATION-ERZIN-1 ✓ · stop 2 live** | **Cal-Y5 D153** |
+| 1486 | [day-1486.md](days/year-005/week-213/day-1486.md) | **RETURN south ✓ · Erzin → Belen WORK ✓ · corridor mirror · @ Belen wp1 · MAINT spent** | **Cal-Y5 D154** |
+| 1487 | [day-1487.md](days/year-005/week-213/day-1487.md) | **RETURN HOME ✓ · Erzin corridor loop close ✓ · EXPED-RESTOCK ✓ · MAINT rebuild** | **Cal-Y5 D155** |
+| 1488 | [day-1488.md](days/year-005/week-213/day-1488.md) | **CALENDAR-AUDIT ✓ · CART-AUDIT ✓ · FARM-READ ✓ · CEYHAN-INFRA load prep ✓** | **Cal-Y5 D156** |
+| 1489 | [day-1489.md](days/year-005/week-213/day-1489.md) | **CALENDAR-TRIPLE-CHECK ✓ · CEYHAN-INFRA-DEPART ✓ · FAST-STRING day 1 ✓ · ~92 km @ PINARUS** | **Cal-Y5 D157** |
+| 1490 | [day-1490.md](days/year-005/week-213/day-1490.md) | **FAST-STRING day 2 ✓ · ~132 km @ ERZIN · stop 2 verify ✓ · Ceyhan build queued** | **Cal-Y5 D158** |
+| 1491 | [day-1491.md](days/year-005/week-213/day-1491.md) | **TRAIL-WAYSTATION-CEYHAN-1 ✓ · stop 3 live ✓ · west L13 build · EXPED-RUNWAY-READ** | **Cal-Y5 D159** |
+| 1492 | [day-1492.md](days/year-005/week-214/day-1492.md) | **Week 214 open ✓ · TURN-BACK ✓ · FAST-RETURN leg 1 ✓ · Ceyhan → Erzin** | **Cal-Y5 D160** |
+| 1493 | [day-1493.md](days/year-005/week-214/day-1493.md) | **FAST-RETURN leg 2 ✓ · Erzin → post-Afrin · Belen touch · listen chain** | **Cal-Y5 D161** |
+| 1494 | [day-1494.md](days/year-005/week-214/day-1494.md) | **FAST-RETURN leg 3 ✓ · RETURN HOME ✓ · CEYHAN loop close ✓ · KOZAN-KIT runway** | **Cal-Y5 D162** |
+| 1495 | [day-1495.md](days/year-005/week-214/day-1495.md) | **Campus prep ✓ · CART-KIT-KOZAN-STAGE T2 ✓ · EXPED-RESTOCK ✓ · KOZAN-INFRA runway** | **Cal-Y5 D163** |
+| 1496 | [day-1496.md](days/year-005/week-214/day-1496.md) | **KOZAN-INFRA-DEPART ✓ · FAST-STRING day 1 ✓ · @ BELEN stop 1 ~65 km** | **Cal-Y5 D164** |
+| 1497 | [day-1497.md](days/year-005/week-214/day-1497.md) | **FAST-STRING day 2 ✓ · @ ERZIN stop 2 ~132 km cum** | **Cal-Y5 D165** |
+| 1498 | [day-1498.md](days/year-005/week-214/day-1498.md) | **FAST-STRING day 3 ✓ · @ CEYHAN stop 3 ~170 km cum · Week 214 close · Kozan d1499+** | **Cal-Y5 D166** |
+| 1499 | [day-1499.md](days/year-005/week-215/day-1499.md) | **Week 215 open ✓ · TRAIL-WAYSTATION-KOZAN-1 ✓ · stop 4 live ✓ · four-stop chain complete** | **Cal-Y5 D167** |
+| 1500 | [day-1500.md](days/year-005/week-215/day-1500.md) | **Tin crumbs · Centadial 15** | **~2.4 kg concentrate · hold @ Kozan · [Centadial 15](summaries/centadial-015.md) · Cal-Y5 D168** |
+| 1501 | [day-1501.md](days/year-005/week-215/day-1501.md) | **TURN-SOUTH ✓ · FAST-RETURN leg 1 ✓ · Kozan → Ceyhan · stop 4 cache live** | **Cal-Y5 D169** |
+| 1502 | [day-1502.md](days/year-005/week-215/day-1502.md) | **FAST-RETURN leg 2 ✓ · Ceyhan → Erzin · stop 3 caches live** | **Cal-Y5 D170** |
+| 1503 | [day-1503.md](days/year-005/week-215/day-1503.md) | **FAST-RETURN leg 3 ✓ · Erzin → Belen · stop 2 cache live** | **Cal-Y5 D171** |
+| 1504 | [day-1504.md](days/year-005/week-215/day-1504.md) | **FAST-RETURN leg 4 ✓ · RETURN HOME ✓ · KOZAN-TIN lap close ✓ · smelt trial runway** | **Cal-Y5 D172** |
+| 1505 | [day-1505.md](days/year-005/week-215/day-1505.md) | **TIN-SMELT-TRIAL ✓ · SN-INGOT-TRIAL-1 ~102 g ✓ · fork A ✓ · Week 215 close** | **Cal-Y5 D173** |
+| 1506 | [day-1506.md](days/year-005/week-216/day-1506.md) | **Week 216 open ✓ · STOCK-AUDIT ✓ · RELOAD-PRIORITY slate · factory first** | **Cal-Y5 D174** |
+| 1507 | [day-1507.md](days/year-005/week-216/day-1507.md) | **PIT-CHAR-163 ✓ · GREEN-PRESS-1507 ✓ ×40 GB-1507 · brick fire queued d1508** | **Cal-Y5 D175** |
+| 1508 | [day-1508.md](days/year-005/week-216/day-1508.md) | **GB touch ✓ · PIT-CHAR-164 ✓ · KILN-B-BRICK-FIRE ✓ +36 · factory sprint close** | **Cal-Y5 D176** |
+| 1509 | [day-1509.md](days/year-005/week-216/day-1509.md) | **HAUL-COMBO ✓ · wood ~47 kg · clay ~36.5 kg · both GREEN · tin lap runway** | **Cal-Y5 D177** |
+| 1510 | [day-1510.md](days/year-005/week-216/day-1510.md) | **PIT-CHAR-DUAL ✓ · lane ~27 → ~42 kg GREEN · char bank heavy** | **Cal-Y5 D178** |
+| 1511 | [day-1511.md](days/year-005/week-216/day-1511.md) | **WOOD-HAUL ✓ single lap · GREEN-PRESS-1511 ✓ ×40 GB-1511 · fire queued d1512** | **Cal-Y5 D179** |
+| 1512 | [day-1512.md](days/year-005/week-216/day-1512.md) | **EXPED-PREP ✓ · KOZAN-TIN-LOAD ~38 kg · runway ✓ · Week 216 close ✓** | **Cal-Y5 D180** |
+| 1513 | [day-1513.md](days/year-005/week-217/day-1513.md) | **Week 217 open ✓ · PACK-LASH ✓ · DEPART ✓ · FAST-STRING D1 @ Belen** | **Cal-Y5 D181** |
+| 1514 | [day-1514.md](days/year-005/week-217/day-1514.md) | **FAST-STRING D2 @ Erzin ~132 km · stop 2 verify ✓** | **Cal-Y5 D182** |
+| 1515 | [day-1515.md](days/year-005/week-217/day-1515.md) | **FAST-STRING D3 @ Ceyhan ~170 km · stop 3 verify ✓** | **Cal-Y5 D183** |
+| 1516 | [day-1516.md](days/year-005/week-217/day-1516.md) | **FAST-STRING D4 @ Kozan ~220 km · stop 4 verify ✓ · outbound close ✓** | **Cal-Y5 D184** |
+| 1517 | [day-1517.md](days/year-005/week-217/day-1517.md) | **TIN-HAUL-2 partial ✓ · path B ~2.3 kg concentrate · cart not full · hold @ gate** | **Cal-Y5 D185** |
+| 1518 | [day-1518.md](days/year-005/week-217/day-1518.md) | **TURN-SOUTH ✓ · FAST-RETURN L1 Kozan → Ceyhan · supply haul** | **Cal-Y5 D186** |
+| 1519 | [day-1519.md](days/year-005/week-217/day-1519.md) | **FAST-RETURN L2 Ceyhan → Erzin · Week 217 close ✓ · supply haul doctrine** | **Cal-Y5 D187** |
+| 1520 | [day-1520.md](days/year-005/week-218/day-1520.md) | **Week 218 open ✓ · FAST-RETURN L3 Erzin → Belen · supply haul** | **Cal-Y5 D188** |
+| 1521 | [day-1521.md](days/year-005/week-218/day-1521.md) | **RETURN HOME ✓ · KOZAN-TIN-HAUL-2 close ✓ · ~2.3 kg @ staging · smelt runway** | **Cal-Y5 D189** |
+| 1522 | [day-1522.md](days/year-005/week-218/day-1522.md) | **KILN-B-BRICK-FIRE ✓ · GB-1511 hold cleared · ~237 stackable · campus d1523** | **Cal-Y5 D190** |
+| 1523 | [day-1523.md](days/year-005/week-218/day-1523.md) | **CAMPUS-READ ✓ · goats · donkeys · bees · crops · holding topped · smelt next** | **Cal-Y5 D191** |
+| 1524 | [day-1524.md](days/year-005/week-218/day-1524.md) | **TIN-SMELT-TRIAL-2 ✓ · ~99 g Sn · combined bank ~201 g · tin trips pause · woad ~8 d** | **Cal-Y5 D192** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1480,6 +1547,7 @@
 | **12** | 1101–1200 | [centadial-012.md](summaries/centadial-012.md) |
 | **13** | 1201–1300 | [centadial-013.md](summaries/centadial-013.md) |
 | **14** | 1301–1400 | [centadial-014.md](summaries/centadial-014.md) |
+| **15** | 1401–1500 | [centadial-015.md](summaries/centadial-015.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

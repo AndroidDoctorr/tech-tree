@@ -187,6 +187,7 @@ Piecewise between anchors (linear segment):
 - **Trail:** portable spear + gnomon post @ C-0 center
 - **Drift check:** ground and wall should stay **~4 marks apart** (wall ≈ ground − 4 at noon in current epoch — verify @ next anchor)
 - **Sow windows:** **SPRING-SOW** keyed off **ground rising + YULE @ leaving 42**, not Roman month names
+- **Journal Season field:** Use **agronomic season + ~month class** (e.g. **Late spring · ~June class**) — **not** calendar-year band names like "early winter" for Cal-D 60–280 when weather is spring/summer. **Cal-Y5 D1** = post-feast ≈ late-Dec class; **D163–D166** ≈ **June class**. Deprecated label: ~~Early winter (Cal-Y5 band)~~ — filed **SEASON-GRAMMAR-1498** @ d1498 retcon.
 - **Feast eve:** **Day 237 + 365×(Y−1)** — **Cal-Y2 closes Day 602** — compare **YULE-BENCH** plate year-on-year · **re-mark @ 46/42**
 - **Cal-Y3:** opens **Day 603** (= **Cal-Y3 D1**)
 - **Yearly windows:** **SUN-CAL-YEARLY-WINDOWS-1004** — ritual + activity bands below · color ticks @ C-0 pad edge · duplicate @ kitchen slate

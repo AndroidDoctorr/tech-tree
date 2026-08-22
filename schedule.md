@@ -1,27 +1,25 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1457** · **Cal-Y5 D125** · **HOME · Belen infra loop close · Cappadocian runway**
+*Last updated: **Day 1524** · **Cal-Y5 D192** · **HOME · Sn bank ~201 g · tin trips pause · woad ~8 d**
 
 ---
 
-## Now @ Day 1457
+## Now @ Day 1524 · Week 218 · HOME
 
 | Track | Status |
 |-------|--------|
-| **Waypoint** | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · first on Route A · lean-to + corral · holds** |
-| **Expedition** | **Wagon light @ CART-YARD · RESERVE-11 @ horreum B · Cappadocian push when named** |
-| **Bridge kit** | **RESERVE-11 @ horreum B · Cappadocian push after HOME** |
-| **Bridges** | **×11 live + ×2 fords · furthest ~170 km @ Ceyhan split (lap 5)** |
-| **Calendar** | **WOAD leaf ~d1532 (~76 d) · no hard block** |
-| **Trail** | **Composite TQ ~2.8 · L8 fastest · L12 frontier · ruts + shortcuts = honest** |
-| **Waystation** | **TRAIL-WAYSTATION-BELEN-1 ✓ @ site C · Ceyhan pad B defer · three laps @ split pending** |
-| **Pace** | **Incremental TQ only — no fast-travel assumption** |
-| **Farm** | **WOAD @ HOME · scare-only** |
-| **Calendar** | **WOAD leaf ~d1532 · early winter · ICE band closed** |
-| **Farm** | **Hard block ✓ lifted · heroes unblocked** |
+| **Tin** | **SN bank ~201 g (102+99) @ chem-lab tray · lap 2 spent · fork A proven twice · meh** |
+| **Strategy** | **Tin trips pause ✓ · woad pull + infra prep while leaves mature** |
+| **Factory** | **~237 stackable @ Kiln B · lane ~25 kg · clay ~18.7 kg AMBER** |
+| **Farm** | **GREEN · WOAD rosette · leaf pull ~8 d (~d1532) · hands off until mature** |
+| **Runway** | **DYE-WOAD-1 · INFRA-PREP · CART-PACK-RIG-1 · clay haul · trail TQ garnish** |
+| **Trail** | **Four stop caches live · no tin lap three until named** |
+| **Calendar** | **D192 · leaf pull ~8 d · harvest ~476 d** |
+| **Bridges** | **×12 live + ×1 ford · TRIB-N02 ✓ · furthest ~220 km @ Kozan north gate (end line)** |
+| **Trail** | **Composite TQ ~2.8 · L12 ~1.75 post corridor · incremental TQ only** |
 | **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
 | **Textile / dye** | **×2 jeans ✓ · TIEDYE ✓ · DOMUS-RUG-SLATE ✓ · coat ✓ · ICE-MAX-HAUL-Y5 ✓ d1380–1381 · ~63.6 kg cellar** |
-| **Lead / tin** | **×0 local · ORE-TRIP Route A → **Cilicia** · tin horizon Taurus class · [route-a-road.md](route-a-road.md)** |
+| **Lead / tin** | **TIN-SMELT-TRIAL-1+2 ✓ · SN bank ~201 g @ tray · fork A proven · tin trips pause · woad + infra prep · [route-a-road.md](route-a-road.md)** |
 | **Horreum** | **EMMER-BULK-Y4 ~2.05 kg @ A · C BUILD-MAT overflow reserve** |
 | **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ @ horreum A · frit ~120 g** |
 | **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip deprioritized** |

@@ -618,7 +618,7 @@
 | **STEEL-PACK-1** (surface carburize) | · **charcoal pack · sealed box · FORGE-D soak** |
 | **STEEL-CASE-1** (case harden + quench) | · **after STEEL-PACK-1** |
 | **CART-IRON-1** (hub collar tubes · bed iron) | **✓ Day 628** · **hub pair + CART-BED-IRON-1** |
-| **Tin** scout (**cassiterite**) | · |
+| **Tin** scout (**cassiterite**) | **TIN-SMELT-TRIAL-1 ✓ d1505 · SN-INGOT-TRIAL-1 ~102 g · fork A** |
 | **Bronze** alloy | · |
 | **Bronze tools** (edge · socket) | · |
 | **Iron spear tip / contact weapon** | · after axe · optional |

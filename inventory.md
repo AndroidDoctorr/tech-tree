@@ -420,7 +420,7 @@
 | Location | Qty | Notes |
 |----------|-----|--------|
 | **Store C** (vault) | **~63 kg class** | **−~5.5 kg KILN-A-LIME-1092 · pit char before lane empty fires** |
-| **Char lane @ forge** | **~20.9 kg** class | **−~4.0 kg KILN-A-LIME-1398 · maintenance AMBER** |
+| **Char lane @ forge** | **~18.4 kg** class | **−~2.5 kg CART-TUNE-FORGE-1468 · maintenance AMBER** |
 | **Pile 1** | **~26 kg** class | **−~0.8 kg basin d1147 · hearth/flue/tile prior** |
 | **Pile 5** (wood) | **~80.4 kg** class | **CART-WOOD-HAUL-1285 d1285 · dual pit runway fat** |
 | **Pile 1** | **~33.1 kg** class | **GREEN-PRESS-1284+ · ×40 GB reseed GO · ×16 TR margin** |
@@ -474,7 +474,7 @@
 
 | Item | Qty | Notes |
 |------|-----|--------|
-| **Field / bridge stone (pile 4)** | **~18 kg dress d1457** | **+~5 kg TRAIL-STONE-COLLECT-1457 @ RETURN · FILL-11 draw runway OK** |
+| **Field / bridge stone (pile 4)** | **~12 kg dress d1458** | **−~11 kg TRAIL-MAINT @ Erzin corridor d1485–1486 · FILL-11 pre-packed @ horreum draw d1454** |
 | **Floor stones (FS) — pile 8** | **×5 FS-class ~17.5 kg GREEN d1434** | **STONE-HAUL-1434 · ×4 pick @ T-2 · ×1 spare → RESERVE-9** |
 | **Limestone / calcite (pile 7)** | **~6 kg raw GREEN d1455** | **−~2 kg LIME-PINCH-1 @ waystation kit · cook runway OK** |
 | **Copper slag dish** | 1 | Prills + pea fragments from smelts #3–9 |
@@ -510,7 +510,7 @@
 | **Iron bar (IRON-BAR-1)** | **~5 g** curl scrap | **−~6 g IRON-NAILS-5 Day 441 · fold remainder @ slag** |
 | **IRON-WEDGE-1** | **✓ ~95 g · oak haft** | **Day 354 @ WORKBENCH-1 peg · primary** |
 | **IRON-WEDGE-2** | **✓ ~98 g · oak haft** | **Day 634 backup @ WORKBENCH-1 peg** |
-| **IRON-NAILS-1** | **×42** | **−×20 M2-ROOF+BEAM kit d1293 · prior ~×62 @ forge** |
+| **IRON-NAILS-1** | **×46** | **+×4 CART-NAIL-TUNE-1468 · −×20 M2-ROOF+BEAM kit d1293 · prior ~×62 @ forge** |
 | **IRON-TROWEL-1** | **✓ ~95 g head · ash ~0.32 m** | **Day 708 @ WORKBENCH-1 peg · grout trial PASS** |
 | **IRON-MORTAR-FLOAT-1** | **✓ ~70 g plate · ash ~0.28 m** | **Day 708 @ WORKBENCH-1 peg · bed screed PASS** |
 | **IRON-SICKLE-1** | **✓ ~108 g head · ash haft** | **Day 491 @ WORKBENCH-1 peg · cold dress ✓ d1274 · straw bite PASS** |
@@ -633,15 +633,29 @@
 | **BRIDGE-FILL-8** | **depleted @ DORTYOL site B d1431** |
 | **BRIDGE-RESERVE-10** | **spent @ CEYHAN site B d1452** |
 | **BRIDGE-FILL-10** | **depleted @ CEYHAN site B d1452** |
-| **BRIDGE-CEYHAN-SITE-B-1452** | **✓ live @ CEYHAN-APPROACH-1 site B d1452 · ~13 m · RESERVE-10 spent · eleventh trail bridge** |
-| **BRIDGE-RESERVE-11** | **✓ staged @ horreum B d1454 · ~26 kg · MORTAR-SACK-12 dry · FS ×4 · timber · BRIDGE-ROPE-12** |
-| **BRIDGE-FILL-11** | **✓ staged @ horreum B d1454 · ~18 kg dress sack** |
+| **BRIDGE-CEYHAN-SITE-B-1452** | **✓ live @ CEYHAN-APPROACH-1 site B · ~13 m · built d1452 · **reinforced d1462** · ~2–3 mm loaded @ ~88 kg** |
+| **BRIDGE-RESERVE-11** | **spent @ CEYHAN reinforce d1462 · mortar partial · FS ×2 · oak · rope** |
+| **BRIDGE-FILL-11** | **depleted @ CEYHAN reinforce d1462 · scour aprons + flood train** |
+| **BRIDGE-RESERVE-12** | **spent @ TRIB-N02 site B d1473 · twelfth hero deploy** |
+| **BRIDGE-FILL-12** | **depleted @ TRIB-N02 site B d1473** |
+| **BRIDGE-TRIB-N02-SITE-B-1473** | **✓ live @ TRIB-FT-N02 site B d1473 · ~8 m · RESERVE-12 spent · ~3–4 mm loaded @ ~86 kg** |
+| **BRIDGE-RESERVE-13** | **staged @ horreum B d1479 · MORTAR-SACK-13 · FS ×4 · BRIDGE-ROPE-13 ~10 m · not deployed** |
+| **BRIDGE-FILL-13** | **staged @ horreum B d1479 · ~18 kg dress** |
+| **BRIDGE-REFILL-1479** | **✓ REFILL-13 staged d1479 · not lashed @ wagon** |
+| **EXPED-ROPE-1** | **~18 m @ wagon dry well d1479 · field repair · ~450 g · separate from kit rope** |
+| **EXPED-CARRY-KIT-1** | **✓ restocked d1482 @ wagon · rope ~5 m · nails ×8 · wedge · tallow · lash · peg ×2 · mandatory @ depart** |
+| **CART-KIT-MINI-BELEN-1** | **✓ ~4 kg sealed @ TRAIL-WAYSTATION-BELEN-1 site C east lee d1481 · T1 cache live** |
 | **BRIDGE-ERZIN-SITE-B-1441** | **✓ live @ ERZIN-APPROACH-1 site B d1441 · ~9 m · RESERVE-9 spent** |
 | **BRIDGE-DORTYOL-SITE-B-1431** | **✓ live @ DORTYOL-APPROACH-1 site B d1431 · ~10 m · RESERVE-8 spent** |
 | **BRIDGE-PAYAS-SITE-B-1423** | **✓ live @ PAYAS-APPROACH-1 site B d1423 · ~14 m · RESERVE-7 spent** |
 | **BRIDGE-ISK-APPROACH-B-1406** | **✓ live @ ISK-APPROACH-1 site B d1406 · ~13 m · RESERVE-5 spent** |
-| **TRAIL-MAINT-SLICE** | **spent @ L8 d1415** |
-| **TENT-2** | **✓ @ CART-YARD d1457 · nested forward · trail standby** |
+| **TRAIL-MAINT-SLICE** | **~8 kg dress @ wagon mid-forward d1487 · EXPED-RESTOCK rebuild** |
+| **TENT-2** | **✓ nested @ CART-YARD d1482 · wagon light** |
+| **ORE-SAMPLE-CASSITERITE-1** | **✓ verified d1479 @ chem-lab ore-sample tray east shelf · ~80 g · path B · CASSITERITE-VERIFY ✓** |
+| **ORE-SAMPLE-CASSITERITE-2** | **~45 g chip · @ chem-lab tray queue d1504 · pending weigh** |
+| **ORE-SAMPLE-CASSITERITE-3** | **~38 g chip · @ chem-lab tray queue d1504 · pending weigh** |
+| **ORE-CONCENTRATE-CASSITERITE-1** | **SPENT @ TIN-SMELT-TRIAL-1 d1505 · ~2.4 kg crumbs · path B** |
+| **SN-INGOT-TRIAL-1** | **~102 g soft tin @ chem-lab tin tray d1505 · TIN-SMELT-TRIAL-1 ✓ · fork A** |
 | **TRAIL-WAYSTATION-BELEN-1** | **✓ live @ site C upper bench d1456 · lean-to · corral · fire lee · backup grammar** |
 | **KARASU-TRUNK-1** | **✓ loaded ford @ SC-KTRUNK d1390 · spring re-read if rise** |
 | **TENT-1 v0** | Ridge lean @ WW-YARD dry · backup / loaner class |
@@ -694,14 +708,14 @@
 | **THREAD-STOCK-2** | **~80 m @ W-1 d1372** | **−~35 m TENT-2 weave/sew/fly · repair margin OK** |
 | **CL-LAB-WEAR @ chem-lab peg rail** | **CL-LAB-TUNIC-1 ✓ peg #1 · CL-LAB-COAT-2 ✓ peg #2 · CL-LAB-BREECH-1 ✓ peg #3 d1300** | **3/3 ✓ · lime peg only · change @ chem-lab door** |
 | **THREAD-STOCK-1** | **~12.8 m** | **−~0.8 m kitchen rod lash d887** |
-| **Flax tow @ W-1** | **~6 g scrap** | **−~130 g hackle d1366 · ~600 g remain @ WOOD-CRATE-2** |
+| **Flax tow @ W-1** | **~6 g scrap** | **−~500 g ROPE-SPRINT-1469 · ~100 g remain @ WOOD-CRATE-2 class** |
 | **Wild flax line @ W-1** | **~0 g @ peg d1360** | **WHEEL-SPIN-19/20 cleared hackle line · horreum tow = spin feedstock path** |
 | **Coarse fiber @ FIBER row** | **~22 g** | Cordage class · not garment |
 | **Coarse thread bank** | **~0 m @ W-1** | **~38 m → C TEXTILE-OVERFLOW long-store d1097** |
 | **MEASURE-1** | **✓ Day 287** | **THUMB-1** · **RULE-1** · **MASS-STONE 1/2×/5× (~5 g/1× recal d824)** · **BALANCE-1** @ W-1 |
 | **LAB-SCALE-2** | **✓ Day 824** | **Fine beam @ chem bench · CU pans · ~1 g class · MASS-CHIP ¼/½/2g/10g** |
 | **BALANCE-1** | **✓ Day 286 · recal d824** | **Cross-beam · cord pivot · bark pans · salt-anchored 1× ≈ 5 g** |
-| **ROPE-2** | **VENT-BELT ~142 m @ T-1** | **CRANE reclaim ✓ d832 · YOKE ~4 m · cache ~6 m untouched** |
+| **ROPE-2** | **VENT-BELT ~142 m @ T-1** | **CRANE reclaim ✓ d832 · YOKE ~4 m · cache ~3 m remain d1469 trace draw** |
 | **ROPE-1-A** | **~80 m @ D-27 CORRAL-1** *(deployed)* |
 | **FORGE-PPE-1** | **CL-APRON-FORGE-1** · **OPT-1-FORGE** · **CL-GLOVE-H v1** @ **M2 FORGE peg rail d1326** |
 | **CU-FIRE-TONGS-1** | **M2 FORGE peg rail d1326** |
@@ -822,9 +836,15 @@ See [year-001-plan.md](year-001-plan.md) · [centadial-003.md](journal/summaries
 |-------|--------|
 | **map.md** | Links here for quantities; update map when sites change |
 | **Green brick exact count** | Re-count on next **factory day** |
-| **Clay weigh** | **HOME d1457 · wagon light @ yard · RESERVE-11 @ horreum B · Cappadocian push when named** |
+| **CART-KIT-MINI-ERZIN-1** | **✓ live @ north terrace east lee d1485 · T1 cache · stop 2** |
+| **CART-KIT-MINI-ERZIN-STAGE** | **deployed → ERZIN-1 @ terrace d1485** |
+| **CART-KIT-CEYHAN-1** | **✓ live @ pad B west terrace lee d1491 · T2 cache · stop 3** |
+| **BRIDGE-CACHE-CEYHAN-1** | **✓ ~12 kg @ east abutment nook d1491 · dress · wedge · peg ×4 · rope · lime** |
+| **CART-KIT-CEYHAN-STAGE** | **deployed → CEYHAN-1 @ pad B d1491** |
+| **BRIDGE-CACHE-SLICE** | **deployed → BRIDGE-CACHE-CEYHAN-1 @ crossing d1491** |
+| **Clay weigh** | **HOME d1524 · Sn bank ~201 g @ chem-lab tray · ~237 stackable · lane ~25 kg · tin trips pause · WOAD leaf ~8 d** |
 | **River sand** | **~7 kg — OK · haul if <~3 kg before grout hero** |
-| **Char lane** | **~20.9 kg AMBER d1398 · vault ~63 kg untouched · KILN-A-LIME-1398 ✓** |
+| **Char lane** | **~18.4 kg AMBER d1468 · vault ~63 kg untouched · CART-TUNE-FORGE ✓** |
 | **Green queue** | **×0 @ pile 3 · GREEN-PRESS reseed when named · pile 1 ~33 kg GO** |
 | **COAST-1** | **✓ complete Day 202** — kelp · sand · beacon stored |
 | **Respawn rule** | **H-v2 bed** — home anchor |
