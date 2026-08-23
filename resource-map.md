@@ -68,7 +68,8 @@
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
 | **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1 ✓** | **OPT-1 · Glass** | **QUARTZ-1 ✓** · local + coast sand — see inventory |
 | **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · **collect ✓ Day 379** | **Chem · Mordant** | **~2.4 kg** modest collect · stake refreshed |
-| **M-12** | **Nitrate** (efflorescence) | **Mark only** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-MARK-1A/1B ✓ Day 203** — Year 2+ collect |
+| **M-12** | **Nitrate** (efflorescence) | **Collect ✓ d1595** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-MARK-1A/1B ✓ Day 203 · first collect ~310 g @ v1 CHEM** |
+| **M-14** | **Native sulfur** (brimstone) | **Mark ✓ d1597** | **Kisecik ~14 km NW** · Amanus toe | **Chem · Sulfur** | **SULFUR-MARK-1A outcrop · 1B solfataric seep · collect defer** |
 | **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓ Day 202** | **Iodine · Ash · Wrap** | Source site · **burned Day 288 → KELP-ASH-1** @ v1 |
 
 ---
@@ -86,7 +87,8 @@
 | **Soap (LYE-1)** | **✓ soap-grade** | Scale batches | **SOAP-1 ✓** |
 | **Glass** | **Quartz + coast sand ✓** | Furnace > copper routine | **KELP-ASH-1 ✓** · melt Year 2 |
 | **Alum (M-11)** | **✓ mark Day 200** | Purification · mordant | Cliff mark @ **COAST-SITE-1** |
-| **Nitrates (M-12)** | **✓ mark Day 203** | Saltpeter collect | **NITRATE-MARK-1A/1B** filed |
+| **Nitrates (M-12)** | **✓ mark Day 203 · collect d1595** | Saltpeter collect | **~310 g crude @ v1 CHEM · 1A/1B scraped** |
+| **Sulfur (M-14)** | **✓ mark d1597** | Native brimstone collect | **SULFUR-MARK-1A/1B @ Kisecik ~14 km NW** |
 | **Kelp (M-13)** | **✓ COAST-1** | Ash · iodine | **→ KELP-ASH-1 Day 288** |
 
 **Copper smelt on hold** · **O-1 ~12.5 kg** · **O-IRON-1 ~1.8 kg** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.

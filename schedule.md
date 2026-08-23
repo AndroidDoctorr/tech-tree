@@ -1,25 +1,25 @@
 # Schedule — deadlines, routines, seasons
 
-*Last updated: **Day 1524** · **Cal-Y5 D192** · **HOME · Sn bank ~201 g · tin trips pause · woad ~8 d**
+*Last updated: **Day 1540** · **Cal-Y5 D208** · **HOME · woad reserve ~44 g · bridge kit ~48 kg partial**
 
 ---
 
-## Now @ Day 1524 · Week 218 · HOME
+## Now @ Day 1540 · Week 221 opens d1541 · HOME
 
 | Track | Status |
 |-------|--------|
-| **Tin** | **SN bank ~201 g (102+99) @ chem-lab tray · lap 2 spent · fork A proven twice · meh** |
-| **Strategy** | **Tin trips pause ✓ · woad pull + infra prep while leaves mature** |
-| **Factory** | **~237 stackable @ Kiln B · lane ~25 kg · clay ~18.7 kg AMBER** |
-| **Farm** | **GREEN · WOAD rosette · leaf pull ~8 d (~d1532) · hands off until mature** |
-| **Runway** | **DYE-WOAD-1 · INFRA-PREP · CART-PACK-RIG-1 · clay haul · trail TQ garnish** |
-| **Trail** | **Four stop caches live · no tin lap three until named** |
-| **Calendar** | **D192 · leaf pull ~8 d · harvest ~476 d** |
+| **Dye** | **Woad reserve ~44 g GREEN · vat refresh when named · margin recovery** |
+| **Trail / bridge** | **REFILL-13 partial ~48 kg @ yard · upgrade/reinforce · finish lash d1541+** |
+| **Factory** | **×92 TR fired @ rack · lane ~34 kg · pile 1 ~37 kg** |
+| **Char / wood** | **Lane ~34 kg · pile 5 ~24 kg AMBER · dual needs wood haul** |
+| **Bronze** | **~1.65 kg stock @ tray** |
+| **Runway** | **Bridge kit finish · deploy target · WOAD-VAT optional** |
+| **Calendar** | **D208 · Week 220 close · harvest ~460 d** |
 | **Bridges** | **×12 live + ×1 ford · TRIB-N02 ✓ · furthest ~220 km @ Kozan north gate (end line)** |
-| **Trail** | **Composite TQ ~2.8 · L12 ~1.75 post corridor · incremental TQ only** |
+| **Trail** | **Composite TQ ~2.9+ · L12 ~2.0 · L7 pull-off honest post d1539 · incremental TQ only** |
 | **Lab** | **OIL-LANTERN-2 ✓ @ chem-lab · airlock ✓ · vent fan ✓** |
 | **Textile / dye** | **×2 jeans ✓ · TIEDYE ✓ · DOMUS-RUG-SLATE ✓ · coat ✓ · ICE-MAX-HAUL-Y5 ✓ d1380–1381 · ~63.6 kg cellar** |
-| **Lead / tin** | **TIN-SMELT-TRIAL-1+2 ✓ · SN bank ~201 g @ tray · fork A proven · tin trips pause · woad + infra prep · [route-a-road.md](route-a-road.md)** |
+| **Lead / tin** | **BRONZE-TRIAL-1 ✓ d1526 · ~1.65 kg bronze stock · trip bushes · Sn spent · tin trips pause · ZINC-SPH Taurus horizon · [route-a-road.md](route-a-road.md)** |
 | **Horreum** | **EMMER-BULK-Y4 ~2.05 kg @ A · C BUILD-MAT overflow reserve** |
 | **Glass / amphora** | **×3 bottles @ rack L · AMPHORA-4 ✓ @ horreum A · frit ~120 g** |
 | **Beach kit** | **✓ home deploy · chair · towels ×2 · umbrella · swimsuit · COAST sand trip deprioritized** |

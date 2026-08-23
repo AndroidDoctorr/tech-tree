@@ -618,9 +618,9 @@
 | **STEEL-PACK-1** (surface carburize) | · **charcoal pack · sealed box · FORGE-D soak** |
 | **STEEL-CASE-1** (case harden + quench) | · **after STEEL-PACK-1** |
 | **CART-IRON-1** (hub collar tubes · bed iron) | **✓ Day 628** · **hub pair + CART-BED-IRON-1** |
-| **Tin** scout (**cassiterite**) | **TIN-SMELT-TRIAL-1 ✓ d1505 · SN-INGOT-TRIAL-1 ~102 g · fork A** |
-| **Bronze** alloy | · |
-| **Bronze tools** (edge · socket) | · |
+| **Tin** scout (**cassiterite**) | **TIN-SMELT-TRIAL-1+2 ✓ · Sn → BRONZE-TRIAL-1 ✓ d1526** |
+| **Bronze** alloy | **✓ BRONZE-TRIAL-1 d1526 · ~10% Sn · ~1.65 kg stock @ tray** |
+| **Bronze tools** (edge · socket · cart wear) | **BRONZE-BUSH-TRIP-1 ×2 @ WW-1 pivot d1526 · CART-HUB-BRONZE-BUSH ×2 d1598 · ~1.33 kg cast stock remain**
 | **Iron spear tip / contact weapon** | · after axe · optional |
 | **Copper farm tools** (hoe · awl) | ✓ **CU-HOE-1 Day 247** |
 | **Steel** (case / pack class) | · **STEEL-PACK-1 → STEEL-CASE-1** |
@@ -695,8 +695,8 @@
 | **Saltpeter** collect · store | · |
 | **Nitrates** (manure saltpeter · fertilizer) | · |
 | **Nitrates** (powder / mining chemistry) | · Year 2–3+ |
-| **Sphalerite / zinc** **SPH-1** mark | · NE scout |
-| **Zinc metal** · **voltaic pile** | · Year 3+ |
+| **Sphalerite / zinc** **SPH-1** mark | **✓ marked · ZINC-SPH-HORIZON-1526 · Taurus corridor scout queued** |
+| **Zinc metal** · **voltaic pile** | · **w/ SPH-1 + lead path · Year 5+ horizon** |
 | **Glass** melt + anneal | **TRIAL-3 washed bead Day 395** · **ANNEAL-1 ✓** · marginal temp |
 | **GLASS-PRACTICE-1** (bead · fisheye · coast/local blend) | ~ **trial cadence** · **KILN-C-UPGRADE-1** before vessels |
 | **Glass vessels / optics** | · dedicated furnace window · not peripheral Kiln C |
