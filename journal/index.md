@@ -1690,6 +1690,64 @@
 | 1699 | [day-1699.md](days/year-005/week-243/day-1699.md) | **EASEL-1 ✓ · CRAFT-STOOL-1 ✓ @ M2 WORK south · CHAIR queued** | **Cal-Y6 D2 · 23 Dec** |
 | 1700 | [day-1700.md](days/year-005/week-243/day-1700.md) | **P-RETT-8-PULL ✓ · PAINT-CANVAS-1 ✓ · first study @ EASEL-1** | **Cal-Y6 D3 · 24 Dec** |
 | 1701 | [day-1701.md](days/year-005/week-243/day-1701.md) | **FLAX-BREAK-8 ✓ · PAINT-STUDY-2 ✓ · Week 243 close** | **Cal-Y6 D4 · 25 Dec** |
+| 1702 | [day-1702.md](days/year-005/week-244/day-1702.md) | **SLUICE-2-STAKE ✓ · WW-2-HEAD survey ✓ · Week 244 open** | **Cal-Y6 D5 · 26 Dec** |
+| 1703 | [day-1703.md](days/year-005/week-244/day-1703.md) | **CRAFT-WING-1-STAKE ✓ · P-RETT-9 load ✓ · winter wild pull** | **Cal-Y6 D6 · 27 Dec** |
+| 1704 | [day-1704.md](days/year-005/week-244/day-1704.md) | **CRAFT-WING-1-SOCLE-CLOSE ✓ · Stage 1 complete · gravel queued** | **Cal-Y6 D7 · 28 Dec** |
+| 1705 | [day-1705.md](days/year-005/week-244/day-1705.md) | **STONE-HAUL-1705 ✓ max load · pile 8 ×6 FS restored** | **Cal-Y6 D8 · 29 Dec** |
+| 1706 | [day-1706.md](days/year-005/week-244/day-1706.md) | **CRAFT-WING-STAGE-2 ✓ · gravel + lime bed · cure overnight** | **Cal-Y6 D9 · 30 Dec** |
+| 1707 | [day-1707.md](days/year-005/week-244/day-1707.md) | **SLUICE-2-PREFAB ✓ · bed cure PASS · kit @ WW-YARD** | **Cal-Y6 D10 · 31 Dec** |
+| 1708 | [day-1708.md](days/year-005/week-244/day-1708.md) | **CRAFT-WING-WALL ✓ · MURE-R1 c1–2 N+W · Stage 3 ~35%** | **Cal-Y6 D11 · 1 Jan** |
+| 1709 | [day-1709.md](days/year-005/week-245/day-1709.md) | **SLUICE-2 partial dig ✓ · wing mat staged · Week 245 open** | **Cal-Y6 D12 · 2 Jan** |
+| 1710 | [day-1710.md](days/year-005/week-245/day-1710.md) | **SLUICE-2-WING-1 ✓ downhill half · stream cheek defer** | **Cal-Y6 D13 · 3 Jan** |
+| 1711 | [day-1711.md](days/year-005/week-245/day-1711.md) | **GREEN-PRESS-1711 ✓ · factory mode · ICE scout ~16 d** | **Cal-Y6 D14 · 4 Jan** |
+| 1712 | [day-1712.md](days/year-005/week-245/day-1712.md) | **HAUL-CLAY-1712 ✓ · pile 1 ~41.5 kg · ×40 press GO** | **Cal-Y6 D15 · 5 Jan** |
+| 1713 | [day-1713.md](days/year-005/week-245/day-1713.md) | **GREEN-PRESS-1713 ✓ · ×80 green · GB-1711 + rett defer d1714** | **Cal-Y6 D16 · 6 Jan** |
+| 1714 | [day-1714.md](days/year-005/week-245/day-1714.md) | **GB-FIRE ✓ +36 · P-RETT-9 pull ✓ · ~111 stackable** | **Cal-Y6 D17 · 7 Jan** |
+| 1715 | [day-1715.md](days/year-005/week-245/day-1715.md) | **WOOD-HAUL-1715 ✓ · pile 5 ~60 kg · dry defer d1716** | **Cal-Y6 D18 · 8 Jan** |
+| 1716 | [day-1716.md](days/year-005/week-246/day-1716.md) | **WEEK-246-OPEN ✓ · PIT-CHAR-DUAL ✓ · lane ~56 kg** | **Cal-Y6 D19 · 9 Jan** |
+| 1717 | [day-1717.md](days/year-005/week-246/day-1717.md) | **GB-FIRE ✓ +36 · FLAX-BREAK-9 ✓ · ~147 stackable · P-RETT-9 closed** | **Cal-Y6 D20 · 10 Jan** |
+| 1718 | [day-1718.md](days/year-005/week-246/day-1718.md) | **HAUL-CLAY-1718 ✓ · pile 1 ~43 kg · ×40 press GO** | **Cal-Y6 D21 · 11 Jan** |
+| 1719 | [day-1719.md](days/year-005/week-246/day-1719.md) | **WOOD-HAUL-1719 ✓ 4-lap · pile 5 ~72 kg · stack-up** | **Cal-Y6 D22 · 12 Jan** |
+| 1720 | [day-1720.md](days/year-005/week-246/day-1720.md) | **CRAFT-WING-WALL ✓ E+S c1–2 · perimeter closed · ~95 stackable** | **Cal-Y6 D23 · 13 Jan** |
+| 1721 | [day-1721.md](days/year-005/week-246/day-1721.md) | **GREEN-PRESS-1721 ✓ ×40 GB-1721 · pile 1 ~25 kg AMBER** | **Cal-Y6 D24 · 14 Jan** |
+| 1722 | [day-1722.md](days/year-005/week-246/day-1722.md) | **CRAFT-WING-WALL ✓ c3–4 all legs · ~39 stackable · Stage 3 ~74% · Week 246 close** | **Cal-Y6 D25 · 15 Jan** |
+| 1723 | [day-1723.md](days/year-005/week-247/day-1723.md) | **WEEK-247-OPEN ✓ · GB-FIRE ✓ +36 · CAMPUS-CHECK ✓ · ~75 stackable · ICE ~4 d** | **Cal-Y6 D26 · 16 Jan** |
+| 1724 | [day-1724.md](days/year-005/week-247/day-1724.md) | **GEAR-CHECK ✓ · ICE-HAUL-Y6-PREP ✓ · PIT-CHAR-175 ✓ · scout ~3 d** | **Cal-Y6 D27 · 17 Jan** |
+| 1725 | [day-1725.md](days/year-005/week-247/day-1725.md) | **GREEN-PRESS-1725 ✓ ×40 GB-1725 · pile 1 ~8 kg AMBER · HAUL-CLAY next** | **Cal-Y6 D28 · 18 Jan** |
+| 1726 | [day-1726.md](days/year-005/week-247/day-1726.md) | **HAUL-CLAY-1726 ✓ 3-lap · pile 1 ~40 kg · ×40 press GO · ICE ~1 d** | **Cal-Y6 D29 · 19 Jan** |
+| 1727 | [day-1727.md](days/year-005/week-247/day-1727.md) | **ICE-RIDGE-SURVEY ✓ · LENS-1 primary · LENS-2 foot-only · NOT haul** | **Cal-Y6 D30 · 20 Jan** |
+| 1728 | [day-1728.md](days/year-005/week-247/day-1728.md) | **GB-FIRE ✓ +36 · ICE-MAX-PREP ✓ · max ~d1745–1748 · ~111 stackable** | **Cal-Y6 D31 · 21 Jan** |
+| 1729 | [day-1729.md](days/year-005/week-247/day-1729.md) | **GREEN-PRESS ✓ · CRAFT-WING c5–6 ✓ · ~95% · Week 247 close** | **Cal-Y6 D32 · 22 Jan** |
+| 1730 | [day-1730.md](days/year-005/week-248/day-1730.md) | **WEEK-248-OPEN ✓ · HAUL-CLAY-1730 ✓ · pile 1 ~41.5 kg · ×40 press GO** | **Cal-Y6 D33 · 23 Jan** |
+| 1731 | [day-1731.md](days/year-005/week-248/day-1731.md) | **PIT-CHAR-DUAL ✓ · lane ~50 kg · pile 5 ~46 kg · GB-TOUCH ~d1732** | **Cal-Y6 D34 · 24 Jan** |
+| 1732 | [day-1732.md](days/year-005/week-248/day-1732.md) | **GB-TOUCH + GB-FIRE ✓ +36 · ~91 stackable · bond beam next** | **Cal-Y6 D35 · 25 Jan** |
+| 1733 | [day-1733.md](days/year-005/week-248/day-1733.md) | **CRAFT-WING BOND-BEAM ✓ · lintel ✓ · Stage 3 close · ~75 stackable** | **Cal-Y6 D36 · 26 Jan** |
+| 1734 | [day-1734.md](days/year-005/week-248/day-1734.md) | **WOOD-HAUL ✓ · pile 5 ~69 kg · roof timber runway GREEN** | **Cal-Y6 D37 · 27 Jan** |
+| 1735 | [day-1735.md](days/year-005/week-248/day-1735.md) | **PIT-CHAR-DUAL ✓ · lane ~53 kg · nails ×36 · forge before battens** | **Cal-Y6 D38 · 28 Jan** |
+| 1736 | [day-1736.md](days/year-005/week-248/day-1736.md) | **IRON-NAILS-BATCH ✓ · tray ×54 · roof frame GO** | **Cal-Y6 D39 · 29 Jan** |
+| 1737 | [day-1737.md](days/year-005/week-249/day-1737.md) | **WEEK-249-OPEN ✓ · CRAFT-WING ROOF-FRAME ✓ · Stage 4 ~50%** | **Cal-Y6 D40 · 30 Jan** |
+| 1738 | [day-1738.md](days/year-005/week-249/day-1738.md) | **CRAFT-WING PURLIN-BATTEN ✓ · shell ~90% · TILE-BED ready** | **Cal-Y6 D41 · 31 Jan** |
+| 1739 | [day-1739.md](days/year-005/week-249/day-1739.md) | **CRAFT-WING TILE-ROOF ✓ · ×47 on skin · ridge · drip PASS** | **Cal-Y6 D42 · 1 Feb** |
+| 1740 | [day-1740.md](days/year-005/week-249/day-1740.md) | **VENT-HOOD-SKIN ✓ · STAGE-4-CLOSE ✓ · easel @ south bay · ICE ~5 d** | **Cal-Y6 D43 · 2 Feb** |
+| 1741 | [day-1741.md](days/year-005/week-249/day-1741.md) | **CRAFT-WING DOOR ~85% · seal v0 ✓ · swing PASS · latch queued** | **Cal-Y6 D44 · 3 Feb** |
+| 1742 | [day-1742.md](days/year-005/week-249/day-1742.md) | **LIMEWHASH coat 1 ✓ · brass hardware queued · ICE ~3 d** | **Cal-Y6 D45 · 4 Feb** |
+| 1743 | [day-1743.md](days/year-005/week-249/day-1743.md) | **BRASS-BATCH-2 ✓ · first casts partial · apiary wax slate** | **Cal-Y6 D46 · 5 Feb** |
+| 1744 | [day-1744.md](days/year-005/week-250/day-1744.md) | **WEEK-250-OPEN ✓ · ICE-PREP-2 ✓ · brass fit · wheels-up ~D49** | **Cal-Y6 D47 · 6 Feb** |
+| 1745 | [day-1745.md](days/year-005/week-250/day-1745.md) | **PIT-CHAR-DUAL ✓ · ICE-PREP-3 final · wheels-up ~8 Feb** | **Cal-Y6 D48 · 7 Feb** |
+| 1746 | [day-1746.md](days/year-005/week-250/day-1746.md) | **ICE-MAX-HAUL-Y6-1 ✓ · ~31.2 kg nett · vault cull/repack** | **Cal-Y6 D49 · 8 Feb** |
+| 1747 | [day-1747.md](days/year-005/week-250/day-1747.md) | **ICE-MAX-HAUL-Y6-2 ✓ · ~84.8 kg cellar · Y6 ice closed** | **Cal-Y6 D50 · 9 Feb** |
+| 1748 | [day-1748.md](days/year-005/week-250/day-1748.md) | **REST ✓ · WOOD-HAUL light ✓ · pile 5 ~38 kg** | **Cal-Y6 D51 · 10 Feb** |
+| 1749 | [day-1749.md](days/year-005/week-250/day-1749.md) | **BRASS handle cast ✓ · door LIVE · hinge swap · latch PASS** | **Cal-Y6 D52 · 11 Feb** |
+| 1750 | [day-1750.md](days/year-005/week-250/day-1750.md) | **CRAFT-WING oak floor ✓ · campus heat slate** | **Cal-Y6 D53 · 12 Feb** |
+| 1751 | [day-1751.md](days/year-005/week-251/day-1751.md) | **WEEK-251-OPEN ✓ · TEMP-PORTICO ~60% · campus names** | **Cal-Y6 D54 · 13 Feb** |
+| 1752 | [day-1752.md](days/year-005/week-251/day-1752.md) | **TEMP-PORTICO ✓ · Atelier move-in partial · RUG-LAY defer · sow slate** | **Cal-Y6 D55 · 14 Feb** |
+| 1753 | [day-1753.md](days/year-005/week-251/day-1753.md) | **SOW-PREP-Y6 ✓ · bed scratch · seed audit · sow slate ~11 d** | **Cal-Y6 D56 · 15 Feb** |
+| 1754 | [day-1754.md](days/year-005/week-251/day-1754.md) | **ATELIER-RUG-1 weave D1 ~60% @ W-1 LM-2 · scare lap** | **Cal-Y6 D57 · 16 Feb** |
+| 1755 | [day-1755.md](days/year-005/week-251/day-1755.md) | **ATELIER-RUG-1 ✓ · RUG-LAY-1 ✓ @ south bench** | **Cal-Y6 D58 · 17 Feb** |
+| 1756 | [day-1756.md](days/year-005/week-251/day-1756.md) | **ATELIER-WINDOW frame prebuild ×2 · S/W ghost marks · scare lap** | **Cal-Y6 D59 · 18 Feb** |
+| 1757 | [day-1757.md](days/year-005/week-251/day-1757.md) | **ATELIER-WINDOW W+S cut · mount · shutter · seal groove · strip defer** | **Cal-Y6 D60 · 19 Feb** |
+| 1758 | [day-1758.md](days/year-005/week-252/day-1758.md) | **WEEK-252-OPEN ✓ · WINDOW-SEAL-V1 ✓ · PRE-SOW-5D slate** | **Cal-Y6 D61 · 20 Feb** |
+| 1759 | [day-1759.md](days/year-005/week-252/day-1759.md) | **BUILDING-CODE-1 ✓ · ATELIER-AWNING-S ~60% · scare lap** | **Cal-Y6 D62 · 21 Feb** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 1406** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality:** [route-a-road.md](route-a-road.md)*  
+*Last updated: **Day 1722** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality:** [route-a-road.md](route-a-road.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Terrace above river bend, gorge to the east  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
@@ -13,7 +13,7 @@
 | **PATH-CROWN** | T-5 H-v2↔v1 · T-1 fork @ WW-YARD — **✓ crowned d911 · compact surfacing · cart PASS** |
 | **DRAIN-D-1** | Swale extension · greywater fork — **✓ d915 · GREASE-TRAP-1 ✓ d919 · SOIL-PIT-1 ✓ d925 @ DR-SP-01 (~2.0 m sealed)** |
 | **SLAG-DUMP-A/B/C** | **WF-SB-01 ✓ d923 first cart ~18 kg · pad live · T-5 crown → SW · A reserve · C reject** |
-| **WW-2-HEAD** | Upstream T-1 · sluice drop survey line (~5–10 m class · horizon) |
+| **WW-2-HEAD** | **✓ SLUICE-2 partial d1709–1710** — downhill half dug + **downhill wing cheeks live** · stream-side cheek defer · gate kit @ yard |
 | **H-V3-COURTYARD** | **✓ half-col + beam · east loculus ✓ d1124 · west bed+burgundy rug — see [house-plan.md](house-plan.md)** |
 | **IMPLUVIUM-DRAIN-1** | **✓ live d1105 · sump + DR-IM-01–03 → D-1 · pour PASS · Stage 0 ✓** |
 | **GARDEN-ORCHARD** | Decorative bed terrace S · lemon-class tree site when species found · **OAK-ORCHARD-RESERVE ✓ ×6 slots @ SC-OAK-01–06 d949 · ~18×4 m · spring transplant only** |
@@ -21,6 +21,7 @@
 | **STONE-WALL ×2** | **SR-S1 ~28 m Bed D/pen ghost d917 · SR-W1 ~42 m campus W ghost d917 · terrace face grammar · build post-harvest** |
 | **H-V3-NORTH-TIE-1** | **✓ staked d1098 · ~3.2 m strip H-v2↔horreum · PW ~1.4 m · SR covered option ~2.6 m · build defer** |
 | **STAKE-CODE-1** | **✓ d917 — color band · notch seg · chip scratch · kitchen slate master — see table below** |
+| **CRAFT-WING-1** *(Atelier)* | **✓ LIVE d1752** — **portico ✓ · paint bay · sow prep next · [craft-wing-plan.md](craft-wing-plan.md)** |
 | **STORE-4-E / BARN-N** | Expansion ghosts — not started |
 
 **Rule:** Drainage and path crowns before decorative beds and hero masonry.
@@ -179,7 +180,7 @@
 | **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
 | **H-v2-KITCHEN wing** | West T-plan arm | **✓ operational Day 507** · **tile roof ✓ Day 539** · sink · teal curtain · checker floor |
 | **AQUEDUCT-1** | v1 → H-v2 → FORGE-D → kitchen · pen float | **✓ Day 564** · **KITCHEN-FAUCET-1 ✓** |
-| **Domus H-V3** *(planned)* | **Courtyard villa** @ **C-0** · **culina** (new) vs **culina vetus** (H-v2) | **[house-plan.md](house-plan.md)** |
+| **Domus H-V3** *(planned)* | **Courtyard villa** @ **C-0** · **culina** (new) vs **culina vetus** (H-v2) | **[house-plan.md](house-plan.md)** · display **Domus** |
 
 ---
 
@@ -362,7 +363,7 @@
 | Phase | Target | Notes |
 |-------|--------|-------|
 | **0 — proto on WW-1** | **Fan stub · trip-hammer mock · crusher peg** | **WW-MODULAR** quick-release collars · prove loads **before** new dig |
-| **1 — upstream head** | **SLUICE-2** class intake | **Bigger than SLUICE-1** · **upstream** of current fork · flood bypass · seasonal gate |
+| **1 — upstream head** | **SLUICE-2** class intake | **~62%** — **downhill dig + downhill wings ✓ d1709–1710 · stream cheek + upper dig + gate @ lower flow** |
 | **2 — WW-2 + GS-2** | **Second wheel · larger flywheel** | **Stronger rim · more inertia · multiple belt takeoffs** · **WW-1** can stay on **blower** while **WW-2** runs **mill/crusher** |
 | **3 — mechanical tree** | **LAB-VENT-FAN-1 · ORE-CRUSHER-1 · TRIP-HAMMER-1** | Belt/cam off **GS-2** · ore prep · hood fan off Day 703 chase |
 | **4 — horizon** | **HYDRO-ELEC-1** | **Small dam @ upstream head** · **after** mechanical plant stable |

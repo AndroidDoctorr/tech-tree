@@ -1,6 +1,6 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 1701** (~10,000 BC) · **Cal-Y6 D4** · **Week 243 closed**  
+*Last updated: **Day 1744** (~10,000 BC) · **Cal-Y6 D47** · **Week 249**  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
 **Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239** · **Yearly windows ✓ Day 1004**
 
@@ -275,6 +275,7 @@ Piecewise between anchors (linear segment):
 
 ## Related
 
+- [player-calendar.md](player-calendar.md) — **month · date · event reference sheet**
 - [schedule.md](schedule.md) — deadlines · routines · farm windows (uses **Day + Cal-Y D**)
 - [journal/years/year-001.md](journal/years/year-001.md) — Calendar Year 1 arc (Days 1–237)
 - [journal/days/week-035/day-239.md](journal/days/week-035/day-239.md) — **SUN-CAL-YEAR** declaration
