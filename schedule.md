@@ -1,4 +1,6 @@
-# Schedule — deadlines, routines, seasons
+# Schedule — archive
+
+**Frozen ~Day 1540.** Live clocks: [now.md](now.md) · [player-calendar.md](player-calendar.md). Do not treat tables below as current.
 
 *Last updated: **Day 1540** · **Cal-Y5 D208** · **HOME · woad reserve ~44 g · bridge kit ~48 kg partial**
 

@@ -4,7 +4,7 @@
 **Home:** **H-V3 west cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **BC-1 glass/metal retrofit · farm green line · exped ~D80**
 
-**Status:** **OPEN @ Day 1774 · Cal-Y6 D77 · ~8 Mar · GREEN-LINE ✓ · pile 5 ~64 kg**
+**Status:** OPEN @ Day 1775 · Cal-Y6 D78 · GREEN-LINE ✓ · lane ~53 kg · pile 5 ~50 kg
 
 ---
 
@@ -29,15 +29,9 @@
 
 ---
 
-## Camp carry-forward (@ Day 1771)
+## Camp carry-forward
 
-| System | Status |
-|--------|--------|
-| **Farm beds** | **~50 m² · GREEN-LINE ✓ · FARM-CARE-GREEN · perimeter scare only** |
-| **Char** | **Lane ~64 kg · Store C ~40 kg · ~104 kg campus · pile 5 ~34 kg** |
-| **Atelier** | **W glass ×8/~20 · ×4 tray · ×4 anneal · ~12 remain west** |
-| **BC-1** | **WINDOW-UPGRADE-1 unblocked · Atelier W first** |
-| **Textile** | **THREAD ~269 m · PAPER-RESERVE ~500 g · spin-3 ~400 g** |
+See [now.md](../../now.md). Do not duplicate runway numbers here.
 
 ---
 

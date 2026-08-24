@@ -1,0 +1,47 @@
+---
+description: Slim day-file template — one fact once, no restated PASS tables
+globs: journal/days/**/*.md
+alwaysApply: false
+---
+
+# Day files stay short
+
+Target ~80–120 lines / ~2 KB. Do not rewrite old days.
+
+## Required
+
+- **Meta** — day · Cal-Y · date · week · place · weather
+- **Events** — one paragraph *or* one table, not both
+- **Consumption** — draws with amounts (the audit trail)
+- **Next** — 2–3 lines
+
+## Only when needed
+
+- **Skills** — hero craft / new-tier / NO-GO
+- **Discoveries** — new site, ore, or fauna, not a restated PASS
+
+## Never
+
+- Restate Events in Discoveries + Tech + Assistant + footer
+- Unique IDs for chores (`WEIR-DRAW-1775`, `SCARE-GATE-1775`)
+- Time-block tables that are only PASS / PASS / PASS
+- User/You plus Assistant saying the same thing again
+
+## Name heroes once
+
+`GREEN-LINE-Y6` · `PIT-CHAR-DUAL` · `CHAR-RETORT-1` — not a new hyphenated ID per clock hour.
+
+## Example
+
+```markdown
+## Events
+Green-line walk Bed A–D. Scare-only lifted. Three wood laps, pile 5 ~34 → ~64 kg.
+
+## Consumption
+| Draw | Amount |
+|------|--------|
+| Oak | +~23 kg pile 5 |
+
+## Next
+1. Glass batch-3 when named
+```

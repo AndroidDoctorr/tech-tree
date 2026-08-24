@@ -1,6 +1,8 @@
-# Achievement ladder
+# Achievement ladder — archive
 
-*Day **1094** — breadth only. Stock: [inventory.md](inventory.md). Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
+**Frozen ~Day 1094.** Live status: [now.md](now.md). Stock: [inventory.md](inventory.md). Do not reload this file on a routine next-day.
+
+*Day **1094** — breadth only. Skills: [skills.md](skills.md). Details: [resource-map.md](resource-map.md), [advancements.md](advancements.md).*
 
 **Legend:** ✓ have / done · ~ started / partial · · not yet
 

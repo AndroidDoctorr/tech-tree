@@ -52,8 +52,8 @@ Before the player **builds, crafts, smelts, hauls, or field-tests** something ne
 
 | Check | Source |
 |-------|--------|
-| **Materials & stock** | [inventory.md](inventory.md) — location, quantity, `~` estimates |
-| **Prerequisite tech / tools** | [tech-tree.md](tech-tree.md), [advancements.md](advancements.md), [ladder.md](ladder.md) |
+| **Materials & stock** | [inventory.md](inventory.md) — grep the row · [now.md](now.md) for runway |
+| **Prerequisite tech / tools** | [tech-tree.md](tech-tree.md) · [inventory/tools-lab.md](inventory/tools-lab.md) when the named tool matters |
 | **Skill tier** | [skills.md](skills.md) — task vs **Now** rank; no fumbling a tier-4 job without practice |
 | **Prior build steps** | Day files + week plans — e.g. footings before posts, crane test before loft lift |
 
@@ -126,8 +126,8 @@ Track **condition** on tools and deployed structures when use or season warrants
 
 | Rule | Detail |
 |------|--------|
-| **Source of truth** | **[inventory.md](inventory.md)** — grouped by **location** (H-v2, hut v1, camp piles, W-1, farm, WW pad, on body), not just worn gear |
-| **When to update** | End of **any day** that moves **charcoal, fired/green bricks, clay, ore, grain, lime**, or adds a **stored tool/pot** — update inventory in the same pass as the day file |
+| **Source of truth** | **[inventory.md](inventory.md)** for live counts · **[now.md](now.md)** for the runway · fixtures / bridges / tools under `inventory/` |
+| **When to update** | End of any day that moves stock — patch the inventory row and `now.md` in the same pass. Do not append a chronicle line. |
 | **Estimates** | Mark `~` if not weighed/counted that day; **re-count** on next factory day, clay haul, or smelt marathon |
 | **map.md** | Geography and pile **roles**; **quantities** live in inventory.md (map links there) |
 | **Day file** | Log burns/consumption in the journal (e.g. `Store C: −5.5 kg`) so audits trace forward |

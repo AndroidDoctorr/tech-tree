@@ -16,7 +16,7 @@ When playing the tech-tree journal campaign:
 
 ## Before closing any farm-related day
 
-- Verify bed status in `inventory.md` matches last sow/harvest hero log.
+- Verify bed status in `now.md` and `inventory.md` (Farm section) matches last sow/harvest hero log.
 - If expedition days interleave with sow window, still log **SPRING-SOW** on the frost-gate HOME day (may be combined with scare/WOAD watch).
 - Never describe beds as "fallow post Y4" after spring sow without an explicit failed crop or cut complete log.
 

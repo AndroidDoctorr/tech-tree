@@ -1,0 +1,39 @@
+---
+description: Minimum files to read on a routine next-day — do not reload stale ledgers
+alwaysApply: true
+---
+
+# Play — minimum read set
+
+This is a journal, not a code repo.
+
+## Routine next-day (read only these)
+
+1. `now.md`
+2. Last day file
+3. `player-calendar.md` if the action touches a season window
+4. Grep `inventory.md` for the stock the action draws — do not read the whole file
+5. Current week file only to append the day's one-line summary
+
+## Do not read unless the player names that track or a gate needs it
+
+`journal/index.md` · `ladder.md` · `schedule.md` · `sun-calendar.md` · `advancements.md` · `map.md` · `inventory/archive-pre-split-1775.md` · full plan files · days before the last 2
+
+`journal/index.md`: append one row. Never load the table.
+
+`ladder.md` and `schedule.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`.
+
+## Write
+
+- One fact once. Day file + `now.md` + the inventory row that changed.
+- Do not recopy farm/char/glass status into week, building-code, and inventory headers.
+- Bold names and verdicts only — not every cell.
+- Prefer a new chat after a closed week or hero, not 15+ days in one thread.
+
+## Example
+
+```
+# next day, wood haul
+Read: now.md, last day, grep inventory.md for "Pile 5"
+Do not read: ladder.md, journal/index.md, sun-calendar.md
+```

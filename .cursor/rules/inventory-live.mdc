@@ -1,0 +1,39 @@
+---
+description: inventory.md is live stock only — archive history, do not recopy fixtures
+globs: inventory.md,now.md,inventory/**/*.md
+alwaysApply: false
+---
+
+# Inventory is a ledger
+
+`inventory.md` holds **current quantities by location**. It is not a day log.
+
+## After a day that moves stock
+
+Patch the row in `inventory.md` and the matching line in `now.md`. Do not add a chronicle row named `WOOD-HAUL-1776`.
+
+## Where facts live
+
+| Fact | File |
+|------|------|
+| kg, g, head-count, bed status | `inventory.md` + `now.md` |
+| Installed rooms, rugs, water, hive | `inventory/fixtures.md` |
+| Live bridges, caches, Kozan field | `inventory/bridges-and-trail.md` |
+| Named tools, glass ware | `inventory/tools-lab.md` |
+| Spent kits, old audits, closed columns | `inventory/archive-pre-split-1775.md` |
+
+## Do not
+
+- Duplicate a kg in two live files (now.md may repeat the 5–6 runway numbers only)
+- Append spent RESERVE/FILL history to inventory.md
+- Treat the pre-split archive as current — grep it for IDs, then write the live row
+- Bold every cell
+
+## Example
+
+```
+# pit day: pile 5 −14 kg, lane +11 kg
+inventory.md: Pile 5 ~50 → ~36 · Char lane ~53 → ~64
+now.md: same two numbers
+Do not add a PIT-CHAR-DUAL-1776 table to inventory.md
+```
