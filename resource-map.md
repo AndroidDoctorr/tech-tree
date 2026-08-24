@@ -30,6 +30,7 @@
 | **P-15** | Coriander / cilantro (*Coriandrum*) | **~200 m** | Plain · farm edge | **Spring–autumn** | **Eat · Seed** | **HERB-1 ✓** — dried @ v1 |
 | **P-17** | Lentil (*Lens* class) | **~450 m NW** | Plain margin · farm NW | Spring sow | **Scout ✓ · Breed** | **P-17a ✓** · **sown Bed B** · **pod set watch · FARM-READ GREEN Day 545** |
 | **P-16** | Other aromatics (thyme, etc.) | **~350 m** | T-2 olive shade | Spring–autumn | **Eat · Dry** | **P-16a ✓ Day 215** — thyme/marjoram class · modest pick |
+| **P-21** | **Rosemary** (*Salvia rosmarinus* class) | **~280 m** | T-2 dry calcareous bank | Spring–autumn | **Eat · Seed · Transplant** | **P-21a ✓ d1691 · ~1.5×2 m mat · young plant @ culina herb ghost · P-21-SEL-Y5 ~11 g @ vault** |
 | **P-18** | **Woad** (*Isatis* class) | **~2.8 km NW** | Plain limestone rise | **Leaf: summer · seed: autumn** | **Dye · Breed** | **DYE-WOAD-1 ✓ Day 489** — ~12 plants ~4 m² · **WOAD-LEAF-1** queued |
 | **P-19** | **Wild madder** (*Rubia* class) | **~3.1 km WNW** | Dry calcareous bank | **Root: autumn** | **Dye** | **DYE-MADDER-1 ✓ Day 489** — ~6 m mat · **MADDER-DIG-1** autumn |
 | **P-04** | Wild emmer | 200 m | Farm Bed A R1–2 | Jun harvest | **SOWN · Breed** | **~18 g** Day 16 |
@@ -68,8 +69,10 @@
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
 | **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1 ✓** | **OPT-1 · Glass** | **QUARTZ-1 ✓** · local + coast sand — see inventory |
 | **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · **collect ✓ Day 379** | **Chem · Mordant** | **~2.4 kg** modest collect · stake refreshed |
-| **M-12** | **Nitrate** (efflorescence) | **Collect ✓ d1595** | Limestone · manure · bird cliff | **Chem · Saltpeter** | **NITRATE-MARK-1A/1B ✓ Day 203 · first collect ~310 g @ v1 CHEM** |
-| **M-14** | **Native sulfur** (brimstone) | **Mark ✓ d1597** | **Kisecik ~14 km NW** · Amanus toe | **Chem · Sulfur** | **SULFUR-MARK-1A outcrop · 1B solfataric seep · collect defer** |
+| **M-12** | **Nitrate** (efflorescence) | **Collect ✓ · purify ✓ · mix ✓ d1609** | Limestone · manure · bird cliff | **Chem · Saltpeter · Gunpowder** | **~429 g crystal @ v1 CHEM · FIRECRACKER-PROOF-1 ✓ · bird cliff defer** |
+| **M-14** | **Native sulfur** (brimstone) | **Collect ✓ · road ✓ d1611** | **Kisecik ~14 km NW** · Amanus toe | **Chem · Sulfur · Gunpowder** | **KISECIK-SULFUR-ROAD K-R0–K-R3 · K-R3 ~TQ 2.0 · 1-day grammar · Orontes direct ford = future** |
+| **M-15** | **Zinc** (sphalerite) · **lead** (Pb-class sulfides) | **Scout ✓ d1651 · modest sample ~2.8 kg** | **Kisecik ophiolite · quartz-sulfide veins @ ZN-PB-MARK-1A/1B ~200 m NE of M-14 1A** | **Brass horizon · bullets · pipe · alloy R&D** | **GEOLOGY-SLATE-REVISION-1634 · **sphalerite + galena-class confirmed d1651** · Ag sparse · K-R0–K-R3 ~TQ 2.5** |
+| **M-16** | **Silver** (galena/electrum class) | **Scout defer · far lap** | **Bolkardağ / Madenköy · north Tarsus** | **Coin · wire · chemistry** | **Main Ag horizon · closer gossans opportunistic only · Seyhan crossing = later expedition** |
 | **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓ Day 202** | **Iodine · Ash · Wrap** | Source site · **burned Day 288 → KELP-ASH-1** @ v1 |
 
 ---
@@ -87,8 +90,8 @@
 | **Soap (LYE-1)** | **✓ soap-grade** | Scale batches | **SOAP-1 ✓** |
 | **Glass** | **Quartz + coast sand ✓** | Furnace > copper routine | **KELP-ASH-1 ✓** · melt Year 2 |
 | **Alum (M-11)** | **✓ mark Day 200** | Purification · mordant | Cliff mark @ **COAST-SITE-1** |
-| **Nitrates (M-12)** | **✓ mark Day 203 · collect d1595** | Saltpeter collect | **~310 g crude @ v1 CHEM · 1A/1B scraped** |
-| **Sulfur (M-14)** | **✓ mark d1597** | Native brimstone collect | **SULFUR-MARK-1A/1B @ Kisecik ~14 km NW** |
+| **Nitrates (M-12)** | **✓ collect · purify · mix d1609** | Gunpowder proof | **~429 g crystal @ v1 CHEM · crude spent · 75:15:10 mix** |
+| **Sulfur (M-14)** | **✓ collect · grind · mix d1609** | Fine flour · proof | **~548 g fine + ~2.2 kg block · FIRECRACKER-PROOF-1 ✓** |
 | **Kelp (M-13)** | **✓ COAST-1** | Ash · iodine | **→ KELP-ASH-1 Day 288** |
 
 **Copper smelt on hold** · **O-1 ~12.5 kg** · **O-IRON-1 ~1.8 kg** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.

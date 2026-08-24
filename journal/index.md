@@ -1402,7 +1402,7 @@
 | 1397 | [day-1397.md](days/year-004/week-200/day-1397.md) | **RETURN-HOME ✓ · leg 3 slate · refill queued d1398** | **Cal-Y5 D65** |
 | 1398 | [day-1398.md](days/year-004/week-200/day-1398.md) | **BRIDGE-REFILL ✓ · RESERVE-4 + FILL-4 @ horreum B · WOAD sow ~d1399** | **Cal-Y5 D66** |
 | 1399 | [day-1399.md](days/year-004/week-200/day-1399.md) | **WOAD-SEED-SOW ✓ · Bed D margin ~15 g · frost gate · scare-only** | **Cal-Y5 D67** |
-| 1400 | [day-1400.md](days/year-004/week-200/day-1400.md) | **Scare loop · Centadial 14** | **WOAD watch d1 · [Centadial 14](summaries/centadial-014.md) · Cal-Y5 D68** |
+| 1400 | [day-1400.md](days/year-004/week-200/day-1400.md) | **SPRING-SOW-Y5 ✓ · WOAD watch d1 · Centadial 14** | **Cal-Y5 D68 · [Centadial 14](summaries/centadial-014.md)** |
 | 1401 | [day-1401.md](days/year-004/week-201/day-1401.md) | **Week 201 open · FARM-SCARE ✓ · BELEN-WAGON-REKIT ✓ · ~81 kg @ yard** | **Cal-Y5 D69** |
 | 1402 | [day-1402.md](days/year-004/week-201/day-1402.md) | **BELEN-STRING-SCOUT ✓ · approach bridge @ B queued · leg 4 slate · camp west terrace** | **Cal-Y5 D70** |
 | 1403 | [day-1403.md](days/year-004/week-201/day-1403.md) | **BELEN-APPROACH-1-BRIDGE ✓ · ISK-COAST-SCOUT ✓ · leg 4 close · line map · stock ×0** | **Cal-Y5 D71** |
@@ -1598,6 +1598,98 @@
 | 1596 | [day-1596.md](days/year-005/week-228/day-1596.md) | **M-G1-HAUL ✓ · ~6.5 kg O-1 reseed · same-day return** | **Cal-Y5 D264** |
 | 1597 | [day-1597.md](days/year-005/week-229/day-1597.md) | **SULFUR-SCOUT-1 ✓ · KISECIK-MARK · M-14 · Week 229 open** | **Cal-Y5 D265** |
 | 1598 | [day-1598.md](days/year-005/week-229/day-1598.md) | **BRONZE-CAST-PREP ✓ · CART-HUB-BRONZE-BUSH ×2 ✓ · from stock** | **Cal-Y5 D266** |
+| 1599 | [day-1599.md](days/year-005/week-229/day-1599.md) | **BRONZE-CAST-2 ✓ · shopping list close · open-sand doctrine** | **Cal-Y5 D267** |
+| 1600 | [day-1600.md](days/year-005/week-229/day-1600.md) | **Fourth meh · Centadial 16** | **Sn ~193 g · bronze live · [Centadial 16](summaries/centadial-016.md) · Cal-Y5 D268** |
+| 1601 | [day-1601.md](days/year-005/week-229/day-1601.md) | **WOOD-HAUL ✓ · PIT-CHAR-DUAL ✓ · lane off RED** | **Cal-Y5 D269** |
+| 1602 | [day-1602.md](days/year-005/week-229/day-1602.md) | **WOOD-HAUL ✓ · 4 laps · pile 5 ~52 kg GREEN** | **Cal-Y5 D270** |
+| 1603 | [day-1603.md](days/year-005/week-229/day-1603.md) | **M-14-COLLECT ✓ · ~2.8 kg crude S @ v1 CHEM** | **Cal-Y5 D271** |
+| 1604 | [day-1604.md](days/year-005/week-230/day-1604.md) | **M-12-COLLECT-2 ✓ · ~1.2 kg saltpeter · Week 230 open** | **Cal-Y5 D272** |
+| 1605 | [day-1605.md](days/year-005/week-230/day-1605.md) | **PIT-CHAR-DUAL ✓ · lane ~35 kg GREEN · second dual** | **Cal-Y5 D273** |
+| 1606 | [day-1606.md](days/year-005/week-230/day-1606.md) | **WOOD-HAUL ✓ · 4 laps · pile 5 ~52 kg GREEN** | **Cal-Y5 D274** |
+| 1607 | [day-1607.md](days/year-005/week-230/day-1607.md) | **PIT-CHAR-DUAL ✓ · lane ~49 kg GREEN · third dual** | **Cal-Y5 D275** |
+| 1608 | [day-1608.md](days/year-005/week-230/day-1608.md) | **M-12-PURIFY-1 ✓ · M-14-GRIND-1 ✓ · vault doctrine read** | **Cal-Y5 D276** |
+| 1609 | [day-1609.md](days/year-005/week-230/day-1609.md) | **GUNPOWDER-MIX-1 ✓ · FIRECRACKER-PROOF-1 ✓ · char reallocate** | **Cal-Y5 D277** |
+| 1610 | [day-1610.md](days/year-005/week-230/day-1610.md) | **EXPED-PREP ✓ · KISECIK-ROAD slate · Week 230 close** | **Cal-Y5 D278** |
+| 1611 | [day-1611.md](days/year-005/week-231/day-1611.md) | **KISECIK-ROAD-UPGRADE ✓ · K-R3 +4 WP · Week 231 open** | **Cal-Y5 D279** |
+| 1612 | [day-1612.md](days/year-005/week-231/day-1612.md) | **KOZAN-PREP ✓ · trail-first pack · 12-day slate** | **Cal-Y5 D280** |
+| 1613–1616 | [fast-string-outbound-1613-1616.md](days/year-005/week-231/fast-string-outbound-1613-1616.md) | **FAST-STRING 4D OUTBOUND ✓ · @ Kozan gate · day 4/12** | **Cal-Y5 D281–D284** |
+| 1617 | [day-1617.md](days/year-005/week-231/day-1617.md) | **KOZAN-KILN-FINISH ✓ · production-ready · KOZAN-HUT-SLATE filed** | **Cal-Y5 D285** |
+| 1618 | [day-1618.md](days/year-005/week-232/day-1618.md) | **TIN-HAUL-5 ✓ · path B ~2.2 kg · Week 232 open ✓** | **Cal-Y5 D286** |
+| 1619 | [day-1619.md](days/year-005/week-232/day-1619.md) | **KOZAN-TIN-SMELT ✓ · SN-INGOT-FIELD-1 ~95 g · field proven** | **Cal-Y5 D287** |
+| 1620 | [day-1620.md](days/year-005/week-232/day-1620.md) | **KOZAN-HUT socle ✓ · 12-day tin path win ✓ · buffer** | **Cal-Y5 D288** |
+| 1621–1624 | [fast-string-return-1621-1624.md](days/year-005/week-232/fast-string-return-1621-1624.md) | **FAST-STRING 4D RETURN ✓ · KOZAN-LONG 12D close ✓ · HOME** | **Cal-Y5 D289–D292** |
+| 1625 | [day-1625.md](days/year-005/week-233/day-1625.md) | **TQ-KIT-LOAD ✓ · REFILL-16 staged ✓ · Week 233 open ✓** | **Cal-Y5 D293** |
+| 1626 | [day-1626.md](days/year-005/week-233/day-1626.md) | **KISECIK-ROAD-TOUCH-2 ✓ · K-R1–K-R2 · haul-ready** | **Cal-Y5 D294** |
+| 1627 | [day-1627.md](days/year-005/week-233/day-1627.md) | **BLAST-TRIAL-1 ✓ · FIREWORK ✓ · Independence Day class** | **Cal-Y5 D295** |
+| 1628 | [day-1628.md](days/year-005/week-233/day-1628.md) | **METAL-SCOUT-PREP ✓ · 14-day slate · kits closed** | **Cal-Y5 D296** |
+| 1629 | [day-1629.md](days/year-005/week-233/day-1629.md) | **PAYAS-B-TOUCH ✓ · L10–L11 WORK · @ Belen · audit** | **Cal-Y5 D297** |
+| 1630 | [day-1630.md](days/year-005/week-233/day-1630.md) | **PAYAS-B-REINFORCE ✓ · hero @ PAYAS** | **Cal-Y5 D298** |
+| 1631 | [day-1631.md](days/year-005/week-233/day-1631.md) | **FAST-RETURN ✓ · HOME ✓ · TQ-EXPED close** | **Cal-Y5 D299** |
+| 1632 | [day-1632.md](days/year-005/week-234/day-1632.md) | **MAINT-RESTOCK ✓ · Week 234 open ✓ · Week 233 close ✓** | **Cal-Y5 D300** |
+| 1633 | [day-1633.md](days/year-005/week-234/day-1633.md) | **METAL-SCOUT-LOAD ✓ · ~88 kg lashed · depart runway ✓** | **Cal-Y5 D301** |
+| 1634–1637 | [fast-string-outbound-1634-1637.md](days/year-005/week-234/fast-string-outbound-1634-1637.md) | **FAST-STRING 4D OUT ✓ · KOZAN-INFRA lap · geology pivot ✓** | **Cal-Y5 D302–D305** |
+| 1638 | [day-1638.md](days/year-005/week-234/day-1638.md) | **KOZAN-HUT-WYTHE-1 ✓ · course 1 partial ~65%** | **Cal-Y5 D306** |
+| 1639 | [day-1639.md](days/year-005/week-235/day-1639.md) | **TIN-HAUL-6 ✓ · path B ~2.2 kg · Week 235 open ✓** | **Cal-Y5 D307** |
+| 1640 | [day-1640.md](days/year-005/week-235/day-1640.md) | **TIN-HAUL-7 ✓ · ore stockpile ~4.5 kg @ kiln · char retcon ✓** | **Cal-Y5 D308** |
+| 1641 | [day-1641.md](days/year-005/week-235/day-1641.md) | **TIN-HAUL-8 ✓ · stockpile ~6.7 kg · leave-bank doctrine ✓** | **Cal-Y5 D309** |
+| 1642 | [day-1642.md](days/year-005/week-235/day-1642.md) | **KOZAN-TIN-SMELT-BATCH ✓ · ~189 g Sn · 2-charge max** | **Cal-Y5 D310** |
+| 1643 | [day-1643.md](days/year-005/week-235/day-1643.md) | **HUT-AUDIT defer ✓ · TIN-HAUL-9 ✓ · 0 brick remain** | **Cal-Y5 D311** |
+| 1644 | [day-1644.md](days/year-005/week-235/day-1644.md) | **TURN-SOUTH ✓ · FAST-RETURN L1 ✓ · @ Ceyhan** | **Cal-Y5 D312** |
+| 1645 | [day-1645.md](days/year-005/week-235/day-1645.md) | **CEYHAN-WEST-SCOUT ✓ · ~8 km west · Ceyhan fringe day** | **Cal-Y5 D313** |
+| 1646–1648 | [fast-string-return-1646-1648.md](days/year-005/week-236/fast-string-return-1646-1648.md) | **FAST-STRING 3D RETURN ✓ · KOZAN-INFRA lap close ✓ · HOME · ~477 g Sn** | **Cal-Y5 D314–D316** |
+| 1649 | [day-1649.md](days/year-005/week-236/day-1649.md) | **CAMPUS-DAY ✓ · MAINT-RESTOCK ✓ · CART-AUDIT ✓ · FARM-SCARE ✓** | **Cal-Y5 D317** |
+| 1650 | [day-1650.md](days/year-005/week-236/day-1650.md) | **KISECIK-SCOUT-PREP ✓ · TQ-KIT-LOAD ✓ · ~52 kg · bridge defer** | **Cal-Y5 D318** |
+| 1651 | [day-1651.md](days/year-005/week-236/day-1651.md) | **K-R3-TOUCH-3 ✓ · ZN-PB scout ✓ · ~2.8 kg samples · @ fringe camp** | **Cal-Y5 D319** |
+| 1652 | [day-1652.md](days/year-005/week-236/day-1652.md) | **KISECIK-ZN-PB-RETURN ✓ · HOME ✓ · samples staged · 2D scout close ✓** | **Cal-Y5 D320** |
+| 1653 | [day-1653.md](days/year-005/week-237/day-1653.md) | **PB-PREP-SPRINT ✓ · double red ware · mask v1 · Week 237 open** | **Cal-Y5 D321** |
+| 1654 | [day-1654.md](days/year-005/week-237/day-1654.md) | **ZN-PB-ASSAY ✓ · PB-ROAST-TRIAL-1 ✓ · oxide cake · reduce defer** | **Cal-Y5 D322** |
+| 1655 | [day-1655.md](days/year-005/week-237/day-1655.md) | **HARVEST-PREP-DEFRAG ✓ · storage reorg ✓ · thresh refresh ✓ · ~65% prep** | **Cal-Y5 D323** |
+| 1656 | [day-1656.md](days/year-005/week-237/day-1656.md) | **FARM-READ ✓ · sickle dress ✓ · HARVEST-PREP ~90% · runbook filed** | **Cal-Y5 D324** |
+| 1657 | [day-1657.md](days/year-005/week-237/day-1657.md) | **PB-REDUCE ✓ ~92 g · ZN-ROAST ✓ ~34 g ZnO · forge day close** | **Cal-Y5 D325** |
+| 1658 | [day-1658.md](days/year-005/week-237/day-1658.md) | **BRASS-CEMENTATION ✓ ~41 g · coat navy enrich ✓ · woad refresh ✓** | **Cal-Y5 D326** |
+| 1659 | [day-1659.md](days/year-005/week-237/day-1659.md) | **CLAY-GATE ✓ · STORAGE-JAR-SPRINT D1 · ×10 green · coat deploy ✓** | **Cal-Y5 D327** |
+| 1660 | [day-1660.md](days/year-005/week-238/day-1660.md) | **WEEK-238-OPEN ✓ · HAUL-CLAY ✓ · pile 1 ~43 kg GREEN** | **Cal-Y5 D328** |
+| 1661 | [day-1661.md](days/year-005/week-238/day-1661.md) | **STORAGE-JAR-SPRINT D2 ✓ · AMPHORA-5 close ✓ · fire queue staged** | **Cal-Y5 D329** |
+| 1662 | [day-1662.md](days/year-005/week-238/day-1662.md) | **M-G1-HAUL ✓ ~19.5 kg · O-1 ~25.5 kg · pot fire defer** | **Cal-Y5 D330** |
+| 1663 | [day-1663.md](days/year-005/week-238/day-1663.md) | **POT-FIRE-SPRINT ✓ 11/11 · STORAGE-JAR-SPRINT CLOSE ✓** | **Cal-Y5 D331** |
+| 1664 | [day-1664.md](days/year-005/week-238/day-1664.md) | **KISECIK-COLLECT D1 ✓ · depart · ~12.9 kg ore · fringe camp** | **Cal-Y5 D332** |
+| 1665 | [day-1665.md](days/year-005/week-238/day-1665.md) | **KISECIK-COLLECT D2 ✓ · CART-FILL ✓ ~49 kg ore** | **Cal-Y5 D333** |
+| 1666 | [day-1666.md](days/year-005/week-238/day-1666.md) | **KISECIK-RETURN ✓ · unload ✓ · 3-day lap close · Week 238 close** | **Cal-Y5 D334** |
+| 1667 | [day-1667.md](days/year-005/week-239/day-1667.md) | **CINNABAR-SCOUT-1 ✓ · MARK-1A ✓ · Week 239 open** | **Cal-Y5 D335** |
+| 1668 | [day-1668.md](days/year-005/week-239/day-1668.md) | **CINNABAR-COLLECT D1 ✓ · ~17 kg ore · fringe camp** | **Cal-Y5 D336** |
+| 1669 | [day-1669.md](days/year-005/week-239/day-1669.md) | **CINNABAR-COLLECT D2 ✓ · ~35.9 kg stock · 2-day close ✓** | **Cal-Y5 D337** |
+| 1670 | [day-1670.md](days/year-005/week-239/day-1670.md) | **M-12-MARGIN-COLLECT ✓ · ~1.63 kg crude · NITRATE-MARK-1C ✓** | **Cal-Y5 D338** |
+| 1671 | [day-1671.md](days/year-005/week-239/day-1671.md) | **CU-SMELT-BATCH ✓ · 3-charge · ~1.33 kg Cu · char lane fat** | **Cal-Y5 D339** |
+| 1672 | [day-1672.md](days/year-005/week-239/day-1672.md) | **PB-FORGE-DAY ✓ · ~1.07 kg Pb · ~12.2 kg galena remain** | **Cal-Y5 D340** |
+| 1673 | [day-1673.md](days/year-005/week-239/day-1673.md) | **ZN-FORGE-DAY ✓ · ~1.11 kg ZnO · Week 239 close** | **Cal-Y5 D341** |
+| 1674 | [day-1674.md](days/year-005/week-240/day-1674.md) | **WEEK-240-OPEN ✓ · PIT-CHAR-DUAL ✓ · FARM-READ-MAINT ✓** | **Cal-Y5 D342** |
+| 1675 | [day-1675.md](days/year-005/week-240/day-1675.md) | **NORTH-PASSAGE-ROOF-MAT-AUDIT ✓ · SR-BEAM ✓ · SR-COVER-D1 ~67%** | **Cal-Y5 D343** |
+| 1676 | [day-1676.md](days/year-005/week-240/day-1676.md) | **NORTH-PASSAGE-SR-COVER-D2 ✓ · DRIP PASS · SR-COVER-1 ✓** | **Cal-Y5 D344** |
+| 1677 | [day-1677.md](days/year-005/week-240/day-1677.md) | **WOOD-HAUL ✓ · pile 5 ~46 kg GREEN · forge margin restored** | **Cal-Y5 D345** |
+| 1678 | [day-1678.md](days/year-005/week-240/day-1678.md) | **PIT-CHAR-DUAL ✓ · FARM-SCARE ✓ · lane ~56 kg** | **Cal-Y5 D346** |
+| 1679 | [day-1679.md](days/year-005/week-240/day-1679.md) | **DOMUS-AWNING-MAT-AUDIT ✓ · CULINA-AWNING-1 ✓ · 1/6** | **Cal-Y5 D347** |
+| 1680 | [day-1680.md](days/year-005/week-240/day-1680.md) | **WEST-CUB-AWNING-1 ✓ · YELLOW-GO-READ ✓ · 2/6** | **Cal-Y5 D348** |
+| 1681 | [day-1681.md](days/year-005/week-241/day-1681.md) | **WEEK-241-OPEN ✓ · EAST-CUB-AWNING-1 ✓ · 3/6** | **Cal-Y5 D349** |
+| 1682 | [day-1682.md](days/year-005/week-241/day-1682.md) | **VESTIARIUM-AWNING-1 ✓ · 4/6 · harvest ~2 d** | **Cal-Y5 D350** |
+| 1683 | [day-1683.md](days/year-005/week-241/day-1683.md) | **FRIGIDARIUM-EAST-AWNING-1 ✓ · 5/6 · harvest ~1 d** | **Cal-Y5 D351** |
+| 1684 | [day-1684.md](days/year-005/week-241/day-1684.md) | **TEPIDARIUM-AWNING-1 ✓ · AWNING-SET weave ✓ · HARVEST-EVE** | **Cal-Y5 D352** |
+| 1685 | [day-1685.md](days/year-005/week-241/day-1685.md) | **EMMER-Y5-HARVEST ✓ · HARVEST-BLOCK-OPEN · ~2.02 kg** | **Cal-Y5 D353** |
+| 1686 | [day-1686.md](days/year-005/week-241/day-1686.md) | **P-18-Y5 + P-17-Y5 harvest ✓ · pulse bays filled** | **Cal-Y5 D354** |
+| 1687 | [day-1687.md](days/year-005/week-241/day-1687.md) | **MADDER-DIG-Y5 ✓ · ~129 g dry · post harvest block** | **Cal-Y5 D355** |
+| 1688 | [day-1688.md](days/year-005/week-242/day-1688.md) | **WEEK-242-OPEN ✓ · FLAX-PULL-Y5 ✓ · P-RETT-8 ✓** | **Cal-Y5 D356** |
+| 1689 | [day-1689.md](days/year-005/week-242/day-1689.md) | **FORAGE-LAP-1689 ✓ · herbs · grape · snail · kitchen queued** | **Cal-Y5 D357** |
+| 1690 | [day-1690.md](days/year-005/week-242/day-1690.md) | **SHELF-LIFE-SPRINT-1690 ✓ · Y5 stew · parched · herb slate** | **Cal-Y5 D358** |
+| 1691 | [day-1691.md](days/year-005/week-242/day-1691.md) | **ROSEMARY-SCOUT-1691 ✓ · P-21a · transplant · seed** | **Cal-Y5 D359** |
+| 1692 | [day-1692.md](days/year-005/week-242/day-1692.md) | **DOMUS-AWNING-STRIPE-DYE-1 ✓ · 6/6 madder stripe** | **Cal-Y5 D360** |
+| 1693 | [day-1693.md](days/year-005/week-242/day-1693.md) | **DOMUS-AWNING-MOUNT-1693 ✓ · 6/6 live · shade PASS** | **Cal-Y5 D361** |
+| 1694 | [day-1694.md](days/year-005/week-242/day-1694.md) | **YULE-DECOR-PREP-1694 ✓ · SUN-CAL sync · Week 242 close** | **Cal-Y5 D362** |
+| 1695 | [day-1695.md](days/year-005/week-243/day-1695.md) | **YULE-TREE-DRESS-1695 ✓ · GREGORIAN-SOLSTICE-SYNC ✓ · Week 243 open** | **Cal-Y5 D363 · 19 Dec** |
+| 1696 | [day-1696.md](days/year-005/week-243/day-1696.md) | **FEAST-PREP-1696 ✓ · YULE-BENCH-5 staged · MUS-1 lyre ✓** | **Cal-Y5 D364 · 20 Dec** |
+| 1697 | [day-1697.md](days/year-005/week-243/day-1697.md) | **FEAST-YULE-1697 ✓ · BOW-HUNT goose ✓ · SUN-YULE-1697 ✓ · Cal-Y5 close** | **Cal-Y5 D365 · 21 Dec** |
+| 1698 | [day-1698.md](days/year-005/week-243/day-1698.md) | **ART-SPRINT-1698 ✓ · palette · paint cakes · ANIMAL-CARE-QUEUE ✓ · Cal-Y6 open** | **Cal-Y6 D1 · 22 Dec** |
+| 1699 | [day-1699.md](days/year-005/week-243/day-1699.md) | **EASEL-1 ✓ · CRAFT-STOOL-1 ✓ @ M2 WORK south · CHAIR queued** | **Cal-Y6 D2 · 23 Dec** |
+| 1700 | [day-1700.md](days/year-005/week-243/day-1700.md) | **P-RETT-8-PULL ✓ · PAINT-CANVAS-1 ✓ · first study @ EASEL-1** | **Cal-Y6 D3 · 24 Dec** |
+| 1701 | [day-1701.md](days/year-005/week-243/day-1701.md) | **FLAX-BREAK-8 ✓ · PAINT-STUDY-2 ✓ · Week 243 close** | **Cal-Y6 D4 · 25 Dec** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1619,6 +1711,7 @@
 | **13** | 1201–1300 | [centadial-013.md](summaries/centadial-013.md) |
 | **14** | 1301–1400 | [centadial-014.md](summaries/centadial-014.md) |
 | **15** | 1401–1500 | [centadial-015.md](summaries/centadial-015.md) |
+| **16** | 1501–1600 | [centadial-016.md](summaries/centadial-016.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

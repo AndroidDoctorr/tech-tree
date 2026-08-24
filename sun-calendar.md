@@ -1,6 +1,6 @@
 # Solar calendar — SUN-CAL-1
 
-*Last updated: **Day 1004** (~10,000 BC) · **Cal-Y4 D37** · **SUN-CAL-YEARLY-WINDOWS ✓***  
+*Last updated: **Day 1701** (~10,000 BC) · **Cal-Y6 D4** · **Week 243 closed**  
 **Site:** **C-0** courtyard · **~12 m S of H-v2** · sight hole **~15 cm Ø** @ south wall  
 **Built:** **SUN-CAL-1 v1 ✓ Day 195** · **SUN-CAL-YEAR ✓ Day 239** · **Yearly windows ✓ Day 1004**
 
@@ -37,7 +37,31 @@ You do **not** need perfect daily marks — **interpolate** between anchors when
 | **Calendar Year 1** | **1–237** — closes **@ feast eve (Day 237)** |
 | **Calendar Year 2+** | Begins **day after feast** — **Day 238 = Cal-Y2 D1** |
 | **Dual date** | Journal **Day N** · **Cal-Y2 D(N−237)** for N ≥ 238 |
-| **YULE / Christmas** | **Day 237** — **FEAST-237** · **WINTER-TREE-1** · **YULE-BENCH-1** benchmark |
+| **YULE / feast** | **Day 237** — **FEAST-237** · **WINTER-TREE-1** · **YULE-BENCH-1** benchmark · **on winter solstice — not 25 Dec** |
+
+---
+
+## Gregorian overlay *(immortal player ledger · Day 1695)*
+
+**Authority remains SUN-CAL noon marks.** Gregorian dates are a **parallel ledger** for modern recall and leap-year bookkeeping — **never** for feast timing.
+
+| Anchor | Cal-Y D | Gregorian |
+|--------|---------|-----------|
+| **Winter solstice · Yule · FEAST** | **D365** | **21 December** @ ground **46** · wall **42** |
+| **Summer solstice** | **D182** | **21 June** @ ground **~535** · wall **~531** class |
+| **Cal-Y opens** | **D1** | **22 December** (day after prior Yule) |
+
+**Mapping:** `Gregorian = 22 Dec (prior year) + (Cal-D − 1) days`
+
+**Cal-Y5 runway (verified):**
+
+| Cal-D | Day | Gregorian |
+|-------|-----|-----------|
+| D363 | 1695 | **19 December** |
+| D364 | 1696 | **20 December** |
+| **D365** | **1697** | **21 December · Yule** |
+
+**Leap catch-up:** One missing **29 Feb** owed on player ledger — insert **32 Dec** once **or** **29 Feb** on next leap year. **Solstice anchors do not move.** See [journal/retcons/GREGORIAN-SOLSTICE-SYNC-1695.md](journal/retcons/GREGORIAN-SOLSTICE-SYNC-1695.md).
 
 ---
 
@@ -237,6 +261,15 @@ Piecewise between anchors (linear segment):
 | **1013** | D46 | **93** | **90** | **SOW-PREP slate · farm walk · stake marks** |
 | **1014** | D47 | **94** | **91** | **BED-SCRATCH hero · sow-ready · mulch** |
 | **1015** | D48 | **95** | **92** | **KILN audit · light brick press · repair slate** |
+
+**Y5 logged anchors:**
+
+| Day | Cal-Y5 | Ground | Wall | Notes |
+|-----|--------|--------|------|-------|
+| **1694** | D362 | **~118** | **~114** | **YULE-DECOR-PREP · 3 Cal-d to ring · feast locked d1697** |
+| **1695** | D363 | **~116** | **~112** | **YULE-TREE-DRESS · GREGORIAN-SOLSTICE-SYNC · 19 Dec · 2 Cal-d to ring** |
+| **1696** | D364 | **~114** | **~110** | **FEAST-PREP · YULE-BENCH-5 staged · 20 Dec · 1 Cal-d to ring** |
+| **1697** | D365 | **46** | **42** | **FEAST-YULE-1697 · BOW-HUNT-1697 · SUN-YULE-1697 · 21 Dec · Cal-Y5 close ✓** |
 
 ---
 

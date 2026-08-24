@@ -620,7 +620,7 @@
 | **CART-IRON-1** (hub collar tubes · bed iron) | **✓ Day 628** · **hub pair + CART-BED-IRON-1** |
 | **Tin** scout (**cassiterite**) | **TIN-SMELT-TRIAL-1+2 ✓ · Sn → BRONZE-TRIAL-1 ✓ d1526** |
 | **Bronze** alloy | **✓ BRONZE-TRIAL-1 d1526 · ~10% Sn · ~1.65 kg stock @ tray** |
-| **Bronze tools** (edge · socket · cart wear) | **BRONZE-BUSH-TRIP-1 ×2 @ WW-1 pivot d1526 · CART-HUB-BRONZE-BUSH ×2 d1598 · ~1.33 kg cast stock remain**
+| **Bronze tools** (edge · socket · cart · belt wear) | **CART-HUB-BRONZE-BUSH ×2 d1598 · TRIP spare ×2 · pulley washers ×7 · drawplate insert d1599 · ~0.97 kg stock**
 | **Iron spear tip / contact weapon** | · after axe · optional |
 | **Copper farm tools** (hoe · awl) | ✓ **CU-HOE-1 Day 247** |
 | **Steel** (case / pack class) | · **STEEL-PACK-1 → STEEL-CASE-1** |
@@ -692,11 +692,12 @@
 | **Alum** source | ✓ **~1.75 kg crude + ~165 g purified** |
 | **Alum** purified · mordant use | ~ **ALUM-PURIFY-1 ✓ Day 382** |
 | **Nitrate** source marked **M-12** | ✓ **NITRATE-MARK-1A/1B Day 203** |
-| **Saltpeter** collect · store | · |
-| **Nitrates** (manure saltpeter · fertilizer) | · |
-| **Nitrates** (powder / mining chemistry) | · Year 2–3+ |
-| **Sphalerite / zinc** **SPH-1** mark | **✓ marked · ZINC-SPH-HORIZON-1526 · Taurus corridor scout queued** |
-| **Zinc metal** · **voltaic pile** | · **w/ SPH-1 + lead path · Year 5+ horizon** |
+| **Saltpeter** collect · store | ✓ **M-12 collect d1595/d1604 · purify d1608–1609 · ~429 g crystal** |
+| **Nitrates** (manure saltpeter · fertilizer) | ✓ **campus 1A/1B cycle** |
+| **Nitrates** (powder / mining chemistry) | ✓ **GUNPOWDER-PROOF-1 Day 1609 · blast/mining/musket path open · scale defer** |
+| **Sphalerite / zinc** **SPH-1** mark | **✓ marked · Kisecik confirmed d1651 · **ZN-ROAST-TRIAL-1 ✓ d1657 · ZnO proved** · metallic Zn defer** |
+| **Lead metal · galena path** | **✓ **PB-STOCK-1 ~92 g @ HOME d1657** · Kisecik galena route · reduce grammar live** |
+| **Brass · cementation** | **✓ **BRASS-STOCK-1 ~41 g @ HOME d1658** · Kisecik ZnO → cementation proved · scale defer** |
 | **Glass** melt + anneal | **TRIAL-3 washed bead Day 395** · **ANNEAL-1 ✓** · marginal temp |
 | **GLASS-PRACTICE-1** (bead · fisheye · coast/local blend) | ~ **trial cadence** · **KILN-C-UPGRADE-1** before vessels |
 | **Glass vessels / optics** | · dedicated furnace window · not peripheral Kiln C |

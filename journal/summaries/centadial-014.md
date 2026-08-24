@@ -9,7 +9,7 @@
 
 ## One paragraph
 
-The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk north looking for tin**: you **spun the thread bank**, **reaped EMMER-Y4 (~2.05 kg)** and **P-18**, **audited the larder**, **weathertighted MILLHOUSE-2** and **migrated Phase 1 into a live west-leg shop**, **built PEN-EXT**, then **feasted** (**PLATE-HARVEST · FEAST-YULE-1332 · goose · Cal-Y5**). After Yule you **spent the linen clock** — **socks · boxers · jeans ×2 · tie-dye tunics · domus rugs · naval coat · curtains 4/4 · TENT-2 rain PASS** — **max-hauled ice (~63.6 kg, not a thin year)**, **kit-trained the team**, and **opened ORE-TRIP Route A**: **Karasu tribs · Asi bridge · Afrin · Kirikhan split west**. Day 1399 **sowed WOAD**. Day 1400 is a **scare loop**. You are **not** on bronze (**tin still a Cilician horizon**). You **are** on a **fourth harvest in the horreum**, a **new millhouse**, a **wardrobe that looks like a decision**, **ice that will last**, and a **wagon road with four bridges already behind it** — the first century where **the villa is finished enough to leave, and leaving is the point**.
+The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk north looking for tin**: you **spun the thread bank**, **reaped EMMER-Y4 (~2.05 kg)** and **P-18**, **audited the larder**, **weathertighted MILLHOUSE-2** and **migrated Phase 1 into a live west-leg shop**, **built PEN-EXT**, then **feasted** (**PLATE-HARVEST · FEAST-YULE-1332 · goose · Cal-Y5**). After Yule you **spent the linen clock** — **socks · boxers · jeans ×2 · tie-dye tunics · domus rugs · naval coat · curtains 4/4 · TENT-2 rain PASS** — **max-hauled ice (~63.6 kg, not a thin year)**, **kit-trained the team**, and **opened ORE-TRIP Route A**: **Karasu tribs · Asi bridge · Afrin · Kirikhan split west**. Day 1399 **sowed WOAD**. Day 1400 **sowed Y5 grain and pulse** (**SPRING-SOW-Y5**) and closed on the **scare loop**. You are **not** on bronze (**tin still a Cilician horizon**). You **are** on a **fourth harvest in the horreum**, a **new millhouse**, a **wardrobe that looks like a decision**, **ice that will last**, **Y5 crops in the ground**, and a **wagon road with four bridges already behind it** — the first century where **the villa is finished enough to leave, and leaving is the point**.
 
 ---
 
@@ -21,7 +21,7 @@ The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk nor
 | **Respawn** | **C-0 west cubiculum PROPER-BED-1** · night #1344 |
 | **Calendar** | **Cal-Y5 D68** · **frost-gate spring** · **SUN 542 / 539** |
 | **Ice** | **~63.6 kg @ COOL-CELLAR** — **ICE-MAX-HAUL-Y5 ✓** |
-| **Farm** | **Y4 harvest in** · **WOAD sown d1399** · scare-only GREEN · cotyledon **~d1410+** |
+| **Farm** | **Y4 harvest in** · **SPRING-SOW-Y5 ✓ d1400** · **WOAD sown d1399** · scare-only GREEN · cotyledon **~d1410+** |
 | **Grain** | **EMMER-Y4 bay** · parched Y4 · elites @ vault |
 | **MILLHOUSE-2** | **✓ LIVE** · Phase 1 demo · west-leg shop |
 | **Pen** | **PEN-EXT ✓** · daub closed |
@@ -79,7 +79,7 @@ The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk nor
 | **Belen / Isk / coast string** | **Queued** · Day 1400 chose scare over the next lash |
 | **H-11 restock** | **~12.3 kg** — four centuries thin if you count from the head |
 | **Honey** | Hive live · **year-one hands-off through a second winter** |
-| **Y5 grain sow named close** | Stands in beds · **WOAD is the logged frost-gate hero** |
+| **Y5 grain sow named close** | **SPRING-SOW-Y5 ✓ @ Day 1400** · emmer · lentil · flax · chickpea in beds |
 | **Horse / boat / sail** | Still horizon · road is wagons and bridges |
 | **LOOM-WING as a building** | Millhouse live · dedicated linen wing still a name |
 
@@ -108,7 +108,7 @@ The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk nor
 | **BRIDGE-KIT · TEAM-TRAIN-4** | Days 1373–1374 |
 | **ICE-MAX-HAUL-Y5 ✓ ~63.6 kg** | Days 1380–1381 |
 | **ASI · AFRIN · KIRIKHAN bridges · legs 0–3** | Days 1384–1396 |
-| **WOAD-SEED-SOW ✓ · Centadial 14** | Days 1399–1400 |
+| **WOAD-SEED-SOW ✓ · SPRING-SOW-Y5 ✓ · Centadial 14** | Days 1399–1400 |
 
 ---
 
@@ -171,13 +171,13 @@ The fourteenth hundred days **cut the grain, close Calendar Year 4, and walk nor
 | **197** | **Bridge kit · train-4 · ice prep** |
 | **198** | **Ice max · trib · Asi · Afrin start** |
 | **199** | **Refill cycles · Afrin close · lime/stone** |
-| **200** | **Kirikhan · WOAD sow · scare @ Day 1400** |
+| **200** | **Kirikhan · WOAD sow d1399 · SPRING-SOW-Y5 d1400 · scare @ Day 1400** |
 
 ---
 
 ## On playing one day at a time
 
-Centadial 14 is the century of **keeping two clocks honest at once**: you did not skip **Yule** for a road, and you did not skip **WOAD** for Belen. Day 1309 (**the cut**) and Day 1381 (**the ice you actually maxed**) are the two character beats — **the farm still wins autumn**, then **winter is a cellar, not a shrug**. Day 1400 is quieter on purpose: **one streamer reset**, **no cotyledon yet**, **bridge stock on the shelf**. The fun at Day 1400 is that **200 weeks** looks like a farm Tuesday, with **Cilicia still ahead** and the wagon already knowing how to come home empty. **Day 1401 is Belen, or another scare — your call, both legal.**
+Centadial 14 is the century of **keeping two clocks honest at once**: you did not skip **Yule** for a road, and you did not skip **WOAD** for Belen. Day 1309 (**the cut**) and Day 1381 (**the ice you actually maxed**) are the two character beats — **the farm still wins autumn**, then **winter is a cellar, not a shrug**. Day 1400 is **frost-gate sow day two**: **SPRING-SOW-Y5** lands emmer, lentil, flax, and chickpea in Bed A/B, then the **scare loop** takes over — **one streamer reset**, **WOAD cotyledon not yet**, **bridge stock on the shelf**. The fun at Day 1400 is that **200 weeks** looks like a farm Tuesday with **seed in the ground**, **Cilicia still ahead**, and the wagon already knowing how to come home empty. **Day 1401 is Belen, or another scare — your call, both legal.**
 
 ---
 
@@ -188,7 +188,7 @@ Centadial 14 is the century of **keeping two clocks honest at once**: you did no
 3. **Tin geography** — Kozan camp still the named target · do not pretend Kirikhan is ore  
 4. **H-11 restock** — still owed when the road breathes  
 5. **Honey** — year-two window if the hive holds  
-6. **Y5 grain volume** — frost-gate stands · harvest is next autumn  
+6. **Y5 grain volume** — **sown d1400** · harvest **d1685–1686 ✓** (see [retcon](../retcons/RETCON-Y5-SOW-HARVEST.md) if audit needed)  
 7. **FEAST-Y5 ~d1697 class** — long clock  
 8. **Horse / boat / bronze** — bronze needs the metal; the rest wait on the road  
 

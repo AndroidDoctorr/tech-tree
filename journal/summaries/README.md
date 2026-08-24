@@ -22,6 +22,7 @@ Rollups and benchmarks — not day-by-day logs.
 | **13** | 1201–1300 | [centadial-013.md](centadial-013.md) |
 | **14** | 1301–1400 | [centadial-014.md](centadial-014.md) |
 | **15** | 1401–1500 | [centadial-015.md](centadial-015.md) |
+| **16** | 1501–1600 | [centadial-016.md](centadial-016.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

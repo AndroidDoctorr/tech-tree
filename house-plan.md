@@ -280,7 +280,7 @@
 
 | Deliverable | ID |
 |-------------|-----|
-| Colonnade complete | **COLONNADE-RING-1** | **✓ 100% d1246** — **N+S+E+W court beamed+leaned ✓ · stub half-col tied ✓ · H-V3-NORTH-TIE open passage ✓ · SR cover defer · SC-NP-07 ghost optional**
+| Colonnade complete | **COLONNADE-RING-1** | **✓ 100% d1246** — **N+S+E+W court beamed+leaned ✓ · stub half-col tied ✓ · H-V3-NORTH-TIE open passage ✓ · SR cover ✓ d1676 · SC-NP-07 ghost optional**
 | North tie / horreum grammar | **H-V3-NORTH-TIE-1** |
 | Interior plaster | **H-V3-PLASTER-1** | **✓ d1253** — **COMPOUND-PLASTER-1 closed · temp panels off · court open · compound ~99%**
 | H-v2 → **store mode** formalized | **H-V2-STORE-1** | **✓ d1254 — horreum A/B/C LIVE · domus north range · doctrine @ kitchen + C-0**
@@ -401,7 +401,7 @@
 ## Open decisions *(stake day)*
 
 - [ ] **Impluvium** — shallow pool vs **drain only** *(✓ drain-only default filed d1099 · pool defer)*
-- [x] **North tie** — **open colonnade passage ✓ d1246 · H-V3-NORTH-TIE-1 · SR covered option defer**
+- [x] **North tie** — **open colonnade passage ✓ d1246 · H-V3-NORTH-TIE-1 · SR cover ✓ d1676 · SC-NP-07 ghost optional**
 - [ ] **SOIL-PIT-1** exact margin site — fall · distance from well/aqueduct
 - [ ] **Hypocaust** under cubicula — **defer yes/no**
 

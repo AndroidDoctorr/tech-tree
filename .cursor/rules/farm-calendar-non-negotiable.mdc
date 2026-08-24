@@ -1,0 +1,25 @@
+---
+description: Farm sow and harvest are non-negotiable calendar events — never skip or proceed past them without a hero log
+globs: journal/**/*.md
+alwaysApply: true
+---
+
+# Farm calendar — sow and harvest are mandatory
+
+When playing the tech-tree journal campaign:
+
+## Non-negotiable events
+
+1. **SPRING-SOW** — Must be hero-logged in the journal when frost gate opens (Cal-Y*n* D67 class, ~Days 1399–1417 band in Y5). Beds are **not** fallow after sow until harvest cut.
+2. **HARVEST-BLOCK** — When prep, `YELLOW-GO-READ`, or D341/D342 calendar slot is live, field read must show **standing crop**. If infra is staged but beds are empty, **STOP** — do not file NO-GO without player confirmation; check for missing sow retcon first.
+3. **Pulse/grain harvest** — Follow Y4 grammar (emmer day 1 · pulse day 2) unless player names otherwise.
+
+## Before closing any farm-related day
+
+- Verify bed status in `inventory.md` matches last sow/harvest hero log.
+- If expedition days interleave with sow window, still log **SPRING-SOW** on the frost-gate HOME day (may be combined with scare/WOAD watch).
+- Never describe beds as "fallow post Y4" after spring sow without an explicit failed crop or cut complete log.
+
+## If continuity breaks
+
+- File retcon in `journal/retcons/` and patch the sow day + harvest days — do not let the game proceed on empty beds when prep was done for grain.
