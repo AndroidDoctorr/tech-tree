@@ -4,7 +4,7 @@
 **Home:** **H-V3 west cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **Window seal close · optional hook/awning · farm clock D66–D67**
 
-**Status:** **OPEN @ Day 1759 · Cal-Y6 D62 · ~21 Feb · BC-1 · awning ~60% · sow ~5 d**
+**Status:** **CLOSED @ Day 1764 · Week 253 opens d1765 · SPRING-SOW-Y6 ✓**
 
 ---
 
@@ -23,6 +23,11 @@
 |-----|---------|
 | **1758** | **WEEK-252-OPEN ✓ · WINDOW-SEAL-V1 ✓ ×2 · PRE-SOW-5D-SLATE** |
 | **1759** | **BUILDING-CODE-1 ✓ · ATELIER-AWNING-S-1 ~60% · scare lap** |
+| **1760** | **ATELIER-DRAIN-AUDIT ✓ · AWNING-S ✓ · AWNING-W panel ~50% · BC-1 drain amend** |
+| **1761** | **WHEEL-SPIN-Y6-1 ✓ · THREAD-STOCK-2 ~48 m · line ~1.50 kg remain** |
+| **1762** | **ATELIER-AWNING-W-1 ✓ · SOW-CHECK ✓ · frost gate 1/2** |
+| **1763** | **FROST-GATE-Y6 ✓ · WOAD-MARGIN-READ ✓ · light watch** |
+| **1764** | **SPRING-SOW-Y6 ✓ · CULINA-HERB-SOW ✓ · beds live** |
 
 ---
 
@@ -46,8 +51,10 @@
 
 | System | Status |
 |--------|--------|
-| **Atelier** | **BC-1 ~85% · awning S ~60% · metal+glass side project** |
-| **Farm** | **Scare-only · ~5 d to D67 · WOAD ~D66** |
+| **Atelier** | **Drain ✓ · AWNING-S ✓ · AWNING-W ✓ blue/white @ west easel** |
+| **Farm** | **SPRING-SOW-Y6 ✓ d1764 · emmer · lentil · flax · chickpea · WOAD stand live · scare-only** |
+| **Herbs** | **CULINA-HERB-GARDEN ✓ sown d1764 · rosemary transplant live** |
+| **Textile** | **THREAD-STOCK-2 ~44 m · line ~1.50 kg · both awnings live** |
 | **Wood** | **Pile 5 ~12 kg** |
 | **BC-1** | **[building-code-1.md](../../building-code-1.md) · retrofit before new stakes** |
 | **Char** | **Lane ~53 kg** |

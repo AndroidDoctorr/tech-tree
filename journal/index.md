@@ -1748,6 +1748,22 @@
 | 1757 | [day-1757.md](days/year-005/week-251/day-1757.md) | **ATELIER-WINDOW W+S cut · mount · shutter · seal groove · strip defer** | **Cal-Y6 D60 · 19 Feb** |
 | 1758 | [day-1758.md](days/year-005/week-252/day-1758.md) | **WEEK-252-OPEN ✓ · WINDOW-SEAL-V1 ✓ · PRE-SOW-5D slate** | **Cal-Y6 D61 · 20 Feb** |
 | 1759 | [day-1759.md](days/year-005/week-252/day-1759.md) | **BUILDING-CODE-1 ✓ · ATELIER-AWNING-S ~60% · scare lap** | **Cal-Y6 D62 · 21 Feb** |
+| 1760 | [day-1760.md](days/year-005/week-252/day-1760.md) | **ATELIER-DRAIN-AUDIT ✓ · AWNING-S ✓ · AWNING-W weave ~50%** | **Cal-Y6 D63 · 22 Feb** |
+| 1761 | [day-1761.md](days/year-005/week-252/day-1761.md) | **WHEEL-SPIN-Y6-1 ✓ · thread ~48 m · scare lap** | **Cal-Y6 D64 · 23 Feb** |
+| 1762 | [day-1762.md](days/year-005/week-252/day-1762.md) | **ATELIER-AWNING-W-1 ✓ · SOW-CHECK ✓ · frost gate 1/2** | **Cal-Y6 D65 · 24 Feb** |
+| 1763 | [day-1763.md](days/year-005/week-252/day-1763.md) | **FROST-GATE-Y6 ✓ · WOAD-MARGIN-READ ✓ · light watch** | **Cal-Y6 D66 · 25 Feb** |
+| 1764 | [day-1764.md](days/year-005/week-252/day-1764.md) | **SPRING-SOW-Y6 ✓ · CULINA-HERB-SOW ✓ · beds live** | **Cal-Y6 D67 · 26 Feb** |
+| 1765 | [day-1765.md](days/year-005/week-253/day-1765.md) | **WEEK-253-OPEN ✓ · FARM-SURVEY-Y6 ✓ · FARM-PLAN-Y6 ✓** | **Cal-Y6 D68 · 27 Feb** |
+| 1766 | [day-1766.md](days/year-005/week-253/day-1766.md) | **BED-A-NORTH-RECLAIM ✓ · ~50 m² · CULINA-HERB-EXPAND ✓** | **Cal-Y6 D69 · 28 Feb** |
+| 1767 | [day-1767.md](days/year-005/week-253/day-1767.md) | **WHEEL-SPIN-Y6-2 ✓ · ~277 m · PAPER-LINE-RESERVE ~500 g** | **Cal-Y6 D70 · 1 Mar** |
+| 1768 | [day-1768.md](days/year-005/week-253/day-1768.md) | **ATELIER-AWNING-PORTICO-1 ✓ · CRAFT-WING-AWNING-SET ✓** | **Cal-Y6 D71 · 2 Mar** |
+| 1769 | [day-1769.md](days/year-005/week-253/day-1769.md) | **CAMPUS-LAMP-HOOK-NET ✓ ×6 · Stage 5 close** | **Cal-Y6 D72 · 3 Mar** |
+| 1770 | [day-1770.md](days/year-005/week-253/day-1770.md) | **WOOD-HAUL-1770 ✓ · CHAR-BANK-Y6 runway** | **Cal-Y6 D73 · 4 Mar** |
+| 1771 | [day-1771.md](days/year-005/week-253/day-1771.md) | **PIT-CHAR-DUAL-1771 ✓ · WEEK-253-CLOSE** | **Cal-Y6 D74 · 5 Mar** |
+| 1772 | [day-1772.md](days/year-005/week-254/day-1772.md) | **WEEK-254-OPEN ✓ · ATELIER-W glass batch ×4** | **Cal-Y6 D75 · 6 Mar** |
+| 1773 | [day-1773.md](days/year-005/week-254/day-1773.md) | **GP-1772 tap ×4 · ATELIER-W glass BATCH-2** | **Cal-Y6 D76 · 7 Mar** |
+| 1774 | [day-1774.md](days/year-005/week-254/day-1774.md) | **GREEN-LINE-READ ✓ · WOOD-HAUL-1774 ✓** | **Cal-Y6 D77 · 8 Mar** |
+| 1775 | [day-1775.md](days/year-005/week-254/day-1775.md) | **PIT-CHAR-DUAL-1775 ✓ · CHAR-UPGRADE-READ** | **Cal-Y6 D78 · 9 Mar** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

@@ -71,8 +71,8 @@
 | **2b** | **BRASS-DOOR-HARDWARE-1** *(d1749)* | **✓ ~95% d1749 — handle cast + mount · keeper · knuckle swap · latch PASS · iron retired** |
 | **2** | **DOOR-SEAL-1** | **✓ LIVE d1749 — slab · seal v0 · brass latch tune · east door close** |
 | **3** | **WINDOW-SHUTTER-1** *(d1758)* | **✓ ×2 sealed v1 · glass defer** |
-| **4** | **AWNING-1** | **ATELIER-AWNING-S-1 ~60% d1759 · finish d1760 · W face post-sow** |
-| **7** | **LAMP-HOOK-1** | **Ridge peg · OIL-LANTERN borrow or dedicated hang · ~½ d · off paint line** |
+| **4** | **AWNING-1** | **S ✓ d1760 reed · W ✓ d1762 stripe · P ✓ d1768 portico stripe** |
+| **7** | **LAMP-HOOK-1** | **✓ d1769 · CAMPUS-LAMP-HOOK-NET ×6 + defaults · portable doctrine** |
 | **5** | **INT-LIMEWHASH-1** | **✓ coat 1 d1742 — south + east full · north light pass · coat 2 optional post-ice** |
 | **6** | **RUG-LAY-1** *(d1755)* | **✓ ATELIER-RUG-1 ~81×55 cm natural @ south bench easel zone** |
 

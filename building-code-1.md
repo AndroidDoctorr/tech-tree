@@ -61,18 +61,30 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 | **Rug** | **Woven or approved mat** inside threshold *(not coir-only long-term @ clean bay)* |
 | **Drain** | Gravel scrape pad · pitch to drain lip |
 
+### Drainage *(filed d1760)*
+
+| Rule | Standard |
+|------|----------|
+| **Site drain** | **Graded swale or trench** off **every wing cheek** · **≥1–2% fall** to **ditch / D-1 / impluvium** — **no pond @ sill or socle** |
+| **Underfloor** | **Gravel + lime bed** must tie into site drain — **not blind basin** |
+| **Airlock pad** | **Gravel scrape + pitch out** @ portico/mudroom *(see Entry airlock)* |
+| **Spring test** | **Mandatory pour test** each **Cal-Y spring** *(pre-sow band OK)* — **×2 bucket @ lowest cheek + entry pad** · **clear <~2 min · no sill pond** |
+| **Maintenance** | **Scrape silt/leaf choke** · **repack gravel** · **widen trench** when test fails |
+
+**Atelier audit d1760:** **E swale belt bend scraped ✓ · pour PASS · recheck @ full spring thaw.**
+
 ---
 
-## Compliance snapshot *(Day 1759 · approximate)*
+## Compliance snapshot *(Day 1760 · approximate)*
 
-| Structure | Socle/floor | Brick | Roof | Windows | Door | Airlock | Limewash | Heat/vent |
-|-----------|-------------|-------|------|---------|------|---------|----------|-----------|
-| **Domus H-V3** | **✓** | **✓** | **✓ TR** | **Wood+glass partial · metal defer** | **Mixed** | **Porticus partial** | **✓** | **Hypocaust east · indirect** |
-| **Fabrica wings** | **✓** | **✓** | **✓ TR** | **Chem: wood · glass partial** | **Iron/brass mix** | **CHEM-AIRLOCK ✓** | **✓ chem** | **Vent hood ✓** |
-| **Atelier** | **✓** | **✓** | **✓ TR** | **Wood sealed v1 · metal+glass queued** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓** |
-| **W-1 shell** | **Partial** | **Wattle** | **✓ TR** | **N/A** | **N/A** | **N/A** | **Defer** | **N/A** |
+| Structure | Socle/floor | Brick | Roof | Drain | Windows | Door | Airlock | Limewash | Heat/vent |
+|-----------|-------------|-------|------|-------|---------|------|---------|----------|-----------|
+| **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **Wood+glass partial · metal defer** | **Mixed** | **Porticus partial** | **✓** | **Hypocaust east · indirect** |
+| **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem: wood · glass partial** | **Iron/brass mix** | **CHEM-AIRLOCK ✓** | **✓ chem** | **Vent hood ✓** |
+| **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **Wood sealed v1 · metal+glass queued** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓** |
+| **W-1 shell** | **Partial** | **Wattle** | **✓ TR** | **Partial · audit queued** | **N/A** | **N/A** | **N/A** | **Defer** | **N/A** |
 
-**Retrofit queue:** **WINDOW-UPGRADE-1** (metal + glass all buildings) · **PORTICO-RIGOR-1** (domus/fabrica entries) · **DOOR-BRASS-PASS-1** (remaining iron hinges).
+**Retrofit queue:** **WINDOW-UPGRADE-1** (metal + glass) · **PORTICO-RIGOR-1** · **DOOR-BRASS-PASS-1** · **BC-1-DRAIN-SPRING-1** *(all buildings · full thaw recheck)*.
 
 ---
 
@@ -82,7 +94,8 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 |------|-------|
 | **Metal frame** | **Strap iron casement · ~½–1 d/window · forge · reuses SEAL-GROOVE + reveal** · **not hard · char OK** |
 | **Glass panes** | **Harder clock — kiln block · GP pane class · mount + bead · 1–2 d/opening** |
-| **Order** | **Prototype @ Atelier W → S → chem-lab → domus culina grid** |
+| **Char bank** | **✓ d1770 CHAR-BANK-Y6-SLATE — pack lane+vault ~100+ kg before glass block heroes** |
+| **Order** | **Char bank sprint → prototype @ Atelier W → S → chem-lab → domus culina grid** |
 | **Interim** | **Wood + seal v1 + awning = BC-1 acceptable until upgrade hero** |
 
 ---

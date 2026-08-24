@@ -4,7 +4,7 @@
 
 **Pile key (camp 0 m):** 1 clay · 2 cordage/reed · 3 green brick · 4 stone/ore/slag · 5 wood/chert · 6 food discard · 7 limestone/lime/ash · 8 floor-stone stock (mostly empty) · 9 workshop overflow
 
-**Status:** **HOME C-0 west cubiculum** · **Cal-Y6 D62 · ~21 Feb** · **Week 252 · BC-1 filed · awning ~60% · sow ~5 d**
+**Status:** **HOME C-0 west cubiculum** · **Cal-Y6 D78 · ~9 Mar** · **Week 254 · lane ~53 kg · CHAR-RETORT queued**
 
 ### TOWER-MATERIAL-AUDIT-988 *(Day 988 · stock sanity)*
 
@@ -12,14 +12,26 @@
 |------|------------------|
 | **Tower wythe** | **Kiln B fired brick ~22×11×5 cm — ~148 in WW-HUB-TOWER shell · NOT pile 8 · NOT stone brick** |
 | **Kiln B brick** | **~75 stackable d1733 · green queue ×0 · pile 1 ~39.5 kg GREEN d1739** |
-| **Char lane** | **~53 kg GREEN d1749 · pit B-180 staked** |
+| **Char lane** | **~53 kg GREEN d1775 · pit B-182 staked** |
 | **Pile 8** | **×0 FS @ HOME · −×2 pad/socle @ KOZAN-FIELD-KILN-PREP d1566 @ horreum B** | **−×4 STONE-HAUL-1444 · ×4 in RESERVE-10 @ horreum B** |
 | **Pile 7 lime** | **~3.8 kg CaCO₃ raw d1706 · putty ~0.10 kg GREEN @ trough · jar ~1.94 kg quicklime @ v1 d1742** |
 | **Roof tiles** | **×33 TR fired @ rack d1739 · ×47 on CRAFT-WING skin · TR-RESEED queued · green ×0** | **craft-wing-plan.md · TR-PRESS when named** |
 | **Pile 4 stone** | **~48 kg dress/field d1705** | **STONE-HAUL-1705 · CRAFT-WING gravel runway** |
-| **Pile 5 oak** | **~12 kg GREEN @ pile 5 d1759** | **ATELIER-AWNING-S −~2 kg · window frames prior** |
+| **Pile 5 oak** | **~50 kg GREEN @ pile 5 d1775** | **PIT-CHAR-DUAL-1775 −~14 kg · was ~64 kg d1774** |
+| **GREEN-LINE-Y6-1774** | **✓ d1774 · FARM-CARE-GREEN live** | **~10 d post-sow · scare-only lifted · light hoe between rows OK** |
+| **CHAR-UPGRADE-SLATE-1775** | **✓ d1775 · CHAR-RETORT-1 next · ~1–2 d · coke horizon** | **No supersede yet · retort+pit parallel ramp** |
 | **BUILDING-CODE-1** | **✓ filed d1759** | **[building-code-1.md](building-code-1.md) · retrofit before new stakes · WINDOW-UPGRADE-1 side slate** |
-| **ATELIER-AWNING-S-1** | **~60% WIP d1759 @ south eave over WINDOW-S-1 · finish d1760** |
+| **ATELIER-AWNING-S-1** | **✓ d1760 @ south eave · natural reed over WINDOW-S-1** |
+| **ATELIER-AWNING-W-1** | **✓ d1762 @ west eave · woven linen blue/white stripe over WINDOW-W-1** |
+| **ATELIER-AWNING-PORTICO-1** | **✓ d1768 @ TEMP-PORTICO east · woven blue/white stripe · CRAFT-WING-AWNING-SET-1 ✓** |
+| **ATELIER-LAMP-HOOK-1** | **✓ d1769 @ south ridge vent hood · off paint line** |
+| **ATELIER-LAMP-HOOK-2** | **✓ d1769 @ TEMP-PORTICO east interior** |
+| **W-1-LAMP-HOOK-1** | **✓ d1769 @ ROOF-W1 peg rail** |
+| **FABRICA-LAMP-HOOK-1** | **✓ d1769 @ M2 WORKBENCH peg rail** |
+| **STORE-4-LAMP-HOOK-1** | **✓ d1769 @ STORE-4 south jamb** |
+| **WW-YARD-LAMP-HOOK-1** | **✓ d1769 @ MILLHOUSE-2 north post** |
+| **LAMP-HOOK-NET-SLATE-1769** | **Hooks = parking · OL-1/2 portable swap · defaults domus + chem-lab** |
+| **ATELIER-DRAIN-AUDIT-1760** | **✓ E swale scraped · pour PASS · BC-1 spring-ready · full thaw recheck queued** |
 | **PEN-EXT @ farm fork** | **✓ complete d1328** | **Wattle d1327 · holding E daub ~9 kg d1328 · browse wattle-only · LINENS-SPRINT queued** |
 | **Pile 9** | **Pole spill cleared d1097 · travois + corral/fence stakes + drop bar remain** |
 | **Char/clay** | **lane ~53 kg GREEN d1735 · pile 1 ~41.5 kg GREEN d1730 · pile 5 ~53 kg GREEN d1735 · PEN-EXT ✓ complete d1328** |
@@ -193,7 +205,7 @@
 | **BEDDING-SET-B** | **✓ complete** | **PILLOW-SLIP-B-1 ✓ · BEDDING-SHEET-B-1 ✓ · BLANKET-B-1 ✓ madder red** |
 | **MADDER-ROOT-585** | **~79 g dry @ v1 CHEM d1695** | **−~18 g YULE-TREE-DRESS-1695 · prior ~97 g post-awning stripe** |
 | **WOAD-SEED-Y3-966** | **~0 g** | **−~15 g WOAD-SOW-MARGIN-Y5 d1399 @ Bed D margin · sown ✓** |
-| **WOAD-BED-D-Y5** | **✓ sown d1399 · first leaf pull d1532** | **~150 g fresh @ porch rack · margin trimmed not scalped · dry ~5–7 d** |
+| **WOAD-BED-D-Y5** | **✓ Y5 sow d1399 · Y6 stand live d1764 · year-two rosette** | **Margin trimmed not scalped · no Y6 broadcast · seed jar ~0 g** |
 | **MADDER-BED-RESERVE** | **×4 crowns live d1687** | **~2×3 m @ Bed B W · south dug+replanted · north mature stand** |
 | **BLANKET-SANDWICH** | trial ✓ Day 548 | **double panel + tow batting + tuft grammar** |
 | **TOWEL-1** | 1 ✓ | Hand towel v0 @ v1 · natural · fulling Day 257 |
@@ -272,7 +284,7 @@
 | **PAINT-CANVAS-1** | **✓ d1700 @ EASEL-1 · CRAFT-WING south bay d1740** | **Linen · hide size · lime gesso · first charcoal study · wing north-light class** |
 | **P-RETT-8** | **✓ arc closed d1701 · FLAX-BREAK-8 + HECKLE-8 ✓** | **~340 g line add · Y5 Bed B cultivated batch done** |
 | **P-RETT-9** | **✓ closed d1717 · FLAX-BREAK-9 + HECKLE-9 ✓ · ~170 g line add** | **Ninth cycle · winter wild · pool empty · P-RETT-10 defer** |
-| **Flax line @ W-1 peg** | **~1.63 kg combined d1717** | **Wild ~1.29 kg + cultivated ~340 g · P-RETT-9 closed · spin/paper when named** |
+| **Flax line @ W-1 peg** | **~0.90 kg @ W-1 d1767** | **WHEEL-SPIN-Y6-2 −~600 g · PAPER-RESERVE ~500 g · spin-3 ~400 g** |
 | **PAINT-STUDY-2** | **✓ d1701 on PAINT-CANVAS-1** | **×4 cake swatches · woad · madder · iron · charcoal · blend tick** |
 | **PAINT-SUBJECT-HORIZON-1701** | **Slate only · not hero** | **Distant unseen · real-world faces · timeline hope — future PAINT-1 subjects** |
 | **CRAFT-WING-EASEL-SLATE-1698** | **Atelier LIVE · ATELIER-RUG-1 ✓ d1755 @ south bench · portico coir + bench mat** |
@@ -280,7 +292,9 @@
 | **CRAFT-STOOL-1** | **✓ @ Atelier south bay d1752 · easel height matched** |
 | **ATELIER-RUG-1** | **✓ d1755 · ~81×55 cm natural tow plain @ Atelier south bench easel zone · spill catch** |
 | **ATELIER-WINDOW-S-1** | **✓ d1757–1758 @ south bench wall · shutter · seal v1 · glass defer** |
-| **ATELIER-WINDOW-W-1** | **✓ d1757–1758 @ west easel cheek · shutter · seal v1 · glass defer** |
+| **ATELIER-WINDOW-W-1** | **✓ d1757–1758 @ west easel cheek · seal v1 · glass d1772+ · ×8/~20 lites · ×4 tray · ×4 anneal** |
+| **ATELIER-WINDOW-GLASS-STOCK-W** | **×4 tapped tray d1773 · GP-1772-W-LITE-1…4 · ×4 @ anneal GP-1773-W-LITE-5…8 · ~12 remain** |
+| **WINDOW-UPGRADE-1-OPEN-1772** | **✓ Atelier W prototype · culina ~8×10 grammar · metal strap defer** |
 | **WINDOW-SEAL-SLATE-1757** | **✓ v1 sealed d1758 · metal frame optional post-sow · glass defer** |
 | **PRE-SOW-5D-SLATE-1758** | **Hook + 1 awning safe pre-sow · glass/metal frames post-sow · WOAD D66** |
 | **CHAIR-CRAFT-1** | **Queued · back rest · post canvas study · stool sufficient for now** |
@@ -329,8 +343,8 @@
 | **WAGON scout bank** | **~17.6 kg @ v1/cellar repack** | **−~3.2 kg trip d837–839 · KELP-BANK doctrine** |
 | **Home scout reserve** | **~13.4 kg class** | **unchanged @ trip** |
 | **M-13 kelp (dry)** | **—** | **Burned d840 → KELP-ASH-2** |
-| **WOAD-VAT-1** | **✓ refreshed d1658 WOAD-VAT-REFRESH-5 · tired post-coat · reserve ~26 g GREEN · jeans batch defer** |
-| **KELP-ASH-2** | **~8.6 g** @ v1 CHEM | **−~14.4 g OIL-LANTERN-2 panes d1265 · prior draws** |
+| **WOAD-VAT-1** | **✓ tired · reserve ~18 g GREEN post portico dip d1768** |
+| **KELP-ASH-2** | **~8.6 g → drawn d1772** | **−~14.4 g glass batch · KELP-ASH-1 top-up · ~227 g soda class remain** |
 | **Soda total** | **~241 g class** | **KELP-ASH-1 + KELP-ASH-2 remain** |
 | **GP glass samples** | **845–847 sealed ampoules @ anneal · rack** | **Shape ladder · neck close d847** |
 | **Home scout reserve** | **~13.4 kg class** | **Not on wagon · kitchen/weir separate** |
@@ -362,7 +376,7 @@
 | **DYE-RECIPE-BURGUNDY-1** | **✓ card @ v1 CHEM shelf** | **TAG BURG-WINE-1 · madder+iron · tow scrap ref · curtain scale filed d1119** |
 | **Coast sand (M-10)** | **~2.15 kg** | **bulk @ pile 4 · **~80 g washed/sieved stock** Day 395** |
 | **Herb shelf** | bundles | Mint · coriander · **HERB-1–3** |
-| **SEED-VAULT v0** | labeled jars | **EMMER-ELITE-Y5 ~102 g · P-17/P-18 elites · P-14-SEL-Y5 ~16 g · P-15-SEL-Y5 ~24 g · P-21-SEL-Y5 ~11 g · P-18-SEL-1 ~59 g · P-FAVA · P-16-SEL · perennials** |
+| **SEED-VAULT v0** | labeled jars | **EMMER-ELITE-Y5 ~20 g · P-17 elite ~11 g · P-18-SEL-1 ~0 g · P-14 ~6 g · P-15 ~8 g · P-21 ~8 g · P-FAVA ~16 g · P-07 ~0 g · P-16-SEL · perennials** |
 | **ACORN-BANK-947** | **~570 g shelled remain · ~2.4 kg bulk shell-on** | **Leach batch 1 spent · ACORN-LEACH-2 optional** |
 | **ACORN-ROAST-Y3-956** | **~370 g roasted** | **✓ ACORN-ROAST-TRIAL-1 d956 @ v1 calorie row · leach→roast PASS · not seed vault** |
 | **PULSE-BULK-BAY** | **×0** | **~255 g P-17-Y3 → HORREUM-A P-λ-5 d1066 · GRAIN-DRY PULSE zone** |
@@ -459,9 +473,9 @@
 | Location | Qty | Notes |
 |----------|-----|--------|
 | **Store C** (vault / reserve) | **~40 kg** class | **CHAR-REALLOC-1609 · ~23 kg → lane · strategic reserve · draw OK heavy forge · lane RED = pit first** |
-| **Char lane @ forge** | **~53 kg** GREEN | **−~2.8 kg LIME-STAGGER-1706 · was ~56 kg d1678** |
+| **Char lane @ forge** | **~53 kg** GREEN | **PIT-CHAR-DUAL-1775 +~11 kg · was ~42 kg d1773** |
 | **Pile 1** | **~26 kg** class | **−~0.8 kg basin d1147 · hearth/flue/tile prior** |
-| **Pile 5** (wood) | **~28 kg** AMBER | **−~1.8 kg awning rods d1693 · −~16 kg PIT-CHAR d1678 prior** |
+| **Pile 5** (wood) | **~50 kg** GREEN | **PIT-CHAR-DUAL-1775 −~14 kg · one dual thin remain** |
 | **Pile 1** | **~37 kg** class | **HAUL-CLAY-1531 + TR-PRESS-1531 · ×48 green TR @ rack · ×16 margin** |
 | **Pile 3 green brick** | **×0 · queue empty d1732** | **GREEN-PRESS when named · bond beam GO · pit before next fire** |
 | **Pit B-157** | **banked Day 1073** | **PIT-CHAR-116 ✓ · cell A** |
@@ -602,7 +616,7 @@
 | **OIL-LANTERN-2** | **✓ @ LAB-LANTERN-HANG-1 east d1266** | **Oak frame · GP-1265 ×4 · tallow · thread wick · cord bail · lab default** |
 | **GP-1161-CULINA-LITE-2** | **✓ @ culina sill tray lite #2** | **Day 1161 · tap d1162 · ~8×10 · SE fix PASS** |
 | **WOAD-LEAF-STOCK-1188** | **✓ consumed d1189 → WOAD-VAT-1** | **~58 g dry from ~240 g fresh · patch pull d1188** |
-| **WOAD-LEAF-STOCK-1532** | **✓ shredded d1540 → reserve jar · −~18 g d1658 refresh** | **Reserve jar ~26 g GREEN post WOAD-VAT-REFRESH-5 d1658** |
+| **WOAD-LEAF-STOCK-1532** | **✓ reserve jar ~18 g GREEN post ATELIER-AWNING-PORTICO dip d1768** |
 | **CULINA-WINDOW-GLASS-STOCK** | **×20 set @ culina window d1186 · full ~45×40 grid ✓** | **CULINA-SOUTH-WINDOW-GLASS-1 ✓ · curtain defer → CULINA-GREEN-1** |
 | **GP-873-PANE-TEMPLATE-1** | **✓ set @ OIL-LANTERN-1 face A** | **Day 873 · tap d874 · ~6×8 · master pane** |
 | **GP-874-PANE-TEMPLATE-2** | **✓ set @ OIL-LANTERN-1 face B** | **Day 874 · tap d875 · matches 873** |
@@ -808,11 +822,15 @@
 | **FORAGE-LAP-1689** | **T-1/T-2 herbs · P-03 grape ~320 g · SNAIL-LAP ~520 g purge · kitchen d1690** |
 | **KITCHEN-PREP-GATE-1690** | **Stew · smoke · snail cook · parched/barrel read queued** |
 | **SHELF-LIFE-SPRINT-1690** | **Y5 bay→barrel→parched · smoke · stew jar · snail · ~9.2 kg parched** |
-| **CULINA-HERB-GARDEN-SLATE-1690** | **~10 m² ghost @ south culina margin · Cal-Y6 spring sow · ad-hoc grabs** |
-| **P-14-SEL-Y5 · P-15-SEL-Y5** | **Allium ~16 g · cilantro ~24 g @ vault · campus edge walk-by** |
+| **SPRING-SOW-Y6-1764** | **✓ d1764 · emmer · lentil · flax · chickpea @ Bed A/B · CULINA-HERB sown · GREEN-LINE ✓ d1774** |
+| **FARM-PLAN-Y6-1765** | **✓ survey · sweet spot ~50 m² · BED-A-NORTH ✓ d1766 · VINEYARD-Y6-SLATE** |
+| **BED-A-NORTH-RECLAIM-1766** | **✓ ~14 m² · P-18 expand · A/B headland fava ~4 m² · ~50 m² annual total** |
+| **PAPER-LINE-RESERVE-Y6** | **~500 g @ W-1 peg d1767 · line beat for PAPER-SPRINT-2+ · do not spin without rename** |
+| **WHEEL-SPIN-Y6-2** | **✓ d1767 · ~233 m · ~600 g line draw · peg ~0.90 kg remain** |
+| **P-14-SEL-Y5 · P-15-SEL-Y5** | **Allium ~6 g · cilantro ~8 g @ vault post-expand d1766** |
 | **ROSEMARY-SCOUT-QUEUE-1690** | **Superseded → P-21a d1691** |
 | **ROSEMARY-SCOUT-1691** | **P-21a @ ~280 m · ~11 g seed · young transplant @ culina herb ghost** |
-| **CULINA-HERB-GARDEN-1** | **Rosemary live d1691 · mint/coriander/allium spring Cal-Y6 sow queued** |
+| **CULINA-HERB-GARDEN-1** | **✓ ~14 m² d1766 @ south culina margin** | **Rosemary live · coriander · allium · thyme · mint ×6 slips · west band expand d1766** |
 | **YELLOW-GO-READ-1680** | **Final harvest GO class · ~4 d to D341 block · scare-only holds** |
 | **ZN-ROAST-BATCH-1673** | **~68% mass yield · SPH-1 batch scale · pad west margin** |
 | **ZN-FORGE-DAY-1673** | **✓ roast ×4 · ~1.6 kg ore → ~1.09 kg ZnO · Week 239 close** |
@@ -1030,11 +1048,11 @@
 | **LM-2 loom** | **✓ @ W-1 under ROOF-W1** | **Primary textile shop · dry · room for loom + daily work *(TEXTILE-DOCTRINE-1096)* ** |
 | **LM-3-SAIL-LOOM-1** | **Slate d888 — not built** | **Wide beam · sail horizon · LOOM-WING · after BOAT-1 + flax m²** |
 | **Line flax @ FIBER row** | **~0 g** | **WHEEL-SPIN-10 ✓ d886 · depleted · field owns next pull** |
-| **THREAD-STOCK-2** | **~15 m @ W-1 d1755** | **−~11 m ATELIER-RUG-1 weave D1+D2 ✓** |
+| **THREAD-STOCK-2** | **~269 m @ W-1 d1768** | **AWNING-PORTICO −~8 m weave** |
 | **CL-LAB-WEAR @ chem-lab peg rail** | **CL-LAB-TUNIC-1 ✓ peg #1 · CL-LAB-COAT-2 ✓ peg #2 · CL-LAB-BREECH-1 ✓ peg #3 d1300** | **3/3 ✓ · lime peg only · change @ chem-lab door** |
 | **THREAD-STOCK-1** | **~12.8 m** | **−~0.8 m kitchen rod lash d887** |
 | **Flax tow @ W-1** | **~6 g scrap @ peg** | **Horreum WOOD-CRATE-2 ~195 g class · −~120 g ATELIER-RUG-1 d1754–1755** |
-| **Wild flax line @ W-1** | **~1.63 kg combined @ W-1 peg d1717** | **Wild ~1.29 kg + Y5 cultivated ~340 g · P-RETT-9 closed** |
+| **Wild flax line @ W-1** | **~0.90 kg @ W-1 peg d1767** | **PAPER-LINE-RESERVE-Y6 ~500 g · spin-3 ~400 g tagged** |
 | **Coarse fiber @ FIBER row** | **~22 g** | Cordage class · not garment |
 | **Coarse thread bank** | **~0 m @ W-1** | **~38 m → C TEXTILE-OVERFLOW long-store d1097** |
 | **MEASURE-1** | **✓ Day 287** | **THUMB-1** · **RULE-1** · **MASS-STONE 1/2×/5× (~5 g/1× recal d824)** · **BALANCE-1** @ W-1 |
@@ -1071,13 +1089,13 @@
 | Item | Notes |
 |------|--------|
 | **P-GOAT-1** | **2 kids** · pen **~22×8 m ✓** · **GOAT-TROUGH-AUTO-1 ✓ · GOAT-FEEDER-1 ✓ Day 594** |
-| **Bed A** | **South scratched d1753 · north mulch · P-18 stubble cleared · ready ~D67 · not sown** |
-| **Bed B** | **Full scratch d1753 · emmer+lentil+flax stubble folded · madder W ×4 honor · ready ~D67 · not sown** |
+| **Bed A** | **Full food bed d1766 · P-18 south ~6 m² + north ~14 m² · A/B headland fava ~4 m²** |
+| **Bed B** | **Emmer S · P-17 lentil N · flax center sown d1764 · madder W ×4 honor · standing crop** |
 | **Bed C** | **P-GOAT-1** pen north — unchanged |
 | **Bed D (NEW)** | **~24 m²** S margin — **FIG-C1–4** cuttings Day 306 · **C2 leaf-out lead Day 433** · **BED-D-SEL** · fence **✓** · **APIARY-PAD-1 ✓ AG-AP-01 d1054** · **OAK-ORCHARD-RESERVE ✓ ×6 slots @ GARDEN-ORCHARD terrace S d949** |
 | **P-03 trellis** | **✓ 100%** — vines **P-03a/b/c** marked |
 | **P-RETT-1** | **Farm ditch W** | **Pool empty · P-RETT-9 closed d1717 · P-RETT-10 load defer when named** |
-| **CULINA-HERB-GARDEN-1** | **South culina margin ~10 m² ghost** | **Rosemary young transplant ✓ d1691 · mint/coriander/allium spring sow · ~35 m from hearth** |
+| **CULINA-HERB-GARDEN-1** | **✓ ~14 m² @ south culina margin** | **Rosemary live · west band expand d1766 · ~35 m from hearth** |
 | **KOZAN-INFRA-3-PREP-1581** | **CLOSED d1582 · drawn @ KOZAN-INFRA-3-LOAD** |
 | **KOZAN-CORRAL-1** | **✓ ~8×12 m @ stop 4 d1587 · overnight-ready** |
 | **MORTAR-SACK-KOZAN-2** | **SPENT d1589 @ kiln shell** |
@@ -1093,11 +1111,11 @@
 | **LAB-FIRE-SUPPRESS-v0** | **✓ Day 796** | **P-λ-3 sealed · ~2.5 L · south rail @ fire table · THROW tag** |
 | **CHEM-DOOR-STRIP-v0** | **✓ Day 796** | **Oak + reed felt + pitch @ lab S jamb · boot rag @ sill** |
 | **BARN-LATCH-IRON-1** | **✓ Day 485** | **sliding bolt @ south opening · oak drop bar staged pile 9** |
-| **Fence / scare** | **E margin ✓ · Bed B→D tie-in ✓ · N leg ~3 m optional · scare 100%** | **FENCE-SCARE-READ-1013 · pen 22×8 adequate · PEN-EXT ghost ✓ d1298** |
+| **Fence / scare** | **Perimeter scare ✓ · row scare-only lifted d1774 · FARM-CARE-GREEN** | **GREEN-LINE-Y6-1774 · light hoe between rows OK** |
 | **PEN-EXT ghost (HOLDING-1 E)** | **~4×6 m stub off partition C · ~14 m new perimeter** | **Staked d1298 · ~18 kg oak staged d1301 · wattle ~1309+** |
 | **PEN-EXT ghost (P-GOAT N browse)** | **~6×3 m @ Bed C margin · ~9 m new perimeter** | **Staked d1298 · open to pen · wattle-only class · ~1309+** |
 | **PEN-EXT-BOM (estimate d1301)** | **~23 m wattle · mise ✓ d1302** | **Oak + willow + cord staged · optional ~10 kg daub @ pile 1 · ~1.5–2 d hero ~1309+** |
-| **Grain (stored @ v1 + horreum)** | **EMMER-BULK-Y5 ~1.22 kg @ horreum A · EMMER-ELITE-Y5 ~102 g · P-18-Y5 ~192 g · P-17-Y5 ~178 g @ pulse bay · parched ~9.2 kg · BARREL-2 topped d1690** |
+| **Grain (stored @ v1 + horreum)** | **EMMER-BULK-Y5 ~1.22 kg @ horreum A · EMMER-ELITE-Y5 ~20 g · P-18-Y5 ~164 g post-sow expand · P-17-Y5 ~178 g @ pulse bay · parched ~9.2 kg · BARREL-2 topped d1690** |
 
 ---
 
