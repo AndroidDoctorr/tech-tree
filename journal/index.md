@@ -1826,6 +1826,37 @@
 | 1841 | [day-1841.md](days/year-005/week-263/day-1841.md) | **GUNPOWDER-MIX ✓ · BLAST-CAP-BATCH ✓ · ×5 caps · berm proof PASS** | **Cal-Y6 D144 · 14 May** |
 | 1842 | [day-1842.md](days/year-005/week-264/day-1842.md) | **WEEK-264-OPEN ✓ · KOZAN-14D-LAP-PREP ✓ · food · char · caps · TQ-lite · ~58 kg GO** | **Cal-Y6 D145 · 15 May** |
 | 1843–1846 | [fast-string-outbound-1843-1846.md](days/year-005/week-264/fast-string-outbound-1843-1846.md) | **FAST-STRING 4D OUTBOUND ✓ · HOME → Kozan · char bank · gate stash · north slate** | **Cal-Y6 D146–D149 · 16–19 May** |
+| 1847 | [day-1847.md](days/year-005/week-264/day-1847.md) | **NORTH-SCOUT ✓ · BLAST-PATH-TRIAL-1 ✓ · KORUHOYUK-POZZ-SLATE ✓ · caps ×4** | **Cal-Y6 D150 · 20 May** |
+| 1848 | [day-1848.md](days/year-005/week-264/day-1848.md) | **TIN-HAUL-10 ✓ · stockpile ~6.9 kg · BLAST-ROI-SLATE ✓** | **Cal-Y6 D151 · 21 May** |
+| 1849 | [day-1849.md](days/year-005/week-265/day-1849.md) | **WEEK-265-OPEN ✓ · KOZAN-TIN-SMELT-BATCH-2 ✓ · ~191 g Sn · char RED** | **Cal-Y6 D152 · 22 May** |
+| 1850 | [day-1850.md](days/year-005/week-265/day-1850.md) | **TIN-HAUL-11 ✓ · stockpile ~4.9 kg · site close · return queued** | **Cal-Y6 D153 · 23 May** |
+| 1851–1854 | [fast-string-return-1851-1854.md](days/year-005/week-265/fast-string-return-1851-1854.md) | **FAST-STRING 4D RETURN ✓ · Kozan → HOME · KOZAN-14D-LAP-CLOSE ✓ · Sn ~668 g** | **Cal-Y6 D154–D157 · 24–27 May** |
+| 1855 | [day-1855.md](days/year-005/week-265/day-1855.md) | **FARM-SCARE ✓ · CART-AUDIT ✓ · TQ-KIT-LOAD ✓ · KORUHOYUK scout · WEEK-265-CLOSE ✓** | **Cal-Y6 D158 · 28 May** |
+| 1856 | [day-1856.md](days/year-005/week-266/day-1856.md) | **WEEK-266-OPEN ✓ · KORUHOYUK path spur ✓ · east of Karasu · quarry ahead** | **Cal-Y6 D159 · 29 May** |
+| 1857 | [day-1857.md](days/year-005/week-266/day-1857.md) | **KORUHOYUK-TUFF-HAUL-TRIAL ✓ · POZZ-SAMPLE-1 ✓ · ~15 kg pozz · path CLOSE ✓** | **Cal-Y6 D160 · 30 May** |
+| 1858 | [day-1858.md](days/year-005/week-266/day-1858.md) | **KORUHOYUK-POZZ-HAUL-MAX ✓ · ~52 kg pozz · ~120 kg column · MAINT stash** | **Cal-Y6 D161 · 31 May** |
+| 1859 | [day-1859.md](days/year-005/week-266/day-1859.md) | **RETURN-HOME ✓ · KORUHOYUK-POZZ-SCOUT-CLOSE ✓ · ~52 kg pozz unload · sample PASS** | **Cal-Y6 D162 · 1 Jun** |
+| 1860 | [day-1860.md](days/year-005/week-266/day-1860.md) | **LARDER-REFILL ✓ · parched · smoked · jerky · campus food GREEN** | **Cal-Y6 D163 · 2 Jun** |
+| 1861 | [day-1861.md](days/year-005/week-266/day-1861.md) | **POZZ-SLAB-TRIAL-1 ✓ · form pour ✓ · mix ratio · cure open** | **Cal-Y6 D164 · 3 Jun** |
+| 1862 | [day-1862.md](days/year-005/week-266/day-1862.md) | **LIME-HAUL ✓ · ~29 kg CaCO₃ · slab cure parallel** | **Cal-Y6 D165 · 4 Jun** |
+| 1863 | [day-1863.md](days/year-005/week-267/day-1863.md) | **WEEK-267-OPEN ✓ · WOOD-HAUL ✓ · char/lime queued** | **Cal-Y6 D166 · 5 Jun** |
+| 1864 | [day-1864.md](days/year-005/week-267/day-1864.md) | **CHAR-LIME-DAY ✓ · retort · Kiln A · quicklime runway** | **Cal-Y6 D167 · 6 Jun** |
+| 1865 | [day-1865.md](days/year-005/week-267/day-1865.md) | **SLUICE-2 dig/plan ✓ · concrete slate · POZZ-SLAB read PASS** | **Cal-Y6 D168 · 7 Jun** |
+| 1866 | [day-1866.md](days/year-005/week-267/day-1866.md) | **WOOD-HAUL ✓ · form stock · pile ~51 kg · strip d1868** | **Cal-Y6 D169 · 8 Jun** |
+| 1867 | [day-1867.md](days/year-005/week-267/day-1867.md) | **SAND-HAUL ✓ · ~32 kg · sluice concrete runway** | **Cal-Y6 D170 · 9 Jun** |
+| 1868 | [day-1868.md](days/year-005/week-267/day-1868.md) | **SLUICE form + cheek pour ✓ · trial slab strip CLOSE** | **Cal-Y6 D171 · 10 Jun** |
+| 1869 | [day-1869.md](days/year-005/week-267/day-1869.md) | **COFFER-PULL ✓ · head ~7.2 m confirm · cheek cure** | **Cal-Y6 D172 · 11 Jun** |
+| 1870 | [day-1870.md](days/year-005/week-268/day-1870.md) | **WEEK-268-OPEN ✓ · SLUICE-2-SILL-SKIM ✓ · gate seat** | **Cal-Y6 D173 · 12 Jun** |
+| 1871 | [day-1871.md](days/year-005/week-268/day-1871.md) | **WOOD-HAUL ✓ · pile ~73 kg · cures untouched** | **Cal-Y6 D174 · 13 Jun** |
+| 1872 | [day-1872.md](days/year-005/week-268/day-1872.md) | **M-12 fourth pass ✓ · ~1.96 kg crude niter** | **Cal-Y6 D175 · 14 Jun** |
+| 1873 | [day-1873.md](days/year-005/week-268/day-1873.md) | **M-12-PURIFY ✓ · ~682 g crystal · no mix** | **Cal-Y6 D176 · 15 Jun** |
+| 1874 | [day-1874.md](days/year-005/week-268/day-1874.md) | **M-G1 malachite haul ✓ · O-1 ~24 kg** | **Cal-Y6 D177 · 16 Jun** |
+| 1875 | [day-1875.md](days/year-005/week-268/day-1875.md) | **QUARTZ top-up ✓ · cheek strip ✓ · SAMANDAG slate** | **Cal-Y6 D178 · 17 Jun** |
+| 1876 | [day-1876.md](days/year-005/week-268/day-1876.md) | **WEEK-268 CLOSE ✓ · CART-POWDER-SAFE-1 ✓ · BC-1 + lantern slates** | **Cal-Y6 D179 · 18 Jun** |
+| 1877 | [day-1877.md](days/year-005/week-269/day-1877.md) | **CART-UPGRADE close ✓ · iron rims · sill read ✓ · olive press window** | **Cal-Y6 D180 · 19 Jun** |
+| 1878 | [day-1878.md](days/year-005/week-269/day-1878.md) | **SLUICE-2 gate deploy ✓ · team rotation · realism harden** | **Cal-Y6 D181 · 20 Jun** |
+| 1879 | [day-1879.md](days/year-005/week-269/day-1879.md) | **SLUICE-2 raceway cut ✓ · WW-POWER Phase 1 CLOSE ✓** | **Cal-Y6 D182 · 21 Jun** |
+| 1880 | [day-1880.md](days/year-005/week-269/day-1880.md) | **FORGE tool sprint ✓ · Y6 reassess slate** | **Cal-Y6 D183 · 22 Jun** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

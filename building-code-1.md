@@ -73,6 +73,21 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 **Atelier audit d1760:** **E swale belt bend scraped ✓ · pour PASS · recheck @ full spring thaw.**
 
+### Concrete supplement *(BC-1-CONCRETE · filed Day 1876)*
+
+**Prerequisite:** **POZZ-SLAB-TRIAL-1 PASS ✓** · quicklime + pozz + sand runway live.
+
+| Use | Standard | Notes |
+|------|----------|-------|
+| **Foundation pads / socle skim** | **Optional** | **Frost lip · splash zone · ties FS ring** — not full replacement of stone socle |
+| **Portico / mudroom steps + treads** | **Recommended first retrofit** | **TEMP-PORTICO class · wear + drain** |
+| **Entry pads / drain lips** | **Optional** | **Pairs with BC-1 drain grammar** |
+| **Exterior sills / thresholds** | **Optional** | **Not interior TR floor** |
+| **Wythe walls / bond beam** | **✗ NO-GO** | **Brick + lime mortar grammar** |
+| **Habitable floor finish** | **✗ NO-GO default** | **TR tile or oak plank per BC-1** |
+
+**Retrofit rule:** **Per-wing optional** — not blocking new stakes. **Sluice / WW infra** may use pozz-lime concrete outside BC-1 envelope scope.
+
 ---
 
 ## Compliance snapshot *(Day 1760 · approximate)*

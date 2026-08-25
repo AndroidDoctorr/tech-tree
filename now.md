@@ -2,30 +2,31 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 1846** · Cal-Y6 D149 · ~19 May · Week 264 day 5 · **@ KOZAN gate** · TENT-2 north terrace
+**Day 1880** · Cal-Y6 D183 · ~22 Jun · Week 269 day 4 · **HOME** · C-0 west cubiculum
 
 | Track | Status |
 |-------|--------|
-| Farm | ~50 m² · FARM-CARE-GREEN · **Silas hold @ HOME** |
-| Char | **HOME lane ~8 kg · gate bank ~7.2 kg GREEN @ lee** |
-| Apiary | HIVE-1 + HIVE-2 LIVE ✓ |
-| Paper | SHEET-8–9 @ peg · HOME |
-| Queue | **6 @ site · north hero · tin play-by-ear · Adana defer** |
-| Trail | **~58 kg column · ~6 kg wagon food · corridor GREEN** |
-| Blast | **Caps ×5 @ POWDER-SAFE-BOX-1 · mountain trials live** |
-| Food | **~6 kg wagon · ~2 kg gate stash @ lean-to** |
-| Kozan @ gate | **Hut CLOSE · ore ~4.6 kg · kiln live · path B · north hero queued** |
-| Team | **Mabel + Humphrey @ trail · Silas hold @ HOME** |
+| Farm | ~50 m² · FARM-CARE-GREEN |
+| Sluice | **Phase 1 CLOSE ✓ · Q survey next** |
+| Tools | **Campus iron kit GREEN · audit band ~3–5 d** |
+| Stock | **Ore · pozz · niter · caps ×4 · paper thin · char flour low** |
+| Team | **Mabel · Humphrey · Silas · rotate** |
+| Wood | **Pile 5 ~70 kg** |
+| Char | **Lane ~14.8 kg** |
+| Queue | **Q survey · paper sprint · Phase 2 wheel** |
+| Food | **Larder GREEN** |
 
 ## Next
 
-1. North path — tuff · highland · blast-cap road trials
-2. Tin path B — opportunistic collect/smelt if days spare
+1. WW-2 Q survey
+2. Paper sprint (blast runway)
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
 - Quartz / ore haul season open
 - Exped open
+- Donkey hunt ~7 Sep
+- Olive oil press ~20 Nov–10 Dec
 
 ## Do not treat as live
 

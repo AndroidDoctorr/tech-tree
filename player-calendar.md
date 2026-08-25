@@ -53,12 +53,14 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 - **6 Nov** — Salt evap opens
 - **16 Nov** — Olive / grape / madder season
+- **20 Nov** — **Olive oil press window opens** *(P-02 fruit in · press build + first cold press · lamp/cooking runway · OIL-LAMP-OLIVE-1 class)*
 - **26 Nov** — Salt evap closes
 - **27 Nov** — Emmer harvest
 - **28 Nov** — Pulse harvest
 
 ## December
 
+- **10 Dec** — **Olive oil press window closes** *(before feast band · oil settle / amphora)*
 - **22 Dec** — Year opens
 - **16 Dec** — Olive / grape / madder season ends
 - **20 Dec** — Feast eve −1
