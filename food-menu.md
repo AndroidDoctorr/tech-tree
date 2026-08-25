@@ -1,169 +1,150 @@
 # Food menu — recipes & pantry
 
-*Last audited: **Day 1312** · **FOOD-LEDGER-726** · **Stock:** [inventory.md](inventory.md) · **Ledger:** [food-ledger.md](food-ledger.md) · **Feast slate:** FEAST-602 @ Day 602 · **Ladder gaps:** [ladder.md](ladder.md) (Food & calories)*
+*Last audited: **Day 1815** · **Stock:** [inventory.md](inventory.md) · **Ledger:** [food-ledger.md](food-ledger.md) (history) · **Feast:** FEAST-YULE-1697*
 
-**Rule:** Listed **✓** = you have ingredients **and** technique logged. **~** = partial / substitute honest. **·** = missing gate ingredient or season.
-
----
-
-## Pantry snapshot (Day 727)
-
-| Ingredient | ~Qty | Notes |
-|------------|------|-------|
-| **Smoked fish** | ~8.9 kg | Weir routine |
-| **Fish jerky** | ~1.48 kg | Salt + smoke + dry |
-| **Snails (SNAIL-1)** | **~0.6 kg brined** | **SNAIL-ROUTINE ✓ Day 727 · 2×/week** |
-| **Salt** | ~290 g | S-03 evap batches |
-| **Parched grain** | ~4.0 kg | SCOUT + v1 draw |
-| **Emmer** | ~0.55 kg + BARREL-2 | Thresh · parched · barrel |
-| **Lentils (P-17)** | ~240 g | Y2 harvest |
-| **P-18 chickpea seed** | **~35 g** | **SEED-VAULT · autumn sow Bed A** |
-| **Olives (brine)** | ~2.0 kg crock | P-02 · months clock |
-| **Fig leather** | ~670 g | Sun-dried mash |
-| **Grape leather** | ~580 g | Sun-dried · vinegar rehydrate |
-| **Pistachio** | ~2.3 kg | Shelled hoard |
-| **Herbs** | bundles | Mint · coriander · garlic/leek dried |
-| **Grape vinegar** | ~0.6 L + mother | Posca-class |
-| **SOAP-1** | ~85 g | Hand wash luxury |
-| **Tallow** | ~180 g | Soap · rare fry (smoke-heavy) |
-| **Fresh fish** | weir daily | Smoke same-day if surplus |
-| **Bird** | hunt class | Smoke · not daily staple |
-| **Goat** | kids @ pen | **Milk/meat not butcher routine** — hunt meat historical only |
-| **Water** | aqueduct | Kitchen · shower · header |
+**Rule:** **✓** = ingredients **and** technique logged. **~** = honest trial / substitute. **·** = blocked.  
+**Seed vault is never food.** Elite emmer, P-17-ELITE, P-18-SEL, P-FAVA, herb seed — plant, don't cook.
 
 ---
 
-## ✓ Daily & routine (honest campus plate)
+## Pantry snapshot (Day 1815) — shelf life
 
-| Dish | Key ingredients | Method |
-|------|-----------------|--------|
-| **Weir fish** (fresh) | Fish · salt · herb | Grill / clay bake / smoke excess |
-| **Snail bowl (SNAIL-BOWL-727)** | **SNAIL-1 · garlic · coriander · mint · tallow smear** | **Purge 24 h · boil 8 min · pick · eat or brine @ P-η** |
-| **Smoked fish** | Rack stock · salt | Re-warm @ oven cheek · herb rub |
-| **Jerky** (trail / snack) | Fish · salt · smoke · sun | Already scaled — eat dry or rehydrate in stew |
-| **Parched mash** | Parched · hot water · salt · mint | Closest daily "porridge" — thick · warm |
-| **Emmer porridge** | Emmer · water · salt · mint/coriander | Crack or whole · hypocaust pot |
-| **Lentil stew** | Lentils · water · salt · garlic · coriander | Soak · simmer · smoke fat optional |
-| **Lentil + emmer mash** | Lentils · emmer · herbs | Pulse + grain combo — filling |
-| **LENTIL-P18-EMMER-STEW-1312** | **P-17 · P-18 · emmer · coriander · garlic · thyme · marjoram · smoked fish flake · tallow smear · vinegar finish** | **✓ Day 1312 · PLATE-HARVEST hero bowl — peak honest plate without oil/honey** |
-| **Brined olives** | P-02 crock · coriander dust | Drain · eat — no oil drizzle yet |
-| **Fig / grape leather** | Leather · knife | Chew · trail calorie · rehydrate for must |
-| **Pistachio handful** | P-01 · salt optional | Raw crunch · feast bowl class |
-| **Mint tea** | Dried mint · hot water | Honest tea — no sugar |
-| **Grape vinegar sip** | Vinegar · water · pinch salt | Posca-class — feast / digestion |
-| **Herb rub** (any protein) | Garlic/leek · mint · coriander · salt | Smoke or warm fish |
-| **Soap / shower wash** | SOAP-1 or SHOWER-1 | Feast-course 0 class — not food but plate grammar |
-| **Goat weed + fig crumb** | Pen browse · fig scrap | Kid treat — documented calm reward |
+*Class lives assume dry, dark, pest-guarded store **or** ice cellar as noted. Ice vault (~84.8 kg) buys days on wet food, not years.*
 
----
+| Ingredient | ~Qty | Role | Shelf life |
+|------------|------|------|------------|
+| **Parched grain** | ~2.6 kg | Daily / trail | **6–18 mo** dry — longest calorie |
+| **Emmer bulk Y5** | ~0.32 kg | Cook / parch | **6–12 mo** dry barrel |
+| **P-17 lentil / P-18 chickpea** | ~178 g / ~164 g | Stew | **12–24 mo** dry |
+| **Smoked fish** | ~8.6 kg | Daily | **1–3 wk** cool smoke · recure if slack |
+| **Fish jerky** | ~0.65 kg | Trail | **2–6 mo** dry |
+| **Snails brined** | ~1.43 kg | Daily / feast | **2–4 mo** in brine |
+| **Olive brine P-02** | ~2.0 kg crock | Snack / feast | **6–18 mo** |
+| **Fig leather** | ~360 g | Trail | **4–12 mo** dry |
+| **Grape leather** | ~480 g | Trail / acid | **4–12 mo** dry |
+| **Pistachio** | ~2.3 kg | Feast / trail | **6–12 mo** cool dry |
+| **Y5 stew jar** | ~0.95 kg | Ready meal | **3–7 d** cool step / ice |
+| **Acorn roast** | ~370 g | Rare calorie | **1–3 mo** dry |
+| **Acorn shelled / bulk** | ~570 g / ~2.4 kg | Must leach | Raw: **weeks** then off · leach→roast to keep |
+| **Salt** | ~290 g | Cure | **Years** · WATCH below ~200 g |
+| **Tallow** | ~120 g | Smear / soap | **Months** cool |
+| **Grape vinegar** | crock class | Posca / finish | **Years** |
+| **Dried herbs** | bundles | Rub / tea | **6–12 mo** shade-dry |
+| **Fresh culina herbs** | rosemary · mint · coriander · allium · thyme | Grill / stew | **2–5 d** cut · plant is live |
+| **Fresh weir fish** | daily | Same-day plate | **Hours** · **2–4 d** on ice |
+| **Goose (hunt)** | Yule tradition | Feast only | **Same day roast** · smoke leftover **1–2 wk** |
+| **Ice vault** | ~84.8 kg | Cold, not food | Melt clock — winter/spring pack |
 
-## ✓ Preserve & stock (winter longevity)
-
-| Product | Recipe class | Your pipeline |
-|---------|--------------|---------------|
-| **SALT-*** | S-03 brackish haul → EVAP-2 porch tray → scrape crystals | **✓** batch #1–3 |
-| **JERKY-*** | Fish strip · salt ~3–5% · low smoke · porch wind | **✓** ~860 g |
-| **Smoked fish** | Salt · rack · days smoke | **✓** weekly cadence |
-| **Fig leather** | Ripe fig mash · sun tray · roll cut | **✓** ~670 g |
-| **Grape leather** | Shriveled grape mash · sun tray | **✓** ~580 g |
-| **Parched grain** | Hypocaust oven · stir · dry store | **✓** ~1.7+ kg |
-| **Olive brine** | Green/purple olives · salt brine · months | **✓** v0 aging |
-| **Herb dry** | Bundle · porch shade · bird guard | **✓** |
-| **GRAPE-VINEGAR-*** | Leather/must rehydrate · wild yeast · acetobacter · weeks | **✓** ~0.6 L |
-| **Pistachio hoard** | Shell · dry store | **✓** autumn class |
+**Live, not in jars:** weir fish · snails (2×/wk purge) · culina herb bed · fig/grape/olive trees · two hives (**wax yes · honey not harvested**).
 
 ---
 
-## ✓ Feast & celebration (max honest plate)
+## Daily & routine
 
-| Plate | Status | Notes |
-|-------|--------|-------|
-| **FEAST-237** (Y1) | **✓ Day 237** | 7 courses · soap · jerky · parched · fish · olives · leathers · pistachio · mint tea |
-| **FEAST-602** (Y2) | **✓ Day 602** | 9 courses · shower · lentils · emmer · vinegar |
-| **YULE-BENCH** | **✓ tradition** | Year-on-year compare · tree @ ante |
-| **YULE-TREE-ADD-Yn** | **✓ from Y2** | **One new ornament per year** — Y1 base decor · **Y2 madder bow cluster** |
+| Dish | Ingredients | Eat / keep | Method |
+|------|-------------|------------|--------|
+| **Weir fish grill** | Fresh fish · salt · rosemary or mint | **Now** · leftover **1 d** ice | Grill / clay bake · smoke surplus same day |
+| **Smoked fish rewarm** | Rack stock · herb rub | **Days** from the rack | Oven cheek · garlic · coriander |
+| **Snail bowl** | SNAIL-1 · garlic · coriander · mint · tallow smear | **Now** or **brine 2–4 mo** | Purge 24 h · boil 8 min · pick |
+| **Parched mash** | Parched · hot water · salt · mint | Mix **now** · dry stock **months** | Daily porridge |
+| **Emmer porridge** | Emmer · water · salt · herb | Cook **now** | Crack · hypocaust pot |
+| **Lentil–chickpea–emmer stew** | P-17 · P-18 · emmer · herbs · smoked flake · vinegar · tallow | Bowl **now** · jar **3–7 d** ice | Soak pulses · simmer · **LENTIL-P18-EMMER-STEW** ✓ d1312 / d1690 |
+| **Y5 stew reheat** | Cool-step jar | **This week** | South hearth · don't stretch past the ice |
+| **Brined olives** | P-02 · coriander dust | Straight from crock | No oil |
+| **Mint / rosemary tea** | Dried or fresh · hot water | **Now** | No honey |
+| **Posca** | Vinegar · water · salt | Crock **days** | Digestion / feast open |
+| **Acorn roast handful** | ACORN-ROAST | Dry **weeks–months** | Already leached — not daily staple |
 
 ---
 
-## ~ Trial & substitute (ingredients partial)
+## Trail rations
 
-| Dish | Have | Missing / weak | Honest trial |
-|------|------|----------------|--------------|
-| **Grain pilaf** | Emmer · lentils · herbs · salt | **Oil** · onion bulb | Emmer + lentil + herb — dry sauté in tallow smear only |
-| **Posca** (Roman-class) | Vinegar · water · salt | Honey · bread crumbs | **✓** your posca-class sip works now |
-| **Fish stew** | Smoked/fresh · herbs · lentil | Oil · tomato | Smoke fish · lentil broth · thick |
+*Pack dry. Don't haul the stew jar or fresh fish.*
+
+| Pack | Ingredients | Trail life | Notes |
+|------|-------------|------------|-------|
+| **Fish jerky** | Salt + smoke + dry | **Weeks on the string** | Rehydrate in stew at a waystation |
+| **Parched handful** | Parched grain | **The trip** | Closest dry calorie |
+| **Fig leather** | Sun mash | **The trip** | Chew · or must splash |
+| **Grape leather** | Sun mash | **The trip** | Acid · not a meal |
+| **Pistachio** | Shelled | **The trip** | Heavy · feast-class if you overpack |
+| **TRAIL-MIX-1** | Parched · leather · pistachio · jerky | **Weeks if dry** | Honest Kozan column food |
+| **Waterskin + posca pinch** | Vinegar · salt | **Days** | Optional · not a meal |
+
+---
+
+## Preserves — make more when the clock says so
+
+| Product | Pipeline | Keep |
+|---------|----------|------|
+| **PARCHED-*** | Barrel emmer → hypocaust stir → dry store | **6–18 mo** |
+| **FISH-SMOKE-*** | Weir surplus · salt · rack | **1–3 wk** |
+| **JERKY-*** | Strip · salt ~3–5% · low smoke · porch wind | **2–6 mo** |
+| **SNAIL brine** | Purge · boil · salt · coriander @ P-η | **2–4 mo** |
+| **Olive brine** | Green/purple · salt · months | **6–18 mo** |
+| **Fig / grape leather** | Ripe mash · sun tray · roll | **4–12 mo** |
+| **Herb dry** | Bundle · porch shade · bird guard | **6–12 mo** |
+| **ACORN-LEACH → roast** | Shell · leach cycles · roast | Roast **1–3 mo** |
+| **STEW jar** | Pulse + grain batch @ cool step | **3–7 d** — short preserve |
+| **SALT-*** | S-03 → EVAP-2 → scrape | **Years** · currently thin |
+
+---
+
+## Feast — rare, delicious, eat now
+
+*Don't jar these. Don't take them on the trail. Hunt or stage the morning of.*
+
+| Plate | When | Eat | Notes |
+|-------|------|-----|-------|
+| **FEAST-YULE goose** | Solstice · bow hunt that dawn | **Tonight** | Tradition yr 2+ · ~1.28 kg dressed Y5 · smoke **only** the remainder |
+| **YULE ten-course** | D365 | **The evening** | Soap/shower · posca · goose · emmer mash · Y5 stew · smoked side · snail · olives · pistachio · leather · mint tea |
+| **PLATE-HARVEST stew** | Post-cut | **That dinner** | Peak honest bowl without oil/honey — pulse + emmer + smoke flake + vinegar |
+| **Pistachio feast bowl** | Guests / Yule | **The sitting** | Don't grind the hoard into daily snacks |
+| **Goose-smoke slice** | 1–2 d after Yule | **Soon** | Leftover only — not a new hunt |
+| **Snail feast warm** | When you want a second course | **Now** | Purge first · not the brined crock dumped in a pile |
+| **Acorn roast + leather** | Rare winter plate | **Now** | Special, not staple — tannin work already paid |
+| **Rosemary grill hero** | Any clear night | **Now** | Fresh sprig on weir fish — small luxury, not a feast |
+
+---
+
+## ~ Trials (you almost can)
+
+| Dish | Have | Missing | Honest move |
+|------|------|---------|-------------|
+| **EMMER-DOLMA-TRIAL** | Spring grape leaves (now-ish) · emmer · lentil · herbs | **Oil** · rice | Blanch young P-03 leaves · emmer+lentil fill · steam · no drizzle |
+| **Grain pilaf** | Emmer · pulse · herbs | Oil · onion bulb | Dry sauté · **tallow smear only** |
+| **Fish stew** | Smoke/fresh · lentil · herbs | Oil · tomato | Broth thick · no red sauce |
 | **Tallow flat** | Tallow · parched flour | Yeast · wheat | Heavy cracker — not bread |
-| **Soap batch scale** | Tallow · lye | — | **✓** can repeat SOAP-1 grammar |
-| **Fermented grape drink** | Grape · wild yeast on skins | Press · cellar · time | Must from leather rehydrate — **wine clock not closed** |
-| **Bird broth** | Bird · herbs · salt | — | Small pot from hunt surplus |
+| **Must sip** | Grape leather rehydrate | Wine clock | Vinegar path already won · wine **not** closed |
+| **Bird broth** | Hunt surplus · herbs | — | Small pot · same-day |
 
 ---
 
-## · Not yet — blocked recipes
+## · Blocked
 
-| Dish | Why not (Day 600) | Unlock path |
-|------|-------------------|-------------|
-| **Stuffed grape leaves (dolma / warak enab)** | **Wrong season** — tender leaves = **spring–early summer** harvest; now solstice week vines dormant · **No rice** (emmer sub ≠ same) · **No olive oil** for traditional roll · **No grape-leaf brine** logged | **Spring:** pick young P-03 leaves · blanch · brine jar · **emmer+lentil+herb** filling · steam in P-κ · oil press later |
-| **Yeast bread** | No cultivated yeast routine · no wheat | Wild ferment from grape must → flatbread trial → oven routine |
-| **Olive oil drizzle** | No press · no settle jars | Hand press or trap press · P-02 oil line |
-| **Honey sweet** | **No hive · no comb** | Wild hive scout · reed skep · **neglected** |
-| **Cheese / yogurt** | Kids not milked · no dairy culture | Kid grow · milk · curd trial |
-| **Wine cup** | Ferment started · wine not closed | Complete GRAPE-FERMENT → rack → jar |
-| **Olive oil + herb dip** | Oil gap | Same as oil press |
-| **Meat jerky (goat)** | Goat = pet/stock · not butcher loop | Named slaughter doctrine or hunt — **not campus routine** |
-| **Stuffed fig leaves** | Fig leaf food not logged | Separate from grape — low priority |
-| **Rice-class pilaf** | No rice in valley catalog | Trade/coast scout or accept emmer forever |
-
-### Stuffed grape leaves — direct answer
-
-**Not yet realistically.** You have grape (**P-03**), grain (**emmer/lentil**), and herbs — but **dolma** wants **tender spring leaves**, **oil**, and traditionally **rice**. Closest honest future name: **EMMER-DOLMA-TRIAL** @ **~Cal-Y3 spring** after leaf pick + brine.
+| Dish | Why | Unlock |
+|------|-----|--------|
+| **Honey glaze / sweet tea** | Comb not harvested (wax only d1795) | Named honey year · still hands-off |
+| **Olive oil dishes** | No press | P-02 press · settle |
+| **Yeast bread** | No culture routine · no wheat | Must jar → wild yeast → oven |
+| **Wine cup** | Vinegar yes · wine no | Finish ferment or stay posca |
+| **Cheese / yogurt** | Goats not milked · sex/kidding not closed | GOAT-MILK-HORIZON |
+| **Goat jerky** | Stock animals, not butcher loop | Named slaughter — not campus routine |
+| **Rice pilaf / classic dolma** | No rice | Accept emmer forever |
 
 ---
 
-## Wish list — closest missing & neglected
-
-*Sorted by leverage — what unlocks the most new dishes.*
-
-| Want | Status | Unlocks | Next action |
-|------|--------|---------|-------------|
-| **Honey** | **· not scouted** | Sweet tea · glaze · ferment · medicine · feast dessert | Wild hive recon **spring** · reed skep · **neglected since Y1** |
-| **Olive oil** | **· no press** | Dolma drizzle · pilaf · lamp · soap variant | P-02 oil press trial · settle jar rack |
-| **Yeast bread** | **· ferment ~20% not bread** | Daily carb · feast course · beer path | Must jar → wild yeast capture → flat trial @ kitchen oven |
-| **Grape wine (closed)** | **~ vinegar yes · wine no** | Feast cup · cooking wine · vinegar mother | Finish wine clock or admit vinegar-only |
-| **Spring grape leaves** | **· season gate** | Dolma · pickle leaf jar | Mark P-03 · first pick Cal-Y3 D~100 class |
-| **Onion bulb crop** | **~ leek/garlic only** | Stew base · roast | HERB bed expand · spring bulb watch |
-| **Dairy** | **· kids not milked** | Cheese · yogurt · kid growth | Handling trial · milk pail · curd |
-| **COOL-CELLAR-1** | **✓ complete Day 610 · racks + evap + zig-zag** | Fresh fish +2–4 d · **ICE-VAULT trial ~3.2 kg** | **ICE-HAUL-1** · straw pack · first food load |
-| **PILLOW-DOWN-1** | **✓ Day 612 · ~120 g down @ H-v2** | Not food — comfort | — |
-| **Tin / bronze** | horizon | Better cook pots eventually | TIN-SCOUT — not kitchen urgent |
-
----
-
-## Kitchen gear (what enables cooking)
-
-| Gear | Enables |
-|------|---------|
-| **POT-KITCHEN-1** · **P-ζ** · **CU-SKILLET-1** · **CU-LADLE-1** | Boil · stew · fry smear · feast service |
-| **Hypocaust / wall oven** | Parched · warm fish · bake trial |
-| **Smoke rack** | Fish · jerky · bird |
-| **EVAP-2 porch tray** | Salt |
-| **KITCHEN-FAUCET-1** · **SHOWER-1** | Wash · soak · clean |
-| **BARREL-SET ×3** | Water · grain headroom |
-| **SEED-VAULT** | Next year's food, not today's |
-
----
-
-## Quick "what should I cook?" (by situation)
+## What should I cook?
 
 | Situation | Reach for |
 |-----------|-----------|
-| **15 min hungry** | Jerky · pistachio · leather strip · parched handful |
-| **Proper meal** | Lentil stew + parched mash · or smoked fish + herbs |
-| **Trail day** | Jerky · leather · parched · waterskin |
-| **Impress visitor** | Feast plate · shower wash · multiple courses |
-| **Stock winter** | Salt batch · jerky · leather · smoke fish · parched |
-| **Experiment day** | Posca · tallow flat · grape must · **not** dolma until spring |
+| **15 min hungry** | Jerky · leather · parched · pistachio |
+| **Proper meal** | Stew + mash · or smoked fish + rosemary |
+| **Trail dawn** | Jerky · leather · parched · waterskin |
+| **Yule / visitor** | Goose if you hunt it that morning · otherwise the ten-course without the bird |
+| **Stock the year** | Parch · smoke · jerky · leather · salt batch |
+| **April experiment** | Young grape-leaf roll · still no oil |
 
 ---
 
-*Add new rows when a day file logs a PASS recipe. Cross-link feast slates in journal day files.*
+*Add a row when a day file logs a PASS recipe. Pantry quantities live in [inventory.md](inventory.md).*

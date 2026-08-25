@@ -81,7 +81,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 |-----------|-------------|-------|------|-------|---------|------|---------|----------|-----------|
 | **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **Wood+glass partial · metal defer** | **Mixed** | **Porticus partial** | **✓** | **Hypocaust east · indirect** |
 | **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem: wood · glass partial** | **Iron/brass mix** | **CHEM-AIRLOCK ✓** | **✓ chem** | **Vent hood ✓** |
-| **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **Wood sealed v1 · metal+glass queued** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓** |
+| **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **W + S strap+glass ✓ d1802 · BC-1 windows complete** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓** |
 | **W-1 shell** | **Partial** | **Wattle** | **✓ TR** | **Partial · audit queued** | **N/A** | **N/A** | **N/A** | **Defer** | **N/A** |
 
 **Retrofit queue:** **WINDOW-UPGRADE-1** (metal + glass) · **PORTICO-RIGOR-1** · **DOOR-BRASS-PASS-1** · **BC-1-DRAIN-SPRING-1** *(all buildings · full thaw recheck)*.
@@ -92,10 +92,11 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 | Step | Notes |
 |------|-------|
-| **Metal frame** | **Strap iron casement · ~½–1 d/window · forge · reuses SEAL-GROOVE + reveal** · **not hard · char OK** |
+| **Metal frame** | **Strap iron casement · ~½–1 d/window · forge · reuses SEAL-GROOVE + reveal** · **not brass** · **brass = door/lantern castings only** |
 | **Glass panes** | **Harder clock — kiln block · GP pane class · mount + bead · 1–2 d/opening** |
 | **Char bank** | **✓ d1770 CHAR-BANK-Y6-SLATE — pack lane+vault ~100+ kg before glass block heroes** |
-| **Order** | **Char bank sprint → prototype @ Atelier W → S → chem-lab → domus culina grid** |
+| **Order (updated d1783)** | **Metal strap prototype + repeat → mount · glass parallel or after per opening · Atelier first** |
+| **Brass frames** | **✗ NO-GO d1783 — soft · scale · creep · ~108 g stock = door class** |
 | **Interim** | **Wood + seal v1 + awning = BC-1 acceptable until upgrade hero** |
 
 ---

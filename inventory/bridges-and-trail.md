@@ -4,9 +4,9 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Spare @ HOME
 
-- RESERVE-16 staged @ horreum B (FS ×4 · oak ×2 · peg ×8 · rope ~10 m · mortar ~4.8 kg) — not lashed
-- FILL-16 ~18 kg dress @ horreum B
-- TRAIL-MAINT-SLICE ~7.5 kg @ bench
+- **REFILL-16 skeleton @ horreum B d1823** — **FS ×4 · oak ×1 · rope ~8 m · mortar ~2.4 kg · peg ×1 · band SPENT**
+- **FILL-16 spent** · **RESERVE oak ×1 remain**
+- TRAIL-MAINT-SLICE ~2 kg @ bench
 - TENT-2 nested @ CART-YARD · TENT-1 backup @ WW-YARD
 - EXPED-CARRY-KIT-1 restocked @ wagon
 - COVERED-WAGON-1 + CART-1 pack rig @ CART-YARD
@@ -21,7 +21,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | KIRIKHAN-APPROACH-1 | ~12 m · d1396 |
 | ISK-APPROACH-1 | ~13 m · d1406 |
 | PINARUS-1 | ~12 m · reinforced d1551 |
-| PAYAS-APPROACH-1 | ~14 m · reinforced d1630 |
+| PAYAS-APPROACH-1 | ~14 m · reinforced d1630 · **d1822 reinforce ~3→~2 mm** |
 | DORTYOL-APPROACH-1 | ~10 m · reinforced d1564 |
 | ERZIN-APPROACH-1 | ~9 m · reinforced d1544 |
 | CEYHAN-APPROACH-1 | ~13 m · reinforced d1462 |
@@ -39,4 +39,4 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Kozan field (left live)
 
-KOZAN-FIELD-KILN-1 production-ready · ore stockpile ~4.6 kg · char bank ~0.2 kg RED · KOZAN-HUT-1 socle + wythe c1 ~65% · 0 brick on site · mortar ~2.6 kg · corral ~8×12 m
+KOZAN-FIELD-KILN-1 production-ready · ore stockpile ~4.6 kg · char bank ~0.2 kg RED · **KOZAN-HUT-1 CLOSE ✓ d1832 · wythe c2 · bond beam · TR roof · door · brick ×18 spare @ site** · corral ~8×12 m

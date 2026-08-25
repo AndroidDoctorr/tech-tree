@@ -26,7 +26,7 @@ PB-ROAST-PAN · PB-CRUC · PB-SLAG-DISH · PB-SCOOP (double-red) · ZN-ROAST-PAN
 
 Dye: WOAD-VAT-1 tired · ×4 live baths (iron · hull · grape · onion) · recipe cards @ v1 CHEM
 
-Paper: deckle · mould · couch felt ×4 · sheets 1–5 (sheet 3 @ wagon)
+Paper: deckle · mould · couch felt ×4 · sheets 1–9 (8–9 remain · 6–7 spent d1841 · sheet 3 @ wagon)
 
 ## Transport · hunt
 

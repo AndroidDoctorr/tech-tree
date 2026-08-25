@@ -471,7 +471,7 @@
 | Charcoal store **~75 kg vault CAP** | ✓ |
 | Wood store | ✓ **haul before ~60 kg class** |
 | **Coke** / metallurgical fuel tuning | · **M-COAL-1 scout** horizon |
-| **CHAR-RETORT-1** (mound retort) | · Year 2 yield boost |
+| **CHAR-RETORT-1** (mound retort) | **✓ d1777 @ pit lane cell C · ~+15% yield** |
 
 ---
 

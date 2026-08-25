@@ -1688,7 +1688,7 @@
 | 1697 | [day-1697.md](days/year-005/week-243/day-1697.md) | **FEAST-YULE-1697 ✓ · BOW-HUNT goose ✓ · SUN-YULE-1697 ✓ · Cal-Y5 close** | **Cal-Y5 D365 · 21 Dec** |
 | 1698 | [day-1698.md](days/year-005/week-243/day-1698.md) | **ART-SPRINT-1698 ✓ · palette · paint cakes · ANIMAL-CARE-QUEUE ✓ · Cal-Y6 open** | **Cal-Y6 D1 · 22 Dec** |
 | 1699 | [day-1699.md](days/year-005/week-243/day-1699.md) | **EASEL-1 ✓ · CRAFT-STOOL-1 ✓ @ M2 WORK south · CHAIR queued** | **Cal-Y6 D2 · 23 Dec** |
-| 1700 | [day-1700.md](days/year-005/week-243/day-1700.md) | **P-RETT-8-PULL ✓ · PAINT-CANVAS-1 ✓ · first study @ EASEL-1** | **Cal-Y6 D3 · 24 Dec** |
+| 1700 | [day-1700.md](days/year-005/week-243/day-1700.md) | **Studio Tuesday · Centadial 17** | **Canvas live · flax on rack · [Centadial 17](summaries/centadial-017.md) · Cal-Y6 D3** |
 | 1701 | [day-1701.md](days/year-005/week-243/day-1701.md) | **FLAX-BREAK-8 ✓ · PAINT-STUDY-2 ✓ · Week 243 close** | **Cal-Y6 D4 · 25 Dec** |
 | 1702 | [day-1702.md](days/year-005/week-244/day-1702.md) | **SLUICE-2-STAKE ✓ · WW-2-HEAD survey ✓ · Week 244 open** | **Cal-Y6 D5 · 26 Dec** |
 | 1703 | [day-1703.md](days/year-005/week-244/day-1703.md) | **CRAFT-WING-1-STAKE ✓ · P-RETT-9 load ✓ · winter wild pull** | **Cal-Y6 D6 · 27 Dec** |
@@ -1764,6 +1764,68 @@
 | 1773 | [day-1773.md](days/year-005/week-254/day-1773.md) | **GP-1772 tap ×4 · ATELIER-W glass BATCH-2** | **Cal-Y6 D76 · 7 Mar** |
 | 1774 | [day-1774.md](days/year-005/week-254/day-1774.md) | **GREEN-LINE-READ ✓ · WOOD-HAUL-1774 ✓** | **Cal-Y6 D77 · 8 Mar** |
 | 1775 | [day-1775.md](days/year-005/week-254/day-1775.md) | **PIT-CHAR-DUAL-1775 ✓ · CHAR-UPGRADE-READ** | **Cal-Y6 D78 · 9 Mar** |
+| 1776 | [day-1776.md](days/year-005/week-254/day-1776.md) | **CHAR-RETORT-1 build day 1 ~85%** | **Cal-Y6 D79 · 10 Mar** |
+| 1777 | [day-1777.md](days/year-005/week-254/day-1777.md) | **CHAR-RETORT-1 ✓ · TRIAL PASS · exped D80 open** | **Cal-Y6 D80 · 11 Mar** |
+| 1778 | [day-1778.md](days/year-005/week-254/day-1778.md) | **WOOD-HAUL-1778 ✓ · pile ~54 kg** | **Cal-Y6 D81 · 12 Mar** |
+| 1779 | [day-1779.md](days/year-005/week-255/day-1779.md) | **WEEK-255-OPEN ✓ · ATELIER-W glass BATCH-3** | **Cal-Y6 D82 · 13 Mar** |
+| 1780 | [day-1780.md](days/year-005/week-255/day-1780.md) | **GP-1779 tap · ATELIER-W glass BATCH-4 · west 16/20** | **Cal-Y6 D83 · 14 Mar** |
+| 1781 | [day-1781.md](days/year-005/week-255/day-1781.md) | **BATCH-5 ✓ · ATELIER-W-POUR-CLOSE ×20** | **Cal-Y6 D84 · 15 Mar** |
+| 1782 | [day-1782.md](days/year-005/week-255/day-1782.md) | **W glass INSTALL ✓ · light read PASS** | **Cal-Y6 D85 · 16 Mar** |
+| 1783 | [day-1783.md](days/year-005/week-255/day-1783.md) | **METAL-FRAME-FORGE-EXPERIMENT ✓ · strap PROTO-2 · brass NO-GO** | **Cal-Y6 D86 · 17 Mar** |
+| 1784 | [day-1784.md](days/year-005/week-255/day-1784.md) | **STRAP-FRAME-REPEAT ✓ · W strap mount LIVE** | **Cal-Y6 D87 · 18 Mar** |
+| 1785 | [day-1785.md](days/year-005/week-255/day-1785.md) | **ATELIER-S strap LIVE · metal-first · glass queued** | **Cal-Y6 D88 · 19 Mar** |
+| 1786 | [day-1786.md](days/year-005/week-256/day-1786.md) | **WEEK-256-OPEN ✓ · CHAR-LANE-REFILL @ retort ×3** | **Cal-Y6 D89 · 20 Mar** |
+| 1787 | [day-1787.md](days/year-005/week-256/day-1787.md) | **ATELIER-S glass BATCH-1 ✓ · south 4/20 @ anneal** | **Cal-Y6 D90 · 21 Mar** |
+| 1788 | [day-1788.md](days/year-005/week-256/day-1788.md) | **GP-1787 tap · ATELIER-S glass BATCH-2 ✓ · south 8/20** | **Cal-Y6 D91 · 22 Mar** |
+| 1789 | [day-1789.md](days/year-005/week-256/day-1789.md) | **GP-1788 tap · ATELIER-S glass BATCH-3 ✓ · south 12/20** | **Cal-Y6 D92 · 23 Mar** |
+| 1790 | [day-1790.md](days/year-005/week-256/day-1790.md) | **APIARY-PREP ✓ · kit · HIVE-1 read · runway slate** | **Cal-Y6 D93 · 24 Mar** |
+| 1791 | [day-1791.md](days/year-005/week-256/day-1791.md) | **REED-SKEP-2 coil d1 ✓ · ~45% @ mandrel** | **Cal-Y6 D94 · 25 Mar** |
+| 1792 | [day-1792.md](days/year-005/week-256/day-1792.md) | **REED-SKEP-2 ✓ · ~40 L · @ PAD-2 ghost** | **Cal-Y6 D95 · 26 Mar** |
+| 1793 | [day-1793.md](days/year-005/week-257/day-1793.md) | **WEEK-257-OPEN ✓ · APIARY-PAD-2 ✓ · AG-AP-02 live** | **Cal-Y6 D96 · 27 Mar** |
+| 1794 | [day-1794.md](days/year-005/week-257/day-1794.md) | **WAX-SURPLUS-READ PASS ✓ · HIVE-SCOUT-2 ✓ · swarm @ fig C3** | **Cal-Y6 D97 · 28 Mar** |
+| 1795 | [day-1795.md](days/year-005/week-257/day-1795.md) | **WAX-HARVEST-1 ✓ · SWARM-CAPTURE-2 ✓ @ SKEP-2** | **Cal-Y6 D98 · 29 Mar** |
+| 1796 | [day-1796.md](days/year-005/week-257/day-1796.md) | **QUEEN-READ-2 ✓ · HIVE-2 LIVE · APIARY-EXPAND close** | **Cal-Y6 D99 · 30 Mar** |
+| 1797 | [day-1797.md](days/year-005/week-257/day-1797.md) | **WOOD-HAUL-1797 ✓ · pile ~43 kg** | **Cal-Y6 D100 · 31 Mar** |
+| 1798 | [day-1798.md](days/year-005/week-257/day-1798.md) | **PIT-CHAR-DUAL ✓ · lane ~12 kg · glass GO** | **Cal-Y6 D101 · 1 Apr** |
+| 1799 | [day-1799.md](days/year-005/week-257/day-1799.md) | **CHAR-RETORT ✓ · lane ~30 kg · pile ~7 kg** | **Cal-Y6 D102 · 2 Apr** |
+| 1800 | [day-1800.md](days/year-005/week-258/day-1800.md) | **Sixteen of twenty · Centadial 18** | **S glass 16/20 · Atelier stands · [Centadial 18](summaries/centadial-018.md) · Cal-Y6 D103** |
+| 1801 | [day-1801.md](days/year-005/week-258/day-1801.md) | **ATELIER-S glass BATCH-5 ✓ · S-POUR-CLOSE ×20** | **Cal-Y6 D104 · 4 Apr** |
+| 1802 | [day-1802.md](days/year-005/week-258/day-1802.md) | **S glass INSTALL ✓ · light read PASS · Atelier BC-1 complete** | **Cal-Y6 D105 · 5 Apr** |
+| 1803 | [day-1803.md](days/year-005/week-258/day-1803.md) | **CRAFT-WING-MOVE-IN ✓ · LM-2 · easel · art corner stage** | **Cal-Y6 D106 · 6 Apr** |
+| 1804 | [day-1804.md](days/year-005/week-258/day-1804.md) | **WOOD-HAUL-1804 ✓ · four-lap · pile ~38 kg** | **Cal-Y6 D107 · 7 Apr** |
+| 1805 | [day-1805.md](days/year-005/week-258/day-1805.md) | **CHAR-FULL-DAY ✓ · lane ~36 kg · pit + retort** | **Cal-Y6 D108 · 8 Apr** |
+| 1806 | [day-1806.md](days/year-005/week-258/day-1806.md) | **WOOD-HAUL-1806 ✓ · WEEK-258-CLOSE** | **Cal-Y6 D109 · 9 Apr** |
+| 1807 | [day-1807.md](days/year-005/week-259/day-1807.md) | **WEEK-259-OPEN ✓ · METAL-LANTERN-FORGE · PROTO-2** | **Cal-Y6 D110 · 10 Apr** |
+| 1808 | [day-1808.md](days/year-005/week-259/day-1808.md) | **METAL-LANTERN-UPGRADE-2 ✓ · OIL-LANTERN-2 iron LIVE** | **Cal-Y6 D111 · 11 Apr** |
+| 1809 | [day-1809.md](days/year-005/week-259/day-1809.md) | **METAL-LANTERN-UPGRADE-1 ✓ · OIL-LANTERN-1 iron LIVE @ domus** | **Cal-Y6 D112 · 12 Apr** |
+| 1810 | [day-1810.md](days/year-005/week-259/day-1810.md) | **CHAR-FULL-DAY ✓ · pit dual + retort ×2 · lane ~36 kg** | **Cal-Y6 D113 · 13 Apr** |
+| 1811 | [day-1811.md](days/year-005/week-259/day-1811.md) | **WOOD-HAUL ✓ · pile ~37 kg · restock GO** | **Cal-Y6 D114 · 14 Apr** |
+| 1812 | [day-1812.md](days/year-005/week-259/day-1812.md) | **EXPED-RESTOCK + LARDER-BANK ✓ · trail column staged** | **Cal-Y6 D115 · 15 Apr** |
+| 1813 | [day-1813.md](days/year-005/week-259/day-1813.md) | **BLAST-CAP ×3 · road pilot PASS · TRAIL-AUDIT L0–L3 ✓** | **Cal-Y6 D116 · 16 Apr** |
+| 1814 | [day-1814.md](days/year-005/week-260/day-1814.md) | **WEEK-260-OPEN ✓ · brick fire + KOZAN-DOOR-PREFAB ✓ · hut kit ×40** | **Cal-Y6 D117 · 17 Apr** |
+| 1815 | [day-1815.md](days/year-005/week-260/day-1815.md) | **MORTAR-KOZAN-4 ✓ · TR ×28 · HUT-MAT-BAND-CLOSE ✓** | **Cal-Y6 D118 · 18 Apr** |
+| 1816 | [day-1816.md](days/year-005/week-260/day-1816.md) | **BRIDGE-KIT-LASH ✓ · TRAIL-AUDIT KIRIKHAN · AMBER · camp north** | **Cal-Y6 D119 · 19 Apr** |
+| 1817 | [day-1817.md](days/year-005/week-260/day-1817.md) | **KIRIKHAN-TOUCH ✓ · Belen verify ✓ · REFILL-16 ~95% intact** | **Cal-Y6 D120 · 20 Apr** |
+| 1818 | [day-1818.md](days/year-005/week-260/day-1818.md) | **TRAIL-AUDIT Belen→Erzin ✓ · corridor GREEN · stop 2** | **Cal-Y6 D121 · 21 Apr** |
+| 1819 | [day-1819.md](days/year-005/week-260/day-1819.md) | **TRAIL-AUDIT Erzin→Ceyhan ✓ · stop 3 verify · GREEN** | **Cal-Y6 D122 · 22 Apr** |
+| 1820 | [day-1820.md](days/year-005/week-260/day-1820.md) | **TRIB-N03 audit · KOZAN GO ✓ · REINFORCE · corridor close** | **Cal-Y6 D123 · 23 Apr** |
+| 1821–1823 | [fast-string-return-1821-1823.md](days/year-005/week-261/fast-string-return-1821-1823.md) | **FAST-STRING 3D RETURN ✓ · PAYAS reinforce ✓ · audit lap close ✓ · HOME** | **Cal-Y6 D124–D126 · 24–26 Apr** |
+| 1824 | [day-1824.md](days/year-005/week-261/day-1824.md) | **KOZAN-HUT-MAT-LASH ✓ · CAMPUS-CHECK ✓ · column staged** | **Cal-Y6 D127 · 27 Apr** |
+| 1825–1827 | [fast-string-outbound-1825-1827.md](days/year-005/week-261/fast-string-outbound-1825-1827.md) | **FAST-STRING 3D OUT ✓ · larder top-up ✓ · @ Ceyhan · Week 261 close** | **Cal-Y6 D128–D130 · 28–30 Apr** |
+| 1828 | [day-1828.md](days/year-005/week-262/day-1828.md) | **WEEK-262-OPEN ✓ · FAST-STRING L4 · Ceyhan→Kozan · hut close lap open** | **Cal-Y6 D131 · 1 May** |
+| 1829 | [day-1829.md](days/year-005/week-262/day-1829.md) | **KOZAN-HUT-UNLASH ✓ · WYTHE-C1-CLOSE ✓ · WYTHE-C2 ~65% · gate day 1/4** | **Cal-Y6 D132 · 2 May** |
+| 1830 | [day-1830.md](days/year-005/week-262/day-1830.md) | **WYTHE-C2-CLOSE ✓ · KOZAN-BOND-BEAM ✓ · gate day 2/4** | **Cal-Y6 D133 · 3 May** |
+| 1831 | [day-1831.md](days/year-005/week-262/day-1831.md) | **KOZAN-HUT-ROOF-TR ✓ · drip PASS ✓ · gate day 3/4** | **Cal-Y6 D134 · 4 May** |
+| 1832 | [day-1832.md](days/year-005/week-262/day-1832.md) | **KOZAN-HUT-DOOR-HANG ✓ · KOZAN-HUT-CLOSE ✓ · tin defer ✓ · gate 4/4** | **Cal-Y6 D135 · 5 May** |
+| 1833–1834 | [fast-string-return-1833-1834.md](days/year-005/week-262/fast-string-return-1833-1834.md) | **FAST-STRING 2D RETURN A ✓ · Kozan→Erzin · Week 262 close** | **Cal-Y6 D136–D137 · 6–7 May** |
+| 1835–1836 | [fast-string-return-1835-1836.md](days/year-005/week-263/fast-string-return-1835-1836.md) | **FAST-STRING 2D RETURN B ✓ · HOME ✓ · hut close lap close ✓ · Week 263 open** | **Cal-Y6 D138–D139 · 8–9 May** |
+| 1837 | [day-1837.md](days/year-005/week-263/day-1837.md) | **FARM-SCARE ✓ · CART-AUDIT ✓ · CART-TUNE-UP ✓ · post-lap nest** | **Cal-Y6 D140 · 10 May** |
+| 1838 | [day-1838.md](days/year-005/week-263/day-1838.md) | **PAPER-SPRINT-2 ✓ · sheets 6–7 · larger blast-cap slate filed** | **Cal-Y6 D141 · 11 May** |
+| 1839 | [day-1839.md](days/year-005/week-263/day-1839.md) | **PAPER-SPRINT-2-D2 ✓ · fiber day · sheets 8–9 · runway ~4 sheets** | **Cal-Y6 D142 · 12 May** |
+| 1840 | [day-1840.md](days/year-005/week-263/day-1840.md) | **POWDER-INGREDIENT-PREP ✓ · M-12-PURIFY ✓ · niter bind · mix queued** | **Cal-Y6 D143 · 13 May** |
+| 1841 | [day-1841.md](days/year-005/week-263/day-1841.md) | **GUNPOWDER-MIX ✓ · BLAST-CAP-BATCH ✓ · ×5 caps · berm proof PASS** | **Cal-Y6 D144 · 14 May** |
+| 1842 | [day-1842.md](days/year-005/week-264/day-1842.md) | **WEEK-264-OPEN ✓ · KOZAN-14D-LAP-PREP ✓ · food · char · caps · TQ-lite · ~58 kg GO** | **Cal-Y6 D145 · 15 May** |
+| 1843–1846 | [fast-string-outbound-1843-1846.md](days/year-005/week-264/fast-string-outbound-1843-1846.md) | **FAST-STRING 4D OUTBOUND ✓ · HOME → Kozan · char bank · gate stash · north slate** | **Cal-Y6 D146–D149 · 16–19 May** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1786,6 +1848,8 @@
 | **14** | 1301–1400 | [centadial-014.md](summaries/centadial-014.md) |
 | **15** | 1401–1500 | [centadial-015.md](summaries/centadial-015.md) |
 | **16** | 1501–1600 | [centadial-016.md](summaries/centadial-016.md) |
+| **17** | 1601–1700 | [centadial-017.md](summaries/centadial-017.md) |
+| **18** | 1701–1800 | [centadial-018.md](summaries/centadial-018.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

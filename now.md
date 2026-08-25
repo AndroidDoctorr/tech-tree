@@ -2,27 +2,30 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 1775** · Cal-Y6 D78 · ~9 Mar · Week 254 day 4 · HOME · C-0 west cubiculum
+**Day 1846** · Cal-Y6 D149 · ~19 May · Week 264 day 5 · **@ KOZAN gate** · TENT-2 north terrace
 
 | Track | Status |
 |-------|--------|
-| Farm | ~50 m² standing crop · GREEN-LINE d1774 · FARM-CARE-GREEN · scare-only lifted · exped window ~D80 (~11 Mar) |
-| Char | Lane ~53 kg · Store C ~40 kg · pile 5 ~50 kg · B-182 staked · CHAR-RETORT-1 next (~1–2 d) |
-| Glass | Atelier W ×8/~20 · ×4 tray · ×4 anneal · batch-3 when named |
-| Textile | Thread ~269 m · flax line ~0.90 kg (paper ~500 g · spin-3 ~400 g) |
-| Team | Mabel · Humphrey · Silas @ HOLDING-1 · goats ×2 @ P-GOAT-1 |
+| Farm | ~50 m² · FARM-CARE-GREEN · **Silas hold @ HOME** |
+| Char | **HOME lane ~8 kg · gate bank ~7.2 kg GREEN @ lee** |
+| Apiary | HIVE-1 + HIVE-2 LIVE ✓ |
+| Paper | SHEET-8–9 @ peg · HOME |
+| Queue | **6 @ site · north hero · tin play-by-ear · Adana defer** |
+| Trail | **~58 kg column · ~6 kg wagon food · corridor GREEN** |
+| Blast | **Caps ×5 @ POWDER-SAFE-BOX-1 · mountain trials live** |
+| Food | **~6 kg wagon · ~2 kg gate stash @ lean-to** |
+| Kozan @ gate | **Hut CLOSE · ore ~4.6 kg · kiln live · path B · north hero queued** |
+| Team | **Mabel + Humphrey @ trail · Silas hold @ HOME** |
 
 ## Next
 
-1. CHAR-RETORT-1 when named
-2. Atelier W glass batch-3
-3. FARM-CARE-GREEN · exped ~D80
+1. North path — tuff · highland · blast-cap road trials
+2. Tin path B — opportunistic collect/smelt if days spare
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- Exped / cart open ~11 Mar (Cal-Y6 D80)
-- Spring sow closes ~16 Mar
-- Apiary expand / wax ~21 Mar–20 Apr
+- Quartz / ore haul season open
+- Exped open
 
 ## Do not treat as live
 

@@ -4,13 +4,6 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 ---
 
-## December
-
-- **22 Dec** — Year opens
-- **16 Dec** — Olive / grape / madder season ends
-- **20 Dec** — Feast eve −1
-- **21 Dec** — Yule / Feast
-
 ## January
 
 - **20 Jan** — Ice haul opens
@@ -63,3 +56,10 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **26 Nov** — Salt evap closes
 - **27 Nov** — Emmer harvest
 - **28 Nov** — Pulse harvest
+
+## December
+
+- **22 Dec** — Year opens
+- **16 Dec** — Olive / grape / madder season ends
+- **20 Dec** — Feast eve −1
+- **21 Dec** — Yule / Feast
