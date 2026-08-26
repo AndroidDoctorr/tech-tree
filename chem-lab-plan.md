@@ -74,7 +74,7 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 | **Duct volume** | **~20×30 cm** class void @ hood crown — fan wheel or paddle fits without re-skinning |
 | **Mount pegs** | **×2 oak** @ east/west cheek — belt takeoff or hand-crank stub later |
 | **Draft today** | Passive louver + stack effect · smoke PASS Day 703 |
-| **Draft target** | **LAB-VENT-FAN-1** — WW belt · blower tap · or dedicated crank — *not built* |
+| **Draft target** | **LAB-VENT-FAN-1** — **✓ LIVE Day 1954 @ hood chase · WW-2 belt branch** |
 | **Rule** | Do **not** block chase with shelf stock · keep **~40 cm** clear below ridge |
 
 ---
@@ -127,14 +127,14 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 
 | ID | Target | Notes |
 |----|--------|-------|
-| **CL-LAB-WEAR-1** | **×2–3** dedicated tunics/breech | **CL-LAB-TUNIC-1 ~42%** · **CL-BUTTON-BATCH backlog** |
-| **CHEM-LAB-AIRLOCK-1** | **Covered porch @ lab door** | **Mat/peg v0 ✓** · full porch deferred |
+| **CL-LAB-WEAR-1** | **×3** dedicated tunics/breech | **✓ REFRESH Day 1955 @ chem door pegs #1/#2/#3** |
+| **CHEM-LAB-AIRLOCK-1** | **Covered porch @ lab door** | **✓ Day 1956 · full porch LIVE @ chem east** |
 | **LAB-TOOLS-1** | Bench kit overflow | Staging |
 | **LAB-FIRE-SUPPRESS-1** | Fire response | **v0 ✓ Day 796** · v1 sprayer · v2 roof trough |
 | **STORAGE-REORG-1** | **✓ Day 797** | Mat/chem/tool → **STORE-4 ✓** · food @ kitchen · **STORE-3 retired** |
 | **STORE-4** | **✓ live Day 797** | See [map.md](map.md) — not blocking lab ops |
 | **WW-HUB-1** | **~3×3 m crossing** | Cart turn · airlock · links wings |
-| **LAB-VENT-FAN-1** | Hood chase fan | Provisioned Day 703 |
+| **LAB-VENT-FAN-1** | Hood chase fan | **✓ Day 1954 @ north hood · WW-2 branch** |
 | **STORAGE-JAR-SET-1** | **×6–10 lidded jars** | Reagent overflow |
 | **COOL-CELLAR-8+** | Evap partition | Horizon · not blocking |
 
@@ -152,7 +152,7 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 | **Door** | **Closed** between passes · **vent louver crack** · work **out** through door |
 | **Mask** | **Oak · cabinets · shelves** sheeted during plaster/wash |
 | **Hands** | **Rinse bucket** before touching wet wall with outdoor hands |
-| **Future** | **CHEM-LAB-AIRLOCK-1** — **covered porch @ lab door** · change · brush · mat · **buffer zone** before wing *(backlog)* |
+| **Future** | **CHEM-LAB-AIRLOCK-1** — **✓ Day 1956** — covered porch @ lab door · change · brush · mat · buffer zone |
 
 **Interleave:** **Tile press/fire OK** on **cure days** between wet hero passes — **not** same calendar day as wash/grout if avoidable.
 
@@ -176,7 +176,7 @@ The north hood box was built **oversize** with a **reserved chase** above the lo
 
 | Service | Status | Notes |
 |---------|--------|-------|
-| **Fume hood + vent** | **✓ passive Day 703** | North hood · louver ×4 · **FAN-PROVISION** chase **~20×30 cm** · **LAB-VENT-FAN-1** queued |
+| **Fume hood + vent** | **✓ passive Day 703 · fan Day 1954** | North hood · louver ×4 · **LAB-VENT-FAN-1 ✓ @ chase** |
 | **Ridge vent slot** | **✓** | Stack draft north · cross-draft discipline |
 | **OUTLET-BRICK-665** | **✓ N wall chase stub** | **Conduit / wire chase** — surface **CU strap** or tile clip OK |
 | **Aqueduct branch** | **✓ Day 764** | **AQUEDUCT-LAB-BRANCH-1 @ east sill · slop drain E → D-1 · wet feed live** |

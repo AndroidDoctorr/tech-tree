@@ -66,7 +66,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 | Rule | Standard |
 |------|----------|
-| **Site drain** | **Graded swale or trench** off **every wing cheek** · **≥1–2% fall** to **ditch / D-1 / impluvium** — **no pond @ sill or socle** |
+| **Site drain** | **Graded swale or trench** off **every wing cheek** · **≥1–2% fall** to **ditch / D-1 / TRIB-1 / impluvium** — **no pond @ sill or socle** · **never** soil-pit to stream |
 | **Underfloor** | **Gravel + lime bed** must tie into site drain — **not blind basin** |
 | **Airlock pad** | **Gravel scrape + pitch out** @ portico/mudroom *(see Entry airlock)* |
 | **Spring test** | **Mandatory pour test** each **Cal-Y spring** *(pre-sow band OK)* — **×2 bucket @ lowest cheek + entry pad** · **clear <~2 min · no sill pond** |
@@ -111,10 +111,10 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 | Structure | Socle/floor | Brick | Roof | Drain | Windows | Door | Airlock | Limewash | Heat/vent |
 |-----------|-------------|-------|------|-------|---------|------|---------|----------|-----------|
-| **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **Wood+glass partial · metal defer** | **Mixed** | **Porticus partial** | **✓** | **Hypocaust east · indirect** |
-| **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem: wood · glass partial** | **Iron/brass mix** | **CHEM-AIRLOCK ✓** | **✓ chem** | **Vent hood ✓** |
+| **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **W LIVE ✓ · E LIVE ✓ d1953** | **✓ cluster d1939** | **✓ d1922+d1941 LIVE** | **✓** | **Hypocaust east · indirect** |
+| **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem: wood · glass partial** | **Chem airlock porch ✓ d1956** | **CHEM-LAB-AIRLOCK-1 ✓** | **✓ chem** | **Vent hood + fan ✓ d1954** |
 | **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **W + S strap+glass ✓ d1802 · BC-1 windows complete** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓** |
-| **W-1 shell** | **Partial** | **Wattle** | **✓ TR** | **Partial · audit queued** | **N/A** | **N/A** | **N/A** | **Defer** | **N/A** |
+| **W-1 lean-to** | **Retired** | **Wattle remnant** | **✓ TR leftover** | **Dirty racks only** | **N/A** | **N/A** | **N/A** | **N/A** | **Not a BC-1 target** |
 
 **Retrofit queue:** **WINDOW-UPGRADE-1** (metal + glass) · **PORTICO-RIGOR-1** · **DOOR-BRASS-PASS-1** · **BC-1-DRAIN-SPRING-1** *(all buildings · full thaw recheck)*.
 

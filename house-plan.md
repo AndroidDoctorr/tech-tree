@@ -13,7 +13,7 @@
 
 **Domus H-V3** is a **single-storey courtyard villa** wrapped around **C-0** (~12 m S of H-v2). Ranges face the **atrium** (open court · impluvium drain); **H-v2** becomes the **horreum** (north store range) until obsolete, then **demolish → plaza hardscape**.
 
-**Not in the domus:** **officina** · **telarium** (loom) · **incudinarium** (forge) — those stay **W-1 / MILLHOUSE-3 / FORGE-D** @ WW-YARD ([map.md](map.md)).
+**Not in the domus:** **officina** · **telarium** (loom) · **incudinarium** (forge) — **Atelier** (old W-1 pad) · **MILLHOUSE-2 / FORGE-D** @ Fabrica ([map.md](map.md)).
 
 **Structural grammar:** **stone socle** + **single-wythe brick mures** (or rubble-lime core in bath wing) · **stone colonnade** on courtyard faces · **zoned hypocaust** (bath block only) · **slab + tile** elsewhere · **shed tile roofs** per range.
 
@@ -41,9 +41,9 @@
 |------|------|
 | **Center** | **C-0** · **SUN-CAL-1** · courtyard axis ([inventory.md](inventory.md)) |
 | **North range** | **H-v2** — respawn → **storage / cubiculum annex** when compound live |
-| **Slope** | Terrace **falls S** toward workshop lane (Day 93) — **impluvium + all ranges drain to D-1**, never into H-v2 hypocaust |
-| **Workshop** | **W-1** @ 80 m downslope — **LM-3 · LOOM-WING** there, not in villa |
-| **Forge / heat** | **FORGE-D** @ WW-YARD — not a second villa furnace |
+| **Slope** | Plateau: **E upslope** (gorge) · **W downslope** (Orontes) · **N drop to TRIB-1** — **impluvium + all ranges drain to D-1 → TRIB-1**, never into horreum / hypocaust |
+| **Workshop** | **Atelier** @ old **W-1** pad · mid-campus — **not** in the villa · **not** on the Fabrica plus |
+| **Forge / heat** | **FORGE-D** @ Fabrica — not a second villa furnace |
 
 ```
               [ horreum — H-v2 · store / cubiculum annex ]
@@ -60,9 +60,9 @@
     ├───────────────────────────────────────┤
     │  S · culina · penus · porticus        │
     └───────────────────────────────────────┘
-              ↓ ad D-1 / flumen
+              ↓ ad D-1 / TRIB-1
 
-    Officina @ W-1 · incudinarium @ FORGE-D (extra campus)
+    Atelier @ old W-1 pad · incudinarium @ FORGE-D (Fabrica)
 ```
 
 ---
@@ -84,7 +84,7 @@
 | **porticus** | Roofed porch · wagon |
 | **atrium / impluvium** | Open court · rain drain @ C-0 |
 | **compluvium** | Roof opening above impluvium *(optional pool)* |
-| **officina** | Workshop @ W-1 |
+| **officina** | Workshop @ **Atelier** (old W-1 pad) |
 | **telarium** | Loom bay · LOOM-WING |
 | **incudinarium** | Forge district @ FORGE-D |
 | **mures / parietes** | Exterior / interior walls |
@@ -203,10 +203,10 @@
 
 | Stream | Route |
 |--------|-------|
-| **Storm / impluvium** | **C-0 sump** → **D-1** → river extension (existing grammar) |
-| **Greywater** | **culina** + **lavatorium** → **grease trap** → **planted swale** downslope *(or atrium margin)* |
-| **Blackwater** | **latrina** → **SOIL-PIT-1** @ camp margin (~MIDDEN-FAR) · lime-sealed · **not** under atrium |
-| **Orontes culvert** | **Horizon / prestige** — only if SOIL-PIT fails or compound scales |
+| **Storm / impluvium** | **C-0 sump** → **D-1** → **TRIB-1** |
+| **Greywater** | **culina** + **lavatorium** → **grease trap** → **planted swale** toward TRIB-1 or **W** drop |
+| **Blackwater** | **latrina** → **SOIL-PIT-1** @ camp margin (~MIDDEN-FAR) · lime-sealed · **not** under atrium · **never TRIB-1 / Orontes** |
+| **Orontes culvert** | **Horizon / prestige** — only if SOIL-PIT fails or compound scales · **~1 km W**, not a campus outfall |
 
 **Flood:** **sluice** on any river outfall you do build · **never** tie blackwater to hypocaust void.
 
@@ -292,8 +292,8 @@
 | Function | Latin / ID | Location |
 |----------|------------|----------|
 | **Forge · iron** | **incudinarium** · FORGE-D | WW-YARD |
-| **Loom · textiles** | **telarium** · LOOM-WING-1 | W-1 · LM-3 |
-| **Bench · woodwork** | **officina** | WORKBENCH-1 @ W-1 |
+| **Loom · textiles** | **telarium** · LOOM-WING-1 | **Atelier** · LM-2 |
+| **Bench · woodwork** | **officina** | WORKBENCH-1 @ Fabrica · clean bench @ Atelier |
 | **Water · power** | **molendinum** *(millhouse)* | MILLHOUSE-3 @ WW-YARD |
 | **Kilns · brick** | **fornax** *(factory)* | Kiln terrace @ v1 — smoke **downwind** of atrium |
 
@@ -329,7 +329,7 @@
 | Bucket | Est. fired brick | Notes |
 |--------|------------------|-------|
 | **Domus H-V3** | **~700–1,000** | Single-wythe mures · hypocaust east only · colonnade |
-| **Officina + telarium** (W-1) | **~80–150** | LOOM-WING cheek · lintels · **MURE-R1** socle class |
+| **Officina + telarium** (Atelier) | **~80–150** | **CRAFT-WING-1** · lintels · **MURE-R1** socle class |
 | **Molendinum** (MILLHOUSE-3+) | **~40–80** | Forge-adjacent cheek · char sight · windbreak |
 | **CHEM-LAB-WING-1** | **~200–280** | **5×6 m lab @ WW-YARD** · stone socle · before domus — [chem-lab-plan.md](chem-lab-plan.md) |
 | **MILLHOUSE-2 mirror** *(later)* | **~120–160** | Replaces torn **3×4 m** Phase 1 · same rectangle grammar |

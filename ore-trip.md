@@ -75,7 +75,7 @@
 | **Ceyhan north · Kozan camp** | **KOZAN-SCOUT-CAMP** | **✓ gate ~220 km · **SC-KOZAN-TIN-PATH-B** ✓ · **CASSITERITE-VERIFY** ✓ d1479 · TIN-HAUL-1 horizon** |
 | **Adana · CROSS Seyhan** | **SEYHAN-1** | **Defer · raft/rope ferry · north bypass · upstream — slate d1385** |
 
-**Retcon:** d1383–1384 **TRIB-FT-01/02** = **Karasu feeder tribs** on the NNE string **before** the main **Asi/Orontes trunk** crossing. Trail km ~16 camp ≠ ore-trip km 8 Asi point (trail vs avian); trunk crossing **~2 km west** of camp string @ stadium shallows class + **upstream site B** preferred for bridge.
+**Retcon:** d1383–1384 **KARASU-TRIB-01/02** = **Karasu feeder tribs** on the NNE string **before** the main **Asi/Orontes trunk** crossing. **TRIB-FT-01** = **HOME TRIB-1** (see [journal/retcons/TRIB-FT-01-HOME-1920.md](journal/retcons/TRIB-FT-01-HOME-1920.md)). Trail km ~16 camp ≠ ore-trip km 8 Asi point (trail vs avian); trunk crossing **~2 km west** of camp string @ stadium shallows class + **upstream site B** preferred for bridge.
 
 **Line map:** Stop list · crossing symbols · hop times · risky-ford pins — **[map.md](map.md) § ORE-TRIP route A** *(filed d1403)*.
 

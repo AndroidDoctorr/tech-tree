@@ -1,15 +1,29 @@
 # Map
 
-*Last updated: **Day 1722** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality:** [route-a-road.md](route-a-road.md)*  
+*Last updated: **Day 1920** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality:** [route-a-road.md](route-a-road.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
-**Camp bearing:** Terrace above river bend, gorge to the east  
+**Camp bearing:** Plateau on the **south bank of TRIB-1** · gorge / mountain **E** · Orontes **~1 km W**  
+**Site lock:** [journal/retcons/HOME-SITE-LOCK-1920.md](journal/retcons/HOME-SITE-LOCK-1920.md)  
 **Your pace:** ~5 km/h motivated on marked trail; ~3 km/h with load or brush
+
+### HOME site *(player lock · Day 1920)*
+
+Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves the **east gorge** (Habib-i Neccar / Demir Kapı class) and runs **west** to the **Orontes**. The Orontes is **not** at the foot of camp.
+
+| Axis | Live |
+|------|------|
+| **N** | **TRIB-1** · Fabrica / T-1 fork · **TRIB-FT-01** (logs + stubs) · road continues **N** |
+| **E** | **Upslope** · gorge · pines on the climb · A-03 |
+| **S** | Inland plateau · then mountain rise |
+| **W** | **Downslope** · farm / olive · Amuq · **Orontes ~1 km** · coast ~20 km |
+
+**Two clocks:** **Domus** inland on the plateau · **Fabrica** on the water. **Atelier** = **W-1 replacement** (brick), mid-campus, off the fume cluster. **TRIB-FT-01** = this stream’s first road crossing.
 
 ### CAMPUS-MASTER-PLAN-1 *(staked Day 883 · strings remain @ site)*
 
 | Stake line | Purpose |
 |------------|---------|
-| **TERRACE-UP ×2** | Upslope bench retaining faces @ H-v2 N margin — **✓ seg #1 d888 · ✓ seg #2 d910** |
+| **TERRACE-UP ×2** | Bench retain @ Domus · **N drop toward TRIB-1** (built as “H-v2 N margin”) — **✓ seg #1 d888 · ✓ seg #2 d910** · true **E upslope** face is the mountain side |
 | **PATH-CROWN** | T-5 H-v2↔v1 · T-1 fork @ WW-YARD — **✓ crowned d911 · compact surfacing · cart PASS** |
 | **DRAIN-D-1** | Swale extension · greywater fork — **✓ d915 · GREASE-TRAP-1 ✓ d919 · SOIL-PIT-1 ✓ d925 @ DR-SP-01 (~2.0 m sealed)** |
 | **SLAG-DUMP-A/B/C** | **WF-SB-01 ✓ d923 first cart ~18 kg · pad live · T-5 crown → SW · A reserve · C reject** |
@@ -60,30 +74,29 @@
 ## Overview (distances in meters from camp)
 
 ```
-                         [Gorge E — A-03 goat trap ~850 m]
+                    [Gorge E — A-03 ~850 m · pines on the climb]
                                     |
-    [Pine N] ═══ 150 m + climb ═══ CAMP (0) ═══ 80 m ═══► [Hut v1 · oven · kilns A/B/C]
-                                    |                        |
-                              12 m upslope              80 m downslope
-                                    |                        |
-                              [H-v2 HOME]              [Workshop W-1]
+     Orontes ~1 km W ←══ TRIB-1 (N edge · gorge → W) ══ [gorge mouth]
                                     |
-                              [C-0 SUN-CAL-1]
+                         [TRIB-FT-01 · logs + pozz stubs · road N]
                                     |
-              160 m          200 m          400 m
-           pistachio ───── farm plot ───── olive slope (P-02)
-                \      Bed D · P-GOAT-1    |
-                 \    P-03 trellis ✓       |
-                  \                           |
-                   ═══════ 200 m ══════════════╪════ Orontes
-                                    |         |
-                              90 m clay       200 m fish weir
+                    [Fabrica / WW-YARD ~140 m @ T-1 fork]
+                    [plus: Store-4 N · Millhouse-2 W · Chem E · hub]
+                    [south court: WW-1 · WW-2 · Forge-D @ millhouse]
                                     |
-                         520 m NW [CIRCUS STAKE]
+              [Atelier · old W-1]     [v1 store · kilns A/B/C ~80 m]
                                     |
-                              Amuq plain → W
+                         [CAMP 0 · DOMUS · C-0]
+                      upslope E ← · → downslope W
                                     |
-                         ~20 km W [COAST-SITE-1 · COAST-BEACON-1]
+         160 m            200 m           400 m            ~1 km
+      pistachio ────── farm T-2 ────── olive P-02 ────── Orontes
+           \         Bed D · pen · hives
+            \
+             520 m NW across trib [CIRCUS]
+                                    |
+                         future town site SW along Orontes
+                         Amuq plain → W · coast ~20 km W
 ```
 
 ---
@@ -93,9 +106,9 @@
 | Point | Bearing from camp | Meters | Walk (min) | Notes |
 |-------|-------------------|--------|------------|-------|
 | **Camp** (base) | — | 0 | — | Piles 1–9, store C, pits, map stone |
-| **Hut v1 (H)** | Downslope | 80 | 5 | Oven, dry-store staging; **no respawn** |
-| **H-v2 (HOME)** | Upslope | **~92** | 6 | **Respawn bed** · hypocaust · brick shell |
-| **Workshop W-1** | Downslope | 80 | 5 | Wattle complete Day 71 |
+| **Hut v1 (H)** | Mid-campus toward TRIB-1 | 80 | 5 | Oven, dry-store / **SEED-VAULT**; **no respawn** |
+| **H-v2 / Domus** | Plateau · inland of TRIB-1 | **~92** class | 6 | **Respawn** @ C-0 west cubiculum · horreum = old H-v2 |
+| **Atelier (old W-1)** | Mid-campus · old W-1 pad | 80 | 5 | **CRAFT-WING-1** · W-1 retired · Turris ghost E |
 | Clay bank | T-1 | 90 | 6 | Primary brick clay |
 | **Retting pool P-RETT-1** | Farm ditch W | **~235** | 14 | **Bundle 1 dry ✓** — break/scutch pending |
 | Fish weir | T-1 end | 200 | 12 | 4–8 fish/day |
@@ -104,8 +117,9 @@
 | **HOLDING-1** | N of pen | **~205** | 12 | **Mabel + Humphrey** partitions A/B · **TROUGH-v2 ✓** |
 | **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-3 ✓ Day 669** · P-17 · flax · emmer · herbs |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
-| **WW-YARD / WW-1** | T-1 fork ↓ river | **~140** | 10 | **WW-1 ✓ 100%** · **MILLHOUSE-1 ✓** · **FORGE-D ✓** |
-| **BRIDGE-1 @ km 3 creek** | **~3 km S on T-2** | **~3 km** | **~40 min wagon** | **✓ Day 720** · span **~2.4 m** · wagon empty + **~25 kg PASS** |
+| **WW-YARD / Fabrica** | T-1 fork @ TRIB-1 (N edge) | **~140** | 10 | **WW-1 ✓** · **MILLHOUSE-2 ✓** · **FORGE-D ✓** · plus-shape |
+| **TRIB-FT-01** | TRIB-1 N of campus | **~140** class | — | **Logs v0 · stubs PASS d1917 · stringers GO · deck defer** · road **N** |
+| **BRIDGE-1 @ km 3 creek** | **~3 km on T-2** | **~3 km** | **~40 min wagon** | **✓ Day 720** · span **~2.4 m** · wagon empty + **~25 kg PASS** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
 | **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D315** · ground **501** · wall **497** · **YULE @ 374** — [sun-calendar.md](../sun-calendar.md) |
 | Pistachio (P-01) | T-2 | 160 | 8 | 4 trees · autumn harvest |
@@ -116,7 +130,7 @@
 | **COAST-TRAIL-1** | **~8 km W** | **~8 km** | **~1.5 h** | **M-spike #1** + PM-R1 + lime cap |
 | **COAST-BEACON-1** | **~20 km W beach** | **~20 km** | — | Cairn **~1.4 m** + **M-spike #2** · home vector **E** |
 | **COAST-CAMP-1** | Beach E dune | **~20 km W** | — | Trail camp site · **COAST-1 ✓ complete Day 202** |
-| Pine resin | N upslope | 150 + 30 climb | 15 | ~8 pines |
+| Pine resin | E upslope | 150 + 30 climb | 15 | ~8 pines on the mountain |
 | **Goat trap A-03** | Gorge E | **~850** | 55+ | **Live-capture mode** Day 79 |
 | Circus stake | T-3 NW | 520 | 32 | Future landmark |
 | Wild fig (P-12) | NW plain | 650 | 38 | ~Aug–Sep ripe |
@@ -128,9 +142,9 @@
 
 | Trail | Total length | Status |
 |-------|--------------|--------|
-| **T-1** Camp → clay → weir | **290 m** | **100% cleared** |
-| **T-2** Camp → farm → olive | 600 m to olive | **Farm leg ✓ · south BRIDGE-1 ✓ @ km 3 Day 720** |
-| **T-3** Camp → circus | 520 m | Marked |
+| **T-1** Camp → Fabrica fork → clay → weir (TRIB-1) | **290 m** | **100% cleared** |
+| **T-2** Camp → farm → olive (W / downslope) | 600 m to olive | **Farm leg ✓ · BRIDGE-1 ✓ @ km 3 Day 720** |
+| **T-3** Camp → TRIB-FT-01 → circus | 520 m | Marked · **NW** |
 | **T-4** Far loop | ~2.4 km | Marked |
 | **T-5** Hut ↔ camp | **80 m** | **100%** |
 
@@ -146,7 +160,7 @@
 
 ---
 
-## Kiln complex — **80 m downslope** (hut v1 terrace)
+## Kiln complex — **~80 m** mid-campus (hut v1 terrace · toward TRIB-1)
 
 | Kiln | Status | Notes |
 |------|--------|-------|
@@ -156,7 +170,7 @@
 
 ---
 
-## Hut v1 — **80 m downslope**
+## Hut v1 — **~80 m** mid-campus (toward TRIB-1)
 
 | | |
 |--|--|
@@ -166,7 +180,7 @@
 
 ---
 
-## Hut v2 (H-v2) — **~12 m upslope from v1** · **HOME**
+## Hut v2 (H-v2) — **Domus north range / horreum** · **HOME precinct**
 
 | | |
 |--|--|
@@ -177,26 +191,25 @@
 | **Bricks in structure** | **~170** |
 | **Bed** | NW pad — **respawn anchor** |
 | **Door** | W gap **~0.9 m** · reed mat |
-| **Ante + porch** | **✓ 100%** — mudroom + deck · downslope |
+| **Ante + porch** | **✓ 100%** — mudroom + deck |
 | **H-v2-KITCHEN wing** | West T-plan arm | **✓ operational Day 507** · **tile roof ✓ Day 539** · sink · teal curtain · checker floor |
-| **AQUEDUCT-1** | v1 → H-v2 → FORGE-D → kitchen · pen float | **✓ Day 564** · **KITCHEN-FAUCET-1 ✓** |
+| **AQUEDUCT-1** | **TRIB-1 gorge head** → header @ WW-YARD → Domus / lab / forge | **✓ Day 564** · **KITCHEN-FAUCET-1 ✓** · gravity · **no lift** |
 | **Domus H-V3** *(planned)* | **Courtyard villa** @ **C-0** · **culina** (new) vs **culina vetus** (H-v2) | **[house-plan.md](house-plan.md)** · display **Domus** |
 
 ---
 
-## Workshop W-1 — **80 m downslope**
+## Workshop W-1 — **retired** · pad = **Atelier**
 
 | | |
 |--|--|
-| **Footprint** | **~3 × 4 m** wattle + daub |
-| **Floor** | **Packed earth + daub patch — no plank floor** |
-| **Status** | **Complete** Day 71 — brain-tan, tools, charcoal prep |
-| **ROOF-W1** | **✓ 100% Day 364** — **first campus tile roof · 48F deployed · drip PASS** |
-| **Stock** | Pile 9 — poles, withes, reed |
+| **Was** | **~3 × 4 m** wattle + daub @ **~80 m** mid-campus |
+| **Status** | **Retired as shop** — **CRAFT-WING-1 / Atelier** is the brick replacement · wattle may remain as **dirty lean-to** (fiber / hide) · **not** a Fabrica annex |
+| **ROOF-W1** | First campus tile roof (Day 364) — grammar only; live shop is the craft wing |
+| **Turris** | Ghost hub **E** of the live wing · two future wings dashed |
 
 ---
 
-## Farm plot — **200 m** (T-2)
+## Farm plot — **200 m W** (T-2 · downslope toward Orontes)
 
 | | |
 |--|--|
@@ -238,13 +251,13 @@
 
 ---
 
-## Fish weir — **200 m**
+## Fish weir — **200 m on TRIB-1**
 
-28 stakes; funnel → cage; **4–8 small fish/day**.
+28 stakes; funnel → cage; **4–8 small fish/day**. **Not** the Orontes.
 
 ---
 
-## Courtyard stakes **C-0** — camp upslope
+## Courtyard stakes **C-0** — Domus court
 
 **~12 m square** axis · **SUN-CAL-1 ✓** · dual noon track · **YULE-237 anchor** — full reference [sun-calendar.md](../sun-calendar.md).
 
@@ -268,10 +281,11 @@
 
 | Feature | Notes |
 |---------|-------|
-| **Orontes** | ~25–40 m wide; wadeable at weir |
-| **Gorge (E)** | Goat sign; trap A-03 |
+| **TRIB-1** | Home stream · gorge **E** → Orontes **W** · **north edge** · weir + clay + WW on this water |
+| **Orontes** | **~1 km W** · ~25–40 m wide · **not** the weir stream |
+| **Gorge (E)** | Goat sign; trap A-03 · aqueduct / sluice **head** upstream |
 | **Amuq plain (W)** | Aurochs sign class **20–60 km** |
-| **Flood line** | Camp **+4 m** above high water |
+| **Flood line** | Camp **+4 m** above **TRIB-1** high water · Orontes floodplain is the **west** drop |
 
 ---
 
@@ -327,9 +341,9 @@
 
 | | |
 |--|--|
-| **Problem** | Courtyard **~92 m upslope** — **no head** at **C-0** |
-| **WW-1 candidate** | **T-1 fork ~140 m** — **~8 m** fall toward weir pool |
-| **Campus** | Compound **extends downslope** toward Orontes — not square-only |
+| **Problem** | **No head at C-0** — Domus is inland / not on the race |
+| **WW-1** | **T-1 fork ~140 m @ TRIB-1** — **~8 m** fall toward weir pool |
+| **Campus** | **Fabrica on the water** · **Domus on the plateau** · valley fall **W** to Orontes |
 | **Timing** | **Concurrent with / after metal** — needs bearings, flood season rules |
 | **Uses** | Forge blast · spindle · grindstone · **flywheel inertia** · shaft takeoffs |
 | **Design** | Durable · upgrade-able · field-repairable — log before build |
@@ -396,16 +410,17 @@
 
 | Zone | Site | Role |
 |------|------|------|
-| **H-v2 campus** | **~92 m upslope** | **Living** · kitchen · cool cellar · **future Domus courtyard @ C-0** ([materials-roadmap.md](materials-roadmap.md) Day 66) |
-| **WW-YARD campus** | **~140 m @ T-1 fork** | **Production** · mill · lab · forge · kilns · **working court** (smoke/dry OK) |
+| **Domus** | Plateau · inland of TRIB-1 | **Living** · kitchen · cool cellar · courtyard @ **C-0** ([house-plan.md](house-plan.md)) |
+| **Fabrica / WW-YARD** | **~140 m @ T-1 fork** on TRIB-1 | **Production** · mill · lab · forge · wheels · **working court** (smoke/dry OK) |
+| **Atelier** | Old **W-1** pad · mid-campus | **Clean craft** — **not** on the mill plus |
 
-**Lab ↔ workshop — yes, connected:**
+**Fabrica plus is one compound** (mill · hub · lab · store). **Atelier is not on this plus.**
 
 | Structure | Size | Relation |
 |-----------|------|----------|
 | **MILLHOUSE-1** | **~3×4 m** @ **HOUSE** marker | **West leg** · Phase 1 open workshop |
 | **CHEM-LAB-WING-1** | **~5×6 m** | **East add-on** to HOUSE marker · **end-to-end E–W** · staked Day 657 |
-| **BELT** | Clearance **~1.2 m** | Runs **north** of both · wheel → blower → forge **SW** |
+| **BELT** | Clearance **~1.2 m** | **South court** · wheel → blower → **FORGE-D** (forge next to millhouse) |
 | **Doors** | Lab **east** face + millhouse access | **Door gap east — belt stays clear** (Day 665) · drain **E** from lab pad |
 
 **Canon expansion grammar** ([chem-lab-plan.md](chem-lab-plan.md)): **rectangle pair ~5×12 m** flanking belt · **MILLHOUSE-2 mirror (5×6)** replaces torn Phase 1 after lab live · **north/south extension** on bond stubs · **not** two open frames unroofed in wet season.
@@ -413,21 +428,21 @@
 **+ shape (your sketch — fits canon):**
 
 ```
-                    [STORE-4 ✓ · 5×6 horreum · ~72% load]  ← N leg · live Day 797
+                    [STORE-4 ✓ · 5×6 · toward TRIB-1]
                               |
-    [MILLHOUSE-2 · 5×6 plan] — [WW-HUB-1 · ~3×3 queued] — [CHEM-LAB ✓ · 5×6] — [east wing future]
-           W                      +                      S (lab leg today)
+    [MILLHOUSE-2 ✓ · 5×6] — [WW-HUB-TOWER ✓] — [CHEM-LAB ✓ · 5×6]
+           W                      +                      E
                               |
-                    [belt · wheel · forge court]
+           [south court: WW-1 · WW-2 · belt · FORGE-D @ millhouse]
 ```
 
 | Leg | Build | Notes |
 |-----|-------|-------|
-| **S** | **CHEM-LAB-WING-1 ✓** | **Stage 5 live** · WIRE-DRY @ east cab · fire jar v0 |
-| **N** | **STORE-4 ✓** | **Mat/chem/tool store** · wood floor · zones live · **food stays @ kitchen** |
-| **Center** | **WW-HUB-TOWER-1 ✓** | **STORE↔LAB connector** · oak floor · lime whitewash · tile roof · vent pole · **overflow crate stack corridor N face ✓ d1027** |
-| **W** | **MILLHOUSE-2** *(plan)* | Replaces torn Phase 1 after Stage 6 tool migration |
-| **E** | **Deferred** | Long wing or second lab bay |
+| **N** | **STORE-4 ✓** | Closest to **TRIB-1** · mat/chem/tool · **food stays @ Domus** |
+| **W** | **MILLHOUSE-2 ✓** | Open shop · **FORGE-D** on this cheek |
+| **E** | **CHEM-LAB-WING-1 ✓** | Fume wing · Stage 5 live |
+| **Center** | **WW-HUB-TOWER-1 ✓** | Connector · oak floor · tile · vent |
+| **S** | **Open court** | **Wheels + forge** · smoke OK · **not** the Atelier |
 
 **Courtyard options:**
 
@@ -580,7 +595,7 @@
 ### Subway diagram *(NNE string → west coast fork)*
 
 ```
-HOME ──12──► [TRIB-FT-01 ◐] ──4──► [TRIB-02 ✓] ──2──► [ASI-B ✓]
+HOME [TRIB-FT-01 logs/stubs] ──12──► [KARASU-TRIB-01 ◐] ──4──► [KARASU-TRIB-02 ✓] ──2──► [ASI-B ✓]
                                                       │
                     ┌─────────────────────────────────┘
                     │  ~8 NNE
@@ -607,7 +622,7 @@ HOME ──12──► [TRIB-FT-01 ◐] ──4──► [TRIB-02 ✓] ──2�
 | # | Node · stake | km from HOME | Hop time *(loaded)* | Cross | Status @ d1403 | Near / notes |
 |---|--------------|--------------|---------------------|-------|----------------|--------------|
 | **0** | **HOME · CART-YARD** | **0** | — | — | **Respawn C-0** · horreum B empty when deployed | Farm · WW-YARD · kiln · bridge refill @ pile 8/4/7 |
-| **1** | **TRIB-FT-01 · SC-TRIB-01** | **~12** | **~3 h** from yard | **◐ ford** | **Loaded GO** · knee gravel | First Karasu feeder · **⚠ upstream riffle = future bridge site A** if winter high |
+| **1** | **KARASU-TRIB-01 · SC-TRIB-01** | **~12** | **~3 h** from yard | **◐ ford** | **Loaded GO** · knee gravel | First Karasu feeder · **⚠ upstream riffle = future bridge site A** if winter high |
 | **2** | **TRAIL-CACHE-3** | **~14** | **+20 min** | **—** | **▣ read only** · full | Jerky · char · tokens · no deploy |
 | **3** | **KARASU-TRIB-02 · SC-TRIB-02** | **~16** | **+30 min** | **✓ bridge ~3 m** | **Live d1384** · ~3 mm settle loaded | Early north camp grammar · post-Asi string start |
 | **4** | **ASI-ORONTES-1 · SC-ASI-B** | **~18** | **+45 min** | **✓ bridge ~10 m** | **Live d1386** · mid-span listen PASS | Orontes trunk · stadium shallows class upstream |
@@ -646,7 +661,7 @@ HOME ──12──► [TRIB-FT-01 ◐] ──4──► [TRIB-02 ✓] ──2�
 
 | ID | Why risky | Bridge site | Priority |
 |----|-----------|-------------|----------|
-| **TRIB-FT-01 site A** | Upstream riffle · high water | **○ A** | Low — ford holds @ B grammar |
+| **KARASU-TRIB-01 site A** | Upstream riffle · high water | **○ A** | Low — ford holds @ B grammar |
 | **AFRIN-1 site A** | Summer low only · thigh @ mid loaded | **○ A** | Defer — **B live** |
 | **KARASU-TRUNK-1** | Spring rise · 22 m face | **○ trunk bridge** | **Re-read each spring** · ford OK @ d1403 |
 | **KIRIKHAN-APPROACH site A** | Winter high · riffle | **○ A** | Defer — **B live** |

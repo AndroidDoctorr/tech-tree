@@ -26,7 +26,8 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | ERZIN-APPROACH-1 | ~9 m · reinforced d1544 |
 | CEYHAN-APPROACH-1 | ~13 m · reinforced d1462 |
 | TRIB-FT-N02 | ~8 m · d1473 |
-| **TRIB-FT-01 @ L0** | **◐ ford live · pier stubs PASS d1917 · stringers GO · deck defer** |
+| **TRIB-FT-01 @ HOME TRIB-1** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** · first road crossing **N** |
+| **KARASU-TRIB-01** | **~12 km · ◐ ford** · SC-TRIB-01 · **no** concrete |
 | KARASU-TRUNK-1 | Loaded ford @ SC-KTRUNK |
 
 ## Caches · waystations

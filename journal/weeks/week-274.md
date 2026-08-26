@@ -4,7 +4,7 @@
 **Home:** **H-V3 west cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **Bow close · bridge stringers · retrofit band**
 
-**Status:** OPEN @ Day 1918 · Cal-Y6 D221 · **OLIVE-PRESS-1 ~90% · pier PASS · scout staged**
+**Status:** **CLOSED @ Day 1918** · Cal-Y6 D221 · **press ~90% · pier PASS · scout staged**
 
 ---
 
@@ -34,4 +34,4 @@ See [now.md](../../now.md). Do not duplicate runway numbers here.
 
 ---
 
-*Week 274 opens @ Day 1912 · Week 273 closed @ Day 1911.*
+*Week 274 closes @ Day 1918 · Week 275 opens @ Day 1919.*

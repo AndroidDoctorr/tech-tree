@@ -1,8 +1,8 @@
-# Craft wing — WW-YARD M2 south annex
+# Craft wing — Atelier @ old W-1 pad
 
-**Filed:** Day 1703 · **Cal-Y6 D6** · **Finish slate revised Day 1737**  
+**Filed:** Day 1703 · **Cal-Y6 D6** · **Finish slate revised Day 1737** · **Site lock Day 1920**  
 **Priority:** **Live paint bench + telarium bay** — separate from chem-lab science clock  
-**Site:** [WW-YARD-1](map.md) · south add-on from **M2 WORK** zone  
+**Site:** [map.md](map.md) · **old W-1 pad** · mid-campus · **not** a Fabrica / millhouse annex  
 **Aligns with:** [building-code-1.md](building-code-1.md) *(BC-1 · filed d1759)*
 
 ---
@@ -26,7 +26,7 @@
 | **CHEM-LAB-WING-1** | **~5×6 m** | **✓ LIVE** — full lab interior |
 | **CRAFT-WING-1** | **~5×6 m** (30 m²) | **LIVE d1752 — portico ✓ · paint kit @ south bay · glass/awning remain** |
 
-**Campus shape:** M2 south rectangle · **≥1.2 m belt clearance north** · drain swale **E** → ditch.
+**Campus shape:** **Old W-1 pad** rectangle · drain swale **E** → ditch · **not** on the Fabrica plus.
 
 ---
 
@@ -85,7 +85,7 @@
 | Track | Status | Notes |
 |-------|--------|-------|
 | **ATELIER-RUG-1** | **✓ d1755 @ south bench** | **~81×55 cm natural tow · spill catch @ easel zone** |
-| **Loom** | **Stays @ W-1 LM-2** | **Weave @ W-1 · deploy @ Atelier — proven path** |
+| **Loom** | **LM-2 @ Atelier** | **Moved d1803 · north bay telarium** |
 | **LOOM-MOVE-ATELIER** | **Defer** | **North bay telarium ghost · not blocking rug** |
 
 ### ATELIER-WINDOW-PLAN *(filed d1756 · player intent — ×2 windows S + W)*
@@ -132,7 +132,7 @@
 
 ## Campus expand + heat *(filed Day 1750)*
 
-**Vision:** **~5×5 m WW-HUB-TOWER** hub connects **CRAFT-WING-1** + future **storage wing** + **second work wing** · **one exterior entrance** on chosen face · clean rooms stay **mud/dust/damp isolated**.
+**Vision:** **~5×5 m Turris** hub connects **CRAFT-WING-1** + future **storage wing** + **second work wing** · **one exterior entrance** on chosen face · clean rooms stay **mud/dust/damp isolated**.
 
 | Layer | Role |
 |-------|------|
@@ -157,7 +157,7 @@
 | Keeps dust/rain out of paint bay | Exterior mudroom moves to **hub entrance face** |
 | Demount roof/frame when hub stakes | Craft east opening = **internal door** to hub ring |
 
-**Note:** **WW-HUB-TOWER-1** *(STORE ↔ CHEM-LAB · ✓ live)* is **separate** — power/belt campus · **CAMPUS-HUB-M2-1** = clean-wing compound @ craft wing / M2 south.
+**Note:** **WW-HUB-TOWER-1** *(STORE ↔ CHEM-LAB · ✓ live)* is **Fabrica** — **not** Turris. **Turris / CAMPUS-HUB-M2-1** = clean-wing hub @ **Atelier east pad**.
 
 ---
 
@@ -198,10 +198,10 @@
 
 | Display name | Journal / map ID | Site | Role |
 |--------------|------------------|------|------|
-| **Domus** | **H-V3 / C-0** | **~92 m upslope @ courtyard** | **Living** — cubicula · culina · horreum tie · feast |
-| **Fabrica** | **WW-YARD WORKS · MILLHOUSE-2 + CHEM-LAB-WING-1** | **~140 m @ T-1 fork** | **Production** — mill · lab · forge · kiln · belt · smoke OK |
-| **Atelier** | **CRAFT-WING-1** | **M2 south annex** | **Clean craft** — paint · easel · telarium ghost · no hearth |
-| *(future)* **Turris** | **CAMPUS-HUB-M2-1** | **@ Atelier east pad** | **Hub** — mudroom · **central hearth** · wing airlock · heat plant |
+| **Domus** | **H-V3 / C-0** | Plateau · inland of TRIB-1 | **Living** — cubicula · culina · horreum tie · feast |
+| **Fabrica** | **WW-YARD · MILLHOUSE-2 + CHEM-LAB + STORE-4 + hub** | **~140 m @ T-1 fork** on TRIB-1 | **Production** — mill · lab · forge · wheels · smoke OK |
+| **Atelier** | **CRAFT-WING-1** | **Old W-1 pad** | **Clean craft** — paint · easel · telarium ghost · no hearth |
+| *(future)* **Turris** | **CAMPUS-HUB-M2-1** | **@ Atelier east pad** | **Hub** — mudroom · **central hearth** · two more wings |
 
 **Rule:** Journal heroes keep **BUILD-ID** (*CRAFT-WING-1* · *CHEM-LAB-WING-1*) · player-facing prose may use **Domus / Fabrica / Atelier / Turris**.
 

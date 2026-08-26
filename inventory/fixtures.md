@@ -8,21 +8,21 @@ C-0 west cubiculum · PROPER-BED-1 · SET-A (sheet · slip · blanket A) · nigh
 
 ## Domus H-V3
 
-Horreum A/B/C live · cool cellar + ice vault · culina south (sink · hot/cold · hearth hook · vent · glass grid ×20 · curtain · rug · awning) · west/east cubiculum curtains + rugs + awnings · vestiarium rail + awning · porticus + thermae curtains/rugs · frigidarium + tepidarium east awnings · atrium flag ring · east bath + flush toilet + ~35 L reservoir · colonnade ring · exterior whitewash · winter tree in P-PLANT-1 · **OIL-LANTERN-1 iron frame + brass fittings ✓ d1809 @ south culina · DOMUS-LANTERN-HANG-1**
+Horreum A/B/C live · cool cellar + ice vault · **BC-1-WOOD-FLOOR ✓ d1939 @ A/B/C wear paths** · culina south (sink · hot/cold · hearth hook · vent · glass grid ×20 · curtain · rug · awning) · west/east cubiculum curtains + rugs + awnings · **DOMUS-WINDOW-W-1 strap+glass LIVE ✓ d1936** · **DOMUS-WINDOW-E-1 strap+glass LIVE ✓ d1953** · **vestiarium door seal ✓ d1939** · **porticus rigor ✓ d1922+d1941 · treads LIVE d1944** · porticus + thermae curtains/rugs · frigidarium + tepidarium east awnings · atrium flag ring · east bath + flush toilet + ~35 L reservoir · colonnade ring · exterior whitewash · winter tree in P-PLANT-1 · **OIL-LANTERN-1 iron frame + brass fittings ✓ d1809 @ south culina · DOMUS-LANTERN-HANG-1**
 
-Lamp hooks (parking, portable OL swap): Atelier S + portico · W-1 · Fabrica bench · STORE-4 jamb · WW-YARD millhouse N
+Lamp hooks (parking, portable OL swap): Atelier S + portico · Fabrica bench · STORE-4 jamb · WW-YARD millhouse N
 
 ## Atelier / craft wing
 
-Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-STAGE ✓ d1803** — **LM-2 @ NE corner · EASEL-1 @ west cheek · stool · rug · ART-KIT-1 + palette · paint cakes · brushes · canvas @ SE corner stack** · protos ×2 @ M2 spare · TEMP-PORTICO · awnings S (reed) · W + portico (blue/white linen) · lamp hooks · drain E swale PASS d1760 · **CRAFT-STORAGE-2 shelves defer**
+Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-STAGE ✓ d1803** — **LM-2 @ NE corner · EASEL-1 @ west cheek · stool · rug · ART-KIT-1 + palette · paint cakes · brushes · canvas @ SE corner stack** · **ATELIER-CURTAIN-W+S woad blue LIVE ✓ d1943** · protos ×2 @ M2 spare · TEMP-PORTICO · awnings S (reed) · W + portico (blue/white linen woad) · lamp hooks · drain E swale PASS d1760 · **CRAFT-CABINET-1 + brass fittings defer**
 
 ## Lanterns
 
 **OIL-LANTERN-1** iron frame + brass fittings ✓ d1809 @ domus south culina · **OIL-LANTERN-2** iron frame + brass fittings ✓ d1808 @ chem-lab east · **DOMUS-LANTERN-HANG-1 · LAB-LANTERN-HANG-1** · chain bails · GP pane sets · oak v1 frames ×2 @ chem shelf spare · protos @ M2 spare
 
-## W-1 · STORE-4 · millhouse
+## Fabrica · retired W-1
 
-W-1 wattle + 47-tile roof · **LM-2 moved → Atelier d1803 · north bay empty** · STORE-4 brick horreum (~72% load · lab/workshop only) · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
+**Atelier** is the shop (brick · old W-1 pad). Wattle **W-1** = **retired dirty lean-to** on that pad (fiber racks · hide frame) — not a live workshop. STORE-4 brick horreum (~72% load · lab/workshop only) · **CHEM-AIRLOCK seal patch ✓ d1940 · fume trial PASS** · **CHEM-LAB-AIRLOCK-1 ✓ d1956 full covered porch @ chem east · coir ×2 · brush · coat rail under cover** · **LAB-VENT-FAN-1 ✓ d1954 @ north hood chase · WW-2 belt branch** · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
 
 ## Char
 
@@ -30,7 +30,7 @@ CHAR-RETORT-1 @ pit lane north berm cell C (WW working court · lee of B-182) ·
 
 ## Water · hygiene
 
-Aqueduct south branch · header box ~120 L @ WW-YARD · SHOWER-3 @ DR-LT-01 · boot wash @ T-5 · hand-wash @ goat gate · soil pit (never Orontes)
+Aqueduct from **TRIB-1 gorge head** · header box ~120 L @ WW-YARD · SHOWER-3 @ DR-LT-01 · boot wash @ T-5 · hand-wash @ goat gate · soil pit (**never TRIB-1 / Orontes**)
 
 ## Apiary · barn
 
@@ -38,8 +38,8 @@ Aqueduct south branch · header box ~120 L @ WW-YARD · SHOWER-3 @ DR-LT-01 · b
 
 ## Clothes vault (not worn)
 
-Breech 3–6 · woad jeans 1–2 · tunics 1, 3, 4 + tiedye 1–4 · linen coat peg K · cloak @ wagon · gloves · hat · CL-COAT · lab wear 3/3 @ chem-lab door pegs · beach kit (towels ×2 · umbrella · chair · swimsuit) @ v1 FIBER
+Breech 3–6 · woad jeans 1–2 · tunics 1, 3, 4 + tiedye 1–4 · linen coat peg K · cloak @ wagon · gloves · hat · CL-COAT · **lab wear 3/3 REFRESH ✓ d1955 @ chem-lab door pegs #1/#2/#3** · beach kit (towels ×2 · umbrella · chair · swimsuit) @ v1 FIBER
 
 ## Barrels · pots in service
 
-BARREL-1/3 water · BARREL-2 grain @ W-1 · AMPHORA-1 wagon · AMPHORA-2 TRAIL-CACHE-2 · AMPHORA-3/4 horreum A · AMPHORA-5 horreum B · P-STORE-1..4 (Pb · brass · niter · S) · houseplant urn + winter tree
+BARREL-1/3 water · BARREL-2 grain @ v1 · AMPHORA-1 wagon · AMPHORA-2 TRAIL-CACHE-2 · AMPHORA-3/4 horreum A · AMPHORA-5 horreum B · P-STORE-1..4 (Pb · brass · niter · S) · houseplant urn + winter tree

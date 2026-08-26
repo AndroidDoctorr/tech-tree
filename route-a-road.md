@@ -85,8 +85,8 @@ Each **TRAIL-WORK** block on a leg files **+1 WP** on that leg.
 
 | Leg | Segment | km | Cross @ end | **TQ @ open** | **WP** | **TQ @ d1436** | **Pace** | Notes |
 |-----|---------|-----|-------------|---------------|--------|----------------|----------|-------|
-| **L0** | **HOME → TRIB-FT-01** | **~12** | **◐ ford** | **1.0** | **12** | **~2.75** | **~3.5** | Ford exit ruts · repeat crown |
-| **L1** | **TRIB-FT-01 → TRIB-02** | **~4** | **✓ bridge** | **1.0** | **9** | **~2.5** | **~3.4** | Marked · short hop |
+| **L0** | **HOME (via TRIB-FT-01) → KARASU-TRIB-01** | **~12** | **◐ ford** | **1.0** | **12** | **~2.75** | **~3.5** | Home logs/stubs first · then Karasu feeder ford |
+| **L1** | **KARASU-TRIB-01 → KARASU-TRIB-02** | **~4** | **✓ bridge** | **1.0** | **9** | **~2.5** | **~3.4** | Marked · short hop |
 | **L2** | **TRIB-02 → ASI-B** | **~2** | **✓ bridge** | **2.0** | **7** | **~3.0** | **~3.6** | **Best NNE leg · road-like** |
 | **L3** | **ASI-B → AFRIN-B** | **~8** | **✓ bridge** | **1.5** | **10** | **~3.0** | **~3.5** | Apron repeats stable |
 | **L4** | **AFRIN-B → KTRUNK** | **~2** | **◐ ford** | **2.0** | **6** | **~2.75** | **~3.4** | Post-Afrin lip |

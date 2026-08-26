@@ -1895,6 +1895,44 @@
 | 1916 | [day-1916.md](days/year-006/week-274/day-1916.md) | **OLIVE-PRESS beam ~65% · hemp Ghab horizon · feather audit** | **Cal-Y6 D219 · 28 Jul** |
 | 1917 | [day-1917.md](days/year-006/week-274/day-1917.md) | **TRIB-FT pier cure PASS · mash basket · press ~75%** | **Cal-Y6 D220 · 29 Jul** |
 | 1918 | [day-1918.md](days/year-006/week-274/day-1918.md) | **FS counterweight ~90% · cart check · Ghab scout prep** | **Cal-Y6 D221 · 30 Jul** |
+| 1919 | [day-1919.md](days/year-006/week-275/day-1919.md) | **WEEK-275-OPEN · WOAD Y6-2 ✓ · OLIVE-PRESS-1 CLOSE ✓** | **Cal-Y6 D222 · 31 Jul** |
+| 1920 | [day-1920.md](days/year-006/week-275/day-1920.md) | **DOOR-SEAL-PASS-1 ✓ · Domus weather strip cluster** | **Cal-Y6 D223 · 1 Aug** |
+| 1921 | [day-1921.md](days/year-006/week-275/day-1921.md) | **DOOR-SEAL-PASS-2 ✓ Fabrica · drain cheek · site-lock reassess** | **Cal-Y6 D224 · 2 Aug** |
+| 1922 | [day-1922.md](days/year-006/week-275/day-1922.md) | **PORTICO-RIGOR-1 ✓ · Domus pozz treads + airlock** | **Cal-Y6 D225 · 3 Aug** |
+| 1923 | [day-1923.md](days/year-006/week-275/day-1923.md) | **BC-RETROFIT-FLOOR-3 ✓ · hub tower oak floor** | **Cal-Y6 D226 · 4 Aug** |
+| 1924 | [day-1924.md](days/year-006/week-275/day-1924.md) | **CHAR-BANK-REBUILD-1 · wood haul + dual pit · lane ~22 kg** | **Cal-Y6 D227 · 5 Aug** |
+| 1925 | [day-1925.md](days/year-006/week-275/day-1925.md) | **Portico tread PASS · char rebuild day 2 · lane ~33 kg** | **Cal-Y6 D228 · 6 Aug** |
+| 1926 | [day-1926.md](days/year-006/week-276/day-1926.md) | **WEEK-276-OPEN · CHAR-BANK-REBUILD-3 · lane ~44 kg** | **Cal-Y6 D229 · 7 Aug** |
+| 1927 | [day-1927.md](days/year-006/week-276/day-1927.md) | **Full wood haul + dual pit · lane ~55 kg** | **Cal-Y6 D230 · 8 Aug** |
+| 1928 | [day-1928.md](days/year-006/week-276/day-1928.md) | **Full char day · lane ~66 kg** | **Cal-Y6 D231 · 9 Aug** |
+| 1929 | [day-1929.md](days/year-006/week-276/day-1929.md) | **CHAR-BANK CLOSE ✓ · retort full day · glass GO** | **Cal-Y6 D232 · 10 Aug** |
+| 1930 | [day-1930.md](days/year-006/week-276/day-1930.md) | **Domus W glass batch-1 ×4 · WINDOW-UPGRADE open 4/20** | **Cal-Y6 D233 · 11 Aug** |
+| 1931 | [day-1931.md](days/year-006/week-276/day-1931.md) | **Domus W glass batch-2 · 8/20** | **Cal-Y6 D234 · 12 Aug** |
+| 1932 | [day-1932.md](days/year-006/week-276/day-1932.md) | **Domus W glass batch-3 · 12/20** | **Cal-Y6 D235 · 13 Aug** |
+| 1933 | [day-1933.md](days/year-006/week-277/day-1933.md) | **WEEK-277-OPEN · Domus W glass batch-4 · 16/20** | **Cal-Y6 D236 · 14 Aug** |
+| 1934 | [day-1934.md](days/year-006/week-277/day-1934.md) | **DOMUS-W-POUR-CLOSE ✓ · ×20 grid** | **Cal-Y6 D237 · 15 Aug** |
+| 1935 | [day-1935.md](days/year-006/week-277/day-1935.md) | **DOMUS-W-STRAP-FORGE-1935 ✓ · frame dry-fit PASS** | **Cal-Y6 D238 · 16 Aug** |
+| 1936 | [day-1936.md](days/year-006/week-277/day-1936.md) | **DOMUS-WINDOW-W-1 strap+glass LIVE ✓ · first BC Domus metal+glass** | **Cal-Y6 D239 · 17 Aug** |
+| 1937 | [day-1937.md](days/year-006/week-277/day-1937.md) | **TRIB-FT-01-STRINGERS-1 ✓ · BC queue refresh** | **Cal-Y6 D240 · 18 Aug** |
+| 1938 | [day-1938.md](days/year-006/week-277/day-1938.md) | **TRIB-FT-01-DECK-CLOSE ✓ · wagon PASS · v1 LIVE** | **Cal-Y6 D241 · 19 Aug** |
+| 1939 | [day-1939.md](days/year-006/week-277/day-1939.md) | **Horreum floors ✓ · vestiarium seal ✓ · BC floor band closed** | **Cal-Y6 D242 · 20 Aug** |
+| 1940 | [day-1940.md](days/year-006/week-278/day-1940.md) | **WEEK-278-OPEN · CHEM-DOOR-SEAL-PATCH ✓ · fume trial PASS** | **Cal-Y6 D243 · 21 Aug** |
+| 1941 | [day-1941.md](days/year-006/week-278/day-1941.md) | **PORTICO-RIGOR-2 ✓ · Domus east thermae entry** | **Cal-Y6 D244 · 22 Aug** |
+| 1942 | [day-1942.md](days/year-006/week-278/day-1942.md) | **ATELIER-CURTAIN-W+S-WEAVE ✓ · brass standard · CRAFT-CABINET queued** | **Cal-Y6 D245 · 23 Aug** |
+| 1943 | [day-1943.md](days/year-006/week-278/day-1943.md) | **Curtain woad dye + hang ✓ · ORONTES footing scout** | **Cal-Y6 D246 · 24 Aug** |
+| 1944 | [day-1944.md](days/year-006/week-278/day-1944.md) | **PORTICO-2 cure ✓ · DOMUS-E strap @ peg · metal-first** | **Cal-Y6 D247 · 25 Aug** |
+| 1945 | [day-1945.md](days/year-006/week-278/day-1945.md) | **DOMUS-E-GLASS-BATCH-1 ✓ · 4/20 · char runway read** | **Cal-Y6 D248 · 26 Aug** |
+| 1946 | [day-1946.md](days/year-006/week-278/day-1946.md) | **CHAR-DAY ✓ · haul + dual pit · lane ~30 kg** | **Cal-Y6 D249 · 27 Aug** |
+| 1947 | [day-1947.md](days/year-006/week-279/day-1947.md) | **WEEK-279-OPEN · DOMUS-E glass batch-2 · 8/20** | **Cal-Y6 D250 · 28 Aug** |
+| 1948 | [day-1948.md](days/year-006/week-279/day-1948.md) | **DOMUS-E glass batch-3 · 12/20 · char RED** | **Cal-Y6 D251 · 29 Aug** |
+| 1949 | [day-1949.md](days/year-006/week-279/day-1949.md) | **WOOD-HAUL + CHAR-RETORT ×5 · lane ~40 kg** | **Cal-Y6 D252 · 30 Aug** |
+| 1950 | [day-1950.md](days/year-006/week-279/day-1950.md) | **CHAR-RETORT day-2 ✓ · lane ~59 kg · grid GO** | **Cal-Y6 D253 · 31 Aug** |
+| 1951 | [day-1951.md](days/year-006/week-279/day-1951.md) | **DOMUS-E glass batch-4 · 16/20** | **Cal-Y6 D254 · 1 Sep** |
+| 1952 | [day-1952.md](days/year-006/week-279/day-1952.md) | **DOMUS-E glass batch-5 · 20/20 POUR CLOSE ✓** | **Cal-Y6 D255 · 2 Sep** |
+| 1953 | [day-1953.md](days/year-006/week-279/day-1953.md) | **DOMUS-E tap close ✓ · INSTALL ✓ · DOMUS-WINDOW-E-1 LIVE** | **Cal-Y6 D256 · 3 Sep** |
+| 1954 | [day-1954.md](days/year-006/week-280/day-1954.md) | **LAB-VENT-FAN-1 ✓ @ hood chase · smoke tune PASS** | **Cal-Y6 D257 · 4 Sep** |
+| 1955 | [day-1955.md](days/year-006/week-280/day-1955.md) | **CL-LAB-WEAR 3/3 REFRESH ✓ @ chem door pegs** | **Cal-Y6 D258 · 5 Sep** |
+| 1956 | [day-1956.md](days/year-006/week-280/day-1956.md) | **CHEM-LAB-AIRLOCK-1 ✓ porch · LAB-SPRINT CLOSE** | **Cal-Y6 D259 · 6 Sep** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
