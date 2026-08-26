@@ -1857,6 +1857,44 @@
 | 1878 | [day-1878.md](days/year-005/week-269/day-1878.md) | **SLUICE-2 gate deploy ✓ · team rotation · realism harden** | **Cal-Y6 D181 · 20 Jun** |
 | 1879 | [day-1879.md](days/year-005/week-269/day-1879.md) | **SLUICE-2 raceway cut ✓ · WW-POWER Phase 1 CLOSE ✓** | **Cal-Y6 D182 · 21 Jun** |
 | 1880 | [day-1880.md](days/year-005/week-269/day-1880.md) | **FORGE tool sprint ✓ · Y6 reassess slate** | **Cal-Y6 D183 · 22 Jun** |
+| 1881 | [day-1881.md](days/year-005/week-269/day-1881.md) | **WW-2 Q survey ✓ · Phase 2 wheel GO** | **Cal-Y6 D184 · 23 Jun** |
+| 1882 | [day-1882.md](days/year-005/week-269/day-1882.md) | **WW-2 wheel day 1 ✓ · pad + hub · Phase 2 ~30%** | **Cal-Y6 D185 · 24 Jun** |
+| 1883 | [day-1883.md](days/year-005/week-269/day-1883.md) | **WW-2 spokes+rim ✓ · BOM read · Phase 2 ~65%** | **Cal-Y6 D186 · 25 Jun** |
+| 1884 | [day-1884.md](days/year-005/week-270/day-1884.md) | **Bronze bush ✓ · axle ✓ · nails · tool slate** | **Cal-Y6 D187 · 26 Jun** |
+| 1885 | [day-1885.md](days/year-005/week-270/day-1885.md) | **WW-2 spin PASS ✓ · wet-service slate · treat v1** | **Cal-Y6 D188 · 27 Jun** |
+| 1886 | [day-1886.md](days/year-005/week-270/day-1886.md) | **WOOD-PLANE-1 ✓ forge + bench** | **Cal-Y6 D189 · 28 Jun** |
+| 1887 | [day-1887.md](days/year-005/week-270/day-1887.md) | **SAND-SMOOTH-1 ✓ · finish pass · treat v2 · ~95%** | **Cal-Y6 D190 · 29 Jun** |
+| 1888 | [day-1888.md](days/year-005/week-270/day-1888.md) | **GS-2 flywheel ✓ · belt material slate · ~98%** | **Cal-Y6 D191 · 30 Jun** |
+| 1889 | [day-1889.md](days/year-005/week-270/day-1889.md) | **Leather belt ✓ · BC-1 woodcraft · rubber/bow read** | **Cal-Y6 D192 · 1 Jul** |
+| 1890 | [day-1890.md](days/year-005/week-270/day-1890.md) | **Belt mount LIVE ✓ · Phase 2 CLOSE ✓** | **Cal-Y6 D193 · 2 Jul** |
+| 1891 | [day-1891.md](days/year-005/week-271/day-1891.md) | **WEEK-271-OPEN · Phase 3 slate · belt tree stake** | **Cal-Y6 D194 · 3 Jul** |
+| 1892 | [day-1892.md](days/year-005/week-271/day-1892.md) | **GRIND-TAKEOFF-2 ✓ @ WW-2** | **Cal-Y6 D195 · 4 Jul** |
+| 1893 | [day-1893.md](days/year-005/week-271/day-1893.md) | **TRIP-HAMMER-BELT-1 ✓ · power clang** | **Cal-Y6 D196 · 5 Jul** |
+| 1894 | [day-1894.md](days/year-005/week-271/day-1894.md) | **CRANK-DRILL-1 ✓ · Phase 3 CLOSE ✓** | **Cal-Y6 D197 · 6 Jul** |
+| 1895 | [day-1895.md](days/year-005/week-271/day-1895.md) | **PAPER-SPRINT-3 D1 ✓ · sheets 10–11 · backlog slate** | **Cal-Y6 D198 · 7 Jul** |
+| 1896 | [day-1896.md](days/year-005/week-271/day-1896.md) | **PAPER-SPRINT-3 D2 ✓ · sheets 12–13 · bridge/travel slate** | **Cal-Y6 D199 · 8 Jul** |
+| 1897 | [day-1897.md](days/year-005/week-271/day-1897.md) | **WILD-FLAX-PULL ✓ · P-RETT-10 · TRIB-FT footing slate** | **Cal-Y6 D200 · 9 Jul** |
+| 1898 | [day-1898.md](days/year-005/week-272/day-1898.md) | **WEEK-272-OPEN · TRIB-FT footing stake ✓ · flax lap 2** | **Cal-Y6 D201 · 10 Jul** |
+| 1899 | [day-1899.md](days/year-005/week-272/day-1899.md) | **TRIB-FT footing pour ✓ · FLAX-EXPANSION slate** | **Cal-Y6 D202 · 11 Jul** |
+| 1900 | [day-1900.md](days/year-005/week-272/day-1900.md) | **Flax Tuesday · Centadial 19** | **Lap 3 · patch ghost · [Centadial 19](summaries/centadial-019.md) · Cal-Y6 D203** |
+| 1901 | [day-1901.md](days/year-005/week-272/day-1901.md) | **Wild flax lap 4 ✓ · margin scraped** | **Cal-Y6 D204 · 13 Jul** |
+| 1902 | [day-1902.md](days/year-005/week-272/day-1902.md) | **WOAD-LEAF-Y6-1 ✓ · ~160 g @ dry rack** | **Cal-Y6 D205 · 14 Jul** |
+| 1903 | [day-1903.md](days/year-005/week-272/day-1903.md) | **PAPER-SPRINT-3-D3 ✓ · sheets 14–15 · no heckle** | **Cal-Y6 D206 · 15 Jul** |
+| 1904 | [day-1904.md](days/year-005/week-272/day-1904.md) | **PAPER-SPRINT-3-D4 ✓ · sheets 16–17** | **Cal-Y6 D207 · 16 Jul** |
+| 1905 | [day-1905.md](days/year-005/week-273/day-1905.md) | **WEEK-273-OPEN · POWDER-INGREDIENT-PREP ✓ · M-12-PURIFY-2** | **Cal-Y6 D208 · 17 Jul** |
+| 1906 | [day-1906.md](days/year-005/week-273/day-1906.md) | **BC-RETROFIT-FLOOR-1 ✓ · BC/EM/lathe slates** | **Cal-Y6 D209 · 18 Jul** |
+| 1907 | [day-1907.md](days/year-005/week-273/day-1907.md) | **BC-RETROFIT-FLOOR-2 ✓ · Atelier floor close** | **Cal-Y6 D210 · 19 Jul** |
+| 1908 | [day-1908.md](days/year-005/week-273/day-1908.md) | **P-RETT-10 pull ✓ · TRIB-FT footing cure read ✓** | **Cal-Y6 D211 · 20 Jul** |
+| 1909 | [day-1909.md](days/year-005/week-273/day-1909.md) | **BOW-2 oak belly stave ~60% · horn defer** | **Cal-Y6 D212 · 21 Jul** |
+| 1910 | [day-1910.md](days/year-005/week-273/day-1910.md) | **TRIB-FT pier stub pour ✓ · billie hunt hold** | **Cal-Y6 D213 · 22 Jul** |
+| 1911 | [day-1911.md](days/year-005/week-273/day-1911.md) | **GOAT-HUNT-BILLIE-A03 ✓ · BOW-2 horn pipeline** | **Cal-Y6 D214 · 23 Jul** |
+| 1912 | [day-1912.md](days/year-006/week-274/day-1912.md) | **WEEK-274-OPEN · BOW-2 horn trim+laminate ✓ · stave ~80%** | **Cal-Y6 D215 · 24 Jul** |
+| 1913 | [day-1913.md](days/year-006/week-274/day-1913.md) | **BOW-2 tillering ✓ · ~95% · sinew+nocks queued** | **Cal-Y6 D216 · 25 Jul** |
+| 1914 | [day-1914.md](days/year-006/week-274/day-1914.md) | **BOW-2 CLOSE ✓ · test PASS · ~70 lb horn-lam** | **Cal-Y6 D217 · 26 Jul** |
+| 1915 | [day-1915.md](days/year-006/week-274/day-1915.md) | **OLIVE-PRESS-1 ~40% · lever-beam slate · frame start** | **Cal-Y6 D218 · 27 Jul** |
+| 1916 | [day-1916.md](days/year-006/week-274/day-1916.md) | **OLIVE-PRESS beam ~65% · hemp Ghab horizon · feather audit** | **Cal-Y6 D219 · 28 Jul** |
+| 1917 | [day-1917.md](days/year-006/week-274/day-1917.md) | **TRIB-FT pier cure PASS · mash basket · press ~75%** | **Cal-Y6 D220 · 29 Jul** |
+| 1918 | [day-1918.md](days/year-006/week-274/day-1918.md) | **FS counterweight ~90% · cart check · Ghab scout prep** | **Cal-Y6 D221 · 30 Jul** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1881,6 +1919,7 @@
 | **16** | 1501–1600 | [centadial-016.md](summaries/centadial-016.md) |
 | **17** | 1601–1700 | [centadial-017.md](summaries/centadial-017.md) |
 | **18** | 1701–1800 | [centadial-018.md](summaries/centadial-018.md) |
+| **19** | 1801–1900 | [centadial-019.md](summaries/centadial-019.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

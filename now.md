@@ -2,31 +2,28 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 1880** · Cal-Y6 D183 · ~22 Jun · Week 269 day 4 · **HOME** · C-0 west cubiculum
+**Day 1918** · Cal-Y6 D221 · ~30 Jul · Week 274 day 7 · **HOME** · C-0 west cubiculum
 
 | Track | Status |
 |-------|--------|
-| Farm | ~50 m² · FARM-CARE-GREEN |
-| Sluice | **Phase 1 CLOSE ✓ · Q survey next** |
-| Tools | **Campus iron kit GREEN · audit band ~3–5 d** |
-| Stock | **Ore · pozz · niter · caps ×4 · paper thin · char flour low** |
-| Team | **Mabel · Humphrey · Silas · rotate** |
-| Wood | **Pile 5 ~70 kg** |
-| Char | **Lane ~14.8 kg** |
-| Queue | **Q survey · paper sprint · Phase 2 wheel** |
-| Food | **Larder GREEN** |
+| Olive press | **OLIVE-PRESS-1 ~90% · counterweight+basket live · pan seal defer** |
+| BOW-2 | **✓ live · flax+sinew OK · hemp Ghab scout staged** |
+| TQ / bridges | **TRIB-FT stubs PASS · stringers GO · deck defer** |
+| Scout | **HEMP-GHAB-SCOUT-PREP ✓ · cart GO · launch defer post-donkey** |
+| Lathe | **After press close — arrow shafts first job** |
+| Food | **Olive oil blocked until Nov press · brine ~2 kg live** |
 
 ## Next
 
-1. WW-2 Q survey
-2. Paper sprint (blast runway)
+1. Press pan seal / close (~10% cosmetic)
+2. Stringers · Ghab scout · or lathe when named
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- Quartz / ore haul season open
+- Olive press build Sep–Oct · fruit press **20 Nov–10 Dec**
+- Woad leaf pull ~9 Jul–18 Aug — **live**
+- Donkey hunt ~7 Sep · **hemp/Ghab scout open post-band**
 - Exped open
-- Donkey hunt ~7 Sep
-- Olive oil press ~20 Nov–10 Dec
 
 ## Do not treat as live
 

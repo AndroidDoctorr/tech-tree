@@ -23,6 +23,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 | **Socle** | **Stone FS perimeter ring** · frost-class · bonded to mure base |
 | **Underfloor** | **Gravel + lime bed** (hypocaust plenum optional per wing) |
 | **Finish floor** | **Tile TR class** *or* **oak plank** (clean wings / horreum grammar) · mud rooms may use gravel scrape + mat |
+| **Oak plank finish** *(BC-1-WOOD-FLOOR · filed Day 1889)* | **Planed + sand-smoothed before install** — **WOOD-PLANE-1** + **SAND-SMOOTH-1** on wear face · light **tallow wipe** after · **no raw-sawn plank @ habitable finish** |
 
 ### Envelope
 
@@ -87,6 +88,22 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 | **Habitable floor finish** | **✗ NO-GO default** | **TR tile or oak plank per BC-1** |
 
 **Retrofit rule:** **Per-wing optional** — not blocking new stakes. **Sluice / WW infra** may use pozz-lime concrete outside BC-1 envelope scope.
+
+---
+
+## WOODCRAFT-FINISH-1 *(filed Day 1889 · player wood standard)*
+
+**Prerequisite:** **WOOD-PLANE-1 ✓** · **SAND-SMOOTH-1 ✓** @ bench.
+
+| Scope | Standard |
+|-------|----------|
+| **BC-1 oak floors** | **Planed + sand-smoothed** before install · see **Oak plank finish** above |
+| **Furniture · looms · wheels · handles · frames** | **Plane + sand-smooth on exposed wear faces** before assembly · peg mortises may stay knife-clean inside |
+| **Tool bodies** | **Plane sole mates only where noted** · handles get sand-smooth when oak |
+| **Retrofit** | **New work + named heroes only** — not mandatory full-campus refinish pass |
+| **Exempt** | **Rough structural timbers · hidden joists · char · wattle · trail stakes · green splits @ field** |
+
+**Finish order:** **Cut → plane → sand-smooth → assemble → treat coat** *(tallow/beeswax/M-08 per wet-service slate when applicable)*.
 
 ---
 

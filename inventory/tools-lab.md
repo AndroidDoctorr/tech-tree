@@ -10,7 +10,7 @@ Forge PPE @ M2: apron · OPT-1-FORGE · heat gloves · CU fire tongs (coals only
 
 ## Measure · mill
 
-MEASURE-1 · LAB-SCALE-2 · BALANCE-1 · GS-1 grindstone on hub · TRIP-HAMMER-1 + bronze bushes · ORE-CRUSHER-LINK-1 · STRAIGHT-EDGE-2 · brick molds oak + iron ×2
+MEASURE-1 · LAB-SCALE-2 · BALANCE-1 · GS-1 grindstone on hub · TRIP-HAMMER-1 + bronze bushes · ORE-CRUSHER-LINK-1 · STRAIGHT-EDGE-2 · **WOOD-PLANE-1 ✓ d1886** · **SAND-SMOOTH-1 ✓ d1887** · **CRANK-DRILL-1 ✓ d1894** · brick molds oak + iron ×2
 
 ## Glass working set
 
@@ -26,11 +26,11 @@ PB-ROAST-PAN · PB-CRUC · PB-SLAG-DISH · PB-SCOOP (double-red) · ZN-ROAST-PAN
 
 Dye: WOAD-VAT-1 tired · ×4 live baths (iron · hull · grape · onion) · recipe cards @ v1 CHEM
 
-Paper: deckle · mould · couch felt ×4 · sheets 1–9 (8–9 remain · 6–7 spent d1841 · sheet 3 @ wagon)
+Paper: deckle · mould · couch felt ×4 · sheets 1–17 (**16–17 drying d1904 · 14–15 pegged · 12–13 pegged · 10–11 pegged · 8–9 remain · 6–7 spent · sheet 3 @ wagon**)
 
 ## Transport · hunt
 
-Wagon + cart + yoke + crane @ barn · travois @ pile 9 · bow v1 + 15 arrows (11 pointed) · SPEAR-2 · fishing spear · trap kits (weir + trail snares)
+Wagon + cart + yoke + crane @ barn · travois @ pile 9 · **BOW-2 ✓ live ~70 lb horn-lam @ belt** · **bow v1 backup** + 15 arrows (**10 pointed**) · SPEAR-2 · fishing spear · trap kits (weir + trail snares)
 
 ## Copper retired / backup
 
