@@ -1,9 +1,11 @@
 # Route A — trail quality *(TRAIL-Q grammar)*
 
-*Last updated: **Day 1505** · **Cal-Y5 D173** · HOME · TIN-SMELT-TRIAL ✓ · fork A*
+*Last updated: **Day 1989** · **Cal-Y6 D292** · HOME · magnet-rod week · map sync*
 
 **Line map (stops · crossings):** [map.md](map.md) § ORE-TRIP route A  
-**Ore steps:** [ore-trip.md](ore-trip.md)
+**Live crossing table (BQ):** below § **Live crossing registry**  
+**Ore steps:** [ore-trip.md](ore-trip.md)  
+**Map overlay (player):** [reference/README.md](reference/README.md)
 
 ---
 
@@ -44,6 +46,37 @@ Think **Minecraft path grading** — each tier removes friction (deviation, slop
 
 **Hop time** between nodes ≈ `km ÷ loaded_pace` + **crossing minutes** (ford ~15 min · bridge ~25 min).
 
+### Map overlay colors *(player Google map · filed d1989)*
+
+| Color | **TQ / BQ** | Meaning |
+|-------|-------------|---------|
+| **Red** | **0–2.5** | New string · scout · hero-built · not repeat-lap crown |
+| **Yellow** | **~2.5–3.4** | Crown/marked · live bridge · work in progress |
+| **Green** | **~3.5** | **Pass** class — reliable loaded leg or mature deck |
+| **Cyan** | **4–5** | **Haul/road** class · reinforced listens · best aprons |
+
+**Rule:** **Road segments = TQ** on the leg registry. **Crossings = BQ** on the live crossing table. Fords have **no BQ** — file **FQ** *(ford quality)* as **GO / AMBER / RED** only.
+
+---
+
+## BRIDGE-Q scale *(per crossing · 0–5)*
+
+**BQ** grades **loaded crossing friction** — deck stiffness, scour, approach apron, listen mm — not march speed on the connecting legs.
+
+| **BQ** | Label | **Loaded listen** | Tier class | Map color |
+|--------|-------|-------------------|------------|-----------|
+| **0** | **Scout** | **Not crossed loaded** | Site B ghost · RESERVE queued | **Red** |
+| **1** | **Ford GO** | **N/A** · boot/knee wade | Summer/low · **spring re-read** | **Red** |
+| **2** | **Live wood** | **~4–5 mm** · early oak deck | Deploy · no reinforce | **Yellow** |
+| **3** | **Mature wood** | **~3 mm** · repeat lap | Touch · apron dressed | **Yellow–green** |
+| **3.5** | **Pass** | **~2–3 mm** · reinforced or **concrete abutment** | Reinforce · shore grammar | **Green** |
+| **4** | **Haul** | **≤~2 mm** · post-reinforce | d1551+ coast class | **Green–cyan** |
+| **5** | **Road** | **≤~1 mm** · multi-reinforce · ideal apron | Rare · target not hero | **Cyan** |
+
+**Ford-only crossings** *(KARASU-TRIB-01 · KTRUNK deck defer)*: track **FQ** separately — **BQ applies to abutments/shore** where concrete exists; **ford lip = FQ**.
+
+**BQ gain:** same upgrade doctrine as § Bridge upgrade doctrine — **LISTEN → TOUCH → REINFORCE → DEPLOY → REBUILD** — not +WP on legs.
+
 ### Return-HOME grammar *(real-time · no teleport)*
 
 | Return from | Leg 1 *(1 day)* | Leg 2 *(1 long day)* | Total |
@@ -81,55 +114,84 @@ Each **TRAIL-WORK** block on a leg files **+1 WP** on that leg.
 
 ## Leg registry *(Route A · NNE string + west fork)*
 
-*Baseline TQ @ first bridge/live crossing. **WP→TQ** updates after each maintenance day.*
+*Baseline TQ @ first bridge/live crossing. **WP→TQ** updates after each maintenance day. **Live TQ** supersedes d1436 audit where noted.*
 
-| Leg | Segment | km | Cross @ end | **TQ @ open** | **WP** | **TQ @ d1436** | **Pace** | Notes |
-|-----|---------|-----|-------------|---------------|--------|----------------|----------|-------|
-| **L0** | **HOME (via TRIB-FT-01) → KARASU-TRIB-01** | **~12** | **◐ ford** | **1.0** | **12** | **~2.75** | **~3.5** | Home logs/stubs first · then Karasu feeder ford |
-| **L1** | **KARASU-TRIB-01 → KARASU-TRIB-02** | **~4** | **✓ bridge** | **1.0** | **9** | **~2.5** | **~3.4** | Marked · short hop |
-| **L2** | **TRIB-02 → ASI-B** | **~2** | **✓ bridge** | **2.0** | **7** | **~3.0** | **~3.6** | **Best NNE leg · road-like** |
-| **L3** | **ASI-B → AFRIN-B** | **~8** | **✓ bridge** | **1.5** | **10** | **~3.0** | **~3.5** | Apron repeats stable |
-| **L4** | **AFRIN-B → KTRUNK** | **~2** | **◐ ford** | **2.0** | **6** | **~2.75** | **~3.4** | Post-Afrin lip |
-| **L5** | **KTRUNK → KIRIKHAN-APPR-B** | **~18** | **✓ bridge** | **1.5** | **9** | **~2.75** | **~3.4** | Terrace · micro-shortcuts |
-| **L6** | **KIRIKHAN-APPR → SPLIT** | **~7** | **— pass** | **1.5** | **4** | **~2.25** | **~3.2** | Split mark |
-| **L7** | **SPLIT → BELEN-APPR-B** | **~12** | **✓ bridge** | **2.0** | **9** | **~3.25** | **~3.6** | **Belen terrace · road-like** |
-| **L8** | **BELEN-APPR → ISK-APPR** | **~15** | **✓ bridge ~13 m** | **2.0** | **14** | **3.5** | **~3.7** | **Repeat-lap crown · ruts @ apron · road-like** |
-| **L9** | **ISK pass → PINARUS-B** | **~13** | **✓ bridge ~12 m** | **1.0** | **5** | **1.75** | **~3.1** | **Live d1416 · third-lap listens** |
-| **L10** | **PINARUS → PAYAS-B** | **~12** | **✓ bridge ~14 m** | **2.0** | **4** | **2.5** | **~3.4** | **Live d1423 · L10 touch · town through-string** |
-| **L11** | **PAYAS → DORTYOL-B** | **~12** | **✓ bridge ~10 m** | **2.0** | **5** | **2.5** | **~3.4** | **Live d1431 · TRAIL-CLEAR d1424 · pinch crown** |
-| **L12** | **DORTYOL → ERZIN scout** | **~15** | **scout · ford @ A** | **1.0** | **1** | **1.25** | **~2.9** | **Scout string only · frontier · not road yet** |
+| Leg | Segment | km | Cross @ end | **TQ @ open** | **TQ live @ d1989** | **Pace** | Notes |
+|-----|---------|-----|-------------|---------------|---------------------|----------|-------|
+| **L0** | **HOME (via TRIB-FT-01) → KARASU-TRIB-01** | **~12** | **◐ ford** | **1.0** | **~2.85** | **~3.5** | **TRIB-FT-01 ✓ d1938** · KARASU feeder ford **FQ GO** |
+| **L1** | **KARASU-TRIB-01 → KARASU-TRIB-02** | **~4** | **✓ bridge** | **1.0** | **~2.5** | **~3.4** | Marked · short hop |
+| **L2** | **TRIB-02 → ASI-B** | **~2** | **✓ bridge** | **2.0** | **~3.0** | **~3.6** | **Best NNE leg · road-like** |
+| **L3** | **ASI-B → AFRIN-B** | **~8** | **✓ bridge** | **1.5** | **~3.0** | **~3.5** | **Concrete abut d1967 · ~2 mm d1972** |
+| **L4** | **AFRIN-B → KTRUNK** | **~2** | **◐ ford + shore** | **2.0** | **~2.85** | **~3.4** | **Concrete shore d1965–66 · ford ghost PASS d1972** |
+| **L5** | **KTRUNK → KIRIKHAN-APPR-B** | **~18** | **✓ bridge** | **1.5** | **~2.75** | **~3.4** | Terrace · micro-shortcuts |
+| **L6** | **KIRIKHAN-APPR → SPLIT** | **~7** | **— pass** | **1.5** | **~2.25** | **~3.2** | Split mark |
+| **L7** | **SPLIT → BELEN-APPR-B** | **~12** | **✓ bridge** | **2.0** | **~3.25** | **~3.6** | **Belen terrace · waystation d1456** |
+| **L8** | **BELEN-APPR → ISK-APPR** | **~15** | **✓ bridge ~13 m** | **2.0** | **~3.5** | **~3.7** | **Fastest mature leg** |
+| **L9** | **ISK pass → PINARUS-B** | **~13** | **✓ bridge ~12 m** | **1.0** | **~2.0** | **~3.2** | **Reinforce d1551 · ~2 mm** |
+| **L10** | **PINARUS → PAYAS-B** | **~12** | **✓ bridge ~14 m** | **2.0** | **~2.6** | **~3.4** | **Reinforce d1630 · d1822 ~2 mm** |
+| **L11** | **PAYAS → DORTYOL-B** | **~12** | **✓ bridge ~10 m** | **2.0** | **~2.6** | **~3.4** | **Reinforce d1564 · ~2 mm** |
+| **L12** | **DORTYOL → ERZIN** | **~15** | **✓ bridge ~9 m** | **1.0** | **~2.35** | **~3.0** | **Bridge d1441 · reinforce d1544 · corridor WORK d1485–86** |
+| **L13** | **Erzin → Castle → CEYHAN-B** | **~38** | **✓ + boot fords** | **—** | **~2.3** | **~3.2** | **CEYHAN reinforce d1462 · waystation d1491** |
+| **CAP-0** | **CEYHAN → Kozan north gate** | **~50** | **✓ + boot fords** | **—** | **~1.5** | **~2.8** | **TRIB-N02 d1473 · string · waystation d1499** |
 
-**Route composite *(weighted by km · HOME → Erzin ~132 km):*** **TQ ~2.8 @ d1436** · effective loaded pace **~3.4 km/h** on repeat full chain *(was ~2.2 @ d1407 · ~3.25 @ d1421 third-lap depart)*.
+**Route composite *(weighted · HOME → Erzin ~132 km):*** **TQ ~2.9 @ live** *(was ~2.8 @ d1436)* · pace **~3.4 km/h** loaded.
 
-**Vs max for your resources:** **~83%** of **TQ 5 haul-road pace (~4.2 km/h)** · **~68%** of theoretical flat empty max (~5.0). **Crossings + squeeze + frontier legs** cap speed more than donkey muscle.
+**Route composite *(HOME → Ceyhan ~170 km):*** **TQ ~2.7 @ live**.
 
-**Furthest point @ d1452:** **SC-CEYHAN-SPLIT @ ~170 km avian** · **eleventh bridge live · Phrygian / Cappadocian split · turn-back when named**.
+**Furthest routine stop:** **Kozan north gate ~220 km** · tin/pozz CAP-0 · **FQ boot ford** grammar.
 
 ---
 
-## TRAIL-Q audit *(d1436 · user Earth read)*
+## Live crossing registry *(BQ @ d1989)*
 
-**What you are seeing is correct:** repeat loaded laps cut a **one-line wagon crown**; **ruts** @ terrace pinches, ford exits, and bridge aprons are honest at TQ 3–4 (they mean the road is *used*, not that it is finished). **CLEAR** / micro-**GRADE** after brush or rock pick files **tiny straighter shortcuts** (+WP) — visible on satellite as faint line edits, not teleport cheats.
+| Crossing | Leg | km | Span | **BQ** | Listen / FQ | Tier · last hero |
+|----------|-----|-----|------|--------|-------------|------------------|
+| **TRIB-FT-01** | pre-L0 | **0** | deck | **~3.0** | Wagon PASS | Wood v1 **d1938** |
+| **KARASU-TRIB-01** | L0 end | **~12** | **◐ ford** | **—** | **FQ GO** | Site A riffle pinned · no deck |
+| **KARASU-TRIB-02** | L1 end | **~16** | ~3 m | **~3.0** | ~3 mm class | Wood **d1384** |
+| **ASI-ORONTES-1** | L2 end | **~18** | ~10 m | **~3.0** | Mid-span PASS | Wood **d1386** |
+| **AFRIN-1 @ B** | L3 end | **~26** | ~10 m | **~3.5** | **~2 mm** | **Concrete abut d1967 · cure d1972** |
+| **KARASU-TRUNK-1** | L4 end | **~28** | ford+shore | **~3.5** shore | **FQ GO** · ghost PASS | **Shore d1965–66 · read d1972** · deck defer |
+| **KIRIKHAN-APPR-1** | L5 end | **~46** | ~12 m | **~3.0** | Live | Wood **d1396** |
+| **BELEN-APPR-1** | L7 end | **~65** | ~11 m | **~3.25** | Live | Wood **d1403** · wp **d1456** |
+| **ISK-APPR-1** | L8 end | **~82** | ~13 m | **~3.5** | Live | Wood **d1406** |
+| **PINARUS-1** | L9 end | **~92** | ~12 m | **~3.5** | **~2 mm** | **Reinforce d1551** |
+| **PAYAS-APPR-1** | L10 end | **~105** | ~14 m | **~3.5–4** | **~2–3 mm** | **Reinforce d1630 · d1822** |
+| **DORTYOL-APPR-1** | L11 end | **~117** | ~10 m | **~3.5** | **~2 mm** | **Reinforce d1564** |
+| **ERZIN-APPR-1** | L12 end | **~132** | ~9 m | **~3.5** | **~2 mm** | **Reinforce d1544** |
+| **CEYHAN-APPR-1** | L13 | **~167** | ~13 m | **~3.5** | Live | **Reinforce d1462** |
+| **TRIB-FT-N02** | CAP-0 | **~215** | ~8 m | **~3.0** | Live | Wood **d1473** |
+| **BRIDGE-1 @ T-2 km 3** | local | **~3** | ~2.4 m | **~2.5** | PASS | **d720** · farm/coast leg |
 
-| Leg | **TQ @ d1436** | **Pace** | **% of haul-road max** | **Road feel · bottleneck** |
-|-----|----------------|----------|------------------------|----------------------------|
-| **L0** | **~2.75** | **~3.5** | **~83%** | Ford exit dressed · ruts forming · HOME yard grammar |
-| **L1** | **~2.5** | **~3.4** | **~81%** | Short hop · marked crown |
-| **L2** | **~3.0** | **~3.6** | **~86%** | **Best NNE leg** · bridge approaches · nearest “road” on string |
-| **L3** | **~3.0** | **~3.5** | **~83%** | Afrin apron repeats · stable |
-| **L4** | **~2.75** | **~3.4** | **~81%** | Post-Afrin lip · ford grammar |
-| **L5** | **~2.75** | **~3.4** | **~81%** | Long terrace · brush clears = micro-shortcuts |
-| **L6** | **~2.25** | **~3.2** | **~76%** | Split pass · mark only |
-| **L7** | **~3.25** | **~3.6** | **~86%** | **Belen terrace · road-like** · swell fringe west |
-| **L8** | **~3.5** | **~3.7** | **~88%** | **Fastest mature leg** · Isk approach · ruts @ north apron |
-| **L9** | **~1.75** | **~3.1** | **~74%** | Young leg · PINARUS live d1416 · fewer laps than L8 |
-| **L10** | **~2.5** | **~3.4** | **~81%** | PAYAS bridge d1423 · Payas/Karsi through-string |
-| **L11** | **~2.5** | **~3.4** | **~81%** | Issus bridge d1431 · pinch clear d1424 |
-| **L12** | **~1.75** | **~3.0** | **~72%** | **Improving d1485–1486 · both apron faces · Erzin ford @ A · no bridge yet** |
+**Local trails *(not Route A BQ):*** **Kisecik K-R0–K-R3** sulfur road **TQ ~2.0–2.5** · **NE M-G1 corridor** **TQ ~2–2.5** · **COAST-TRAIL-1 ~20 km W** **TQ ~2–2.5**.
 
-**Not at max because:** (1) **+4 WP = +0.5 TQ** — shortcuts and touches add up slowly; (2) **hero days** spend march on **build/scout**, not GRADE; (3) **L12+** and **Cilician Gates** ahead are still **string/marked** class; (4) **~25 min per bridge** + **ford reads** eat calendar regardless of TQ.
+---
 
-**Fair copy:** sketched @ **PAPER-SHEET-5** d1436.
+## TRAIL-Q audit *(live @ d1989)*
+
+**What you are seeing is correct:** repeat loaded laps cut a **one-line wagon crown**; **ruts** @ terrace pinches, ford exits, and bridge aprons are honest at TQ 3–4 (they mean the road is *used*, not that it is finished). **CLEAR** / micro-**GRADE** after brush or rock pick files **tiny straighter shortcuts** (+WP).
+
+| Leg | **TQ live** | **Pace** | **Map color** | **Road feel · bottleneck** |
+|-----|-------------|----------|---------------|----------------------------|
+| **L0** | **~2.85** | **~3.5** | **Yellow–green** | **TRIB-FT-01 live** · Karasu ford dressed |
+| **L1** | **~2.5** | **~3.4** | **Yellow** | Short hop · marked crown |
+| **L2** | **~3.0** | **~3.6** | **Yellow–green** | **Best NNE leg** |
+| **L3** | **~3.0** | **~3.5** | **Green** | **AFRIN concrete abut · ~2 mm** |
+| **L4** | **~2.85** | **~3.4** | **Green** | **KTRUNK shore + ford PASS** |
+| **L5** | **~2.75** | **~3.4** | **Yellow** | Long terrace |
+| **L6** | **~2.25** | **~3.2** | **Yellow** | Split pass only |
+| **L7** | **~3.25** | **~3.6** | **Yellow–green** | Belen terrace · wp live |
+| **L8** | **~3.5** | **~3.7** | **Green** | **Fastest mature leg** |
+| **L9** | **~2.0** | **~3.2** | **Yellow** | PINARUS reinforce · fewer laps than L8 |
+| **L10** | **~2.6** | **~3.4** | **Yellow–green** | PAYAS · d1822 touch |
+| **L11** | **~2.6** | **~3.4** | **Yellow–green** | DORTYOL reinforce |
+| **L12** | **~2.35** | **~3.0** | **Yellow** | **Erzin bridge live · corridor WORK** |
+| **L13** | **~2.3** | **~3.2** | **Yellow** | Plain string · CEYHAN wp |
+| **CAP-0** | **~1.5** | **~2.8** | **Red–yellow** | Kozan string · boot fords |
+
+**Not at max because:** (1) **+4 WP = +0.5 TQ** — gains are slow; (2) hero days spend march on **build/scout**; (3) **CAP-0 / Cilician Gates** ahead still **string** class; (4) crossing minutes eat calendar regardless of TQ.
+
+*Prior audit @ d1436 retained in journal · leg registry supersedes.*
 
 ---
 

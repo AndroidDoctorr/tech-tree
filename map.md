@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 1920** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality:** [route-a-road.md](route-a-road.md)*  
+*Last updated: **Day 1989** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality / BQ:** [route-a-road.md](route-a-road.md) · **map overlay:** [reference/README.md](reference/README.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Plateau on the **south bank of TRIB-1** · gorge / mountain **E** · Orontes **~1 km W**  
 **Site lock:** [journal/retcons/HOME-SITE-LOCK-1920.md](journal/retcons/HOME-SITE-LOCK-1920.md)  
@@ -12,7 +12,7 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 
 | Axis | Live |
 |------|------|
-| **N** | **TRIB-1** · Fabrica / T-1 fork · **TRIB-FT-01** (logs + stubs) · road continues **N** |
+| **N** | **TRIB-1** · Fabrica / T-1 fork · **TRIB-FT-01** (v1 LIVE d1938) · road continues **N** |
 | **E** | **Upslope** · gorge · pines on the climb · A-03 |
 | **S** | Inland plateau · then mountain rise |
 | **W** | **Downslope** · farm / olive · Amuq · **Orontes ~1 km** · coast ~20 km |
@@ -78,11 +78,12 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
                                     |
      Orontes ~1 km W ←══ TRIB-1 (N edge · gorge → W) ══ [gorge mouth]
                                     |
-                         [TRIB-FT-01 · logs + pozz stubs · road N]
+                         [TRIB-FT-01 · v1 LIVE d1938 · road N]
                                     |
                     [Fabrica / WW-YARD ~140 m @ T-1 fork]
+                    [north pad: WW-1 · WW-2 @ TRIB-1 bank]
                     [plus: Store-4 N · Millhouse-2 W · Chem E · hub]
-                    [south court: WW-1 · WW-2 · Forge-D @ millhouse]
+                    [south court: belt · FORGE-D @ millhouse]
                                     |
               [Atelier · old W-1]     [v1 store · kilns A/B/C ~80 m]
                                     |
@@ -118,7 +119,7 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 | **Bed B** | Farm plot | **~200** | 10 | **SPRING-SOW-3 ✓ Day 669** · P-17 · flax · emmer · herbs |
 | **Bed D (selection)** | Farm S margin | **~200** | 12 | **~24 m²** · **FIG-C1–4** · fence **✓** |
 | **WW-YARD / Fabrica** | T-1 fork @ TRIB-1 (N edge) | **~140** | 10 | **WW-1 ✓** · **MILLHOUSE-2 ✓** · **FORGE-D ✓** · plus-shape |
-| **TRIB-FT-01** | TRIB-1 N of campus | **~140** class | — | **Logs v0 · stubs PASS d1917 · stringers GO · deck defer** · road **N** |
+| **TRIB-FT-01** | TRIB-1 N of campus | **~140** class | — | **v1 LIVE ✓ d1938** · footings · deck · **wagon PASS** · road **N** |
 | **BRIDGE-1 @ km 3 creek** | **~3 km on T-2** | **~3 km** | **~40 min wagon** | **✓ Day 720** · span **~2.4 m** · wagon empty + **~25 kg PASS** |
 | **TRAIL-CACHE-1** | T-2 NE fork | **~4 km** | 25 | **✓ Day 293** — grain · jerky · FK · rope |
 | **C-0 / SUN-CAL-1** | S of H-v2 | **~12** | 1 | **Cal-Y2 D315** · ground **501** · wall **497** · **YULE @ 374** — [sun-calendar.md](../sun-calendar.md) |
@@ -416,6 +417,8 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 
 **Fabrica plus is one compound** (mill · hub · lab · store). **Atelier is not on this plus.**
 
+**Orientation *(canon · filed d1989):*** **WW wheels on the north (TRIB-1) bank** — **WW-1 · WW-2 @ north pad**. **South court** = **belt clearance · FORGE-D · smoke/working zone**. Player campus diagrams that show wheels on the south leg are **flipped** — trust this file + journal north-pad heroes (d1882+).
+
 | Structure | Size | Relation |
 |-----------|------|----------|
 | **MILLHOUSE-1** | **~3×4 m** @ **HOUSE** marker | **West leg** · Phase 1 open workshop |
@@ -433,7 +436,8 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
     [MILLHOUSE-2 ✓ · 5×6] — [WW-HUB-TOWER ✓] — [CHEM-LAB ✓ · 5×6]
            W                      +                      E
                               |
-           [south court: WW-1 · WW-2 · belt · FORGE-D @ millhouse]
+           [south court: belt · FORGE-D @ millhouse]
+    [north pad @ TRIB-1: WW-1 ✓ · WW-2 ✓ · raceway intake]
 ```
 
 | Leg | Build | Notes |
@@ -442,7 +446,8 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 | **W** | **MILLHOUSE-2 ✓** | Open shop · **FORGE-D** on this cheek |
 | **E** | **CHEM-LAB-WING-1 ✓** | Fume wing · Stage 5 live |
 | **Center** | **WW-HUB-TOWER-1 ✓** | Connector · oak floor · tile · vent |
-| **S** | **Open court** | **Wheels + forge** · smoke OK · **not** the Atelier |
+| **S** | **Open court** | **Belt · forge** · smoke OK · **not** the Atelier |
+| **N bank** | **WW-1 · WW-2 @ north pad** | **Water wheels @ TRIB-1** · raceway · **not** south leg |
 
 **Courtyard options:**
 
@@ -575,9 +580,9 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 
 ---
 
-## ORE-TRIP route A — line map *(Peutinger / subway grammar · filed Day 1403)*
+## ORE-TRIP route A — line map *(Peutinger / subway grammar · refreshed Day 1989)*
 
-**Purpose:** Mental map of **how nodes connect**, **what crosses how**, and **honest travel time** — not survey-grade geography. Distances are **avian km from HOME** unless noted. Full step list: [ore-trip.md](ore-trip.md). **Trail quality / speed:** [route-a-road.md](route-a-road.md) *(TRAIL-Q · WP · loaded pace)*. **Player place names:** [route-nomenclature.md](route-nomenclature.md) *(Alexandria · Issus · The Castle · road names · filed d1435)*.
+**Purpose:** Mental map of **how nodes connect**, **what crosses how**, and **honest travel time** — not survey-grade geography. Distances are **avian km from HOME** unless noted. Full step list: [ore-trip.md](ore-trip.md). **Trail quality / speed:** [route-a-road.md](route-a-road.md) *(TRAIL-Q · BQ · loaded pace)*. **Player place names:** [route-nomenclature.md](route-nomenclature.md) *(Alexandria · Issus · The Castle · road names · filed d1435)*. **Google overlay:** [reference/README.md](reference/README.md).
 
 **Legend**
 
@@ -585,22 +590,23 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 |--------|---------|
 | **✓ BRIDGE** | Built · loaded column crossed · live on trail |
 | **◐ FORD** | Loaded wagon **GO @ winter low** · boot wade honest |
+| **◐ FORD+** | **Concrete shore/abut** · ford lip still **FQ GO** · deck defer |
 | **⚠ FORD-A** | **Site A** upstream / summer / swell class — **loaded RED** · **future bridge** if hero budget allows |
 | **○ BRIDGE** | Scout **GO @ site B** · **RESERVE + FILL queued** on wagon or @ HOME |
 | **— PASS** | No crossing · turn · town pass-through |
 | **▣ CACHE** | Trail cache · read-only touch |
 
-**Pace class @ ~81 kg column:** **TQ-dependent** — composite **~3.1 km/h loaded @ TQ ~2.0 (d1404)** · **~5 km/h** empty on perfect crown · see [route-a-road.md](route-a-road.md) · **one hero crossing ≈ 20–40 min**
+**Pace class @ ~81 kg column:** composite **~3.4 km/h loaded @ TQ ~2.9 (d1989)** · **~5 km/h** empty on perfect crown · see [route-a-road.md](route-a-road.md) · **one hero crossing ≈ 20–40 min**
 
 ### Subway diagram *(NNE string → west coast fork)*
 
 ```
-HOME [TRIB-FT-01 logs/stubs] ──12──► [KARASU-TRIB-01 ◐] ──4──► [KARASU-TRIB-02 ✓] ──2──► [ASI-B ✓]
+HOME [TRIB-FT-01 ✓ d1938] ──12──► [KARASU-TRIB-01 ◐] ──4──► [KARASU-TRIB-02 ✓] ──2──► [ASI-B ✓]
                                                       │
                     ┌─────────────────────────────────┘
                     │  ~8 NNE
                     ▼
-              [AFRIN-B ✓] ──2──► [KTRUNK ◐] ──18 NNE──► [KIRIKHAN-APPR-B ✓]
+              [AFRIN-B ✓ concrete abut] ──2──► [KTRUNK ◐+ shore] ──18 NNE──► [KIRIKHAN-APPR-B ✓]
                     ⚠A                                              │
                     summer ford only                                  │ ~7
                                                                       ▼
@@ -608,7 +614,7 @@ HOME [TRIB-FT-01 logs/stubs] ──12──► [KARASU-TRIB-01 ◐] ──4─�
                                                                       │
                                                               ~12 W   │
                                                                       ▼
-                                                            [BELEN-APPR-B ✓]
+                                                            [BELEN-APPR-B ✓ · wp d1456]
                                                                     ⚠A swell
                                                                       │
                                                               pass    │ ~15 NW
@@ -617,42 +623,41 @@ HOME [TRIB-FT-01 logs/stubs] ──12──► [KARASU-TRIB-01 ◐] ──4─�
                                                                     ⚠A
 ```
 
-### Stop list *(northbound from HOME · then west)*
+### Stop list *(northbound from HOME · then west · status @ d1989)*
 
-| # | Node · stake | km from HOME | Hop time *(loaded)* | Cross | Status @ d1403 | Near / notes |
-|---|--------------|--------------|---------------------|-------|----------------|--------------|
-| **0** | **HOME · CART-YARD** | **0** | — | — | **Respawn C-0** · horreum B empty when deployed | Farm · WW-YARD · kiln · bridge refill @ pile 8/4/7 |
-| **1** | **KARASU-TRIB-01 · SC-TRIB-01** | **~12** | **~3 h** from yard | **◐ ford** | **Loaded GO** · knee gravel | First Karasu feeder · **⚠ upstream riffle = future bridge site A** if winter high |
-| **2** | **TRAIL-CACHE-3** | **~14** | **+20 min** | **—** | **▣ read only** · full | Jerky · char · tokens · no deploy |
-| **3** | **KARASU-TRIB-02 · SC-TRIB-02** | **~16** | **+30 min** | **✓ bridge ~3 m** | **Live d1384** · ~3 mm settle loaded | Early north camp grammar · post-Asi string start |
-| **4** | **ASI-ORONTES-1 · SC-ASI-B** | **~18** | **+45 min** | **✓ bridge ~10 m** | **Live d1386** · mid-span listen PASS | Orontes trunk · stadium shallows class upstream |
-| **5** | **AFRIN-1 · SC-AFRIN-B** | **~26** | **~4 h** cum. from HOME | **✓ bridge ~10 m** | **Live d1390** | Main Afrin trib · **⚠ SC-AFRIN-A summer ford only** |
-| **6** | **KARASU-TRUNK-1 · SC-KTRUNK** | **~28** | **+30 min** | **◐ ford ~22 m face** | **Loaded GO d1390** · 30 s mid stop | Main stream post-Afrin · **⚠ spring re-read** · **future bridge if rise kills ford** |
-| **7** | **Post-Afrin camp string** | **~28** | camp | **—** | TENT-2 grammar · fly on | Kirikhan runway staging · scare deferred |
-| **8** | **KIRIKHAN-APPROACH-1 · SC-KAPPROACH-B** | **~46** | **~6 h** from post-Afrin | **✓ bridge ~12 m** | **Live d1396** | Modest trib before split · **⚠ SC-KAPPROACH-A summer ford** |
-| **9** | **SC-KIRIKHAN-SPLIT** | **~53** | **+1.5 h** | **— PASS** | **Route A west** · Nurdağı B defer | Fork cairn · token west table · no water @ fork |
-| **10** | **BELEN-APPROACH-1 · SC-BELEN-B** | **~65** | **~4 h** from split | **✓ bridge ~11 m** | **Live d1403** · scout d1402 | Coastal wadi · **⚠ SC-BELEN-A beach swell RED** |
-| **10a** | **TRAIL-WAYSTATION-BELEN-1 · site C** | **~65** | **camp @ upper bench** | **— PASS** | **✓ live d1456** · lean-to · corral · fire lee | **First waypoint · backup not domus** |
-| **11** | **Belen pass · town class** | **~67** | **+30 min** | **— PASS** | Through-string · no deploy | Pass to Isk coast grammar · not a hero cross |
-| **12** | **ISK-APPROACH-1 · SC-ISK-B** | **~82** | **~4 h** from Belen | **✓ bridge ~13 m** | **Live d1406** · scout d1403 | Before Isk outskirts · **⚠ SC-ISK-A creek mouth RED** |
-| **13** | **Isk outskirts pass** | **~85** | **+30 min** | **— PASS** | **Through-string** · no deploy | **Cilicia** coast push · Payas horizon |
-| **14** | **PINARUS-1 · SC-PINARUS-B** | **~92** | **~4 h** from Isk pass | **✓ bridge ~12 m** | **Live d1416** · scout d1415 | Coast squeeze · **⚠ SC-PINARUS-A summer ford** |
-| **15** | **PAYAS-APPROACH-1 · SC-PAYAS-B** | **~105** | **~4 h** from PINARUS | **✓ bridge ~14 m** | **Live d1423** · scout d1417 | Before Payas/Karsi · **⚠ SC-PAYAS-A swell RED winter** |
-| **16** | **DORTYOL-APPROACH-1 · SC-DORTYOL-B** | **~117** | **~4 h** from PAYAS | **✓ bridge ~10 m** | **Live d1431** · scout d1424 | Before Erzin · **⚠ SC-DORTYOL-A summer ford** |
-| **17** | **ERZIN-APPROACH-1 · SC-ERZIN-B** | **~132** | **~4 h** from DORTYOL | **✓ bridge ~9 m** | **Live d1441** · scout d1432 | Before The Castle · **⚠ SC-ERZIN-A summer ford** |
-| **18** | **SC-THE-CASTLE-HILL · Toprakkale terrace** | **~142** | **~2 h foot from Erzin camp** | **— PASS** | **Scout ✓ d1442 · re-read ✓ d1450** · hill only @ 10k BC | **Route A + Phrygian rejoin · west turn @ d1450** |
-| **19** | **Cilician plain west string camp** | **~155** | **~4 h from Castle @ L13 string** | **◐ ×2 rills** | **Boot ford PASS · char @ lips · no hero** | **Flat · fast vs coast · CEYHAN ~12 km W** |
-| **20** | **CEYHAN-APPROACH-1 · SC-CEYHAN-B** | **~167** | **~4 h from west string** | **✓ bridge ~13 m** | **Live d1452** · scout d1450–1451 · **RESERVE-10 spent** | **Leg 10 close · eleventh bridge** |
-| **21** | **SC-CEYHAN-SPLIT · west terrace** | **~170** | **camp @ bridge west bank** | **— PASS** | **Site B ✓ locked d1453 · waystation defer · Cappadocian N · Phrygian W** | **Cilicia proper milestone · future waypoint** |
+| # | Node · stake | km | Cross | **BQ** | Status @ d1989 | Near / notes |
+|---|--------------|-----|-------|--------|----------------|--------------|
+| **0** | **HOME · TRIB-FT-01** | **0** | **✓ ~3 m** | **~3.0** | **LIVE d1938 · wagon PASS** | First road crossing **N** · [route-a-road.md](route-a-road.md) |
+| **1** | **KARASU-TRIB-01 · SC-TRIB-01** | **~12** | **◐ ford** | **—** | **FQ GO** | Feeder ford · site A riffle defer |
+| **2** | **TRAIL-CACHE-3** | **~14** | **—** | — | **▣ read only** | Jerky · char · tokens |
+| **3** | **KARASU-TRIB-02 · SC-TRIB-02** | **~16** | **✓ ~3 m** | **~3.0** | **Live d1384** | Early north camp grammar |
+| **4** | **ASI-ORONTES-1 · SC-ASI-B** | **~18** | **✓ ~10 m** | **~3.0** | **Live d1386** | Orontes trunk |
+| **5** | **AFRIN-1 · SC-AFRIN-B** | **~26** | **✓ ~10 m** | **~3.5** | **Concrete abut d1967 · ~2 mm d1972** | **⚠ SC-AFRIN-A summer ford only** |
+| **6** | **KARASU-TRUNK-1 · SC-KTRUNK** | **~28** | **◐+ ~22 m** | **~3.5** shore | **Shore d1965–66 · ford ghost PASS d1972** | **Deck defer · spring FQ re-read** |
+| **7** | **Post-Afrin camp string** | **~28** | **—** | — | TENT-2 grammar | Kirikhan runway staging |
+| **8** | **KIRIKHAN-APPROACH-1 · SC-KAPPROACH-B** | **~46** | **✓ ~12 m** | **~3.0** | **Live d1396** | **⚠ site A summer ford** |
+| **9** | **SC-KIRIKHAN-SPLIT** | **~53** | **—** | — | **Route A west** | Fork cairn · no water @ fork |
+| **10** | **BELEN-APPROACH-1 · SC-BELEN-B** | **~65** | **✓ ~11 m** | **~3.25** | **Live d1403 · wp d1456** | **⚠ SC-BELEN-A swell RED** |
+| **11** | **Belen pass · town class** | **~67** | **—** | — | Through-string | Pass to Isk coast |
+| **12** | **ISK-APPROACH-1 · SC-ISK-B** | **~82** | **✓ ~13 m** | **~3.5** | **Live d1406** | **⚠ SC-ISK-A creek mouth RED** |
+| **13** | **Isk outskirts pass** | **~85** | **—** | — | Through-string | Cilicia coast push |
+| **14** | **PINARUS-1 · SC-PINARUS-B** | **~92** | **✓ ~12 m** | **~3.5** | **Reinforce d1551 · ~2 mm** | Coast squeeze |
+| **15** | **PAYAS-APPROACH-1 · SC-PAYAS-B** | **~105** | **✓ ~14 m** | **~3.5–4** | **Reinforce d1630 · d1822 ~2–3 mm** | Before Payas/Karsi |
+| **16** | **DORTYOL-APPROACH-1 · SC-DORTYOL-B** | **~117** | **✓ ~10 m** | **~3.5** | **Reinforce d1564 · ~2 mm** | Before Erzin |
+| **17** | **ERZIN-APPROACH-1 · SC-ERZIN-B** | **~132** | **✓ ~9 m** | **~3.5** | **Live d1441 · reinforce d1544 · corridor WORK d1485–86** | Before The Castle |
+| **18** | **SC-THE-CASTLE-HILL · Toprakkale** | **~142** | **—** | — | **Scout ✓ d1442 · re-read d1450** | West turn @ d1450 |
+| **19** | **Cilician plain west string** | **~155** | **◐ ×2 rills** | — | Boot ford PASS | Flat · fast vs coast |
+| **20** | **CEYHAN-APPROACH-1 · SC-CEYHAN-B** | **~167** | **✓ ~13 m** | **~3.5** | **Reinforce d1462** | Eleventh bridge |
+| **21** | **SC-CEYHAN-SPLIT · west terrace** | **~170** | **—** | — | **Waystation defer** | Cappadocian N · Phrygian W |
 
 ### Westbound coast string *(from Kirikhan split · route A only)*
 
-| Leg | Ore-trip step | Bridge heroes used | Open @ d1403 |
+| Leg | Ore-trip step | Bridge heroes used | Open @ d1989 |
 |-----|---------------|-------------------|--------------|
 | **Split → Belen** | **+12 km W** | **1 · BELEN-APPROACH-1 @ B** | **✓ crossed** |
 | **Split → Isk approach** | **+15 km NW** | **1 · ISK-APPROACH-1 @ B** | **✓ crossed d1406** |
-| **Isk → Payas/Karsi** | **+10–15 km N** | **PINARUS ✓ · PAYAS ✓ d1423** | **✓ crossed · Dörtyol scout ✓ d1424** |
-| **Payas → Dörtyol → Erzin** | **+12 km · +15 km N** | **✓ DORTYOL d1431 · Erzin bridge ✓ d1441** | **Leg 9 close · ~132 km** |
+| **Isk → Payas/Karsi** | **+10–15 km N** | **PINARUS reinforce d1551 · PAYAS reinforce d1630 · d1822 touch** | **✓ ~2–3 mm @ PAYAS** |
+| **Payas → Dörtyol → Erzin** | **+12 km · +15 km N** | **DORTYOL reinforce d1564 · Erzin d1441 + corridor WORK d1485–86** | **~132 km · Erzin bridge live** |
 | **→ The Castle hill** | **+~10 km NNW** | **✓ scout d1442 · re-read d1450** | **~142 km rejoin · west turn @ d1450** |
 | **Castle → Ceyhan approach** | **+~13 km W · +~12 km W to river** | **plain rills boot · CEYHAN scout d1450–1451** | **~167 km @ bar** |
 | **Ceyhan cross → split camp** | **bridge hero d1452** | **✓ CEYHAN-APPROACH-1 @ B · ~13 m** | **~170 km · SC-CEYHAN-SPLIT · pad B lean** |
@@ -663,7 +668,7 @@ HOME [TRIB-FT-01 logs/stubs] ──12──► [KARASU-TRIB-01 ◐] ──4─�
 |----|-----------|-------------|----------|
 | **KARASU-TRIB-01 site A** | Upstream riffle · high water | **○ A** | Low — ford holds @ B grammar |
 | **AFRIN-1 site A** | Summer low only · thigh @ mid loaded | **○ A** | Defer — **B live** |
-| **KARASU-TRUNK-1** | Spring rise · 22 m face | **○ trunk bridge** | **Re-read each spring** · ford OK @ d1403 |
+| **KARASU-TRUNK-1** | Spring rise · 22 m face | **○ trunk deck** | **Shore ✓ d1965–66 · ford PASS d1972** · deck defer · **FQ re-read each spring** |
 | **KIRIKHAN-APPROACH site A** | Winter high · riffle | **○ A** | Defer — **B live** |
 | **BELEN-APPROACH site A** | **Swell / beach fringe** | **○ A** | **Coast grammar** — keep **B** as hero |
 | **ISK-APPROACH site A** | **Creek mouth / storm surge** | **○ A** | **Next scout class** |

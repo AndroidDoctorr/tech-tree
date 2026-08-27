@@ -3,7 +3,7 @@
 *Revised **Day 640+** — supersedes T-plan / two-storey sketch*  
 **Active plan:** **compluvium / impluvium** around **C-0** · **one floor** · **zoned hypocaust**  
 **Naming:** Latin labels below — e.g. new **culina** (villa south range) vs **culina vetus** ([H-v2-KITCHEN](map.md) wing · operational until domus live)  
-**Superseded:** [images/house-diagram-labeled.png](images/house-diagram-labeled.png) (2F T-plan · filed for reference) · [images/hut-plans.png](images/hut-plans.png) (H-v2 annex sketch)  
+**Superseded:** [reference/house-diagram-labeled.png](reference/house-diagram-labeled.png) (2F T-plan · filed for reference) · [reference/hut-plans.png](reference/hut-plans.png) (H-v2 annex sketch)  
 **Aligns with:** [materials-roadmap.md](materials-roadmap.md) § courtyard compound (Day 66)  
 **Stock / tech:** [inventory.md](inventory.md) · [ladder.md](ladder.md) · [map.md](map.md)
 
@@ -392,8 +392,8 @@
 
 | Artifact | Status |
 |----------|--------|
-| **2F T-plan** | [house-diagram-labeled.png](images/house-diagram-labeled.png) — reference only |
-| **H-v2 annex wings** | [hut-plans.png](images/hut-plans.png) — reference only |
+| **2F T-plan** | [house-diagram-labeled.png](reference/house-diagram-labeled.png) — reference only |
+| **H-v2 annex wings** | [hut-plans.png](reference/hut-plans.png) — reference only |
 | **MURE-2 double cavity** | Superseded by **MURE-R1** |
 
 ---

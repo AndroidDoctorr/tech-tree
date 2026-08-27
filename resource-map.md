@@ -1,9 +1,9 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: **Day 552** (~10,000 BC)*
+*Last updated: **Day 1989** (~10,000 BC) — **stock counts live in [inventory.md](inventory.md) only; this file is site/distances.*
 
-**Also see:** [map.md](map.md) (trails, geography) · [inventory.md](inventory.md) (**stock on hand — sole source for quantities**)
+**Also see:** [map.md](map.md) (trails, geography, ORE-TRIP stops) · [route-a-road.md](route-a-road.md) (TQ/BQ) · [reference/README.md](reference/README.md) (player map overlay)
 
 ---
 
@@ -68,7 +68,7 @@
 | **M-08** | Aleppo pine resin | 150 m + climb N | — | Adhesive | **Pitch ✓** — amphora seal · hafting · **true tar/birch tar = horizon** |
 | **M-09** | River sand | 200 m | T-1 | Grog / temper | ~3 kg stock |
 | **M-10** | **Quartz** (clear/white) | **Local + coast** | Terrace · T-1 gravel · **COAST-1 ✓** | **OPT-1 · Glass** | **QUARTZ-1 ✓** · local + coast sand — see inventory |
-| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · **collect ✓ Day 379** | **Chem · Mordant** | **~2.4 kg** modest collect · stake refreshed |
+| **M-11** | **Alum** (alunite class) | **~20 km W cliff** | **COAST-1 ✓** · **collect ✓ Day 379** | **Chem · Mordant** | **~2.4 kg** modest collect · stake refreshed · **volcanic-margin alum scouts = horizon** *(Amanus / Koruhöyük belt — not retcon; see Kisecik sulfur road)* |
 | **M-12** | **Nitrate** (efflorescence) | **Collect ✓ · purify ✓ · mix ✓ d1609** | Limestone · manure · bird cliff | **Chem · Saltpeter · Gunpowder** | **~429 g crystal @ v1 CHEM · FIRECRACKER-PROOF-1 ✓ · bird cliff defer** |
 | **M-14** | **Native sulfur** (brimstone) | **Collect ✓ · road ✓ d1611** | **Kisecik ~14 km NW** · Amanus toe | **Chem · Sulfur · Gunpowder** | **KISECIK-SULFUR-ROAD K-R0–K-R3 · K-R3 ~TQ 2.0 · 1-day grammar · Orontes direct ford = future** |
 | **M-15** | **Zinc** (sphalerite) · **lead** (Pb-class sulfides) | **Scout ✓ d1651 · modest sample ~2.8 kg** | **Kisecik ophiolite · quartz-sulfide veins @ ZN-PB-MARK-1A/1B ~200 m NE of M-14 1A** | **Brass horizon · bullets · pipe · alloy R&D** | **GEOLOGY-SLATE-REVISION-1634 · **sphalerite + galena-class confirmed d1651** · Ag sparse · K-R0–K-R3 ~TQ 2.5** |
@@ -94,7 +94,7 @@
 | **Sulfur (M-14)** | **✓ collect · grind · mix d1609** | Fine flour · proof | **~548 g fine + ~2.2 kg block · FIRECRACKER-PROOF-1 ✓** |
 | **Kelp (M-13)** | **✓ COAST-1** | Ash · iodine | **→ KELP-ASH-1 Day 288** |
 
-**Copper smelt on hold** · **O-1 ~12.5 kg** · **O-IRON-1 ~1.8 kg** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.
+**Copper smelt routine @ d1989** · **O-1 ~14.4 kg** · **WIRE-CU-3 ~60 m fine** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.
 
 ---
 

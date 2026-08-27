@@ -1965,6 +1965,7 @@
 | 1986 | [day-1986.md](days/year-006/week-284/day-1986.md) | **MODEST-CURRENT-LOOP-1 ✓ · deflection ~2–5° · EM-power slate** | **Cal-Y6 D289 · 6 Oct** |
 | 1987 | [day-1987.md](days/year-006/week-284/day-1987.md) | **EM-COIL-2 ✓ · iron-core EM · ~240 turns · lift trial PASS** | **Cal-Y6 D290 · 7 Oct** |
 | 1988 | [day-1988.md](days/year-006/week-284/day-1988.md) | **MAGNET-BOOTSTRAP-EM-1 ✓ · piece #5 ~36 mm · EM assist proven** | **Cal-Y6 D291 · 8 Oct** |
+| 1989 | [day-1989.md](days/year-006/week-285/day-1989.md) | **WEEK-285-OPEN · MAGNET-BOOTSTRAP-EM-2 ✓ · rods #6–7 · tray ×3** | **Cal-Y6 D292 · 9 Oct** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

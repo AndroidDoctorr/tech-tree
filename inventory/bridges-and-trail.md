@@ -13,22 +13,24 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Live bridges (site B unless noted)
 
-| Crossing | Notes |
-|----------|-------|
-| KARASU-TRIB-02 | ~16 km · d1384 |
-| ASI-ORONTES-1 | d1386 |
-| AFRIN-1 | **~10 m · site B · concrete abutment d1967 · cure read PASS d1972 · ~2 mm · site A ford defer** |
-| KIRIKHAN-APPROACH-1 | ~12 m · d1396 |
-| ISK-APPROACH-1 | ~13 m · d1406 |
-| PINARUS-1 | ~12 m · reinforced d1551 |
-| PAYAS-APPROACH-1 | ~14 m · reinforced d1630 · **d1822 reinforce ~3→~2 mm** |
-| DORTYOL-APPROACH-1 | ~10 m · reinforced d1564 |
-| ERZIN-APPROACH-1 | ~9 m · reinforced d1544 |
-| CEYHAN-APPROACH-1 | ~13 m · reinforced d1462 |
-| TRIB-FT-N02 | ~8 m · d1473 |
-| **TRIB-FT-01 @ HOME TRIB-1** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** · first road crossing **N** |
-| **KARASU-TRIB-01** | **~12 km · ◐ ford** · SC-TRIB-01 · **no** concrete |
-| **KARASU-TRUNK-1** | **~28 km · SC-KTRUNK · ford + concrete abutments · cure read PASS d1972 · loaded ford ghost PASS** |
+*Full crossing table with leg + listen mm: [route-a-road.md](../route-a-road.md) § Live crossing registry.*
+
+| Crossing | **BQ** | Notes |
+|----------|--------|-------|
+| **TRIB-FT-01 @ HOME TRIB-1** | **~3.0** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** |
+| KARASU-TRIB-02 | **~3.0** | ~16 km · d1384 |
+| ASI-ORONTES-1 | **~3.0** | d1386 |
+| AFRIN-1 | **~3.5** | **~10 m · site B · concrete abutment d1967 · cure read PASS d1972 · ~2 mm · site A ford defer** |
+| KIRIKHAN-APPROACH-1 | **~3.0** | ~12 m · d1396 |
+| ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 |
+| PINARUS-1 | **~3.5** | ~12 m · reinforced d1551 · ~2 mm |
+| PAYAS-APPROACH-1 | **~3.5–4** | ~14 m · reinforced d1630 · **d1822 reinforce ~3→~2 mm** |
+| DORTYOL-APPROACH-1 | **~3.5** | ~10 m · reinforced d1564 |
+| ERZIN-APPROACH-1 | **~3.5** | ~9 m · reinforced d1544 |
+| CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |
+| TRIB-FT-N02 | **~3.0** | ~8 m · d1473 |
+| **KARASU-TRIB-01** | **—** *(FQ GO)* | **~12 km · ◐ ford** · SC-TRIB-01 · **no** deck |
+| **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · SC-KTRUNK · ford + concrete abutments · cure read PASS d1972 · loaded ford ghost PASS · deck defer** |
 
 ## Caches · waystations
 

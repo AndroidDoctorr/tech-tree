@@ -12,7 +12,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | ~23.9 kg GREEN | MAG-BOOTSTRAP-EM d1988 −~0.75 kg |
+| Char lane | ~22.4 kg GREEN | MAG-BOOTSTRAP-EM-2 d1989 −~1.5 kg ×2 heats |
 | Quartz Belen haul | ~54.4 kg | DOMUS-E-GLASS through d1952 −~430 g FACE-B |
 | Pile 5 oak | ~0.4 kg GREEN | EM-COIL-2 d1987 −~0.35 kg fixture |
 | Store C vault | ~37 kg | Reserve · char pack defer |
@@ -72,8 +72,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
 | Iron bloom (mounted) | ~14.79 kg | EM-COIL-2 d1987 −~185 g core |
-| M-22 magnetite tray | ~1.35 kg | MAG-BOOTSTRAP-EM d1988 −~175 g piece #5 |
-| **MAG-BOOT-EM-1** | **piece #5 ~175 g @ dry tray · lift ~36 mm · EM-assist** | **d1988 · stack-candidate** |
+| M-22 magnetite tray | ~1.01 kg | MAG-BOOTSTRAP-EM-2 d1989 −~340 g #6–7 |
+| **MAG-BOOT-EM rods** | **×3 @ dry tray · #5 ~175 g ~36 mm · #6 ~172 g ~37 mm · #7 ~168 g ~35 mm** | **d1988–1989 · pole/EM-core class · stack-candidate** |
 | **MAG-STACK-1** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · ×4 bootstrap + iron yoke · lift ~52 mm** | **d1985 mount · was chem tray** |
 | **COIL-BOBBIN-1** | **~120 turns WIRE-CU-3 fine @ gen-head gap · shell removable** | **d1985 · modest-loop class** |
 | Sphalerite SPH-1 | ~12.9 kg | Forge staging |
@@ -149,7 +149,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **P-RETT-13** | **~2.6 kg dry queue @ retired W-1 rafter + horreum C overflow · load post-P-RETT-11** |
 | **FLAX-PATCH-1** | **~10 m² ghost staked @ ditch W bench · spring drill queued** |
 | **OLIVE-PRESS-1** | **✓ build close @ horreum S margin · Nov P-02-PRESS-1 runway** |
-| **TRIB-FT-01 @ HOME TRIB-1** | **Logs v0 · stubs PASS d1917 · stringers GO · deck defer** |
+| **TRIB-FT-01 @ HOME TRIB-1** | **v1 LIVE ✓ d1938 · wagon PASS · first road crossing N** |
 
 ## Yard kit (counts only)
 
