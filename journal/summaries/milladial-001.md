@@ -214,4 +214,4 @@ Not a plan — a gravity well. Order will slip. These are the clocks that will n
 
 ---
 
-*Centadials: [001](centadial-001.md)–[010](centadial-010.md) · Next milladial: [milladial-002.md](milladial-002.md) at Day 2000 · Daily index: [index.md](../index.md)*
+*Centadials: [001](centadial-001.md)–[020](centadial-020.md) · Next milladial: [milladial-003.md](milladial-003.md) at Day 3000 · Daily index: [index.md](../index.md)*

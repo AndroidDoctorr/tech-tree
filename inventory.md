@@ -12,11 +12,11 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | ~22.4 kg GREEN | MAG-BOOTSTRAP-EM-2 d1989 −~1.5 kg ×2 heats |
-| Quartz Belen haul | ~54.4 kg | DOMUS-E-GLASS through d1952 −~430 g FACE-B |
-| Pile 5 oak | ~0.4 kg GREEN | EM-COIL-2 d1987 −~0.35 kg fixture |
+| Char lane | ~63.5 kg GREEN | CHAR-RETORT d2020 +~22.1 kg · Nov runway |
+| Quartz Belen haul | ~54.2 kg | GLASS-BOTTLE ×2 d2005 −~180 g · DOMUS-E-GLASS prior |
+| Pile 5 oak | ~44.7 kg GREEN | WOOD-HAUL d2022 +~22.2 kg net @ T-1 |
 | Store C vault | ~37 kg | Reserve · char pack defer |
-| Pile 1 clay | ~16.9 kg GREEN | RACEWAY-1879 toe pack −~2.1 kg |
+| Pile 1 clay | ~25.9 kg GREEN | AMPHORA-7-FINISH d2032 −~1.5 kg |
 | Pile 3 green brick | ×0 | GB-1814 fired d1814 |
 | Kiln B stackable | ~59 | −×40 hut kit · +×36 fire d1814 |
 | TR tiles @ rack | ×0 fired · green ×0 | AIRLOCK d1956 −×5 · TR-TILE-PICK-1815 spent |
@@ -39,26 +39,57 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Parched grain | ~4.8 kg | LARDER-REFILL-1860 · hypocaust sprint |
-| Smoked fish | ~2.4 kg | LARDER-REFILL-1860 · smoke rack |
-| Smoked goose | ~0.95 kg | GOOSE-SMOKE d1964 @ larder |
-| Goose giblet jar | ~120 g | GOOSE-SMOKE d1964 · cool step |
-| Fish jerky | ~0.9 kg | LARDER-REFILL-1860 |
-| Trail food (wagon) | ~0 kg | Campus larder · not lashed |
+| Parched grain | **~3.1 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~2.2 kg trail pack @ body** |
+| Smoked fish | ~3.0 kg | FISH-SMOKE-BATCH d2040 +~620 g |
+| Smoked goose | ~1.70 kg | GOOSE-SMOKE d1964 + d2012 ~0.75 kg add |
+| Goose giblet jar | ~230 g class | d1964 ~120 g + d2012 ~110 g |
+| Fish jerky | **~0.7 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~200 g trail pack** |
+| **Trail food (foot pack)** | **✓ spent @ return d2052–2054 · pack stowed** | |
+| **Limestone chip (trail)** | **✓ ~180 g @ pile 7 lip d2054** | **Ghab sample** |
 | Emmer bulk Y5 | ~0 g | LARDER-REFILL-1860 draw |
 | Emmer elite Y5 | ~20 g | Seed vault |
+| **Emmer bulk Y6** | **~0.40 kg @ horreum A EMMER-BULK-Y6 / incoming bay** | **EMMER-YEAST-BREAD-3 d2058 −~320 g · mash crack −~140 g queued** |
+| **Emmer elite Y6** | **~98 g @ SEED-VAULT** | **EMMER-HARVEST-Y6 d2038** |
 | P-18 chickpea Y5 | ~164 g | Pulse bay post-expand |
 | P-17 lentil Y5 | ~178 g | Pulse bay |
-| Seed vault | P-14 ~6 g · P-15 ~8 g · P-21 ~8 g · P-FAVA ~16 g · P-17-ELITE-Y3 ~52 g · P-18-SEL-1 ~0 g | v1 |
-| Fig leather | ~0 g | LARDER-TOP-UP-1825 |
-| Pistachio | ~2.0 kg | LARDER-REFILL-1860 −~150 g mix pinch |
+| **P-18 chickpea Y6** | **~248 g @ horreum A pulse bay P-18-Y6** | **P-18-HARVEST-Y6 d2039** |
+| **P-17 lentil Y6** | **~241 g @ horreum A pulse bay P-17-Y6** | **P-17-HARVEST-Y6 d2039** |
+| Seed vault | P-14 ~6 g · P-15 ~8 g · P-21 ~8 g · P-FAVA ~16 g · P-17-ELITE-Y3 ~52 g · P-18-SEL-1 ~0 g · **HEMP-SEL-Y7 ~62 g** | **HEMP-SEED-GATHER d2051 · stow d2054** |
+| Fig leather | **~575 g** | **Trail pack draws d2048–2050** |
+| Pistachio | **~2.27 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~80 g trail** |
 | Y5 stew | ~0.95 kg | Cool step |
+| **Y6 stew** | **~1.10 kg @ cool step** | **LENTIL-P18-EMMER-STEW-Y6 d2040** |
 | Grape leather | ~330 g | LARDER-REFILL-1860 −~150 g mix pinch |
-| Olive brine | ~2.0 kg | P-02 crock |
-| Salt | ~275 g | GOOSE-SMOKE d1964 −~15 g |
+| **Grape must / vinegar Y6** | **Vinegar class @ AMPHORA-5 · P-ξ-4 · crock · mother live** | **GRAPE-VINEGAR-SPRINT d1994 · YEAST-CAPTURE d2041** |
+| **STARTER-Y6-1** | **Live @ culina warm peg · emmer · daily feed** | **YEAST-CAPTURE-1 d2041** |
+| **Vinegar (mother crock)** | **~350 ml usable · top-up acetifying** | **GRAPE-VINEGAR-1 lineage · refresh d1994** |
+| **SNAIL-BRINE-Y6 @ crock** | **~300 g @ v1 porch · 6–18 mo band · Yule warm queue** | **SNAIL-COOK-2057** |
+| Olive brine | ~2.0 kg | P-02 crock legacy |
+| **Olive brine Y6** | **~910 g fruit @ crock #2 v1 porch · salt · 6–18 mo band** | **OLIVE-STRAY-LAP d2056 +~290 g** |
+| **P-02 olive fruit Y6** | **Staging clear · Y6 crush closed** | **P-02-PRESS-2 d2035 −~3.8 kg** |
+| **P-02 olive oil Y6 clear** | **~2.05 L @ GLASS-BOTTLE-4/5 + P-ξ-5 · OIL-Y6-1 + OIL-Y6-2 decanted d2043** | **OLIVE-OIL-SETTLE-1 d2043** |
+| **P-02 olive oil Y6 sediment** | **~220 ml haze @ AMPHORA-6/7 feet · sealed · rinse defer** | **Decant d2043** |
+| **Madder root dry** | **~185 g @ chem shelf** | **MADDER-DIG-Y6 d2027 +~98 g** |
+| Salt | **~4.76 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~35 g trail pinch** |
+| **EVAP-RACK-1** | **✓ tier-3 @ chem porch · ×6 trays dry-empty post-scrape** | **SALT-CRYSTAL-HARVEST-5 d2046 · season done** |
+| **COOL-CELLAR-2-EVAP** | **Trough @ cellar north margin · secondary line · swept dry** | **SALT-CRYSTAL-HARVEST-5 d2046** |
+| **Brackish haul staging** | **×2 amphora empty @ cart yard** | **Hold cleared · no cycle-6 pour** |
+| **SALT-EVAP-SPRINT** | **✓ cycle-5 scraped d2046 · window closed · trays hands off** | **SALT-CRYSTAL-HARVEST-5 d2046** |
+| **AMPHORA-6** | **✓ OIL-Y6-1 sediment cup sealed @ press cool-step · ~170 ml tail · decanted d2043** | **REpitch-OIL d2033 · kitchen oil drawn off** |
+| **AMPHORA-7** | **✓ OIL-Y6-2 sediment cup sealed @ press cool-step · ~50 ml tail · decanted d2043** | **POT-FIRE + REpitch-OIL d2035** |
+| **P-μ-9 · P-μ-10** | **SALT · SPICE @ horreum A margin** | **STORAGE-JAR-SPRINT-2 ✓ d2007** |
+| **P-ξ-5** | **OIL @ v1/culina · ~450 ml working draw · GLASS-BOTTLE backup** | **OLIVE-OIL-SETTLE-1 d2043** |
+| **EMMER-YEAST-BREAD-1** | **✓ first loaf ~480 g d2043 · STARTER-Y6-1** | **Weekly bake class** |
+| **EMMER-YEAST-BREAD-2** | **✓ ~480 g d2055 · oil in dough · weekly rhythm** | **Yule prep band** |
+| **EMMER-YEAST-BREAD-3** | **✓ ~480 g d2058 · pre-Yule table loaf** | **YULE-BENCH-Y6** |
+| **YULE-BENCH-Y6-PLATE** | **P-η tray staged d2058 · posca ~0.4 L · portions locked** | **FEAST eve ~d2060** |
+| **OLIVE-OIL-SETTLE-1** | **✓ ~2.05 L clear decant d2043 · cook unlock** | |
+| **GLASS-BOTTLE-4 · 5** | **@ chem-lab rack · VINEGAR + OIL tags** | **Tap ✓ d2007** |
+| **BARREL-4** | **✓ @ v1 south margin · LARDER-OVERFLOW-Y6 · BUNG-TAP-4 · empty tagged** | **STORAGE-REORG-2-Y6 d2045** |
 | Ice vault | ~84.8 kg | Cool cellar d1747 |
-| Acorn shelled / roast | ~570 g / ~370 g | v1 |
-| Acorn bulk shell-on | ~2.4 kg | v1 |
+| Acorn shelled / roast | **~570 g shelled · ~990 g roast** | **ACORN-ROAST-Y6-2 d2057 +~620 g** |
+| Acorn bulk shell-on | **~3.1 kg** | **ACORN-LEACH-Y6-1 d2044 −~1.1 kg shelled** |
+| **ACORN-LEACH-Y6-1** | **✓ leach→roast closed d2057 · batch complete** | **ACORN-ROAST-Y6-2 ~620 g** |
 
 ## Metals · ore · chem
 
@@ -71,15 +102,16 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | WIRE-DRY-1 legacy | ~2.6 m @ ~0.75 mm class | Chem cab · untouched d1979 |
 | O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
-| Iron bloom (mounted) | ~14.79 kg | EM-COIL-2 d1987 −~185 g core |
-| M-22 magnetite tray | ~1.01 kg | MAG-BOOTSTRAP-EM-2 d1989 −~340 g #6–7 |
-| **MAG-BOOT-EM rods** | **×3 @ dry tray · #5 ~175 g ~36 mm · #6 ~172 g ~37 mm · #7 ~168 g ~35 mm** | **d1988–1989 · pole/EM-core class · stack-candidate** |
-| **MAG-STACK-1** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · ×4 bootstrap + iron yoke · lift ~52 mm** | **d1985 mount · was chem tray** |
+| Iron bloom (mounted) | ~14.4 kg | BARREL-4 hoops d2009 −~390 g |
+| M-22 magnetite tray | ~0.67 kg | MAG-BOOTSTRAP-EM-4 d1992 −~168 g #9 |
+| **MAG-BOOT-EM rod #9** | **Spare @ dry tray · ~168 g · ~36 mm pole class** | **d1992 · stack backup · not in MAG-STACK-2** |
+| **MAG-BOOT-SPARE-1** | **Old stack #1–4 @ horreum B peg · ~27–31 mm solo class** | **MAG-STACK-2 d1991 demote** |
+| **MAG-STACK-2** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · rods #5–8 + iron yoke · lift ~58 mm** | **d1991 · EM-assist stack · deflection ~3–6°** |
 | **COIL-BOBBIN-1** | **~120 turns WIRE-CU-3 fine @ gen-head gap · shell removable** | **d1985 · modest-loop class** |
 | Sphalerite SPH-1 | ~12.9 kg | Forge staging |
 | Galena-class PB | ~12.2 kg | Forge staging |
 | Cinnabar HgS | ~35.9 kg | v1 CHEM isolated · no roast |
-| Quartz Belen haul | ~54.4 kg | See fuel section · FACE-B @ STORE-4 |
+| Quartz Belen haul | ~54.2 kg | See fuel section · FACE-B @ STORE-4 |
 | Coast / local sand | ~2.15 kg / ~323 g | Pile 4 / v1 |
 | Sn bank | ~668 g | Chem-lab tin tray · UNLOAD-1854 |
 | Cassiterite concentrate | ~4.9 kg | Forge staging · KOZAN-14D return d1854 |
@@ -94,11 +126,11 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | M-12 niter | ~1.0 kg crystal · ~60 g crude tail | M-12-PURIFY-2-1905 +~318 g crystal |
 | M-14 sulfur | ~498 g flour · ~15.6 kg block | Measured d1905 · block untouched |
 | Charcoal flour | ~237 g | POWDER-PREP-1905 +~65 g grind |
-| Soda / kelp ash | ~97 g class | DOMUS-E-GLASS through d1952 −~72 g |
+| Soda / kelp ash | ~53 g class | GLASS-BOTTLE ×2 d2005 −~44 g |
 | Woad reserve | ~0 g | ATELIER-CURTAIN-DYE-1943 −~18 g vat top-up |
 | Woad leaf | **~88 g dry Y6-1 remain + ~140 g fresh Y6-2** | porch shred −~40 g · Y6-2 untouched |
 | Madder dry | ~79 g | v1 CHEM |
-| Tallow | **~0 g AMBER** | BC-FLOOR-1906/1907/1923 −~13 g total · top-up queued |
+| Tallow | **~210 g @ v1 trough jar** | TALLOW-RENDER d2011 · goose suet + hide trim |
 | Beeswax | ~58 g | TRIP-BELT-1893 dress −~6 g |
 | Cork bark | ~1.04 kg | CART-POWDER-SAFE-1876 −~12 g lid gasket |
 | Quartz frit | ~120 g | Vial G-FRIT |
@@ -108,14 +140,16 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Item | Qty | Where |
 |------|-----|-------|
 | Thread | ~172 m | ARROW d1963 −~2 m batch |
-| Flax line | ~0 g | Spin-3 peg spent d1839 · field flax owns next long fiber |
-| Flax tow | **×0 spent** | **PAPER-SPRINT-3-D1 −~81 g · crate-2 empty** |
+| Flax line | **~1.64 kg @ FIBER-BIN-1 horreum A** | **FLAX-BREAK-14 d2044 +~150 g** |
+| Flax tow | **~110 g @ FIBER-BIN-2 horreum A** | **FLAX-SEAT-PAD-2 d2045 −~95 g** |
+| **COLLECT-BAG-1..3** | **Tow body · OLIVE-PICK / MADDER-ROOT / SPARE tags @ barn peg** | **COLLECT-BAG-SPRINT d2025** |
+| **THREAD-STOCK-2** | **~13 m @ W-1 peg** | **COLLECT-BAG d2025 −~9 m** |
 | VENT-BELT rope | ~123 m | DRILL-PRESS d1970 −~2.6 m |
-| Hide scrap | ~0.54 m² trim · goat-519 ~0.29 m² reserve | PEDAL-GEN-BELT d1986 −~22 g |
+| Hide scrap | **~0.40 m² trim** | TALLOW-RENDER d2011 − fat trim class · goat-519 reserve |
 | Billie hide A-03 | ~0.66 m² @ retired W-1 lean-to frame | CHEM-DOOR-PATCH-1940 −~0.04 m² · strips through d1939 |
 | Goat horn billie | **×0 on stave** · ~25 g waste @ pile 6 | BOW-2-HORN-LAMINATE-1912 |
 | Sinew dry | **×0 spent** | **BOW-2-SINEW-BACK-1914 −~55 g on stave** |
-| Feather bag | ~79 g | ARROW d1963 −~20 g batch fletch |
+| Feather bag | ~111 g | GOOSE-HUNT d2010 +~32 g |
 
 ## Worn now
 
@@ -137,16 +171,74 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 
 | Bed | Now |
 |-----|-----|
-| A | Chickpea S ~6 m² + N ~14 m² · fava headland ~4 m² |
-| B | Emmer S · lentil N · flax center · madder W ×4 crowns |
+| A | **Chickpea S stubble · N ~14 m² mulch/fallow · fava headland ~4 m²** |
+| B | **Emmer S stubble · lentil N stubble · madder W ×4 crowns · center flax stubble ~8 cm** |
+| **P-03 trellis** | **Stripped d1994 · leaves on vine · fruit window closed** |
 | C | Goat pen north |
 | D | Fig C1–C4 · WOAD year-two rosette trimmed · no Y6 broadcast |
 | Culina herb | ~14 m² · rosemary · coriander · allium · mint |
 | Care | FARM-CARE-GREEN · perimeter scare · light hoe between rows only |
-| **P-RETT-10** | **~5.8 kg @ retired W-1 dry rack · pulled d1908 · break/heckle defer** |
-| **P-RETT-11** | **~4.2 kg submerged @ ditch W · load d1908 · check ~d1918–1922** |
-| **P-RETT-12** | **~3.4 kg dry queue @ retired W-1 rafter · load post-P-RETT-11** |
-| **P-RETT-13** | **~2.6 kg dry queue @ retired W-1 rafter + horreum C overflow · load post-P-RETT-11** |
+| **P-RETT-13** | **✓ break d2022 · arc closed** | |
+| **P-RETT-14** | **✓ break d2044 · arc closed** | |
+| **FLAX-BREAK-14** | **✓ ~150 g line · ~45 g tow d2044** | |
+| **ACORN-LEACH-Y6-1** | **✓ soak 1 d2044** | |
+| **ACORN-LEACH-Y6-2** | **✓ soak 2 d2045** | |
+| **ACORN-LEACH-Y6-3** | **✓ soak 3 started d2046** | **ACORN-LEACH-Y6 cycles live** |
+| **STORAGE-REORG-2-Y6** | **✓ d2045 · horreum A/B · v1 · W-1 · BARREL-4 tagged** | |
+| **STORAGE-REORG-Y6-CLOSE** | **✓ d2046 · STORE-4 · cellar · cart yard · seed vault** | **Arc CLOSE** |
+| **HEMP-GHAB-SCOUT-PREP-2047** | **✓ d2047 · foot pack staged · launch d2048** | **ORONTES-BANK-ROUTE-SLATE-2047** |
+| **HEMP-GHAB-SCOUT-1** | **✓ CLOSE d2054 · 7-day · HEMP-SEL-Y7 @ vault** | **One-and-done** |
+| **HEMP-SEED-GATHER-Y6** | **✓ ~62 g clean d2051 · tail recovery · ID PASS** | **HEMP-SOW-Y7 spring** |
+| **HEMP-GHAB-RETURN-FAST** | **✓ d2052–2054 · 3-day northbound fast** | |
+| **ACORN-LEACH-RETURN-READ** | **✓ stale reset d2055 · re-soak 1 live** | |
+| **ACORN-LEACH-Y6-4** | **✓ soak 4 started d2047 · cleared d2055** | |
+| **ACORN-LEACH-Y6-RE-SOAK-1** | **✓ re-soak 1 started d2055 · PASS read ~d2056–2057** | **Roast defer** |
+| **ACORN-LEACH-Y6-RE-SOAK-2** | **✓ water change d2056** | |
+| **ACORN-LEACH-PASS-2057** | **✓ bite PASS · roast GO** | |
+| **ACORN-ROAST-Y6-2** | **✓ ~620 g d2057** | **Yule handful class** |
+| **ACORN-LEACH-Y6-CLOSE-2057** | **✓ batch 1 complete** | |
+| **SNAIL-LAP-2056** | **✓ ~380 g bulk · cooked d2057** | |
+| **SNAIL-COOK-2057** | **✓ ~300 g brined @ crock** | **Yule warm · ~80 g staged** |
+| **YULE-TREE-DRESS-Y6-2058** | **✓ madder bows ×4 · garland refresh · WINTER-TREE-1** | |
+| **YULE-BENCH-Y6-STOCK-2058** | **✓ tray · posca · plate lock · goose bow optional** | **FEAST-YULE ~d2062** |
+| **OLIVE-STRAY-LAP-2056** | **✓ ~290 g → crock #2 · P-02 season closed** | **Dec 16 window filed** |
+| **SALT-CRYSTAL-HARVEST-5** | **✓ ~915 g d2046 · cycle-5 post-window · no pour** | **Salt season closed** |
+| **FLAX-SEAT-PAD-2** | **✓ d2045 · PEDAL-GEN-1 restuff ~95 g tow** | **Replaces d2025 pad** |
+| **SALT-HAUL-1** | **✓ first haul ~8.4 L d2017 · crystal harvest ~d2020** | |
+| **SALT-HAUL-2** | **✓ second haul ~8.4 L d2018 · tray top-up** | |
+| **SALT-HAUL-3** | **✓ third haul ~8.4 L d2019 · yard hold · pour d2020** | |
+| **SALT-CRYSTAL-HARVEST-1** | **✓ ~915 g d2020 · cycle-2 pour live** | |
+| **SALT-CRYSTAL-HARVEST-2** | **✓ ~915 g d2023 · cycle-3 pour live** | |
+| **SALT-CRYSTAL-HARVEST-3** | **✓ ~915 g d2026 · cycle-4 pour live** | |
+| **SALT-CRYSTAL-HARVEST-4** | **✓ ~915 g d2037 · cycle-5 pour live** | **SALT-CRYSTAL-HARVEST-5 d2046 closed** |
+| **SALT-HAUL-4** | **✓ fourth haul ~8.4 L d2021 · pour d2023** | |
+| **SALT-HAUL-5** | **✓ fifth haul ~8.4 L d2024 · pour d2026** | |
+| **SALT-HAUL-6** | **✓ sixth haul ~5.6 L d2036 · pour d2037** | |
+| **SALT-EVAP-POUR-6** | **✓ cycle-5 flood d2037 · window close** | |
+| **FLAX-BREAK-13** | **✓ ~175 g line · ~50 g tow d2022** | |
+| **P-RETT-14-LOAD** | **✓ d2023 · overflow tail ~2.0 kg** | **P-RETT-14-PULL d2038** |
+| **P-RETT-14-PULL** | **✓ d2038 · W-1 rafter · break defer** | |
+| **EMMER-HARVEST-Y6** | **✓ ~2.0 kg bulk · ~98 g elite d2038** | |
+| **P-18-HARVEST-Y6** | **✓ ~248 g bulk · ~50 g elite d2039** | |
+| **P-17-HARVEST-Y6** | **✓ ~241 g bulk · ~48 g elite d2039** | |
+| **HARVEST-BLOCK-Y6** | **✓ d2038–2039 · emmer + pulse closed** | |
+| **SHELF-LIFE-SPRINT-Y6** | **✓ d2040 · parched · barrel · stew · smoke · flat** | |
+| **OLIVE-BRINE-Y6** | **✓ ~620 g table fruit d2040 · crock #2** | |
+| **YEAST-CAPTURE-1** | **✓ STARTER-Y6-1 d2041 · EMMER-YEAST-BREAD-1 d2043** | |
+| **PARSLEY-SOW-Y7-SLATE** | **Not local flora · seed scout pre–Mar 16 · no retcon** | |
+| **PISTACHIO-GROUND-PICK-Y6** | **✓ tail ~340 g d2042 · primary window missed** | **Y7 block before harvest** |
+| **FIG-HARVEST-Y6-BED-D** | **✓ Aug–Sep retcon · ~720 g leather · Bed D C1–C4** | **FARM-CARE doctrine** |
+| **OLIVE-GROVE-EXPAND-Y7** | **Slate · P-02 cuttings / pit plant · terrace or T-2 lip** | **P-02-SEL-1 @ vault** |
+| **OLIVE-MADDER-PREP** | **✓ d2025 · COLLECT-BAG ×3 · pick Nov 16+** | |
+| **OLIVE-PICK-1** | **✓ ~5.2 kg d2027 · press staging live** | |
+| **OLIVE-PICK-2** | **✓ ~6.8 kg add d2028 · ~12.0 kg total staged** | |
+| **OLIVE-OIL-VESSEL-GAP** | **✓ both vessels live · OIL-Y6-1 + OIL-Y6-2** | |
+| **P-02-PRESS-1** | **✓ first run ~12 kg · ~1.75 L crude d2033** | |
+| **P-02-PRESS-2** | **✓ tail ~3.8 kg · ~0.55 L crude d2035 · Y6 crush closed** | |
+| **AMPHORA-7-REpitch-OIL** | **✓ d2035 · OIL-Y6-2** | |
+| **OLIVE-PICK-3** | **✓ tail ~3.8 kg d2034 · tree ~95% stripped** | |
+| **AMPHORA-6-REpitch-OIL** | **✓ d2033 · OIL-Y6-1** | |
+| **MADDER-DIG-Y6** | **✓ ~98 g dry add d2027 · ~185 g stock** | |
 | **FLAX-PATCH-1** | **~10 m² ghost staked @ ditch W bench · spring drill queued** |
 | **OLIVE-PRESS-1** | **✓ build close @ horreum S margin · Nov P-02-PRESS-1 runway** |
 | **TRIB-FT-01 @ HOME TRIB-1** | **v1 LIVE ✓ d1938 · wagon PASS · first road crossing N** |

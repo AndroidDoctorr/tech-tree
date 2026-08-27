@@ -1,0 +1,34 @@
+---
+description: On any farm scare or farm check, auto-read rett pool and pull when ready — no defer without player block
+globs: journal/**/*.md
+alwaysApply: true
+---
+
+# Farm scare — rett pull on pass
+
+When playing the tech-tree journal campaign:
+
+## When this applies
+
+Any day that includes **FARM-CARE**, **FARM-READ**, **scare Bed B→D**, **farm fork loop**, or the player says **check on the farm** / **farm scare** / similar.
+
+## Required rett read
+
+1. Read **P-RETT-*** submerged bundles @ ditch W from `inventory.md` (Farm section).
+2. For each live submerged bundle: **snap test · smell · day count since load**.
+3. If **pull window met** (~10–14 d class, or overdue, or snap PASS on routine scare): **pull inline** on that day — not a separate deferred hero unless the day is explicitly **no-touch** (expedition miles-out, etc.).
+
+## After pull
+
+- Wet bundle → **W-1 north rafter** (or existing dry-queue peg grammar) · tag break/heckle defer.
+- **Pool rinse · bars reset**.
+- If dry queue waiting (**P-RETT-13** class): **load next bundle** when pool clears — log in same farm pass when grammar allows.
+
+## Do not
+
+- Leave overdue rett submerged across multiple scare days without pull log or explicit player defer.
+- Require a dedicated "rett day" when the player only asked for a farm check and the bundle reads GO.
+
+## Write once
+
+- Day file event + `inventory.md` Farm rows + `now.md` if rett state changed.

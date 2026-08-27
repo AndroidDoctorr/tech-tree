@@ -30,7 +30,7 @@ CHAR-RETORT-1 @ pit lane north berm cell C (WW working court · lee of B-182) ·
 
 ## EM · pedal generator
 
-**PEDAL-GEN-1-FRAME ✓ d1984 @ chem-lab porch** — oak triangle frame · wood crank/pedals · bronze spindle + crank bushes · drive pulley stub ~Ø120 mm · seat slab bare v0 · **FLAX-SEAT-PAD defer post-harvest**
+**PEDAL-GEN-1-FRAME ✓ d1984 @ chem-lab porch** — oak triangle frame · wood crank/pedals · bronze spindle + crank bushes · drive pulley stub ~Ø120 mm · **FLAX-SEAT-PAD-2 ✓ d2045** *(restuff · replaces d2025)*
 
 **PEDAL-GEN-1-HEAD ✓ d1985 @ chem porch tension board** — gen pulley ~Ø48 mm · **MAG-STACK-1 @ magnet drawer** (whole-assembly slide) · **COIL-BOBBIN-1 ~120 turns + removable shell** · **belt LIVE d1986 · MODEST-CURRENT-LOOP-1 ✓ ~2–5° deflection**
 
@@ -50,4 +50,4 @@ Breech 3–6 · woad jeans 1–2 · tunics 1, 3, 4 + tiedye 1–4 · linen coat 
 
 ## Barrels · pots in service
 
-BARREL-1/3 water · BARREL-2 grain @ v1 · AMPHORA-1 wagon · AMPHORA-2 TRAIL-CACHE-2 · AMPHORA-3/4 horreum A · AMPHORA-5 horreum B · P-STORE-1..4 (Pb · brass · niter · S) · houseplant urn + winter tree
+BARREL-1/3 water · BARREL-2 grain @ v1 · **BARREL-4 grain overflow @ v1** · AMPHORA-1 wagon · AMPHORA-2 TRAIL-CACHE-2 · AMPHORA-3/4 horreum A · AMPHORA-5 horreum B · P-STORE-1..4 (Pb · brass · niter · S) · houseplant urn + winter tree

@@ -26,10 +26,12 @@ Rollups and benchmarks — not day-by-day logs.
 | **17** | 1601–1700 | [centadial-017.md](centadial-017.md) |
 | **18** | 1701–1800 | [centadial-018.md](centadial-018.md) |
 | **19** | 1801–1900 | [centadial-019.md](centadial-019.md) |
+| **20** | 1901–2000 | [centadial-020.md](centadial-020.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|
 | **1** | 1–1000 | [milladial-001.md](milladial-001.md) |
+| **2** | 1–2000 | [milladial-002.md](milladial-002.md) |
 
 **Recipes:** [food-menu.md](../../food-menu.md)
 

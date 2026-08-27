@@ -20,6 +20,18 @@ When playing the tech-tree journal campaign:
 - If expedition days interleave with sow window, still log **SPRING-SOW** on the frost-gate HOME day (may be combined with scare/WOAD watch).
 - Never describe beds as "fallow post Y4" after spring sow without an explicit failed crop or cut complete log.
 
+## Farm perennials — agent eyes on FARM-CARE
+
+When any day includes **FARM-CARE**, **farm scare**, or **farm fork loop** (Bed B→D):
+
+1. Read [player-calendar.md](player-calendar.md) for live fruit/nut bands.
+2. **Flag inline** if ripe — do not wait for the player to remember:
+   - **Bed D FIG-C1–C4** — Aug 1–Sep 15 · pick/leather on pass or queue same-day hero
+   - **P-03 trellis grape** — Aug 1–Oct 15 · eat-now / leather / must per intent
+   - **Goat browse / fig trim** — always note if clusters burden branches
+3. **Wild-only** (not auto on scare — calendar hero): **P-01 pistachio @ T-2 ~160 m** · **P-12 fig @ 650 m** · **P-02 olive terrace** (Nov pick/press band).
+4. If farm perennial harvest was due in-window but never logged → **retcon** in `journal/retcons/` (see FIG-HARVEST-Y6-BED-D) — do not treat planted farm trees as missed.
+
 ## If continuity breaks
 
 - File retcon in `journal/retcons/` and patch the sow day + harvest days — do not let the game proceed on empty beds when prep was done for grain.

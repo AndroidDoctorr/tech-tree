@@ -39,7 +39,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **Bird (hunt surplus)** | Same day | Broth |
 | **Ice vault** | Melt clock | Not food — extra days on wet plates |
 | **Honey / comb** | — | **· blocked** — wax is not a recipe |
-| **Olive oil** | — | **· blocked** — brine is not oil |
+| **Olive oil** | — | **✓ Y6 press · **~2.05 L clear @ kitchen d2043**** · lamp/cook/fry unlocked |
 | **Milk / curd** | — | **· blocked** — goats not milked |
 
 **Live sources (not jars):** weir · river snails · culina herb bed · fig / grape / olive trees · two hives (wax yes · honey not harvested).
@@ -133,7 +133,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 |------|-----|--------|
 | **Honey glaze / sweet tea** | Comb not harvested | Named honey year |
 | **Olive-oil dishes** | No press | P-02 press · settle |
-| **Yeast bread** | No culture · no wheat | Must jar → oven routine |
+| **Yeast bread** | No culture · no wheat | **✓ STARTER-Y6-1 · emmer loaf d2043** |
 | **Wine cup** | Vinegar yes · wine no | Finish ferment or stay posca |
 | **Cheese / yogurt** | Goats not milked | GOAT-MILK-HORIZON |
 | **Goat jerky** | Stock animals, not butcher loop | Named slaughter |

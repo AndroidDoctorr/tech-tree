@@ -4,7 +4,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **MAGNET-BOOTSTRAP-EM repeat · pole rods · stack read horizon**
 
-**Status:** OPEN @ Day 1989 · Cal-Y6 D292 · **×3 EM rods @ tray · repeat or stack next**
+**Status:** CLOSED @ Day 1995 · Cal-Y6 D298
 
 ---
 
@@ -21,6 +21,12 @@
 | Day | Summary |
 |-----|---------|
 | **1989** | **WEEK-285-OPEN · MAGNET-BOOTSTRAP-EM-2 ✓ · rods #6–7 · tray ×3** |
+| **1990** | **MAG-SWAP-READ · MAGNET-BOOTSTRAP-EM-3 ✓ · rod #8 · tray ×4 · stack stays @ gen** |
+| **1991** | **MAG-STACK-2 ✓ · rods #5–8 · lift ~58 mm · drawer swap · deflection up** |
+| **1992** | **MAGNET-BOOTSTRAP-EM-4 ✓ · rod #9 spare · AUTUMN-RUNWAY slate** |
+| **1993** | **FLAX-SPRINT-1 · farm read · P-RETT 10/14 break · 11 pull · 12 load · ~800 g line** |
+| **1994** | **GRAPE-VINEGAR-SPRINT-1 ✓ · trellis strip · ~2.9 L must · mother refresh** |
+| **1995** | **FLAX-BREAK-11 ✓ · FLAX-HECKLE-11 ✓ · ~1.06 kg line · storage reorg queued** |
 
 ---
 

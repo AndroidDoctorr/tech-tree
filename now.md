@@ -2,22 +2,21 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 1989** · Cal-Y6 D292 · ~9 Oct · Week 285 day 1 · **HOME** · EM rods ×3
+**Day 2058** · Cal-Y6 D361 · ~17 Dec · Week 294 day 7 · **bread #3 ✓ · Yule staged**
 
 | Track | Status |
 |-------|--------|
-| **MAG-BOOT-EM rods** | **×3 (#5–7) @ dry tray · ~35–37 mm lift class** |
-| **MAG-STACK-1** | **@ gen drawer · ~52 mm unchanged** |
-| **EM-COIL-2 + PEDAL-GEN-1** | **✓ LIVE @ chem porch** |
-| **M-22 tray** | **~1.01 kg remain** |
+| **Yule** | **P-η tray staged · posca ~0.4 L · tree dressed · feast ~4 d** |
+| **Kitchen** | **EMMER-YEAST-BREAD-3 ✓ · mash crack queued eve** |
+| **Protein** | **Smoked goose + fish hero · snail warm queue · bow optional d2061** |
 
 ## Next
 
-**MAG-BOOTSTRAP-EM-3** or **MAG-STACK-2 read**
+**YULE-FEAST-EVE ~d2060** · **FEAST-YULE ~d2062 (21 Dec)**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- Exped shoulder · donkey hunt open
+- **Dec 21 Yule**
 
 ## Do not treat as live
 

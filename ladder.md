@@ -712,10 +712,10 @@
 | Rung | Status |
 |------|--------|
 | Olive brine | ✓ |
-| Wild yeast capture | · |
-| Grape must · wine | · |
+| Wild yeast capture | ~ **STARTER-Y6-1 d2041** |
+| Grape must · wine | · *(must → vinegar class)* |
 | **Vinegar** | **✓ GRAPE-VINEGAR-1 Day 508 · mother line live** |
-| **Beer / bread yeast** routine | · |
+| **Beer / bread yeast** routine | ~ **STARTER-Y6-1 ✓ · EMMER-YEAST-BREAD-1 d2043** |
 
 ---
 

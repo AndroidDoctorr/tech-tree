@@ -1966,6 +1966,75 @@
 | 1987 | [day-1987.md](days/year-006/week-284/day-1987.md) | **EM-COIL-2 ✓ · iron-core EM · ~240 turns · lift trial PASS** | **Cal-Y6 D290 · 7 Oct** |
 | 1988 | [day-1988.md](days/year-006/week-284/day-1988.md) | **MAGNET-BOOTSTRAP-EM-1 ✓ · piece #5 ~36 mm · EM assist proven** | **Cal-Y6 D291 · 8 Oct** |
 | 1989 | [day-1989.md](days/year-006/week-285/day-1989.md) | **WEEK-285-OPEN · MAGNET-BOOTSTRAP-EM-2 ✓ · rods #6–7 · tray ×3** | **Cal-Y6 D292 · 9 Oct** |
+| 1990 | [day-1990.md](days/year-006/week-285/day-1990.md) | **MAG-SWAP-READ · MAGNET-BOOTSTRAP-EM-3 ✓ · rod #8 · tray ×4** | **Cal-Y6 D293 · 10 Oct** |
+| 1991 | [day-1991.md](days/year-006/week-285/day-1991.md) | **MAG-STACK-2 ✓ · #5–8 stack · ~58 mm · gen drawer swap** | **Cal-Y6 D294 · 11 Oct** |
+| 1992 | [day-1992.md](days/year-006/week-285/day-1992.md) | **MAGNET-BOOTSTRAP-EM-4 ✓ · rod #9 · AUTUMN-RUNWAY slate** | **Cal-Y6 D295 · 12 Oct** |
+| 1993 | [day-1993.md](days/year-006/week-285/day-1993.md) | **FLAX-SPRINT-1 · retcon Bed B flax · farm read · ~800 g line** | **Cal-Y6 D296 · 13 Oct** |
+| 1994 | [day-1994.md](days/year-006/week-285/day-1994.md) | **GRAPE-VINEGAR-SPRINT-1 ✓ · strip · ~2.9 L must · vinegar runway** | **Cal-Y6 D297 · 14 Oct** |
+| 1995 | [day-1995.md](days/year-006/week-285/day-1995.md) | **FLAX-BREAK-11 ✓ · ~1.06 kg line · STORAGE-REORG queued** | **Cal-Y6 D298 · 15 Oct** |
+| 1996 | [day-1996.md](days/year-006/week-286/day-1996.md) | **WEEK-286-OPEN · SALT-EXPANSION-PREP ✓ · ×4 evap trays · S-03 GO** | **Cal-Y6 D299 · 16 Oct** |
+| 1997 | [day-1997.md](days/year-006/week-286/day-1997.md) | **EVAP-TRAY-5–6 ✓ · tier-3 rack · ×6 trays live** | **Cal-Y6 D300 · 17 Oct** |
+| 1998 | [day-1998.md](days/year-006/week-286/day-1998.md) | **STORAGE-REORG-1 ✓ · reorg only** | **Cal-Y6 D301 · 18 Oct** |
+| 1999 | [day-1999.md](days/year-006/week-286/day-1999.md) | **STORAGE-AUDIT-1 ✓ · AMPHORA-6 ~12% start** | **Cal-Y6 D302 · 19 Oct** |
+| 2000 | [day-2000.md](days/year-006/week-286/day-2000.md) | **AMPHORA-6 belly coils · ~35% · [Centadial 20](summaries/centadial-020.md) · [Milladial 2](summaries/milladial-002.md)** | **Cal-Y6 D303 · 20 Oct** |
+| 2001 | [day-2001.md](days/year-006/week-286/day-2001.md) | **AMPHORA-6 shoulder + neck · ~62%** | **Cal-Y6 D304 · 21 Oct** |
+| 2002 | [day-2002.md](days/year-006/week-286/day-2002.md) | **AMPHORA-6 green ~95% · Week 286 close** | **Cal-Y6 D305 · 22 Oct** |
+| 2003 | [day-2003.md](days/year-006/week-287/day-2003.md) | **WEEK-287-OPEN · HAUL-CLAY ✓ · pile 1 ~35 kg** | **Cal-Y6 D306 · 23 Oct** |
+| 2004 | [day-2004.md](days/year-006/week-287/day-2004.md) | **STORAGE-JAR-SPRINT-2 D1 ✓ · throw close** | **Cal-Y6 D307 · 24 Oct** |
+| 2005 | [day-2005.md](days/year-006/week-287/day-2005.md) | **CHAR-GATE ✓ · GLASS-BOTTLE ×2 · barrel defer** | **Cal-Y6 D308 · 25 Oct** |
+| 2006 | [day-2006.md](days/year-006/week-287/day-2006.md) | **BARREL-4 ~65% start · harvest prep read** | **Cal-Y6 D309 · 26 Oct** |
+| 2007 | [day-2007.md](days/year-006/week-287/day-2007.md) | **P-RETT-12 pull · POT-FIRE ✓ · sprint close** | **Cal-Y6 D310 · 27 Oct** |
+| 2008 | [day-2008.md](days/year-006/week-287/day-2008.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×2** | **Cal-Y6 D311 · 28 Oct** |
+| 2009 | [day-2009.md](days/year-006/week-287/day-2009.md) | **BARREL-4 ✓ · Week 287 close** | **Cal-Y6 D312 · 29 Oct** |
+| 2010 | [day-2010.md](days/year-006/week-288/day-2010.md) | **WEEK-288-OPEN · WOOD-HAUL ✓ · GOOSE-HUNT ✓** | **Cal-Y6 D313 · 30 Oct** |
+| 2011 | [day-2011.md](days/year-006/week-288/day-2011.md) | **TALLOW-RENDER ✓ · ~210 g** | **Cal-Y6 D314 · 31 Oct** |
+| 2012 | [day-2012.md](days/year-006/week-288/day-2012.md) | **FLAX-BREAK-12 ✓ · GOOSE-SMOKE-2010 ✓** | **Cal-Y6 D315 · 1 Nov** |
+| 2013 | [day-2013.md](days/year-006/week-288/day-2013.md) | **CHAR-RETORT ×4 ✓ · lane ~41 kg** | **Cal-Y6 D316 · 2 Nov** |
+| 2014 | [day-2014.md](days/year-006/week-288/day-2014.md) | **WOOD-HAUL ✓ · pile restocked** | **Cal-Y6 D317 · 3 Nov** |
+| 2015 | [day-2015.md](days/year-006/week-288/day-2015.md) | **WOOD-HAUL ✓ · pile ~48.5 kg** | **Cal-Y6 D318 · 4 Nov** |
+| 2016 | [day-2016.md](days/year-006/week-288/day-2016.md) | **SALT-HAUL-PREP ✓ · flax audit · Week 288 close** | **Cal-Y6 D319 · 5 Nov** |
+| 2017 | [day-2017.md](days/year-006/week-289/day-2017.md) | **WEEK-289-OPEN · SALT-HAUL-1 ✓ · evap live** | **Cal-Y6 D320 · 6 Nov** |
+| 2018 | [day-2018.md](days/year-006/week-289/day-2018.md) | **SALT-HAUL-2 ✓ · tray top-up** | **Cal-Y6 D321 · 7 Nov** |
+| 2019 | [day-2019.md](days/year-006/week-289/day-2019.md) | **SALT-HAUL-3 ✓ · amphora hold · scrape ~d2020** | **Cal-Y6 D322 · 8 Nov** |
+| 2020 | [day-2020.md](days/year-006/week-289/day-2020.md) | **SALT-CRYSTAL-HARVEST-1 ✓ · char retort ×3** | **Cal-Y6 D323 · 9 Nov** |
+| 2021 | [day-2021.md](days/year-006/week-289/day-2021.md) | **SALT-HAUL-4 ✓ · amphora hold** | **Cal-Y6 D324 · 10 Nov** |
+| 2022 | [day-2022.md](days/year-006/week-289/day-2022.md) | **FLAX-BREAK-13 ✓ · WOOD-HAUL ~22 kg** | **Cal-Y6 D325 · 11 Nov** |
+| 2023 | [day-2023.md](days/year-006/week-289/day-2023.md) | **SALT-CRYSTAL-HARVEST-2 ✓ · P-RETT-14 load** | **Cal-Y6 D326 · 12 Nov** |
+| 2024 | [day-2024.md](days/year-006/week-290/day-2024.md) | **WEEK-290-OPEN · SALT-HAUL-5 ✓ · amphora hold** | **Cal-Y6 D327 · 13 Nov** |
+| 2025 | [day-2025.md](days/year-006/week-290/day-2025.md) | **OLIVE-MADDER-PREP ✓ · COLLECT-BAG ×3 · seat pad** | **Cal-Y6 D328 · 14 Nov** |
+| 2026 | [day-2026.md](days/year-006/week-290/day-2026.md) | **SALT-CRYSTAL-HARVEST-3 ✓ · farm scare · olive eve** | **Cal-Y6 D329 · 15 Nov** |
+| 2027 | [day-2027.md](days/year-006/week-290/day-2027.md) | **OLIVE-PICK-1 ✓ · MADDER-DIG-Y6 ✓** | **Cal-Y6 D330 · 16 Nov** |
+| 2028 | [day-2028.md](days/year-006/week-290/day-2028.md) | **OLIVE-PICK-2 ✓ · ~12 kg staged** | **Cal-Y6 D331 · 17 Nov** |
+| 2029 | [day-2029.md](days/year-006/week-290/day-2029.md) | **AMPHORA-7-START ✓ · oil vessel sprint** | **Cal-Y6 D332 · 18 Nov** |
+| 2030 | [day-2030.md](days/year-006/week-290/day-2030.md) | **AMPHORA-7 belly ✓ ~35%** | **Cal-Y6 D333 · 19 Nov** |
+| 2031 | [day-2031.md](days/year-006/week-291/day-2031.md) | **WEEK-291-OPEN · AMPHORA-7 ~62%** | **Cal-Y6 D334 · 20 Nov** |
+| 2032 | [day-2032.md](days/year-006/week-291/day-2032.md) | **AMPHORA-7 green ✓ ~95% · dry queue** | **Cal-Y6 D335 · 21 Nov** |
+| 2033 | [day-2033.md](days/year-006/week-291/day-2033.md) | **AMPHORA-6 repitch · P-02-PRESS-1 ✓** | **Cal-Y6 D336 · 22 Nov** |
+| 2034 | [day-2034.md](days/year-006/week-291/day-2034.md) | **OLIVE-PICK-3 ✓ · tail ~3.8 kg** | **Cal-Y6 D337 · 23 Nov** |
+| 2035 | [day-2035.md](days/year-006/week-291/day-2035.md) | **AMPHORA-7 fire · P-02-PRESS-2 ✓ · Y6 crush closed** | **Cal-Y6 D338 · 24 Nov** |
+| 2036 | [day-2036.md](days/year-006/week-291/day-2036.md) | **SALT-HAUL-6 ✓ · ~5.6 L hold · scrape GO** | **Cal-Y6 D339 · 25 Nov** |
+| 2037 | [day-2037.md](days/year-006/week-291/day-2037.md) | **SALT-CRYSTAL-HARVEST-4 · SALT-EVAP-POUR-6 ✓ · window close** | **Cal-Y6 D340 · 26 Nov** |
+| 2038 | [day-2038.md](days/year-006/week-292/day-2038.md) | **WEEK-292-OPEN · EMMER-HARVEST-Y6 ✓ · P-RETT-14 pull** | **Cal-Y6 D341 · 27 Nov** |
+| 2039 | [day-2039.md](days/year-006/week-292/day-2039.md) | **PULSE-HARVEST-Y6 ✓ · harvest block closed** | **Cal-Y6 D342 · 28 Nov** |
+| 2040 | [day-2040.md](days/year-006/week-292/day-2040.md) | **SHELF-LIFE-SPRINT-Y6 ✓ · olive brine · flatbread** | **Cal-Y6 D343 · 29 Nov** |
+| 2041 | [day-2041.md](days/year-006/week-292/day-2041.md) | **YEAST-CAPTURE-1 ✓ · STARTER-Y6-1 live** | **Cal-Y6 D344 · 30 Nov** |
+| 2042 | [day-2042.md](days/year-006/week-292/day-2042.md) | **Pistachio tail · acorn gather · fig NO-GO** | **Cal-Y6 D345 · 1 Dec** |
+| 2043 | [day-2043.md](days/year-006/week-292/day-2043.md) | **Oil decant · first yeast bread ✓** | **Cal-Y6 D346 · 2 Dec** |
+| 2044 | [day-2044.md](days/year-006/week-292/day-2044.md) | **FLAX-BREAK-14 ✓ · ACORN-LEACH-Y6-1 soak** | **Cal-Y6 D347 · 3 Dec** |
+| 2045 | [day-2045.md](days/year-006/week-293/day-2045.md) | **STORAGE-REORG-2-Y6 ✓ · FLAX-SEAT-PAD-2 ✓** | **Cal-Y6 D348 · 4 Dec** |
+| 2046 | [day-2046.md](days/year-006/week-293/day-2046.md) | **Storage close · salt scrape cycle-5 ✓** | **Cal-Y6 D349 · 5 Dec** |
+| 2047 | [day-2047.md](days/year-006/week-293/day-2047.md) | **HEMP-GHAB scout prep · pack day** | **Cal-Y6 D350 · 6 Dec** |
+| 2048 | [day-2048.md](days/year-006/week-293/day-2048.md) | **HEMP-GHAB-SCOUT leg 1 · bank camp** | **Cal-Y6 D351 · 7 Dec** |
+| 2049 | [day-2049.md](days/year-006/week-293/day-2049.md) | **Leg 2 · Hacıpaşa march · scout** | **Cal-Y6 D352 · 8 Dec** |
+| 2050 | [day-2050.md](days/year-006/week-293/day-2050.md) | **Leg 3 · patch S of Qaderiyeh · read ✓** | **Cal-Y6 D353 · 9 Dec** |
+| 2051 | [day-2051.md](days/year-006/week-293/day-2051.md) | **HEMP seed gather ✓ ~62 g · tail recovery** | **Cal-Y6 D354 · 10 Dec** |
+| 2052 | [day-2052.md](days/year-006/week-294/day-2052.md) | **WEEK-294-OPEN · return fast leg 1** | **Cal-Y6 D355 · 11 Dec** |
+| 2053 | [day-2053.md](days/year-006/week-294/day-2053.md) | **Return fast leg 2 · Bohşin eve** | **Cal-Y6 D356 · 12 Dec** |
+| 2054 | [day-2054.md](days/year-006/week-294/day-2054.md) | **HOME · HEMP-GHAB-SCOUT-1 ✓ CLOSE** | **Cal-Y6 D357 · 13 Dec** |
+| 2055 | [day-2055.md](days/year-006/week-294/day-2055.md) | **EMMER-YEAST-BREAD-2 ✓ · acorn re-soak 1** | **Cal-Y6 D358 · 14 Dec** |
+| 2056 | [day-2056.md](days/year-006/week-294/day-2056.md) | **SNAIL-LAP ✓ · OLIVE-STRAY-LAP ✓** | **Cal-Y6 D359 · 15 Dec** |
+| 2057 | [day-2057.md](days/year-006/week-294/day-2057.md) | **SNAIL-COOK ✓ · ACORN-ROAST ✓ · leach close** | **Cal-Y6 D360 · 16 Dec** |
+| 2058 | [day-2058.md](days/year-006/week-294/day-2058.md) | **BREAD-3 ✓ · Yule tree + bench staged** | **Cal-Y6 D361 · 17 Dec** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -1991,10 +2060,12 @@
 | **17** | 1601–1700 | [centadial-017.md](summaries/centadial-017.md) |
 | **18** | 1701–1800 | [centadial-018.md](summaries/centadial-018.md) |
 | **19** | 1801–1900 | [centadial-019.md](summaries/centadial-019.md) |
+| **20** | 1901–2000 | [centadial-020.md](summaries/centadial-020.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|
 | **1** | 1–1000 | [milladial-001.md](summaries/milladial-001.md) |
+| **2** | 1–2000 | [milladial-002.md](summaries/milladial-002.md) |
 
 See [summaries/README.md](summaries/README.md) · [food-menu.md](../food-menu.md)
 
