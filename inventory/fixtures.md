@@ -22,11 +22,19 @@ Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-S
 
 ## Fabrica · retired W-1
 
-**Atelier** is the shop (brick · old W-1 pad). Wattle **W-1** = **retired dirty lean-to** on that pad (fiber racks · hide frame) — not a live workshop. STORE-4 brick horreum (~72% load · lab/workshop only) · **CHEM-AIRLOCK seal patch ✓ d1940 · fume trial PASS** · **CHEM-LAB-AIRLOCK-1 ✓ d1956 full covered porch @ chem east · coir ×2 · brush · coat rail under cover** · **LAB-VENT-FAN-1 ✓ d1954 @ north hood chase · WW-2 belt branch** · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
+**Atelier** is the shop (brick · old W-1 pad). Wattle **W-1** = **retired dirty lean-to** on that pad (fiber racks · hide frame) — not a live workshop. STORE-4 brick horreum (~72% load · lab/workshop only) · **CHEM-AIRLOCK seal patch ✓ d1940** · **CHEM-LAB-AIRLOCK-1 ✓ d1956 full porch @ chem east** · **LAB-VENT-FAN-1 ✓ d1954 @ north hood chase** · **LATHE-1 ✓ LIVE · DRILL-PRESS-1 ✓ LIVE ~90% · WW-MACHINE-SWITCH-1 ✓ d1973 @ belt tree · ×2 BOW-2 shaft reserve @ M2 peg · BOW-2 quiver ×6 ✓ d1961–1963** · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
 
 ## Char
 
 CHAR-RETORT-1 @ pit lane north berm cell C (WW working court · lee of B-182) · clay mound · single south-lee air port · ~+15% yield vs pit class · parallel with dual pit B-cells
+
+## EM · pedal generator
+
+**PEDAL-GEN-1-FRAME ✓ d1984 @ chem-lab porch** — oak triangle frame · wood crank/pedals · bronze spindle + crank bushes · drive pulley stub ~Ø120 mm · seat slab bare v0 · **FLAX-SEAT-PAD defer post-harvest**
+
+**PEDAL-GEN-1-HEAD ✓ d1985 @ chem porch tension board** — gen pulley ~Ø48 mm · **MAG-STACK-1 @ magnet drawer** (whole-assembly slide) · **COIL-BOBBIN-1 ~120 turns + removable shell** · **belt LIVE d1986 · MODEST-CURRENT-LOOP-1 ✓ ~2–5° deflection**
+
+**EM-COIL-2 ✓ d1987 @ chem bench** — soft iron core ~185 g · ~240 turns fine wire · oak fixture + removable shell · leads C/D · **MAGNET-BOOTSTRAP-EM-1 next**
 
 ## Water · hygiene
 

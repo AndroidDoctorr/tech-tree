@@ -4,13 +4,13 @@ Named gear. Ore / metal **mass** lives in [inventory.md](../inventory.md) only.
 
 ## Primary iron / forge
 
-ANVIL-1 ~1.22 kg · IRON-TONGS-1/2 · IRON-HAMMER-1 · IRON-AXE-1 · IRON-ADZE-1 · IRON-HOE-1 · IRON-SPADE-1 · IRON-PICK-1 · IRON-SICKLE-1 (hero-sharp d1656) · IRON-SHEARS-1 · IRON-CHISEL-1 · wood chisels 2/3 · wedges 1/2 · trowel · mortar float · drawplate + bronze insert · glass tongs · pour ladle · skim · gather cup · blowpipe · copper blow stub
+ANVIL-1 ~1.22 kg · IRON-TONGS-1/2 · IRON-HAMMER-1 · IRON-AXE-1 · IRON-ADZE-1 · IRON-HOE-1 · IRON-SPADE-1 · IRON-PICK-1 · IRON-SICKLE-1 (hero-sharp d1656) · IRON-SHEARS-1 · IRON-CHISEL-1 · wood chisels 2/3 · wedges 1/2 · trowel · mortar float · drawplate + bronze insert · **DRAWPLATE-2 ✓ d1978 · lanes A/B/C ~3.2/1.6/0.9 mm @ bench peg** · glass tongs · pour ladle · skim · gather cup · blowpipe · copper blow stub
 
 Forge PPE @ M2: apron · OPT-1-FORGE · heat gloves · CU fire tongs (coals only — CU forge tongs retired)
 
 ## Measure · mill
 
-MEASURE-1 · LAB-SCALE-2 · BALANCE-1 · GS-1 grindstone on hub · TRIP-HAMMER-1 + bronze bushes · ORE-CRUSHER-LINK-1 · STRAIGHT-EDGE-2 · **WOOD-PLANE-1 ✓ d1886** · **SAND-SMOOTH-1 ✓ d1887** · **CRANK-DRILL-1 ✓ d1894** · brick molds oak + iron ×2
+MEASURE-1 · LAB-SCALE-2 · BALANCE-1 · GS-1 grindstone on hub · TRIP-HAMMER-1 + bronze bushes · ORE-CRUSHER-LINK-1 · STRAIGHT-EDGE-2 · **WOOD-PLANE-1 ✓ d1886** · **SAND-SMOOTH-1 ✓ d1887** · **CRANK-DRILL-1 ✓ d1894 backup** · **DRILL-PRESS-1 ✓ LIVE ~90% d1970 @ WORKBENCH-1 east cheek** · brick molds oak + iron ×2
 
 ## Glass working set
 
@@ -30,7 +30,7 @@ Paper: deckle · mould · couch felt ×4 · sheets 1–17 (**16–17 drying d190
 
 ## Transport · hunt
 
-Wagon + cart + yoke + crane @ barn · travois @ pile 9 · **BOW-2 ✓ live ~70 lb horn-lam @ belt** · **bow v1 backup** + 15 arrows (**10 pointed**) · SPEAR-2 · fishing spear · trap kits (weir + trail snares)
+Wagon + cart + yoke + crane @ barn · travois @ pile 9 · **BOW-2 ✓ ~70 lb @ belt · quiver ×6 lathe-shaft arrows LIVE ✓ d1961–1963 · ×2 shaft reserve @ M2 peg** · **bow v1 + ×15 backup (10 pointed)** · SPEAR-2 · fishing spear · trap kits (weir + trail snares)
 
 ## Copper retired / backup
 

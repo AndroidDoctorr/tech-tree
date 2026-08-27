@@ -4,9 +4,9 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Spare @ HOME
 
-- **REFILL-16 skeleton @ horreum B d1823** — **FS ×4 · oak ×1 · rope ~8 m · mortar ~2.4 kg · peg ×1 · band SPENT**
-- **FILL-16 spent** · **RESERVE oak ×1 remain**
-- TRAIL-MAINT-SLICE ~2 kg @ bench
+- **REFILL-16 skeleton @ horreum B d1823** — **FS ×4 · rope ~8 m · mortar ~1.2 kg · peg ×1 · band SPENT**
+- **FILL-16 spent** · **RESERVE oak spent d1965 @ KTRUNK forms**
+- TRAIL-MAINT-SLICE ~1.2 kg @ bench
 - TENT-2 nested @ CART-YARD · TENT-1 backup @ WW-YARD
 - EXPED-CARRY-KIT-1 restocked @ wagon
 - COVERED-WAGON-1 + CART-1 pack rig @ CART-YARD
@@ -17,7 +17,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 |----------|-------|
 | KARASU-TRIB-02 | ~16 km · d1384 |
 | ASI-ORONTES-1 | d1386 |
-| AFRIN-1 | ~10 m · d1390 |
+| AFRIN-1 | **~10 m · site B · concrete abutment d1967 · cure read PASS d1972 · ~2 mm · site A ford defer** |
 | KIRIKHAN-APPROACH-1 | ~12 m · d1396 |
 | ISK-APPROACH-1 | ~13 m · d1406 |
 | PINARUS-1 | ~12 m · reinforced d1551 |
@@ -28,7 +28,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | TRIB-FT-N02 | ~8 m · d1473 |
 | **TRIB-FT-01 @ HOME TRIB-1** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** · first road crossing **N** |
 | **KARASU-TRIB-01** | **~12 km · ◐ ford** · SC-TRIB-01 · **no** concrete |
-| KARASU-TRUNK-1 | Loaded ford @ SC-KTRUNK |
+| **KARASU-TRUNK-1** | **~28 km · SC-KTRUNK · ford + concrete abutments · cure read PASS d1972 · loaded ford ghost PASS** |
 
 ## Caches · waystations
 

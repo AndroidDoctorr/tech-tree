@@ -1,6 +1,6 @@
 # Inventory
 
-Live countable stock. Last patched **Day 1956**. `~` = last count ± logged draws.
+Live countable stock. Last patched **Day 1978**. `~` = last count ± logged draws.
 
 Lookup (do not copy quantities here): [fixtures](inventory/fixtures.md) · [bridges and trail](inventory/bridges-and-trail.md) · [tools and lab](inventory/tools-lab.md) · [pre-split archive](inventory/archive-pre-split-1775.md) · [food-ledger](food-ledger.md) · [map](map.md)
 
@@ -12,26 +12,26 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | ~34 kg GREEN | LAB-VENT-FAN d1954 −~2.5 kg |
+| Char lane | ~23.9 kg GREEN | MAG-BOOTSTRAP-EM d1988 −~0.75 kg |
 | Quartz Belen haul | ~54.4 kg | DOMUS-E-GLASS through d1952 −~430 g FACE-B |
-| Pile 5 oak | ~3 kg GREEN | AIRLOCK d1956 +haul −~4.6 kg frame |
+| Pile 5 oak | ~0.4 kg GREEN | EM-COIL-2 d1987 −~0.35 kg fixture |
 | Store C vault | ~37 kg | Reserve · char pack defer |
 | Pile 1 clay | ~16.9 kg GREEN | RACEWAY-1879 toe pack −~2.1 kg |
 | Pile 3 green brick | ×0 | GB-1814 fired d1814 |
 | Kiln B stackable | ~59 | −×40 hut kit · +×36 fire d1814 |
 | TR tiles @ rack | ×0 fired · green ×0 | AIRLOCK d1956 −×5 · TR-TILE-PICK-1815 spent |
-| Pile 4 dress/field | ~23.85 kg | AIRLOCK d1956 −~0.4 kg aggregate |
+| Pile 4 dress/field | ~11.45 kg | AFRIN-SHORE d1967 −~5.0 kg aggregate/gravel |
 | Pile 8 floor-stone | ×2 @ OLIVE-PRESS threshold + ×1 counterweight + ×2 @ TRIB-FT site B | OLIVE-PRESS-1918 −×1 FS @ short arm |
 | Pile 7 CaCO₃ raw | ~19 kg GREEN | KILN-A-LIME-1864 −~10 kg |
-| Pozz/tuff stock | ~38.05 kg | AIRLOCK d1956 −~0.9 kg |
+| Pozz/tuff stock | ~33.85 kg | AFRIN-SHORE d1967 −~1.6 kg |
 | POZZ-SLAB-TRIAL-1 | ~4.8 kg @ apron | STRIP-1868 ✓ · reference slab |
 | SLUICE-2-STREAM-CHEEK-1 | ~10.2 kg live | S2-0 stream face · strip-1875 ✓ |
 | SLUICE-2-SILL-SKIM-1 | ~3.8 kg live | Gate seat @ S2-0 · read-1877 ✓ |
 | SLUICE-2-GATE-1 | ✓ live @ S2-0 | Deploy-1878 · prefab kit mounted · bypass staged |
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
-| Quicklime dry | ~3.93 kg | AIRLOCK d1956 −~0.25 kg |
-| River sand / grog | ~25.0 kg GREEN | AIRLOCK d1956 −~0.5 kg |
+| Quicklime dry | ~3.03 kg | AFRIN-SHORE d1967 −~0.35 kg |
+| River sand / grog | ~22.1 kg GREEN | AFRIN-SHORE d1967 −~1.1 kg |
 | Flax shive | ~10.8 kg | PAPER-SPRINT-3-D4 −~300 g |
 | CHAR-RETORT-1 | ✓ LIVE d1777 | Pit lane north berm cell C · ~+15% yield vs pit |
 
@@ -41,6 +41,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 |------|-----|-------|
 | Parched grain | ~4.8 kg | LARDER-REFILL-1860 · hypocaust sprint |
 | Smoked fish | ~2.4 kg | LARDER-REFILL-1860 · smoke rack |
+| Smoked goose | ~0.95 kg | GOOSE-SMOKE d1964 @ larder |
+| Goose giblet jar | ~120 g | GOOSE-SMOKE d1964 · cool step |
 | Fish jerky | ~0.9 kg | LARDER-REFILL-1860 |
 | Trail food (wagon) | ~0 kg | Campus larder · not lashed |
 | Emmer bulk Y5 | ~0 g | LARDER-REFILL-1860 draw |
@@ -53,7 +55,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Y5 stew | ~0.95 kg | Cool step |
 | Grape leather | ~330 g | LARDER-REFILL-1860 −~150 g mix pinch |
 | Olive brine | ~2.0 kg | P-02 crock |
-| Salt | ~290 g | P-η |
+| Salt | ~275 g | GOOSE-SMOKE d1964 −~15 g |
 | Ice vault | ~84.8 kg | Cool cellar d1747 |
 | Acorn shelled / roast | ~570 g / ~370 g | v1 |
 | Acorn bulk shell-on | ~2.4 kg | v1 |
@@ -62,11 +64,18 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Cu prill + peas | ~1.22 kg | Forge staging |
-| O-1 malachite | ~23.9 kg | M-G1-HAUL-1874 +~19.4 kg net @ pile 4 |
+| Cu prill + peas | ~0.13 kg | WIRE-SPRINT-2 d1982 −~1.48 kg → wire |
+| **WIRE-CU-3** | **~60 m @ ~0.9 mm · lane C** | **WIRE-SPRINT −~22 m coils d1985+d1987 · WIRE-SPOOL-1 dry @ bench** |
+| **EM-COIL-2** | **~240 turns @ iron core ~185 g · bench fixture @ chem porch** | **d1987 · magnet bootstrap class · leads C/D** |
+| **WIRE-CU-4** | **~14 m @ ~1.6 mm · lane B coil** | **WIRE-SPRINT d1979+d1982 · chem porch** |
+| WIRE-DRY-1 legacy | ~2.6 m @ ~0.75 mm class | Chem cab · untouched d1979 |
+| O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
-| Iron bloom (mounted) | ~15.5 kg | LAB-VENT-FAN d1954 −~140 g |
-| M-22 magnetite tray | ~2.22 kg | Pile 4 |
+| Iron bloom (mounted) | ~14.79 kg | EM-COIL-2 d1987 −~185 g core |
+| M-22 magnetite tray | ~1.35 kg | MAG-BOOTSTRAP-EM d1988 −~175 g piece #5 |
+| **MAG-BOOT-EM-1** | **piece #5 ~175 g @ dry tray · lift ~36 mm · EM-assist** | **d1988 · stack-candidate** |
+| **MAG-STACK-1** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · ×4 bootstrap + iron yoke · lift ~52 mm** | **d1985 mount · was chem tray** |
+| **COIL-BOBBIN-1** | **~120 turns WIRE-CU-3 fine @ gen-head gap · shell removable** | **d1985 · modest-loop class** |
 | Sphalerite SPH-1 | ~12.9 kg | Forge staging |
 | Galena-class PB | ~12.2 kg | Forge staging |
 | Cinnabar HgS | ~35.9 kg | v1 CHEM isolated · no roast |
@@ -76,7 +85,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Cassiterite concentrate | ~4.9 kg | Forge staging · KOZAN-14D return d1854 |
 | Kozan ore stockpile | ~0 kg | Gate lee · bank empty · haul home d1854 |
 | Kozan char bank | ~0.3 kg RED | Kiln lee · smelt spent |
-| Bronze stock | ~574 g | LAB-VENT-FAN d1954 −~14 g |
+| Bronze stock | ~476 g | PEDAL-GEN-HEAD d1985 −~22 g bush |
 | Brass stock | ~34 g | OL-1 fittings d1809 |
 | Pb metal | ~1.07 kg | Forge jar · double-red |
 | ZnO calcine | ~1.07 kg | Chem-lab |
@@ -98,15 +107,15 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Thread | ~176 m | CL-LAB-WEAR d1955 −~62 m |
+| Thread | ~172 m | ARROW d1963 −~2 m batch |
 | Flax line | ~0 g | Spin-3 peg spent d1839 · field flax owns next long fiber |
 | Flax tow | **×0 spent** | **PAPER-SPRINT-3-D1 −~81 g · crate-2 empty** |
-| VENT-BELT rope | ~131 m | LAB-VENT-FAN d1954 −~5.5 m |
-| Hide scrap | ~0.59 m² trim · goat-519 ~0.34 m² reserve | TRIP-BELT-1893 −~0.24 m² · OLIVE-PRESS-1917 −~45 g liner · SCOUT-1918 −~30 g bags |
+| VENT-BELT rope | ~123 m | DRILL-PRESS d1970 −~2.6 m |
+| Hide scrap | ~0.54 m² trim · goat-519 ~0.29 m² reserve | PEDAL-GEN-BELT d1986 −~22 g |
 | Billie hide A-03 | ~0.66 m² @ retired W-1 lean-to frame | CHEM-DOOR-PATCH-1940 −~0.04 m² · strips through d1939 |
 | Goat horn billie | **×0 on stave** · ~25 g waste @ pile 6 | BOW-2-HORN-LAMINATE-1912 |
 | Sinew dry | **×0 spent** | **BOW-2-SINEW-BACK-1914 −~55 g on stave** |
-| Feather bag | ~75 g | v1 FIBER · Y5 Yule goose ~38 g pinfeather class · fletch bank |
+| Feather bag | ~79 g | ARROW d1963 −~20 g batch fletch |
 
 ## Worn now
 
@@ -158,12 +167,14 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CART-IRON-RIM-1** | **✓ both wheels** | **Full bands d1877 · wobble ~1 mm class** |
 | **WW-2-WHEEL-1** | **✓ @ north pad · belt tree LIVE** | **Phase 3 CLOSE d1894** |
 | **GS-2-FLYWHEEL-1** | **✓ outboard @ WW-2 shaft** | **~9.8 kg oak · ~290 g iron band · d1888** |
+| **WW-MACHINE-FLYWHEEL-1 (MF-1)** | **✓ @ belt tree idler B + clutch collar #3** | **~3.6 kg disk · WW-MACHINE-SWITCH-1 LIVE d1973** |
 | **BRONZE-BUSH-WW2-1** | **✓ @ axle bed** | **Cast-1884 ~320 g** |
 | **BELT-TREE-1** | **✓ idlers ×3 · pulleys ×3 · collar #3** | **d1891–1892** |
 | **LEATHER-FLAT-BELT-1** | **✓ primary @ WW-2 rim** | **~4.2 m · weekly dress** |
 | **GRIND-TAKEOFF-2** | **✓ cord branch → GS-1** | **WW-2 driven · d1892** |
 | **TRIP-HAMMER-BELT-1** | **✓ leather cam ~1.8 m** | **Power clang d1893** |
-| **CRANK-DRILL-1** | **✓ @ WORKBENCH-1** | **Belt stub · d1894** |
+| **CRANK-DRILL-1** | **✓ @ WORKBENCH-1** | **Belt stub · d1894 · DRILL-PRESS-1 upgrade path** |
+| **LATHE-1** | **✓ LIVE 100% @ WORKBENCH-1** | **×2 BOW-2 shaft reserve @ M2 peg · ×6 arrows LIVE** |
 | **WW-2-BELT-COLLAR-1** | **×3 quick-release @ shaft** | **+collar #3 d1891** |
 | **WOOD-PLANE-1** | **✓ @ bench peg** | **Forged d1886** |
 | **SAND-SMOOTH-1** | **✓ @ bench roll** | **d1887** |

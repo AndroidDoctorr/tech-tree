@@ -2,24 +2,22 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 1956** · Cal-Y6 D259 · ~6 Sep · Week 280 day 3 · **HOME** · Fabrica chem porch
+**Day 1988** · Cal-Y6 D291 · ~8 Oct · Week 284 day 7 · **HOME** · EM bootstrap proven
 
 | Track | Status |
 |-------|--------|
-| Glass / BC | **Domus W+E LIVE ✓ · windows on pause** |
-| Char | **Lane ~34 kg** |
-| Chem lab | **LAB-SPRINT ✓ CLOSE · fan · labwear · CHEM-LAB-AIRLOCK-1 porch LIVE** |
-| TQ / bridges | **TRIB-FT-01 v1 ✓** |
+| **MAG-BOOT-EM-1** | **Piece #5 ~175 g · lift ~36 mm · EM-assist ✓** |
+| **MAG-STACK-1** | **@ gen drawer · lift ~52 mm unchanged** |
+| **EM-COIL-2 + PEDAL-GEN-1** | **✓ LIVE @ chem porch** |
+| **M-22 tray** | **~1.35 kg remain** |
 
 ## Next
 
-1. **CRAFT-CABINET-1** · **WINDOW-UPGRADE** when named
-2. **Donkey hunt ~7 Sep**
+**ZN-METAL-1** or **MAG-BOOTSTRAP-EM repeat**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- Donkey hunt ~7 Sep
-- Exped open
+- Exped shoulder · donkey hunt open
 
 ## Do not treat as live
 

@@ -1933,6 +1933,38 @@
 | 1954 | [day-1954.md](days/year-006/week-280/day-1954.md) | **LAB-VENT-FAN-1 ✓ @ hood chase · smoke tune PASS** | **Cal-Y6 D257 · 4 Sep** |
 | 1955 | [day-1955.md](days/year-006/week-280/day-1955.md) | **CL-LAB-WEAR 3/3 REFRESH ✓ @ chem door pegs** | **Cal-Y6 D258 · 5 Sep** |
 | 1956 | [day-1956.md](days/year-006/week-280/day-1956.md) | **CHEM-LAB-AIRLOCK-1 ✓ porch · LAB-SPRINT CLOSE** | **Cal-Y6 D259 · 6 Sep** |
+| 1957 | [day-1957.md](days/year-006/week-280/day-1957.md) | **WOOD-HAUL · LATHE-1 stake + bed dress ~45%** | **Cal-Y6 D260 · 7 Sep** |
+| 1958 | [day-1958.md](days/year-006/week-280/day-1958.md) | **LATHE-1 ways stub ✓ · headstock ✓ · bed LIVE** | **Cal-Y6 D261 · 8 Sep** |
+| 1959 | [day-1959.md](days/year-006/week-280/day-1959.md) | **LATHE-1 tailstock ✓ · belt tune PASS · LIVE ✓** | **Cal-Y6 D262 · 9 Sep** |
+| 1960 | [day-1960.md](days/year-006/week-280/day-1960.md) | **LATHE-1 shaft batch ✓ ×8 · tune adjust · WEEK-280-CLOSE** | **Cal-Y6 D263 · 10 Sep** |
+| 1961 | [day-1961.md](days/year-006/week-281/day-1961.md) | **ARROW-BOW-2-1 ✓ · LEFT-spin fletch · field test PASS** | **Cal-Y6 D264 · 11 Sep** |
+| 1962 | [day-1962.md](days/year-006/week-281/day-1962.md) | **ARROW-BOW-2-2 ✓ · GOOSE-HUNT greylag ✓** | **Cal-Y6 D265 · 12 Sep** |
+| 1963 | [day-1963.md](days/year-006/week-281/day-1963.md) | **ARROW-BOW-2 batch ×4 · ×6 quiver · band pause** | **Cal-Y6 D266 · 13 Sep** |
+| 1964 | [day-1964.md](days/year-006/week-281/day-1964.md) | **GOOSE-SMOKE ✓ · break band** | **Cal-Y6 D267 · 14 Sep** |
+| 1965 | [day-1965.md](days/year-006/week-281/day-1965.md) | **KTRUNK abutment pour ✓ · bridge-shore campaign open · camp @ trunk** | **Cal-Y6 D268 · 15 Sep** |
+| 1966 | [day-1966.md](days/year-006/week-281/day-1966.md) | **KTRUNK form cap ✓ · return HOME · cure interleave** | **Cal-Y6 D269 · 16 Sep** |
+| 1967 | [day-1967.md](days/year-006/week-281/day-1967.md) | **AFRIN-1-B concrete abutment reinforce ✓ · split read · camp** | **Cal-Y6 D270 · 17 Sep** |
+| 1968 | [day-1968.md](days/year-006/week-282/day-1968.md) | **WEEK-282-OPEN · AFRIN form cap ✓ · bridge-shore season close · DRILL-PRESS slate** | **Cal-Y6 D271 · 18 Sep** |
+| 1969 | [day-1969.md](days/year-006/week-282/day-1969.md) | **DRILL-PRESS-1 stake ✓ · quill forge ✓ · ~40%** | **Cal-Y6 D272 · 19 Sep** |
+| 1970 | [day-1970.md](days/year-006/week-282/day-1970.md) | **DRILL-PRESS-1 LIVE ~90% · post drill · pin chuck · first bore PASS** | **Cal-Y6 D273 · 20 Sep** |
+| 1971 | [day-1971.md](days/year-006/week-282/day-1971.md) | **WW-MACHINE-FLYWHEEL-1 MF-1 disk @ idler B · ~50% · clutch next** | **Cal-Y6 D274 · 21 Sep** |
+| 1972 | [day-1972.md](days/year-006/week-282/day-1972.md) | **KTRUNK + AFRIN cure read ✓ · bridge-shore season close** | **Cal-Y6 D275 · 22 Sep** |
+| 1973 | [day-1973.md](days/year-006/week-282/day-1973.md) | **WW-MACHINE-SWITCH-1 LIVE ✓ · clutch swap · no gate stop** | **Cal-Y6 D276 · 23 Sep** |
+| 1974 | [day-1974.md](days/year-006/week-282/day-1974.md) | **REST · farm + animals · campus walk · paint study** | **Cal-Y6 D277 · 24 Sep** |
+| 1975 | [day-1975.md](days/year-006/week-283/day-1975.md) | **WEEK-283-OPEN · MAGNET-WEEK · bootstrap trial 1 · doctrine slate** | **Cal-Y6 D278 · 25 Sep** |
+| 1976 | [day-1976.md](days/year-006/week-283/day-1976.md) | **MAG-STACK-1 ✓ · keeper yoke · lift ~52 mm · Nd honest slate** | **Cal-Y6 D279 · 26 Sep** |
+| 1977 | [day-1977.md](days/year-006/week-283/day-1977.md) | **CU-SMELT 2-charge ✓ · ~2.05 kg Cu · pedal-gen + drawplate slates** | **Cal-Y6 D280 · 27 Sep** |
+| 1978 | [day-1978.md](days/year-006/week-283/day-1978.md) | **DRAWPLATE-2 ✓ · 3-gauge dies · test draw PASS** | **Cal-Y6 D281 · 28 Sep** |
+| 1979 | [day-1979.md](days/year-006/week-283/day-1979.md) | **WIRE-SPRINT-1 ✓ · ~38 m fine · ~46 m total new wire** | **Cal-Y6 D282 · 29 Sep** |
+| 1980 | [day-1980.md](days/year-006/week-283/day-1980.md) | **M-G1-LATE-HAUL ✓ · O-1 ~28.4 kg · exped shoulder GO** | **Cal-Y6 D283 · 30 Sep** |
+| 1981 | [day-1981.md](days/year-006/week-283/day-1981.md) | **CU-SMELT-BATCH-2 ✓ · ~1.61 kg Cu · O-1 ~14.4 kg remain** | **Cal-Y6 D284 · 1 Oct** |
+| 1982 | [day-1982.md](days/year-006/week-284/day-1982.md) | **WEEK-284-OPEN · WIRE-SPRINT-2 ✓ · ~82 m fine total** | **Cal-Y6 D285 · 2 Oct** |
+| 1983 | [day-1983.md](days/year-006/week-284/day-1983.md) | **CHAR-RETORT top-up ✓ · lane ~25 kg · PEDAL-GEN design slate** | **Cal-Y6 D286 · 3 Oct** |
+| 1984 | [day-1984.md](days/year-006/week-284/day-1984.md) | **PEDAL-GEN-1-FRAME ✓ · crank LIVE · FLAX-SEAT-PAD defer** | **Cal-Y6 D287 · 4 Oct** |
+| 1985 | [day-1985.md](days/year-006/week-284/day-1985.md) | **PEDAL-GEN-1-HEAD ✓ · magnet drawer · COIL-BOBBIN-1 ~120 turns** | **Cal-Y6 D288 · 5 Oct** |
+| 1986 | [day-1986.md](days/year-006/week-284/day-1986.md) | **MODEST-CURRENT-LOOP-1 ✓ · deflection ~2–5° · EM-power slate** | **Cal-Y6 D289 · 6 Oct** |
+| 1987 | [day-1987.md](days/year-006/week-284/day-1987.md) | **EM-COIL-2 ✓ · iron-core EM · ~240 turns · lift trial PASS** | **Cal-Y6 D290 · 7 Oct** |
+| 1988 | [day-1988.md](days/year-006/week-284/day-1988.md) | **MAGNET-BOOTSTRAP-EM-1 ✓ · piece #5 ~36 mm · EM assist proven** | **Cal-Y6 D291 · 8 Oct** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
