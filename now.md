@@ -2,21 +2,21 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2058** · Cal-Y6 D361 · ~17 Dec · Week 294 day 7 · **bread #3 ✓ · Yule staged**
+**Day 2071** · Cal-Y7 D10 · ~31 Dec · Week 296 day 6 · **CHEM-LAB-WINDOW-N-1 LIVE ✓**
 
 | Track | Status |
 |-------|--------|
-| **Yule** | **P-η tray staged · posca ~0.4 L · tree dressed · feast ~4 d** |
-| **Kitchen** | **EMMER-YEAST-BREAD-3 ✓ · mash crack queued eve** |
-| **Protein** | **Smoked goose + fish hero · snail warm queue · bow optional d2061** |
+| **Fuel** | **Pile 5 ~15 kg · char lane ~24 kg · wood haul band** |
+| **WINDOW-UPGRADE** | **Chem north ✓ · culina strap = last major opening** |
+| **Campus** | **GREEN · BC window band largely closed · hub heat next** |
 
 ## Next
 
-**YULE-FEAST-EVE ~d2060** · **FEAST-YULE ~d2062 (21 Dec)**
+**CAMPUS-HUB-M2-1** · **BC-1-DRAIN-SPRING-1** (~Feb) · **CULINA-STRAP-UPGRADE-1** optional
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **Dec 21 Yule**
+- **Feb 26 spring sow opens** · **Mar 16 sow close**
 
 ## Do not treat as live
 

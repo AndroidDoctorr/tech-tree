@@ -2035,6 +2035,19 @@
 | 2056 | [day-2056.md](days/year-006/week-294/day-2056.md) | **SNAIL-LAP ✓ · OLIVE-STRAY-LAP ✓** | **Cal-Y6 D359 · 15 Dec** |
 | 2057 | [day-2057.md](days/year-006/week-294/day-2057.md) | **SNAIL-COOK ✓ · ACORN-ROAST ✓ · leach close** | **Cal-Y6 D360 · 16 Dec** |
 | 2058 | [day-2058.md](days/year-006/week-294/day-2058.md) | **BREAD-3 ✓ · Yule tree + bench staged** | **Cal-Y6 D361 · 17 Dec** |
+| 2059 | [day-2059.md](days/year-006/week-295/day-2059.md) | **WEEK-295-OPEN · GOAT-SEX-ID ✓ · clean · paint** | **Cal-Y6 D362 · 18 Dec** |
+| 2060 | [day-2060.md](days/year-006/week-295/day-2060.md) | **YULE-FEAST-EVE-COOK ✓ · plate locked** | **Cal-Y6 D363 · 19 Dec** |
+| 2061 | [day-2061.md](days/year-006/week-295/day-2061.md) | **FEAST-YULE ✓ · SUN-YULE ✓ · Cal-Y6 close** | **Cal-Y6 D365 · 21 Dec** |
+| 2062 | [day-2062.md](days/year-006/week-295/day-2062.md) | **Cal-Y7 open · campus day** | **Cal-Y7 D1 · 22 Dec** |
+| 2063 | [day-2063.md](days/year-006/week-295/day-2063.md) | **CHEM-LAB glass batch 1 · 4/20 grid** | **Cal-Y7 D2 · 23 Dec** |
+| 2064 | [day-2064.md](days/year-006/week-295/day-2064.md) | **WOOD-HAUL ✓ · char retort queued** | **Cal-Y7 D3 · 24 Dec** |
+| 2065 | [day-2065.md](days/year-006/week-295/day-2065.md) | **CHAR-RETORT ✓ · chem glass batch 2 · week 295 close** | **Cal-Y7 D4 · 25 Dec** |
+| 2066 | [day-2066.md](days/year-006/week-296/day-2066.md) | **WEEK-296-OPEN · chem glass batch 3 · 12/20** | **Cal-Y7 D5 · 26 Dec** |
+| 2067 | [day-2067.md](days/year-006/week-296/day-2067.md) | **CHAR-RETORT ✓ · lane ~53 kg · pile 5 thin** | **Cal-Y7 D6 · 27 Dec** |
+| 2068 | [day-2068.md](days/year-006/week-296/day-2068.md) | **CHEM glass batch 4 · 16/20** | **Cal-Y7 D7 · 28 Dec** |
+| 2069 | [day-2069.md](days/year-006/week-296/day-2069.md) | **CHEM glass batch 5 · grid close 20/20 ✓** | **Cal-Y7 D8 · 29 Dec** |
+| 2070 | [day-2070.md](days/year-006/week-296/day-2070.md) | **CHEM-LAB-STRAP-FRAME-N-1 ✓ @ peg** | **Cal-Y7 D9 · 30 Dec** |
+| 2071 | [day-2071.md](days/year-006/week-296/day-2071.md) | **CHEM-N-GLASS-INSTALL ✓ · chem north LIVE** | **Cal-Y7 D10 · 31 Dec** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

@@ -4,7 +4,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **HEMP-GHAB return fast · feast prep · acorn finish**
 
-**Status:** OPEN @ Day 2058 · Cal-Y6 D361 · **Yule staged · eve ~d2060**
+**Status:** **CLOSED @ Day 2058** · Cal-Y6 D361 · **Yule staged · week 295 opens**
 
 ---
 
@@ -35,4 +35,4 @@ See [now.md](../../now.md). Do not duplicate runway numbers here.
 
 ---
 
-*Week 294 opens @ Day 2052 · Week 293 closed @ Day 2051.*
+*Week 294 opens @ Day 2052 · **closed @ Day 2058** · Week 295 opens @ Day 2059.*

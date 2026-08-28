@@ -12,9 +12,9 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | ~63.5 kg GREEN | CHAR-RETORT d2020 +~22.1 kg · Nov runway |
+| Char lane | **~24 kg GREEN** | **CHEM-LAB-STRAP-FORGE-2070 −~7 kg reheat** |
 | Quartz Belen haul | ~54.2 kg | GLASS-BOTTLE ×2 d2005 −~180 g · DOMUS-E-GLASS prior |
-| Pile 5 oak | ~44.7 kg GREEN | WOOD-HAUL d2022 +~22.2 kg net @ T-1 |
+| Pile 5 oak | **~15.4 kg GREEN** | **CHAR-RETORT-2067 −~26 kg feed · wood haul band** |
 | Store C vault | ~37 kg | Reserve · char pack defer |
 | Pile 1 clay | ~25.9 kg GREEN | AMPHORA-7-FINISH d2032 −~1.5 kg |
 | Pile 3 green brick | ×0 | GB-1814 fired d1814 |
@@ -40,15 +40,15 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Item | Qty | Where |
 |------|-----|-------|
 | Parched grain | **~3.1 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~2.2 kg trail pack @ body** |
-| Smoked fish | ~3.0 kg | FISH-SMOKE-BATCH d2040 +~620 g |
-| Smoked goose | ~1.70 kg | GOOSE-SMOKE d1964 + d2012 ~0.75 kg add |
+| Smoked fish | **~2.80 kg** | **FEAST-YULE d2061 −~80 g serve** |
+| Smoked goose | **~1.46 kg** | **FEAST-YULE d2061 −~120 g hero serve** |
 | Goose giblet jar | ~230 g class | d1964 ~120 g + d2012 ~110 g |
 | Fish jerky | **~0.7 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~200 g trail pack** |
 | **Trail food (foot pack)** | **✓ spent @ return d2052–2054 · pack stowed** | |
 | **Limestone chip (trail)** | **✓ ~180 g @ pile 7 lip d2054** | **Ghab sample** |
 | Emmer bulk Y5 | ~0 g | LARDER-REFILL-1860 draw |
 | Emmer elite Y5 | ~20 g | Seed vault |
-| **Emmer bulk Y6** | **~0.40 kg @ horreum A EMMER-BULK-Y6 / incoming bay** | **EMMER-YEAST-BREAD-3 d2058 −~320 g · mash crack −~140 g queued** |
+| **Emmer bulk Y6** | **~0.26 kg @ horreum A EMMER-BULK-Y6 / incoming bay** | **YULE mash d2060 −~140 g crack** |
 | **Emmer elite Y6** | **~98 g @ SEED-VAULT** | **EMMER-HARVEST-Y6 d2038** |
 | P-18 chickpea Y5 | ~164 g | Pulse bay post-expand |
 | P-17 lentil Y5 | ~178 g | Pulse bay |
@@ -58,12 +58,12 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Fig leather | **~575 g** | **Trail pack draws d2048–2050** |
 | Pistachio | **~2.27 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~80 g trail** |
 | Y5 stew | ~0.95 kg | Cool step |
-| **Y6 stew** | **~1.10 kg @ cool step** | **LENTIL-P18-EMMER-STEW-Y6 d2040** |
+| **Y6 stew** | **~0.82 kg @ cool step** | **FEAST d2061 −~100 g serve · hold remainder** |
 | Grape leather | ~330 g | LARDER-REFILL-1860 −~150 g mix pinch |
 | **Grape must / vinegar Y6** | **Vinegar class @ AMPHORA-5 · P-ξ-4 · crock · mother live** | **GRAPE-VINEGAR-SPRINT d1994 · YEAST-CAPTURE d2041** |
 | **STARTER-Y6-1** | **Live @ culina warm peg · emmer · daily feed** | **YEAST-CAPTURE-1 d2041** |
 | **Vinegar (mother crock)** | **~350 ml usable · top-up acetifying** | **GRAPE-VINEGAR-1 lineage · refresh d1994** |
-| **SNAIL-BRINE-Y6 @ crock** | **~300 g @ v1 porch · 6–18 mo band · Yule warm queue** | **SNAIL-COOK-2057** |
+| **SNAIL-BRINE-Y6 @ crock** | **~220 g @ v1 porch · warm-queued d2060 −~80 g** | **SNAIL-COOK-2057** |
 | Olive brine | ~2.0 kg | P-02 crock legacy |
 | **Olive brine Y6** | **~910 g fruit @ crock #2 v1 porch · salt · 6–18 mo band** | **OLIVE-STRAY-LAP d2056 +~290 g** |
 | **P-02 olive fruit Y6** | **Staging clear · Y6 crush closed** | **P-02-PRESS-2 d2035 −~3.8 kg** |
@@ -82,7 +82,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **EMMER-YEAST-BREAD-1** | **✓ first loaf ~480 g d2043 · STARTER-Y6-1** | **Weekly bake class** |
 | **EMMER-YEAST-BREAD-2** | **✓ ~480 g d2055 · oil in dough · weekly rhythm** | **Yule prep band** |
 | **EMMER-YEAST-BREAD-3** | **✓ ~480 g d2058 · pre-Yule table loaf** | **YULE-BENCH-Y6** |
-| **YULE-BENCH-Y6-PLATE** | **P-η tray staged d2058 · posca ~0.4 L · portions locked** | **FEAST eve ~d2060** |
+| **YULE-BENCH-Y6-PLATE** | **✓ FEAST-YULE-2061 served · plate closed** | |
 | **OLIVE-OIL-SETTLE-1** | **✓ ~2.05 L clear decant d2043 · cook unlock** | |
 | **GLASS-BOTTLE-4 · 5** | **@ chem-lab rack · VINEGAR + OIL tags** | **Tap ✓ d2007** |
 | **BARREL-4** | **✓ @ v1 south margin · LARDER-OVERFLOW-Y6 · BUNG-TAP-4 · empty tagged** | **STORAGE-REORG-2-Y6 d2045** |
@@ -102,7 +102,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | WIRE-DRY-1 legacy | ~2.6 m @ ~0.75 mm class | Chem cab · untouched d1979 |
 | O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
-| Iron bloom (mounted) | ~14.4 kg | BARREL-4 hoops d2009 −~390 g |
+| Iron bloom (mounted) | ~14.1 kg | **CHEM-LAB-STRAP-FORGE-2070 −~340 g** |
 | M-22 magnetite tray | ~0.67 kg | MAG-BOOTSTRAP-EM-4 d1992 −~168 g #9 |
 | **MAG-BOOT-EM rod #9** | **Spare @ dry tray · ~168 g · ~36 mm pole class** | **d1992 · stack backup · not in MAG-STACK-2** |
 | **MAG-BOOT-SPARE-1** | **Old stack #1–4 @ horreum B peg · ~27–31 mm solo class** | **MAG-STACK-2 d1991 demote** |
@@ -164,7 +164,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Mabel | HOLDING-1 A | Jenny · TEAM-ROTATION-3 · dual-pull primary |
 | Humphrey | HOLDING-1 B | Jack · TEAM-ROTATION-3 · dual-pull primary |
 | Silas | HOLDING-1 C | TEAM-ROTATION-3 · trace-rest / rotate · not off-roster |
-| Goats ×2 | P-GOAT-1 | Auto trough · feeder ✓ |
+| Goats ×2 | P-GOAT-1 | **#1 DOE (senior d87) · #2 BILLIE (junior d107) · sex read d2059** |
 | Browse @ home | ~7-day ✓ | BROWSE-TOP-1812 ~4 kg cut |
 
 ## Farm (standing)
@@ -201,6 +201,25 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **SNAIL-COOK-2057** | **✓ ~300 g brined @ crock** | **Yule warm · ~80 g staged** |
 | **YULE-TREE-DRESS-Y6-2058** | **✓ madder bows ×4 · garland refresh · WINTER-TREE-1** | |
 | **YULE-BENCH-Y6-STOCK-2058** | **✓ tray · posca · plate lock · goose bow optional** | **FEAST-YULE ~d2062** |
+| **YULE-FEAST-EVE-COOK-2060** | **✓ mash · stew · smoke · snail warm-queued** | |
+| **FEAST-YULE-2061** | **✓ ten-course · smoked goose hero · Dec 21** | **SUN-YULE-2061** |
+| **SUN-YULE-2061** | **✓ sixth glyph · ground 46 · wall 42 · Cal-Y6 close** | **Cal-Y7 opens d2062** |
+| **YULE-ANIMAL-TREAT-2061** | **✓ donkeys · goats · apiary margin** | |
+| **Cal-Y7-OPEN-2062** | **✓ D1 @ d2062 · campus GREEN · rest band** | |
+| **CHEM-LAB-GLASS-GATE-2063** | **✓ north ×20 grid + install d2071 · CHEM-LAB-WINDOW-N-1 LIVE** | |
+| **CHEM-N-GLASS-BATCH-5-2069** | **GP-2063-C-LITE-17…20 ✓ tap d2071 · install close** | |
+| **CHEM-N-GLASS-INSTALL-2071** | **✓ strap+glass LIVE @ chem north · first Fabrica BC window** | |
+| **CHEM-LAB-WINDOW-N-1** | **✓ strap+glass LIVE d2071** | |
+| **CHEM-LAB-STRAP-FRAME-N-1** | **✓ mounted d2071** | |
+| **WEEK-296-OPEN** | **✓ d2066 · chem glass grid band** | |
+| **CHAR-RETORT-2065** | **✓ ×3 burns · lane rebuild d2065** | |
+| **CHAR-RETORT-2067** | **✓ ×3 burns · lane ~31 → ~53 kg · pile 5 thin** | |
+| **WOOD-HAUL-2064** | **✓ ~22.7 kg net · pile 5 draw @ retort** | |
+| **WINTER-PAINT-HABIT** | **Light winter evenings → EASEL-1 study assumed** | **Player standing** |
+| **GOAT-SEX-ID-2059** | **✓ #1 DOE · #2 BILLIE · first hero read** | **GOAT-MILK-HORIZON Y7** |
+| **GOAT-MILK-READ-2059** | **1 doe · rut manage · kidding stall · milk stand defer** | **Cheese blocked until freshen** |
+| **YULE-CLEAN-2059** | **✓ domus · culina · porticus · holding** | |
+| **PAINT-STUDY-2059** | **✓ winter tree @ PAINT-CANVAS-1** | |
 | **OLIVE-STRAY-LAP-2056** | **✓ ~290 g → crock #2 · P-02 season closed** | **Dec 16 window filed** |
 | **SALT-CRYSTAL-HARVEST-5** | **✓ ~915 g d2046 · cycle-5 post-window · no pour** | **Salt season closed** |
 | **FLAX-SEAT-PAD-2** | **✓ d2045 · PEDAL-GEN-1 restuff ~95 g tow** | **Replaces d2025 pad** |
