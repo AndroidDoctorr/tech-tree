@@ -148,7 +148,7 @@
 
 ## Temporary portico + future hub site *(filed pre–Week 251)*
 
-**Player intent:** **PORTICO / MUDROOM-1 @ craft-wing east face** is **temporary** — shed roof · boot mat · rug · rain/wind break · **not** the final campus entry. **Future ~5×5 m hub** stakes **here** @ M2 belt · east craft door becomes **wing tie-in** when hub builds.
+**Player intent:** **PORTICO / MUDROOM-1 @ craft-wing east face** is **temporary** — shed roof · boot mat · rug · rain/wind break · **not** the final campus entry. **Future ~5×5 m hub** stakes **here** @ M2 belt · east craft door becomes **wing tie-in** when hub builds. **Updated d2072:** final **S-face portico = substantial** — **~3 m depth · tile-roof · BC airlock class** · temp portico demount @ hub shell stake only.
 
 | Now (Week 251+) | Later (campus expand) |
 |-----------------|------------------------|
@@ -191,6 +191,33 @@
 ```
 
 **Demote when staking:** Measure **flue exit @ roof** before wing bond beams tie in · **stub sleeves** in shared walls @ floor line during hub shell — cheaper than retrofit.
+
+---
+
+## Campus compound layout *(filed d2089 · planning only)*
+
+**Player compound sketch** *(N up · S = portico)*:
+
+```
+C W C
+W H W
+  P
+```
+
+| Symbol | Canon @ M2 east pad |
+|--------|---------------------|
+| **H** | **CAMPUS-HUB-M2-1** ~5×5 m · island hearth · high roof |
+| **E wing** *(row 2 right)* | **CRAFT-WING-1** ✓ LIVE — internal door @ hub E face |
+| **W wing** *(row 2 left)* | **STORAGE-WING-1** — socle ✓ · shell bonds hub W wythe · **opposite craft** |
+| **N wing** *(row 1 center)* | **Work wing ghost** ~5×6 m — telarium / bench overflow class |
+| **P** | **Substantial S portico** ~3 m · BC airlock · sole exterior entry |
+| **C** | **Corner pockets** NW · NE *(+ SW/SE @ portico cheeks)* — **not staked Y7** |
+
+**Storage wing glazing *(player d2090)*:** **One window @ W outer/end wall** *(away from hub · at wing far end)* · **hub shared cheek solid** · no extra apertures v1.
+
+**Corner infill *(player d2090 · defer)*:** **C** spaces can become **L-leg extensions** or **buttress alcoves** — ties hub wing corners without widening the 5×5 core · improves **shear** and **usable m²** when N wing (or storage) **returns** into NW/NE · **drain + frost cheek** same as wing grammar · stake @ **work-wing shell** or **hub bond-beam close** — not before.
+
+**Rule:** Hub stays **5×5** · wings **5×6** on faces · corner fill is **add-on footprint**, not hub expansion.
 
 ---
 

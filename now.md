@@ -2,21 +2,25 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2071** · Cal-Y7 D10 · ~31 Dec · Week 296 day 6 · **CHEM-LAB-WINDOW-N-1 LIVE ✓**
+**Day 2153** · Cal-Y7 D92 · ~23 Mar · Week 308 day 4 · **STORAGE-W window LIVE ✓ · W envelope ~100%**
 
 | Track | Status |
 |-------|--------|
-| **Fuel** | **Pile 5 ~15 kg · char lane ~24 kg · wood haul band** |
-| **WINDOW-UPGRADE** | **Chem north ✓ · culina strap = last major opening** |
-| **Campus** | **GREEN · BC window band largely closed · hub heat next** |
+| **Factory** | **×15 TR surplus · char ~18 kg AMBER · stackable ~29 AMBER** |
+| **STORAGE-WING-1** | **W envelope ~100% ✓ · door+window LIVE · **E hub defer**** |
+| **STORAGE-W-END-WINDOW-1** | **Strap+frame+glass LIVE ✓ d2153** |
+| **Culina** | **Glass ✓ · strap upgrade queued** |
+| **Farm** | **Green line live · scare-only** |
+| **Fuel** | **Char ~18.4 kg · pile 5 ~13 kg thin** |
+| **Campus** | **GREEN · culina strap · E hub when named** |
 
 ## Next
 
-**CAMPUS-HUB-M2-1** · **BC-1-DRAIN-SPRING-1** (~Feb) · **CULINA-STRAP-UPGRADE-1** optional
+**CULINA-STRAP-UPGRADE-1** · **WOOD-HAUL** · **STORAGE-WING-E-HUB-1**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **Feb 26 spring sow opens** · **Mar 16 sow close**
+- **Green line live** · **16 Mar sow close passed**
 
 ## Do not treat as live
 

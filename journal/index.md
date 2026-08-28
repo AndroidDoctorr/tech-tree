@@ -2048,6 +2048,88 @@
 | 2069 | [day-2069.md](days/year-006/week-296/day-2069.md) | **CHEM glass batch 5 · grid close 20/20 ✓** | **Cal-Y7 D8 · 29 Dec** |
 | 2070 | [day-2070.md](days/year-006/week-296/day-2070.md) | **CHEM-LAB-STRAP-FRAME-N-1 ✓ @ peg** | **Cal-Y7 D9 · 30 Dec** |
 | 2071 | [day-2071.md](days/year-006/week-296/day-2071.md) | **CHEM-N-GLASS-INSTALL ✓ · chem north LIVE** | **Cal-Y7 D10 · 31 Dec** |
+| 2072 | [day-2072.md](days/year-006/week-296/day-2072.md) | **CAMPUS-HUB-SURVEY ✓ · tie-lines · week close** | **Cal-Y7 D11 · 1 Jan** |
+| 2073 | [day-2073.md](days/year-006/week-297/day-2073.md) | **WEEK-297-OPEN · hub socle ✓ · stone haul** | **Cal-Y7 D12 · 2 Jan** |
+| 2074 | [day-2074.md](days/year-006/week-297/day-2074.md) | **STONE-HAUL ✓ big · ×11 FS · pile 4 restored** | **Cal-Y7 D13 · 3 Jan** |
+| 2075 | [day-2075.md](days/year-006/week-297/day-2075.md) | **STORAGE-WING-SOCLE ✓ · hub W tie stub** | **Cal-Y7 D14 · 4 Jan** |
+| 2076 | [day-2076.md](days/year-006/week-297/day-2076.md) | **STORAGE pad refresh ✓ · 5×6 canon** | **Cal-Y7 D15 · 5 Jan** |
+| 2077 | [day-2077.md](days/year-006/week-297/day-2077.md) | **HUB W wythe c1 ~45% · factory runway read** | **Cal-Y7 D16 · 6 Jan** |
+| 2078 | [day-2078.md](days/year-006/week-297/day-2078.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ ×40** | **Cal-Y7 D17 · 7 Jan** |
+| 2079 | [day-2079.md](days/year-006/week-297/day-2079.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · week close** | **Cal-Y7 D18 · 8 Jan** |
+| 2080 | [day-2080.md](days/year-006/week-298/day-2080.md) | **WEEK-298-OPEN · WOOD-HAUL ✓ · GB touch PASS** | **Cal-Y7 D19 · 9 Jan** |
+| 2081 | [day-2081.md](days/year-006/week-298/day-2081.md) | **GB-FIRE ✓ · GREEN-PRESS ✓ · stackable ~79** | **Cal-Y7 D20 · 10 Jan** |
+| 2082 | [day-2082.md](days/year-006/week-298/day-2082.md) | **HAUL-CLAY ✓ · pile 1 ~54 kg** | **Cal-Y7 D21 · 11 Jan** |
+| 2083 | [day-2083.md](days/year-006/week-298/day-2083.md) | **GREEN-PRESS ✓ · CHAR-RETORT ✓ · GB touch PASS** | **Cal-Y7 D22 · 12 Jan** |
+| 2084 | [day-2084.md](days/year-006/week-298/day-2084.md) | **GB-FIRE ✓ · hub W wythe c2 ~60%** | **Cal-Y7 D23 · 13 Jan** |
+| 2085 | [day-2085.md](days/year-006/week-298/day-2085.md) | **WOOD-HAUL ✓ · GB-2083 touch PASS** | **Cal-Y7 D24 · 14 Jan** |
+| 2086 | [day-2086.md](days/year-006/week-298/day-2086.md) | **CHAR-RETORT ✓ · WOOD-HAUL ✓ · week close** | **Cal-Y7 D25 · 15 Jan** |
+| 2087 | [day-2087.md](days/year-006/week-299/day-2087.md) | **GB-FIRE ✓ · hub W wythe c3 · storage bond LIVE** | **Cal-Y7 D26 · 16 Jan** |
+| 2088 | [day-2088.md](days/year-006/week-299/day-2088.md) | **GREEN-PRESS ✓ · KILN-A-LIME ✓ · ice intent filed** | **Cal-Y7 D27 · 17 Jan** |
+| 2089 | [day-2089.md](days/year-006/week-299/day-2089.md) | **hub W wythe c4 ✓ · W face ~92%** | **Cal-Y7 D28 · 18 Jan** |
+| 2090 | [day-2090.md](days/year-006/week-299/day-2090.md) | **GB-FIRE ✓ · campus layout intent filed** | **Cal-Y7 D29 · 19 Jan** |
+| 2091 | [day-2091.md](days/year-006/week-299/day-2091.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ · ice hold peak** | **Cal-Y7 D30 · 20 Jan** |
+| 2092 | [day-2092.md](days/year-006/week-299/day-2092.md) | **hub W bond beam ✓ · storage shell GO** | **Cal-Y7 D31 · 21 Jan** |
+| 2093 | [day-2093.md](days/year-006/week-299/day-2093.md) | **GREEN-PRESS ✓ · GB-FIRE ✓ · week close** | **Cal-Y7 D32 · 22 Jan** |
+| 2094 | [day-2094.md](days/year-006/week-300/day-2094.md) | **WEEK-300-OPEN · STORAGE-WING-SHELL c1 ✓** | **Cal-Y7 D33 · 23 Jan** |
+| 2095 | [day-2095.md](days/year-006/week-300/day-2095.md) | **HAUL-CLAY ✓ · GB-FIRE ✓ · stackable ~146** | **Cal-Y7 D34 · 24 Jan** |
+| 2096 | [day-2096.md](days/year-006/week-300/day-2096.md) | **GREEN-PRESS ✓ · KILN-A-LIME ✓ · mortar GO** | **Cal-Y7 D35 · 25 Jan** |
+| 2097 | [day-2097.md](days/year-006/week-300/day-2097.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · hub status read** | **Cal-Y7 D36 · 26 Jan** |
+| 2098 | [day-2098.md](days/year-006/week-300/day-2098.md) | **GB-FIRE ✓ · storage c2 ✓ · sand spent** | **Cal-Y7 D37 · 27 Jan** |
+| 2099 | [day-2099.md](days/year-006/week-300/day-2099.md) | **SAND-RESTOCK ✓ · mortar GO** | **Cal-Y7 D38 · 28 Jan** |
+| 2100 | [day-2100.md](days/year-006/week-300/day-2100.md) | **STORAGE-WING-SHELL c3 ✓ · week close** | **Cal-Y7 D39 · 29 Jan** |
+| 2101 | [day-2101.md](days/year-006/week-301/day-2101.md) | **STORAGE-WING-SHELL c4 ✓ · W window rough-open** | **Cal-Y7 D40 · 30 Jan** |
+| 2102 | [day-2102.md](days/year-006/week-301/day-2102.md) | **WOOD-HAUL ✓ · factory refill step 1** | **Cal-Y7 D41 · 31 Jan** |
+| 2103 | [day-2103.md](days/year-006/week-301/day-2103.md) | **CHAR-RETORT ✓ · factory refill step 2** | **Cal-Y7 D42 · 1 Feb** |
+| 2104 | [day-2104.md](days/year-006/week-301/day-2104.md) | **HAUL-CLAY ✓ · GREEN-PRESS ✓ · factory step 3** | **Cal-Y7 D43 · 2 Feb** |
+| 2105 | [day-2105.md](days/year-006/week-301/day-2105.md) | **STORAGE-WING bond beam ✓ · shell CLOSE** | **Cal-Y7 D44 · 3 Feb** |
+| 2106 | [day-2106.md](days/year-006/week-301/day-2106.md) | **GB-FIRE ✓ · TR-PRESS ×32 ✓ · roof band reseed** | **Cal-Y7 D45 · 4 Feb** |
+| 2107 | [day-2107.md](days/year-006/week-301/day-2107.md) | **ICE-MAX-HAUL-PREP ✓ · Week 301 close** | **Cal-Y7 D46 · 5 Feb** |
+| 2108 | [day-2108.md](days/year-006/week-302/day-2108.md) | **WEEK-302-OPEN · hub E c1 ✓ · craft tie LIVE** | **Cal-Y7 D47 · 6 Feb** |
+| 2109 | [day-2109.md](days/year-006/week-302/day-2109.md) | **ICE-MAX-HAUL-Y7-1 ✓ ~31.0 kg nett · vault cull** | **Cal-Y7 D48 · 7 Feb** |
+| 2110 | [day-2110.md](days/year-006/week-302/day-2110.md) | **ICE-MAX-HAUL-Y7-2 ✓ · band CLOSE · ~90.4 kg cellar** | **Cal-Y7 D49 · 8 Feb** |
+| 2111 | [day-2111.md](days/year-006/week-302/day-2111.md) | **ICE third haul NO-GO · hub E c2 ✓** | **Cal-Y7 D50 · 9 Feb** |
+| 2112 | [day-2112.md](days/year-006/week-302/day-2112.md) | **TR-FIRE ✓ 31/32 · HAUL-CLAY ✓ · ×31 fired** | **Cal-Y7 D51 · 10 Feb** |
+| 2113 | [day-2113.md](days/year-006/week-302/day-2113.md) | **TR-PRESS ×32 ✓ · single-fire batch queued** | **Cal-Y7 D52 · 11 Feb** |
+| 2114 | [day-2114.md](days/year-006/week-302/day-2114.md) | **hub E c3 ✓ · Week 302 close** | **Cal-Y7 D53 · 12 Feb** |
+| 2115 | [day-2115.md](days/year-006/week-303/day-2115.md) | **WEEK-303-OPEN · TR-FIRE ✓ · storage roof frame ~50%** | **Cal-Y7 D54 · 13 Feb** |
+| 2116 | [day-2116.md](days/year-006/week-303/day-2116.md) | **WOOD-HAUL full four-lap ✓ · purlins next hero** | **Cal-Y7 D55 · 14 Feb** |
+| 2117 | [day-2117.md](days/year-006/week-303/day-2117.md) | **STORAGE-WING purlin/batten ✓ · TILE-BED ready** | **Cal-Y7 D56 · 15 Feb** |
+| 2118 | [day-2118.md](days/year-006/week-303/day-2118.md) | **STORAGE-WING ×47 tile ✓ · drip PASS · roof CLOSE** | **Cal-Y7 D57 · 16 Feb** |
+| 2119 | [day-2119.md](days/year-006/week-303/day-2119.md) | **CAMPUS-DRAIN-AUDIT ✓ · BC-1 spring PASS** | **Cal-Y7 D58 · 17 Feb** |
+| 2120 | [day-2120.md](days/year-006/week-303/day-2120.md) | **PALISADE survey ✓ · W leg ~8 m · pile 5 thin** | **Cal-Y7 D59 · 18 Feb** |
+| 2121 | [day-2121.md](days/year-006/week-303/day-2121.md) | **WOOD-HAUL full four-lap ✓ · WEEK-303-CLOSE** | **Cal-Y7 D60 · 19 Feb** |
+| 2122 | [day-2122.md](days/year-006/week-304/day-2122.md) | **WEEK-304-OPEN · PALISADE-W-LEG-2 ✓ · sturdy ~11 m** | **Cal-Y7 D61 · 20 Feb** |
+| 2123 | [day-2123.md](days/year-006/week-304/day-2123.md) | **PALISADE-W-LEG-3 ✓ · sturdy ~11 m · SC-PL-04** | **Cal-Y7 D62 · 21 Feb** |
+| 2124 | [day-2124.md](days/year-006/week-304/day-2124.md) | **PALISADE-W-LINE-1 ✓ · 42 m W CLOSE · retrofit** | **Cal-Y7 D63 · 22 Feb** |
+| 2125 | [day-2125.md](days/year-006/week-304/day-2125.md) | **WOOD-HAUL full four-lap ✓ · S lip runway · pile ~47 kg** | **Cal-Y7 D64 · 23 Feb** |
+| 2126 | [day-2126.md](days/year-006/week-304/day-2126.md) | **SOW-PREP-Y7 ✓ · beds scratched · seed audit** | **Cal-Y7 D65 · 24 Feb** |
+| 2127 | [day-2127.md](days/year-006/week-304/day-2127.md) | **FROST-GATE 1/2 ✓ · PALISADE S lip ~10 m** | **Cal-Y7 D66 · 25 Feb** |
+| 2128 | [day-2128.md](days/year-006/week-304/day-2128.md) | **FROST-GATE CLOSE ✓ · S leg-2 ~10 m · sow GO** | **Cal-Y7 D67 · 26 Feb** |
+| 2129 | [day-2129.md](days/year-006/week-305/day-2129.md) | **WEEK-305-OPEN · SPRING-SOW-Y7 ✓ · culina herbs · beds live** | **Cal-Y7 D68 · 27 Feb** |
+| 2130 | [day-2130.md](days/year-006/week-305/day-2130.md) | **FAVA-SOW ✓ · HEMP-SOW ✓ · Bed A fill-in** | **Cal-Y7 D69 · 28 Feb** |
+| 2131 | [day-2131.md](days/year-006/week-305/day-2131.md) | **FLAX-PATCH ✓ · pen scrape · parsley scout ✓** | **Cal-Y7 D70 · 1 Mar** |
+| 2132 | [day-2132.md](days/year-006/week-305/day-2132.md) | **PARSLEY-SOW ✓ · FARM-CARE full scare** | **Cal-Y7 D71 · 2 Mar** |
+| 2133 | [day-2133.md](days/year-006/week-305/day-2133.md) | **PALISADE S leg-3 ✓ · S line 28 m CLOSE** | **Cal-Y7 D72 · 3 Mar** |
+| 2134 | [day-2134.md](days/year-006/week-305/day-2134.md) | **WOOD-HAUL full four-lap ✓ · N cheek runway** | **Cal-Y7 D73 · 4 Mar** |
+| 2135 | [day-2135.md](days/year-006/week-305/day-2135.md) | **PALISADE N TRIB cheek ✓ · FARM-CARE ✓ · WEEK-305-CLOSE** | **Cal-Y7 D74 · 5 Mar** |
+| 2136 | [day-2136.md](days/year-006/week-306/day-2136.md) | **WEEK-306-OPEN · WOOD-HAUL ✓ · storage floor+door slate** | **Cal-Y7 D75 · 6 Mar** |
+| **2137** | [day-2137.md](days/year-006/week-306/day-2137.md) | **STORAGE-WING-FLOOR-1 ✓ · gravel + ×16 plank · boot PASS** | **Cal-Y7 D76 · 7 Mar** |
+| 2138 | [day-2138.md](days/year-006/week-306/day-2138.md) | **IRON-NAIL-BATCH-1 ✓ · ×24 @ bench · char runway read** | **Cal-Y7 D77 · 8 Mar** |
+| 2139 | [day-2139.md](days/year-006/week-306/day-2139.md) | **CHAR-RETORT ✓ · finish slate · green line watch** | **Cal-Y7 D78 · 9 Mar** |
+| 2140 | [day-2140.md](days/year-006/week-306/day-2140.md) | **STORAGE-WING-DOOR wood ✓ · frame + leaf** | **Cal-Y7 D79 · 10 Mar** |
+| 2141 | [day-2141.md](days/year-006/week-306/day-2141.md) | **Hinges + handle ✓ · door LIVE** | **Cal-Y7 D80 · 11 Mar** |
+| 2142 | [day-2142.md](days/year-006/week-306/day-2142.md) | **W window strap ✓ · metal-first · glass defer** | **Cal-Y7 D81 · 12 Mar** |
+| 2143 | [day-2143.md](days/year-006/week-307/day-2143.md) | **WEEK-307-OPEN · WOOD-HAUL ✓ · window frame runway** | **Cal-Y7 D82 · 13 Mar** |
+| 2144 | [day-2144.md](days/year-006/week-307/day-2144.md) | **CHAR-RETORT ✓ · electric-kiln runway read** | **Cal-Y7 D83 · 14 Mar** |
+| 2145 | [day-2145.md](days/year-006/week-307/day-2145.md) | **STORAGE-W window frame ✓ · culina strap slate** | **Cal-Y7 D84 · 15 Mar** |
+| 2146 | [day-2146.md](days/year-006/week-307/day-2146.md) | **Glass grid audit · batch 1 (4/20) · monolith retcon** | **Cal-Y7 D85 · 16 Mar** |
+| 2147 | [day-2147.md](days/year-006/week-307/day-2147.md) | **STORAGE-W glass batch 2 (8/20) · campus window audit** | **Cal-Y7 D86 · 17 Mar** |
+| 2148 | [day-2148.md](days/year-006/week-307/day-2148.md) | **STORAGE-W glass batch 3 (12/20)** | **Cal-Y7 D87 · 18 Mar** |
+| 2149 | [day-2149.md](days/year-006/week-307/day-2149.md) | **Batch 4 (16/20) · WEEK-307-CLOSE · char RED** | **Cal-Y7 D88 · 19 Mar** |
+| 2150 | [day-2150.md](days/year-006/week-308/day-2150.md) | **WEEK-308-OPEN · WOOD-HAUL ✓ · retort blocked pre-haul** | **Cal-Y7 D89 · 20 Mar** |
+| 2151 | [day-2151.md](days/year-006/week-308/day-2151.md) | **CHAR-RETORT ✓ · lane ~29 kg · batch 5 GO** | **Cal-Y7 D90 · 21 Mar** |
+| 2152 | [day-2152.md](days/year-006/week-308/day-2152.md) | **STORAGE-W glass batch 5 · grid 20/20 poured** | **Cal-Y7 D91 · 22 Mar** |
+| 2153 | [day-2153.md](days/year-006/week-308/day-2153.md) | **STORAGE-W-GLASS-INSTALL ✓ · W envelope CLOSE** | **Cal-Y7 D92 · 23 Mar** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
