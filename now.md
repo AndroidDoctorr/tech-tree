@@ -2,30 +2,31 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2277** · Cal-Y7 D216 · ~25 Jul · Week 326 day 2 · **HOME · STORAGE-SPRINT · AMPHORA-8 ~12%**
+**Day 2294** · Cal-Y7 D233 · ~11 Aug · Week 328 day 5 · **HOME · lap-4 CLOSE**
 
 | Track | Status |
 |-------|--------|
-| **Storage sprint** | **AMPHORA-8 ~12% @ yard rack · pile 1 ~32 kg · P-μ/jars queued peripheral** |
-| **Trail column** | **Unloaded @ CART-YARD · caps ×5 @ powder safe** |
-| **Textile** | **HUB-RUG-1 + ATELIER-RUG-1 ✓ · hub N rug defer until N wing work** |
-| **Fiber** | **P-RETT-16 ~d5/14 @ ditch W · pull ~d2282–2286** |
-| **Farm** | **Fig/grape Aug 1 ~6 d · flag on FARM-CARE** |
-| **Ext limewash** | **Scoped ~5–7 hero days · HAUL-LIME + burn first · Domus partial Y4** |
+| **Trail / TQ** | **Lap-4 ✓ CLOSE · wagon @ yard · caps ×2 · trail food ~2.2 kg · REFILL-16 skeleton @ peg** |
+| **Bridge work** | **L4 blast ✓ · Kirikhan MAINT ✓ · TRIB-02 pozz cure ~5 d hands off** |
+| **Grape Y7** | **~3.6 L ferment · ~day 8–9 · hands off** |
+| **Farm** | **Fig leather tray ~day 6 · roll band GO · P-RETT-16 break defer** |
+| **Ext limewash** | **Fabrica defer** |
 
 ## Next
 
-**AMPHORA-8 coils · P-μ peripheral · lime haul before ext wash · player names**
+**HOME band · fig leather roll · grape ferment glance · player names**
 
 ## Agent reminders (player request d2176)
 
 - **Hub N rug:** **Defer until hub N wing work**
-- **Textile storage (d2265):** **Fiber/hemp/dye/paint → storage wing + Atelier**
+
+## Agent reminders (player request d2289)
+
+- **Char reserve:** **Store C vault (~37 kg) — one-off fires and small draws OK without retort; build **char lane** for factory sprints and forge days**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **9 Jul–18 Aug** — **Woad *(vat tired-light)* **
-- **1 Aug–15 Sep** — **Fig · grape** *(~6 d · flag on FARM-CARE)*
+- **1 Aug–15 Sep** — **Fig · grape** *(OPEN)*
 
 ## Do not treat as live
 

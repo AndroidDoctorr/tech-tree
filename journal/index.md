@@ -2254,6 +2254,23 @@
 | 2275 | [day-2275.md](days/year-007/week-325/day-2275.md) | **HUB-RUG-1 ✓ @ hub S · WEEK-325-CLOSE** | **Cal-Y7 D214 · 23 Jul** |
 | 2276 | [day-2276.md](days/year-007/week-326/day-2276.md) | **WEEK-326-OPEN · ATELIER-RUG-1 ✓ @ Atelier S · natural** | **Cal-Y7 D215 · 24 Jul** |
 | 2277 | [day-2277.md](days/year-007/week-326/day-2277.md) | **HAUL-CLAY ✓ · AMPHORA-8-START ✓ · STORAGE-SPRINT-OPEN** | **Cal-Y7 D216 · 25 Jul** |
+| 2278 | [day-2278.md](days/year-007/week-326/day-2278.md) | **AMPHORA-8-BELLY ✓ · ~35%** | **Cal-Y7 D217 · 26 Jul** |
+| 2279 | [day-2279.md](days/year-007/week-326/day-2279.md) | **AMPHORA-8-SHOULDER-NECK ✓ · ~62%** | **Cal-Y7 D218 · 27 Jul** |
+| 2280 | [day-2280.md](days/year-007/week-326/day-2280.md) | **AMPHORA-8-GREEN-COMPLETE ✓ · ~95% · fire defer** | **Cal-Y7 D219 · 28 Jul** |
+| 2281 | [day-2281.md](days/year-007/week-326/day-2281.md) | **P-μ-BATCH-1 ✓ · P-μ-11 SALT + P-μ-12 PARCHED** | **Cal-Y7 D220 · 29 Jul** |
+| 2282 | [day-2282.md](days/year-007/week-326/day-2282.md) | **HAUL-LIME ✓ · KILN-A-LIME ✓ · WEEK-326-CLOSE · ext wash GO** | **Cal-Y7 D221 · 30 Jul** |
+| 2283 | [day-2283.md](days/year-007/week-327/day-2283.md) | **WEEK-327-OPEN · EXT-LIMEWASH-ATELIER-1 ✓** | **Cal-Y7 D222 · 31 Jul** |
+| 2284 | [day-2284.md](days/year-007/week-327/day-2284.md) | **EXT-LIMEWASH-DOMUS-EAST ✓ · P-RETT-16 pull ✓ · fig OPEN** | **Cal-Y7 D223 · 1 Aug** |
+| 2285 | [day-2285.md](days/year-007/week-327/day-2285.md) | **EXT-LIMEWASH-DOMUS-NORTH ✓ · ~70% domus ext** | **Cal-Y7 D224 · 2 Aug** |
+| 2286 | [day-2286.md](days/year-007/week-327/day-2286.md) | **CHAR-RETORT ✓ · POT-FIRE-SPRINT ✓ · COLLECT-BAG ×2 ✓** | **Cal-Y7 D225 · 3 Aug** |
+| 2287 | [day-2287.md](days/year-007/week-327/day-2287.md) | **WOOD-CRATE-3 ✓ · overflow slot 2** | **Cal-Y7 D226 · 4 Aug** |
+| 2288 | [day-2288.md](days/year-007/week-327/day-2288.md) | **FIG-GRAPE-HARVEST-Y7-1 ✓ · partial grape strip** | **Cal-Y7 D227 · 5 Aug** |
+| 2289 | [day-2289.md](days/year-007/week-327/day-2289.md) | **EXT-LIMEWASH-DOMUS-FINISH ✓ · WEEK-327-CLOSE** | **Cal-Y7 D228 · 6 Aug** |
+| 2290 | [day-2290.md](days/year-007/week-328/day-2290.md) | **WEEK-328-OPEN · GRAPE-FERMENT-Y7-1 ✓ · ×3 vessels** | **Cal-Y7 D229 · 7 Aug** |
+| 2291 | [day-2291.md](days/year-007/week-328/day-2291.md) | **KILN-A-LIME ✓ · TRAIL-TQ-PACK-PREP ✓ · lap-4 staged** | **Cal-Y7 D230 · 8 Aug** |
+| 2292 | [day-2292.md](days/year-007/week-328/day-2292.md) | **Wheels-up ✓ · TRIB-02 pozz ✓ · camp @ KTRUNK · Belen vector** | **Cal-Y7 D231 · 9 Aug** |
+| 2293 | [day-2293.md](days/year-007/week-328/day-2293.md) | **BLAST-PINCH-3 ✓ · KIRIKHAN-MAINT ✓ · camp @ Belen** | **Cal-Y7 D232 · 10 Aug** |
+| 2294 | [day-2294.md](days/year-007/week-328/day-2294.md) | **TRAIL-TQ-RETURN ✓ · lap-4 CLOSE @ HOME** | **Cal-Y7 D233 · 11 Aug** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
