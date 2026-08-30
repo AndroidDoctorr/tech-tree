@@ -8,13 +8,17 @@ C-0 west cubiculum · PROPER-BED-1 · SET-A (sheet · slip · blanket A) · nigh
 
 ## Domus H-V3
 
-Horreum A/B/C live · cool cellar + ice vault · **BC-1-WOOD-FLOOR ✓ d1939 @ A/B/C wear paths** · culina south (sink · hot/cold · hearth hook · vent · glass grid ×20 · curtain · rug · awning) · west/east cubiculum curtains + rugs + awnings · **DOMUS-WINDOW-W-1 strap+glass LIVE ✓ d1936** · **DOMUS-WINDOW-E-1 strap+glass LIVE ✓ d1953** · **vestiarium door seal ✓ d1939** · **porticus rigor ✓ d1922+d1941 · treads LIVE d1944** · porticus + thermae curtains/rugs · frigidarium + tepidarium east awnings · atrium flag ring · east bath + flush toilet + ~35 L reservoir · colonnade ring · exterior whitewash · winter tree in P-PLANT-1 · **OIL-LANTERN-1 iron frame + brass fittings ✓ d1809 @ south culina · DOMUS-LANTERN-HANG-1**
+Horreum A/B/C live · cool cellar + ice vault · **BC-1-WOOD-FLOOR ✓ d1939 @ A/B/C wear paths** · culina south (sink · hot/cold · hearth hook · vent · glass grid ×20 · curtain · rug · awning) · west/east cubiculum curtains + rugs + awnings · **DOMUS-WINDOW-W-1 strap+glass LIVE ✓ d1936** · **DOMUS-WINDOW-E-1 strap+glass LIVE ✓ d1953** · **CULINA-WINDOW-S-1 strap+glass LIVE ✓ d2161** *(×20 grid · retrofit)* · **vestiarium door seal ✓ d1939** · **porticus rigor ✓ d1922+d1941 · treads LIVE d1944** · porticus + thermae curtains/rugs · frigidarium + tepidarium east awnings · atrium flag ring · east bath + flush toilet + ~35 L reservoir · colonnade ring · exterior whitewash · winter tree in P-PLANT-1 · **OIL-LANTERN-1 iron frame + brass fittings ✓ d1809 @ south culina · DOMUS-LANTERN-HANG-1**
 
-Lamp hooks (parking, portable OL swap): Atelier S + portico · Fabrica bench · STORE-4 jamb · WW-YARD millhouse N
+Lamp hooks (parking, portable OL swap): Atelier S + portico · Fabrica bench · STORE-4 jamb · WW-YARD millhouse N · **storage wing interior N bond beam ✓ d2167**
 
 ## Atelier / craft wing
 
 Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-STAGE ✓ d1803** — **LM-2 @ NE corner · EASEL-1 @ west cheek · stool · rug · ART-KIT-1 + palette · paint cakes · brushes · canvas @ SE corner stack** · **ATELIER-CURTAIN-W+S woad blue LIVE ✓ d1943** · protos ×2 @ M2 spare · TEMP-PORTICO · awnings S (reed) · W + portico (blue/white linen woad) · lamp hooks · drain E swale PASS d1760 · **CRAFT-CABINET-1 + brass fittings defer**
+
+## Storage wing
+
+**STORAGE-WING-1** · 5×6 m · W door+window LIVE · interior limewash ✓ · oak floor treat ✓ · **STORAGE-WING-RUG-1 ~94×64 cm natural @ W entry ✓ d2166** · **STORAGE-LANTERN-HOOK-1 ✓ d2167 · portable OL swap** · **E hub tie ✓ d2168** · **STORAGE-W-AWNING-1 ✓ d2176 · blue/white woad stripe @ W window**
 
 ## Lanterns
 
@@ -42,7 +46,7 @@ Aqueduct from **TRIB-1 gorge head** · header box ~120 L @ WW-YARD · SHOWER-3 @
 
 ## Apiary · barn
 
-**HIVE-1 LIVE @ AG-AP-01** · **HIVE-2 LIVE @ AG-AP-02 / SKEP-2 ✓ d1796** · APIARY-EXPAND-1 closed d1796 · BEESWAX-1 ~92 g · APIARY-PAD-1 + PAD-2 ✓ · SMOKER-1 + VEIL-1 + BEE-GO-BAG-1 ✓ · barn hinges/latch iron · thresh zone + sheaf rack
+**HIVE-1 LIVE @ AG-AP-01 under APIARY-WOOD-SHELTER-1** · **HIVE-2 LIVE @ AG-AP-02 under shelter ✓ d2157** · **APIARY-WOOD-SHELTER-1 ✓ LIVE** · **APIARY-PAD-3 ghost @ N bay** · beeswax **~216 g** · APIARY-PAD-1 + PAD-2 ✓ · SMOKER-1 + VEIL-1 + BEE-GO-BAG-1 ✓ @ shelter peg · barn hinges/latch iron · thresh zone + sheaf rack
 
 ## Clothes vault (not worn)
 

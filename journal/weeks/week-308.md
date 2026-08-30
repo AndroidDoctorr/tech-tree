@@ -1,10 +1,10 @@
 # Week 308 summary
 
-**Days 2150–2156 · ~10,000 BC · Cal-Y7 · char + glass close band**  
+**Days 2150–2156 · ~10,000 BC · Cal-Y7 · storage close · apiary upgrade**  
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
-**Theme:** **Wood restock · char retort · storage glass 20/20 + install**
+**Theme:** **Glass install · wax · wooden apiary shelter**
 
-**Status:** OPEN @ Day 2153 · Cal-Y7 D92 · **storage W window LIVE · W envelope ~100%**
+**Status:** CLOSED @ Day 2156 · Cal-Y7 D95 · **storage W LIVE · apiary shelter ~75%**
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Track | Target |
 |-------|--------|
-| **Fuel** | **Char retort · lane rebuild for batch 5** |
-| **Storage wing** | **Glass batch 5 · install @ strap · W envelope close** |
-| **Farm** | **Green line live · scare-only** |
+| **Storage wing** | **Glass batch 5 · install · W envelope close** |
+| **Fuel** | **Wood · char for glass band** |
+| **Apiary** | **Wax harvest · wooden shelter start** |
 
 ---
 
@@ -24,6 +24,9 @@
 | **2151** | **CHAR-RETORT ✓ · lane ~29 kg · batch 5 GO** |
 | **2152** | **STORAGE-W glass batch 5 (20/20 poured)** |
 | **2153** | **STORAGE-W-GLASS-INSTALL ✓ · W envelope CLOSE** |
+| **2154** | **WOOD-HAUL ✓ · pile 5 ~41 kg** |
+| **2155** | **WAX-HARVEST ✓ · apiary shelter ghost ~15%** |
+| **2156** | **Shelter frame+roof ~75% · WEEK-308-CLOSE** |
 
 ---
 
@@ -31,4 +34,4 @@ See [now.md](../../now.md). Do not duplicate runway numbers here.
 
 ---
 
-*Week 308 open @ Day 2150.*
+*Week 308 closed @ Day 2156 · Week 309 opens @ Day 2157.*

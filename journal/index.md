@@ -2130,6 +2130,101 @@
 | 2151 | [day-2151.md](days/year-006/week-308/day-2151.md) | **CHAR-RETORT ✓ · lane ~29 kg · batch 5 GO** | **Cal-Y7 D90 · 21 Mar** |
 | 2152 | [day-2152.md](days/year-006/week-308/day-2152.md) | **STORAGE-W glass batch 5 · grid 20/20 poured** | **Cal-Y7 D91 · 22 Mar** |
 | 2153 | [day-2153.md](days/year-006/week-308/day-2153.md) | **STORAGE-W-GLASS-INSTALL ✓ · W envelope CLOSE** | **Cal-Y7 D92 · 23 Mar** |
+| 2154 | [day-2154.md](days/year-006/week-308/day-2154.md) | **WOOD-HAUL ✓ · pile 5 ~41 kg** | **Cal-Y7 D93 · 24 Mar** |
+| 2155 | [day-2155.md](days/year-006/week-308/day-2155.md) | **WAX-HARVEST ✓ · apiary shelter ghost ~15%** | **Cal-Y7 D94 · 25 Mar** |
+| 2156 | [day-2156.md](days/year-006/week-308/day-2156.md) | **Shelter frame+roof ~75% · WEEK-308-CLOSE** | **Cal-Y7 D95 · 26 Mar** |
+| 2157 | [day-2157.md](days/year-006/week-309/day-2157.md) | **WEEK-309-OPEN · APIARY-WOOD-SHELTER-1 ✓ LIVE** | **Cal-Y7 D96 · 27 Mar** |
+| 2158 | [day-2158.md](days/year-006/week-309/day-2158.md) | **HERB-SEED-SAVE ✓ · CHAR-RETORT ✓ · lane ~41 kg** | **Cal-Y7 D97 · 28 Mar** |
+| 2159 | [day-2159.md](days/year-006/week-309/day-2159.md) | **WOOD-HAUL ✓ · culina strap GO** | **Cal-Y7 D98 · 29 Mar** |
+| 2160 | [day-2160.md](days/year-006/week-309/day-2160.md) | **CHAR-RETORT ✓ · lane ~63 kg full** | **Cal-Y7 D99 · 30 Mar** |
+| 2161 | [day-2161.md](days/year-006/week-309/day-2161.md) | **CULINA-STRAP ✓ · BC window queue closed** | **Cal-Y7 D100 · 31 Mar** |
+| 2162 | [day-2162.md](days/year-006/week-309/day-2162.md) | **WOOD-HAUL ✓ · quartz haul band opens** | **Cal-Y7 D101 · 1 Apr** |
+| 2163 | [day-2163.md](days/year-006/week-309/day-2163.md) | **STORAGE limewash ✓ · WEEK-309-CLOSE · quartz read** | **Cal-Y7 D102 · 2 Apr** |
+| 2164 | [day-2164.md](days/year-006/week-310/day-2164.md) | **SWARM-SCOUT ✓ · no cluster · WEEK-310-OPEN** | **Cal-Y7 D103 · 3 Apr** |
+| 2165 | [day-2165.md](days/year-006/week-310/day-2165.md) | **STORAGE floor treat ✓ · finish 2/4** | **Cal-Y7 D104 · 4 Apr** |
+| 2166 | [day-2166.md](days/year-006/week-310/day-2166.md) | **STORAGE-WING-RUG ✓ · finish 3/4** | **Cal-Y7 D105 · 5 Apr** |
+| 2167 | [day-2167.md](days/year-006/week-310/day-2167.md) | **STORAGE-WING-LAMP-HANG ✓ · awning defer** | **Cal-Y7 D106 · 6 Apr** |
+| 2168 | [day-2168.md](days/year-006/week-310/day-2168.md) | **CAMPUS-HUB-E-WYTHE-C4 ✓ · storage E tie ✓** | **Cal-Y7 D107 · 7 Apr** |
+| 2169 | [day-2169.md](days/year-006/week-310/day-2169.md) | **HAUL-CLAY ✓ · SAND-RESTOCK ✓ · lanes GREEN** | **Cal-Y7 D108 · 8 Apr** |
+| 2170 | [day-2170.md](days/year-006/week-310/day-2170.md) | **GREEN-PRESS ✓ · WEEK-310-CLOSE · fire ~d2172** | **Cal-Y7 D109 · 9 Apr** |
+| 2171 | [day-2171.md](days/year-006/week-311/day-2171.md) | **GREEN-PRESS-2171 ✓ · ×80 green pipeline** | **Cal-Y7 D110 · 10 Apr** |
+| 2172 | [day-2172.md](days/year-006/week-311/day-2172.md) | **GREEN-PRESS-2172 ✓ · ×120 green · fire-ready** | **Cal-Y7 D111 · 11 Apr** |
+| 2173 | [day-2173.md](days/year-006/week-311/day-2173.md) | **GB-FIRE ✓ · awning frame · stackable ~55** | **Cal-Y7 D112 · 12 Apr** |
+| 2174 | [day-2174.md](days/year-006/week-311/day-2174.md) | **GB-FIRE ✓ · awning frame hold · ~92 stackable** | **Cal-Y7 D113 · 13 Apr** |
+| 2175 | [day-2175.md](days/year-006/week-311/day-2175.md) | **GB-FIRE last ✓ · awning woad stripe · mount defer** | **Cal-Y7 D114 · 14 Apr** |
+| 2176 | [day-2176.md](days/year-006/week-311/day-2176.md) | **STORAGE awning mount ✓ · HUB-E-C5 ✓ · thread slate** | **Cal-Y7 D115 · 15 Apr** |
+| 2177 | [day-2177.md](days/year-006/week-311/day-2177.md) | **HAUL-LIME ✓ · CHAR-RETORT ✓ · KILN-A-LIME ✓ · WEEK-311-CLOSE** | **Cal-Y7 D116 · 16 Apr** |
+| 2178 | [day-2178.md](days/year-006/week-312/day-2178.md) | **WEEK-312-OPEN · HUB-E-C6 ✓** | **Cal-Y7 D117 · 17 Apr** |
+| 2179 | [day-2179.md](days/year-006/week-312/day-2179.md) | **HUB-E-BOND-BEAM ✓ · W+E closed @ beam** | **Cal-Y7 D118 · 18 Apr** |
+| 2180 | [day-2180.md](days/year-006/week-312/day-2180.md) | **HUB-N-WYTHE-C1 ✓ · N face opens** | **Cal-Y7 D119 · 19 Apr** |
+| 2181 | [day-2181.md](days/year-006/week-312/day-2181.md) | **HUB-S-WYTHE-C1 ✓ · N+S parallel · intent filed** | **Cal-Y7 D120 · 20 Apr** |
+| 2182 | [day-2182.md](days/year-006/week-312/day-2182.md) | **HUB-N/S-WYTHE-C2 ✓ · parallel rise** | **Cal-Y7 D121 · 21 Apr** |
+| 2183 | [day-2183.md](days/year-006/week-312/day-2183.md) | **HUB-N/S-WYTHE-C3 ✓ · stackable thin · factory gate** | **Cal-Y7 D122 · 22 Apr** |
+| 2184 | [day-2184.md](days/year-006/week-312/day-2184.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · WEEK-312-CLOSE** | **Cal-Y7 D123 · 23 Apr** |
+| 2185 | [day-2185.md](days/year-006/week-313/day-2185.md) | **WEEK-313-OPEN · HAUL-LIME ✓ · KILN-A-LIME ✓** | **Cal-Y7 D124 · 24 Apr** |
+| 2186 | [day-2186.md](days/year-006/week-313/day-2186.md) | **HAUL-CLAY ✓ · SAND-RESTOCK ✓ · press GO** | **Cal-Y7 D125 · 25 Apr** |
+| 2187 | [day-2187.md](days/year-006/week-313/day-2187.md) | **GREEN-PRESS ×40 ✓ · touch ~d2189** | **Cal-Y7 D126 · 26 Apr** |
+| 2188 | [day-2188.md](days/year-006/week-313/day-2188.md) | **GREEN-PRESS ×2 ✓ · ×80 green pipeline** | **Cal-Y7 D127 · 27 Apr** |
+| 2189 | [day-2189.md](days/year-006/week-313/day-2189.md) | **GB-FIRE ✓ · press ×3 ✓ · stackable ~64** | **Cal-Y7 D128 · 28 Apr** |
+| 2190 | [day-2190.md](days/year-006/week-313/day-2190.md) | **GB-FIRE ✓ · HUB-N/S-C4 ✓ · stackable ~79** | **Cal-Y7 D129 · 29 Apr** |
+| 2191 | [day-2191.md](days/year-007/week-313/day-2191.md) | **GB-FIRE ✓ · HUB-N/S-C5 ✓ · ×120 close · WEEK-313-CLOSE** | **Cal-Y7 D130 · 30 Apr** |
+| 2192 | [day-2192.md](days/year-007/week-314/day-2192.md) | **WEEK-314-OPEN · HUB-N/S-C6 ✓ · bond beam next** | **Cal-Y7 D131 · 1 May** |
+| 2193 | [day-2193.md](days/year-007/week-314/day-2193.md) | **HUB-N/S-BOND-BEAM ✓ · lintels LIVE · no green** | **Cal-Y7 D132 · 2 May** |
+| 2194 | [day-2194.md](days/year-007/week-314/day-2194.md) | **S + N portico socles ✓ · stone haul** | **Cal-Y7 D133 · 3 May** |
+| 2195 | [day-2195.md](days/year-007/week-314/day-2195.md) | **S-PORTICO-CHEEK-C1 ✓ · factory gate** | **Cal-Y7 D134 · 4 May** |
+| 2196 | [day-2196.md](days/year-007/week-314/day-2196.md) | **TEMP-PORTICO-N-FRAME ✓ · ~60% @ N door** | **Cal-Y7 D135 · 5 May** |
+| 2197 | [day-2197.md](days/year-007/week-314/day-2197.md) | **WOOD-HAUL ✓ · hub stage mat estimate** | **Cal-Y7 D136 · 6 May** |
+| 2198 | [day-2198.md](days/year-007/week-314/day-2198.md) | **HAUL-CLAY ✓ · CHAR-RETORT ✓ · GREEN-PRESS ✓ · WEEK-314-CLOSE** | **Cal-Y7 D137 · 7 May** |
+| 2199 | [day-2199.md](days/year-007/week-315/day-2199.md) | **WEEK-315-OPEN · HAUL-CLAY lap 2 ✓ · GREEN-PRESS ×40 ✓** | **Cal-Y7 D138 · 8 May** |
+| 2200 | [day-2200.md](days/year-007/week-315/day-2200.md) | **GREEN-PRESS ×40 ✓ · TR-PRESS ×32 ✓ · sprint 1 mold close** | **Cal-Y7 D139 · 9 May** |
+| 2201 | [day-2201.md](days/year-007/week-315/day-2201.md) | **GB-FIRE ✓ 37/40 · HAUL-LIME + burn ✓ · mortar GO** | **Cal-Y7 D140 · 10 May** |
+| 2202 | [day-2202.md](days/year-007/week-315/day-2202.md) | **GB-FIRE ✓ 37/40 · HAUL-CLAY ✓ · TR-PRESS ×32 ✓** | **Cal-Y7 D141 · 11 May** |
+| 2203 | [day-2203.md](days/year-007/week-315/day-2203.md) | **GB-FIRE ✓ · TR-FIRE ✓ · sprint 1 ×120 close · stackable ~133** | **Cal-Y7 D142 · 12 May** |
+| 2204 | [day-2204.md](days/year-007/week-315/day-2204.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · TR-2202 touch PASS** | **Cal-Y7 D143 · 13 May** |
+| 2205 | [day-2205.md](days/year-007/week-315/day-2205.md) | **TR-FIRE ✓ · S portico c2 ✓ · WEEK-315-CLOSE** | **Cal-Y7 D144 · 14 May** |
+| 2206 | [day-2206.md](days/year-007/week-316/day-2206.md) | **WEEK-316-OPEN · HAUL-CLAY ✓ · FT-PRESS ×32 ✓ · portico design fork** | **Cal-Y7 D145 · 15 May** |
+| 2207 | [day-2207.md](days/year-007/week-316/day-2207.md) | **FT-PRESS ×64 ✓ · GREEN-PRESS ×40 ✓ · half-wall LOCKED · sprint 2** | **Cal-Y7 D146 · 16 May** |
+| 2208 | [day-2208.md](days/year-007/week-316/day-2208.md) | **FT-FIRE ✓ 31/32 · WOOD-HAUL ✓ · dual fire queued ~d2209** | **Cal-Y7 D147 · 17 May** |
+| 2209 | [day-2209.md](days/year-007/week-316/day-2209.md) | **GB-FIRE ✓ · HAUL-CLAY ✓ · FT-PRESS ×16 ✓ · FT fire defer char** | **Cal-Y7 D148 · 18 May** |
+| 2210 | [day-2210.md](days/year-007/week-316/day-2210.md) | **CHAR-RETORT ✓ · FT-FIRE 62/64 ✓ · GREEN-PRESS ×40 ✓** | **Cal-Y7 D149 · 19 May** |
+| 2211 | [day-2211.md](days/year-007/week-316/day-2211.md) | **FT-FIRE ✓ · GREEN-PRESS ×40 ✓ · hub floor close · campus pivot** | **Cal-Y7 D150 · 20 May** |
+| 2212 | [day-2212.md](days/year-007/week-316/day-2212.md) | **GB-FIRE ✓ · S portico knee cap ✓ · WEEK-316-CLOSE** | **Cal-Y7 D151 · 21 May** |
+| 2213 | [day-2213.md](days/year-007/week-317/day-2213.md) | **WEEK-317-OPEN · WOOD-HAUL ✓ · major mats close · posts GO** | **Cal-Y7 D152 · 22 May** |
+| 2214 | [day-2214.md](days/year-007/week-317/day-2214.md) | **S-PORTICO-POSTS ✓ · tie beams ✓ · frame ~40%** | **Cal-Y7 D153 · 23 May** |
+| 2215 | [day-2215.md](days/year-007/week-317/day-2215.md) | **S portico roof ✓ · drip PASS · June prep slate** | **Cal-Y7 D154 · 24 May** |
+| 2216 | [day-2216.md](days/year-007/week-317/day-2216.md) | **GB-FIRE ✓ · island hearth slab ~45%** | **Cal-Y7 D155 · 25 May** |
+| 2217 | [day-2217.md](days/year-007/week-317/day-2217.md) | **Flue ~70% · island posts ✓ · copper slate** | **Cal-Y7 D156 · 26 May** |
+| 2218 | [day-2218.md](days/year-007/week-317/day-2218.md) | **WOOD-HAUL ✓ · hood timber GO** | **Cal-Y7 D157 · 27 May** |
+| 2219 | [day-2219.md](days/year-007/week-317/day-2219.md) | **Flue close ✓ · island hood ✓ · stage on track** | **Cal-Y7 D158 · 28 May** |
+| 2220 | [day-2220.md](days/year-007/week-318/day-2220.md) | **WEEK-318-OPEN · smoke test ✓ · roof frame ~50%** | **Cal-Y7 D159 · 29 May** |
+| 2221 | [day-2221.md](days/year-007/week-318/day-2221.md) | **Roof shell ✓ · flue stack ✓ · stage ~78%** | **Cal-Y7 D160 · 30 May** |
+| 2222 | [day-2222.md](days/year-007/week-318/day-2222.md) | **WOOD-HAUL ✓ · tile lay prep** | **Cal-Y7 D161 · 31 May** |
+| 2223 | [day-2223.md](days/year-007/week-318/day-2223.md) | **Hub TR roof ✓ · drip PASS · stage ~88%** | **Cal-Y7 D162 · 1 Jun** |
+| 2224 | [day-2224.md](days/year-007/week-318/day-2224.md) | **FT floor ✓ · nail/vent slate · stage ~95%** | **Cal-Y7 D163 · 2 Jun** |
+| 2225 | [day-2225.md](days/year-007/week-318/day-2225.md) | **Hub ridge vent ✓ · tower top air** | **Cal-Y7 D164 · 3 Jun** |
+| 2226 | [day-2226.md](days/year-007/week-318/day-2226.md) | **S portico platform ✓ · stage ~98%** | **Cal-Y7 D165 · 4 Jun** |
+| 2227 | [day-2227.md](days/year-007/week-319/day-2227.md) | **WEEK-319-OPEN · CHAR-RETORT ✓ · WOOD-HAUL ✓** | **Cal-Y7 D166 · 5 Jun** |
+| 2228 | [day-2228.md](days/year-007/week-319/day-2228.md) | **IRON-NAIL-BATCH-2 ✓ · ×36 · door runway GREEN** | **Cal-Y7 D167 · 6 Jun** |
+| 2229 | [day-2229.md](days/year-007/week-319/day-2229.md) | **BRASS-FORGE-HUB-N-1 ✓ · N door hardware staged** | **Cal-Y7 D168 · 7 Jun** |
+| 2230 | [day-2230.md](days/year-007/week-319/day-2230.md) | **BRASS-FORGE-HUB-S-1 ✓ · S door hardware staged** | **Cal-Y7 D169 · 8 Jun** |
+| 2231 | [day-2231.md](days/year-007/week-319/day-2231.md) | **HUB-DOOR-MOUNT-1 ✓ · N+S doors LIVE · strip ×2** | **Cal-Y7 D170 · 9 Jun** |
+| 2232 | [day-2232.md](days/year-007/week-319/day-2232.md) | **HAUL-LIME ✓ · pile 7 restock · burn queued** | **Cal-Y7 D171 · 10 Jun** |
+| 2233 | [day-2233.md](days/year-007/week-319/day-2233.md) | **KILN-A-LIME ✓ · WEEK-319-CLOSE** | **Cal-Y7 D172 · 11 Jun** |
+| 2234 | [day-2234.md](days/year-007/week-320/day-2234.md) | **WEEK-320-OPEN · hub limewash ✓ · stage 3 close** | **Cal-Y7 D173 · 12 Jun** |
+| 2235 | [day-2235.md](days/year-007/week-320/day-2235.md) | **TRAIL-TQ-PACK-LOAD ✓ · pozz kit · caps ×4** | **Cal-Y7 D174 · 13 Jun** |
+| 2236 | [day-2236.md](days/year-007/week-320/day-2236.md) | **KARASU-TRIB-01-SHORE-1 ✓ · camp @ SC-TRIB-01** | **Cal-Y7 D175 · 14 Jun** |
+| 2237 | [day-2237.md](days/year-007/week-320/day-2237.md) | **BLAST-PINCH-1 ✓ · TRIB-02 listen PASS** | **Cal-Y7 D176 · 15 Jun** |
+| 2238 | [day-2238.md](days/year-007/week-320/day-2238.md) | **ASI listen ✓ · lap CLOSE · HOME** | **Cal-Y7 D177 · 16 Jun** |
+| 2239 | [day-2239.md](days/year-007/week-320/day-2239.md) | **FARM-CARE ✓ · trail pack prep · haul defer** | **Cal-Y7 D178 · 17 Jun** |
+| 2240 | [day-2240.md](days/year-007/week-320/day-2240.md) | **TRAIL-TQ-LAP-2 OPEN · pack/load ✓ · camp @ ~16 km** | **Cal-Y7 D179 · 18 Jun** |
+| 2241 | [day-2241.md](days/year-007/week-321/day-2241.md) | **BLAST-PINCH-2 ✓ · ASI listen PASS · camp @ ~21 km** | **Cal-Y7 D180 · 19 Jun** |
+| 2242 | [day-2242.md](days/year-007/week-321/day-2242.md) | **AFRIN split listen ✓ · camp @ ~26 km** | **Cal-Y7 D181 · 20 Jun** |
+| 2243 | [day-2243.md](days/year-007/week-321/day-2243.md) | **AFRIN reinforce touch ✓ · kit-2 hold · KTRUNK defer** | **Cal-Y7 D182 · 21 Jun** |
+| 2244 | [day-2244.md](days/year-007/week-321/day-2244.md) | **Homeward leg 1 ✓ · ASI + TRIB-02 listen · food RED** | **Cal-Y7 D183 · 22 Jun** |
+| 2245 | [day-2245.md](days/year-007/week-321/day-2245.md) | **KARASU-SHORE-2 ✓ · homeward wood collect ✓ · lap-2 CLOSE · HOME** | **Cal-Y7 D184 · 23 Jun** |
+| 2246 | [day-2246.md](days/year-007/week-321/day-2246.md) | **CHAR-RETORT ✓ · HAUL-LIME ✓ · lime > gravel gate** | **Cal-Y7 D185 · 24 Jun** |
+| 2247 | [day-2247.md](days/year-007/week-321/day-2247.md) | **SAND-HAUL ✓ · kit-3 runway GO · WEEK-321-CLOSE** | **Cal-Y7 D186 · 25 Jun** |
+| 2248 | [day-2248.md](days/year-007/week-322/day-2248.md) | **KILN-A-LIME ✓ · POZZ-KIT-3 prep ✓ · WEEK-322-OPEN** | **Cal-Y7 D187 · 26 Jun** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

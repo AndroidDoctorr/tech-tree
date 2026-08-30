@@ -1,6 +1,6 @@
 # Inventory
 
-Live countable stock. Last patched **Day 1978**. `~` = last count ± logged draws.
+Live countable stock. Last patched **Day 2248**. `~` = last count ± logged draws.
 
 Lookup (do not copy quantities here): [fixtures](inventory/fixtures.md) · [bridges and trail](inventory/bridges-and-trail.md) · [tools and lab](inventory/tools-lab.md) · [pre-split archive](inventory/archive-pre-split-1775.md) · [food-ledger](food-ledger.md) · [map](map.md)
 
@@ -12,27 +12,28 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | **~18.4 kg AMBER** | **STORAGE-W-GLASS-BATCH-5 −~11 kg · install band clear** |
+| Char lane | **~26.7 kg GREEN** | **KILN-A-LIME-2248 −~8.3 kg · lime ×2 stagger** |
 | Quartz Belen haul | **~53.6 kg** | **STORAGE-W-GLASS-BATCH-5 −~86 g** |
-| Pile 5 oak | **~13.0 kg AMBER thin** | **CHAR-RETORT-2151 −~26 kg · haul before next retort** |
-| Pile 4 dress/field | **~15.5 kg GREEN** | **STORAGE-WING-FLOOR-2137 −~2.5 kg gravel skim** |
+| Pile 5 oak | **~5.2 kg AMBER** | **CHAR-RETORT-2246 −~27.8 kg · pile was ~33 kg post d2245 wood** |
+| Pile 4 dress/field | **~7.3 kg GREEN** | **POZZ-KIT-3-PREP-2248 −~1.2 kg aggregate @ gravel sack** |
 | Store C vault | ~37 kg | Reserve · char pack defer |
-| Pile 1 clay | **~53.0 kg GREEN** | **STORAGE-WING-TILE-ROOF-2118 −~2.0 kg slip** |
-| Pile 3 green brick | **×0 · clear post-fire** | **GB-FIRE-2106 · GB-2104 spent** |
-| Kiln B stackable | **~29 AMBER** | **HUB-E-C3-2114 −×11** |
-| TR tiles @ rack | **×15 fired surplus · green ×0** | **STORAGE-WING-TILE-ROOF-2118 −×47 skin** |
+| Pile 1 clay | **~9.35 kg AMBER thin** | **HUB-TR-ROOF-2223 slip −~2.4 kg** |
+| Pile 3 green brick | **×40 GB-2211 green · touch PASS · sprint 2 fire 111/120** | **GB-FIRE-2216 first load spent** |
+| Kiln B stackable | **~170 AMBER** | **FLUE-STACK-2221 −×5 · roof shell oak-only** |
+| TR tiles @ rack | **×1 fired surplus · hub roof −×50 · green ×0** | **HUB-TR-ROOF-2223 · ×1 scrap logged** |
+| FT tiles @ rack | **×0 @ rack · ×108 deployed @ hub floor** | **FT-FLOOR-2224 · band CLOSE · ×2 scrap** |
 | Pile 4 dress/field | **~18 kg GREEN** | **STORAGE-PAD-REFRESH-2076 −~3 kg bed patch** |
-| Pile 8 floor-stone | **×2 FS @ camp · STORAGE-FS-1…9 @ W pad · HUB-FS @ hub · deployed @ sites** | **×1 bridge band remain · lintel candidate** |
-| Pile 7 CaCO₃ raw | **~0 kg · spent** | **KILN-A-LIME-2096 −~9 kg tail** |
-| Pozz/tuff stock | ~33.85 kg | AFRIN-SHORE d1967 −~1.6 kg |
+| Pile 8 floor-stone | **×0 @ camp · PORTICO-S-FS-1…6 @ S pad · TEMP-N-FS-1…2 @ N pad** | **STONE-HAUL-2194 + camp ×2 −×8 deployed** |
+| Pile 7 CaCO₃ raw | **~22.3 kg GREEN** | **KILN-A-LIME-2248 −~9 kg cooked · ~31.3 kg feed** |
+| Pozz/tuff stock | **~16.5 kg** | **POZZ-KIT-3-PREP-2248 −~1.8 kg @ dry sack staged** |
 | POZZ-SLAB-TRIAL-1 | ~4.8 kg @ apron | STRIP-1868 ✓ · reference slab |
 | SLUICE-2-STREAM-CHEEK-1 | ~10.2 kg live | S2-0 stream face · strip-1875 ✓ |
 | SLUICE-2-SILL-SKIM-1 | ~3.8 kg live | Gate seat @ S2-0 · read-1877 ✓ |
 | SLUICE-2-GATE-1 | ✓ live @ S2-0 | Deploy-1878 · prefab kit mounted · bypass staged |
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
-| Quicklime dry | **~1.76 kg GREEN** | **STORAGE-WING-ROOF-PURLIN-BATTEN-2117 −~0.10 kg eave** |
-| River sand / grog | **~6.5 kg GREEN** | **STORAGE-WING-FLOOR-2137 −~0.8 kg sand-smooth** |
+| Quicklime dry | **~8.65 kg GREEN** | **KILN-A-LIME-2248 +~5 kg · POZZ-KIT-3 prep −~0.4 kg** |
+| River sand / grog | **~21.5 kg GREEN @ char-flank mat** | **POZZ-KIT-3-PREP-2248 −~0.9 kg @ dry sack** |
 | Flax shive | ~10.8 kg | PAPER-SPRINT-3-D4 −~300 g |
 | CHAR-RETORT-1 | ✓ LIVE d1777 | Pit lane north berm cell C · ~+15% yield vs pit |
 
@@ -40,11 +41,11 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Parched grain | **~3.1 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~2.2 kg trail pack @ body** |
+| Parched grain | **~0.2 kg @ horreum trail shelf** | **Trail spent d2245 · kitchen resupply @ HOME** |
 | Smoked fish | **~2.80 kg** | **FEAST-YULE d2061 −~80 g serve** |
 | Smoked goose | **~1.46 kg** | **FEAST-YULE d2061 −~120 g hero serve** |
 | Goose giblet jar | ~230 g class | d1964 ~120 g + d2012 ~110 g |
-| Fish jerky | **~0.7 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~200 g trail pack** |
+| Fish jerky | **~0.5 kg** | **TRAIL remainder @ horreum shelf d2238** |
 | **Trail food (foot pack)** | **✓ spent @ return d2052–2054 · pack stowed** | |
 | **Limestone chip (trail)** | **✓ ~180 g @ pile 7 lip d2054** | **Ghab sample** |
 | Emmer bulk Y5 | ~0 g | LARDER-REFILL-1860 draw |
@@ -55,7 +56,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | P-17 lentil Y5 | ~178 g | Pulse bay |
 | **P-18 chickpea Y6** | **~203 g @ horreum A pulse bay P-18-Y6** | **SPRING-SOW-Y7-2129 −~45 g sow** |
 | **P-17 lentil Y6** | **~241 g @ horreum A pulse bay P-17-Y6** | **Bulk reserve · elite drilled** |
-| Seed vault | **P-14 ~0 · P-15 ~0 · P-21 ~5 g · P-FAVA ~2 g · P-17-ELITE-Y3 ~12 g · P-07 ~0 · **HEMP-SEL-Y7 ~17 g · P-PARSLEY-SEL-Y7 ~2 g reserve**** | **PARSLEY-SOW-Y7-2132 −~6 g** |
+| Seed vault | **P-14 ~0 · P-15 ~0 · P-21 ~5 g · P-FAVA ~2 g · P-17-ELITE-Y3 ~12 g · P-07 ~0 · **HEMP-SEL-Y7 ~17 g · P-PARSLEY-SEL-Y7 ~2 g · P-CORIANDER-SEL-Y7 ~9 g · P-ALLIUM-SEL-Y7 ~6 g · P-THYME-SEL-Y7 ~5 g · P-ROSEMARY-SEL-Y7 ~7 g**** | **CAMPUS-HERB-SEED-SAVE-2158** |
 | Fig leather | **~575 g** | **Trail pack draws d2048–2050** |
 | Pistachio | **~2.27 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~80 g trail** |
 | Y5 stew | ~0.95 kg | Cool step |
@@ -104,7 +105,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
 | Iron bloom (mounted) | **~13.7 kg** | **DOOR-2141 −~280 g · STRAP-2142 −~165 g** |
-| M-22 magnetite tray | **~0.49 kg** | **IRON-NAIL-BATCH-2138 −~180 g maintenance charge** |
+| M-22 magnetite tray | **~0.27 kg** | **IRON-NAIL-BATCH-2228 −~220 g maintenance charge** |
 | **MAG-BOOT-EM rod #9** | **Spare @ dry tray · ~168 g · ~36 mm pole class** | **d1992 · stack backup · not in MAG-STACK-2** |
 | **MAG-BOOT-SPARE-1** | **Old stack #1–4 @ horreum B peg · ~27–31 mm solo class** | **MAG-STACK-2 d1991 demote** |
 | **MAG-STACK-2** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · rods #5–8 + iron yoke · lift ~58 mm** | **d1991 · EM-assist stack · deflection ~3–6°** |
@@ -113,13 +114,13 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Galena-class PB | ~12.2 kg | Forge staging |
 | Cinnabar HgS | ~35.9 kg | v1 CHEM isolated · no roast |
 | Quartz Belen haul | ~53.6 kg | See fuel section · FACE-B @ STORE-4 |
-| Coast / local sand | ~2.15 kg / ~323 g | Pile 4 / v1 |
+| Coast / local sand | **~0.97 kg / ~323 g** | **POZZ-CONCRETE-BRIDGE-KIT-2235 −~0.9 kg dry sack** |
 | Sn bank | ~668 g | Chem-lab tin tray · UNLOAD-1854 |
 | Cassiterite concentrate | ~4.9 kg | Forge staging · KOZAN-14D return d1854 |
 | Kozan ore stockpile | ~0 kg | Gate lee · bank empty · haul home d1854 |
 | Kozan char bank | ~0.3 kg RED | Kiln lee · smelt spent |
 | Bronze stock | ~476 g | PEDAL-GEN-HEAD d1985 −~22 g bush |
-| Brass stock | ~34 g | OL-1 fittings d1809 |
+| Brass stock | **~40 g** | **BRASS-FORGE-2229/2230 cast draw · sprue return honest** |
 | Pb metal | ~1.07 kg | Forge jar · double-red |
 | ZnO calcine | ~1.07 kg | Chem-lab |
 | Kisecik fringe pyrite | ~2 kg | Chem-lab · roast defer |
@@ -131,8 +132,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Woad reserve | ~0 g | ATELIER-CURTAIN-DYE-1943 −~18 g vat top-up |
 | Woad leaf | **~88 g dry Y6-1 remain + ~140 g fresh Y6-2** | porch shred −~40 g · Y6-2 untouched |
 | Madder dry | ~79 g | v1 CHEM |
-| Tallow | **~210 g @ v1 trough jar** | TALLOW-RENDER d2011 · goose suet + hide trim |
-| Beeswax | ~58 g | TRIP-BELT-1893 dress −~6 g |
+| Tallow | **~182 g @ v1 trough jar** | **STORAGE-WING-FLOOR-TREAT-1 −~28 g** |
+| Beeswax | **~204 g** | **STORAGE-WING-FLOOR-TREAT-1 −~12 g buff** |
 | Cork bark | ~1.04 kg | CART-POWDER-SAFE-1876 −~12 g lid gasket |
 | Quartz frit | ~120 g | Vial G-FRIT |
 
@@ -141,13 +142,13 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Item | Qty | Where |
 |------|-----|-------|
 | Thread | ~172 m | ARROW d1963 −~2 m batch |
-| Flax line | **~1.64 kg @ FIBER-BIN-1 horreum A** | **FLAX-BREAK-14 d2044 +~150 g** |
-| Flax tow | **~110 g @ FIBER-BIN-2 horreum A** | **FLAX-SEAT-PAD-2 d2045 −~95 g** |
+| Flax line | **~1.56 kg @ FIBER-BIN-1 horreum A** | **STORAGE-W-AWNING thread spin −~38 g** |
+| Flax tow | **~15 g @ FIBER-BIN-2 horreum A** | **STORAGE-WING-RUG-1 −~95 g · restock on flax break** |
 | **COLLECT-BAG-1..3** | **Tow body · OLIVE-PICK / MADDER-ROOT / SPARE tags @ barn peg** | **COLLECT-BAG-SPRINT d2025** |
-| **THREAD-STOCK-2** | **~13 m @ W-1 peg** | **COLLECT-BAG d2025 −~9 m** |
+| **THREAD-STOCK-2** | **~2 m @ W-1 peg AMBER thin** | **STORAGE-W-AWNING weave −~7 m · **spin before linens**** |
 | VENT-BELT rope | ~123 m | DRILL-PRESS d1970 −~2.6 m |
 | Hide scrap | **~0.40 m² trim** | TALLOW-RENDER d2011 − fat trim class · goat-519 reserve |
-| Billie hide A-03 | ~0.66 m² @ retired W-1 lean-to frame | CHEM-DOOR-PATCH-1940 −~0.04 m² · strips through d1939 |
+| Billie hide A-03 | **~0.54 m² @ retired W-1 lean-to frame** | **HUB-DOOR-MOUNT-2231 −~0.12 m² strip ×2** |
 | Goat horn billie | **×0 on stave** · ~25 g waste @ pile 6 | BOW-2-HORN-LAMINATE-1912 |
 | Sinew dry | **×0 spent** | **BOW-2-SINEW-BACK-1914 −~55 g on stave** |
 | Feather bag | ~111 g | GOOSE-HUNT d2010 +~32 g |
@@ -219,11 +220,203 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **GB-TOUCH-2090** | **✓ GB-2088 PASS** | |
 | **STORAGE-WING-GHOST-1** | **✓ socle d2075 · STORAGE-FS-1…7 · E hub tie stub** | |
 | **STORAGE-WING-SOCLE-1** | **✓ d2075+d2076 · **5×6 m** · shell c1 LIVE d2094** | |
-| **STORAGE-WING-SHELL-1** | **Shell @ beam · roof ✓ · **W envelope ~100% ✓**** · E hub defer** | |
-| **STORAGE-WING-FINISH-BAND-1** | **✓ W end close d2153 · culina strap queued** | |
+| **STORAGE-WING-SHELL-1** | **Shell @ beam · roof ✓ · W envelope ✓ · **E hub tie ✓ @ bond beam**** | |
+| **STORAGE-WING-FINISH-BAND-1** | **✓ full close incl. woad awning d2176** | |
+| **STORAGE-W-AWNING-1** | **✓ mounted LIVE d2176 · blue/white woad @ W-END-WINDOW-1** | |
+| **CAMPUS-HUB-E-WYTHE-C5-2176** | **✓ E c5 · face ~90% · −×11 GB** | |
+| **CAMPUS-HUB-SHELL-1** | **✓ HUB-STAGE-CLOSE-2234 · stage 3 · rugs/exterior defer** | |
+| **CAMPUS-HUB-INTENT-Y7-2181** | **Hub+S portico @ winter · temp N stoop · north wing defer · curtains** | |
+| **FACTORY-REFILL-SLATE-2184** | **✓ CLOSE d2191 · ×120 fired · stackable GREEN · hub c5 ✓** | |
+| **HAUL-CLAY-2186** | **✓ ~31.4 kg net · pile 1 ~63 kg GREEN** | |
+| **GREEN-PRESS-2187** | **✓ ×40 GB-2187 @ pile 3 · touch ~d2189** | |
+| **GREEN-PRESS-2188** | **✓ ×40 GB-2188 @ north sand bed · touch ~d2190 · ×80 pipeline** | |
+| **GB-FIRE-2189** | **✓ 37/40 · stackable ~64 · GB-2187 spent** | |
+| **GREEN-PRESS-2189** | **✓ ×40 GB-2189 @ east apron · ×120 pipeline · clay spent** | |
+| **GB-FIRE-2190** | **✓ 37/40 · GB-2188 spent · stackable post-fire ~101** | |
+| **CAMPUS-HUB-N-WYTHE-C4-2190** | **✓ N c4 · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C4-2190** | **✓ S c4 · portico cheek · −×11 GB** | |
+| **GB-FIRE-2191** | **✓ 37/40 · GB-2189 spent · ×120 pipeline close** | |
+| **CAMPUS-HUB-N-WYTHE-C5-2191** | **✓ N c5 · N door ghost held · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C5-2191** | **✓ S c5 · S portico door ghost · −×11 GB** | |
+| **WEEK-313-CLOSE-2191** | **✓ factory band · hub N/S c1–c5 · Week 314 @ d2192** | |
+| **WEEK-314-OPEN-2192** | **✓ hub N/S c6 · bond beam horizon** | |
+| **CAMPUS-HUB-N-WYTHE-C6-2192** | **✓ N c6 · door jambs · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C6-2192** | **✓ S c6 · portico cheek · −×11 GB** | |
+| **CAMPUS-HUB-N-BOND-BEAM-2193** | **✓ N wythe CLOSE @ beam · N door lintel LIVE · −×14 GB** | |
+| **CAMPUS-HUB-S-BOND-BEAM-2193** | **✓ S wythe CLOSE @ beam · S portico lintel LIVE · −×14 GB** | |
+| **STONE-HAUL-2194** | **✓ ×4 FS pick @ T-2 · dress for portico pads** | |
+| **CAMPUS-HUB-S-PORTICO-SOCLE-1** | **✓ PORTICO-S-FS-1…6 · ~3×5 m · gravel bed · drain S** | |
+| **TEMP-PORTICO-N-SOCLE-1** | **✓ gravel pad @ N lintel · TEMP-N-FS-1…2 · demount grammar** | |
+| **CAMPUS-HUB-S-PORTICO-CHEEK-C1-2195** | **✓ E+W cheek c1 · mudroom ghost · −×22 GB** | |
+| **TEMP-PORTICO-N-FRAME-2196** | **✓ oak lean ~1.6×2.2 m @ N lintel · reed roof · ~60%** | |
+| **WOOD-HAUL-2197** | **✓ ~28.6 kg net · pile 5 ~33 kg GREEN** | |
+| **HUB-STAGE-MAT-ESTIMATE-2197** | **Rough stage mat · **floor tile flat square = separate batch** · roof TR curved** | |
+| **HAUL-CLAY-2198** | **✓ ~31.4 kg net · pile 1 ~42 kg pre-press** | |
+| **CHAR-RETORT-2198** | **✓ ×3 full · lane ~58 kg · pile 5 thin** | |
+| **GREEN-PRESS-2198** | **✓ ×40 GB-2198 @ pile 3 · touch ~d2200** | |
+| **HAUL-CLAY-2199** | **✓ lap 2 ~31.4 kg net · pile 1 ~55 kg pre-press** | |
+| **GREEN-PRESS-2199** | **✓ ×40 GB-2199 @ north sand bed · ×80 pipeline · touch ~d2201** | |
+| **GREEN-PRESS-2200** | **✓ ×40 GB-2200 @ east apron · ×120 pipeline · touch ~d2202** | |
+| **TR-PRESS-2200** | **✓ ×32 green TR-2200 @ rack · touch ~d2202 · hub roof batch** | |
+| **GB-FIRE-2201** | **✓ 37/40 · GB-2198 spent · stackable ~59** | |
+| **HAUL-LIME-2201** | **✓ ~20.1 kg raw · burned same day** | |
+| **KILN-A-LIME-2201** | **✓ ×2 stagger · quicklime ~5.9 kg · mortar GO** | |
+| **GB-FIRE-2202** | **✓ 37/40 · GB-2199 spent · stackable ~96** | |
+| **HAUL-CLAY-2202** | **✓ ~31.4 kg net · pile 1 ~32 kg post-TR** | |
+| **TR-PRESS-2202** | **✓ ×32 green TR-2202 · ×64 green @ rack** | |
+| **GB-FIRE-2203** | **✓ 37/40 · GB-2200 spent · sprint 1 ×120 close · stackable ~133** | |
+| **TR-FIRE-2203** | **✓ 31/32 · TR-2200 spent · ×46 fired @ rack** | |
+| **SPRINT-1-CLOSE-2203** | **✓ factory sprint 1 fired out · mortar GO** | |
+| **WOOD-HAUL-2204** | **✓ ~28.6 kg net · four-lap · pile 5 topped pre-retort** | |
+| **CHAR-RETORT-2204** | **✓ ×3 full · lane ~35 kg GREEN · pile 5 thin** | |
+| **TR-FIRE-2205** | **✓ 31/32 · ×77 fired @ rack · hub roof ×64 batch close** | |
+| **CAMPUS-HUB-S-PORTICO-CHEEK-C2-2205** | **✓ E+W cheek c2 · mudroom ghost · −×22 GB** | |
+| **WEEK-315-CLOSE-2205** | **✓ sprint 1 + roof TR + portico c2 · Week 316 @ d2206** | |
+| **WEEK-316-OPEN-2206** | **✓ hub floor tile band · portico design fork** | |
+| **HAUL-CLAY-2206** | **✓ ~31.4 kg net · pile 1 ~64 kg pre-press** | |
+| **FT-PRESS-2206** | **✓ ×32 green FT-2206 @ floor face · touch ~d2208** | |
+| **S-PORTICO-DESIGN-READ-2206** | **Open/half-wall recommended · c1–c2 knee-wall grammar OK** | |
+| **S-PORTICO-OPEN-HALF-WALL-2207** | **✓ player confirm · knee walls + open front · posts+roof horizon** | |
+| **FT-PRESS-2207** | **✓ ×64 green · hub floor ×96/×111 queued** | |
+| **GREEN-PRESS-2207** | **✓ ×40 GB-2207 @ pile 3 · sprint 2 open · touch ~d2209** | |
+| **FT-FIRE-2208** | **✓ 31/32 · FT-2206 spent · ×31 hub floor fired** | |
+| **WOOD-HAUL-2208** | **✓ ~28.6 kg net · pile 5 ~33 kg · posts GO** | |
+| **GB-FIRE-2209** | **✓ 37/40 · GB-2207 spent · stackable ~148** | |
+| **HAUL-CLAY-2209** | **✓ ~31.4 kg net · pile 1 ~50 kg post-press** | |
+| **FT-PRESS-2209** | **✓ ×16 · hub floor ×111 green mold close** | |
+| **CHAR-RETORT-2210** | **✓ ×3 full · lane ~35 kg · pile 5 thin** | |
+| **FT-FIRE-2210** | **✓ 62/64 · FT-2207 spent · ×93 hub floor fired** | |
+| **GREEN-PRESS-2210** | **✓ ×40 GB-2210 · sprint 2 mold ×80/×120** | |
+| **FT-FIRE-2211** | **✓ 15/16 · hub floor ×108 fired · band close** | |
+| **GREEN-PRESS-2211** | **✓ ×40 GB-2211 · sprint 2 ×120 mold close** | |
+| **CAMPUS-PIVOT-2211** | **Construction band LIVE · factory HOLD** | |
+| **GB-FIRE-2212** | **✓ 37/40 · GB-2210 spent · sprint 2 fire 74/120** | |
+| **S-PORTICO-KNEE-CAP-2212** | **✓ E+W parapet · open front · −×22 GB** | |
+| **WEEK-316-CLOSE-2212** | **✓ hub floor · sprint 2 mold · knee cap · Week 317 @ d2213** | |
+| **WEEK-317-OPEN-2213** | **✓ construction band · major mats close** | |
+| **WOOD-HAUL-2213** | **✓ ~28.6 kg net · pile 5 ~33 kg · posts + frame GO** | |
+| **S-PORTICO-POSTS-1-2214** | **✓ ×4 corner oak @ knee caps · open front** | |
+| **S-PORTICO-TIE-BEAM-1-2214** | **✓ front + rear scarf @ post heads · hub S lintel tie** | |
+| **S-PORTICO-PURLIN-BATTEN-2215** | **✓ ×3 + ×14 · S eave fascia · shell CLOSE** | |
+| **S-PORTICO-TR-ROOF-2215** | **✓ ×24 skin + ridge ×2 · ×51 TR @ rack · ×1 scrap** | |
+| **S-PORTICO-ROOF-1** | **✓ weathertight @ skin + platform · portico band CLOSE** | |
+| **JUNE-PREP-READ-2215** | **Caps ×4 · pozz ~34 kg · cart prep ~1 d · GO band** | |
+| **GB-FIRE-2216** | **✓ 37/40 · GB-2211 first load · sprint 2 111/120 · char retort queued** | |
+| **CAMPUS-HUB-ISLAND-HEARTH-1** | **✓ live smoke · hood mass live · hook/vent defer** | |
+| **CAMPUS-HUB-FLUE-CHEEK-1** | **✓ CLOSE @ bond beam** | |
+| **CAMPUS-HUB-FLUE-STACK-1** | **✓ stack pen · collar · cap · TR lap @ tile defer** | |
+| **CAMPUS-HUB-ISLAND-HOOD-1** | **✓ scarf beam @ post heads** | |
+| **CAMPUS-HUB-ROOF-FRAME-1** | **✓ ridge + ×8 rafters + ×4 collars** | |
+| **CAMPUS-HUB-ROOF-SHELL-1** | **✓ purlin/batten ~90% · TILE-BED ready · TR lay next** | |
+| **CAMPUS-HUB-SMOKE-TEST-1** | **✓ live burn PASS d2220** | |
+| **HUB-STAGE-PROGRESS-READ-2221** | **Stage ~78% · ~4–6 campus days to close** | |
+| **WOOD-HAUL-2222** | **✓ ~28.6 kg net · pile 5 ~32 kg · tile lay GO** | |
+| **CAMPUS-HUB-TR-ROOF-2223** | **✓ ×48 skin + ridge ×2 · stack lap · ×1 TR remain · ×1 scrap** | |
+| **CAMPUS-HUB-ROOF-1** | **✓ weathertight @ skin · drip PASS · FT floor next** | |
+| **HUB-STAGE-READ-2223** | **Stage ~88% · FT floor closes band** | |
+| **IRON-NAIL-TAP-2223** | **FORGE-NAIL-TAP ×4 @ d2223 hub ridge · bench ×0 OK** | |
+| **NAIL-CONTINUITY-READ-2224** | **No retcon · forge tap covers ridge · batch optional** | |
+| **HUB-VENT-SLATE-2224** | **Stack=smoke · ridge vent/louvers @ tower top separate · defer VENT-1** | |
+| **CAMPUS-HUB-FT-FLOOR-1** | **✓ ×108 deployed · boot PASS · ×2 scrap** | |
+| **HUB-STAGE-READ-2224** | **Stage ~95% · close + ridge vent slate** | |
+| **CAMPUS-HUB-RIDGE-VENT-1** | **✓ slot + ×4 louvers · tower top air · flue isolated** | |
+| **S-PORTICO-PLATFORM-1** | **✓ pozz wear slab @ gravel · boot PASS · drain S** | |
+| **HUB-STAGE-READ-2226** | **Stage ~98% shell · finish band defer** | |
+| **CHAR-RETORT-2227** | **✓ ×3 full · lane ~35 kg · brass forge unblocked** | |
+| **WOOD-HAUL-2227** | **✓ ~28.6 kg net · pile 5 ~32 kg** | |
+| **HUB-FINISH-BAND-SLATE-2227** | **✓ doors + wash · rugs spin-defer** | |
+| **HAUL-LIME-2232** | **✓ ~20.1 kg raw @ pile 7** | |
+| **KILN-A-LIME-2233** | **✓ ×2 stagger · quicklime ~5.9 kg · WEEK-319-CLOSE** | |
+| **WEEK-319-CLOSE-2233** | **✓ week close @ burn · wash → W320** | |
+| **CAMPUS-HUB-LIMEWASH-1** | **✓ interior one coat d2234 · BC-1 minimum** | |
+| **HUB-STAGE-CLOSE-1** | **✓ stage 3 close d2234 · rugs/exterior defer** | |
+| **ATELIER-STAGE-3-CLOSE-2234** | **✓ campus hub stage 3 on calendar** | |
+| **WEEK-320-OPEN-2234** | **✓ trail/TQ band opens** | |
+| **POZZ-CONCRETE-BRIDGE-KIT-1** | **✓ spent @ KARASU-TRIB-01 d2236 · stage-1 downstream** | |
+| **KARASU-TRIB-01-SHORE-1** | **✓ downstream wing cured · read PASS d2245** | |
+| **TRAIL-TQ-PACK-LOAD-2235** | **✓ ~64 kg depart · kit spent @ ford d2236** | |
+| **TRAIL-TQ-LAP-1** | **✓ CLOSE d2238 · shore-1 + blast + listen · caps ×3 home** | |
+| **ASI-ORONTES-1-LISTEN-2238** | **✓ ~3 mm forward listen PASS · no deploy** | |
+| **POZZ-CONCRETE-BRIDGE-KIT-2** | **✓ spent @ KARASU-TRIB-01-SHORE-2 d2245 · upstream wing** | |
+| **TRAIL-TQ-PACK-PREP-2239** | **✓ staged · lashed d2240** | |
+| **TRAIL-TQ-PACK-LOAD-2240** | **✓ ~62 kg · wheels-up · camp @ TRIB-02** | |
+| **TRAIL-TQ-LAP-2** | **✓ CLOSE d2245 · shore-2 + blast + listen + Afrin touch** | |
+| **KARASU-TRIB-01-SHORE-2** | **✓ upstream wing curing · 7 d · ford ◐ both pads** | |
+| **HOMEWARD-WOOD-COLLECT-2245** | **✓ 2-lap @ T-2 · ~14.8 kg net · pile 5 ~33 kg** | |
+| **CHAR-RETORT-2246** | **✓ ×3 full · lane ~35 kg GREEN** | |
+| **HAUL-LIME-2246** | **✓ ~20.2 kg net · pile 7 ~31 kg GREEN** | |
+| **CONCRETE-RUNWAY-GATE-2246** | **Lime > gravel · sand RED for kit-3** | |
+| **SAND-HAUL-2247** | **✓ ~22.4 kg net · fork bar @ T-1 low** | |
+| **WEEK-321-CLOSE-2247** | **✓ trail lap-2 + factory refill band** | |
+| **BLAST-PINCH-2-2241** | **✓ L3 crown · cap C spent · TQ ~3.0→~3.2** | |
+| **ASI-ORONTES-1-LISTEN-2241** | **✓ lap 2 confirm PASS · no deploy** | |
+| **WEEK-321-OPEN-2241** | **Listen + blast @ field** | |
+| **AFRIN-SPLIT-LISTEN-2242** | **✓ site B PASS · site A ford defer · no deploy** | |
+| **AFRIN-B-REINFORCE-TOUCH-2243** | **✓ local + mortar ~1 kg · ~2 mm post · kit-2 hold** | |
+| **BRIDGE-LONGEVITY-GATE-2243** | **Y7 maintenance band · augment not rebuild** | |
+| **TRAIL-TQ-RETURN-LEG-1-2244** | **✓ ASI + TRIB-02 listen · camp @ ~16 km · food RED** | |
+| **ASI-ORONTES-1-LISTEN-2244** | **✓ homeward PASS · no deploy** | |
+| **KARASU-TRIB-02-LISTEN-2244** | **✓ homeward PASS · no deploy** | |
+| **BLAST-PINCH-1-2237** | **✓ L2 crown · cap B spent · TQ ~3.1→~3.2 pinch** | |
+| **KARASU-TRIB-02-LISTEN-2237** | **✓ ~3 mm loaded PASS · no deploy** | |
+| **L2-GRADE-PINCH-MARK-2236** | **✓ closed @ BLAST-PINCH-1** | |
+| **HUB-N-DOOR-1 · HUB-S-DOOR-1** | **✓ N+S LIVE d2231 · brass + weather strip ×2** | |
+| **BRASS-FORGE-HUB-N-1** | **✓ d2229 · cast + staged · mounted d2231** | |
+| **BRASS-FORGE-HUB-S-1** | **✓ d2230 · cast + staged · mounted d2231** | |
+| **HUB-DOOR-MOUNT-1** | **✓ d2231 · leaves + hang + strip ×2** | |
+| **IRON-NAIL-BATCH-2228** | **✓ ×36 forged · **×8 remain @ bench post-mount**** | |
+| **WEEK-318-OPEN-2220** | **✓ hub roof + stage close band @ d2220** | |
+| **CAMPUS-HUB-ISLAND-POSTS-1** | **✓ ×4 oak @ HUB-FS pads · hood horizon** | |
+| **WOOD-HAUL-2218** | **✓ ~28.6 kg net · pile 5 ~31 kg · hood timber GO** | |
+| **HUB-FLUE-CU-RADIATOR-SLATE-2217** | **Copper vane Q filed · masonry first · iron/copper reclaim optional post-smoke** | |
+| **CAMPUS-HUB-STAGE-1** | **Hub stage band OPEN · hood + stack close + smoke test horizon** | |
+| **S-PORTICO-SEQUENCE-2207** | **✓ socle → posts → roof → platform CLOSE** | |
+| **WEEK-315-OPEN-2199** | **✓ hub stage factory band** | |
+| **WEEK-314-CLOSE-2198** | **✓ hub stage band open · Week 315 @ d2199** | |
+| **HAUL-LIME-2185** | **✓ ~20.1 kg net · burned same day** | |
+| **KILN-A-LIME-2185** | **✓ ~5.0 kg quicklime · pile 7 spent · mortar GO** | |
+| **WEEK-313-OPEN-2185** | **✓ factory band · hub HOLD** | |
+| **WOOD-HAUL-2184** | **✓ ~28.7 kg net · four-lap · pile 5 topped pre-retort** | |
+| **CHAR-RETORT-2184** | **✓ ×3 full · lane ~69 kg GREEN · pile 5 thin after** | |
+| **WEEK-312-CLOSE-2184** | **✓ hub N/S c1–c3 · factory band open · Week 313 @ d2185** | |
+| **CAMPUS-HUB-E-BOND-BEAM-2179** | **✓ E wythe 100% @ beam · craft + storage ties · −×14 GB** | |
+| **HAUL-LIME-2177** | **✓ ~20.2 kg net · burned same day** | |
+| **CHAR-RETORT-2177** | **✓ ×3 full · lane ~46 kg post-lime burn** | |
+| **KILN-A-LIME-2177** | **✓ ~5.4 kg quicklime · pile 7 spent · mortar GO** | |
+| **WEEK-311-CLOSE-2177** | **✓ factory · hub · storage band** | |
+| **THREAD-RUNWAY-SLATE-2176** | **~2 m RED · agent flag before linen heroes** | |
+| **STORAGE-WING-LAMP-HANG-1** | **✓ hook LIVE d2167 · portable OL swap** | |
+| **FACTORY-RUNWAY-READ-2169** | **Clay ~84 kg · sand ~27.5 kg GREEN · press+fire next** | |
+| **HAUL-CLAY-2169** | **✓ ~31.4 kg net · pile 1 ~84 kg GREEN** | |
+| **GREEN-PRESS-2170** | **✓ ×40 GB-2170 @ pile 3 · touch ~d2172** | |
+| **GREEN-PRESS-2171** | **✓ ×40 GB-2171 @ north sand bed · touch ~d2173** | |
+| **GREEN-PRESS-2172** | **✓ ×40 GB-2172 @ east apron · touch ~d2174 · ×120 pipeline** | |
+| **CAMPUS-HUB-SHELL-1** | **W @ bond beam CLOSE · E c1–c4 LIVE · ~50% perimeter · c5 defer** | |
+| **STORAGE-WING-FLOOR-TREAT-1** | **✓ tallow + beeswax @ 5×6 m · BC-1 dry-service d2165** | |
+| **STORAGE-WING-LIME-WASH-1** | **✓ interior one coat d2163 · BC-1 minimum** | |
+| **STORAGE-WING-FINISH-RUNWAY-2163** | **Floor treat · lamp · linens · swarm scout queued** | |
+| **QUARTZ-RUNWAY-READ-2163** | **~54 kg GREEN · haul low urgency · soda pinch if glass** | |
+| **WEEK-309-CLOSE-2163** | **✓ apiary · culina · storage wash band** | |
+| **SWARM-SCOUT-Y7-2164** | **✓ no cluster · capture NO-GO · hives steady** | |
+| **APIARY-EXPAND-READ-2164** | **PAD-3 ready · need cluster + SKEP-3 for HIVE-3** | |
+| **WEEK-310-OPEN-2164** | **Storage finish · scout filed** | |
+| **CULINA-WINDOW-S-1** | **✓ strap+glass LIVE d2161 · ×20 grid · retrofit no re-pour** | |
+| **CULINA-STRAP-UPGRADE-1** | **✓ forge + mount d2161 · BC window queue closed** | |
+| **BC-WINDOW-RETROFIT-CLOSE-2161** | **✓ last major campus window · E hub defer only** | |
+| **WOOD-HAUL-2162** | **✓ full four-lap · pile 5 ~37 kg GREEN** | |
 | **STORAGE-W-END-WINDOW-1** | **✓ strap+frame+glass LIVE d2153 · ×20 grid @ seats** | |
 | **STORAGE-W-GLASS-INSTALL-2153** | **✓ tap close · ×20 seat · light read PASS** | |
 | **STORAGE-W-ENVELOPE-CLOSE-2153** | **✓ W end ~100% · E hub only defer** | |
+| **WOOD-HAUL-2154** | **✓ full four-lap · pile 5 ~41 kg GREEN** | |
+| **WAX-HARVEST-Y7-2155** | **✓ dual hive · stock ~216 g · cappings only** | |
+| **APIARY-UPGRADE-SLATE-2155** | **Wooden shelter GO · skeps stay · PAD-3 runway** | |
+| **APIARY-WOOD-SHELTER-1** | **✓ LIVE d2157 · ~5×3 m · 2 hives under roof · PAD-3 ghost** | |
+| **APIARY-WOOD-SHELTER-1-CLOSE-2157** | **✓ skep move · trim · kit peg · moat PASS** | |
+| **WEEK-309-OPEN-2157** | **✓ apiary close · culina strap runway** | |
+| **CAMPUS-HERB-SEED-SAVE-2158** | **✓ 5 crops · ~27 g seed class @ vault · mint slips** | |
+| **CHAR-RETORT-2158** | **✓ full ×3 · lane ~41 kg · pile 5 thin** | |
+| **WOOD-HAUL-2159** | **✓ full four-lap · pile 5 ~34 kg · culina strap GO** | |
+| **CHAR-RETORT-2160** | **✓ full ×3 · lane ~63 kg GREEN · full lane** | |
 | **STORAGE-W-GLASS-BATCH-5-2152** | **✓ grid 20/20 poured · tap+install d2153** | |
 | **CHAR-RUNWAY-READ-2149** | **Lane RED ~7 kg · retort before batch 5** | |
 | **WOOD-HAUL-2150** | **✓ full four-lap · pile 5 ~39 kg · retort GO** | |
@@ -232,7 +425,6 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CHAR-RUNWAY-READ-2151** | **Glass melt cleared · pile 5 thin** | |
 | **WEEK-308-OPEN-2150** | **Wood restock · char → glass batch 5 band** | |
 | **DUAL-WINDOW-STRAP-SLATE-2145** | **Storage glass + culina strap upgrade queued** | |
-| **CULINA-STRAP-UPGRADE-1** | **×20 glass LIVE d1186 · iron strap ~1 forge day · not re-pour** | |
 | **STORAGE-WING-DOOR-1** | **✓ W end LIVE d2141 · frame+leaf+hinges+handle** | |
 | **WEEK-306-CLOSE-2142** | **✓ door+strap closed · W envelope ~90%** | |
 | **CHAR-RETORT-2144** | **✓ full ×3 d2144 · lane ~51 kg** | |
@@ -305,6 +497,16 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CAMPUS-HUB-E-WYTHE-C1-2108** | **✓ E c1 · craft internal door ghost · cheek LIVE** | |
 | **CAMPUS-HUB-E-WYTHE-C2-2111** | **✓ E c2 · craft jamb rise · ~40% E face** | |
 | **CAMPUS-HUB-E-WYTHE-C3-2114** | **✓ E c3 · ~60% E face · craft cheek LIVE** | |
+| **CAMPUS-HUB-E-WYTHE-C4-2168** | **✓ E c4 · ~80% E face · storage cheek LIVE** | |
+| **CAMPUS-HUB-E-WYTHE-C5-2176** | **✓ E c5 · ~90% E face · storage cheek @ c5** | |
+| **CAMPUS-HUB-E-WYTHE-C6-2178** | **✓ E c6 · face ~100% to bond beam ghost · −×11 GB** | |
+| **CAMPUS-HUB-E-BOND-BEAM-2179** | **✓ E wythe CLOSE @ beam · matches W d2092** | |
+| **CAMPUS-HUB-N-WYTHE-C1-2180** | **✓ N c1 · NW/NE quoins · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C1-2181** | **✓ S c1 · SW/SE quoins · portico cheek stub · −×11 GB** | |
+| **CAMPUS-HUB-N-WYTHE-C2-2182** | **✓ N c2 · NW/NE quoins held · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C2-2182** | **✓ S c2 · portico cheek rise · −×11 GB** | |
+| **CAMPUS-HUB-N-WYTHE-C3-2183** | **✓ N c3 · NW/NE quoins held · −×11 GB** | |
+| **CAMPUS-HUB-S-WYTHE-C3-2183** | **✓ S c3 · portico cheek rise · −×11 GB** | |
 | **WEEK-302-CLOSE-2114** | **✓ hub E band · TR fire queued · sow horizon** | |
 | **ICE-RUNWAY-READ-2111** | **Third haul NO-GO · cellar ~90.4 kg max · face ~14%** | |
 | **TR-TOUCH-2108** | **✓ ×32 green PASS · fired d2112** | |
@@ -375,7 +577,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CAMPUS-HUB-SOCLE-1** | **✓ d2073 · HUB-FS-1…8 ring · column pads ×4 · gravel bed** | |
 | **STONE-HAUL-2074** | **✓ ×3 lap ~48 kg gross · ×11 FS @ pile 8 · pile 4 restored** | |
 | **FS-PILE8-2074** | **×2 remain @ camp · bridge refill thin** | |
-| **BRIDGE-SPARE-FS-REFILL** | **×3 FS dressed · stow @ horreum B when named** | |
+| **BRIDGE-SPARE-FS-REFILL** | **×3 FS → REFILL-16 d2239 · horreum spare spent** | |
 | **CHEM-LAB-STRAP-FRAME-N-1** | **✓ mounted d2071** | |
 | **WEEK-296-OPEN** | **✓ d2066 · chem glass grid band** | |
 | **CHAR-RETORT-2065** | **✓ ×3 burns · lane rebuild d2065** | |
@@ -441,14 +643,14 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Item | Qty | Where |
 |------|-----|-------|
 | **KOZAN-HUT-1 @ gate** | **CLOSE ✓ d1832 · door LIVE · ×18 brick spare @ site · mortar ~0.7 kg** | **HUT-MAT-BAND spent · tin defer** |
-| Bridge spare | **REFILL-16 skeleton @ horreum B · FS ×0 · oak + mortar remain** | **FS −×3 d2073 @ hub socle · refill band** |
+| Bridge spare | **REFILL-16 skeleton @ horreum B · FS ×1 · caps ×2 @ powder safe** | **Lap-2 CLOSE · shore-2 curing @ ford** |
 | Trail maint slice | **~5.9 kg @ wagon · ~2 kg @ bench** | **STASH recover d1859** |
 | EXPED rope | ~18 m | Wagon dry well |
-| Iron nails | **×2 @ bench** | **DOOR-2140/2141 −×22 · rosehead @ hinges** |
+| Iron nails | **×8 @ bench** | **HUB-DOOR-MOUNT-2231 −×28 · hinge + peg mount** |
 | Corral stakes | ×4 @ Belen · ×4 @ pile 9 | |
 | Fence stakes | ×2 | Pile 9 |
 | M-spikes in crate | ×2 | TRIB-FT-STAKE-1898 −×2 |
-| **CART-POWDER-SAFE-1** | **caps ×4 · mid-aft mount** | **WHEEL-CART-1 · CART-UPGRADE ✓ d1876–1877** |
+| **CART-POWDER-SAFE-1** | **caps ×2 · mid-aft mount · lap-2 unused** | **WHEEL-CART-1 · L2+L3 blasts spent lap-2** |
 | **CART-IRON-RIM-1** | **✓ both wheels** | **Full bands d1877 · wobble ~1 mm class** |
 | **WW-2-WHEEL-1** | **✓ @ north pad · belt tree LIVE** | **Phase 3 CLOSE d1894** |
 | **GS-2-FLYWHEEL-1** | **✓ outboard @ WW-2 shaft** | **~9.8 kg oak · ~290 g iron band · d1888** |

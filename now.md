@@ -2,25 +2,30 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2153** · Cal-Y7 D92 · ~23 Mar · Week 308 day 4 · **STORAGE-W window LIVE ✓ · W envelope ~100%**
+**Day 2248** · Cal-Y7 D187 · ~26 Jun · Week 322 day 1 · **HOME · kit-3 staged**
 
 | Track | Status |
 |-------|--------|
-| **Factory** | **×15 TR surplus · char ~18 kg AMBER · stackable ~29 AMBER** |
-| **STORAGE-WING-1** | **W envelope ~100% ✓ · door+window LIVE · **E hub defer**** |
-| **STORAGE-W-END-WINDOW-1** | **Strap+frame+glass LIVE ✓ d2153** |
-| **Culina** | **Glass ✓ · strap upgrade queued** |
-| **Farm** | **Green line live · scare-only** |
-| **Fuel** | **Char ~18.4 kg · pile 5 ~13 kg thin** |
-| **Campus** | **GREEN · culina strap · E hub when named** |
+| **Fuel** | **Char ~27 kg · pile 5 ~5 kg AMBER** |
+| **Concrete** | **POZZ-KIT-3 @ trough · quicklime ~9 kg · sand ~21 kg · pozz ~16 kg · pile 7 ~22 kg** |
+| **Crossings** | **KARASU ford both shores curing · hands off** |
+| **Campus** | **Stage 3 ✓ · Silas hold** |
+| **Farm** | **Green line live · fig/grape Aug window** |
 
 ## Next
 
-**CULINA-STRAP-UPGRADE-1** · **WOOD-HAUL** · **STORAGE-WING-E-HUB-1**
+**Pack/lash kit-3 or HOME band** — **trail when named**
+
+## Agent reminders (player request d2176)
+
+- **Linens / weave / rug:** **FLAG if THREAD ~2 m RED** — do not start linen heroes without spin/haul unless player names it.
+- **Resources general:** haul · spin · char · clay not auto-assumed — gate read first; player names or blockers only.
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **Green line live** · **16 Mar sow close passed**
+- **1 Apr–Sep** — **Quartz/ore haul · exped OPEN · trail work band**
+- **Jun live** — **Cart prep · trail/quarry optional**
+- **1 Aug–15 Sep** — **Fig · grape** *(flag on FARM-CARE)*
 
 ## Do not treat as live
 
