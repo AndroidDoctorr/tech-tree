@@ -1,6 +1,6 @@
 # Inventory
 
-Live countable stock. Last patched **Day 2248**. `~` = last count ± logged draws.
+Live countable stock. Last patched **Day 2252**. `~` = last count ± logged draws.
 
 Lookup (do not copy quantities here): [fixtures](inventory/fixtures.md) · [bridges and trail](inventory/bridges-and-trail.md) · [tools and lab](inventory/tools-lab.md) · [pre-split archive](inventory/archive-pre-split-1775.md) · [food-ledger](food-ledger.md) · [map](map.md)
 
@@ -12,10 +12,10 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | **~26.7 kg GREEN** | **KILN-A-LIME-2248 −~8.3 kg · lime ×2 stagger** |
+| Char lane | **~18.2 kg GREEN** | **IRON-NAIL-BATCH-3-2264 −~3.0 kg · bracket + bloom** |
 | Quartz Belen haul | **~53.6 kg** | **STORAGE-W-GLASS-BATCH-5 −~86 g** |
-| Pile 5 oak | **~5.2 kg AMBER** | **CHAR-RETORT-2246 −~27.8 kg · pile was ~33 kg post d2245 wood** |
-| Pile 4 dress/field | **~7.3 kg GREEN** | **POZZ-KIT-3-PREP-2248 −~1.2 kg aggregate @ gravel sack** |
+| Pile 5 oak | **~23.2 kg GREEN** | **BROOM-Y7-1-2268 lathe handle −~0.35 kg** |
+| Pile 4 dress/field | **~5.3 kg GREEN** | **TRAIL-PACK-2249 −~2 kg gravel sack @ kit lash** |
 | Store C vault | ~37 kg | Reserve · char pack defer |
 | Pile 1 clay | **~9.35 kg AMBER thin** | **HUB-TR-ROOF-2223 slip −~2.4 kg** |
 | Pile 3 green brick | **×40 GB-2211 green · touch PASS · sprint 2 fire 111/120** | **GB-FIRE-2216 first load spent** |
@@ -25,24 +25,24 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Pile 4 dress/field | **~18 kg GREEN** | **STORAGE-PAD-REFRESH-2076 −~3 kg bed patch** |
 | Pile 8 floor-stone | **×0 @ camp · PORTICO-S-FS-1…6 @ S pad · TEMP-N-FS-1…2 @ N pad** | **STONE-HAUL-2194 + camp ×2 −×8 deployed** |
 | Pile 7 CaCO₃ raw | **~22.3 kg GREEN** | **KILN-A-LIME-2248 −~9 kg cooked · ~31.3 kg feed** |
-| Pozz/tuff stock | **~16.5 kg** | **POZZ-KIT-3-PREP-2248 −~1.8 kg @ dry sack staged** |
+| Pozz/tuff stock | **~16.5 kg** | **POZZ-KIT-3 spent @ ASI d2251 · prep draw @ d2248** |
 | POZZ-SLAB-TRIAL-1 | ~4.8 kg @ apron | STRIP-1868 ✓ · reference slab |
 | SLUICE-2-STREAM-CHEEK-1 | ~10.2 kg live | S2-0 stream face · strip-1875 ✓ |
 | SLUICE-2-SILL-SKIM-1 | ~3.8 kg live | Gate seat @ S2-0 · read-1877 ✓ |
 | SLUICE-2-GATE-1 | ✓ live @ S2-0 | Deploy-1878 · prefab kit mounted · bypass staged |
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
-| Quicklime dry | **~8.65 kg GREEN** | **KILN-A-LIME-2248 +~5 kg · POZZ-KIT-3 prep −~0.4 kg** |
-| River sand / grog | **~21.5 kg GREEN @ char-flank mat** | **POZZ-KIT-3-PREP-2248 −~0.9 kg @ dry sack** |
-| Flax shive | ~10.8 kg | PAPER-SPRINT-3-D4 −~300 g |
+| Quicklime dry | **~8.25 kg GREEN** | **KILN-A-LIME-2248 +~5 kg · POZZ-KIT-3 spent @ ASI d2251** |
+| River sand / grog | **~20.6 kg GREEN @ char-flank mat** | **POZZ-KIT-3 spent @ ASI d2251** |
+| Flax shive | **~10.2 kg** | **PAPER-SPRINT-4-D2-2254 −~300 g** |
 | CHAR-RETORT-1 | ✓ LIVE d1777 | Pit lane north berm cell C · ~+15% yield vs pit |
 
 ## Food · seed · ice
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Parched grain | **~0.2 kg @ horreum trail shelf** | **Trail spent d2245 · kitchen resupply @ HOME** |
-| Smoked fish | **~2.80 kg** | **FEAST-YULE d2061 −~80 g serve** |
+| Parched grain | **~0.2 kg @ horreum trail shelf** | **Lap-3 return ~2.7 kg remainder @ shelf d2252** |
+| Smoked fish | **~2.45 kg** | **TRAIL-PACK-2249 −~0.35 kg @ 4 d food pack** |
 | Smoked goose | **~1.46 kg** | **FEAST-YULE d2061 −~120 g hero serve** |
 | Goose giblet jar | ~230 g class | d1964 ~120 g + d2012 ~110 g |
 | Fish jerky | **~0.5 kg** | **TRAIL remainder @ horreum shelf d2238** |
@@ -97,7 +97,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Cu prill + peas | ~0.13 kg | WIRE-SPRINT-2 d1982 −~1.48 kg → wire |
+| Cu prill + peas | **~75 g** | **BRASS-CEMENTATION-BATCH-4-2258 −~55 g** |
 | **WIRE-CU-3** | **~60 m @ ~0.9 mm · lane C** | **WIRE-SPRINT −~22 m coils d1985+d1987 · WIRE-SPOOL-1 dry @ bench** |
 | **EM-COIL-2** | **~240 turns @ iron core ~185 g · bench fixture @ chem porch** | **d1987 · magnet bootstrap class · leads C/D** |
 | **WIRE-CU-4** | **~14 m @ ~1.6 mm · lane B coil** | **WIRE-SPRINT d1979+d1982 · chem porch** |
@@ -105,7 +105,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
 | H-11 hematite | ~12.3 kg | Pile 4 |
 | Iron bloom (mounted) | **~13.7 kg** | **DOOR-2141 −~280 g · STRAP-2142 −~165 g** |
-| M-22 magnetite tray | **~0.27 kg** | **IRON-NAIL-BATCH-2228 −~220 g maintenance charge** |
+| M-22 magnetite tray | **~50 g** | **IRON-NAIL-BATCH-3-2264 −~220 g maintenance charge** |
 | **MAG-BOOT-EM rod #9** | **Spare @ dry tray · ~168 g · ~36 mm pole class** | **d1992 · stack backup · not in MAG-STACK-2** |
 | **MAG-BOOT-SPARE-1** | **Old stack #1–4 @ horreum B peg · ~27–31 mm solo class** | **MAG-STACK-2 d1991 demote** |
 | **MAG-STACK-2** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · rods #5–8 + iron yoke · lift ~58 mm** | **d1991 · EM-assist stack · deflection ~3–6°** |
@@ -120,20 +120,21 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Kozan ore stockpile | ~0 kg | Gate lee · bank empty · haul home d1854 |
 | Kozan char bank | ~0.3 kg RED | Kiln lee · smelt spent |
 | Bronze stock | ~476 g | PEDAL-GEN-HEAD d1985 −~22 g bush |
-| Brass stock | **~40 g** | **BRASS-FORGE-2229/2230 cast draw · sprue return honest** |
+| Brass stock | **~85 g** | **BRASS-CAST-CRAFT-CAB-2-2260 −~24 g net · ~6 g sprue return** |
 | Pb metal | ~1.07 kg | Forge jar · double-red |
-| ZnO calcine | ~1.07 kg | Chem-lab |
+| ZnO calcine | **~1.05 kg** | **BRASS-CEMENTATION-BATCH-4-2258 −~18 g** |
 | Kisecik fringe pyrite | ~2 kg | Chem-lab · roast defer |
 | M-11 alum crude | ~1.71 kg | v1 CHEM |
-| M-12 niter | ~1.0 kg crystal · ~60 g crude tail | M-12-PURIFY-2-1905 +~318 g crystal |
-| M-14 sulfur | ~498 g flour · ~15.6 kg block | Measured d1905 · block untouched |
-| Charcoal flour | ~237 g | POWDER-PREP-1905 +~65 g grind |
+| M-12 niter | **~760 g crystal · ~60 g crude tail** | **GUNPOWDER-MIX-2255 −~240 g** |
+| M-14 sulfur | **~466 g flour · ~15.6 kg block** | **GUNPOWDER-MIX-2255 −~32 g** |
+| Charcoal flour | **~189 g** | **GUNPOWDER-MIX-2255 −~48 g** |
+| **Gunpowder mealed** | **~80 g @ chem-lab lidded tray** | **BLAST-CAP-BATCH-2256 −~240 g · tail honest** |
 | Soda / kelp ash | **~0 g pinch** | **STORAGE-W-GLASS-BATCH-5 −~11 g · restock before next pour** |
 | Woad reserve | ~0 g | ATELIER-CURTAIN-DYE-1943 −~18 g vat top-up |
-| Woad leaf | **~88 g dry Y6-1 remain + ~140 g fresh Y6-2** | porch shred −~40 g · Y6-2 untouched |
+| Woad leaf | **~88 g dry Y6-1 @ storage wing migrate defer + ~140 g fresh Y6-2 @ porch + ~175 g fresh Y7-1 drying @ Atelier porch** | **WOAD-LEAF-Y7-1-2266 pull** |
 | Madder dry | ~79 g | v1 CHEM |
-| Tallow | **~182 g @ v1 trough jar** | **STORAGE-WING-FLOOR-TREAT-1 −~28 g** |
-| Beeswax | **~204 g** | **STORAGE-WING-FLOOR-TREAT-1 −~12 g buff** |
+| Tallow | **~134 g @ v1 trough jar** | **STORAGE-WING-SHELVES-1 −~10 g board wipe** |
+| Beeswax | **~192 g** | **CRAFT-CABINET-2 finish −~8 g class** |
 | Cork bark | ~1.04 kg | CART-POWDER-SAFE-1876 −~12 g lid gasket |
 | Quartz frit | ~120 g | Vial G-FRIT |
 
@@ -141,13 +142,13 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Thread | ~172 m | ARROW d1963 −~2 m batch |
-| Flax line | **~1.56 kg @ FIBER-BIN-1 horreum A** | **STORAGE-W-AWNING thread spin −~38 g** |
-| Flax tow | **~15 g @ FIBER-BIN-2 horreum A** | **STORAGE-WING-RUG-1 −~95 g · restock on flax break** |
+| Thread | **~312 m** | **WHEEL-SPIN-INTERLEAVE-2254 +~70 m** |
+| Flax line | **~1.20 kg @ STORAGE-WING N lower shelf** | **TEXTILE-ZONE-MOVE-2265 from horreum A** |
+| Flax tow | **~15 g @ STORAGE-WING N lower shelf** | **TEXTILE-ZONE-MOVE-2265 from horreum A** |
 | **COLLECT-BAG-1..3** | **Tow body · OLIVE-PICK / MADDER-ROOT / SPARE tags @ barn peg** | **COLLECT-BAG-SPRINT d2025** |
 | **THREAD-STOCK-2** | **~2 m @ W-1 peg AMBER thin** | **STORAGE-W-AWNING weave −~7 m · **spin before linens**** |
 | VENT-BELT rope | ~123 m | DRILL-PRESS d1970 −~2.6 m |
-| Hide scrap | **~0.40 m² trim** | TALLOW-RENDER d2011 − fat trim class · goat-519 reserve |
+| Hide scrap | **~0.38 m² trim** | **BROOM-Y7-1 glue batch −~12 g class** |
 | Billie hide A-03 | **~0.54 m² @ retired W-1 lean-to frame** | **HUB-DOOR-MOUNT-2231 −~0.12 m² strip ×2** |
 | Goat horn billie | **×0 on stave** · ~25 g waste @ pile 6 | BOW-2-HORN-LAMINATE-1912 |
 | Sinew dry | **×0 spent** | **BOW-2-SINEW-BACK-1914 −~55 g on stave** |
@@ -182,6 +183,8 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Care | **FARM-CARE-GREEN · scare-only all farm seed rows · no hoe through lines** |
 | **P-RETT-13** | **✓ break d2022 · arc closed** | |
 | **P-RETT-14** | **✓ break d2044 · arc closed** | |
+| **P-RETT-15** | **✓ submerged d2262 · pull test ~d2272–2276 · day ~3/14 @ d2265** | **WILD-FLAX-PULL-Y7 lap 1 ~5.4 kg** |
+| **P-RETT-16** | **✓ dry queue d2265 @ storage wing · load when P-RETT-15 clears** | **WILD-FLAX-PULL-Y7-L2 ~4.0 kg green** |
 | **FLAX-BREAK-14** | **✓ ~150 g line · ~45 g tow d2044** | |
 | **ACORN-LEACH-Y6-1** | **✓ soak 1 d2044** | |
 | **ACORN-LEACH-Y6-2** | **✓ soak 2 d2045** | |
@@ -348,6 +351,20 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CONCRETE-RUNWAY-GATE-2246** | **Lime > gravel · sand RED for kit-3** | |
 | **SAND-HAUL-2247** | **✓ ~22.4 kg net · fork bar @ T-1 low** | |
 | **WEEK-321-CLOSE-2247** | **✓ trail lap-2 + factory refill band** | |
+| **KILN-A-LIME-2248** | **✓ ×2 stagger · quicklime ~9 kg · pile 7 ~22 kg remain** | |
+| **POZZ-KIT-3-PREP-2248** | **✓ prep d2248 · spent @ ASI d2251** | |
+| **WEEK-322-OPEN-2248** | **Concrete kit band @ HOME** | |
+| **POZZ-CONCRETE-BRIDGE-KIT-3** | **✓ spent @ ASI-ORONTES-1 d2251** | |
+| **TRAIL-TQ-PACK-PREP-2249** | **✓ staged @ yard · ~62 kg · food ~6 kg · caps ×2** | |
+| **TRAIL-TQ-LAP-3** | **✓ CLOSE d2252 · KTRUNK listen + ASI upgrade + ford cure read** | |
+| **KARASU-SHORE-CURE-READ-2252** | **✓ both wings LIVE · 7 d PASS** | |
+| **TRAIL-TQ-LAP-CLOSE-2252** | **✓ HOME · caps ×2 · TRIB-02 defer** | |
+| **TRAIL-TQ-PACK-LOAD-2250** | **✓ wheels-up · ~62 kg · vector KTRUNK** | |
+| **KARASU-TRUNK-1-LISTEN-2250** | **✓ PASS · trunk upgraded · kit carried homeward** | |
+| **BRIDGE-UPGRADE-BAND-2250** | **Upgrade un-upgraded · before Belen · lap-3** | |
+| **ASI-ORONTES-1-B-REINFORCE-2251** | **✓ kit-3 · pozz wings · ~2 mm · curing** | |
+| **KARASU-TRIB-02-LISTEN-2251** | **✓ homeward PASS · oak-only · upgrade defer** | |
+| **STONE-HAUL-2249** | **✓ ×3 FS @ T-2 · REFILL reload** | |
 | **BLAST-PINCH-2-2241** | **✓ L3 crown · cap C spent · TQ ~3.0→~3.2** | |
 | **ASI-ORONTES-1-LISTEN-2241** | **✓ lap 2 confirm PASS · no deploy** | |
 | **WEEK-321-OPEN-2241** | **Listen + blast @ field** | |
@@ -384,7 +401,34 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CHAR-RETORT-2177** | **✓ ×3 full · lane ~46 kg post-lime burn** | |
 | **KILN-A-LIME-2177** | **✓ ~5.4 kg quicklime · pile 7 spent · mortar GO** | |
 | **WEEK-311-CLOSE-2177** | **✓ factory · hub · storage band** | |
-| **THREAD-RUNWAY-SLATE-2176** | **~2 m RED · agent flag before linen heroes** | |
+| **THREAD-RUNWAY-SLATE-2176** | **~312 m · hub-rug band GO when named · spin still useful** | |
+| **TQ-SPRINT-1-PAUSE-2253** | **Trail stable Belen band · resume later summer · lap-3 CLOSE** | |
+| **HOME-SIDE-SLATE-2253** | **Paper/powder/spin active · cabinets · hub finish · voltaic · defer list filed** | |
+| **PAPER-SPRINT-4-2253** | **D2 ✓ · ~4 peg runway · shive ~10.2 kg · sheets 18–19 spent caps** | |
+| **GUNPOWDER-MIX-2255** | **✓ batch spent @ cap build · ~80 g tail remain** | |
+| **BLAST-CAP-BATCH-2256** | **✓ ×5 @ powder safe · berm proof PASS · cap A spent** | |
+| **FURNITURE-QUALITY-SLATE-2257** | **Straight · smooth · brass · LATHE + DRILL-PRESS grammar** | |
+| **CRAFT-CABINET-1-2257** | **✓ LIVE d2258 @ Atelier west cheek · art kit loaded** | |
+| **CRAFT-CABINET-2-2260** | **✓ LIVE d2261 @ south bench · textile/loom spare loaded** | |
+| **CRAFT-WING-CABINET-PAIR-2261** | **✓ west art + south craft consumables · WEEK-323 close** | |
+| **BRASS-CEMENTATION-BATCH-4-2258** | **✓ stock ~85 g post CAB-2 cast** | |
+| **WOOD-HAUL-2259** | **✓ pile 5 topped pre CAB-2** | |
+| **WEEK-323-CLOSE-2261** | **✓ d2261 · Week 324 @ d2262** | |
+| **WILD-FLAX-PULL-Y7-2262** | **✓ lap 1 ~5.4 kg · P-RETT-15 @ ditch W** | |
+| **WILD-FLAX-PULL-Y7-L2-2265** | **✓ ~4.0 kg · P-RETT-16 dry queue · lap 2 close honest** | |
+| **TEXTILE-STORAGE-DOCTRINE-2265** | **Storage wing = fiber/hemp queue · Atelier = spin/weave/dye/paint** | |
+| **TEXTILE-ZONE-MOVE-2265** | **Line/tow → storage wing · collect bags migrate defer** | |
+| **WOAD-LEAF-Y7-1-2266** | **✓ ~175 g fresh @ Atelier porch rack · dry ~5–7 d** | |
+| **CAMPUS-WEED-PULL-Y7-2267** | **✓ six zones · ~8 kg midden turn** | |
+| **BROOM-Y7-1-2268** | **✓ donkey hair · hide glue · lathe handle @ storage wing hook** | |
+| **CAMPUS-INTERIOR-SWEEP-2268** | **✓ domus · hub · storage · atelier · chem/fabrica** | |
+| **WEEK-324-CLOSE-2268** | **✓ · Week 325 @ d2269** | |
+| **WEEK-324-OPEN-2262** | **Fiber band · wild window mid-band** | |
+| **IRON-NAIL-BATCH-2228** | **✓ ×36 forged d2228 · hub doors spent −×28** | |
+| **IRON-NAIL-BATCH-3-2264** | **✓ ×36 forged · ~30 remain post shelf mount** | |
+| **STORAGE-WING-SHELVES-STAGE-2263** | **✓ boards staged · layout marked · forge defer** | |
+| **STORAGE-WING-SHELVES-1-2264** | **✓ N ×3 + S ×2 LIVE · bracket forge + mount** | |
+| **WEEK-323-OPEN-2255** | **HOME side band · powder/caps runway live** | |
 | **STORAGE-WING-LAMP-HANG-1** | **✓ hook LIVE d2167 · portable OL swap** | |
 | **FACTORY-RUNWAY-READ-2169** | **Clay ~84 kg · sand ~27.5 kg GREEN · press+fire next** | |
 | **HAUL-CLAY-2169** | **✓ ~31.4 kg net · pile 1 ~84 kg GREEN** | |
@@ -643,14 +687,14 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Item | Qty | Where |
 |------|-----|-------|
 | **KOZAN-HUT-1 @ gate** | **CLOSE ✓ d1832 · door LIVE · ×18 brick spare @ site · mortar ~0.7 kg** | **HUT-MAT-BAND spent · tin defer** |
-| Bridge spare | **REFILL-16 skeleton @ horreum B · FS ×1 · caps ×2 @ powder safe** | **Lap-2 CLOSE · shore-2 curing @ ford** |
+| Bridge spare | **REFILL-16 skeleton @ horreum B · FS ×2 · caps ×5 @ powder safe** | **BLAST-CAP-BATCH-2256 · TRIB-02 queued next lap** |
 | Trail maint slice | **~5.9 kg @ wagon · ~2 kg @ bench** | **STASH recover d1859** |
 | EXPED rope | ~18 m | Wagon dry well |
-| Iron nails | **×8 @ bench** | **HUB-DOOR-MOUNT-2231 −×28 · hinge + peg mount** |
+| Iron nails | **~×30 @ bench** | **IRON-NAIL-BATCH-3-2264 +×36 · STORAGE-WING-SHELVES mount −×14** |
 | Corral stakes | ×4 @ Belen · ×4 @ pile 9 | |
 | Fence stakes | ×2 | Pile 9 |
 | M-spikes in crate | ×2 | TRIB-FT-STAKE-1898 −×2 |
-| **CART-POWDER-SAFE-1** | **caps ×2 · mid-aft mount · lap-2 unused** | **WHEEL-CART-1 · L2+L3 blasts spent lap-2** |
+| **CART-POWDER-SAFE-1** | **caps ×5 · mid-aft mount · d2256 batch merge** | **WHEEL-CART-1 · berm proof PASS d2256** |
 | **CART-IRON-RIM-1** | **✓ both wheels** | **Full bands d1877 · wobble ~1 mm class** |
 | **WW-2-WHEEL-1** | **✓ @ north pad · belt tree LIVE** | **Phase 3 CLOSE d1894** |
 | **GS-2-FLYWHEEL-1** | **✓ outboard @ WW-2 shaft** | **~9.8 kg oak · ~290 g iron band · d1888** |

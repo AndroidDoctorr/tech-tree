@@ -14,11 +14,11 @@ Lamp hooks (parking, portable OL swap): Atelier S + portico · Fabrica bench · 
 
 ## Atelier / craft wing
 
-Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-STAGE ✓ d1803** — **LM-2 @ NE corner · EASEL-1 @ west cheek · stool · rug · ART-KIT-1 + palette · paint cakes · brushes · canvas @ SE corner stack** · **ATELIER-CURTAIN-W+S woad blue LIVE ✓ d1943** · protos ×2 @ M2 spare · TEMP-PORTICO · awnings S (reed) · W + portico (blue/white linen woad) · lamp hooks · drain E swale PASS d1760 · **CRAFT-CABINET-1 + brass fittings defer**
+Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-STAGE ✓ d1803** — **LM-2 @ NE corner · EASEL-1 @ west cheek · **CRAFT-CABINET-1 + 2 ✓** · **TEXTILE-DOCTRINE ✓ d2265 — spin/weave/dye/paint home** · rug · woad curtains LIVE ✓ d1943** · protos ×2 @ M2 spare · TEMP-PORTICO · awnings · lamp hooks · drain E swale PASS d1760
 
 ## Storage wing
 
-**STORAGE-WING-1** · 5×6 m · W door+window LIVE · interior limewash ✓ · oak floor treat ✓ · **STORAGE-WING-RUG-1 ~94×64 cm natural @ W entry ✓ d2166** · **STORAGE-LANTERN-HOOK-1 ✓ d2167 · portable OL swap** · **E hub tie ✓ d2168** · **STORAGE-W-AWNING-1 ✓ d2176 · blue/white woad stripe @ W window**
+**STORAGE-WING-1** · 5×6 m · W door+window LIVE · interior limewash ✓ · oak floor treat ✓ · **STORAGE-WING-RUG-1 ~94×64 cm natural @ W entry ✓ d2166** · **STORAGE-LANTERN-HOOK-1 ✓ d2167 · portable OL swap** · **E hub tie ✓ d2168** · **STORAGE-W-AWNING-1 ✓ d2176 · blue/white woad stripe @ W window** · **STORAGE-WING-SHELVES-1 ✓ d2264 · N ×3 + S ×2 tiers** · **TEXTILE-STORAGE-DOCTRINE ✓ d2265** · **BROOM-Y7-1 ✓ d2268 @ N hook**
 
 ## Lanterns
 

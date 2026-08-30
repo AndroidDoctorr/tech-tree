@@ -2225,6 +2225,26 @@
 | 2246 | [day-2246.md](days/year-007/week-321/day-2246.md) | **CHAR-RETORT ✓ · HAUL-LIME ✓ · lime > gravel gate** | **Cal-Y7 D185 · 24 Jun** |
 | 2247 | [day-2247.md](days/year-007/week-321/day-2247.md) | **SAND-HAUL ✓ · kit-3 runway GO · WEEK-321-CLOSE** | **Cal-Y7 D186 · 25 Jun** |
 | 2248 | [day-2248.md](days/year-007/week-322/day-2248.md) | **KILN-A-LIME ✓ · POZZ-KIT-3 prep ✓ · WEEK-322-OPEN** | **Cal-Y7 D187 · 26 Jun** |
+| 2249 | [day-2249.md](days/year-007/week-322/day-2249.md) | **TRAIL-TQ-PACK-PREP ✓ · caps ×2 · food ~6 kg** | **Cal-Y7 D188 · 27 Jun** |
+| 2250 | [day-2250.md](days/year-007/week-322/day-2250.md) | **Lap-3 OPEN · KTRUNK listen ✓ · upgrade band filed** | **Cal-Y7 D189 · 28 Jun** |
+| 2251 | [day-2251.md](days/year-007/week-322/day-2251.md) | **ASI kit-3 upgrade ✓ · homeward · camp @ ~16 km** | **Cal-Y7 D190 · 29 Jun** |
+| 2252 | [day-2252.md](days/year-007/week-322/day-2252.md) | **Homeward ✓ · ford cure read ✓ · lap-3 CLOSE · HOME** | **Cal-Y7 D191 · 30 Jun** |
+| 2253 | [day-2253.md](days/year-007/week-322/day-2253.md) | **PAPER-SPRINT-4 D1 ✓ · spin interleave · TQ sprint 1 PAUSE** | **Cal-Y7 D192 · 1 Jul** |
+| 2254 | [day-2254.md](days/year-007/week-322/day-2254.md) | **PAPER-SPRINT-4 D2 ✓ · spin interleave · WEEK-322-CLOSE** | **Cal-Y7 D193 · 2 Jul** |
+| 2255 | [day-2255.md](days/year-007/week-323/day-2255.md) | **WEEK-323-OPEN · GUNPOWDER-MIX ✓ · caps queued** | **Cal-Y7 D194 · 3 Jul** |
+| 2256 | [day-2256.md](days/year-007/week-323/day-2256.md) | **BLAST-CAP-BATCH ✓ · berm proof ✓ · caps ×5 @ safe** | **Cal-Y7 D195 · 4 Jul** |
+| 2257 | [day-2257.md](days/year-007/week-323/day-2257.md) | **CRAFT-CABINET-1 D1 ✓ · brass cast · dry-fit · mount defer** | **Cal-Y7 D196 · 5 Jul** |
+| 2258 | [day-2258.md](days/year-007/week-323/day-2258.md) | **BRASS-FORGE ✓ · CRAFT-CABINET-1 LIVE ✓ · load art kit** | **Cal-Y7 D197 · 6 Jul** |
+| 2259 | [day-2259.md](days/year-007/week-323/day-2259.md) | **WOOD-HAUL ✓ · pile 5 topped · CAB-2 stock GO** | **Cal-Y7 D198 · 7 Jul** |
+| 2260 | [day-2260.md](days/year-007/week-323/day-2260.md) | **CRAFT-CABINET-2 D1 ✓ · brass cast · dry-fit** | **Cal-Y7 D199 · 8 Jul** |
+| 2261 | [day-2261.md](days/year-007/week-323/day-2261.md) | **CRAFT-CABINET-2 LIVE ✓ · WEEK-323-CLOSE** | **Cal-Y7 D200 · 9 Jul** |
+| 2262 | [day-2262.md](days/year-007/week-324/day-2262.md) | **WEEK-324-OPEN · WILD-FLAX-PULL-Y7 ✓ · P-RETT-15 load** | **Cal-Y7 D201 · 10 Jul** |
+| 2263 | [day-2263.md](days/year-007/week-324/day-2263.md) | **STORAGE-WING-SHELVES stage ✓ · boards milled · forge defer** | **Cal-Y7 D202 · 11 Jul** |
+| 2264 | [day-2264.md](days/year-007/week-324/day-2264.md) | **IRON-NAIL-BATCH-3 ✓ · bracket forge ✓ · shelves LIVE ✓** | **Cal-Y7 D203 · 12 Jul** |
+| 2265 | [day-2265.md](days/year-007/week-324/day-2265.md) | **WILD-FLAX lap 2 ✓ · textile zone doctrine · P-RETT-16 queue** | **Cal-Y7 D204 · 13 Jul** |
+| 2266 | [day-2266.md](days/year-007/week-324/day-2266.md) | **WOAD-LEAF-Y7-1 ✓ · Atelier porch rack** | **Cal-Y7 D205 · 14 Jul** |
+| 2267 | [day-2267.md](days/year-007/week-324/day-2267.md) | **CAMPUS-WEED-PULL ✓ · six zones · midden turn** | **Cal-Y7 D206 · 15 Jul** |
+| 2268 | [day-2268.md](days/year-007/week-324/day-2268.md) | **BROOM-Y7-1 ✓ · interior sweep ✓ · WEEK-324-CLOSE** | **Cal-Y7 D207 · 16 Jul** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

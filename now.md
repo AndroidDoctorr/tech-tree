@@ -2,29 +2,30 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2248** · Cal-Y7 D187 · ~26 Jun · Week 322 day 1 · **HOME · kit-3 staged**
+**Day 2268** · Cal-Y7 D207 · ~16 Jul · Week 324 **CLOSE** · **HOME · BROOM-Y7-1 LIVE · interiors swept**
 
 | Track | Status |
 |-------|--------|
-| **Fuel** | **Char ~27 kg · pile 5 ~5 kg AMBER** |
-| **Concrete** | **POZZ-KIT-3 @ trough · quicklime ~9 kg · sand ~21 kg · pozz ~16 kg · pile 7 ~22 kg** |
-| **Crossings** | **KARASU ford both shores curing · hands off** |
-| **Campus** | **Stage 3 ✓ · Silas hold** |
-| **Farm** | **Green line live · fig/grape Aug window** |
+| **Trail column** | **Unloaded @ CART-YARD · caps ×5 @ powder safe · REFILL-16 skeleton @ horreum B** |
+| **Textile zones** | **Storage wing + Atelier doctrine live · woad ~175 g fresh drying @ Atelier porch** |
+| **Fiber** | **P-RETT-15 @ ditch W ~d6/14 · P-RETT-16 dry queue · pull ~d2272–2276** |
+| **Campus** | **Weed cheeks cleared d2267 · BROOM-Y7-1 @ storage wing hook · interiors swept d2268** |
+| **Craft / storage** | **Cabinet pair ✓ · shelves LIVE ✓ · pile 5 ~23.2 kg** |
+| **Crossings** | **KARASU ford LIVE ✓ · TRIB-02 queued · Belen defer** |
+| **Farm** | **Green line live · fig/grape Aug 1 ~16 d** |
 
 ## Next
 
-**Pack/lash kit-3 or HOME band** — **trail when named**
+**Week 325 @ d2269** — **Paper sprint · hub finish · P-RETT-15 pull band · player names**
 
 ## Agent reminders (player request d2176)
 
-- **Linens / weave / rug:** **FLAG if THREAD ~2 m RED** — do not start linen heroes without spin/haul unless player names it.
-- **Resources general:** haul · spin · char · clay not auto-assumed — gate read first; player names or blockers only.
+- **Linens / weave / rug:** **Thread ~312 m @ craft wing · hub-rug GO when named**
+- **Textile storage (d2265):** **Fiber/hemp/dye/paint → storage wing + Atelier**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **1 Apr–Sep** — **Quartz/ore haul · exped OPEN · trail work band**
-- **Jun live** — **Cart prep · trail/quarry optional**
+- **9 Jul–18 Aug** — **Woad *(Y7 pull ✓ · dry/shred ~d2271+)* **
 - **1 Aug–15 Sep** — **Fig · grape** *(flag on FARM-CARE)*
 
 ## Do not treat as live

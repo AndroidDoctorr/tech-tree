@@ -4,7 +4,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Spare @ HOME
 
-- **REFILL-16 skeleton @ horreum B peg d2245** — **FS ×1 · rope · lap-2 CLOSE · kit spent @ shore-2**
+- **REFILL-16 skeleton @ horreum B peg d2252** — **FS ×2 · rope · lap-3 CLOSE · caps ×2 @ powder safe**
 - **FILL-16 spent** · **RESERVE oak spent d1965 @ KTRUNK forms**
 - TRAIL-MAINT-SLICE **partial @ bench class · wagon unloaded**
 - TENT-2 nested @ CART-YARD · TENT-1 backup @ WW-YARD
@@ -19,7 +19,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 |----------|--------|-------|
 | **TRIB-FT-01 @ HOME TRIB-1** | **~3.0** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** |
 | KARASU-TRIB-02 | **~3.0** | ~16 km · d1384 |
-| ASI-ORONTES-1 | **~3.0** | d1386 |
+| ASI-ORONTES-1 | **~3.0** | **concrete abut d2251 · ~2 mm · curing 7 d** |
 | AFRIN-1 | **~3.5** | **~10 m · site B · concrete abut d1967 · touch d2243 · ~2 mm · site A ford defer** |
 | KIRIKHAN-APPROACH-1 | **~3.0** | ~12 m · d1396 |
 | ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 |
@@ -29,8 +29,8 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | ERZIN-APPROACH-1 | **~3.5** | ~9 m · reinforced d1544 |
 | CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |
 | TRIB-FT-N02 | **~3.0** | ~8 m · d1473 |
-| **KARASU-TRIB-01** | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1 ✓ d2236 · shore-2 ✓ d2245 · both wings curing · knee @ pads** |
-| **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · SC-KTRUNK · ford + concrete abutments · cure read PASS d1972 · loaded ford ghost PASS · deck defer** |
+| **KARASU-TRIB-01** | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1+2 **LIVE ✓** · cure read d2252 · knee @ both pads** |
+| **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · listen PASS d2250 · ford ghost PASS · deck defer** |
 
 ## Caches · waystations
 
