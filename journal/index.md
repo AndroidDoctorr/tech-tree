@@ -2271,6 +2271,17 @@
 | 2292 | [day-2292.md](days/year-007/week-328/day-2292.md) | **Wheels-up ✓ · TRIB-02 pozz ✓ · camp @ KTRUNK · Belen vector** | **Cal-Y7 D231 · 9 Aug** |
 | 2293 | [day-2293.md](days/year-007/week-328/day-2293.md) | **BLAST-PINCH-3 ✓ · KIRIKHAN-MAINT ✓ · camp @ Belen** | **Cal-Y7 D232 · 10 Aug** |
 | 2294 | [day-2294.md](days/year-007/week-328/day-2294.md) | **TRAIL-TQ-RETURN ✓ · lap-4 CLOSE @ HOME** | **Cal-Y7 D233 · 11 Aug** |
+| 2295 | [day-2295.md](days/year-007/week-328/day-2295.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 ✓ · fuel runway** | **Cal-Y7 D234 · 12 Aug** |
+| 2296 | [day-2296.md](days/year-007/week-328/day-2296.md) | **WOAD-LEAF-Y7-2 ✓ · FIG-LEATHER-Y7 roll ✓** | **Cal-Y7 D235 · 13 Aug** |
+| 2297 | [day-2297.md](days/year-007/week-329/day-2297.md) | **WEEK-329-OPEN · ZN-METAL-1-PRACTICE ✓ · ~31 g Zn** | **Cal-Y7 D236 · 14 Aug** |
+| 2298 | [day-2298.md](days/year-007/week-329/day-2298.md) | **ZN-METAL-1-SCALE-1 ✓ · ~105 g · stock ~136 g** | **Cal-Y7 D237 · 15 Aug** |
+| 2299 | [day-2299.md](days/year-007/week-329/day-2299.md) | **WOAD-LEAF-Y7-3 ✓ · WOAD-DRY-SHRED-Y7-2 ✓ · reserve ~154 g** | **Cal-Y7 D238 · 16 Aug** |
+| 2300 | [day-2300.md](days/year-007/week-329/day-2300.md) | **ZN-METAL-1-SCALE-2 ✓ · ~105 g · stock ~241 g** | **Cal-Y7 D239 · 17 Aug** |
+| 2301 | [day-2301.md](days/year-007/week-329/day-2301.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 ✓ · lane ~35 kg** | **Cal-Y7 D240 · 18 Aug** |
+| 2302 | [day-2302.md](days/year-007/week-329/day-2302.md) | **VOLTAIC-JAR-1 green ✓ · throw @ yard rack · fire defer** | **Cal-Y7 D241 · 19 Aug** |
+| 2303 | [day-2303.md](days/year-007/week-329/day-2303.md) | **CU-SMELT-BATCH-3 ✓ · CU-PLATE-FORGE ✓ · WEEK-329-CLOSE** | **Cal-Y7 D242 · 20 Aug** |
+| 2304 | [day-2304.md](days/year-007/week-330/day-2304.md) | **WEEK-330-OPEN · ZN-PLATE-FORGE ✓ · VOLTAIC-JAR-FIRE ✓** | **Cal-Y7 D243 · 21 Aug** |
+| 2305 | [day-2305.md](days/year-007/week-330/day-2305.md) | **VOLTAIC-PILE-1 ✓ · ×6 Cu/Zn · steady needle ~3–4°** | **Cal-Y7 D244 · 22 Aug** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

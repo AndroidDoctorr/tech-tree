@@ -1,6 +1,6 @@
 # Inventory
 
-Live countable stock. Last patched **Day 2294**. `~` = last count ± logged draws.
+Live countable stock. Last patched **Day 2303**. `~` = last count ± logged draws.
 
 Lookup (do not copy quantities here): [fixtures](inventory/fixtures.md) · [bridges and trail](inventory/bridges-and-trail.md) · [tools and lab](inventory/tools-lab.md) · [pre-split archive](inventory/archive-pre-split-1775.md) · [food-ledger](food-ledger.md) · [map](map.md)
 
@@ -12,12 +12,12 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | **~13.5 kg GREEN** | **CHAR-RETORT-2286 +~22 kg · POT-FIRE-2286 −~17.5 kg** |
+| Char lane | **~23 kg GREEN** | **CU-SMELT-2303 + VOLTAIC-JAR-FIRE-2304 −~11.6 kg** |
 | Quartz Belen haul | **~53.6 kg** | **STORAGE-W-GLASS-BATCH-5 −~86 g** |
-| Pile 5 oak | **~4.7 kg GREEN** | **CHAR-RETORT-2286 −~14 kg · WOOD-CRATE-3 −~4.5 kg** |
+| Pile 5 oak | **~31 kg GREEN** | **WOOD-HAUL-2301 +~26.1 kg · CHAR-RETORT-2301 −~22 kg feed** |
 | Pile 4 dress/field | **~0.3 kg GREEN** | **TERRACE-CAP-2272 −~0.5 kg** |
 | Store C vault | ~37 kg | Reserve · char pack defer |
-| Pile 1 clay | **~26 kg GREEN** | **AMPHORA-8 finish + P-μ batch −~3.1 kg** |
+| Pile 1 clay | **~23 kg GREEN** | **VOLTAIC-JAR-1-2302 −~2.8 kg** |
 | Pile 3 green brick | **×40 GB-2211 green · touch PASS · sprint 2 fire 111/120** | **GB-FIRE-2216 first load spent** |
 | Kiln B stackable | **~170 AMBER** | **FLUE-STACK-2221 −×5 · roof shell oak-only** |
 | TR tiles @ rack | **×1 fired surplus · hub roof −×50 · green ×0** | **HUB-TR-ROOF-2223 · ×1 scrap logged** |
@@ -57,8 +57,9 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **P-18 chickpea Y6** | **~203 g @ horreum A pulse bay P-18-Y6** | **SPRING-SOW-Y7-2129 −~45 g sow** |
 | **P-17 lentil Y6** | **~241 g @ horreum A pulse bay P-17-Y6** | **Bulk reserve · elite drilled** |
 | Seed vault | **P-14 ~0 · P-15 ~0 · P-21 ~5 g · P-FAVA ~2 g · P-17-ELITE-Y3 ~12 g · P-07 ~0 · **HEMP-SEL-Y7 ~17 g · P-PARSLEY-SEL-Y7 ~2 g · P-CORIANDER-SEL-Y7 ~9 g · P-ALLIUM-SEL-Y7 ~6 g · P-THYME-SEL-Y7 ~5 g · P-ROSEMARY-SEL-Y7 ~7 g**** | **CAMPUS-HERB-SEED-SAVE-2158** |
-| Fig leather | **~575 g rack + ~750 g tray drying (FIG-LEATHER-Y7)** | **FIG-HARVEST-Y7-1 d2288 · finish ~5–7 d** |
-| **Fresh fig hold** | **~350 g @ cool step** | **FIG-HARVEST-Y7-1 d2288** |
+| Fig leather | **~1.1 kg @ horreum east rack · FIG-LEATHER-Y7 + prior stock** | **FIG-LEATHER-ROLL-Y7-2296 · tray ~520 g net** |
+| **Fresh fig hold** | **~110 g @ cool step** | **FARM-CARE tail d2296** |
+| **Woad fresh Y7-3** | **~140 g @ Atelier porch dry line** | **WOAD-LEAF-Y7-3-2299 · last pull · shred defer** |
 | **Fresh grape hold** | **✓ spent @ crush d2290** | **GRAPE-PICK-FERMENT-2290** |
 | **Grape must Y7** | **~3.6 L @ crock #2 · BARREL-4 overflow · mother crock · day ~4–5 band** | **GRAPE-FERMENT-Y7-1 d2290** |
 | Pistachio | **~2.27 kg** | **HEMP-GHAB-SCOUT-PREP d2047 −~80 g trail** |
@@ -67,7 +68,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Grape leather | ~330 g | LARDER-REFILL-1860 −~150 g mix pinch |
 | **Grape must / vinegar Y6** | **Vinegar class @ AMPHORA-5 · P-ξ-4 · crock · mother live** | **GRAPE-VINEGAR-SPRINT d1994 · YEAST-CAPTURE d2041** |
 | **STARTER-Y6-1** | **Live @ culina warm peg · emmer · daily feed** | **YEAST-CAPTURE-1 d2041** |
-| **Vinegar (mother crock)** | **~350 ml usable · top-up acetifying** | **GRAPE-VINEGAR-1 lineage · refresh d1994** |
+| **Vinegar (mother crock)** | **~170 ml usable · top-up acetifying** | **VOLTAIC-PILE-1-2305 −~180 ml class** |
 | **SNAIL-BRINE-Y6 @ crock** | **~220 g @ v1 porch · warm-queued d2060 −~80 g** | **SNAIL-COOK-2057** |
 | Olive brine | ~2.0 kg | P-02 crock legacy |
 | **Olive brine Y6** | **~910 g fruit @ crock #2 v1 porch · salt · 6–18 mo band** | **OLIVE-STRAY-LAP d2056 +~290 g** |
@@ -84,6 +85,9 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **AMPHORA-7** | **✓ OIL-Y6-2 sediment cup sealed @ press cool-step · ~50 ml tail · decanted d2043** | **POT-FIRE + REpitch-OIL d2035** |
 | **P-μ-9 · P-μ-10** | **SALT · SPICE @ horreum A margin** | **STORAGE-JAR-SPRINT-2 ✓ d2007** |
 | **P-μ-11 · P-μ-12** | **✓ LIVE @ horreum A margin · SALT + PARCHED** | **POT-FIRE-SPRINT-2286** |
+| **VOLTAIC-JAR-1** | **✓ LIVE @ chem-lab bench · VOLTAIC-PILE-1 ×6 pairs assembled** | **VOLTAIC-PILE-1-2305** |
+| **VOLTAIC-PILE-1** | **✓ ×6 Cu/Zn pairs · vinegar electrolyte · ~3–4° steady needle** | **VOLTAIC-PILE-1-2305** |
+| **Zn voltaic plates** | **~6 spare @ chem-lab tray · ~Ø45 mm** | **VOLTAIC-PILE-1-2305 −×6 to stack** |
 | **AMPHORA-8** | **✓ LIVE @ cart yard brackish/general · M-08 foot ring** | **POT-FIRE-SPRINT-2286** |
 | **P-ξ-5** | **OIL @ v1/culina · ~450 ml working draw · GLASS-BOTTLE backup** | **OLIVE-OIL-SETTLE-1 d2043** |
 | **EMMER-YEAST-BREAD-1** | **✓ first loaf ~480 g d2043 · STARTER-Y6-1** | **Weekly bake class** |
@@ -102,12 +106,13 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Cu prill + peas | **~75 g** | **BRASS-CEMENTATION-BATCH-4-2258 −~55 g** |
+| Cu prill + peas | **~555 g @ forge staging** | **CU-SMELT-BATCH-3-2303 +~830 g · CU-PLATE-FORGE −~350 g** |
+| **Cu voltaic plates** | **~6 spare @ chem-lab tray · ~Ø45 mm · ×6 in pile** | **VOLTAIC-PILE-1-2305 −×6 to stack** |
 | **WIRE-CU-3** | **~60 m @ ~0.9 mm · lane C** | **WIRE-SPRINT −~22 m coils d1985+d1987 · WIRE-SPOOL-1 dry @ bench** |
 | **EM-COIL-2** | **~240 turns @ iron core ~185 g · bench fixture @ chem porch** | **d1987 · magnet bootstrap class · leads C/D** |
 | **WIRE-CU-4** | **~14 m @ ~1.6 mm · lane B coil** | **WIRE-SPRINT d1979+d1982 · chem porch** |
 | WIRE-DRY-1 legacy | ~2.6 m @ ~0.75 mm class | Chem cab · untouched d1979 |
-| O-1 malachite | ~14.4 kg | CU-SMELT d1981 −~14 kg |
+| O-1 malachite | **~0.4 kg tail @ pile 4** | **CU-SMELT-BATCH-3-2303 −~14 kg** |
 | H-11 hematite | ~12.3 kg | Pile 4 |
 | Iron bloom (mounted) | **~13.7 kg** | **DOOR-2141 −~280 g · STRAP-2142 −~165 g** |
 | M-22 magnetite tray | **~50 g** | **IRON-NAIL-BATCH-3-2264 −~220 g maintenance charge** |
@@ -115,7 +120,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **MAG-BOOT-SPARE-1** | **Old stack #1–4 @ horreum B peg · ~27–31 mm solo class** | **MAG-STACK-2 d1991 demote** |
 | **MAG-STACK-2** | **✓ @ PEDAL-GEN-1-HEAD magnet drawer · rods #5–8 + iron yoke · lift ~58 mm** | **d1991 · EM-assist stack · deflection ~3–6°** |
 | **COIL-BOBBIN-1** | **~120 turns WIRE-CU-3 fine @ gen-head gap · shell removable** | **d1985 · modest-loop class** |
-| Sphalerite SPH-1 | ~12.9 kg | Forge staging |
+| Sphalerite SPH-1 | **~11.0 kg** | **ZN-SCALE-2298/2300 −~1.08 kg crush class** |
 | Galena-class PB | ~12.2 kg | Forge staging |
 | Cinnabar HgS | ~35.9 kg | v1 CHEM isolated · no roast |
 | Quartz Belen haul | ~53.6 kg | See fuel section · FACE-B @ STORE-4 |
@@ -127,7 +132,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Bronze stock | ~476 g | PEDAL-GEN-HEAD d1985 −~22 g bush |
 | Brass stock | **~85 g** | **BRASS-CAST-CRAFT-CAB-2-2260 −~24 g net · ~6 g sprue return** |
 | Pb metal | ~1.07 kg | Forge jar · double-red |
-| ZnO calcine | **~1.05 kg** | **BRASS-CEMENTATION-BATCH-4-2258 −~18 g** |
+| ZnO calcine | **~1.015 kg** | **ZN-DISTILL trial-3 −~35 g** |
+| **Zn metal** | **~49 g prill @ chem-lab lidded tray · ZN-METAL-1 tail** | **ZN-PLATE-FORGE-1-2304 −~192 g** |
 | Kisecik fringe pyrite | ~2 kg | Chem-lab · roast defer |
 | M-11 alum crude | ~1.71 kg | v1 CHEM |
 | M-12 niter | **~760 g crystal · ~60 g crude tail** | **GUNPOWDER-MIX-2255 −~240 g** |
@@ -135,7 +141,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Charcoal flour | **~189 g** | **GUNPOWDER-MIX-2255 −~48 g** |
 | **Gunpowder mealed** | **~80 g @ chem-lab lidded tray** | **BLAST-CAP-BATCH-2256 −~240 g · tail honest** |
 | Soda / kelp ash | **~0 g pinch** | **STORAGE-W-GLASS-BATCH-5 −~11 g · restock before next pour** |
-| Woad reserve | **~109 g dry @ storage wing dye shelf · WOAD-RESERVE-Y7 · vat tired-light** | **WOAD-VAT-REFRESH-Y7-2274 −~55 g** |
+| Woad reserve | **~154 g dry @ storage wing dye shelf · WOAD-RESERVE-Y7 · tired-light topped** | **WOAD-DRY-SHRED-Y7-2-2299 +~45 g** |
 | Flax line | **~675 g @ STORAGE-WING N lower shelf** | **WHEEL-SPIN-2286 −~125 g** |
 | Flax tow | **~0 g @ STORAGE-WING N lower shelf** | **COLLECT-BAG-SPRINT-2286 −~53 g** |
 | Madder dry | ~79 g | v1 CHEM |
@@ -487,6 +493,27 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **BELEN-CAMP-2293** | **✓ pad C · homeward queued** | |
 | **TRAIL-TQ-RETURN-2294** | **✓ Belen → HOME listen-only · mid-afternoon yard** | |
 | **TRAIL-TQ-LAP-4-CLOSE-2294** | **✓ lap-4 closed · caps ×2 · food ~2.2 kg** | |
+| **WOOD-HAUL-2295** | **✓ ~25.9 kg net · pile 5 restored** | |
+| **CHAR-RETORT-2295** | **✓ ×3 full · lane ~35 kg GREEN** | |
+| **WOAD-LEAF-Y7-2-2296** | **✓ ~190 g fresh · shredded d2299** | |
+| **FIG-LEATHER-ROLL-Y7-2296** | **✓ tray → ~520 g · combined ~1.1 kg stock** | |
+| **ZN-DISTILL-DOCTRINE-2297** | **Forge retort ✓ · Kiln B NO-GO · moderate char** | |
+| **ZN-METAL-1-PRACTICE-2297** | **✓ ~31 g first metallic Zn · trials 1–3** | |
+| **WEEK-329-OPEN-2297** | **Chem/forge band · Zn scale runway** | |
+| **ZN-METAL-1-SCALE-1-2298** | **✓ ~105 g session · stock ~136 g · ×3 runs** | |
+| **WOAD-LEAF-Y7-3-2299** | **✓ last window pull · ~140 g @ porch · stand crowned** | |
+| **WOAD-DRY-SHRED-Y7-2-2299** | **✓ reserve ~154 g dry** | |
+| **ZN-METAL-1-SCALE-2-2300** | **✓ ~105 g session · stock ~241 g · ×3 runs** | |
+| **WOOD-HAUL-2301** | **✓ ~26.1 kg net · pile 5 topped pre-retort** | |
+| **CHAR-RETORT-2301** | **✓ ×3 full · lane ~10.5 → ~35 kg GREEN** | |
+| **VOLTAIC-JAR-1-GREEN-2302** | **✓ throw @ yard rack · fire defer** | |
+| **CU-SMELT-BATCH-3-2303** | **✓ ~830 g Cu · O-1 spent · tail ~0.4 kg** | |
+| **CU-PLATE-FORGE-1-2303** | **✓ ~12 voltaic disks @ chem-lab tray** | |
+| **WEEK-329-CLOSE-2303** | **Zn band · Cu plates · jar drying** | |
+| **WEEK-330-OPEN-2304** | **Voltaic runway · plate sets + jar fire** | |
+| **ZN-PLATE-FORGE-1-2304** | **✓ ~12 Zn disks matched to Cu set** | |
+| **VOLTAIC-JAR-FIRE-2304** | **✓ fired after dry + plates ready** | |
+| **VOLTAIC-PILE-1-2305** | **✓ ×6 Cu/Zn · vinegar · ~3–4° steady needle** | |
 | **WEEK-324-OPEN-2262** | **Fiber band · wild window mid-band** | |
 | **IRON-NAIL-BATCH-2228** | **✓ ×36 forged d2228 · hub doors spent −×28** | |
 | **IRON-NAIL-BATCH-3-2264** | **✓ ×36 forged · ~30 remain post shelf mount** | |
