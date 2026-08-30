@@ -2245,6 +2245,15 @@
 | 2266 | [day-2266.md](days/year-007/week-324/day-2266.md) | **WOAD-LEAF-Y7-1 ✓ · Atelier porch rack** | **Cal-Y7 D205 · 14 Jul** |
 | 2267 | [day-2267.md](days/year-007/week-324/day-2267.md) | **CAMPUS-WEED-PULL ✓ · six zones · midden turn** | **Cal-Y7 D206 · 15 Jul** |
 | 2268 | [day-2268.md](days/year-007/week-324/day-2268.md) | **BROOM-Y7-1 ✓ · interior sweep ✓ · WEEK-324-CLOSE** | **Cal-Y7 D207 · 16 Jul** |
+| 2269 | [day-2269.md](days/year-007/week-325/day-2269.md) | **BITUMEN-SCOUT-1 ✓ · TERRACE-STAKE-1 · WEEK-325-OPEN** | **Cal-Y7 D208 · 17 Jul** |
+| 2270 | [day-2270.md](days/year-007/week-325/day-2270.md) | **TERRACE-WEST-BENCH-1 D1 ✓ · footing · main 2 courses · ~35%** | **Cal-Y7 D209 · 18 Jul** |
+| 2271 | [day-2271.md](days/year-007/week-325/day-2271.md) | **TERRACE-WEST-BENCH-1 D2 ✓ · main 4 courses · short 2 · ~70%** | **Cal-Y7 D210 · 19 Jul** |
+| 2272 | [day-2272.md](days/year-007/week-325/day-2272.md) | **TERRACE-WEST-BENCH-1 CLOSE ✓ · P-RETT-15 pull ✓ · P-RETT-16 load ✓** | **Cal-Y7 D211 · 20 Jul** |
+| 2273 | [day-2273.md](days/year-007/week-325/day-2273.md) | **FLAX-BREAK-15 ✓ · WOAD-DRY-SHRED-Y7 ✓ · reserve ~164 g** | **Cal-Y7 D212 · 21 Jul** |
+| 2274 | [day-2274.md](days/year-007/week-325/day-2274.md) | **WHEEL-SPIN ✓ · WOAD-VAT-REFRESH ✓ · WEEK-325-CLOSE** | **Cal-Y7 D213 · 22 Jul** |
+| 2275 | [day-2275.md](days/year-007/week-325/day-2275.md) | **HUB-RUG-1 ✓ @ hub S · WEEK-325-CLOSE** | **Cal-Y7 D214 · 23 Jul** |
+| 2276 | [day-2276.md](days/year-007/week-326/day-2276.md) | **WEEK-326-OPEN · ATELIER-RUG-1 ✓ @ Atelier S · natural** | **Cal-Y7 D215 · 24 Jul** |
+| 2277 | [day-2277.md](days/year-007/week-326/day-2277.md) | **HAUL-CLAY ✓ · AMPHORA-8-START ✓ · STORAGE-SPRINT-OPEN** | **Cal-Y7 D216 · 25 Jul** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)

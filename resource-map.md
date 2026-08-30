@@ -73,6 +73,7 @@
 | **M-14** | **Native sulfur** (brimstone) | **Collect ✓ · road ✓ d1611** | **Kisecik ~14 km NW** · Amanus toe | **Chem · Sulfur · Gunpowder** | **KISECIK-SULFUR-ROAD K-R0–K-R3 · K-R3 ~TQ 2.0 · 1-day grammar · Orontes direct ford = future** |
 | **M-15** | **Zinc** (sphalerite) · **lead** (Pb-class sulfides) | **Scout ✓ d1651 · modest sample ~2.8 kg** | **Kisecik ophiolite · quartz-sulfide veins @ ZN-PB-MARK-1A/1B ~200 m NE of M-14 1A** | **Brass horizon · bullets · pipe · alloy R&D** | **GEOLOGY-SLATE-REVISION-1634 · **sphalerite + galena-class confirmed d1651** · Ag sparse · K-R0–K-R3 ~TQ 2.5** |
 | **M-16** | **Silver** (galena/electrum class) | **Scout defer · far lap** | **Bolkardağ / Madenköy · north Tarsus** | **Coin · wire · chemistry** | **Main Ag horizon · closer gossans opportunistic only · Seyhan crossing = later expedition** |
+| **M-17** | **Bitumen** (natural seep / tar stain) | **~3.2 km WNW** | **Plain limestone bench · dry wash · **BITUMEN-SEEP-1 ✓ d2269** | **Waterproof · mastic · seal horizon** | **Sample ~220 g @ chem-lab · fracture stain · no active flow @ dry read · haul defer** |
 | **M-13** | **Kelp / seaweed** | **~20 km W beach** | **COAST-1 ✓ Day 202** | **Iodine · Ash · Wrap** | Source site · **burned Day 288 → KELP-ASH-1** @ v1 |
 
 ---

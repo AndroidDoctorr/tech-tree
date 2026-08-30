@@ -2,31 +2,30 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2268** · Cal-Y7 D207 · ~16 Jul · Week 324 **CLOSE** · **HOME · BROOM-Y7-1 LIVE · interiors swept**
+**Day 2277** · Cal-Y7 D216 · ~25 Jul · Week 326 day 2 · **HOME · STORAGE-SPRINT · AMPHORA-8 ~12%**
 
 | Track | Status |
 |-------|--------|
-| **Trail column** | **Unloaded @ CART-YARD · caps ×5 @ powder safe · REFILL-16 skeleton @ horreum B** |
-| **Textile zones** | **Storage wing + Atelier doctrine live · woad ~175 g fresh drying @ Atelier porch** |
-| **Fiber** | **P-RETT-15 @ ditch W ~d6/14 · P-RETT-16 dry queue · pull ~d2272–2276** |
-| **Campus** | **Weed cheeks cleared d2267 · BROOM-Y7-1 @ storage wing hook · interiors swept d2268** |
-| **Craft / storage** | **Cabinet pair ✓ · shelves LIVE ✓ · pile 5 ~23.2 kg** |
-| **Crossings** | **KARASU ford LIVE ✓ · TRIB-02 queued · Belen defer** |
-| **Farm** | **Green line live · fig/grape Aug 1 ~16 d** |
+| **Storage sprint** | **AMPHORA-8 ~12% @ yard rack · pile 1 ~32 kg · P-μ/jars queued peripheral** |
+| **Trail column** | **Unloaded @ CART-YARD · caps ×5 @ powder safe** |
+| **Textile** | **HUB-RUG-1 + ATELIER-RUG-1 ✓ · hub N rug defer until N wing work** |
+| **Fiber** | **P-RETT-16 ~d5/14 @ ditch W · pull ~d2282–2286** |
+| **Farm** | **Fig/grape Aug 1 ~6 d · flag on FARM-CARE** |
+| **Ext limewash** | **Scoped ~5–7 hero days · HAUL-LIME + burn first · Domus partial Y4** |
 
 ## Next
 
-**Week 325 @ d2269** — **Paper sprint · hub finish · P-RETT-15 pull band · player names**
+**AMPHORA-8 coils · P-μ peripheral · lime haul before ext wash · player names**
 
 ## Agent reminders (player request d2176)
 
-- **Linens / weave / rug:** **Thread ~312 m @ craft wing · hub-rug GO when named**
+- **Hub N rug:** **Defer until hub N wing work**
 - **Textile storage (d2265):** **Fiber/hemp/dye/paint → storage wing + Atelier**
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **9 Jul–18 Aug** — **Woad *(Y7 pull ✓ · dry/shred ~d2271+)* **
-- **1 Aug–15 Sep** — **Fig · grape** *(flag on FARM-CARE)*
+- **9 Jul–18 Aug** — **Woad *(vat tired-light)* **
+- **1 Aug–15 Sep** — **Fig · grape** *(~6 d · flag on FARM-CARE)*
 
 ## Do not treat as live
 
