@@ -4,12 +4,12 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **unloaded d2294 · caps ×2 @ powder safe · REFILL-16 skeleton @ horreum B peg**
-- **TENT-2 nested @ CART-YARD · TENT-1 backup @ WW-YARD**
-- **EXPED-CARRY-KIT-1 restocked @ wagon peg**
-- **TRAIL-MAINT-SLICE partial @ bench class**
-- **COVERED-WAGON-1 + CART-1 pack rig @ CART-YARD**
-- **Trail food ~2.2 kg @ horreum shelf class**
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-TQ-LAP-5-CLOSE d2331 · hub collars refreshed d2348 PT+SB · dual-hub roll PASS · caps ×4 @ powder safe**
+- **×4 caps @ HOME powder safe**
+- **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
+- **EXPED-CARRY-KIT-1 @ wagon peg**
+- **TRAIL-MAINT-SLICE partial @ bench + mid-forward + cart mid-forward**
+- **COVERED-WAGON-1 + pack rig @ CART-YARD**
 
 ## Live bridges (site B unless noted)
 
@@ -18,19 +18,23 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | Crossing | **BQ** | Notes |
 |----------|--------|-------|
 | **TRIB-FT-01 @ HOME TRIB-1** | **~3.0** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** |
-| KARASU-TRIB-02 | **~2.0** | **~16 km · pozz wings d2292 · cure 7 d · ~2 mm class** |
+| KARASU-TRIB-02 | **~2.0** | **~16 km · pozz wings d2292 · cure firm · ~2 mm class** |
 | ASI-ORONTES-1 | **~3.0** | **concrete abut d2251 · ~2 mm · curing 7 d** |
 | AFRIN-1 | **~3.5** | **~10 m · site B · concrete abut d1967 · touch d2243 · ~2 mm · site A ford defer** |
-| KIRIKHAN-APPROACH-1 | **~3.0** | **~12 m · MAINT touch d2293 · ~3 mm post-dress** |
-| ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 |
+| KIRIKHAN-APPROACH-1 | **~2.0** | **~53 km · pozz wings d2319 · cure ~day 4/7 · ~2 mm · hands off** |
+| ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 · reinforced · listen PASS d2320 |
 | PINARUS-1 | **~3.5** | ~12 m · reinforced d1551 · ~2 mm |
-| PAYAS-APPROACH-1 | **~3.5–4** | ~14 m · reinforced d1630 · **d1822 reinforce ~3→~2 mm** |
-| DORTYOL-APPROACH-1 | **~3.5** | ~10 m · reinforced d1564 |
-| ERZIN-APPROACH-1 | **~3.5** | ~9 m · reinforced d1544 |
+| PAYAS-APPROACH-1 | **~2.0** | **~103 km · pozz wings d2328 · cure 7 d · ~2 mm · hands off** |
+| DORTYOL-APPROACH-1 | **~3.5** | **~117 km · reinforced d1564 · listen PASS d2329 · site stone touch** |
+| ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · listen PASS d2329 · lap-5 terminus** |
+| **L6 crown** | **—** | **~88 km avian · BLAST-PINCH-5 d2328 · TQ ~3.0 · dressed** |
+| **L7 crown** | **—** | **~110 km avian · BLAST-PINCH-6 d2329 · TQ ~2.9 · dressed** |
+| **L8 crown** | **—** | **~74 km avian · BLAST-PINCH-7 d2330 · TQ ~3.0 · dressed** |
 | CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |
 | TRIB-FT-N02 | **~3.0** | ~8 m · d1473 |
 | **KARASU-TRIB-01** | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1+2 **LIVE ✓** · cure read d2252 · knee @ both pads** |
-| **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · listen PASS d2250 · ford ghost PASS · deck defer** |
+| **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · listen PASS · ford ghost PASS · deck defer** |
+| **L5 crown** | **—** | **~72 km avian · BLAST-PINCH-4 d2320 · TQ ~3.1 · dressed** |
 
 ## Caches · waystations
 

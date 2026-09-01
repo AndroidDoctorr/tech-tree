@@ -2282,6 +2282,50 @@
 | 2303 | [day-2303.md](days/year-007/week-329/day-2303.md) | **CU-SMELT-BATCH-3 ✓ · CU-PLATE-FORGE ✓ · WEEK-329-CLOSE** | **Cal-Y7 D242 · 20 Aug** |
 | 2304 | [day-2304.md](days/year-007/week-330/day-2304.md) | **WEEK-330-OPEN · ZN-PLATE-FORGE ✓ · VOLTAIC-JAR-FIRE ✓** | **Cal-Y7 D243 · 21 Aug** |
 | 2305 | [day-2305.md](days/year-007/week-330/day-2305.md) | **VOLTAIC-PILE-1 ✓ · ×6 Cu/Zn · steady needle ~3–4°** | **Cal-Y7 D244 · 22 Aug** |
+| 2306 | [day-2306.md](days/year-007/week-330/day-2306.md) | **VOLTAIC-BATTERY-TRAY-1 green ✓ · 2×4 · fire defer** | **Cal-Y7 D245 · 23 Aug** |
+| 2307 | [day-2307.md](days/year-007/week-330/day-2307.md) | **ZN-PLATE-FORGE-2 · ×3 disks · char −~0.8 kg · stock spent** | **Cal-Y7 D246 · 24 Aug** |
+| 2308 | [day-2308.md](days/year-007/week-330/day-2308.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 ✓ · lane ~35 kg** | **Cal-Y7 D247 · 25 Aug** |
+| 2309 | [day-2309.md](days/year-007/week-330/day-2309.md) | **ZN-PLATE-SPRINT-1 ✓ · ×6 plates · char −~8.5 kg** | **Cal-Y7 D248 · 26 Aug** |
+| 2310 | [day-2310.md](days/year-007/week-330/day-2310.md) | **ZN-PLATE-SPRINT-2 ✓ · tray fire ✓ · WEEK-330-CLOSE** | **Cal-Y7 D249 · 27 Aug** |
+| 2311 | [day-2311.md](days/year-007/week-331/day-2311.md) | **WEEK-331-OPEN · PLATE-MOLD-TRAY-FIRE ✓ · WOOD-HAUL ✓** | **Cal-Y7 D250 · 28 Aug** |
+| 2312 | [day-2312.md](days/year-007/week-331/day-2312.md) | **VOLTAIC-STORAGE ✓ · TRAIL-TQ-PACK-AUDIT · lap-5 slate** | **Cal-Y7 D251 · 29 Aug** |
+| 2313 | [day-2313.md](days/year-007/week-331/day-2313.md) | **PAPER-SPRINT-5-D1 ✓ · SHEET-22 · 23 drying** | **Cal-Y7 D252 · 30 Aug** |
+| 2314 | [day-2314.md](days/year-007/week-331/day-2314.md) | **PAPER-SPRINT-5-D2 ✓ · SHEET-24 · 25 drying** | **Cal-Y7 D253 · 31 Aug** |
+| 2315 | [day-2315.md](days/year-007/week-331/day-2315.md) | **PISTACHIO-P-01-Y7 ✓ · ~4.0 kg hull-on drying** | **Cal-Y7 D254 · 1 Sep** |
+| 2316 | [day-2316.md](days/year-007/week-331/day-2316.md) | **BLAST-CAP-BATCH-2 ✓ · ×5 @ safe · berm proof PASS** | **Cal-Y7 D255 · 2 Sep** |
+| 2317 | [day-2317.md](days/year-007/week-331/day-2317.md) | **TRAIL-TQ-PACK-PREP ✓ · POZZ-KIT-5 · food ~6 kg · WEEK-331-CLOSE** | **Cal-Y7 D256 · 3 Sep** |
+| 2318 | [day-2318.md](days/year-007/week-332/day-2318.md) | **WEEK-332-OPEN · TRAIL-TQ-LAP-5 OPEN · wheels-up · camp @ KTRUNK** | **Cal-Y7 D257 · 4 Sep** |
+| 2319 | [day-2319.md](days/year-007/week-332/day-2319.md) | **KIRIKHAN-POZZ-5 ✓ · kit-5 spent · deploy doctrine** | **Cal-Y7 D258 · 5 Sep** |
+| 2320 | [day-2320.md](days/year-007/week-332/day-2320.md) | **BLAST-PINCH-4 ✓ · L5 crown · ISK camp · Payas queue** | **Cal-Y7 D259 · 6 Sep** |
+| 2321 | [day-2321.md](days/year-007/week-332/day-2321.md) | **TRAIL-TQ-RETURN ✓ · lap-5 PAUSE · resupply queued** | **Cal-Y7 D260 · 7 Sep** |
+| 2322 | [day-2322.md](days/year-007/week-332/day-2322.md) | **PAPER-SPRINT-5-D3 ✓ · SHEET-26 · 27 drying** | **Cal-Y7 D261 · 8 Sep** |
+| 2323 | [day-2323.md](days/year-007/week-332/day-2323.md) | **PAPER-SPRINT-5-D4 ✓ · SHEET-28 · 29 drying** | **Cal-Y7 D262 · 9 Sep** |
+| 2324 | [day-2324.md](days/year-007/week-332/day-2324.md) | **GUNPOWDER-MIX ✓ · WEEK-332-CLOSE · caps queued** | **Cal-Y7 D263 · 10 Sep** |
+| 2325 | [day-2325.md](days/year-007/week-333/day-2325.md) | **WEEK-333-OPEN · FOOD-TOP-UP ✓ · POZZ-KIT-6 ✓ · caps defer** | **Cal-Y7 D264 · 11 Sep** |
+| 2326 | [day-2326.md](days/year-007/week-333/day-2326.md) | **P-01-SHELL ✓ · BLAST-CAP-BATCH-3 ✓ · trail pack complete** | **Cal-Y7 D265 · 12 Sep** |
+| 2327 | [day-2327.md](days/year-007/week-333/day-2327.md) | **Wheels-up ✓ · lap-5 resume · camp @ Belen · acorn defer** | **Cal-Y7 D266 · 13 Sep** |
+| 2328 | [day-2328.md](days/year-007/week-333/day-2328.md) | **BLAST-PINCH-5 ✓ · PAYAS-POZZ-6 ✓ · camp @ Payas** | **Cal-Y7 D267 · 14 Sep** |
+| 2329 | [day-2329.md](days/year-007/week-333/day-2329.md) | **PAYAS listen ✓ · BLAST-PINCH-6 ✓ · Dörtyol/Erzin listen ✓ · camp @ Erzin** | **Cal-Y7 D268 · 15 Sep** |
+| 2330 | [day-2330.md](days/year-007/week-333/day-2330.md) | **TRAIL-TQ-RETURN leg 1 ✓ · BLAST-PINCH-7 ✓ · camp @ Belen** | **Cal-Y7 D269 · 16 Sep** |
+| 2331 | [day-2331.md](days/year-007/week-333/day-2331.md) | **TRAIL-TQ-RETURN ✓ · lap-5 CLOSE ✓ · HOME** | **Cal-Y7 D270 · 17 Sep** |
+| 2332 | [day-2332.md](days/year-007/week-334/day-2332.md) | **WEEK-334-OPEN · ACORN-GATHER-Y7 ✓ · ~6.7 kg bulk** | **Cal-Y7 D271 · 18 Sep** |
+| 2333 | [day-2333.md](days/year-007/week-334/day-2333.md) | **ACORN-LEACH-Y7-1 ✓ · CAMPUS-DAY ✓ · soak live** | **Cal-Y7 D272 · 19 Sep** |
+| 2334 | [day-2334.md](days/year-007/week-334/day-2334.md) | **ACORN-LEACH-Y7-2 ✓ · WOOD-HAUL ✓ · pile 5 ~81 kg** | **Cal-Y7 D273 · 20 Sep** |
+| 2335 | [day-2335.md](days/year-007/week-334/day-2335.md) | **ACORN-LEACH-Y7-3 ✓ · EXT-LIMEWASH-FABRICA D1 ✓** | **Cal-Y7 D274 · 21 Sep** |
+| 2336 | [day-2336.md](days/year-007/week-334/day-2336.md) | **ACORN-LEACH-Y7-4 ✓ · EXT-LIMEWASH-FABRICA CLOSE ✓** | **Cal-Y7 D275 · 22 Sep** |
+| 2337 | [day-2337.md](days/year-007/week-334/day-2337.md) | **ACORN-LEACH-PASS ✓ · TERRACE-HUB-S D1 ✓** | **Cal-Y7 D276 · 23 Sep** |
+| 2338 | [day-2338.md](days/year-007/week-334/day-2338.md) | **TERRACE-HUB-S CLOSE ✓ · ACORN-ROAST ✓ · WEEK-334-CLOSE** | **Cal-Y7 D277 · 24 Sep** |
+| 2339 | [day-2339.md](days/year-007/week-335/day-2339.md) | **WEEK-335-OPEN · CHAR-RETORT ✓ · ACORN-LEACH-Y7-2 soak 1 ✓** | **Cal-Y7 D278 · 25 Sep** |
+| 2340 | [day-2340.md](days/year-007/week-335/day-2340.md) | **ACORN-LEACH-Y7-2 soak 2 ✓ · CHAR-RETORT-2 ✓ · lane ~58 kg** | **Cal-Y7 D279 · 26 Sep** |
+| 2341 | [day-2341.md](days/year-007/week-335/day-2341.md) | **ACORN soak 3 ✓ · STEEL-PACK-TRIAL-1 ✓ · EXPED-CLOSE ✓** | **Cal-Y7 D280 · 27 Sep** |
+| 2342 | [day-2342.md](days/year-007/week-335/day-2342.md) | **ACORN soak 4 ✓ · STEEL-CASE-TOOLKIT ✓ · drift · punch · chisel** | **Cal-Y7 D281 · 28 Sep** |
+| 2343 | [day-2343.md](days/year-007/week-335/day-2343.md) | **ACORN-LEACH-PASS batch 2 ✓ · IRON-NAIL-BATCH-4 ✓ · ×36 @ bench** | **Cal-Y7 D282 · 29 Sep** |
+| 2344 | [day-2344.md](days/year-007/week-335/day-2344.md) | **MACHINE-PARTS-1 ✓ · shaft stock ×3 · collar sleeves ×2 · idler #2 bore** | **Cal-Y7 D283 · 30 Sep** |
+| 2345 | [day-2345.md](days/year-007/week-335/day-2345.md) | **ACORN-ROAST batch 2 ✓ · CHAR-RETORT ✓ · WEEK-335-CLOSE** | **Cal-Y7 D284 · 1 Oct** |
+| 2346 | [day-2346.md](days/year-007/week-336/day-2346.md) | **WEEK-336-OPEN · GRAPE-HARVEST-Y7-2 ✓ · tail strip · window close** | **Cal-Y7 D285 · 2 Oct** |
+| 2347 | [day-2347.md](days/year-007/week-336/day-2347.md) | **WOOD-HAUL ✓ · pile 5 ~28 kg · retort runway restored** | **Cal-Y7 D286 · 3 Oct** |
+| 2348 | [day-2348.md](days/year-007/week-336/day-2348.md) | **CART-HUB-COLLAR-REFRESH ✓ · PT+SB · refractory clay slate** | **Cal-Y7 D287 · 4 Oct** |
+| 2349 | [day-2349.md](days/year-007/week-336/day-2349.md) | **DRAWPLATE-STEEL-LANE ✓ · Koruhoyuk clay lead · B/C steel inserts** | **Cal-Y7 D288 · 5 Oct** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
