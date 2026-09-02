@@ -2,20 +2,18 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2349** · Cal-Y7 D288 · ~5 Oct · Week 336 day 4 · **HOME · WORKBENCH-1**
+**Day 2395** · Cal-Y7 D334 · ~20 Nov · Week 343 day 1 · **HOME · P-02 press day**
 
 | Track | Status |
 |-------|--------|
-| **Drawplate** | **DRAWPLATE-2 · lane A bronze · **lanes B/C CASE steel inserts** ✓ d2349 · test draw PASS** |
-| **Refractory clay** | **Lead: Koruhoyuk tuff tribs → Karasu · vinegar no-fizz field test · **season defer**** |
-| **Cart** | **WHEEL-CART-1 hub collars refreshed · dual-hub roll PASS** |
-| **Fuel** | **Char lane ~70 kg · pile 5 ~28 kg GREEN** |
-| **Bench** | **LATHE-1 100% · DRILL-PRESS-1 ~95% · iron nails ×28 @ peg tray** |
-| **Precision queue** | **Voltaic Cu sprint · loom-wing frame · Koruhoyuk clay scout (season) · chem post-harvest** |
+| **Olive / oil** | **OIL-Y7-1 ~1.7 L crude @ AMPHORA-6 settling · lap 3 optional · Y6 clear ~2.05 L** |
+| **Salt sprint** | **Cycle 4 evap · scrape ~2 d · window ~6 d left** |
+| **Harvest prep** | **~75% · block ~7 d** |
+| **Char** | **Lane ~66 kg** |
 
 ## Next
 
-**Voltaic Cu sprint · loom-wing frame · harvest runway**
+**D335 — salt scrape read · harvest GO band · oil settle hands off**
 
 ## Agent reminders (player request d2312)
 
@@ -23,7 +21,8 @@
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **15 Oct** — **Grape pick hard close (~10 d · Y7 filed d2346)**
+- **20 Nov – 10 Dec** — **Olive oil press / settle band**
+- **26 Nov** — **Salt evap closes**
 - **27 Nov+** — **Harvest block hard**
 
 ## Do not treat as live

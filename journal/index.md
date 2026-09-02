@@ -2326,6 +2326,52 @@
 | 2347 | [day-2347.md](days/year-007/week-336/day-2347.md) | **WOOD-HAUL ✓ · pile 5 ~28 kg · retort runway restored** | **Cal-Y7 D286 · 3 Oct** |
 | 2348 | [day-2348.md](days/year-007/week-336/day-2348.md) | **CART-HUB-COLLAR-REFRESH ✓ · PT+SB · refractory clay slate** | **Cal-Y7 D287 · 4 Oct** |
 | 2349 | [day-2349.md](days/year-007/week-336/day-2349.md) | **DRAWPLATE-STEEL-LANE ✓ · Koruhoyuk clay lead · B/C steel inserts** | **Cal-Y7 D288 · 5 Oct** |
+| 2350 | [day-2350.md](days/year-007/week-336/day-2350.md) | **STEEL-CASE-KITCHEN ✓ · knife + scraper · CHEM-LABWARE-SLATE** | **Cal-Y7 D289 · 6 Oct** |
+| 2351 | [day-2351.md](days/year-007/week-336/day-2351.md) | **MEASURE-2 ✓ · CALIPER-1 · PEG-GAUGE-BOARD-1 ×7 bores** | **Cal-Y7 D290 · 7 Oct** |
+| 2352 | [day-2352.md](days/year-007/week-336/day-2352.md) | **KORUHOYUK-PREP ✓ · DRAW-BENCH-1-D1 ✓ · WEEK-336-CLOSE** | **Cal-Y7 D291 · 8 Oct** |
+| 2353 | [day-2353.md](days/year-007/week-337/day-2353.md) | **WEEK-337-OPEN · CLAY-SCOUT D1 ✓ · Karasu trib banks · ~2.1 kg candidate** | **Cal-Y7 D292 · 9 Oct** |
+| 2354 | [day-2354.md](days/year-007/week-337/day-2354.md) | **CLAY-SCOUT D2 ✓ · downstream push · lap CLOSE ~4.5 kg** | **Cal-Y7 D293 · 10 Oct** |
+| 2355 | [day-2355.md](days/year-007/week-337/day-2355.md) | **CLAY-COLLECT C+D bulk ✓ · ~14.4 kg total staged** | **Cal-Y7 D294 · 11 Oct** |
+| 2356 | [day-2356.md](days/year-007/week-337/day-2356.md) | **REFRACTORY-CLAY-PURIFY-1 ✓ · ×12 green test tiles drying** | **Cal-Y7 D295 · 12 Oct** |
+| 2357 | [day-2357.md](days/year-007/week-337/day-2357.md) | **DRAW-BENCH-1-D2 ✓ · capstan · die head · WW-2 link · ~70%** | **Cal-Y7 D296 · 13 Oct** |
+| 2358 | [day-2358.md](days/year-007/week-337/day-2358.md) | **LAB-LINEN-WEAVE-1 ✓ · plain tabby filter/wrap/voltaic stock** | **Cal-Y7 D297 · 14 Oct** |
+| 2359 | [day-2359.md](days/year-007/week-337/day-2359.md) | **CLAY-TILE-FIRE ✓ · rank D lead · ANNEAL-SAND-BATH-1-D1 shell** | **Cal-Y7 D298 · 15 Oct** |
+| 2360 | [day-2360.md](days/year-007/week-338/day-2360.md) | **WEEK-338-OPEN · CRUCIBLE-GROG-BATCH-1 ✓ · ~6.8 kg wedged** | **Cal-Y7 D299 · 16 Oct** |
+| 2361 | [day-2361.md](days/year-007/week-338/day-2361.md) | **P-LAB-CRUC-BATCH-1 ✓ · ×5 crucibles + ×2 trays green** | **Cal-Y7 D300 · 17 Oct** |
+| 2362 | [day-2362.md](days/year-007/week-338/day-2362.md) | **GLASS-TUBE-NOZZLE-1 + HEAT-BREAK-1 ✓ · green @ rack** | **Cal-Y7 D301 · 18 Oct** |
+| 2363 | [day-2363.md](days/year-007/week-338/day-2363.md) | **ANNEAL-SAND-BATH-1-D2 ✓ · season ×2 · lid + liner · ~75%** | **Cal-Y7 D302 · 19 Oct** |
+| 2364 | [day-2364.md](days/year-007/week-338/day-2364.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 ✓ · lane ~74 kg** | **Cal-Y7 D303 · 20 Oct** |
+| 2365 | [day-2365.md](days/year-007/week-338/day-2365.md) | **KILN-B mixed fire ✓ · storage read · harvest/salt prep slate** | **Cal-Y7 D304 · 21 Oct** |
+| 2366 | [day-2366.md](days/year-007/week-338/day-2366.md) | **AMPHORA-9-START ✓ · base + belly ~40% · WEEK-338-CLOSE** | **Cal-Y7 D305 · 22 Oct** |
+| 2367 | [day-2367.md](days/year-007/week-339/day-2367.md) | **WEEK-339-OPEN · AMPHORA-9 ~70% · nozzle ream ✓** | **Cal-Y7 D306 · 23 Oct** |
+| 2368 | [day-2368.md](days/year-007/week-339/day-2368.md) | **AMPHORA-9 green complete ✓ ~95% · fire defer** | **Cal-Y7 D307 · 24 Oct** |
+| 2369 | [day-2369.md](days/year-007/week-339/day-2369.md) | **GLASS-TUBE-PLENUM-1 ✓ · wood shell @ draw bench · spin defer** | **Cal-Y7 D308 · 25 Oct** |
+| 2370 | [day-2370.md](days/year-007/week-339/day-2370.md) | **PLENUM-SPIN-TEST-1 ✓ · storage prep start · tube draw GO** | **Cal-Y7 D309 · 26 Oct** |
+| 2371 | [day-2371.md](days/year-007/week-339/day-2371.md) | **SALT-PREP-1 ✓ · amphora wash · WINNOW-BAG ×2 ✓** | **Cal-Y7 D310 · 27 Oct** |
+| 2372 | [day-2372.md](days/year-007/week-339/day-2372.md) | **GLASS-TUBE-DRAW-HERO-1 ✓ · first tube · anneal load · roadmap** | **Cal-Y7 D311 · 28 Oct** |
+| 2373 | [day-2373.md](days/year-007/week-339/day-2373.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 · AMPHORA-9-FIRE ✓ · fuel bank** | **Cal-Y7 D312 · 29 Oct** |
+| 2374 | [day-2374.md](days/year-007/week-340/day-2374.md) | **WEEK-340-OPEN · SODA-GATE ✓ · kelp leg 1 · tube unwrap · sea-beet slate** | **Cal-Y7 D313 · 30 Oct** |
+| 2375 | [day-2375.md](days/year-007/week-340/day-2375.md) | **KELP leg 2 ✓ ~3.7 kg wet · sea-beet patches confirmed @ coast** | **Cal-Y7 D314 · 31 Oct** |
+| 2376 | [day-2376.md](days/year-007/week-340/day-2376.md) | **RETURN ✓ · SALT-EDGE-SCOUT ✓ · kelp dry staging · route card update** | **Cal-Y7 D315 · 1 Nov** |
+| 2377 | [day-2377.md](days/year-007/week-340/day-2377.md) | **LAB-STAND-1-A ✓ · Cu wire start · lab kit prep day 1** | **Cal-Y7 D316 · 2 Nov** |
+| 2378 | [day-2378.md](days/year-007/week-340/day-2378.md) | **LAB-STAND B/C ✓ · CU-WIRE-SPRINT ✓ · mandrel GO** | **Cal-Y7 D317 · 3 Nov** |
+| 2379 | [day-2379.md](days/year-007/week-340/day-2379.md) | **HELICAL-MANDREL-1 ✓ · KELP-ASH-3 burn ✓ · soda restored** | **Cal-Y7 D318 · 4 Nov** |
+| 2380 | [day-2380.md](days/year-007/week-340/day-2380.md) | **GLASS-MOLD-KIT-1 ✓ · flat plate · WEEK-340-CLOSE** | **Cal-Y7 D319 · 5 Nov** |
+| 2381 | [day-2381.md](days/year-007/week-341/day-2381.md) | **WEEK-341-OPEN · SALT-HAUL-7 ✓ · SALT-EVAP-POUR-1 ✓ · cycle 1 live** | **Cal-Y7 D320 · 6 Nov** |
+| 2382 | [day-2382.md](days/year-007/week-341/day-2382.md) | **SALT-HAUL-8 ✓ · ~8.4 L yard hold · pour defer** | **Cal-Y7 D321 · 7 Nov** |
+| 2383 | [day-2383.md](days/year-007/week-341/day-2383.md) | **FORGED-GLASS-PLIERS-1 ✓ · glass tong doctrine · tweezers defer** | **Cal-Y7 D322 · 8 Nov** |
+| 2384 | [day-2384.md](days/year-007/week-341/day-2384.md) | **GLASS-LABWARE D1 ✓ · beaker · flask · joints · condenser defer** | **Cal-Y7 D323 · 9 Nov** |
+| 2385 | [day-2385.md](days/year-007/week-341/day-2385.md) | **SALT scrape ✓ ~915 g · pour #2 ✓ · cycle 2 live** | **Cal-Y7 D324 · 10 Nov** |
+| 2386 | [day-2386.md](days/year-007/week-341/day-2386.md) | **LOAD-2 unwrap ✓ · condenser coil ✓ · labware LIVE** | **Cal-Y7 D325 · 11 Nov** |
+| 2387 | [day-2387.md](days/year-007/week-341/day-2387.md) | **Tube #2 ✓ · beaker #2 ✓ · condenser deploy · LOAD-4** | **Cal-Y7 D326 · 12 Nov** |
+| 2388 | [day-2388.md](days/year-007/week-342/day-2388.md) | **WEEK-342-OPEN · LOAD-4 unwrap ✓ · salt cycle 2 scrape ✓** | **Cal-Y7 D327 · 13 Nov** |
+| 2389 | [day-2389.md](days/year-007/week-342/day-2389.md) | **SALT-HAUL-9 ✓ · pour #3 ✓ · stopcock stub ✓** | **Cal-Y7 D328 · 14 Nov** |
+| 2390 | [day-2390.md](days/year-007/week-342/day-2390.md) | **Stopcock unwrap ✓ · storage prep ~75% · sickle pack ✓** | **Cal-Y7 D329 · 15 Nov** |
+| 2391 | [day-2391.md](days/year-007/week-342/day-2391.md) | **OLIVE-PICK-Y7-1 ✓ ~5.2 kg · madder defer** | **Cal-Y7 D330 · 16 Nov** |
+| 2392 | [day-2392.md](days/year-007/week-342/day-2392.md) | **OLIVE-PICK-Y7-2 ✓ ~11.8 kg staged · madder defer** | **Cal-Y7 D331 · 17 Nov** |
+| 2393 | [day-2393.md](days/year-007/week-342/day-2393.md) | **MADDER-DIG-Y7-1 ✓ · SALT scrape ✓ ~915 g** | **Cal-Y7 D332 · 18 Nov** |
+| 2394 | [day-2394.md](days/year-007/week-342/day-2394.md) | **SALT-HAUL-10 ✓ · pour #4 ✓ · WEEK-342-CLOSE** | **Cal-Y7 D333 · 19 Nov** |
+| 2395 | [day-2395.md](days/year-007/week-343/day-2395.md) | **WEEK-343-OPEN · P-02-PRESS-Y7-1 ✓ ~1.7 L crude** | **Cal-Y7 D334 · 20 Nov** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
