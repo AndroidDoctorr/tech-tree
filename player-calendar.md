@@ -21,7 +21,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ## March
 
 - **11 Mar** — Exped / cart trips open
-- **16 Mar** — Spring sow closes *(emmer · lentil · flax · chickpea · **culina herbs** · fava if seed)*
+- **16 Mar** — Spring sow closes *(emmer · lentil · **field flax (Bed B center)** · chickpea · **hemp (Bed A north)** · **fava (Bed A headland)** · **culina herbs** · fava if seed)*
 - **21 Mar** — Apiary expand / swarm / wax harvest opens
 - **21 Mar – 20 Apr** — **Campus herb seed save** *(coriander · allium · thyme · rosemary heads · mint root divide)*
 
@@ -30,10 +30,15 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **1 Apr** — Quartz / ore haul season
 - **20 Apr** — Apiary / swarm / wax harvest closes
 
+## May
+
+- **15 May – 30 Jun** — **Fava pod pick** *(Bed A headland · green or dry seed · before heat off)*
+
 ## June
 
 - **21 Jun** — Summer solstice
-- **26 Jun** — Wild flax pull opens
+- **26 Jun** — **Wild flax pull opens** *(ditch W · T-1 lip · FLAX-PATCH-1 — not Bed B field drill)*
+- **26 Jun – 26 Jul** — **Wild / patch flax pull window** *(second fiber lap · combine with woad walks OK)*
 
 ## July
 
@@ -42,6 +47,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 ## August
 
+- **15 Aug – 30 Sep** — **Hemp cut (Bed A north)** *(fiber-first · before seed hard · **FARM-CARE flag if overdue**)*
 - **1 Aug** — **Wild grape pick opens** *(P-03 · T-2 trellis · must · leather · vinegar · yeast mother)*
 - **1 Aug – 15 Sep** — **Bed D fig pick** *(FIG-C1–C4 @ farm · **FARM-CARE eyes** · fresh + leather · **not missable**)*
 - **1 Aug – 15 Sep** — **Wild fig P-12 optional** *(~650 m NW · extra lap if named — not required if Bed D picked)*
@@ -70,6 +76,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **27 Nov** — Emmer harvest
 - **28 Nov** — Pulse harvest
 - **29 Nov** — Food prep day (shelf life sprint)
+- **~28 Nov – 15 Dec** — **Field flax pull (Bed B center / campus P-07 drill)** *(post grain+pulse · snap test · rett load — **second annual fiber lap** after Jun wild pull)*
 - **~20 Nov – 1 Dec** — **Farm-deadline buffer** *(block **Sep–Oct wild pistachio** before emmer/oil/salt crunch · **Bed D fig already in larder Aug–Sep**)*
 
 ## December
@@ -91,6 +98,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 | **2×/week** | Snail collect *(A-02 · creek rocks)* | Bulk calories · brine 2–4 mo |
 | **Weekly** | Smoke / jerky top-up when weir surplus | Rack pool |
 | **As needed** | Grape vinegar mother refresh | Aug must season |
+
+**Farm fiber — two pulls/year:** **Jun–Jul wild/patch margin** + **Nov–Dec field strip post-harvest** · rett pool serial · rafter queue when pool busy.
 
 **Farm perennials @ scare path:** **Bed D fig C1–C4** · **P-03 grape trellis** · **apiary pads** · **goat browse** — agent **flags ripe fruit in window** on every **FARM-CARE** read.
 

@@ -2,18 +2,20 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2395** · Cal-Y7 D334 · ~20 Nov · Week 343 day 1 · **HOME · P-02 press day**
+**Day 2415** · Cal-Y7 D354 · ~10 Dec · Week 345 OPEN · **HOME · stone haul · palisade slate · CI-1 live**
 
 | Track | Status |
 |-------|--------|
-| **Olive / oil** | **OIL-Y7-1 ~1.7 L crude @ AMPHORA-6 settling · lap 3 optional · Y6 clear ~2.05 L** |
-| **Salt sprint** | **Cycle 4 evap · scrape ~2 d · window ~6 d left** |
-| **Harvest prep** | **~75% · block ~7 d** |
-| **Char** | **Lane ~66 kg** |
+| **Palisade** | **Wood ring ✓ ~97 m · **PALISADE-2** footings queued · ~40–50 d est. staged** |
+| **Stone** | **Pile 8 ×6 FS · pile 4 ~29 kg dress · footing runway GREEN** |
+| **Crop / orchard** | **CI-1 filed · Y7 baseline · elite rules live** |
+| **Fiber** | **Not priority · P-RETT-17 rafter · P-RETT-18 ~14 d** |
+| **Drainage** | **Full pass ✓** |
+| **Oil** | **OIL-Y7-1 ~1.45 L clear @ kitchen** |
 
 ## Next
 
-**D335 — salt scrape read · harvest GO band · oil settle hands off**
+**D355 — PALISADE-2 footing first leg (W toe or E gate) · Yule ~11 d**
 
 ## Agent reminders (player request d2312)
 
@@ -21,9 +23,7 @@
 
 ## Windows (from [player-calendar.md](player-calendar.md))
 
-- **20 Nov – 10 Dec** — **Olive oil press / settle band**
-- **26 Nov** — **Salt evap closes**
-- **27 Nov+** — **Harvest block hard**
+- **21 Dec** — **Yule / Feast · ~11 d**
 
 ## Do not treat as live
 

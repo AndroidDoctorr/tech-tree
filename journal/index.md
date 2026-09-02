@@ -2372,6 +2372,26 @@
 | 2393 | [day-2393.md](days/year-007/week-342/day-2393.md) | **MADDER-DIG-Y7-1 ✓ · SALT scrape ✓ ~915 g** | **Cal-Y7 D332 · 18 Nov** |
 | 2394 | [day-2394.md](days/year-007/week-342/day-2394.md) | **SALT-HAUL-10 ✓ · pour #4 ✓ · WEEK-342-CLOSE** | **Cal-Y7 D333 · 19 Nov** |
 | 2395 | [day-2395.md](days/year-007/week-343/day-2395.md) | **WEEK-343-OPEN · P-02-PRESS-Y7-1 ✓ ~1.7 L crude** | **Cal-Y7 D334 · 20 Nov** |
+| 2396 | [day-2396.md](days/year-007/week-343/day-2396.md) | **LAB-LINEN-WEAVE-2 ✓ · rags + battery squares** | **Cal-Y7 D335 · 21 Nov** |
+| 2397 | [day-2397.md](days/year-007/week-343/day-2397.md) | **Olive tail brine ✓ · SALT scrape 4 ✓ ~915 g** | **Cal-Y7 D336 · 22 Nov** |
+| 2398 | [day-2398.md](days/year-007/week-343/day-2398.md) | **PALISADE ring CLOSE ✓ · LONGEVITY-Y8-SLATE ✓** | **Cal-Y7 D337 · 23 Nov** |
+| 2399 | [day-2399.md](days/year-007/week-343/day-2399.md) | **WOOD-HAUL ✓ ~25.2 kg · METAL-PURITY-SLATE ✓** | **Cal-Y7 D338 · 24 Nov** |
+| 2400 | [day-2400.md](days/year-007/week-343/day-2400.md) | **WORK-STAGING-TABLE-1 ✓ · ACID-TIER · NAIL slate** | **Cal-Y7 D339 · 25 Nov** |
+| 2401 | [day-2401.md](days/year-007/week-343/day-2401.md) | **WIRE-NAIL-BRASS-1 ✓ ×32 · table placement slate** | **Cal-Y7 D340 · 26 Nov** |
+| 2402 | [day-2402.md](days/year-007/week-344/day-2402.md) | **STORAGE-CLEAR ✓ · EMMER GO READ ✓ · HARVEST-BLOCK-OPEN** | **Cal-Y7 D341 · 27 Nov** |
+| 2403 | [day-2403.md](days/year-007/week-344/day-2403.md) | **EMMER-Y7-HARVEST ✓ ~2.01 kg · pulse eve read** | **Cal-Y7 D342 · 28 Nov** |
+| 2404 | [day-2404.md](days/year-007/week-344/day-2404.md) | **PULSE-Y7-HARVEST ✓ · HARVEST-BLOCK-Y7 CLOSE** | **Cal-Y7 D343 · 29 Nov** |
+| 2405 | [day-2405.md](days/year-007/week-344/day-2405.md) | **SHELF-LIFE-SPRINT-Y7 ✓ · larder band closed** | **Cal-Y7 D344 · 30 Nov** |
+| 2406 | [day-2406.md](days/year-007/week-344/day-2406.md) | **FLAX-PULL-Y7 ✓ ~6.1 kg · P-RETT-17 load · GO read** | **Cal-Y7 D345 · 1 Dec** |
+| 2407 | [day-2407.md](days/year-007/week-344/day-2407.md) | **FLAX-BREAK-16 ✓ · WORK-TABLE-ATELIER-1 ✓** | **Cal-Y7 D346 · 2 Dec** |
+| 2408 | [day-2408.md](days/year-007/week-344/day-2408.md) | **CULINA table ✓ · OLIVE-DECANT-Y7 ✓ · WEEK-344-CLOSE** | **Cal-Y7 D347 · 3 Dec** |
+| 2409 | [day-2409.md](days/year-007/week-345/day-2409.md) | **HEMP-CUT-Y7 ✓ · FAVA tail ✓ · DRAINAGE-GREASE-SLATE ✓ · WEEK-345-OPEN** | **Cal-Y7 D348 · 4 Dec** |
+| 2410 | [day-2410.md](days/year-007/week-345/day-2410.md) | **STONE-HAUL ✓ · DRAIN-AUDIT-1 ✓ · WD-1 filed · records slate** | **Cal-Y7 D349 · 5 Dec** |
+| 2411 | [day-2411.md](days/year-007/week-345/day-2411.md) | **CULINA-SAND-TRAP-1 ✓ @ DR-ST-01 · prep drain live** | **Cal-Y7 D350 · 6 Dec** |
+| 2412 | [day-2412.md](days/year-007/week-345/day-2412.md) | **CHEM-TRAP-2 ✓ @ DR-ST-02 · bench sink trapped** | **Cal-Y7 D351 · 7 Dec** |
+| 2413 | [day-2413.md](days/year-007/week-345/day-2413.md) | **HUB-S-OIL-GRATE-1 ✓ · HOT-SCRAPE-KIT-1 ✓ · DRAINAGE-SPRINT-CLOSE** | **Cal-Y7 D352 · 8 Dec** |
+| 2414 | [day-2414.md](days/year-007/week-345/day-2414.md) | **FARM-CARE ✓ · P-RETT-17 pull ✓ · P-RETT-18 load ✓ · screen baskets ×5** | **Cal-Y7 D353 · 9 Dec** |
+| 2415 | [day-2415.md](days/year-007/week-345/day-2415.md) | **STONE-HAUL ✓ · PALISADE-2 slate ✓ · CI-1 crop/orchard manual** | **Cal-Y7 D354 · 10 Dec** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
