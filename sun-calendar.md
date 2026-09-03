@@ -276,7 +276,7 @@ Piecewise between anchors (linear segment):
 ## Related
 
 - [player-calendar.md](player-calendar.md) — **month · date · event reference sheet**
-- [schedule.md](schedule.md) — deadlines · routines · farm windows (uses **Day + Cal-Y D**)
+- [now.md](now.md) — deadlines · routines · farm windows (uses **Day + Cal-Y D**)
 - [journal/years/year-001.md](journal/years/year-001.md) — Calendar Year 1 arc (Days 1–237)
 - [journal/days/week-035/day-239.md](journal/days/week-035/day-239.md) — **SUN-CAL-YEAR** declaration
 - [journal/days/week-034/day-237.md](journal/days/week-034/day-237.md) — **FEAST-237** · solstice eve

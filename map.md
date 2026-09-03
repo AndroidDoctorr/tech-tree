@@ -1,6 +1,6 @@
 # Map
 
-*Last updated: **Day 1989** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **ore-trip line:** below · **trail quality / BQ:** [route-a-road.md](route-a-road.md) · **map overlay:** [reference/README.md](reference/README.md)*  
+*Last updated: **Day 2562** (~10,000 BC) — **stock counts:** [inventory.md](inventory.md) only · **routes / TQ / BQ:** [route-a-road.md](route-a-road.md) · **live crossings:** [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) · **map overlay:** [reference/README.md](reference/README.md)*  
 **Region:** Orontes valley, near future Antioch (Antakya)  
 **Camp bearing:** Plateau on the **south bank of TRIB-1** · gorge / mountain **E** · Orontes **~1 km W**  
 **Site lock:** [journal/retcons/HOME-SITE-LOCK-1920.md](journal/retcons/HOME-SITE-LOCK-1920.md)  
@@ -466,7 +466,7 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 | **Doctrine** | **Materials · chemicals · tools · equipment — not kitchen food** *(food @ calorie bank / seed vault)* |
 | **STORE-3** | **✓ RETIRED empty Day 797** — peg @ door · thatch holds until demo decision |
 
-**Next campus storage work:** **[schedule.md](schedule.md)** — **STOCK-REPLENISH-1** · **LAB-OPS backlog** · **WW-HUB-1** · **MILLHOUSE-2** *(not more STORE-4 shell)*.
+**Next campus work:** see **[now.md](now.md)** — pad shade · factory rhythm · kaolin rank-2 *(not more STORE-4 shell)*.
 
 ## Coast route (*COAST-1 ✓ complete Day 202*)
 
@@ -506,185 +506,28 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 
 ---
 
-## Cilicia corridor — tin/lead horizon (*CILICIA-TRIP · ex-TIN-SCOUT-1 · Route A active @ d1404*)
-
-**Destination name:** **Cilicia** (Cilician plain · Taurus slopes) — **not** “Tarsus.” **Tarsus** is a city class **near** ore-trip branch B / inland Adana grammar · **on the path, not the goal.**
-
-**Three places — do not merge:**
-
-| Place | From HOME | You |
-|-------|-----------|-----|
-| **COAST-SITE-1** (local Med beach) | **~20 km W** | **✓** — day trip / 3-day loop class |
-| **Orontes mouth** (river → sea) | **~60–80 km downstream** | **✗ unmarked** — **BOAT-1** launch site · **not** required to reach **Cilicia** by land |
-| **Cilician plain class** (tin/lead behind Taurus) | **Route A west** from Kirikhan · **~100+ km** avian cum. @ Isk | **Active push** — [route-a-road.md](route-a-road.md) · [map.md](map.md) § ORE-TRIP |
-
-**Lead (galena):** **×0 @ Orontes camp** *(d1115)* · **H-11 = hematite only** · **galena class** with **Taurus/Cilicia** tin slopes — **LEAD-SCOUT-0** same corridor as **TIN-SCOUT-1** · **not** local weekend haul.
-
-**Boat is optional, not mandatory.** Day 374 filed **boat preferred** for **river mouth → coastal hop** (calories · return wind). **Walk the whole way** with **wagon + team** is valid doctrine — and **required** for **ore haul** (boat cannot replace wagon load).
-
-| Leg | Dist (est.) | Mode | Notes |
-|-----|-------------|------|-------|
-| **HOME → COAST-SITE-1** | **~20 km** | **Foot / cart** | **✓ proven** — join Med here for westward coastal march |
-| **HOME → Orontes mouth** | **~60–80 km** downstream | **Walk** or **BOAT-1** when built | Separate recon · river navigation · **skip** if land-coastal route only |
-| **COAST-SITE-1 → Cilician plain** | **Route A** · Alexandria → Issus → Erzin class | **Wagon team + graded string** | **TQ ~2.8 @ d1436** · **~83% haul pace** · faster each loop |
-| **Mouth → coast (if mouth-first)** | **~80–100+ km** W along shore | **Walk or boat hop** | Optional · **BOAT-1** only |
-| **Coast → Taurus tin slopes** | **Variable inland** | **Foot + pack** from **trail cache** | **Scout mark** · **haul = wagon** |
-
-**Round trip to Cilicia scout line (recon):** shrinks as **TRAIL-Q** rises — **~3–5 weeks** class @ TQ ~1.5 · target **~2–4 weeks** @ TQ ~3+.
-
-**Round trip with ore haul:** season-scale · still **wagon**.
-
-**Pozzolan / Cappadocia tuff:** **North of Cilicia** on the **same tin arc** — inland past the coastal plain into Taurus slopes, then central highlands. **Not** a coastal detour; **further along** the route you already need for tin. Pozzolan haul when the road climbs (**POZZ-CAPPADOCIA-HORIZON**).
-
-| Prereq | Status |
-|--------|--------|
-| **BOAT-1** (dugout or bundle raft) | **Not built** — **optional** coastal shortcut · **not** tin-haul path |
-| **COAST-1** trail | **✓** — **start** of westward coastal route |
-| **AMPHORA water class** | **✓** — trail kit proven |
-| **Return risk (boat only)** | Wind · wave · no lighthouse yet |
-
-**Doctrine:** **Phase 2 M-11 alum** before **TIN-SCOUT-1** · **Not Cal-Y3** — user deferred **Day 805** (path · bridges · cart/team upgrades first) · **Coastal land scout** viable **Cal-Y4+** · **river-mouth recon** only if pursuing **BOAT-1** · **wagon takes donkeys whole way** — no abandon-at-mouth grammar unless you **choose** a boat-only hop.
-
-### Expedition doctrine *(filed Day 714 · amended Day 714 clarifier)*
-
-**Recon round trip (get there and back):** **~3–5 weeks** — **feasible** in farm window with team + goats + caches.
-
-**Full tin mark + ore haul:** **season-scale** — extra inland leg + **50 kg** load math.
-
-| Leg | Dist | Mode @ your gear | Pace class |
-|-----|------|-----------------|------------|
-| **HOME → Cilician plain (land recon)** | **Route A cum. ~100+ km** | **COVERED-WAGON-1** + team | **TQ-dependent** · see [route-a-road.md](route-a-road.md) |
-| **HOME → Orontes mouth** *(optional)* | **~60–80 km** | **Wagon** | **~1–2 weeks** one way · **BOAT-1** stake |
-| **Coast → Taurus tin slopes** | **Variable** | **Foot + pack** from **trail cache** | **Scout mark first** · ore behind coast |
-
-**Donkeys + boat:** If you **boat** a coastal hop, **cache wagon + team** at **COAST-CAMP** or **mouth camp** — pick up on return. **Default tin doctrine: wagon the whole column** — boat does not solve ore.
-
-**Nomad wagon doctrine *(spitball OK)*:** **Campus = factory** (kiln · forge · chem lab · water power). **Covered wagon = acquisition RV** — weeks/months on road · live out of wagon + tent · hunt/trap/graze supplement · **trail caches** = pseudo-homes. **Full nomad forever** = slow deep tech (no WW-1 · no Kiln B factory). **Hybrid:** build the lab at HOME · run **season loops** with wagon as mobile base until tin/bronze banked.
-
-| Prereq | Have now | Gap |
-|--------|----------|-----|
-| **COVERED-WAGON-1** | **✓** | — |
-| **WAGON-LOAD-50** | **✓** | — |
-| **3 donkeys + rotate train** | **Mabel · Humphrey · Silas · TEAM-TRAIN ~70%** | **Session 4 ~25 kg · loaded wagon lap** |
-| **4th donkey** | **—** | **Marginal speed** — **eats wagon load** · spare for lame OK · **food cap unchanged** |
-| **Goats on trail** | **P-GOAT-1 · auto trough ✓ @ home** | **Mobile browse + milk/meat** · slows column · **home pen OK 2–3 wk** with feeder · **not** for **month+** without hay haul or slaughter stock |
-| **BOAT-1** | **✗** | **Optional** — skip for land recon |
-| **Coastal trail west** | **COAST-TRAIL-1 ✓ · M-spikes @ 8 km** | **Extend spikes W · grade · BRIDGE-1 @ km 3 (HOME leg)** |
-| **Calorie load** | **Parched · jerky · fish · amphorae ✓** | **Plan **~30–40 kg** food class per **3–4 wk** leg** · hunt/trap supplement · **main limiter** |
-| **Trail cache / second camp** | **TENT-1 · BEDROLL-1 ✓** | **COAST-CAMP-2+ westward · repeat trips faster** |
-| **Farm @ Cilicia** | **—** | **One season crop ✗ honest** — emmer wants tend + known bed · gather/hunt/cache yes |
-
-**Best windows:** **Mid-summer** (farm GREEN · scare-only) · **Mid-winter** (no sow/harvest crunch) · **Avoid** **spring sow** · **autumn harvest/madder/feast** block.
-
-**Speed-run path:** **(1)** **TRAIL-Q** on Route A **(2)** **Cilicia coast scout** **(3)** inland tin mark **(4)** ore haul on wagon.
-
 ---
 
-## ORE-TRIP route A — line map *(Peutinger / subway grammar · refreshed Day 1989)*
+## Long routes *(Cilicia · ore trip · Aleppo east)*
 
-**Purpose:** Mental map of **how nodes connect**, **what crosses how**, and **honest travel time** — not survey-grade geography. Distances are **avian km from HOME** unless noted. Full step list: [ore-trip.md](ore-trip.md). **Trail quality / speed:** [route-a-road.md](route-a-road.md) *(TRAIL-Q · BQ · loaded pace)*. **Player place names:** [route-nomenclature.md](route-nomenclature.md) *(Alexandria · Issus · The Castle · road names · filed d1435)*. **Google overlay:** [reference/README.md](reference/README.md).
+**Do not duplicate here.** Canon:
 
-**Legend**
+| Topic | File |
+|-------|------|
+| **Route overview · TQ/BQ scales · leg registry · return grammar** | [route-a-road.md](route-a-road.md) |
+| **Live crossings · spare kit · east Aleppo spur** | [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) |
+| **Player GPS notes** *(reference)* | [obsolete/ore-trip-gps-notes.md](obsolete/ore-trip-gps-notes.md) |
+| **Place names** *(Alexandria · Issus · The Castle · Aleppo Road)* | [route-a-road.md](route-a-road.md) § Names |
 
-| Symbol | Meaning |
-|--------|---------|
-| **✓ BRIDGE** | Built · loaded column crossed · live on trail |
-| **◐ FORD** | Loaded wagon **GO @ winter low** · boot wade honest |
-| **◐ FORD+** | **Concrete shore/abut** · ford lip still **FQ GO** · deck defer |
-| **⚠ FORD-A** | **Site A** upstream / summer / swell class — **loaded RED** · **future bridge** if hero budget allows |
-| **○ BRIDGE** | Scout **GO @ site B** · **RESERVE + FILL queued** on wagon or @ HOME |
-| **— PASS** | No crossing · turn · town pass-through |
-| **▣ CACHE** | Trail cache · read-only touch |
+**Quick anchors @ Day 2562:**
 
-**Pace class @ ~81 kg column:** composite **~3.4 km/h loaded @ TQ ~2.9 (d1989)** · **~5 km/h** empty on perfect crown · see [route-a-road.md](route-a-road.md) · **one hero crossing ≈ 20–40 min**
+| Corridor | Furthest live | Notes |
+|----------|---------------|-------|
+| **Route A west** *(Kirikhan split)* | **~220 km @ Kozan north gate** | Tin verified · waystation live · composite **TQ ~2.9** |
+| **Aleppo Road east** *(post-Asi)* | **~20 km E · AM-EAST-01/02** | **BLAST-PINCH d2558–2560 · ~90 kg gravel · kaolin scout ✓ d2561 · TQ ~3.2** |
+| **Cilicia goal** | Plain + Taurus slopes | **Wagon haul** doctrine · boat optional · pozz on **Cappadocian Road** north arc |
 
-### Subway diagram *(NNE string → west coast fork)*
-
-```
-HOME [TRIB-FT-01 ✓ d1938] ──12──► [KARASU-TRIB-01 ◐] ──4──► [KARASU-TRIB-02 ✓] ──2──► [ASI-B ✓]
-                                                      │
-                    ┌─────────────────────────────────┘
-                    │  ~8 NNE
-                    ▼
-              [AFRIN-B ✓ concrete abut] ──2──► [KTRUNK ◐+ shore] ──18 NNE──► [KIRIKHAN-APPR-B ✓]
-                    ⚠A                                              │
-                    summer ford only                                  │ ~7
-                                                                      ▼
-                                                            [KIRIKHAN-SPLIT —]
-                                                                      │
-                                                              ~12 W   │
-                                                                      ▼
-                                                            [BELEN-APPR-B ✓ · wp d1456]
-                                                                    ⚠A swell
-                                                                      │
-                                                              pass    │ ~15 NW
-                                                                      ▼
-                                                            [ISK-APPR-B ✓] … Isk pass → Cilicia
-                                                                    ⚠A
-```
-
-### Stop list *(northbound from HOME · then west · status @ d1989)*
-
-| # | Node · stake | km | Cross | **BQ** | Status @ d1989 | Near / notes |
-|---|--------------|-----|-------|--------|----------------|--------------|
-| **0** | **HOME · TRIB-FT-01** | **0** | **✓ ~3 m** | **~3.0** | **LIVE d1938 · wagon PASS** | First road crossing **N** · [route-a-road.md](route-a-road.md) |
-| **1** | **KARASU-TRIB-01 · SC-TRIB-01** | **~12** | **◐ ford** | **—** | **FQ GO** | Feeder ford · site A riffle defer |
-| **2** | **TRAIL-CACHE-3** | **~14** | **—** | — | **▣ read only** | Jerky · char · tokens |
-| **3** | **KARASU-TRIB-02 · SC-TRIB-02** | **~16** | **✓ ~3 m** | **~3.0** | **Live d1384** | Early north camp grammar |
-| **4** | **ASI-ORONTES-1 · SC-ASI-B** | **~18** | **✓ ~10 m** | **~3.0** | **Live d1386** | Orontes trunk |
-| **5** | **AFRIN-1 · SC-AFRIN-B** | **~26** | **✓ ~10 m** | **~3.5** | **Concrete abut d1967 · ~2 mm d1972** | **⚠ SC-AFRIN-A summer ford only** |
-| **6** | **KARASU-TRUNK-1 · SC-KTRUNK** | **~28** | **◐+ ~22 m** | **~3.5** shore | **Shore d1965–66 · ford ghost PASS d1972** | **Deck defer · spring FQ re-read** |
-| **7** | **Post-Afrin camp string** | **~28** | **—** | — | TENT-2 grammar | Kirikhan runway staging |
-| **8** | **KIRIKHAN-APPROACH-1 · SC-KAPPROACH-B** | **~46** | **✓ ~12 m** | **~3.0** | **Live d1396** | **⚠ site A summer ford** |
-| **9** | **SC-KIRIKHAN-SPLIT** | **~53** | **—** | — | **Route A west** | Fork cairn · no water @ fork |
-| **10** | **BELEN-APPROACH-1 · SC-BELEN-B** | **~65** | **✓ ~11 m** | **~3.25** | **Live d1403 · wp d1456** | **⚠ SC-BELEN-A swell RED** |
-| **11** | **Belen pass · town class** | **~67** | **—** | — | Through-string | Pass to Isk coast |
-| **12** | **ISK-APPROACH-1 · SC-ISK-B** | **~82** | **✓ ~13 m** | **~3.5** | **Live d1406** | **⚠ SC-ISK-A creek mouth RED** |
-| **13** | **Isk outskirts pass** | **~85** | **—** | — | Through-string | Cilicia coast push |
-| **14** | **PINARUS-1 · SC-PINARUS-B** | **~92** | **✓ ~12 m** | **~3.5** | **Reinforce d1551 · ~2 mm** | Coast squeeze |
-| **15** | **PAYAS-APPROACH-1 · SC-PAYAS-B** | **~105** | **✓ ~14 m** | **~3.5–4** | **Reinforce d1630 · d1822 ~2–3 mm** | Before Payas/Karsi |
-| **16** | **DORTYOL-APPROACH-1 · SC-DORTYOL-B** | **~117** | **✓ ~10 m** | **~3.5** | **Reinforce d1564 · ~2 mm** | Before Erzin |
-| **17** | **ERZIN-APPROACH-1 · SC-ERZIN-B** | **~132** | **✓ ~9 m** | **~3.5** | **Live d1441 · reinforce d1544 · corridor WORK d1485–86** | Before The Castle |
-| **18** | **SC-THE-CASTLE-HILL · Toprakkale** | **~142** | **—** | — | **Scout ✓ d1442 · re-read d1450** | West turn @ d1450 |
-| **19** | **Cilician plain west string** | **~155** | **◐ ×2 rills** | — | Boot ford PASS | Flat · fast vs coast |
-| **20** | **CEYHAN-APPROACH-1 · SC-CEYHAN-B** | **~167** | **✓ ~13 m** | **~3.5** | **Reinforce d1462** | Eleventh bridge |
-| **21** | **SC-CEYHAN-SPLIT · west terrace** | **~170** | **—** | — | **Waystation defer** | Cappadocian N · Phrygian W |
-
-### Westbound coast string *(from Kirikhan split · route A only)*
-
-| Leg | Ore-trip step | Bridge heroes used | Open @ d1989 |
-|-----|---------------|-------------------|--------------|
-| **Split → Belen** | **+12 km W** | **1 · BELEN-APPROACH-1 @ B** | **✓ crossed** |
-| **Split → Isk approach** | **+15 km NW** | **1 · ISK-APPROACH-1 @ B** | **✓ crossed d1406** |
-| **Isk → Payas/Karsi** | **+10–15 km N** | **PINARUS reinforce d1551 · PAYAS reinforce d1630 · d1822 touch** | **✓ ~2–3 mm @ PAYAS** |
-| **Payas → Dörtyol → Erzin** | **+12 km · +15 km N** | **DORTYOL reinforce d1564 · Erzin d1441 + corridor WORK d1485–86** | **~132 km · Erzin bridge live** |
-| **→ The Castle hill** | **+~10 km NNW** | **✓ scout d1442 · re-read d1450** | **~142 km rejoin · west turn @ d1450** |
-| **Castle → Ceyhan approach** | **+~13 km W · +~12 km W to river** | **plain rills boot · CEYHAN scout d1450–1451** | **~167 km @ bar** |
-| **Ceyhan cross → split camp** | **bridge hero d1452** | **✓ CEYHAN-APPROACH-1 @ B · ~13 m** | **~170 km · SC-CEYHAN-SPLIT · pad B lean** |
-
-### Risky fords → future bridge pins *(do not trust loaded winter)*
-
-| ID | Why risky | Bridge site | Priority |
-|----|-----------|-------------|----------|
-| **KARASU-TRIB-01 site A** | Upstream riffle · high water | **○ A** | Low — ford holds @ B grammar |
-| **AFRIN-1 site A** | Summer low only · thigh @ mid loaded | **○ A** | Defer — **B live** |
-| **KARASU-TRUNK-1** | Spring rise · 22 m face | **○ trunk deck** | **Shore ✓ d1965–66 · ford PASS d1972** · deck defer · **FQ re-read each spring** |
-| **KIRIKHAN-APPROACH site A** | Winter high · riffle | **○ A** | Defer — **B live** |
-| **BELEN-APPROACH site A** | **Swell / beach fringe** | **○ A** | **Coast grammar** — keep **B** as hero |
-| **ISK-APPROACH site A** | **Creek mouth / storm surge** | **○ A** | **Next scout class** |
-
-### One-day travel blocks *(honest · full column)*
-
-| Block | Route | Time class |
-|-------|-------|------------|
-| **HOME → post-Afrin** | Legs 0–2 · ×3 bridges + trib ford | **~1 long day** *(d1394)* |
-| **post-Afrin → Kirikhan split** | Approach scout or bridge hero | **~1 day** |
-| **HOME → Kirikhan split** | Full chain through legs 0–3 | **~1 very long day** *(d1402 AM)* |
-| **Split → Belen terrace** | **+12 km W scout** | **~½ day** |
-| **Belen terrace → Isk string camp** | Bridge hero + **+15 km NW scout** | **~1 hero day** *(d1403)* |
-| **Return HOME from Isk** | Reverse chain · no builds · **2 days** *(leg 1 post-Afrin · leg 2 HOME)* | **~2 days** minimum *(d1404–05 · d1407–08)*
-
-**Rule:** File new stakes on [map.md](map.md) when a crossing changes state (**scout → build → live**). Journal day = source of truth for dates.
+**Cilicia vs local coast:** **COAST-SITE-1 ~20 km W** = day trip · **Cilician plain ~100+ km** = Route A graded string · **Orontes mouth ~60–80 km** = separate BOAT-1 recon · not required for land ore push.
 
 ---
 

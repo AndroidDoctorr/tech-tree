@@ -14,16 +14,17 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 | [player-calendar.md](player-calendar.md) | Recurring season windows |
 | [inventory.md](inventory.md) | Live stock counts · lookup: [fixtures](inventory/fixtures.md) · [bridges](inventory/bridges-and-trail.md) · [tools](inventory/tools-lab.md) |
 | [tech-tree.md](tech-tree.md) | Milestone checklist |
-| [map.md](map.md) | Geography (not quantities) |
+| [map.md](map.md) | HOME geography · campus · local trails |
+| [route-a-road.md](route-a-road.md) | Long routes · TQ/BQ · leg registry |
 | [resource-map.md](resource-map.md) | Plants, materials, fauna by location |
+| [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) | Live crossings · trail kit |
 | [skills.md](skills.md) | Skills ledger — Start (IRL) + Now |
 | [journal/days/](journal/days/) | Day files · week `= ceil(day/7)` |
 | [journal/weeks/](journal/weeks/) | Weekly rollups |
-| [journal/index.md](journal/index.md) | Human timeline — do not load on play turns |
+| [journal/index.md](journal/index.md) | Human timeline hub — do not load on play turns |
 | [journal/summaries/](journal/summaries/) | Centadials / milladial |
+| [obsolete/](obsolete/) | Archived plans · schedule · ladder · GPS notes |
 | [sun-calendar.md](sun-calendar.md) | SUN-CAL-1 marks — lookup, not daily |
-| [schedule.md](schedule.md) | **Archive** (frozen ~Day 1540) |
-| [ladder.md](ladder.md) | **Archive** (frozen ~Day 1094) |
 | [advancements.md](advancements.md) | Capability list — lookup |
 | [movie/](movie/) | Feature-film concept |
 
@@ -31,7 +32,7 @@ Interactive thought experiment: one immortal human, 10,000 BC Levant, handheld a
 
 **One week = seven days.** Week *N* covers days **(N−1)×7 + 1** through **N×7**.
 
-When advancing the journal, set **Meta → Week** and folder `journal/days/year-00Y/week-NNN/` from the formula. Append one row to [journal/index.md](journal/index.md) and the week rollup — do not read the full index.
+When advancing the journal, set **Meta → Week** and folder `journal/days/year-00Y/week-NNN/` from the formula. Append one row to [journal/index.md](journal/index.md) **Recent days** and the matching [part file](journal/index/) — do not read the full index.
 
 ## Journal entry format
 

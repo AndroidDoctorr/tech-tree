@@ -132,7 +132,7 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 
 **Doctrine:** Hoe = peak tech **for now** — bronze/iron later. **PPE = peak care** — treat forge like it can kill you (it can).
 
-**Linked ladder:** [ladder.md](ladder.md) · **FORGE-PPE-1** section.
+**Linked ladder (archive):** [obsolete/ladder.md](obsolete/ladder.md) · **FORGE-PPE-1** section.
 
 ---
 
@@ -402,7 +402,7 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 
 ## Production & kiln expansion *(historical — Day 24 math)*
 
-**Superseded @ Day 1094.** Kiln A+B live · factory rhythm proven · **~219 stackable @ Kiln B** · green queue empty. Original twin-kiln throughput tables and **Hut v2 ~180–285 brick budget** were planning artifacts — **H-v2 ✓ · horreum row in progress**. For current targets see [inventory.md](inventory.md) and [schedule.md](schedule.md).
+**Superseded @ Day 1094.** For current targets see [inventory.md](inventory.md) and [now.md](now.md).
 
 ---
 
@@ -430,7 +430,7 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 
 ## Long-horizon queue
 
-*Active next steps live in [ladder.md](ladder.md) and [schedule.md](schedule.md). This file keeps **recipes and build logic** only.*
+*Active next steps live in [now.md](now.md). This file keeps **recipes and build logic** only.*
 
 | Track | Status @ d1094 |
 |-------|----------------|
@@ -440,8 +440,8 @@ At ~6–11 good per firing day → **weeks of ceramic mode**.
 | **Transport** | **COVERED-WAGON ✓ · COAST-TRAIL ✓** |
 | **Horizon** | **TIN-SCOUT Cal-Y4+ · zinc/voltaic · sheep · lighthouse · tin corridor** |
 
-*Year 1 planning buckets (ARCH-2 · CL-1 · HORIZON-Q1/Q2): see [year-001-plan.md](year-001-plan.md) — mostly closed or superseded.*
+*Year 1 planning buckets (ARCH-2 · CL-1 · HORIZON-Q1/Q2): see [obsolete/year-001-plan.md](obsolete/year-001-plan.md) — mostly closed or superseded.*
 
 ---
 
-*Linked: [year-001-plan.md](year-001-plan.md) · [resource-map.md](resource-map.md) · [tech-tree.md](tech-tree.md)*
+*Linked: [obsolete/year-001-plan.md](obsolete/year-001-plan.md) · [resource-map.md](resource-map.md) · [tech-tree.md](tech-tree.md)*

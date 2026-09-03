@@ -16,6 +16,6 @@
 | **STORE-3** | **✓ RETIRED empty Day 797** |
 | **Next hero** | **STOCK-REPLENISH-1** — brick factory sprint |
 
-**Prior year:** [year-002.md](year-002.md) · **Live priorities:** [schedule.md](../../schedule.md) · [inventory.md](../../inventory.md) · [map.md](../../map.md)
+**Prior year:** [year-002.md](year-002.md) · **Live priorities:** [now.md](../../now.md) · [inventory.md](../../inventory.md) · [map.md](../../map.md)
 
 *Full Year 3 summary @ **SUN-CAL-Y3-CLOSE ✓ Day 970** · **Cal-Y4** opens Day 968.*

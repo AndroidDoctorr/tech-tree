@@ -129,7 +129,7 @@ Full week rollups: [journal/index.md](../index.md) weeks **35–86**.
 
 ## Year 2 → Year 3 handoff
 
-**Day 603** = **Cal-Y3 D1**. Year 3 progress: [year-003.md](year-003.md) · live queue [schedule.md](../../schedule.md) @ Day 797.
+**Day 603** = **Cal-Y3 D1**. Year 3 progress: [year-003.md](year-003.md) · live state [now.md](../../now.md).
 
 *Year 2 summary filed @ doc reorganize pause · Day 797.*
 

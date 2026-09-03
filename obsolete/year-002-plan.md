@@ -3,7 +3,7 @@
 *Historical planning doc · **Year 2 closed Day 602** · do not use for current priorities.*
 
 **Canonical Year 2 summary:** [journal/years/year-002.md](journal/years/year-002.md)  
-**Current play state:** [schedule.md](schedule.md) · **Day 797** · [inventory.md](inventory.md) · [advancements.md](advancements.md)
+**Current play state:** [now.md](../now.md) · **Day 797** · [inventory.md](../inventory.md) · [advancements.md](../advancements.md)
 
 ---
 
@@ -24,7 +24,7 @@ Living strategy for **Cal-Y2 (Days 238–602)** — north stars, EXPED-C arcs, C
 
 ---
 
-## Current priorities *(Cal-Y3 @ Day 797 — see schedule.md)*
+## Current priorities *(Cal-Y3 @ Day 797 — see now.md)*
 
 | Order | Track | Status |
 |-------|-------|--------|

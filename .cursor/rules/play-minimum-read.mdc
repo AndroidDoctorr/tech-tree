@@ -17,11 +17,11 @@ This is a journal, not a code repo.
 
 ## Do not read unless the player names that track or a gate needs it
 
-`journal/index.md` · `ladder.md` · `schedule.md` · `sun-calendar.md` · `advancements.md` · `map.md` · `inventory/archive-pre-split-1775.md` · full plan files · days before the last 2
+`journal/index.md` · `obsolete/` · `sun-calendar.md` · `advancements.md` · `map.md` · `route-a-road.md` · `inventory/archive-pre-split-1775.md` · days before the last 2
 
-`journal/index.md`: append one row. Never load the table.
+`journal/index.md`: append one row to **Recent days** + matching `journal/index/days-*.md` part file. Never load the full day tables.
 
-`ladder.md` and `schedule.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`.
+`obsolete/schedule.md` and `obsolete/ladder.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`.
 
 ## Write
 

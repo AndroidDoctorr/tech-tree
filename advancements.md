@@ -2,7 +2,7 @@
 
 *Last audited: **Day 1098** (~10,000 BC)*
 
-What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [journal/years/year-002.md](journal/years/year-002.md) · **Full ladder:** [ladder.md](ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
+What you can **use** today — infrastructure, tools, and capabilities — not the full research tree ([tech-tree.md](tech-tree.md)). **Stock:** [inventory.md](inventory.md) · **Skills:** [skills.md](skills.md) · **Calendar:** [sun-calendar.md](sun-calendar.md) · **Year 2:** [journal/years/year-002.md](journal/years/year-002.md) · **Archive ladder:** [obsolete/ladder.md](obsolete/ladder.md) · **Chem lab:** [chem-lab-plan.md](chem-lab-plan.md)
 
 ## Summary
 
@@ -179,4 +179,4 @@ What you can **use** today — infrastructure, tools, and capabilities — not t
 
 ---
 
-*Detailed rung tables: [ladder.md](ladder.md). Update on capability changes — not daily stock moves.*
+*Detailed rung tables: [obsolete/ladder.md](obsolete/ladder.md) (archive). Update on capability changes — not daily stock moves.*

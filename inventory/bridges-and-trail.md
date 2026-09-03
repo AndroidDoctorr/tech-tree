@@ -1,6 +1,6 @@
-# Bridges and trail
+# Bridges and trail *(live crossing canon @ Day 2562)*
 
-Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns are in [archive-pre-split-1775.md](archive-pre-split-1775.md).
+Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../route-a-road.md). Spent RESERVE/FILL 1–15 and closed columns are in [archive-pre-split-1775.md](archive-pre-split-1775.md).
 
 ## Spare @ HOME
 
@@ -13,7 +13,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Live bridges (site B unless noted)
 
-*Full crossing table with leg + listen mm: [route-a-road.md](../route-a-road.md) § Live crossing registry.*
+*Full crossing table with leg + listen mm: this file is canonical — [route-a-road.md](../route-a-road.md) defers here.*
 
 | Crossing | **BQ** | Notes |
 |----------|--------|-------|

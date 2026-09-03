@@ -1,9 +1,9 @@
 # Resource map
 
 *Living catalog of where things are — distances from **camp** (0 m) unless noted.*  
-*Last updated: **Day 1989** (~10,000 BC) — **stock counts live in [inventory.md](inventory.md) only; this file is site/distances.*
+*Last updated: **Day 2562** (~10,000 BC) — **stock counts live in [inventory.md](inventory.md) only; this file is site/distances.*
 
-**Also see:** [map.md](map.md) (trails, geography, ORE-TRIP stops) · [route-a-road.md](route-a-road.md) (TQ/BQ) · [reference/README.md](reference/README.md) (player map overlay)
+**Also see:** [map.md](map.md) (HOME geography · local trails) · [route-a-road.md](route-a-road.md) (long routes · TQ/BQ) · [reference/README.md](reference/README.md) (player map overlay)
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## Chemistry & flavor precursors (*CHEM-1 — Day 187+*)
 
-*See [year-001-plan.md](year-001-plan.md) § **AUTUMN-Q5** · [materials-roadmap.md](materials-roadmap.md) § **CHEM-1**.*
+*See [materials-roadmap.md](materials-roadmap.md) § **CHEM-1** · [obsolete/year-001-plan.md](obsolete/year-001-plan.md) § **AUTUMN-Q5** (archive).*
 
 | Track | Year 1 | Year 2+ | Notes |
 |-------|--------|---------|-------|
@@ -95,7 +95,7 @@
 | **Sulfur (M-14)** | **✓ collect · grind · mix d1609** | Fine flour · proof | **~548 g fine + ~2.2 kg block · FIRECRACKER-PROOF-1 ✓** |
 | **Kelp (M-13)** | **✓ COAST-1** | Ash · iodine | **→ KELP-ASH-1 Day 288** |
 
-**Copper smelt routine @ d1989** · **O-1 ~14.4 kg** · **WIRE-CU-3 ~60 m fine** · **IRON-BLOOM-6 ✓ ~315 g** · **FORGE-D ✓** · **iron tool suite + hammer d367**.
+**Capability snapshot:** see [inventory.md](inventory.md) · [advancements.md](advancements.md) — not repeated here.
 
 ---
 
@@ -124,7 +124,7 @@
 | Option | Dist / time | Effort | Yield class | Notes |
 |--------|-------------|--------|-------------|-------|
 | **A — Marsh / plain scout** | **S-03 ~700 m** · Amuq NW | **✓ Day 183** | **~2.8 L/brackish haul** | **EVAP-1** **✓ harvest ~Day 187** · **~140 g** batch #1 in **P-η** @ v1. Option B seep **marked WNW ~1.1 km** — batch #2 if yield thin. |
-| **B — Saline spring scout** | **Plain W/NW** · unmarked | **½ day probe** | Unknown | [year-001-plan.md](year-001-plan.md): *“scout for saline seeps.”* Follow **mineral taste** / white stain on limestone — not the fresh Orontes (too dilute). |
+| **B — Saline spring scout** | **Plain W/NW** · unmarked | **½ day probe** | Unknown | [obsolete/year-001-plan.md](obsolete/year-001-plan.md): *“scout for saline seeps.”* Follow **mineral taste** / white stain on limestone — not the fresh Orontes (too dilute). |
 | **C — Mediterranean coast** | **~20+ km W** (haze Day 1) | **Multi-day** round trip | High if pans found | Day 1 **salt edge on breeze** — sea not far geologically. Beach / tidal flat **evaporation** or **wash salt** — real volume, not a half-day. |
 | **D — Saltbush (trap bait)** | Local | — | **Not cure salt** | Used @ A-03 goat trap — **animal bait**, not jerky-grade NaCl. |
 | **E — Murex / brackish farm** | Near camp | Year 2+ | — | [day-092](journal/days/week-014/day-092.md): live snails + salt edge + patience — **not Year 1 quick.** |

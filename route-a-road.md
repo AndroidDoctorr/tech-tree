@@ -1,17 +1,17 @@
 # Route A — trail quality *(TRAIL-Q grammar)*
 
-*Last updated: **Day 1989** · **Cal-Y6 D292** · HOME · magnet-rod week · map sync*
+*Last updated: **Day 2562** · **Cal-Y8 D136** · HOME · east Aleppo lap close · map sync*
 
-**Line map (stops · crossings):** [map.md](map.md) § ORE-TRIP route A  
-**Live crossing table (BQ):** below § **Live crossing registry**  
-**Ore steps:** [ore-trip.md](ore-trip.md)  
+**Local geography:** [map.md](map.md) (HOME · campus · local trails)  
+**Live crossings · kit @ HOME:** [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md)  
+**GPS waypoint notes:** [obsolete/ore-trip-gps-notes.md](obsolete/ore-trip-gps-notes.md)  
 **Map overlay (player):** [reference/README.md](reference/README.md)
 
 ---
 
 ## Names *(canon @ d1435)*
 
-**Full table:** [route-nomenclature.md](route-nomenclature.md)
+**Place names (GPS lookup):** see § Place names below · historical copy: [obsolete/route-nomenclature.md](obsolete/route-nomenclature.md)
 
 | Term | Meaning |
 |------|---------|
@@ -28,6 +28,28 @@
 **Pozzolan note:** Cappadocia tuff — **Cappadocian Road** horizon · not a coastal detour.
 
 ---
+
+## Route overview *(player steps · condensed)*
+
+**West fork @ Kirikhan (Route A):** NNE string → **Asi cross ~18 km** → Afrin/Karasu → **Kirikhan split ~53 km** → Belen → **Alexandria ~85 km** → Issus/Erzin coast → **The Castle ~142 km** → Ceyhan **~170 km** → **Kozan north ~220 km** (tin verified).
+
+**East fork @ Asi (Aleppo Road):** After **ASI-ORONTES-1**, branch **E on north bank** — **AM-EAST-01 ~18 km · AM-EAST-02 ~20 km** *(d2558–2560 · kaolin SC-KAOLIN-01 · lap close d2561)*. Horizons: Afrin · Aleppo/Beroea · horse scout.
+
+**Ceyhan splits:** **North** = Cappadocian Road → Kozan/tuff · **West** = Phrygian Road → Adana/Tarsus → ore slopes.
+
+### Place names *(player · classical · km avian)*
+
+| Player name | Classical | km | Role |
+|-------------|-----------|-----|------|
+| **Kirikhan** | — | **~53** | Split · Route A west vs Aleppo Road east defer |
+| **Belen** | — | **~65** | Pass · coast grammar |
+| **Alexandria** | *Alexandria ad Issum* | **~85** | Iskenderun bay horizon |
+| **Issus** | *Issus* | **~117** | Dörtyol · SC-DORTYOL-B |
+| **Erzin** | — | **~132** | Lap-5 terminus west |
+| **The Castle** | Toprakkale terrace | **~142** | Rejoin · hill only @ 10k BC |
+| **Ceyhan** | — | **~170** | River cross · Phrygian/Cappadocian split |
+| **Kozan** | Cataonia class | **~220** | Tin scout camp · CAP-0 end |
+| **Aleppo** *(horizon)* | *Beroea* | **Aleppo Road** | Eastern trade node |
 
 ## TRAIL-Q scale *(per leg · 0–5)*
 
@@ -112,11 +134,11 @@ Each **TRAIL-WORK** block on a leg files **+1 WP** on that leg.
 
 ---
 
-## Leg registry *(Route A · NNE string + west fork)*
+## Leg registry *(Route A west + Aleppo Road east)*
 
 *Baseline TQ @ first bridge/live crossing. **WP→TQ** updates after each maintenance day. **Live TQ** supersedes d1436 audit where noted.*
 
-| Leg | Segment | km | Cross @ end | **TQ @ open** | **TQ live @ d1989** | **Pace** | Notes |
+| Leg | Segment | km | Cross @ end | **TQ @ open** | **TQ live @ d2562** | **Pace** | Notes |
 |-----|---------|-----|-------------|---------------|---------------------|----------|-------|
 | **L0** | **HOME (via TRIB-FT-01) → KARASU-TRIB-01** | **~12** | **◐ ford** | **1.0** | **~2.85** | **~3.5** | **TRIB-FT-01 ✓ d1938** · KARASU feeder ford **FQ GO** |
 | **L1** | **KARASU-TRIB-01 → KARASU-TRIB-02** | **~4** | **✓ bridge** | **1.0** | **~2.5** | **~3.4** | Marked · short hop |
@@ -133,6 +155,8 @@ Each **TRAIL-WORK** block on a leg files **+1 WP** on that leg.
 | **L12** | **DORTYOL → ERZIN** | **~15** | **✓ bridge ~9 m** | **1.0** | **~2.35** | **~3.0** | **Bridge d1441 · reinforce d1544 · corridor WORK d1485–86** |
 | **L13** | **Erzin → Castle → CEYHAN-B** | **~38** | **✓ + boot fords** | **—** | **~2.3** | **~3.2** | **CEYHAN reinforce d1462 · waystation d1491** |
 | **CAP-0** | **CEYHAN → Kozan north gate** | **~50** | **✓ + boot fords** | **—** | **~1.5** | **~2.8** | **TRIB-N02 d1473 · string · waystation d1499** |
+| **EAST-L0** | **ASI-B → AM-EAST-01** *(north bank)* | **~2** | **— crown** | **—** | **~3.05→3.2** | **~3.4** | **BLAST-PINCH d2558 · gravel ~46 kg d2559** |
+| **EAST-L1** | **AM-EAST-01 → AM-EAST-02 · SC-KAOLIN-01** | **~2** | **—** | **—** | **~3.2** | **~3.5** | **BLAST d2560 · kaolin bulk ~17 kg d2561 · lap CLOSE** |
 
 **Route composite *(weighted · HOME → Erzin ~132 km):*** **TQ ~2.9 @ live** *(was ~2.8 @ d1436)* · pace **~3.4 km/h** loaded.
 
@@ -142,32 +166,15 @@ Each **TRAIL-WORK** block on a leg files **+1 WP** on that leg.
 
 ---
 
-## Live crossing registry *(BQ @ d1989)*
+## Live crossing registry
 
-| Crossing | Leg | km | Span | **BQ** | Listen / FQ | Tier · last hero |
-|----------|-----|-----|------|--------|-------------|------------------|
-| **TRIB-FT-01** | pre-L0 | **0** | deck | **~3.0** | Wagon PASS | Wood v1 **d1938** |
-| **KARASU-TRIB-01** | L0 end | **~12** | **◐ ford** | **—** | **FQ GO** | Site A riffle pinned · no deck |
-| **KARASU-TRIB-02** | L1 end | **~16** | ~3 m | **~3.0** | ~3 mm class | Wood **d1384** |
-| **ASI-ORONTES-1** | L2 end | **~18** | ~10 m | **~3.0** | Mid-span PASS | Wood **d1386** |
-| **AFRIN-1 @ B** | L3 end | **~26** | ~10 m | **~3.5** | **~2 mm** | **Concrete abut d1967 · cure d1972** |
-| **KARASU-TRUNK-1** | L4 end | **~28** | ford+shore | **~3.5** shore | **FQ GO** · ghost PASS | **Shore d1965–66 · read d1972** · deck defer |
-| **KIRIKHAN-APPR-1** | L5 end | **~46** | ~12 m | **~3.0** | Live | Wood **d1396** |
-| **BELEN-APPR-1** | L7 end | **~65** | ~11 m | **~3.25** | Live | Wood **d1403** · wp **d1456** |
-| **ISK-APPR-1** | L8 end | **~82** | ~13 m | **~3.5** | Live | Wood **d1406** |
-| **PINARUS-1** | L9 end | **~92** | ~12 m | **~3.5** | **~2 mm** | **Reinforce d1551** |
-| **PAYAS-APPR-1** | L10 end | **~105** | ~14 m | **~3.5–4** | **~2–3 mm** | **Reinforce d1630 · d1822** |
-| **DORTYOL-APPR-1** | L11 end | **~117** | ~10 m | **~3.5** | **~2 mm** | **Reinforce d1564** |
-| **ERZIN-APPR-1** | L12 end | **~132** | ~9 m | **~3.5** | **~2 mm** | **Reinforce d1544** |
-| **CEYHAN-APPR-1** | L13 | **~167** | ~13 m | **~3.5** | Live | **Reinforce d1462** |
-| **TRIB-FT-N02** | CAP-0 | **~215** | ~8 m | **~3.0** | Live | Wood **d1473** |
-| **BRIDGE-1 @ T-2 km 3** | local | **~3** | ~2.4 m | **~2.5** | PASS | **d720** · farm/coast leg |
+**Authoritative live table:** [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) — BQ · listen mm · east Aleppo AM-EAST-01/02 · spare kit @ HOME.
 
-**Local trails *(not Route A BQ):*** **Kisecik K-R0–K-R3** sulfur road **TQ ~2.0–2.5** · **NE M-G1 corridor** **TQ ~2–2.5** · **COAST-TRAIL-1 ~20 km W** **TQ ~2–2.5**.
+*This file keeps **leg TQ** and doctrine only; do not duplicate crossing rows here.*
 
 ---
 
-## TRAIL-Q audit *(live @ d1989)*
+## TRAIL-Q audit *(live @ d2562 · west fork)*
 
 **What you are seeing is correct:** repeat loaded laps cut a **one-line wagon crown**; **ruts** @ terrace pinches, ford exits, and bridge aprons are honest at TQ 3–4 (they mean the road is *used*, not that it is finished). **CLEAR** / micro-**GRADE** after brush or rock pick files **tiny straighter shortcuts** (+WP).
 
@@ -315,111 +322,14 @@ Each **infra stop day**, rank **one** hero:
 
 ---
 
-## Bridge upgrade doctrine *(filed d1463 · push/scout ↔ build rhythm)*
-
-**Mirror:** **waystation doctrine** above · **three-lap rule** · **double-duty crossings**. Bridges = **listen → touch → reinforce → deploy** · **weakest-link queue**.
-
-| Day | Legs touched | Work filed | WP filed |
-|-----|--------------|------------|----------|
-| **1447** | **L0–L6** outbound · Belen intel | L0 FILL · L1 CLEAR · L2 GRADE · L4 FILL · L5 CLEAR · L6 MARK · pad candidates A/B/C | **+5** |
-| **1448** | **L8–L9** outbound | ISK touch · PINARUS cross · site C locked | **+1** |
-| **1449** | **L10** outbound | PAYAS cross · L10 wedge read | **+1** |
-| **1450** | **L11–L13** outbound | DORTYOL + Erzin crosses · Castle re-read · CEYHAN scout · plain string | **+2** |
-| **1451** | **L13** outbound | CEYHAN bar march · bar approach crown scrape | **+1** |
-| **1452** | **L13** outbound | CEYHAN hero @ site B · split stake · waystation intel | **+1** |
-| **1453** | **L13→L4** return leg 1 | CEYHAN cross · coast string · TRAIL-WORK · TURN-BACK | **+7** |
-| **1454** | **L3→L0** return leg 2 HOME | COLLECT · GRADE · CLEAR · FILL · REFILL-11 staged | **+5** |
-| **1499** | **L13-N** Kozan BUILD | TRAIL-WAYSTATION-KOZAN-1 ✓ · stop 4 live · Week 215 open · KOZAN-INFRA loop close | **+1 WP** |
-| **1506** | **HOME** stock audit | STOCK-AUDIT ✓ · RELOAD-PRIORITY slate · no geology haul · Week 216 open | **—** |
-| **1512** | **HOME** EXPED prep | KOZAN-TIN-HAUL-2-PREP ✓ · column ~38 kg staged · Week 216 close · depart d1513+ | **—** |
-| **1513** | **L0–L7** outbound | PACK-LASH ✓ · DEPART ✓ · FAST-STRING D1 · HOME → Belen · Week 217 open | **—** |
-| **1514** | **L8–L12** north | FAST-STRING D2 · Belen → Erzin · stop 2 verify | **—** |
-| **1515** | **L13** west | FAST-STRING D3 · Erzin → Ceyhan · stop 3 verify | **—** |
-| **1516** | **L13-N** north | FAST-STRING D4 · Ceyhan → Kozan · stop 4 verify · outbound close | **—** |
-| **1517** | **Foot** @ path B | TIN-HAUL-2 partial ✓ · cob/wash ~2.3 kg · samples · hold @ gate | **—** |
-| **1518** | **L13-N** return L1 | TURN-SOUTH ✓ · FAST-RETURN Kozan → Ceyhan · supply haul | **—** |
-| **1519** | **L13** return L2 | FAST-RETURN Ceyhan → Erzin · Week 217 close | **—** |
-| **1520** | **L8–L12** return L3 | FAST-RETURN Erzin → Belen · Week 218 open | **—** |
-| **1521** | **L0–L7** return HOME | FAST-RETURN leg 4 · KOZAN-TIN-HAUL-2 close · smelt runway | **—** |
-| **1505** | **HOME** forge | TIN-SMELT-TRIAL-1 ✓ · SN-INGOT ~102 g · fork A · Week 215 close | **—** |
-| **1504** | **L0–L7** return HOME | FAST-RETURN leg 4 · Belen → HOME · KOZAN-TIN lap close · smelt runway | **—** |
-| **1503** | **L8–L12** return leg 3 | FAST-RETURN leg 3 · Erzin → Belen · stop 1 camp | **—** |
-| **1502** | **L13** east return leg 2 | FAST-RETURN leg 2 · Ceyhan → Erzin · stop 3 caches live | **—** |
-| **1501** | **L13-N** return leg 1 | TURN-SOUTH · FAST-RETURN leg 1 · Kozan → Ceyhan · stop 4 cache live | **—** |
-| **1500** | **Foot** @ path B | TIN-HAUL partial · cob/wash ~2.4 kg concentrate · samples · hold @ gate | **—** |
-| **1498** | **L13** west verify | FAST-STRING day 3 · Erzin → Ceyhan · stop 3 verify · Week 214 close | **—** |
-| **1497** | **L8–L12** north | FAST-STRING day 2 · Belen → Erzin · stop 2 verify | **—** |
-| **1496** | **L0–L7** outbound | KOZAN-INFRA-DEPART · FAST-STRING day 1 · HOME → Belen · stop 1 verify | **—** |
-| **1495** | **HOME** campus prep | CART-KIT-KOZAN-STAGE T2 · EXPED-RESTOCK · KOZAN-INFRA-LOAD ~48 kg staged | **—** |
-| **1494** | **L4→L0** return HOME | FAST-RETURN leg 3 · TURN-BACK close · CEYHAN loop close · KOZAN-KIT runway | **+2** |
-| **1493** | **L12→L4** return leg 2 | FAST-RETURN leg 2 · Erzin → post-Afrin · Belen touch · listen | **—** |
-| **1492** | **L13→L12** return leg 1 | TURN-BACK · Ceyhan → Erzin · stop 3 caches left live · Week 214 open | **—** |
-| **1491** | **L13** west BUILD | CEYHAN pad B · TRAIL-WAYSTATION-CEYHAN-1 ✓ · stop 3 live · CART-KIT + BRIDGE-CACHE deploy | **+1 WP** |
-| **1490** | **L10–L12** fast outbound | FAST-STRING day 2 · ERZIN @ ~132 km · stop 2 verify · Ceyhan queued | **—** |
-| **1489** | **L0–L9** fast outbound | CALENDAR-TRIPLE-CHECK · CEYHAN-INFRA depart · FAST-STRING day 1 · ~92 km | **—** |
-| **1488** | **—** campus | CALENDAR-AUDIT · CART-AUDIT · FARM-READ · CEYHAN-INFRA load · T2 kit staged | **—** |
-| **1487** | **L7→L0** return HOME | RETURN-HOME · TRAIL-WORK + COLLECT · EXPED-RESTOCK · corridor loop close | **+7** |
-| **1486** | **L12→L8** return | ERZIN-CORRIDOR-RETURN · southbound WORK · mirror d1485 · Belen wp1 · +5 WP | **+5** |
-| **1485** | **L8–L12** outbound | ERZIN-CORRIDOR-INFRA day 2 · L8–L12 WORK · TRAIL-WAYSTATION-ERZIN-1 ✓ · +6 WP | **+6** |
-| **1484** | **L0–L7** outbound | STOP-CHAIN · ERZIN-CORRIDOR-INFRA day 1 · Belen wp1 verify · Week 212 close | **+1** |
-| **1483** | **—** campus | WAYPOINT-SLATE · ERZIN-CORRIDOR-INFRA runway · kit restock · ERZIN-STAGE | **—** |
-| **1482** | **L7→L0** return HOME | Belen return · TRAIL-WORK + COLLECT · EXPED-RESTOCK · loop close | **+7** |
-| **1481** | **L7** Belen infra | CART-KIT-MINI deploy @ site C · L7 BRIDGE-TOUCH · pull-off · +1 WP | **+1** |
-| **1480** | **—** campus | CAMPUS-RESOURCE-AUDIT · CART-KIT-MINI ×2 · EXPED-CARRY doctrine · cart maint | **—** |
-| **1479** | **L3→L0** return HOME | COLLECT · REFILL-13 · chem-lab verify · seventh lap close · Week 212 close | **+4** |
-| **1478** | **L12→L4** return leg 2 | Erzin → post-Afrin · Belen touch · +3 WP · Week 212 open | **+3** |
-| **1477** | **L12–L10** return CLEAR-MOVE | Split → Erzin · +2 WP · BRIDGE-TOUCH · Week 211 close | **+2** |
-| **1476** | **CAP-0** return leg 1 | TURN-BACK · gate → split · trib N02 listen · CEYHAN · lap win | **—** |
-| **1475** | **Foot scout** @ gate | KOZAN-TIN-SCOUT-FOOT · path B locked · cassiterite sample · not mine | **—** |
-| **1474** | **CAP-0** infra push | TRIB-N02 listen · local pick · GRADE · gate rejoin · ~220 km end line | **+1** |
-| **1473** | **L13 + CAP-0** BUILD | Split march · CEYHAN listen · TRIB-N02 hero @ site B · ×12 bridges | **+1** |
-| **1472** | **L10–L12** fast outbound | PAYAS · DORTYOL · ERZIN listen-only · FAST-STRING day 2 · ~132 km | **—** |
-| **1471** | **L0–L9** fast outbound | EXPED-DEPART · Belen touch · FAST-STRING day 1 · ~92 km | **—** |
-| **1470** | **—** campus | EXPED-WAGON-LOAD ✓ · TEAM-TRAIN loaded lap · WAYSTATION-DOCTRINE · Week 210 close | **—** |
-| **1469** | **—** campus | ROPE sprint · harness tune · EXPED-WAGON-LOAD start · partial ~62 kg | **—** |
-| **1467** | **L3→L0** return HOME | CLEAR-MOVE day 3 · COLLECT · REFILL-12 · CART-IRON-RIM-FORGE · lap close | **+4** |
-| **1466** | **L12→L4** return leg 2 | Erzin → post-Afrin ~104 km · CLEAR-MOVE · +3 WP | **+3** |
-| **1465** | **L13→L12** return leg 1 | Split → Erzin rejoin · CLEAR-MOVE · +2 WP · pace audit | **+2** |
-| **1464** | **CAP-0** out + return | KOZAN-PATH establish · MARK ×2 · TURN-BACK · CEYHAN cross · split camp | **+1** |
-| **1463** | **CAP-0** outbound | KOZAN-SCOUT phase 1 · local pick · boot fords · doctrine filed | **+1** |
-| **1462** | **L13** outbound | Castle re-read · CEYHAN audit · BRIDGE-REINFORCE · split camp | **+1** |
-| **1461** | **L12** maint @ Erzin | CART-RIM-CAMP · CART-IRON-RIM PARTIAL · ERZIN apron · L12 GRADE | **+2** |
-| **1460** | **L10–L12** fast outbound | PAYAS · DORTYOL · ERZIN listen-only · FAST-STRING day 2 | **—** |
-| **1459** | **L0–L9** fast outbound | Live chain listen-only · Belen waypoint touch · FAST-STRING day 1 | **—** |
-| **1456** | **L0–L7** infra | Belen march · TRAIL-WAYSTATION-BELEN-1 @ site C | **+2** |
-| **1436** | **—** | **TRAIL-Q-AUDIT @ slate · no march** | **—** |
-| **1434** | **L3→L0** return leg 2 HOME | BRIDGE-TOUCH · GRADE · CLEAR · FILL · TRAIL-STONE COLLECT | **+5** |
-| **1433** | **L12→L4** return leg 1 | BRIDGE-TOUCH ×4 · GRADE · CLEAR · FILL · ford Erzin @ A | **+6** |
-| **1430** | **L10** outbound | PAYAS cross · L10 wedge read | **+1** |
-| **1429** | **L8–L9** outbound | ISK touch · PINARUS cross | **+2** |
-| **1426** | **L3→L0** return leg 2 HOME | COLLECT · GRADE · CLEAR · FILL | **+5** |
-| **1425** | **L11→L4** return leg 1 | BRIDGE-TOUCH ×4 · GRADE · CLEAR · FILL · DORTYOL ford | **+6** |
-| **1424** | **L11** scout | TRAIL-CLEAR pinch · L10 touch | **+2** |
-| **1422** | **L8–L9** outbound | ISK touch · PINARUS cross | **+2** |
-| **1418** | **L9→L4** return leg 1 | BRIDGE-TOUCH ×2 · GRADE · CLEAR · FILL · MARK | **+6** |
-| **1419** | **L3→L0** return leg 2 HOME | BRIDGE-TOUCH · GRADE · CLEAR · FILL ×2 | **+5** |
-| **1415** | **L8** outbound | BRIDGE-TOUCH · MARK | **+2** |
-| **1407** | **L8→L4** return leg 1 post-Afrin | BRIDGE-TOUCH · GRADE ×3 · CLEAR ×2 · FILL ×2 · MARK ×1 | **+6** |
-| **1406** | **L8** outbound | GRADE · MARK · BRIDGE-TOUCH apron | **+2** *(MAINT spent · bridge live)* |
-| **1405** | **L3→L0** return leg 2 + **L1 · L2** outbound | GRADE · CLEAR · FILL · BRIDGE-TOUCH ×2 | **+6** *(leg 2 + outbound touch)* |
-| **1404** | **L8→L4** return leg 1 post-Afrin | GRADE ×4 · CLEAR ×3 · FILL ×2 · BRIDGE-TOUCH ×2 · MARK ×1 | **+8** across legs |
-| **1403** | **L7** | Bridge build incl. PW crown + wind brace | *(baseline TQ 2.0)* |
-| **1402** | **L0–L6** | Loaded crossings only · char @ split west | — |
-| **1396** | **L5–L6** | Kirikhan bridge + split mark | *(baseline L5→2.0)* |
-| **1390** | **L3–L4** | Afrin bridge + trunk ford cross | *(baseline L3/L4)* |
-| **1386** | **L2** | Asi bridge | *(baseline L2→2.0)* |
-| **1384** | **L1** | Trib-02 bridge | *(baseline L1 partial)* |
-
----
-
-## Future legs *(not yet open)*
+## Future legs *(horizon)*
 
 | Leg | Segment | Status |
 |-----|---------|--------|
-| **L10+** | **PINARUS → Payas → Dörtyol → Erzin → The Castle hill** | **✓ Erzin bridge d1441 · hill scout ✓ d1442 · REFILL-10 queued @ loop close** |
-| **PINARUS-1** *(horizon)* | **~10 km N of Isk pass · Payas/Dörtyol class** | **✓ bridge @ B d1416 · RESERVE-6 spent · seventh trail bridge** |
-| **L?** | **Toprakkale → Ceyhan → Kozan north** | Ore-trip split A @ Ceyhan |
-| **CAP-0** | **Cilicia plain → Taurus tin slopes → Cappadocia highlands** | **Same north/inland arc as tin · pozzolan when route climbs · after coastal string TQ ≥3** |
+| **L9–L13 + CAP-0** | **Coast string → Ceyhan → Kozan** | **✓ live @ d2562 · tin verified · waystations deployed** |
+| **EAST-L2+** | **AM-EAST-02 → Afrin/Aleppo horizon** | **String open · kaolin scout ✓ · push when calendar allows** |
+| **Phrygian Road** | **Ceyhan west → Adana → Tarsus → ore slopes** | **Defer · Seyhan crossing = raft/ferry class** |
+| **SEYHAN-1** | **Adana river cross** | **Defer · slate d1385** |
 
 ---
 
@@ -427,8 +337,9 @@ Each **infra stop day**, rank **one** hero:
 
 | Layer | File |
 |-------|------|
-| **Crossings** (bridge/ford/scout) | [map.md](map.md) stop list |
+| **Crossings** (bridge/ford/scout) | [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) |
 | **Road quality** (speed over time) | **this file** |
-| **Calendar / hero queue** | [schedule.md](schedule.md) |
+| **Local geography** | [map.md](map.md) |
+| **Live priorities** | [now.md](now.md) |
 
 *Update **WP** and **TQ @ day** after any day filing **TRAIL-WORK** blocks.*

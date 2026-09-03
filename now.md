@@ -21,4 +21,4 @@
 
 ## Do not treat as live
 
-[schedule.md](schedule.md) frozen ~Day 1540 · [ladder.md](ladder.md) frozen ~Day 1094 · [journal/index.md](journal/index.md) is a human index only
+[obsolete/schedule.md](obsolete/schedule.md) frozen ~Day 1540 · [obsolete/ladder.md](obsolete/ladder.md) frozen ~Day 1094 · [journal/index.md](journal/index.md) hub only — append to **Recent days**, do not load full tables
