@@ -2,20 +2,18 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2477** · Cal-Y8 D51 · ~10 Feb · Week 354 · **HOME · SOW-PREP-Y8 ✓**
+**Day 2543** · Cal-Y8 D117 · ~17 Apr · Week 364 · **HAUL-LIME ✓ · water-filter brainstorm**
 
 | Track | Status |
 |-------|--------|
-| **Farm** | **Bed A/B scratched · stake ghosts live · scare-only until sow** |
-| **Spring sow** | **~16 d · FROST-GATE-Y8 ~d2493–2494 class · ~26 Feb broadcast** |
-| **Ice vault** | **~93 kg cold mass · Y8 record · band CLOSED** |
-| **Docs** | **BC-1 + WD-1 PASS-2 ✓ · map pass 2 defer** |
-| **Paper** | **~0 peg RED** |
-| **Clay arc** | **PORCELAIN-READ ✓ · stoneware @ KILN-C · porcelain = KILN-D runway** |
+| **Factory** | **Pile 7 ~25.5 kg GREEN · GB-2542 touch ~d2544 · KILN-A cook queued** |
+| **WING-2 ghost** | **Lime raw band OK · QL after cook · GB/TR/FT gaps remain** |
+| **Water filters** | **Brainstorm filed · culina potable + chem intake · build defer** |
+| **KILN-D / trail** | **Tile fire-2 · east spur · porcelain probe parallel** |
 
 ## Next
 
-**Week 354 tail · paper couch · map pass 2 · frost gate read ~16 d**
+**KILN-A-LIME · GB-FIRE-2544 · CULINA-POTABLE-FILTER-1 when queue opens**
 
 ## Agent reminders (player request d2312)
 

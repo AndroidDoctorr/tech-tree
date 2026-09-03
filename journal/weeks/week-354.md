@@ -4,7 +4,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**  
 **Theme:** **Indoor records sprint · ICE-MAX-HAUL-Y8 @ peak**
 
-**Status:** OPEN @ Day 2477 · Cal-Y8 D51 · **docs ✓ · ice ✓ · sow prep ✓**
+**Status:** CLOSED @ Day 2478 · Cal-Y8 D52 · **ice ✓ · docs ✓ · sow prep ✓ · kaolin slate ✓**
 
 ---
 
@@ -16,6 +16,7 @@
 | **2475** | **ICE-MAX-HAUL-Y8-1 ✓ · ~30.8 kg nett · vault repack** |
 | **2476** | **ICE-MAX-HAUL-Y8-2 ✓ · ~93 kg cellar · Y8 ice CLOSE** |
 | **2477** | **SOW-PREP-Y8 ✓ · seed audit · scare · PORCELAIN-READ slate** |
+| **2478** | **RECORDS-KAOLIN-SLATE ✓ · map east margin · WEEK-354-CLOSE** |
 
 ---
 

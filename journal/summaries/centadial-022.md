@@ -197,4 +197,4 @@ Centadial 22 is the century of **closing envelopes**: first the storage shell at
 
 ---
 
-*Previous: [centadial-021.md](centadial-021.md) · Next: [centadial-023.md](centadial-023.md) at Day 2300 · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*
+*Previous: [centadial-021.md](centadial-021.md) · Next: [centadial-023.md](centadial-023.md) · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*

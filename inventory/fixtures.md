@@ -46,11 +46,11 @@ Aqueduct from **TRIB-1 gorge head** · header box ~120 L @ WW-YARD · SHOWER-3 @
 
 ## Apiary · barn
 
-**HIVE-1 LIVE @ AG-AP-01 under APIARY-WOOD-SHELTER-1** · **HIVE-2 LIVE @ AG-AP-02 under shelter ✓ d2157** · **APIARY-WOOD-SHELTER-1 ✓ LIVE** · **APIARY-PAD-3 ghost @ N bay** · beeswax **~216 g** · APIARY-PAD-1 + PAD-2 ✓ · SMOKER-1 + VEIL-1 + BEE-GO-BAG-1 ✓ @ shelter peg · barn hinges/latch iron · thresh zone + sheaf rack
+**HIVE-1 LIVE @ AG-AP-01 (SKEP-1) · HIVE-2 LIVE @ AG-AP-02 (SKEP-2) · HIVE-3 LIVE @ AG-AP-03 (WOOD-HIVE-BOX-3) ✓ d2522** · all under **APIARY-WOOD-SHELTER-1 ✓ LIVE** · beeswax **~337 g** · SMOKER-1 + VEIL-1 + BEE-GO-BAG-1 ✓ @ shelter peg · barn hinges/latch iron · thresh zone + sheaf rack
 
 ## Clothes vault (not worn)
 
-Breech 3–6 · woad jeans 1–2 · tunics 1, 3, 4 + tiedye 1–4 · linen coat peg K · cloak @ wagon · gloves · hat · CL-COAT · **lab wear 3/3 REFRESH ✓ d1955 @ chem-lab door pegs #1/#2/#3** · beach kit (towels ×2 · umbrella · chair · swimsuit) @ v1 FIBER
+Breech 3–6 vault · **CL-BOXER-Y8-1 + CL-BOXER-Y8-2 ✓** · **CL-SOCK-Y8-1 + CL-SOCK-Y8-2 + CL-SOCK-Y8-3 + CL-SOCK-Y8-4 ✓** · **CL-WOAD-JEANS-1 + CL-WOAD-JEANS-2 + CL-WOAD-JEANS-Y8-3 ✓** · **BOOT-4 ✓ primary · BOOT-3 backup peg · caligae v1 pack** · tunics 1, 3, 4 + tiedye 1–4 · linen coat peg K · cloak @ wagon · gloves · hat · CL-COAT · **lab wear 3/3 REFRESH ✓ d1955 @ chem-lab door pegs #1/#2/#3** · beach kit (towels ×2 · umbrella · chair · swimsuit) @ v1 FIBER
 
 ## Barrels · pots in service
 

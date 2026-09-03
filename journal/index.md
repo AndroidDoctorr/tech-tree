@@ -2276,7 +2276,7 @@
 | 2297 | [day-2297.md](days/year-007/week-329/day-2297.md) | **WEEK-329-OPEN · ZN-METAL-1-PRACTICE ✓ · ~31 g Zn** | **Cal-Y7 D236 · 14 Aug** |
 | 2298 | [day-2298.md](days/year-007/week-329/day-2298.md) | **ZN-METAL-1-SCALE-1 ✓ · ~105 g · stock ~136 g** | **Cal-Y7 D237 · 15 Aug** |
 | 2299 | [day-2299.md](days/year-007/week-329/day-2299.md) | **WOAD-LEAF-Y7-3 ✓ · WOAD-DRY-SHRED-Y7-2 ✓ · reserve ~154 g** | **Cal-Y7 D238 · 16 Aug** |
-| 2300 | [day-2300.md](days/year-007/week-329/day-2300.md) | **ZN-METAL-1-SCALE-2 ✓ · ~105 g · stock ~241 g** | **Cal-Y7 D239 · 17 Aug** |
+| 2300 | [day-2300.md](days/year-007/week-329/day-2300.md) | **ZN-METAL-1-SCALE-2 ✓ · ~241 g · [Centadial 23](summaries/centadial-023.md)** | **Cal-Y7 D239 · 17 Aug** |
 | 2301 | [day-2301.md](days/year-007/week-329/day-2301.md) | **WOOD-HAUL ✓ · CHAR-RETORT ×3 ✓ · lane ~35 kg** | **Cal-Y7 D240 · 18 Aug** |
 | 2302 | [day-2302.md](days/year-007/week-329/day-2302.md) | **VOLTAIC-JAR-1 green ✓ · throw @ yard rack · fire defer** | **Cal-Y7 D241 · 19 Aug** |
 | 2303 | [day-2303.md](days/year-007/week-329/day-2303.md) | **CU-SMELT-BATCH-3 ✓ · CU-PLATE-FORGE ✓ · WEEK-329-CLOSE** | **Cal-Y7 D242 · 20 Aug** |
@@ -2376,7 +2376,7 @@
 | 2397 | [day-2397.md](days/year-007/week-343/day-2397.md) | **Olive tail brine ✓ · SALT scrape 4 ✓ ~915 g** | **Cal-Y7 D336 · 22 Nov** |
 | 2398 | [day-2398.md](days/year-007/week-343/day-2398.md) | **PALISADE ring CLOSE ✓ · LONGEVITY-Y8-SLATE ✓** | **Cal-Y7 D337 · 23 Nov** |
 | 2399 | [day-2399.md](days/year-007/week-343/day-2399.md) | **WOOD-HAUL ✓ ~25.2 kg · METAL-PURITY-SLATE ✓** | **Cal-Y7 D338 · 24 Nov** |
-| 2400 | [day-2400.md](days/year-007/week-343/day-2400.md) | **WORK-STAGING-TABLE-1 ✓ · ACID-TIER · NAIL slate** | **Cal-Y7 D339 · 25 Nov** |
+| 2400 | [day-2400.md](days/year-007/week-343/day-2400.md) | **WORK-STAGING-TABLE-1 ✓ · ACID-TIER · [Centadial 24](summaries/centadial-024.md)** | **Cal-Y7 D339 · 25 Nov** |
 | 2401 | [day-2401.md](days/year-007/week-343/day-2401.md) | **WIRE-NAIL-BRASS-1 ✓ ×32 · table placement slate** | **Cal-Y7 D340 · 26 Nov** |
 | 2402 | [day-2402.md](days/year-007/week-344/day-2402.md) | **STORAGE-CLEAR ✓ · EMMER GO READ ✓ · HARVEST-BLOCK-OPEN** | **Cal-Y7 D341 · 27 Nov** |
 | 2403 | [day-2403.md](days/year-007/week-344/day-2403.md) | **EMMER-Y7-HARVEST ✓ ~2.01 kg · pulse eve read** | **Cal-Y7 D342 · 28 Nov** |
@@ -2454,6 +2454,72 @@
 | 2475 | [day-2475.md](days/year-007/week-354/day-2475.md) | **ICE-MAX-HAUL-Y8-1 ✓ · ~30.8 kg nett** | **Cal-Y8 D49 · 8 Feb** |
 | 2476 | [day-2476.md](days/year-007/week-354/day-2476.md) | **ICE-MAX-HAUL-Y8-2 ✓ · ~93 kg vault · Y8 ice CLOSE** | **Cal-Y8 D50 · 9 Feb** |
 | 2477 | [day-2477.md](days/year-007/week-354/day-2477.md) | **SOW-PREP-Y8 ✓ · scare · PORCELAIN-READ slate** | **Cal-Y8 D51 · 10 Feb** |
+| 2478 | [day-2478.md](days/year-007/week-354/day-2478.md) | **RECORDS-KAOLIN-SLATE ✓ · map east margin · WEEK-354-CLOSE** | **Cal-Y8 D52 · 11 Feb** |
+| 2479 | [day-2479.md](days/year-007/week-355/day-2479.md) | **WEEK-355-OPEN · PAPER-SPRINT-Y8-D8 ✓ · Y8-PRIORITY-SLATE** | **Cal-Y8 D53 · 12 Feb** |
+| 2480 | [day-2480.md](days/year-007/week-355/day-2480.md) | **MAP-PICTO PASS-2 ✓ · docs CLOSE · pigment tech ladder** | **Cal-Y8 D54 · 13 Feb** |
+| 2481 | [day-2481.md](days/year-007/week-355/day-2481.md) | **Egyptian blue partial ✓ · green AMBER · tier 3 unlock** | **Cal-Y8 D55 · 14 Feb** |
+| 2482 | [day-2482.md](days/year-007/week-355/day-2482.md) | **Egyptian green-2 ✓ · greener PASS · recipe fix** | **Cal-Y8 D56 · 15 Feb** |
+| 2483 | [day-2483.md](days/year-007/week-355/day-2483.md) | **MALACHITE-SYNTH-1-D1 ✓ · precipitate · 3-day arc** | **Cal-Y8 D57 · 16 Feb** |
+| 2484 | [day-2484.md](days/year-007/week-355/day-2484.md) | **MALACHITE-D2 ✓ · CL-TUNIC-5 D1 · interleave day** | **Cal-Y8 D58 · 17 Feb** |
+| 2485 | [day-2485.md](days/year-007/week-355/day-2485.md) | **CL-TUNIC-5 ✓ · MALACHITE CLOSE ✓ · WEEK-355-CLOSE** | **Cal-Y8 D59 · 18 Feb** |
+| 2486 | [day-2486.md](days/year-007/week-356/day-2486.md) | **WEEK-356-OPEN · CL-BOXER-Y8 D1 · drawstring grammar** | **Cal-Y8 D60 · 19 Feb** |
+| 2487 | [day-2487.md](days/year-007/week-356/day-2487.md) | **CL-BOXER-Y8-1 ✓ · sew · drawcord · deploy** | **Cal-Y8 D61 · 20 Feb** |
+| 2488 | [day-2488.md](days/year-007/week-356/day-2488.md) | **CL-BOXER-Y8-2 ~80% · pre-sow clock ~6 d** | **Cal-Y8 D62 · 21 Feb** |
+| 2489 | [day-2489.md](days/year-007/week-356/day-2489.md) | **CL-BOXER-Y8 ×2 ✓ · FARM-CARE scare · frost ~3 d** | **Cal-Y8 D63 · 22 Feb** |
+| 2490 | [day-2490.md](days/year-007/week-356/day-2490.md) | **CL-SOCK-Y8 ×2 ✓ · LINENS-SPRINT-2 open** | **Cal-Y8 D64 · 23 Feb** |
+| 2491 | [day-2491.md](days/year-007/week-356/day-2491.md) | **WOAD-VAT refresh · CL-WOAD-JEANS-Y8-3 ~55%** | **Cal-Y8 D65 · 24 Feb** |
+| 2492 | [day-2492.md](days/year-007/week-356/day-2492.md) | **Jeans panels dyed · FROST-GATE 1/2 · WEEK-356-CLOSE** | **Cal-Y8 D66 · 25 Feb** |
+| 2493 | [day-2493.md](days/year-007/week-357/day-2493.md) | **CL-WOAD-JEANS-Y8-3 ✓ · FROST-GATE CLOSE · bed read** | **Cal-Y8 D67 · 26 Feb** |
+| 2494 | [day-2494.md](days/year-007/week-357/day-2494.md) | **SPRING-SOW-Y8 ✓ · culina herbs · beds live** | **Cal-Y8 D68 · 27 Feb** |
+| 2495 | [day-2495.md](days/year-007/week-357/day-2495.md) | **BOOT-4 D1 ~55% · brass eyelets ×24 ✓** | **Cal-Y8 D69 · 28 Feb** |
+| 2496 | [day-2496.md](days/year-007/week-357/day-2496.md) | **BOOT-4 ✓ · BOOT-3 backup · walk test PASS** | **Cal-Y8 D70 · 1 Mar** |
+| 2497 | [day-2497.md](days/year-007/week-357/day-2497.md) | **CL-SOCK-Y8 ×2 ✓ · hemp sow ~now read** | **Cal-Y8 D71 · 2 Mar** |
+| 2498 | [day-2498.md](days/year-007/week-357/day-2498.md) | **HEMP-SOW-Y8 ✓ · Bed A north · band complete** | **Cal-Y8 D72 · 3 Mar** |
+| 2499 | [day-2499.md](days/year-007/week-357/day-2499.md) | **FLAX max ~18 m² ✓ · campus cleanup light** | **Cal-Y8 D73 · 4 Mar** |
+| 2500 | [day-2500.md](days/year-007/week-358/day-2500.md) | **KILN-D stake + slate ✓ · material lanes read** | **Cal-Y8 D74 · 5 Mar** |
+| 2501 | [day-2501.md](days/year-007/week-358/day-2501.md) | **WOOD-HAUL-Y8-1 ✓ · pile 5 ~48 kg** | **Cal-Y8 D75 · 6 Mar** |
+| 2502 | [day-2502.md](days/year-007/week-358/day-2502.md) | **POZZ-GATE · RB-D ×32 green ~20%** | **Cal-Y8 D76 · 7 Mar** |
+| 2503 | [day-2503.md](days/year-007/week-358/day-2503.md) | **HAUL-CLAY-Y8-1 ✓ · pile 1 ~33 kg** | **Cal-Y8 D77 · 8 Mar** |
+| 2504 | [day-2504.md](days/year-007/week-358/day-2504.md) | **Clay read ✓ · D2 ×32 · levigate · touch batch 1** | **Cal-Y8 D78 · 9 Mar** |
+| 2505 | [day-2505.md](days/year-007/week-358/day-2505.md) | **REFRACTORY-BRICK-D-D3 ✓ · ~60%** | **Cal-Y8 D79 · 10 Mar** |
+| 2506 | [day-2506.md](days/year-007/week-358/day-2506.md) | **HAUL-CLAY-Y8-2 ✓ · D4 ×32 · ~80% sprint** | **Cal-Y8 D80 · 11 Mar** |
+| 2507 | [day-2507.md](days/year-007/week-359/day-2507.md) | **SAND-GROG-RESTOCK ✓ · farm weed + scare** | **Cal-Y8 D81 · 12 Mar** |
+| 2508 | [day-2508.md](days/year-007/week-359/day-2508.md) | **RB-D D5 ✓ · ×160 green CLOSE · farm weed** | **Cal-Y8 D82 · 13 Mar** |
+| 2509 | [day-2509.md](days/year-007/week-359/day-2509.md) | **RB-D-RANK-FIRE-1 ✓ ×64 · pad D1 ~50%** | **Cal-Y8 D83 · 14 Mar** |
+| 2510 | [day-2510.md](days/year-007/week-359/day-2510.md) | **RB-D-RANK-FIRE-2 ✓ ×64 · pad socle ~85%** | **Cal-Y8 D84 · 15 Mar** |
+| 2511 | [day-2511.md](days/year-007/week-359/day-2511.md) | **RB-D-RANK-FIRE-3 ✓ · ×160 fired CLOSE · sand haul** | **Cal-Y8 D85 · 16 Mar** |
+| 2512 | [day-2512.md](days/year-007/week-359/day-2512.md) | **AMBER sort ✓ · CHAMBER-WYTHE-1 ✓ ×30 RB-D** | **Cal-Y8 D86 · 17 Mar** |
+| 2513 | [day-2513.md](days/year-007/week-359/day-2513.md) | **CHAMBER-WYTHE-2 ✓ · courses 2–3 · WEEK-359-CLOSE** | **Cal-Y8 D87 · 18 Mar** |
+| 2514 | [day-2514.md](days/year-007/week-360/day-2514.md) | **CHAMBER-WYTHE-3 ✓ · shell CLOSE · throat + lintel** | **Cal-Y8 D88 · 19 Mar** |
+| 2515 | [day-2515.md](days/year-007/week-360/day-2515.md) | **LIME-GATE · KILN-A-LIME ×2 ✓ · no haul** | **Cal-Y8 D89 · 20 Mar** |
+| 2516 | [day-2516.md](days/year-007/week-360/day-2516.md) | **CHIMNEY-WYTHE-1 ✓ · ×64 stack · RB-D deployed** | **Cal-Y8 D90 · 21 Mar** |
+| 2517 | [day-2517.md](days/year-007/week-360/day-2517.md) | **WAX-HARVEST-Y8 ✓ · apiary check · swarm scout queued** | **Cal-Y8 D91 · 22 Mar** |
+| 2518 | [day-2518.md](days/year-007/week-360/day-2518.md) | **SWARM-SCOUT-Y8 ✓ · cluster @ fig C4 · capture GO** | **Cal-Y8 D92 · 23 Mar** |
+| 2519 | [day-2519.md](days/year-007/week-360/day-2519.md) | **APIARY read · WOOD-HIVE-BOX-3 D1 ~55%** | **Cal-Y8 D93 · 24 Mar** |
+| 2520 | [day-2520.md](days/year-007/week-360/day-2520.md) | **WOOD-HIVE-BOX-3 ✓ LIVE · WEEK-360-CLOSE** | **Cal-Y8 D94 · 25 Mar** |
+| 2521 | [day-2521.md](days/year-007/week-361/day-2521.md) | **SWARM-CAPTURE-3 ✓ · HIVE-3 occupied · queen defer** | **Cal-Y8 D95 · 26 Mar** |
+| 2522 | [day-2522.md](days/year-007/week-361/day-2522.md) | **QUEEN-READ-3 ✓ · herb seed save Y8 ✓ · HIVE-3 LIVE** | **Cal-Y8 D96 · 27 Mar** |
+| 2523 | [day-2523.md](days/year-007/week-361/day-2523.md) | **KAOLIN-SCOUT-PREP ✓ · cart route · food ~5 kg · launch GO** | **Cal-Y8 D97 · 28 Mar** |
+| 2524 | [day-2524.md](days/year-007/week-361/day-2524.md) | **KAOLIN-SCOUT-1 ✓ · SC-KAOLIN-01 LIVE · ~30 kg wet · camp n1** | **Cal-Y8 D98 · 29 Mar** |
+| 2525 | [day-2525.md](days/year-007/week-361/day-2525.md) | **Food gate GO · KAOLIN-SCOUT-2 ✓ · CAND-4 BEST · return queued** | **Cal-Y8 D99 · 30 Mar** |
+| 2526 | [day-2526.md](days/year-007/week-361/day-2526.md) | **KAOLIN-SCOUT-RETURN ✓ · ~29 kg @ porch · scout Y8 CLOSE** | **Cal-Y8 D100 · 31 Mar** |
+| 2527 | [day-2527.md](days/year-007/week-361/day-2527.md) | **KAOLIN-WASH-RANK-1 ✓ · SLIP-4 BEST · WEEK-361-CLOSE** | **Cal-Y8 D101 · 1 Apr** |
+| 2528 | [day-2528.md](days/year-007/week-362/day-2528.md) | **WEEK-362-OPEN · PORCELAIN-BODY-TEST-FIRE-1 ✓ · stoneware @ KILN-C** | **Cal-Y8 D102 · 2 Apr** |
+| 2529 | [day-2529.md](days/year-007/week-362/day-2529.md) | **KILN-D chimney CLOSE ~3.8 m · hood ✓ · plenum next** | **Cal-Y8 D103 · 3 Apr** |
+| 2530 | [day-2530.md](days/year-007/week-362/day-2530.md) | **KILN-D plenum + WW-2 link ✓ · twin tuyere · ~88% o/a** | **Cal-Y8 D104 · 4 Apr** |
+| 2531 | [day-2531.md](days/year-007/week-362/day-2531.md) | **KILN-D INSUL-v3 ✓ · gap fill · outer blankets · cure queue** | **Cal-Y8 D105 · 5 Apr** |
+| 2532 | [day-2532.md](days/year-007/week-362/day-2532.md) | **CONE-SET-1 ✓ · EXPED reopen · gravel/east trail pack prep** | **Cal-Y8 D106 · 6 Apr** |
+| 2533 | [day-2533.md](days/year-007/week-362/day-2533.md) | **TRAIL-NORTH-PACK ✓ · pozz NO-GO · wheels-up · first L0 gravel** | **Cal-Y8 D107 · 7 Apr** |
+| 2534 | [day-2534.md](days/year-007/week-362/day-2534.md) | **KARASU bar gravel train ✓ · L0 dress · ford camp · WEEK-362-CLOSE** | **Cal-Y8 D108 · 8 Apr** |
+| 2535 | [day-2535.md](days/year-007/week-363/day-2535.md) | **WEEK-363-OPEN · ASPHALT-MARK ×3 · TRIB-02 MAINT · L1 gravel** | **Cal-Y8 D109 · 9 Apr** |
+| 2536 | [day-2536.md](days/year-007/week-363/day-2536.md) | **POZZ-TRIB-WASH ✓ ~16 kg · turn HOME** | **Cal-Y8 D110 · 10 Apr** |
+| 2537 | [day-2537.md](days/year-007/week-363/day-2537.md) | **Return ✓ · pozz unload · north gravel lap CLOSE** | **Cal-Y8 D111 · 11 Apr** |
+| **2538** | [day-2538.md](days/year-007/week-363/day-2538.md) | **KILN-D-COLD-TEST-1 ✓ · FLOOR-TILE-PRESS ×8 · SLIP-4 body** | **Cal-Y8 D112 · 12 Apr** |
+| **2539** | [day-2539.md](days/year-007/week-363/day-2539.md) | **KILN-D-HOT-TEST-1 ✓ · CAND-1 wash ✓ · SLIP-1 ~6.6 kg** | **Cal-Y8 D113 · 13 Apr** |
+| 2540 | [day-2540.md](days/year-007/week-363/day-2540.md) | **KILN-D full test ✓ · FT-Y8 7/8 · cone ladder CLOSE** | **Cal-Y8 D114 · 14 Apr** |
+| 2541 | [day-2541.md](days/year-007/week-363/day-2541.md) | **CONE-READ-2 ✓ · CHAR-RESTOCK ✓ · FLOOR-TILE-PRESS ×9 · WEEK-363-CLOSE** | **Cal-Y8 D115 · 15 Apr** |
+| 2542 | [day-2542.md](days/year-007/week-364/day-2542.md) | **WEEK-364-OPEN · HAUL-CLAY ✓ · GB-PRESS ×40 · WING-2 mat read** | **Cal-Y8 D116 · 16 Apr** |
+| 2543 | [day-2543.md](days/year-007/week-364/day-2543.md) | **HAUL-LIME ✓ · WATER-FILTER brainstorm · culina + chem** | **Cal-Y8 D117 · 17 Apr** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -2482,6 +2548,8 @@
 | **20** | 1901–2000 | [centadial-020.md](summaries/centadial-020.md) |
 | **21** | 2001–2100 | [centadial-021.md](summaries/centadial-021.md) |
 | **22** | 2101–2200 | [centadial-022.md](summaries/centadial-022.md) |
+| **23** | 2201–2300 | [centadial-023.md](summaries/centadial-023.md) |
+| **24** | 2301–2400 | [centadial-024.md](summaries/centadial-024.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|
