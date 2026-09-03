@@ -4,7 +4,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**  
 **Theme:** **Clay/brick factory · mat lane assessment · optional pane/hinge prep**
 
-**Status:** OPEN @ Day 2543 · Cal-Y8 D117 · **lime raw GREEN · filter slate filed**
+**Status:** CLOSE @ Day 2548 · Cal-Y8 D122 · **week pivots pad sprint · Kiln B + forge form-ready**
 
 ---
 
@@ -12,6 +12,11 @@
 |-----|---------|
 | **2542** | **WEEK-364-OPEN · HAUL-CLAY ✓ · GREEN-PRESS ×40 · WING-2 mat lanes read** |
 | **2543** | **HAUL-LIME ✓ · WATER-FILTER brainstorm · culina + chem lanes** |
+| **2544** | **HAUL-CLAY ✓ · GREEN-PRESS ×80 · GB-2542 touch ✓** |
+| **2545** | **GB-FIRE ✓ · HAUL-CLAY on cook · stackable ~124** |
+| **2546** | **GREEN-PRESS ×80 · work-site pad/shade brainstorm** |
+| **2547** | **WORK-SITE pad stake ✓ · Kiln B + forge clear** |
+| **2548** | **PAD gravel sub ✓ · forms · Kiln A clear** |
 
 ---
 

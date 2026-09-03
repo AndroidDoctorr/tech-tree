@@ -4,7 +4,7 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-TQ-LAP-5-CLOSE d2331 · hub collars refreshed d2348 PT+SB · dual-hub roll PASS · caps ×4 @ powder safe**
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-EAST-ALEPPO-LAP-CLOSE d2561 · caps ×1 @ powder safe**
 - **×4 caps @ HOME powder safe**
 - **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
 - **EXPED-CARRY-KIT-1 @ wagon peg**
@@ -34,6 +34,8 @@ Live crossings and remaining kits. Spent RESERVE/FILL 1–15 and closed columns 
 | TRIB-FT-N02 | **~3.0** | ~8 m · d1473 |
 | **KARASU-TRIB-01** | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1+2 **LIVE ✓** · cure read d2252 · knee @ both pads** |
 | **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · listen PASS · ford ghost PASS · deck defer** |
+| **AM-EAST-01** | **—** | **~18 km E of Asi cross · north bank · BLAST-PINCH d2558 · gravel ~46 kg d2559 · TQ ~3.05→~3.2** |
+| **AM-EAST-02** | **—** | **~20 km E of Asi cross · BLAST-PINCH d2560 · gravel dress · stake LIVE** |
 | **L5 crown** | **—** | **~72 km avian · BLAST-PINCH-4 d2320 · TQ ~3.1 · dressed** |
 
 ## Caches · waystations

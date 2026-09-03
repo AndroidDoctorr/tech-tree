@@ -2520,6 +2520,25 @@
 | 2541 | [day-2541.md](days/year-007/week-363/day-2541.md) | **CONE-READ-2 ✓ · CHAR-RESTOCK ✓ · FLOOR-TILE-PRESS ×9 · WEEK-363-CLOSE** | **Cal-Y8 D115 · 15 Apr** |
 | 2542 | [day-2542.md](days/year-007/week-364/day-2542.md) | **WEEK-364-OPEN · HAUL-CLAY ✓ · GB-PRESS ×40 · WING-2 mat read** | **Cal-Y8 D116 · 16 Apr** |
 | 2543 | [day-2543.md](days/year-007/week-364/day-2543.md) | **HAUL-LIME ✓ · WATER-FILTER brainstorm · culina + chem** | **Cal-Y8 D117 · 17 Apr** |
+| 2544 | [day-2544.md](days/year-007/week-364/day-2544.md) | **HAUL-CLAY ✓ · GREEN-PRESS ×80 · GB-2542 touch** | **Cal-Y8 D118 · 18 Apr** |
+| 2545 | [day-2545.md](days/year-007/week-364/day-2545.md) | **GB-FIRE ✓ · HAUL-CLAY on cook · stackable ~124** | **Cal-Y8 D119 · 19 Apr** |
+| 2546 | [day-2546.md](days/year-007/week-364/day-2546.md) | **GREEN-PRESS ×80 · work-site pad/shade slate** | **Cal-Y8 D120 · 20 Apr** |
+| 2547 | [day-2547.md](days/year-007/week-364/day-2547.md) | **WORK-SITE pad stake · Kiln B + forge clear** | **Cal-Y8 D121 · 21 Apr** |
+| 2548 | [day-2548.md](days/year-007/week-364/day-2548.md) | **PAD gravel sub · forms · Kiln A clear** | **Cal-Y8 D122 · 22 Apr** |
+| 2549 | [day-2549.md](days/year-007/week-365/day-2549.md) | **WEEK-365-OPEN · PAD-POUR-KILN-B ✓ · Kiln A form** | **Cal-Y8 D123 · 23 Apr** |
+| 2550 | [day-2550.md](days/year-007/week-365/day-2550.md) | **PAD-POUR-FORGE ✓ · KILN-D sub · pozz gate** | **Cal-Y8 D124 · 24 Apr** |
+| 2551 | [day-2551.md](days/year-007/week-365/day-2551.md) | **POZZ-TRIB-HAUL ✓ · unload · pad gate OPEN** | **Cal-Y8 D125 · 25 Apr** |
+| 2552 | [day-2552.md](days/year-007/week-365/day-2552.md) | **GB-FIRE ✓ · PAD-POUR-KILN-A · east bypass** | **Cal-Y8 D126 · 26 Apr** |
+| 2553 | [day-2553.md](days/year-007/week-365/day-2553.md) | **PAD-KILN-D ✓ · GB-FIRE ✓ · 4/4 pads** | **Cal-Y8 D127 · 27 Apr** |
+| 2554 | [day-2554.md](days/year-007/week-365/day-2554.md) | **CHAR-RETORT ✓ · HAUL-CLAY ✓** | **Cal-Y8 D128 · 28 Apr** |
+| 2555 | [day-2555.md](days/year-007/week-365/day-2555.md) | **GB-FIRE ✓ · TR-PRESS ×32 · WEEK-CLOSE** | **Cal-Y8 D129 · 29 Apr** |
+| 2556 | [day-2556.md](days/year-007/week-366/day-2556.md) | **WEEK-366-OPEN · TRAIL-EAST-ALEPPO-PACK ✓** | **Cal-Y8 D130 · 30 Apr** |
+| 2557 | [day-2557.md](days/year-007/week-366/day-2557.md) | **Exped D1 · ASI cross · east camp** | **Cal-Y8 D131 · 1 May** |
+| 2558 | [day-2558.md](days/year-007/week-366/day-2558.md) | **Exped D2 · TQ blast · AM-EAST-01** | **Cal-Y8 D132 · 2 May** |
+| 2559 | [day-2559.md](days/year-007/week-366/day-2559.md) | **Exped D3 · gravel train ~46 kg** | **Cal-Y8 D133 · 3 May** |
+| 2560 | [day-2560.md](days/year-007/week-366/day-2560.md) | **Exped D4 · gravel D2 · ~90 kg band** | **Cal-Y8 D134 · 4 May** |
+| 2561 | [day-2561.md](days/year-007/week-366/day-2561.md) | **Exped D5 · kaolin bulk · HOME CLOSE** | **Cal-Y8 D135 · 5 May** |
+| 2562 | [day-2562.md](days/year-007/week-366/day-2562.md) | **GB-FIRE ✓ · KAOLIN-WASH ✓ · WEEK-CLOSE** | **Cal-Y8 D136 · 6 May** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
