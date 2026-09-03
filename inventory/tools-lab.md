@@ -4,9 +4,11 @@ Named gear. Ore / metal **mass** lives in [inventory.md](../inventory.md) only.
 
 ## Primary iron / forge
 
-ANVIL-1 ~1.22 kg · IRON-TONGS-1/2 · IRON-HAMMER-1 · IRON-AXE-1 · IRON-ADZE-1 · IRON-HOE-1 · IRON-SPADE-1 · IRON-PICK-1 · IRON-SICKLE-1 (hero-sharp d1656 · steel edge pack d2390) · IRON-SHEARS-1 · IRON-CHISEL-1 · **STEEL-COLD-CHISEL-1 ✓ d2342 · STEEL-DRIFT-1 ✓ · STEEL-CENTER-PUNCH-1 ✓ @ M2 forge peg · STEEL-KITCHEN-KNIFE-1 ✓ d2350 · STEEL-SCRAPER-1 ✓ @ culina peg** · wood chisels 2/3 · wedges 1/2 · trowel · mortar float · drawplate + bronze insert · **DRAWPLATE-2 ✓ d1978 · lane A bronze ~3.2 mm · **lanes B/C CASE steel ✓ d2349** ~1.6/0.9 mm @ bench peg** · glass tongs · pour ladle · skim · gather cup · blowpipe · copper blow stub
+ANVIL-1 ~1.22 kg · IRON-TONGS-1/2 · IRON-HAMMER-1 · IRON-AXE-1 · IRON-ADZE-1 · IRON-HOE-1 · IRON-SPADE-1 · IRON-PICK-1 · IRON-SICKLE-1 (hero-sharp d1656 · steel edge pack d2390) · IRON-SHEARS-1 · IRON-CHISEL-1 · **STEEL-COLD-CHISEL-1 ✓ d2342 · STEEL-DRIFT-1 ✓ · STEEL-CENTER-PUNCH-1 ✓ @ M2 forge peg · STEEL-KITCHEN-KNIFE-1 ✓ d2350 · STEEL-SCRAPER-1 ✓ @ culina peg** · **STEEL-WOOD-CHISEL-SET-1 ✓ SWC-1 straight/skew/gouge @ Atelier d2422** · wood chisels 2/3 backup @ bench · wedges 1/2 · trowel · mortar float · drawplate + bronze insert · **DRAWPLATE-2 ✓ d1978 · lane A bronze ~3.2 mm · **lanes B/C CASE steel ✓ d2349** ~1.6/0.9 mm @ bench peg** · glass tongs · pour ladle · skim · gather cup · blowpipe · copper blow stub
 
 Forge PPE @ M2: apron · OPT-1-FORGE · heat gloves · CU fire tongs (coals only — CU forge tongs retired)
+
+**ICE-PICK-1 ✓ d2448 @ wagon bed peg · ICE-TONGS-1 ✓ d2448 @ wagon side rail** *(haul kit — not forge IRON-TONGS)*
 
 ## Measure · mill
 

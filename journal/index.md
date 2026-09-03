@@ -2076,7 +2076,7 @@
 | 2097 | [day-2097.md](days/year-006/week-300/day-2097.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · hub status read** | **Cal-Y7 D36 · 26 Jan** |
 | 2098 | [day-2098.md](days/year-006/week-300/day-2098.md) | **GB-FIRE ✓ · storage c2 ✓ · sand spent** | **Cal-Y7 D37 · 27 Jan** |
 | 2099 | [day-2099.md](days/year-006/week-300/day-2099.md) | **SAND-RESTOCK ✓ · mortar GO** | **Cal-Y7 D38 · 28 Jan** |
-| 2100 | [day-2100.md](days/year-006/week-300/day-2100.md) | **STORAGE-WING-SHELL c3 ✓ · week close** | **Cal-Y7 D39 · 29 Jan** |
+| 2100 | [day-2100.md](days/year-006/week-300/day-2100.md) | **STORAGE-WING-SHELL c3 ✓ · [Centadial 21](summaries/centadial-021.md)** | **Cal-Y7 D39 · 29 Jan** |
 | 2101 | [day-2101.md](days/year-006/week-301/day-2101.md) | **STORAGE-WING-SHELL c4 ✓ · W window rough-open** | **Cal-Y7 D40 · 30 Jan** |
 | 2102 | [day-2102.md](days/year-006/week-301/day-2102.md) | **WOOD-HAUL ✓ · factory refill step 1** | **Cal-Y7 D41 · 31 Jan** |
 | 2103 | [day-2103.md](days/year-006/week-301/day-2103.md) | **CHAR-RETORT ✓ · factory refill step 2** | **Cal-Y7 D42 · 1 Feb** |
@@ -2176,7 +2176,7 @@
 | 2197 | [day-2197.md](days/year-007/week-314/day-2197.md) | **WOOD-HAUL ✓ · hub stage mat estimate** | **Cal-Y7 D136 · 6 May** |
 | 2198 | [day-2198.md](days/year-007/week-314/day-2198.md) | **HAUL-CLAY ✓ · CHAR-RETORT ✓ · GREEN-PRESS ✓ · WEEK-314-CLOSE** | **Cal-Y7 D137 · 7 May** |
 | 2199 | [day-2199.md](days/year-007/week-315/day-2199.md) | **WEEK-315-OPEN · HAUL-CLAY lap 2 ✓ · GREEN-PRESS ×40 ✓** | **Cal-Y7 D138 · 8 May** |
-| 2200 | [day-2200.md](days/year-007/week-315/day-2200.md) | **GREEN-PRESS ×40 ✓ · TR-PRESS ×32 ✓ · sprint 1 mold close** | **Cal-Y7 D139 · 9 May** |
+| 2200 | [day-2200.md](days/year-007/week-315/day-2200.md) | **GREEN-PRESS ×40 ✓ · TR-PRESS ×32 ✓ · [Centadial 22](summaries/centadial-022.md)** | **Cal-Y7 D139 · 9 May** |
 | 2201 | [day-2201.md](days/year-007/week-315/day-2201.md) | **GB-FIRE ✓ 37/40 · HAUL-LIME + burn ✓ · mortar GO** | **Cal-Y7 D140 · 10 May** |
 | 2202 | [day-2202.md](days/year-007/week-315/day-2202.md) | **GB-FIRE ✓ 37/40 · HAUL-CLAY ✓ · TR-PRESS ×32 ✓** | **Cal-Y7 D141 · 11 May** |
 | 2203 | [day-2203.md](days/year-007/week-315/day-2203.md) | **GB-FIRE ✓ · TR-FIRE ✓ · sprint 1 ×120 close · stackable ~133** | **Cal-Y7 D142 · 12 May** |
@@ -2392,6 +2392,68 @@
 | 2413 | [day-2413.md](days/year-007/week-345/day-2413.md) | **HUB-S-OIL-GRATE-1 ✓ · HOT-SCRAPE-KIT-1 ✓ · DRAINAGE-SPRINT-CLOSE** | **Cal-Y7 D352 · 8 Dec** |
 | 2414 | [day-2414.md](days/year-007/week-345/day-2414.md) | **FARM-CARE ✓ · P-RETT-17 pull ✓ · P-RETT-18 load ✓ · screen baskets ×5** | **Cal-Y7 D353 · 9 Dec** |
 | 2415 | [day-2415.md](days/year-007/week-345/day-2415.md) | **STONE-HAUL ✓ · PALISADE-2 slate ✓ · CI-1 crop/orchard manual** | **Cal-Y7 D354 · 10 Dec** |
+| 2416 | [day-2416.md](days/year-007/week-346/day-2416.md) | **WEEK-346-OPEN · PALISADE-2-FOOTING-W-1 ✓ ~9 m SR-W1** | **Cal-Y7 D355 · 11 Dec** |
+| 2417 | [day-2417.md](days/year-007/week-346/day-2417.md) | **FOOTING-W-2 ✓ · W wood refresh leg-1** | **Cal-Y7 D356 · 12 Dec** |
+| 2418 | [day-2418.md](days/year-007/week-346/day-2418.md) | **STONE-HAUL ✓ · FOOTING-W-3 ✓ ~10 m** | **Cal-Y7 D357 · 13 Dec** |
+| 2419 | [day-2419.md](days/year-007/week-346/day-2419.md) | **FARM-CARE ✓ · FOOTING-W-4 ✓ · P-RETT-18 defer** | **Cal-Y7 D358 · 14 Dec** |
+| 2420 | [day-2420.md](days/year-007/week-346/day-2420.md) | **W footings CLOSE ✓ · STONE-CHEEK-W-1 ✓ ~10 m** | **Cal-Y7 D359 · 15 Dec** |
+| 2421 | [day-2421.md](days/year-007/week-346/day-2421.md) | **WOOD-HAUL ✓ · RECORDS-DESK-SLATE ✓ · palisade pause** | **Cal-Y7 D360 · 16 Dec** |
+| 2422 | [day-2422.md](days/year-007/week-346/day-2422.md) | **STEEL-WOOD-CHISEL-SET-1 ✓ · SWC-1 straight/skew/gouge** | **Cal-Y7 D361 · 17 Dec** |
+| 2423 | [day-2423.md](days/year-007/week-347/day-2423.md) | **WEEK-347-OPEN · WIRE-NAIL-BRASS-2 ✓ · DESK-D1 ✓ · P-RETT-18 pull** | **Cal-Y7 D362 · 18 Dec** |
+| 2424 | [day-2424.md](days/year-007/week-347/day-2424.md) | **RECORDS-DESK-1-D2 ✓ · base frame LIVE** | **Cal-Y7 D363 · 19 Dec** |
+| 2425 | [day-2425.md](days/year-007/week-347/day-2425.md) | **YULE-FEAST-EVE-COOK ✓ · SHELF-LIFE-TAIL ✓ · desk PAUSE** | **Cal-Y7 D364 · 20 Dec** |
+| 2426 | [day-2426.md](days/year-007/week-347/day-2426.md) | **BOW-HUNT ✓ · FEAST-YULE ✓ · SUN-YULE ✓ · lyre · Cal-Y7 close** | **Cal-Y7 D365 · 21 Dec** |
+| 2427 | [day-2427.md](days/year-007/week-347/day-2427.md) | **RECORDS-DESK-1-D3 ✓ · YULE-PRESENT canon · Cal-Y8 D1** | **Cal-Y8 D1 · 22 Dec** |
+| 2428 | [day-2428.md](days/year-007/week-347/day-2428.md) | **RECORDS-DESK-1-D4 ✓ · top mount · stain swatches ×4** | **Cal-Y8 D2 · 23 Dec** |
+| 2429 | [day-2429.md](days/year-007/week-347/day-2429.md) | **OGEE ✓ · sand ✓ · MADDER-WOAD-MERLOT recipe · carve accents** | **Cal-Y8 D3 · 24 Dec** |
+| 2430 | [day-2430.md](days/year-007/week-348/day-2430.md) | **WEEK-348-OPEN · aprons ✓ · merlot stain ✓ · Y7 desk present** | **Cal-Y8 D4 · 25 Dec** |
+| 2431 | [day-2431.md](days/year-007/week-348/day-2431.md) | **BRASS-ORNAMENT-DESIGN ✓ · templates ×9 · budget · forge defer** | **Cal-Y8 D5 · 26 Dec** |
+| 2432 | [day-2432.md](days/year-007/week-348/day-2432.md) | **BRASS-FORGE-D1 ✓ · backplates · side strips** | **Cal-Y8 D6 · 27 Dec** |
+| 2433 | [day-2433.md](days/year-007/week-348/day-2433.md) | **BRASS-FORGE-D2 ✓ · caps ×4 · front apron · forge CLOSE** | **Cal-Y8 D7 · 28 Dec** |
+| 2434 | [day-2434.md](days/year-007/week-348/day-2434.md) | **BRASS-ORNAMENT-INSTALL ✓ · merlot touch-up · oil defer** | **Cal-Y8 D8 · 29 Dec** |
+| 2435 | [day-2435.md](days/year-007/week-348/day-2435.md) | **OIL-LOCK ✓ · RECORDS-DESK-1 FULL CLOSE · Y7 present** | **Cal-Y8 D9 · 30 Dec** |
+| 2436 | [day-2436.md](days/year-007/week-348/day-2436.md) | **Desk fill ×3 · paper RED · hemp/flax sprint prep** | **Cal-Y8 D10 · 31 Dec** |
+| 2437 | [day-2437.md](days/year-007/week-349/day-2437.md) | **WEEK-349-OPEN · FLAX-BREAK-17 ✓** | **Cal-Y8 D11 · 1 Jan** |
+| 2438 | [day-2438.md](days/year-007/week-349/day-2438.md) | **HEMP-BREAK-18 ✓ · hemp shive bank** | **Cal-Y8 D12 · 2 Jan** |
+| 2439 | [day-2439.md](days/year-007/week-349/day-2439.md) | **PAPER-SPRINT-Y8-D1 ✓ · flax couch ×2** | **Cal-Y8 D13 · 3 Jan** |
+| 2440 | [day-2440.md](days/year-007/week-349/day-2440.md) | **PAPER-SPRINT-Y8-D2 ✓ · compare · desk topped** | **Cal-Y8 D14 · 4 Jan** |
+| 2441 | [day-2441.md](days/year-007/week-349/day-2441.md) | **RECORDS-BC-1 + WD-1 copies ✓ · registry slate** | **Cal-Y8 D15 · 5 Jan** |
+| 2442 | [day-2442.md](days/year-007/week-349/day-2442.md) | **PAPER-SPRINT-Y8-D3 ✓ · flax bank ×2** | **Cal-Y8 D16 · 6 Jan** |
+| 2443 | [day-2443.md](days/year-007/week-349/day-2443.md) | **PAPER-SPRINT-Y8-D4 ✓ · paper bank CLOSE** | **Cal-Y8 D17 · 7 Jan** |
+| 2444 | [day-2444.md](days/year-007/week-350/day-2444.md) | **WEEK-350-OPEN · RECORDS-BC-1-PASS-1 ✓** | **Cal-Y8 D18 · 8 Jan** |
+| 2445 | [day-2445.md](days/year-007/week-350/day-2445.md) | **RECORDS-WD-1-PASS-1 ✓ · drain walk verify** | **Cal-Y8 D19 · 9 Jan** |
+| 2446 | [day-2446.md](days/year-007/week-350/day-2446.md) | **ICE-HAUL-Y8-PREP ✓ · lab/bed/tools brainstorm · docs PAUSE** | **Cal-Y8 D20 · 10 Jan** |
+| 2447 | [day-2447.md](days/year-007/week-350/day-2447.md) | **CHEM-SPILL-KIT-1 ✓ · spill trial · throw-jar refill** | **Cal-Y8 D21 · 11 Jan** |
+| 2448 | [day-2448.md](days/year-007/week-350/day-2448.md) | **ICE-PICK-1 ✓ · ICE-TONGS-1 ✓ · haul kit upgrade** | **Cal-Y8 D22 · 12 Jan** |
+| 2449 | [day-2449.md](days/year-007/week-350/day-2449.md) | **LAB-FIRE-SUPPRESS-v1 ✓ · Cu pump-pot · spray trial** | **Cal-Y8 D23 · 13 Jan** |
+| 2450 | [day-2450.md](days/year-007/week-350/day-2450.md) | **LAB-FIRE-DRILL-1 ✓ · animal-care docs slate · hazmat CLOSE** | **Cal-Y8 D24 · 14 Jan** |
+| 2451 | [day-2451.md](days/year-007/week-351/day-2451.md) | **WEEK-351-OPEN · RECORDS-MAP-PICTO-PASS-1 ✓** | **Cal-Y8 D25 · 15 Jan** |
+| 2452 | [day-2452.md](days/year-007/week-351/day-2452.md) | **RECORDS-CALENDAR-COPY-PASS-1 ✓ · checkup bands · paper RED** | **Cal-Y8 D26 · 16 Jan** |
+| 2453 | [day-2453.md](days/year-007/week-351/day-2453.md) | **PAPER-SPRINT-Y8-D5 ✓ · BED-FILL-READ · bank GO** | **Cal-Y8 D27 · 17 Jan** |
+| 2454 | [day-2454.md](days/year-007/week-351/day-2454.md) | **DONKEY-CARE-1 ✓ · GOAT-CARE-1 pass 1 · BED-2 plan** | **Cal-Y8 D28 · 18 Jan** |
+| 2455 | [day-2455.md](days/year-007/week-351/day-2455.md) | **APIARY-CARE-1 ✓ · animal-care arc CLOSE · ice eve** | **Cal-Y8 D29 · 19 Jan** |
+| 2456 | [day-2456.md](days/year-007/week-351/day-2456.md) | **BED-2-MATTRESS-1-D1 ✓ · ice peak HOLD · rope sprint queued** | **Cal-Y8 D30 · 20 Jan** |
+| 2457 | [day-2457.md](days/year-007/week-351/day-2457.md) | **PROPER-BED-2 ✓ LIVE · mattress CLOSE · Week 351 close** | **Cal-Y8 D31 · 21 Jan** |
+| 2458 | [day-2458.md](days/year-007/week-352/day-2458.md) | **WEEK-352-OPEN · HEMP-ROPE-SPRINT-1-D1 ✓ · bed tufts** | **Cal-Y8 D32 · 22 Jan** |
+| 2459 | [day-2459.md](days/year-007/week-352/day-2459.md) | **HEMP-ROPE-SPRINT-1-D2 ✓ · home + EXPED swap · flax retire** | **Cal-Y8 D33 · 23 Jan** |
+| 2460 | [day-2460.md](days/year-007/week-352/day-2460.md) | **PAPER-SPRINT-Y8-D6 ✓ · bank ~2 peg** | **Cal-Y8 D34 · 24 Jan** |
+| 2461 | [day-2461.md](days/year-007/week-352/day-2461.md) | **BED-2-PILLOW-1-D1 ✓ · empty tick · bedding runway** | **Cal-Y8 D35 · 25 Jan** |
+| 2462 | [day-2462.md](days/year-007/week-352/day-2462.md) | **LINENS-GRAMMAR-1 ✓ · BEDDING-SHEET-WHITE-1 ✓** | **Cal-Y8 D36 · 26 Jan** |
+| 2463 | [day-2463.md](days/year-007/week-352/day-2463.md) | **IRON-NAIL-BATCH-5 ✓ · EMBROID-SAMPLE-1 ✓** | **Cal-Y8 D37 · 27 Jan** |
+| 2464 | [day-2464.md](days/year-007/week-352/day-2464.md) | **PROPER-BED-FRAME-2-D1 ✓ · frame WIP ~45%** | **Cal-Y8 D38 · 28 Jan** |
+| 2465 | [day-2465.md](days/year-007/week-353/day-2465.md) | **WEEK-353-OPEN · PROPER-BED-FRAME-2-D2 ✓** | **Cal-Y8 D39 · 29 Jan** |
+| 2466 | [day-2466.md](days/year-007/week-353/day-2466.md) | **PROPER-BED-FRAME-2 ✓ CLOSE · mattress mount PM** | **Cal-Y8 D40 · 30 Jan** |
+| 2467 | [day-2467.md](days/year-007/week-353/day-2467.md) | **BEDDING-SHEET-WHITE-2 ✓ · bed finish band CLOSE** | **Cal-Y8 D41 · 31 Jan** |
+| 2468 | [day-2468.md](days/year-007/week-353/day-2468.md) | **BEDDING-BURGUNDY weave ✓ · deep-storage slate** | **Cal-Y8 D42 · 1 Feb** |
+| 2469 | [day-2469.md](days/year-007/week-353/day-2469.md) | **MADDER-BURGUNDY-DYE-1 ✓ · case + blanket** | **Cal-Y8 D43 · 2 Feb** |
+| 2470 | [day-2470.md](days/year-007/week-353/day-2470.md) | **PILLOW-2 fill ✓ · burgundy band CLOSE** | **Cal-Y8 D44 · 3 Feb** |
+| 2471 | [day-2471.md](days/year-007/week-353/day-2471.md) | **Blanket edge gold ✓ · LG-1 pass 1 · WEEK-353-CLOSE** | **Cal-Y8 D45 · 4 Feb** |
+| 2472 | [day-2472.md](days/year-007/week-354/day-2472.md) | **WEEK-354-OPEN · PAPER-SPRINT-Y8-D7 ✓ · bank ~4 peg** | **Cal-Y8 D46 · 5 Feb** |
+| 2473 | [day-2473.md](days/year-007/week-354/day-2473.md) | **RECORDS-BC-1-PASS-2 ✓ · WD-1 pass 2 D1** | **Cal-Y8 D47 · 6 Feb** |
+| 2474 | [day-2474.md](days/year-007/week-354/day-2474.md) | **RECORDS-WD-1-PASS-2 ✓ · docs CLOSE** | **Cal-Y8 D48 · 7 Feb** |
+| 2475 | [day-2475.md](days/year-007/week-354/day-2475.md) | **ICE-MAX-HAUL-Y8-1 ✓ · ~30.8 kg nett** | **Cal-Y8 D49 · 8 Feb** |
+| 2476 | [day-2476.md](days/year-007/week-354/day-2476.md) | **ICE-MAX-HAUL-Y8-2 ✓ · ~93 kg vault · Y8 ice CLOSE** | **Cal-Y8 D50 · 9 Feb** |
+| 2477 | [day-2477.md](days/year-007/week-354/day-2477.md) | **SOW-PREP-Y8 ✓ · scare · PORCELAIN-READ slate** | **Cal-Y8 D51 · 10 Feb** |
 | 803 | [day-803.md](days/year-003/week-115/day-803.md) | **Brick fire · nail batch** | **~64 stackable · ×20 nails · Cal-Y3 D201** |
 
 ## Centadials (every 100 days)
@@ -2418,6 +2480,8 @@
 | **18** | 1701–1800 | [centadial-018.md](summaries/centadial-018.md) |
 | **19** | 1801–1900 | [centadial-019.md](summaries/centadial-019.md) |
 | **20** | 1901–2000 | [centadial-020.md](summaries/centadial-020.md) |
+| **21** | 2001–2100 | [centadial-021.md](summaries/centadial-021.md) |
+| **22** | 2101–2200 | [centadial-022.md](summaries/centadial-022.md) |
 
 | Milladial | Days | File |
 |-----------|------|------|

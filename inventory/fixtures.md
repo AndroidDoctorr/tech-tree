@@ -4,7 +4,7 @@ Named builds that rarely move. Quantities that change belong in [inventory.md](.
 
 ## Sleep · respawn
 
-C-0 west cubiculum · PROPER-BED-1 · SET-A (sheet · slip · blanket A) · night count lives in the day file
+C-0 west cubiculum · **PROPER-BED-2 @ PROPER-BED-FRAME-2 ✓** · **PILLOW-2 + PILLOW-CASE-2-BURGUNDY+gold** · **BLANKET-BURGUNDY-2 ✓ foot-edge gold d2471** · SET-A white sheet · **×2 white spare sheets @ craft peg** · **LEGACY-BED-FRAME-1 @ horreum overflow** *(deep vault defer)* · night count lives in the day file · *PROPER-BED-1 retired d2457*
 
 ## Domus H-V3
 

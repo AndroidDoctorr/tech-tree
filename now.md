@@ -2,28 +2,24 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2415** · Cal-Y7 D354 · ~10 Dec · Week 345 OPEN · **HOME · stone haul · palisade slate · CI-1 live**
+**Day 2477** · Cal-Y8 D51 · ~10 Feb · Week 354 · **HOME · SOW-PREP-Y8 ✓**
 
 | Track | Status |
 |-------|--------|
-| **Palisade** | **Wood ring ✓ ~97 m · **PALISADE-2** footings queued · ~40–50 d est. staged** |
-| **Stone** | **Pile 8 ×6 FS · pile 4 ~29 kg dress · footing runway GREEN** |
-| **Crop / orchard** | **CI-1 filed · Y7 baseline · elite rules live** |
-| **Fiber** | **Not priority · P-RETT-17 rafter · P-RETT-18 ~14 d** |
-| **Drainage** | **Full pass ✓** |
-| **Oil** | **OIL-Y7-1 ~1.45 L clear @ kitchen** |
+| **Farm** | **Bed A/B scratched · stake ghosts live · scare-only until sow** |
+| **Spring sow** | **~16 d · FROST-GATE-Y8 ~d2493–2494 class · ~26 Feb broadcast** |
+| **Ice vault** | **~93 kg cold mass · Y8 record · band CLOSED** |
+| **Docs** | **BC-1 + WD-1 PASS-2 ✓ · map pass 2 defer** |
+| **Paper** | **~0 peg RED** |
+| **Clay arc** | **PORCELAIN-READ ✓ · stoneware @ KILN-C · porcelain = KILN-D runway** |
 
 ## Next
 
-**D355 — PALISADE-2 footing first leg (W toe or E gate) · Yule ~11 d**
+**Week 354 tail · paper couch · map pass 2 · frost gate read ~16 d**
 
 ## Agent reminders (player request d2312)
 
 - **Material gate:** **No stock · no time · no retcon magic = NO-GO**
-
-## Windows (from [player-calendar.md](player-calendar.md))
-
-- **21 Dec** — **Yule / Feast · ~11 d**
 
 ## Do not treat as live
 

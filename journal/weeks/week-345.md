@@ -4,7 +4,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west cubiculum PROPER-BED-1**  
 **Theme:** **Late harvest audit · DRAINAGE-GREASE deep slate · Y8 infra Q1**
 
-**Status:** OPEN @ Day 2415 · Cal-Y7 D354 · **Stone haul · palisade slate · CI-1**
+**Status:** CLOSE @ Day 2415 · Cal-Y7 D354
 
 ---
 
