@@ -15,16 +15,47 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2613)* |
 
-## Recent days *(append here · @ Day 2562)*
+## Recent days *(append here · @ Day 2613)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 2542 | [day-2542.md](days/year-007/week-364/day-2542.md) | **WEEK-364-OPEN · HAUL-CLAY ✓ · GB-PRESS ×40 · WING-2 mat read** | **Cal-Y8 D116 · 16 Apr** |
-| 2543 | [day-2543.md](days/year-007/week-364/day-2543.md) | **HAUL-LIME ✓ · WATER-FILTER brainstorm · culina + chem** | **Cal-Y8 D117 · 17 Apr** |
-| 2544 | [day-2544.md](days/year-007/week-364/day-2544.md) | **HAUL-CLAY ✓ · GREEN-PRESS ×80 · GB-2542 touch** | **Cal-Y8 D118 · 18 Apr** |
-| 2545 | [day-2545.md](days/year-007/week-364/day-2545.md) | **GB-FIRE ✓ · HAUL-CLAY on cook · stackable ~124** | **Cal-Y8 D119 · 19 Apr** |
+| 2613 | [day-2613.md](days/year-008/week-374/day-2613.md) | **TRAIL-BELEN-ERZIN-EXPED-1 CLOSE ✓ · HOME** | **Cal-Y8 D187 · 25 Jun** |
+| 2612 | [day-2612.md](days/year-008/week-374/day-2612.md) | **WEEK-374-OPEN · Exped D5 · L12/Erzin · turn Belen** | **Cal-Y8 D186 · 24 Jun** |
+| 2611 | [day-2611.md](days/year-008/week-373/day-2611.md) | **Exped D4 · PAYAS pozz-8 deploy ✓ · WEEK-373-CLOSE** | **Cal-Y8 D185 · 23 Jun** |
+| 2610 | [day-2610.md](days/year-008/week-373/day-2610.md) | **Exped D3 · BLAST-PINCH-8 L9 ✓ · cap spent** | **Cal-Y8 D184 · 22 Jun** |
+| 2609 | [day-2609.md](days/year-008/week-373/day-2609.md) | **Exped D2 · L7–L8 dress ~22 kg** | **Cal-Y8 D183 · 21 Jun** |
+| 2608 | [day-2608.md](days/year-008/week-373/day-2608.md) | **Exped D1 · HOME → Belen camp** | **Cal-Y8 D182 · 20 Jun** |
+| 2607 | [day-2607.md](days/year-008/week-373/day-2607.md) | **TRAIL-BELEN-ERZIN-PACK ✓ · prep audit · POZZ-KIT-8** | **Cal-Y8 D181 · 19 Jun** |
+| 2606 | [day-2606.md](days/year-008/week-373/day-2606.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · sanitaryware slate** | **Cal-Y8 D180 · 18 Jun** |
+| 2605 | [day-2605.md](days/year-008/week-373/day-2605.md) | **KELP-ASH-4 ✓ · PORCELAIN-BOWL-THROW-1 ✓ · WEEK-373-OPEN** | **Cal-Y8 D179 · 17 Jun** |
+| 2604 | [day-2604.md](days/year-008/week-372/day-2604.md) | **POT-WHEEL-2 ✓ · KILN-D probe fire ✓ · WEEK-372-CLOSE** | **Cal-Y8 D178 · 16 Jun** |
+| 2603 | [day-2603.md](days/year-008/week-372/day-2603.md) | **POT-WHEEL D2 ✓ · probe dry read ✓** | **Cal-Y8 D177 · 15 Jun** |
+| 2602 | [day-2602.md](days/year-008/week-372/day-2602.md) | **PORCELAIN-PROBE-PRESS ✓ · POT-WHEEL D1 flywheel** | **Cal-Y8 D176 · 14 Jun** |
+| 2601 | [day-2601.md](days/year-008/week-372/day-2601.md) | **PORCELAIN-BODY-MIX-1 ✓ · item slate** | **Cal-Y8 D175 · 13 Jun** |
+| 2600 | [day-2600.md](days/year-008/week-372/day-2600.md) | **COAST-WEST-EXPED-1 CLOSE ✓ · HOME** | **Cal-Y8 D174 · 12 Jun** |
+| 2599 | [day-2599.md](days/year-008/week-372/day-2599.md) | **COAST-TRAIL-MAINT-2 ✓ · kelp top-up · homeward** | **Cal-Y8 D173 · 11 Jun** |
+| 2598 | [day-2598.md](days/year-008/week-372/day-2598.md) | **FELDSPAR-SCOUT-1 ✓ · FELDSPAR-FACE-W-1 · WEEK-372-OPEN** | **Cal-Y8 D172 · 10 Jun** |
+| 2597 | [day-2597.md](days/year-008/week-371/day-2597.md) | **KELP-RESTOCK ✓ · COAST-SITE-1 · WEEK-371-CLOSE** | **Cal-Y8 D171 · 9 Jun** |
+| 2596 | [day-2596.md](days/year-008/week-371/day-2596.md) | **Exped D1 · COAST-TRAIL-MAINT-1 ✓** | **Cal-Y8 D170 · 8 Jun** |
+| 2595 | [day-2595.md](days/year-008/week-371/day-2595.md) | **COAST-WEST-EXPED-PACK ✓ · launch slate** | **Cal-Y8 D169 · 7 Jun** |
+| 2594 | [day-2594.md](days/year-008/week-371/day-2594.md) | **FAVA-POD-PICK-Y8 ✓ · FARM-CARE ✓** | **Cal-Y8 D168 · 6 Jun** |
+| 2591 | [day-2591.md](days/year-008/week-371/day-2591.md) | **HOT-TEST-4 ✓ · 1400 proven · TRAIL-RUNWAY-SLATE** | **Cal-Y8 D165 · 4 Jun** |
+| 2579 | [day-2579.md](days/year-008/week-369/day-2579.md) | **BITUMEN-COLLECT-LAP-1 ✓ · ~5.6 kg bulk · food pack** | **Cal-Y8 D153 · 23 May** |
+| 2578 | [day-2578.md](days/year-008/week-369/day-2578.md) | **TAP ✓ · POT-FIRE ✓ · farm scare · campus read** | **Cal-Y8 D152 · 22 May** |
+| 2577 | [day-2577.md](days/year-008/week-369/day-2577.md) | **GLASS-ACID-BOTTLE D2 ✓ · ×3 shelf · WEEK-369-OPEN** | **Cal-Y8 D151 · 21 May** |
+| 2576 | [day-2576.md](days/year-008/week-368/day-2576.md) | **GLASS-ACID-BOTTLE D1 ✓ · ×3 anneal · WEEK-368-CLOSE** | **Cal-Y8 D150 · 20 May** |
+| 2575 | [day-2575.md](days/year-008/week-368/day-2575.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · pot drying defer** | **Cal-Y8 D149 · 19 May** |
+| 2574 | [day-2574.md](days/year-008/week-368/day-2574.md) | **BITUMEN-POT green-complete ✓ · GB defer** | **Cal-Y8 D148 · 18 May** |
+| 2573 | [day-2573.md](days/year-008/week-368/day-2573.md) | **BITUMEN-POT shoulder ✓ · TR-FIRE-2570 ✓ · WING-2 close** | **Cal-Y8 D147 · 17 May** |
+| 2572 | [day-2572.md](days/year-008/week-368/day-2572.md) | **CHAR-RETORT ✓ · BITUMEN-POT belly ✓ · glass defer** | **Cal-Y8 D146 · 16 May** |
+| 2571 | [day-2571.md](days/year-008/week-368/day-2571.md) | **TR-FIRE ✓ · BITUMEN-POT start · acid/glass slates** | **Cal-Y8 D145 · 15 May** |
+| 2570 | [day-2570.md](days/year-008/week-368/day-2570.md) | **CONE-READ-3 ✓ · HAUL-CLAY ✓ · TR-PRESS ✓ · WEEK-368-OPEN** | **Cal-Y8 D144 · 14 May** |
+| 2569 | [day-2569.md](days/year-008/week-367/day-2569.md) | **KILN-D-HOT-TEST-3 ✓ · ~1375 class · WEEK-CLOSE** | **Cal-Y8 D143 · 13 May** |
+| 2568 | [day-2568.md](days/year-008/week-367/day-2568.md) | **CHEM-INTAKE-FILTER-1 ✓ · activated-char slate** | **Cal-Y8 D142 · 12 May** |
+| 2567 | [day-2567.md](days/year-008/week-367/day-2567.md) | **SAND-HAUL ✓ · CULINA-POTABLE-FILTER-1 ✓** | **Cal-Y8 D141 · 11 May** |
+| 2566 | [day-2566.md](days/year-008/week-367/day-2566.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · filter read** | **Cal-Y8 D140 · 10 May** |
 | 2546 | [day-2546.md](days/year-007/week-364/day-2546.md) | **GREEN-PRESS ×80 · work-site pad/shade slate** | **Cal-Y8 D120 · 20 Apr** |
 | 2547 | [day-2547.md](days/year-007/week-364/day-2547.md) | **WORK-SITE pad stake · Kiln B + forge clear** | **Cal-Y8 D121 · 21 Apr** |
 | 2548 | [day-2548.md](days/year-007/week-364/day-2548.md) | **PAD gravel sub · forms · Kiln A clear** | **Cal-Y8 D122 · 22 Apr** |
@@ -35,13 +66,13 @@
 | 2553 | [day-2553.md](days/year-007/week-365/day-2553.md) | **PAD-KILN-D ✓ · GB-FIRE ✓ · 4/4 pads** | **Cal-Y8 D127 · 27 Apr** |
 | 2554 | [day-2554.md](days/year-007/week-365/day-2554.md) | **CHAR-RETORT ✓ · HAUL-CLAY ✓** | **Cal-Y8 D128 · 28 Apr** |
 | 2555 | [day-2555.md](days/year-007/week-365/day-2555.md) | **GB-FIRE ✓ · TR-PRESS ×32 · WEEK-CLOSE** | **Cal-Y8 D129 · 29 Apr** |
-| 2556 | [day-2556.md](days/year-007/week-366/day-2556.md) | **WEEK-366-OPEN · TRAIL-EAST-ALEPPO-PACK ✓** | **Cal-Y8 D130 · 30 Apr** |
-| 2557 | [day-2557.md](days/year-007/week-366/day-2557.md) | **Exped D1 · ASI cross · east camp** | **Cal-Y8 D131 · 1 May** |
-| 2558 | [day-2558.md](days/year-007/week-366/day-2558.md) | **Exped D2 · TQ blast · AM-EAST-01** | **Cal-Y8 D132 · 2 May** |
-| 2559 | [day-2559.md](days/year-007/week-366/day-2559.md) | **Exped D3 · gravel train ~46 kg** | **Cal-Y8 D133 · 3 May** |
-| 2560 | [day-2560.md](days/year-007/week-366/day-2560.md) | **Exped D4 · gravel D2 · ~90 kg band** | **Cal-Y8 D134 · 4 May** |
-| 2561 | [day-2561.md](days/year-007/week-366/day-2561.md) | **Exped D5 · kaolin bulk · HOME CLOSE** | **Cal-Y8 D135 · 5 May** |
-| 2562 | [day-2562.md](days/year-007/week-366/day-2562.md) | **GB-FIRE ✓ · KAOLIN-WASH ✓ · WEEK-CLOSE** | **Cal-Y8 D136 · 6 May** |
+| 2556 | [day-2556.md](days/year-008/week-366/day-2556.md) | **WEEK-366-OPEN · TRAIL-EAST-ALEPPO-PACK ✓** | **Cal-Y8 D130 · 30 Apr** |
+| 2557 | [day-2557.md](days/year-008/week-366/day-2557.md) | **Exped D1 · ASI cross · east camp** | **Cal-Y8 D131 · 1 May** |
+| 2558 | [day-2558.md](days/year-008/week-366/day-2558.md) | **Exped D2 · TQ blast · AM-EAST-01** | **Cal-Y8 D132 · 2 May** |
+| 2559 | [day-2559.md](days/year-008/week-366/day-2559.md) | **Exped D3 · gravel train ~46 kg** | **Cal-Y8 D133 · 3 May** |
+| 2560 | [day-2560.md](days/year-008/week-366/day-2560.md) | **Exped D4 · gravel D2 · ~90 kg band** | **Cal-Y8 D134 · 4 May** |
+| 2561 | [day-2561.md](days/year-008/week-366/day-2561.md) | **Exped D5 · kaolin bulk · HOME CLOSE** | **Cal-Y8 D135 · 5 May** |
+| 2562 | [day-2562.md](days/year-008/week-366/day-2562.md) | **GB-FIRE ✓ · KAOLIN-WASH ✓ · WEEK-CLOSE** | **Cal-Y8 D136 · 6 May** |
 
 ## Centadials (every 100 days)
 

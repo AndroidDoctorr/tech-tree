@@ -2,18 +2,22 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2562** · Cal-Y8 D136 · ~6 May · Week 366 CLOSE · **GB-FIRE ✓ · kaolin wash ✓**
+**Day 2613** · Cal-Y8 D187 · ~25 Jun · Week 374 · **TRAIL-BELEN-ERZIN-EXPED-1 CLOSE**
 
 | Track | Status |
 |-------|--------|
-| **Factory** | **Stackable ~272 · ×40 GB-2547 green · ×32 TR-2555 green · char ~17 kg** |
-| **Kaolin** | **SLIP-5 ~10.1 kg · CAND-4-EAST spent** |
-| **Work-yard pads** | **4/4 cure PASS · shade posts+thatch GO** |
-| **Trail east** | **AM-EAST-01/02 LIVE · lap CLOSE** |
+| **Exped** | **HOME · empty column · TRAIL-BELEN-ERZIN-LEG-1 banked** |
+| **Trail** | **L9 TQ ~2.5 · PAYAS pozz cure 7 d · L7–L12 dress ~56 kg** |
+| **Caps** | **×0 @ HOME · batch later summer** |
+| **PORC-BOWL-1** | **Green @ rack · dry read · fire queue** |
+| **Porcelain / basin** | **~350 g body remain · basin GO post-exped** |
+| **Char @ HOME** | **~49.1 kg GREEN · pile 5 ~2 kg RED thin** |
+| **Farm** | **Silas hold ended · scare due · wild flax ~window** |
+| **KILN-D** | **Idle · PORC-BOWL fire player queue** |
 
 ## Next
 
-**PAD-POST+THATCH · GB-FIRE-2547 · TR-FIRE after touch**
+**PORC-BOWL-1 dry read · porcelain fire · basin · cap batch**
 
 ## Agent reminders (player request d2312)
 

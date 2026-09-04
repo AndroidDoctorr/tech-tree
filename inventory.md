@@ -1,6 +1,6 @@
 # Inventory
 
-Live countable stock. Last patched **Day 2528**. `~` = last count ± logged draws.
+Live countable stock. Last patched **Day 2607**. `~` = last count ± logged draws.
 
 Lookup (do not copy quantities here): [fixtures](inventory/fixtures.md) · [bridges and trail](inventory/bridges-and-trail.md) · [tools and lab](inventory/tools-lab.md) · [pre-split archive](inventory/archive-pre-split-1775.md) · [food-ledger](food-ledger.md) · [map](map.md)
 
@@ -12,21 +12,25 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | **~17.4 kg GREEN** | **GB-FIRE-2562 −~8.8 kg · retort defer honest** |
-| Pile 5 oak | **~8.7 kg AMBER** | **CHAR-RETORT-2554 −~22 kg feed · wood haul before next retort** |
-| Quartz Belen haul | **~52.25 kg** | **KAOLIN-WASH-RANK-1-2527 −~45 g crush prep · P-LAB-STOPCOCK-1-2389 −~65 g** |
-| Soda / kelp ash | **~185 g KELP-ASH-3 @ v1 CHEM** | **MALACHITE-SYNTH-1-D1-2483 −~12 g leach** |
-| **ANNEAL-SAND-BATH-1** | **LOAD-5 cleared · ready next load @ chem east** | **ANNEAL-SAND-BATH-1-LOAD-5-UNWRAP-2390** |
+| Char lane | **~49.1 kg GREEN** | **CHAR-RETORT-2606 +~22.2 kg · lane topped** |
+| River sand / grog | **FILTER sand ~4.0 kg tagged @ pile 4** | **SAND-HAUL-FILTER-2567 ~7 kg · chem column −~3 kg** |
+| Pile 5 oak | **~2 kg RED thin** | **WOOD-HAUL-2606 +~25.4 kg · CHAR-RETORT-2606 −~26 kg** |
+| Quartz FACE-B @ STORE-4 | **~53.3 kg** | **QUARTZ-FINE-PREP-2601 −~320 g chip class** |
+| Soda / kelp ash | **~523 g KELP-ASH-4 @ v1 CHEM** | **KELP-ASH-4-BURN-1-2605 +~430 g · KELP-ASH-3 merged** |
+| **ANNEAL-SAND-BATH-1** | **LOAD-8 cleared · ready next load @ chem east** | **ANNEAL-LOAD-8-UNWRAP-2582** |
 | **P-LAB-BEAKER-1** | **~180 ml · LIVE @ chem bench staging · flat bottom** | **ANNEAL-SAND-BATH-1-LOAD-2-UNWRAP-2386** |
 | **P-LAB-BEAKER-2** | **~180 ml · LIVE @ chem bench staging · flat bottom** | **ANNEAL-SAND-BATH-1-LOAD-4-UNWRAP-2388** |
+| **P-LAB-BEAKER-3** | **~180 ml · LIVE @ chem bench **BACKUP** peg · flat bottom** | **ANNEAL-LOAD-8-UNWRAP-2582** |
 | **P-LAB-FLASK-BOIL-1** | **~250 ml boiling flask · P4 neck · LIVE @ fire-table** | **ANNEAL-SAND-BATH-1-LOAD-2-UNWRAP-2386** |
 | **P-LAB-JOINT-CONE-1** | **P1 male · LIVE @ chem bench peg · mates P2** | **ANNEAL-SAND-BATH-1-LOAD-2-UNWRAP-2386** |
 | **P-LAB-JOINT-SOCKET-1** | **P2 female · LIVE @ chem bench peg · cork/lute seat** | **ANNEAL-SAND-BATH-1-LOAD-2-UNWRAP-2386** |
 | **P-LAB-CONDENSER-1** | **~18 cm coil · inlet/outlet stubs · LIVE @ chem bench · outlet stub marginal** | **ANNEAL-SAND-BATH-1-LOAD-3-UNWRAP-2387** |
+| **P-LAB-CONDENSER-2** | **~18 cm coil · LIVE @ chem bench **BACKUP** peg · outlet stub slight oval · usable** | **ANNEAL-LOAD-8-UNWRAP-2582** |
 | **P-LAB-STOPCOCK-1** | **Side-arm stub · cork plug valve · LIVE @ chem bench peg** | **ANNEAL-SAND-BATH-1-LOAD-5-UNWRAP-2390** |
+| **P-LAB-STOPCOCK-2** | **Side-arm stub · cork plug valve · LIVE @ chem bench **BACKUP** peg** | **ANNEAL-LOAD-8-UNWRAP-2582** |
 | **GLASS-TUBE-STRAIGHT-2** | **~50 cm × ~9 mm OD · LIVE @ chem bench spare peg · coil stock** | **ANNEAL-SAND-BATH-1-LOAD-4-UNWRAP-2388** |
-| Pile 1 clay | **~40.9 kg GREEN** | **HAUL-CLAY-Y8-6-2554 + TR-PRESS-2555 −~9.6 kg** |
-| Iron nails | **×12 @ bench peg tray** | **KILN-D-PLENUM-1-2530 −×8** |
+| Pile 1 clay | **~46 kg GREEN** | **KILN-D-INSUL-GAP-2-2583 −~0.9 kg** |
+| Iron nails | **×4 @ bench peg tray** | **PAD-SHADE-FORGE-D-1-2565 −×4 ridge** |
 | **Brass nails** | **×9 @ bench peg tray** | **BRASS-ORNAMENT-INSTALL-2434 −×8** |
 | **WORK-STAGING-TABLE-1** | **LIVE @ storage wing E · ~1180×620×880 mm · lower shelf staging** | **WORK-TABLE-SPRINT-1-D1-2400** |
 | **WORK-TABLE-ATELIER-1** | **LIVE @ Atelier west cheek · ~900×450×760 mm · craft knee** | **WORK-TABLE-ATELIER-1-2407** |
@@ -46,15 +50,15 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **LAB-LINEN-STOCK-1** | **Filter ×10 · jar wraps ×4 · voltaic sep ×24 · wipes ×10 · spill reserve ×4 @ CHEM-SPILL-PEG-1** | **CHEM-SPILL-KIT-1-2447 −×4 wipes** |
 | **Flax line bank** | **~282 g @ storage wing N shelf** | **FLAX-BREAK-17-2437 +~134 g** |
 | **Flax tow bank** | **~48 g @ storage wing N shelf** | **PILLOW-2-FILL-2470 −~65 g** |
-| **Flax thread bank** | **~22 m @ craft cabinet 2** | **CL-SOCK-Y8-SPRINT-2-2497 −~14 m** |
-| Pile 3 green brick | **×40 GB-2547 green @ east apron · ×160 RB-D @ KILN-D LIVE · staging ×0 · deploy CLOSE** | **GB-FIRE-2562 · GB-2546 spent · RB-D-DEPLOY-CLOSE-2516** |
-| Kiln B stackable | **~272 AMBER** | **GB-FIRE-2562 +37/40 · GB-2546 spent** |
-| TR tiles @ rack | **×1 fired surplus · ×32 TR-2555 green @ rack south · touch ~d2557** | **TR-PRESS-2555 · WING-2 TR band** |
+| **Flax thread bank** | **~13 m @ craft cabinet 2** | **PAD-SHADE-FORGE-D-1-2565 −~4 m lash** |
+| Pile 3 green brick | **×0 GB green @ apron · ×160 RB-D @ KILN-D LIVE · staging ×0** | **GB-FIRE-2565 · GB-2547 spent** |
+| Kiln B stackable | **~306 AMBER** | **KILN-D-INSUL-GAP-2-2583 −×3 backup wythe** |
+| TR tiles @ rack | **×64 TR fired @ rack south · ×2 grog · WING-2 band close** | **TR-FIRE-2570-2573 31/32 · deploy defer** |
 | FT tiles @ rack | **×0 @ rack · ×108 deployed @ hub floor** | **FT-FLOOR-2224 · band CLOSE · ×2 scrap** |
-| Pile 4 dress/field | **~7.6 kg pozz/tuff @ north apron band · trail gravel kit spent @ east string** | **TRAIL-EAST-PACK-2556 −~8 kg kit · on-site bar only** |
+| Pile 4 dress/field | **~3.3 kg pozz/tuff @ north apron · gravel kit-3 spent @ exped** | **TRAIL-BELEN-ERZIN-EXPED-1-CLOSE-2613** |
 | Pile 8 floor-stone | **×4 @ camp · ×4 deployed @ KILN-D pad corners** | **KILN-D-PAD-PREP-D2-2510** |
 | Pile 7 CaCO₃ raw | **~25.5 kg GREEN @ camp north face** | **HAUL-LIME-2543 +~20.1 kg · WING-2 band OK · cook queued** |
-| Pozz/tuff stock | **~4.3 kg GREEN @ pile 4 north band** | **PAD-POUR-2552/2553 −~12 kg · pad sprint 4/4 close** |
+| Pozz/tuff stock | **~0 kg @ pile 4 north band** | **POZZ-KIT-8-PREP-2607 −~1.9 kg** |
 | POZZ-SLAB-TRIAL-1 | ~4.8 kg @ apron | STRIP-1868 ✓ · reference slab |
 | SLUICE-2-STREAM-CHEEK-1 | ~10.2 kg live | S2-0 stream face · strip-1875 ✓ |
 | SLUICE-2-SILL-SKIM-1 | ~3.8 kg live | Gate seat @ S2-0 · read-1877 ✓ |
@@ -62,7 +66,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
 | River sand / grog | **~0.3 kg AMBER @ char-flank mat** | **PAD-POUR-2552/2553 −~2.2 kg** |
-| Quicklime dry | **~3.3 kg GREEN** | **PAD-POUR-2552/2553 −~0.8 kg screed** |
+| Quicklime dry | **~0.9 kg GREEN** | **POZZ-KIT-8-PREP-2607 −~1.2 kg** |
 | **Flax shive** | **~4.8 kg @ storage wing** | **PAPER-SPRINT-Y8-D8-2479 −~640 g pulp** |
 | **Hemp shive Y8** | **~2.4 kg @ berm** | **HEMP-ROPE-SPRINT-1-D2-2459 −~480 g rope heckle** |
 | **Hemp tow tail Y8** | **×0 spent** | **HEMP-ROPE-SPRINT-1-D1-2458 −~88 g** |
@@ -75,10 +79,10 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Parched grain | **~0 @ horreum trail shelf** | **KAOLIN-SCOUT-RETURN-2526 trail bed spent · ~1.2 kg mixed remain stowed @ trail shelf** |
+| Parched grain | **~0 @ horreum trail shelf** | **BITUMEN-FOOD-PACK-2579 −~0.7 kg class trail bed** |
 | **Trail food remain** | **✓ spent @ TRAIL-NORTH-LAP d2533–2537 · shelf restow thin** | **TRAIL-NORTH-RETURN-2537** |
 | **TRAIL-GRAVEL-KIT-1** | **✓ spent @ L0 bar dumps d2533–2534 · on-site bar grammar live** | **TRAIL-NORTH-GRAVEL-D2-2534** |
-| **KILN-D-CONE-SET-1** | **✓ spent · C-D-1…8 archived @ bench tray · reorder queue · pyrometer AMBER** | **KILN-D-CONE-READ-2-2541** |
+| **KILN-D-CONE-SET-3** | **✓ spent · C-D-7/8 archived @ bench tray · 1400°C confirmed d2592** | **KILN-D-CONE-READ-4-2592** |
 | Smoked fish | **~0 @ horreum · tail merged to trail bed** | **EXPED-PACK-PREP-2532 −~0.20 kg trail top-up** |
 | Smoked goose | **~1.07 kg** | **BOW-HUNT-2426 ~0.83 kg smoke queue + d2425 tray returned** |
 | Goose giblet jar | **~280 g class** | **BOW-HUNT-2426 giblet top-up** |
@@ -87,11 +91,11 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **Limestone chip (trail)** | **✓ ~180 g @ pile 7 lip d2054** | **Ghab sample** |
 | Emmer bulk Y5 | ~0 g | LARDER-REFILL-1860 draw |
 | Emmer elite Y5 | ~20 g | Seed vault |
-| **Emmer bulk Y7** | **~0.79 kg @ horreum A EMMER-BULK-Y7 bay** | **KAOLIN-FOOD-PACK-2523 −~0.33 kg parched batch** |
+| **Emmer bulk Y7** | **~0.34 kg @ horreum A EMMER-BULK-Y7 bay** | **BITUMEN-FOOD-PACK-2579 −~0.45 kg parched** |
 | **Emmer elite Y7** | **~19 g @ SEED-VAULT** | **SPRING-SOW-Y8-2494 −~80 g sow** |
 | **P-18 chickpea Y7** | **~202 g @ horreum A pulse bay P-18-Y7** | **SHELF-LIFE-SPRINT-Y7-2405 −~50 g stew** |
 | **P-17 lentil Y7** | **~136 g @ horreum A pulse bay P-17-Y7** | **SHELF-LIFE-SPRINT-Y7-2405 −~110 g stew** |
-| **Y7 stew jar** | **~0.32 kg @ cool cellar step** | **KAOLIN-FOOD-PACK-2523 −~0.45 kg trail crock** |
+| **Y7 stew jar** | **~0 @ cool cellar step · tail spent** | **BITUMEN-FOOD-PACK-2579 −~0.35 kg trail** |
 | **Emmer elite Y6** | **~18 g @ SEED-VAULT** | **SPRING-SOW-Y7-2129 −~80 g sow** |
 | P-18 chickpea Y5 | ~164 g | Pulse bay post-expand |
 | P-17 lentil Y5 | ~178 g | Pulse bay |
@@ -103,22 +107,30 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **Woad fresh Y7-3** | **~140 g @ Atelier porch dry line** | **WOAD-LEAF-Y7-3-2299 · last pull · shred defer** |
 | **Fresh grape hold** | **✓ spent @ tail crush d2346** | **GRAPE-CRUSH-TAIL-2346** |
 | **Grape must Y7** | **Prior band vinegar-ready @ horreum · tail ~1.6 L day 1 @ mother top-up** | **GRAPE-FERMENT-Y7-1 matured · GRAPE-CRUSH-TAIL-2346** |
-| Pistachio | **~3.22 kg kernels @ horreum A nut tray** | **EXPED-PACK-PREP-2532 −~0.20 kg trail bed** |
+| Pistachio | **~3.04 kg kernels @ horreum A nut tray** | **BITUMEN-FOOD-PACK-2579 −~0.18 kg trail** |
 | Y5 stew | ~0.95 kg | Cool step |
 | **Y6 stew** | **~0.17 kg @ cool step** | **EXPED-PACK-PREP-2532 −~0.25 kg trail crock** |
 | Grape leather | **~0 @ horreum east rack · sun tray tail spent @ trail bed** | **KAOLIN-SCOUT-RETURN-2526 −~0.20 kg trail bed** |
-| **Kaolin trail food @ cart** | **✓ spent · ~1.2 kg remain stowed @ horreum trail shelf** | **KAOLIN-SCOUT-RETURN-2526** |
+| **Kaolin trail food @ cart** | **✓ spent · ~0.4 kg @ trail shelf post-return** | **TRAIL-BELEN-ERZIN-EXPED-1-CLOSE-2613** |
 | **KAOLIN-CAND-1** | **✓ spent @ KAOLIN-BULK-WASH-1-2539** | **→ SLIP-1 ~6.6 kg** |
 | **KAOLIN-CAND-2 hold** | **~7 kg wet gross re-bagged @ dry queue · partial washed **—** **~3 kg → SLIP-2** | **KAOLIN-WASH-RANK-1-2527** |
 | **KAOLIN-CAND-3S** | **~2 kg wet linen @ chem porch dry queue · secondary hold** | **KAOLIN-WASH-RANK-1-2527 hold** |
-| **KAOLIN-SLIP-4** | **~3.1 kg @ chem porch jar · **BEST · CAND-4 wash**** | **FLOOR-TILE-PRESS-1-2538 −~2.3 kg** |
-| **KAOLIN-SLIP-1** | **~4.0 kg @ chem porch jar · CAND-1 bulk wash · #2-class bulk** | **FLOOR-TILE-PRESS-2-2541 −~2.6 kg** |
+| **KAOLIN-SLIP-4** | **~2.47 kg @ chem porch jar · **BEST · CAND-4 wash**** | **KILN-D-PORCELAIN-PROBE-1-2604 −~30 g witness** |
+| **KAOLIN-SLIP-1** | **~1.4 kg @ chem porch jar · CAND-1 bulk wash · #2-class bulk** | **FLOOR-TILE-PRESS-3-2580 −~2.6 kg** |
 | **FT-Y8-FLOOR-TILE-1** | **×7 fired PASS @ bench · FT-Y8-4 marginal · batch-1 SLIP-4** | **KILN-D-HOT-TEST-2-2540** |
-| **FT-Y8-FLOOR-TILE-2** | **×9 green @ north sand bed · FT-Y8-4R + 9…16 · SLIP-1 · touch ~d2543** | **FLOOR-TILE-PRESS-2-2541** |
+| **FT-Y8-FLOOR-TILE-2** | **×9 fired PASS @ bench stack · FT-Y8-4R + 9…16 · FT-Y8-TAP-2593 ✓** | **FT-Y8-FIRE-2-2592 · tap d2593** |
+| **FT-Y8-FLOOR-TILE-3** | **×9 fired PASS @ bench stack · FT-Y8-17…25 · FT-Y8-12 marginal edge** | **FT-Y8-TAP-2593 ✓** |
+| **P-FAVA dry seed** | **~209 g @ horreum A pulse jar · Y7 tail ~91 g + Y8 pick ~118 g** | **FAVA-POD-PICK-Y8-2594 · sow −~4 g Y8** |
 | **KAOLIN-SLIP-2** | **~1.7 kg @ chem porch jar · rank #2** | **KAOLIN-WASH-RANK-1-2527** |
 | **MONT-CAND-1** | **~2.5 kg wet gross @ chem porch separate peg · mont rank only · unwashed** | **KAOLIN-WASH-RANK-1-2527 hold** |
 | **KAOLIN-CAND-4-EAST** | **✓ spent @ KAOLIN-WASH-CAND-4-EAST-2562** | **→ KAOLIN-SLIP-5 ~10.1 kg** |
-| **KAOLIN-SLIP-5** | **~10.1 kg @ chem porch jar · CAND-4-EAST bulk wash · #2-class bulk** | **KAOLIN-WASH-CAND-4-EAST-2562** |
+| **KAOLIN-SLIP-5** | **~10.07 kg @ chem porch jar · CAND-4-EAST bulk wash · #2-class bulk** | **KILN-D-CONE-PRESS-3-2591 −~30 g** |
+| **FELDSPAR-CHIP-SET-1** | **~1.1 kg gross remain @ chem tray · FELDSPAR-FACE-W-1** | **FELDSPAR-CRUSH-WASH-1-2601 −~400 g** |
+| **PORCELAIN-BODY-MIX-1** | **~350 g wedged @ chem porch sealed trough · batch-1 · PORC-BOWL-1 −~420 g** | **PORCELAIN-BOWL-THROW-1-2605** |
+| **PORC-BOWL-1** | **Green @ yard rack south · ~19 cm open bowl · foot ring · fire defer** | **PORCELAIN-BOWL-THROW-1-2605** |
+| **PORC-PROBE-SET-1** | **×6 fired @ bench tray · 4 porcelain-class · 1 stoneware+ · 1 marginal** | **KILN-D-PORCELAIN-PROBE-1-2604** |
+| **POT-WHEEL-2** | **✓ LIVE @ v1 wheel lane · flywheel ~12 kg · splash pan · coast ~45 s** | **POT-WHEEL-UPGRADE-1-CLOSE-2604** |
+| **KELP-DRY-STAGING-2600** | **✓ spent @ KELP-ASH-4-BURN-1-2605** | **~6.0 kg wet → ~430 g ash** |
 | **PORCELAIN-CHIP-SET-1** | **×10 fired @ bench peg tray · K4 lead · stoneware rank archive** | **PORCELAIN-BODY-TEST-FIRE-1-2528** |
 | **Grape must / vinegar Y6** | **Vinegar class @ AMPHORA-5 · P-ξ-4 · crock · mother live** | **GRAPE-VINEGAR-SPRINT d1994 · YEAST-CAPTURE d2041** |
 | **STARTER-Y6-1** | **Live @ culina warm peg · emmer · daily feed** | **YEAST-CAPTURE-1 d2041** |
@@ -146,7 +158,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **HELICAL-MANDREL-1** | **LIVE @ chem bench staging · ~1.6 mm pitch · ~18 cm groove · tube fit PASS** | **HELICAL-MANDREL-1-2379** |
 | **SALT-EVAP-SPRINT-Y7-2** | **Cycle 4 harvest ✓ · pour #5 defer haul #11 · window ~4 d** | **SALT-CRYSTAL-HARVEST-Y7-4-2397** |
 | **AMPHORA-6** | **OIL-Y7-1 sediment sealed @ foot · rinse defer · harvest buffer ghost** | **OLIVE-OIL-DECANT-Y7-1-2408** |
-| **AMPHORA-7** | **✓ EMPTY-HARVEST-BUFFER @ horreum A margin ghost · rinsed d2371** | **AMPHORA-7-RINSE-2371** |
+| **AMPHORA-7** | **✓ CULINA-POTABLE-FILTER-1 column LIVE @ cold tap branch · NOT GREY** | **CULINA-POTABLE-FILTER-1-2567** |
 | **P-μ-9 · P-μ-10** | **SALT · SPICE @ horreum A margin** | **STORAGE-JAR-SPRINT-2 ✓ d2007** |
 | **P-μ-11 · P-μ-12** | **✓ LIVE @ horreum A margin · SALT + PARCHED** | **POT-FIRE-SPRINT-2286** |
 | **VOLTAIC-JAR-1** | **✓ @ storage wing N · pile assembled · NOT FOOD · PAUSE** | **VOLTAIC-STORAGE-2312** |
@@ -154,6 +166,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **PLATE-MOLD-TRAY-1** | **✓ @ forge staging peg · PAUSE** | **VOLTAIC-STORAGE-2312** |
 | **VOLTAIC-PILE-1** | **✓ stored @ jar · ×6 pairs · vinegar · PAUSE** | **VOLTAIC-STORAGE-2312** |
 | **AMPHORA-8** | **✓ LIVE @ cart yard brackish/general · M-08 foot ring** | **POT-FIRE-SPRINT-2286** |
+| **BITUMEN-POT-1** | **✓ LIVE @ cart yard · **BITUMEN-BULK-1 ~4.6 kg** · chem read ✓ · NOT FOOD** | **ASPHALT-TEST-POUR-1-2583 −~0.85 kg** |
 | **P-ξ-5** | **OIL @ v1/culina · ~420 ml Y7 working draw · Y6 backup in bottles** | **OLIVE-OIL-DECANT-Y7-1-2408** |
 | **EMMER-YEAST-BREAD-1** | **✓ first loaf ~480 g d2043 · STARTER-Y6-1** | **Weekly bake class** |
 | **EMMER-YEAST-BREAD-2** | **✓ ~480 g d2055 · oil in dough · weekly rhythm** | **Yule prep band** |
@@ -162,6 +175,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **YULE-BENCH-Y6-PLATE** | **✓ FEAST-YULE-2061 served · plate closed** | |
 | **OLIVE-OIL-SETTLE-1** | **✓ ~2.05 L clear decant d2043 · cook unlock** | |
 | **GLASS-BOTTLE-4 · 5** | **@ chem-lab rack · VINEGAR + OIL tags** | **Tap ✓ d2007** |
+| **P-LAB-ACID-BOTTLE-1…6** | **✓ LIVE @ chem reagent shelf · ~120 ml ea · ACID-STORE ONLY · NOT FOOD** | **GLASS-ACID-BOTTLE-SPRINT-1-CLOSE-2578** |
 | **BARREL-4** | **FERMENT-B temporary · ~1.2 L must · bung breath · cool step · larder tag suspended d2290** | **GRAPE-FERMENT-Y7-1** |
 | Ice vault | **~93 kg hard class · Y8 record** | **ICE-MAX-HAUL-Y8-CLOSE-2476 · ~54.2 kg nett fresh** |
 | Acorn shelled / roast | **~570 g shelled · ~2.23 kg roast** | **ACORN-ROAST-Y7-2-2345 +~620 g** |
@@ -192,7 +206,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Sphalerite SPH-1 | **~9.9 kg** | **ZN-SCALE-2309/2310 −~1.08 kg crush class** |
 | Galena-class PB | ~12.2 kg | Forge staging |
 | Cinnabar HgS | ~35.9 kg | v1 CHEM isolated · no roast |
-| Quartz Belen haul | ~53.6 kg | See fuel section · FACE-B @ STORE-4 |
+| Quartz Belen haul | ~51.3 kg | Bulk vein reserve |
+| Quartz FACE-B @ STORE-4 | **~53.3 kg** | **QUARTZ-FINE-PREP-2601 −~320 g** |
 | Coast / local sand | **~0.07 kg / ~323 g tail** | **POZZ-KIT-5-PREP-2317 −~0.9 kg** |
 | Sn bank | ~668 g | Chem-lab tin tray · UNLOAD-1854 |
 | Cassiterite concentrate | ~4.9 kg | Forge staging · KOZAN-14D return d1854 |
@@ -210,7 +225,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | M-14 sulfur | **~402 g flour · ~15.6 kg block** | **GUNPOWDER-MIX-2324 −~32 g** |
 | Charcoal flour | **~93 g** | **GUNPOWDER-MIX-2324 −~48 g** |
 | **Gunpowder mealed** | **~80 g @ chem-lab lidded tray** | **BLAST-CAP-BATCH-3-2326 −~240 g · tail honest** |
-| Soda / kelp ash | **~280 g KELP-ASH-3 @ v1 CHEM** | **KELP-ASH-3-BURN-2379 ✓** |
+| Soda / kelp ash | **~523 g KELP-ASH-4 @ v1 CHEM** | **KELP-ASH-4-BURN-1-2605 ✓** |
 | Woad reserve | **~130 g dry @ storage wing dye shelf · WOAD-RESERVE-Y7 · vat tired post-dip** | **WOAD-VAT-REFRESH-Y8-3-2491 −~24 g** |
 | Flax line | **~555 g @ STORAGE-WING N lower shelf** | **WINNOW-BAG-SPRINT-2371 −~120 g** |
 | Flax tow | **~0 g @ STORAGE-WING N lower shelf** | **COLLECT-BAG-SPRINT-2286 −~53 g** |
@@ -219,7 +234,9 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Beeswax | **~337 g @ v1 CHEM / craft cabinet 2** | **WAX-HARVEST-Y8-2517 +~148 g rendered** |
 | Cork bark | **~1.03 kg** | **LAB-FIRE-SUPPRESS-v1-2449 −~14 g fill cap** |
 | Quartz frit | ~120 g | Vial G-FRIT |
-| **Bitumen sample** | **~220 g @ chem-lab · P-vial BITUMEN-SAMPLE-1 · double-red NOT FOOD · d2269** | **BITUMEN-SEEP-1 scout** |
+| **Bitumen sample** | **~220 g @ chem-lab · P-vial BITUMEN-SAMPLE-1 · scout chip d2269 · double-red NOT FOOD** | **BITUMEN-SCOUT-1 scout** |
+| **Bitumen bulk** | **~4.6 kg @ BITUMEN-POT-1 · hub apron test strip poured d2583 · foot cure AMBER** | **ASPHALT-TEST-POUR-1-2583 −~0.85 kg** |
+| **ASPHALT-TEST-1** | **~0.6×0.4 m strip @ hub S apron · ~18 mm crown · cure 48–72 h · NOT FOOD path** | **ASPHALT-TEST-POUR-1-2583** |
 
 ## Fiber · hide · rope
 
@@ -258,7 +275,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 
 | Bed | Now |
 |-----|-----|
-| A | **Chickpea S live ~6 m² · fava headland W live ~4 m² · hemp N live ~14 m² · sown d2498** |
+| A | **Chickpea S live ~6 m² · fava headland W live ~4 m² partial pick d2594 · hemp N live ~14 m² · sown d2498** |
 | B | **Emmer S live ~12 m² · lentil N live ~8 m² · flax center live ~6 m² · madder W ×4 flagged · stake ghosts live** |
 | **P-03 trellis** | **Partial strip d2288 · clusters remain upper south · window mid-band to Oct** |
 | **Bed D fig** | **Canopy thinned post Y7 hero · repeat pick @ FARM-CARE OK · leather tray drying** |
@@ -267,7 +284,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | D | Fig C1–C4 · WOAD year-two rosette trimmed · no Y6 broadcast |
 | Culina herb | **~14 m² · rosemary · coriander · allium · mint · **parsley S band live**** |
 | **FLAX-PATCH-1** | **~12 m² live @ ditch W bench · drilled d2499 · scare-only · rett pool clear** |
-| Care | **Bed A/B drill weed pulled d2507–2508 · flax true-leaf · scare-only · sow close ~16 Mar** |
+| Care | **FARM-CARE-2600 ✓ · fava partial pick d2594 · scare-only · rett pool clear** |
 | **P-RETT-13** | **✓ break d2022 · arc closed** | |
 | **P-RETT-14** | **✓ break d2044 · arc closed** | |
 | **P-RETT-15** | **✓ break d2273 · arc closed · ~125 g line · ~38 g tow** | **WILD-FLAX-PULL-Y7 lap 1** |
@@ -1159,7 +1176,152 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **KAOLIN-WASH-CAND-4-EAST-2562** | **✓ SLIP-5 ~10.1 kg · CAND-4-EAST spent** |
 | **PAD-CURE-READ-2562** | **Foot GO · shade posts+thatch band OPEN** |
 | **WEEK-366-CLOSE-2562** | **Full week · exped + factory recovery** |
+| **WOOD-HAUL-2563** | **✓ ~25.1 kg net · pile 5 ~33.8 kg · post band staged** |
+| **WORK-YARD-READ-2563** | **Pad cure GO · forms on · shade queued d2564** |
+| **WEEK-367-OPEN-2563** | **Wood first · shade defer** |
+| **PAD-KILN-B-1** | **LIVE @ Kiln B apron · shade roof ✓** |
+| **PAD-FORM-PEEL-KILN-B-2564** | **Forms off · corner pockets live** |
+| **WORK-SITE-PAD-POST-KILN-B-1-2564** | **✓ ×4 oak @ pad corners · ridge E–W LIVE** |
+| **WORK-SITE-PAD-THATCH-KILN-B-1-2564** | **✓ reed ~2.5×3 m · press lane shaded** |
+| **PAD-SHADE-FORGE-D-1** | **✓ LIVE · open-front thatch · spark gap PASS** |
+| **GB-FIRE-2565** | **37/40 · GB-2547 spent · stackable ~309** |
+| **WATER-FILTER-CAPACITY-READ-2566** | **Char GO · sand RED · culina filter ~½ d after sand glean** |
+| **SAND-HAUL-FILTER-2567** | **✓ ~7 kg coarse/fine sorted @ pile 4 apron** |
+| **CULINA-POTABLE-FILTER-1** | **✓ LIVE @ culina cold tap · amphora column · char ~1.2 kg bed** |
+| **CHEM-INTAKE-FILTER-1** | **✓ LIVE @ chem bench intake · boil-hold labeled** |
+| **ACTIVATED-CHAR-SLATE-2568** | **Charcoal ≠ activated · steam or chemical second step · build defer** |
+| **WATER-FILTER-PAIR-CLOSE-2568** | **Culina + chem pre-filter pair LIVE · distill defer** |
+| **KILN-D-CONE-PRESS-2-2569** | **✓ C-D-6…8 witness cones · set-2 @ bench** |
+| **KILN-D-HOT-TEST-3-2569** | **✓ witness-only · hold tune · char ~14.8 kg** |
+| **KILN-D-1400-READ-2569** | **~1375°C class · C-D-7 full · C-D-8 AMBER · 1400 not proven** |
+| **WEEK-367-CLOSE-2569** | **Shade 2/4 · filter pair · kiln ceiling raised** |
+| **KILN-D-CONE-READ-3-2570** | **✓ ~1380°C ceiling confirmed · C-D-8 AMBER · set-2 spent** |
+| **HAUL-CLAY-Y8-7-2570** | **✓ ~29 kg · pile 1 ~60 kg post-press** |
+| **TR-TOUCH-2555-2570** | **✓ bone-dry PASS · TR-FIRE-2555 GO** |
+| **TR-PRESS-2570** | **×32 TR-2570 green · rack ×64 total · WING-2 batch-2** |
+| **WEEK-368-OPEN-2570** | **Factory lane reopen · TR fire queued** |
+| **KILN-D-1400-PUSH-SLATE-2571** | **Insulate + hold · not O₂ flood · pyrometer defer** |
+| **TR-FIRE-2555-2571** | **✓ 31/32 · ×32 TR-2555 fired · WING-2 batch-1** |
+| **BITUMEN-POT-1-START-2571** | **~15% green @ yard rack · M-17 collect · NOT FOOD** |
+| **ACID-LAB-RUNWAY-READ-2571** | **Backups RED · storage AMBER · water ~ · distill defer** |
+| **STORAGE-CONTAINER-READ-2571** | **Acid = glass bottles · bitumen = wide pot · P-STORE full** |
+| **GLASS-KILN-READ-2571** | **Clear glass = Kiln C + cruc + anneal · not KILN-D chamber** |
+| **WOOD-HAUL-2572** | **✓ ~25.2 kg · retort feed staged** |
+| **CHAR-RETORT-2572** | **✓ ×3 · lane ~47 kg GREEN** |
+| **BITUMEN-POT-1-BELLY-2572** | **~40% green · shoulder/neck defer** |
+| **TR-TOUCH-2570-2572** | **✓ PASS · TR-FIRE-2570 GO** |
+| **GLASS-ACID-BOTTLE-SLATE-2572** | **Queued · backups first · defer** |
+| **BITUMEN-POT-1-SHOULDER-NECK-2573** | **~68% green · rim/foot defer** |
+| **TR-FIRE-2570-2573** | **✓ 31/32 · ×64 TR fired · WING-2 band close** |
+| **WING-2-TR-BAND-CLOSE-2573** | **×64 fired @ rack · roof deploy runway fat** |
+| **BITUMEN-POT-1-GREEN-COMPLETE-2574** | **~95% green · wide rim · lugs · foot · fire defer** |
+| **GREEN-PRESS-DEFER-2574** | **Player OK @ ×0 GB · pile 1 runway holds** |
+| **WOOD-HAUL-2575** | **✓ ~25 kg · retort feed staged** |
+| **CHAR-RETORT-2575** | **✓ ×3 · lane ~47 kg GREEN** |
+| **GLASS-ACID-BOTTLE-SPRINT-1-D1-2576** | **×3 @ anneal LOAD-6 · clarity prep** |
+| **WEEK-368-CLOSE-2576** | **Week close @ D150** |
+| **ANNEAL-LOAD-6-UNWRAP-2577** | **✓ ×3 acid bottles tap PASS · shelf LIVE** |
+| **GLASS-ACID-BOTTLE-SPRINT-1-D2-2577** | **×3 blow · LOAD-7 anneal** |
+| **GLASS-ACID-BOTTLE-SPRINT-1-CLOSE-2577** | **×6 bank · ×3 deployed · storage partial GO** |
+| **ACID-LAB-RUNWAY-UPDATE-2577** | **Storage partial GO · backups RED** |
+| **WEEK-369-OPEN-2577** | **Chem + acid arc open** |
+| **ANNEAL-LOAD-7-UNWRAP-2578** | **✓ ×3 tap · ×6 acid bank LIVE** |
+| **GLASS-ACID-BOTTLE-SPRINT-1-CLOSE-2578** | **✓ storage GO · backups RED** |
+| **FARM-CARE-2578** | **✓ scare B→D · Y8 rows green** |
+| **CAMPUS-READ-2578** | **✓ campus GREEN · factory/chem/pads/trail** |
+| **POT-FIRE-BITUMEN-1-2578** | **✓ 1/1 fired · cart yard LIVE** |
+| **BITUMEN-POT-1-LIVE** | **M-17 collect lap GO** |
+| **ACID-LAB-RUNWAY-UPDATE-2578** | **Storage ✓ · backups RED** |
+| **BITUMEN-FOOD-PACK-2579** | **✓ ~1.23 kg trail bed · horreum draw** |
+| **BITUMEN-COLLECT-LAP-1-2579** | **✓ ~5.6 kg bulk @ BITUMEN-SEEP-1 · pot ~16% fill** |
+| **BITUMEN-BULK-1** | **✓ first bulk bank · NOT FOOD · melt trial queued** |
+| **BITUMEN-MELT-TRIAL-1-2580** | **✓ melt · waterproof · mastic PASS · solubility noted** |
+| **BITUMEN-CHEM-READ-1** | **✓ bulk honest · mastic/waterproof GO · dead-distill defer** |
+| **FLOOR-TILE-PRESS-3-2580** | **✓ ×9 FT-Y8-17…25 green · SLIP-1 body @ north sand bed** |
+| **KAOLIN-WASH-DEFER-2580** | **CAND-2 hold ~7 kg · queue when slip runway thins** |
+| **ASPHALT-PATCH-READ-2581** | **Campfire batch GO · ~4:1 gravel:bind · 2–3 patches/bulk · AM-03 test candidate** |
+| **GLASS-BACKUP-SPRINT-1-D1-2581** | **✓ beaker-3 · stopcock-2 · condenser-2 @ LOAD-8** |
+| **ANNEAL-LOAD-8-2581** | **×3 backup pieces @ bath** |
+| **GLASS-BACKUP-SPRINT-1-D2-2582** | **✓ tap LOAD-8 · deploy @ backup peg** |
+| **GLASS-BACKUP-SPRINT-1-CLOSE-2582** | **✓ acid runway backups GO** |
+| **ACID-LAB-RUNWAY-UPDATE-2582** | **Full checklist minus distill defer** |
+| **FT-Y8-DRY-READ-2582** | **×18 ~95% bone-dry · FT-Y8-FIRE-2 ~d2583+** |
+| **KILN-D-INSUL-GAP-2-2583** | **✓ crown gap · door gasket · grout · shell patch · cure 24–48 h** |
+| **ASPHALT-TEST-POUR-1-2583** | **✓ hub S apron strip · 4:1 · ~0.85 kg bind · foot cure AMBER** |
+| **ASPHALT-TEST-1** | **Chalk peg @ hub apron · AM-03 scale defer** |
+| **WEEK-369-CLOSE-2583** | **Acid · bitumen · glass backups · insul · asphalt test** |
+| **WEEK-370-OPEN-2584** | **East gravel exped-2 · cure hold @ HOME** |
+| **POZZ-KIT-7-PREP-2584** | **✓ MORTAR-SACK-POZZ-7 · TRIB-02 tag · lashed mid-aft** |
+| **BRIDGE-UPGRADE-LASH-2584** | **REFILL-16 skeleton + kit-7 @ cart** |
+| **TRAIL-EAST-GRAVEL-PACK-2-2584** | **✓ ~61 kg column · food ~6 kg · gravel kit ×2 · cap ×1** |
+| **TRAIL-EAST-GRAVEL-DOCTRINE-2-2584** | **Push east L2+ · bar train · TRIB-02 deploy optional** |
+| **TRIB-02-POZZ-7-DEPLOY-2585** | **✓ kit-7 + REFILL-16 spent · ~2 mm post · 20-yr read improved** |
+| **AM-GRAVEL-EAST-03** | **~24 km E Asi · bar found d2586 · train CLOSE d2589 · ~146 kg trip** |
+| **TRAIL-EAST-GRAVEL-EXPED-2-CLOSE-2590** | **✓ 6 d · ~244 kg east band · cap unused · food OK** |
+| **WEEK-370-CLOSE-2590** | **Bridge + gravel push CLOSE** |
+| **TRAIL-RUNWAY-SLATE-2591** | **Belen-Erzin · Erzin-Ceyhan · ford-1 bridge · pozz year-round defer** |
+| **WEEK-371-OPEN-2591** | **KILN-D 1400 push · trail slate** |
+| **KILN-D-CONE-PRESS-3-2591** | **✓ C-D-7/8 set-3 @ bench** |
+| **KILN-D-HOT-TEST-4-2591** | **✓ post-insul · char ~15.2 kg · ~85 min hold** |
+| **KILN-D-1400-READ-2591** | **✓ ~1400°C proven · C-D-8 full down** |
+| **KILN-D-CONE-READ-4-2592** | **✓ cold confirm · set-3 spent** |
+| **KILN-D-1400-CONFIRM-2592** | **Ceiling band closed @ 1400°C class** |
+| **WOOD-HAUL-2592** | **✓ ~24.8 kg net pre-retort** |
+| **CHAR-RETORT-2592** | **✓ ×3 · lane ~27 kg post · pile 5 thin** |
+| **FT-Y8-FIRE-2-2592** | **×18 @ 1400 · 17 PASS · 1 marginal pre-read** |
+| **FT-Y8-TAP-2593** | **✓ ×25 fired class @ bench · 23 PASS · 2 marginal** |
+| **WOOD-HAUL-2593** | **✓ ~25.1 kg net · pile topped pre-retort** |
+| **CHAR-RETORT-2593** | **✓ ×3 · lane ~33.6 kg GREEN** |
+| **FAVA-POD-PICK-Y8-2594** | **✓ ~118 g dry seed · ~1.3 kg green pods · partial strip · bed live** |
+| **FARM-CARE-2594** | **✓ scare B→D · rett pool clear · Y8 green line** |
+| **FELDSPAR-AMANOS-SCOUT-SLATE-2592** | **Plagiogranite coast W · scout AMBER-GO · haul AMBER** |
+| **COAST-WEST-EXPED-PACK-2595** | **✓ ~47 kg column · geo kit · kelp gear · ~5.4 kg food** |
+| **COAST-TRAIL-MAINT-1-2596** | **✓ km ~9 soft band · spike ×6 · shingle crown** |
+| **KELP-RESTOCK-2597** | **✓ ~3.9 kg wet M-13 @ COAST-SITE-1** |
+| **WEEK-371-CLOSE-2597** | **✓ coast camp · exped D2/5** |
+| **FELDSPAR-SCOUT-1-2598** | **✓ FELDSPAR-FACE-W-1 @ ~28 km W/SW · ~1.5 kg chip · flux confirmed** |
+| **WEEK-372-OPEN-2598** | **Feldspar found · porcelain probe runway** |
+| **KELP-TOPUP-2599** | **✓ +~2.1 kg · ~6.0 kg wet total** |
+| **COAST-TRAIL-MAINT-2-2599** | **✓ km ~12–14 homeward band** |
+| **COAST-WEST-EXPED-1-CLOSE-2600** | **✓ 5 d · feldspar + kelp + trail · HOME** |
+| **FELDSPAR-CRUSH-WASH-1-2601** | **✓ ~240 g fine · chip ~1.1 kg remain** |
+| **QUARTZ-FINE-PREP-2601** | **✓ ~240 g FACE-B fine for porcelain** |
+| **PORCELAIN-BODY-MIX-1-2601** | **✓ ~950 g wedged · 50/25/25 batch-1** |
+| **PORCELAIN-ITEM-SLATE-2601** | **Probe first · bowl wants wheel · KILN-D ≠ clear glass** |
+| **PORCELAIN-PROBE-PRESS-1-2602** | **✓ ×6 PORC-PROBE green · wheel D1 flywheel** |
+| **POT-WHEEL-UPGRADE-1-D1-2602** | **✓ oak flywheel rim · bed frame beef** |
+| **PORCELAIN-PROBE-DRY-READ-2603** | **✓ ×6 bone-dry GO fire** |
+| **POT-WHEEL-UPGRADE-1-D2-2603** | **✓ head · splash pan · spin ~42 s coast** |
+| **POT-WHEEL-SPIN-TEST-1-2603** | **Stiff slip holds center · throw GO** |
+| **POT-WHEEL-UPGRADE-1-CLOSE-2604** | **✓ POT-WHEEL-2 LIVE @ v1 lane** |
+| **KILN-D-PORCELAIN-PROBE-1-2604** | **✓ ×4 edge translucency · first triaxial @ 1400** |
+| **PORCELAIN-BODY-BATCH-1-PASS-2604** | **Recipe honest · bowl throw GO** |
+| **WEEK-372-CLOSE-2604** | **Feldspar · body · wheel · probe close** |
+| **KELP-DRY-READ-2605** | **✓ bone-dry · ~1.45 kg dry from 6 kg wet** |
+| **KELP-ASH-4-BURN-1-2605** | **✓ ~430 g · soda ~523 g GREEN** |
+| **PORCELAIN-BOWL-THROW-1-2605** | **✓ PORC-BOWL-1 @ POT-WHEEL-2 · ~19 cm open** |
+| **WEEK-373-OPEN-2605** | **Soda + bowl band open** |
+| **WOOD-HAUL-2606** | **✓ ~25.4 kg net · pile topped pre-retort** |
+| **CHAR-RETORT-2606** | **✓ ×3 · lane ~49.1 kg GREEN** |
+| **SANITARYWARE-SLATE-2606** | **Vitreous body same/easier · basin AMBER-GO · toilet RED** |
+| **TRAIL-BELEN-ERZIN-PREP-AUDIT-2607** | **✓ cart · kit-8 · refill-17 · food · gaps honest** |
+| **POZZ-KIT-8-PREP-2607** | **✓ MORTAR-SACK-POZZ-8 · L7–L12 tag · lashed** |
+| **REFILL-17-PREP-2607** | **✓ FS ×2 · mortar skeleton · mid-aft** |
+| **TRAIL-BELEN-ERZIN-PACK-1-2607** | **✓ ~59 kg · ~6.5 kg food · gravel kit-3 · cap ×1** |
+| **TRAIL-BELEN-ERZIN-DOCTRINE-2607** | **6 d · 4 WORK · 2 travel HOME↔Belen · coast L7–L12** |
+| **TRAIL-BELEN-ERZIN-EXPED-1-D1-2608** | **✓ HOME → Belen · listen-only PASS** |
+| **L7-L8-DRESS-2609** | **~22 kg crown dress · mature hold** |
+| **BLAST-PINCH-8-2610** | **✓ L9 crown · cap spent · TQ ~2.0→~2.5** |
+| **L9-DRESS-2610** | **~11 kg post-blast merge** |
+| **PAYAS-APPROACH-POZZ-8-DEPLOY-2611** | **✓ kit-8 + REFILL-17 spent · ~2 mm post** |
+| **L10-L11-DRESS-2611** | **~14 kg crown dress** |
+| **WEEK-373-CLOSE-2611** | **Exped mid-band · porcelain @ HOME** |
+| **L12-ERZIN-DRESS-2612** | **~9 kg corridor · Erzin approach PASS** |
+| **WEEK-374-OPEN-2612** | **Exped D5 · turn Belen · week open** |
+| **TRAIL-BELEN-ERZIN-EXPED-1-CLOSE-2613** | **✓ 6 d · ~56 kg dress · blast + deploy · HOME** |
+| **TRAIL-BELEN-ERZIN-LEG-1** | **✓ first WORK lap banked · runway slate #1 CLOSE** |
 | **PAD-KILN-A-1** | **LIVE @ Kiln A apron · curing** |
+| **PAD-KILN-D-1** | **LIVE @ KILN-D load face · curing** |
 | **PAD-KILN-D-1** | **LIVE @ KILN-D load face · curing** |
 | **MONT-CAND-1-2524** | **Base mont band · trace fizz · ~2.5 kg wet · separate rank** |
 | **ASI-ORONTES-1-LISTEN-2524** | **✓ ~3 mm PASS · no deploy** |
@@ -1590,7 +1752,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Item | Qty | Where |
 |------|-----|-------|
 | **KOZAN-HUT-1 @ gate** | **CLOSE ✓ d1832 · door LIVE · ×18 brick spare @ site · mortar ~0.7 kg** | **HUT-MAT-BAND spent · tin defer** |
-| Bridge spare | **REFILL-16 skeleton @ yard · FS ×3 · caps ×4 @ powder safe · POZZ-KIT-7 queue @ TRIB-02** | **TRAIL-NORTH-LAP-CLOSE-2537 · deploy defer d2535** |
+| Bridge spare | **×0 kit @ cart · kit-8/REFILL-17 spent PAYAS · caps ×0 · rebuild defer** | **TRAIL-BELEN-ERZIN-EXPED-1-CLOSE-2613** |
 | Trail maint slice | **~5.9 kg @ wagon · ~2 kg @ bench** | **STASH recover d1859** |
 | EXPED rope | **~6 m hemp @ wagon** | **KILN-D-PLENUM-LINK-2530 −~12 m hose run** |
 | Iron nails | **×12 @ bench peg tray** | **KILN-D-PLENUM-1-2530 −×8 · PROPER-BED-FRAME-2-2465/2466 −×18 prior** |
@@ -1600,7 +1762,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Corral stakes | ×4 @ Belen · ×4 @ pile 9 | |
 | Fence stakes | ×2 | Pile 9 |
 | M-spikes in crate | ×2 | TRIB-FT-STAKE-1898 −×2 |
-| **CART-POWDER-SAFE-1** | **caps ×0 @ cart · cap F–J spent trail · ×4 @ HOME powder safe** | **BLAST-PINCH-7-2330** |
+| **CART-POWDER-SAFE-1** | **empty @ cart · caps ×0 HOME · batch later summer** | **BLAST-PINCH-8-2610 cap spent** |
 | **CART-IRON-RIM-1** | **✓ both wheels** | **Full bands d1877 · wobble ~1 mm class** |
 | **WW-2-WHEEL-1** | **✓ @ north pad · belt tree LIVE** | **Phase 3 CLOSE d1894** |
 | **GS-2-FLYWHEEL-1** | **✓ outboard @ WW-2 shaft** | **~9.8 kg oak · ~290 g iron band · d1888** |
