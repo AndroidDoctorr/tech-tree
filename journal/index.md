@@ -15,12 +15,54 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2613)* |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2671)* |
 
-## Recent days *(append here · @ Day 2613)*
+## Recent days *(append here · @ Day 2671)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 2671 | [day-2671.md](days/year-008/week-382/day-2671.md) | **HOME ✓ · Erzin–Ceyhan CLOSE · WEEK-381-CLOSE** | **Cal-Y8 D245 · 22 Aug** |
+| 2670 | [day-2670.md](days/year-008/week-382/day-2670.md) | **Return D1 · Erzin → Belen · cure ghost PASS** | **Cal-Y8 D244 · 21 Aug** |
+| 2669 | [day-2669.md](days/year-008/week-382/day-2669.md) | **WORK CLOSE ✓ · ~200 kg EC · TQ ~3.2** | **Cal-Y8 D243 · 20 Aug** |
+| 2668 | [day-2668.md](days/year-008/week-382/day-2668.md) | **ASPHALT-FIELD-TRIAL-1 ✓ · cure read @ EC braid** | **Cal-Y8 D242 · 19 Aug** |
+| 2662 | [day-2662.md](days/year-008/week-381/day-2662.md) | **Wheels-up · Belen D1 · BLAST L7 cap A** | **Cal-Y8 D236 · 13 Aug** |
+| 2661 | [day-2661.md](days/year-008/week-381/day-2661.md) | **WEEK-381-OPEN · exped-4 PACK ✓** | **Cal-Y8 D235 · 12 Aug** |
+| 2659 | [day-2659.md](days/year-008/week-380/day-2659.md) | **M-12 collect-5 + purify-4 ✓ · crystal ~397 g** | **Cal-Y8 D233 · 10 Aug** |
+| 2658 | [day-2658.md](days/year-008/week-380/day-2658.md) | **M-12-PURIFY-3 ✓ · jar ~62 g · haul queued** | **Cal-Y8 D232 · 9 Aug** |
+| 2657 | [day-2657.md](days/year-008/week-380/day-2657.md) | **PAPER D11 ✓ · bank ~6 peg** | **Cal-Y8 D231 · 8 Aug** |
+| 2656 | [day-2656.md](days/year-008/week-380/day-2656.md) | **GUNPOWDER-MIX-2 ✓ · ~320 g · niter prep skip** | **Cal-Y8 D230 · 7 Aug** |
+| 2655 | [day-2655.md](days/year-008/week-380/day-2655.md) | **GRAPE Y8-1 ✓ · partial ~3.15 kg · must ~1.35 L** | **Cal-Y8 D229 · 6 Aug** |
+| 2654 | [day-2654.md](days/year-008/week-380/day-2654.md) | **WEEK-380-OPEN · P-RETT-21 pull ✓ · FIG Y8-1 ✓** | **Cal-Y8 D228 · 5 Aug** |
+| 2653 | [day-2653.md](days/year-008/week-379/day-2653.md) | **BITUMEN lap-2 ✓ · pot ~9.4 kg · WEEK-379-CLOSE** | **Cal-Y8 D227 · 4 Aug** |
+| 2652 | [day-2652.md](days/year-008/week-379/day-2652.md) | **Gravel CLOSE ✓ · ~170 kg · loaded ASI PASS** | **Cal-Y8 D226 · 3 Aug** |
+| 2651 | [day-2651.md](days/year-008/week-379/day-2651.md) | **Bar tail D4 ✓ · ~45 kg · camp west** | **Cal-Y8 D225 · 2 Aug** |
+| 2650 | [day-2650.md](days/year-008/week-379/day-2650.md) | **Pour D3 ✓ · fringe clear · TQ ~3.42** | **Cal-Y8 D224 · 1 Aug** |
+| 2649 | [day-2649.md](days/year-008/week-379/day-2649.md) | **AM-GRAVEL-EAST-04 D1 ✓ · ~46 kg · Asi loaded GO** | **Cal-Y8 D223 · 31 Jul** |
+| 2648 | [day-2648.md](days/year-008/week-379/day-2648.md) | **Exped D1 · AM-EAST-04 scout · 03 pick** | **Cal-Y8 D222 · 30 Jul** |
+| 2647 | [day-2647.md](days/year-008/week-379/day-2647.md) | **WEEK-379-OPEN · east pack ✓ · KIT-4 staged** | **Cal-Y8 D221 · 29 Jul** |
+| 2646 | [day-2646.md](days/year-008/week-378/day-2646.md) | **WHEEL-SPIN D2 ✓ · thread ~144 m · WEEK-378-CLOSE** | **Cal-Y8 D220 · 28 Jul** |
+| 2645 | [day-2645.md](days/year-008/week-378/day-2645.md) | **WHEEL-SPIN D1 ✓ · ~70 m class** | **Cal-Y8 D219 · 27 Jul** |
+| 2644 | [day-2644.md](days/year-008/week-378/day-2644.md) | **PAPER D10 ✓ · bank ~4 peg** | **Cal-Y8 D218 · 26 Jul** |
+| 2640 | [day-2640.md](days/year-008/week-378/day-2640.md) | **WEEK-378-OPEN · chem doors ✓ · FLAX-BREAK-20 ✓** | **Cal-Y8 D214 · 22 Jul** |
+| 2635 | [day-2635.md](days/year-008/week-377/day-2635.md) | **HOME ✓ · farm scare · flax pull · woad shred** | **Cal-Y8 D209 · 17 Jul** |
+| 2633 | [day-2633.md](days/year-008/week-377/day-2633.md) | **ASI pack ✓ · GP ×20 · woad · WEEK-377-OPEN** | **Cal-Y8 D207 · 15 Jul** |
+| 2632 | [day-2632.md](days/year-008/week-376/day-2632.md) | **WOOD + STONE haul ✓ · WEEK-376-CLOSE** | **Cal-Y8 D206 · 14 Jul** |
+| 2631 | [day-2631.md](days/year-008/week-376/day-2631.md) | **GRAVEL-SAND-HAUL ✓ · concrete fractions** | **Cal-Y8 D205 · 13 Jul** |
+| 2630 | [day-2630.md](days/year-008/week-376/day-2630.md) | **POZZ-TRIB-WASH ✓ · ~16 kg @ pile 4** | **Cal-Y8 D204 · 12 Jul** |
+| 2629 | [day-2629.md](days/year-008/week-376/day-2629.md) | **ASI concrete REBUILD prep ✓ · pozz RED** | **Cal-Y8 D203 · 11 Jul** |
+| 2626 | [day-2626.md](days/year-008/week-376/day-2626.md) | **WEEK-376-OPEN · GP final batch ✓ · ×16 spare** | **Cal-Y8 D200 · 8 Jul** |
+| 2625 | [day-2625.md](days/year-008/week-375/day-2625.md) | **GP batch 4 ✓ · P-RETT-19 pull ✓ · WEEK-375-CLOSE** | **Cal-Y8 D199 · 7 Jul** |
+| 2624 | [day-2624.md](days/year-008/week-375/day-2624.md) | **GP tap ✓ · wood haul · retort · KILN-A-LIME ✓** | **Cal-Y8 D198 · 6 Jul** |
+| 2623 | [day-2623.md](days/year-008/week-375/day-2623.md) | **GLASS-GP-PANE-SPRINT-1 ✓ · ×8 spare LIVE** | **Cal-Y8 D197 · 5 Jul** |
+| 2622 | [day-2622.md](days/year-008/week-375/day-2622.md) | **GP pane D2 ✓ · tap ×4 · batch 2 @ anneal** | **Cal-Y8 D196 · 4 Jul** |
+| 2621 | [day-2621.md](days/year-008/week-375/day-2621.md) | **GP pane D1 ✓ · ingredients GREEN · batch 1 @ anneal** | **Cal-Y8 D195 · 3 Jul** |
+| 2620 | [day-2620.md](days/year-008/week-375/day-2620.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓ · priority slate** | **Cal-Y8 D194 · 2 Jul** |
+| 2619 | [day-2619.md](days/year-008/week-375/day-2619.md) | **WEEK-375-OPEN · TR-FIRE ✓ · tile stock audit** | **Cal-Y8 D193 · 1 Jul** |
+| 2618 | [day-2618.md](days/year-008/week-374/day-2618.md) | **PORC-BASIN-1 install ✓ · culina wash live** | **Cal-Y8 D192 · 30 Jun** |
+| 2617 | [day-2617.md](days/year-008/week-374/day-2617.md) | **PORC-BASIN-1 fire ✓ · TR-PRESS ✓ ×32** | **Cal-Y8 D191 · 29 Jun** |
+| 2616 | [day-2616.md](days/year-008/week-374/day-2616.md) | **WILD-FLAX-PULL-Y8-L2 ✓ · P-RETT-20 dry queue** | **Cal-Y8 D190 · 28 Jun** |
+| 2615 | [day-2615.md](days/year-008/week-374/day-2615.md) | **PORC-BOWL-1 unload ✓ · WILD-FLAX-PULL-Y8-L1 ✓** | **Cal-Y8 D189 · 27 Jun** |
+| 2614 | [day-2614.md](days/year-008/week-374/day-2614.md) | **PORC-BOWL-1 fire ✓ · PORC-BASIN-1 throw ✓** | **Cal-Y8 D188 · 26 Jun** |
 | 2613 | [day-2613.md](days/year-008/week-374/day-2613.md) | **TRAIL-BELEN-ERZIN-EXPED-1 CLOSE ✓ · HOME** | **Cal-Y8 D187 · 25 Jun** |
 | 2612 | [day-2612.md](days/year-008/week-374/day-2612.md) | **WEEK-374-OPEN · Exped D5 · L12/Erzin · turn Belen** | **Cal-Y8 D186 · 24 Jun** |
 | 2611 | [day-2611.md](days/year-008/week-373/day-2611.md) | **Exped D4 · PAYAS pozz-8 deploy ✓ · WEEK-373-CLOSE** | **Cal-Y8 D185 · 23 Jun** |

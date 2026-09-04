@@ -2,26 +2,25 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2613** · Cal-Y8 D187 · ~25 Jun · Week 374 · **TRAIL-BELEN-ERZIN-EXPED-1 CLOSE**
+**Day 2671** · Cal-Y8 D245 · ~22 Aug · Week 382 · **Erzin–Ceyhan exped CLOSE ✓ · WEEK-381-CLOSE @ d2671**
 
 | Track | Status |
 |-------|--------|
-| **Exped** | **HOME · empty column · TRAIL-BELEN-ERZIN-LEG-1 banked** |
-| **Trail** | **L9 TQ ~2.5 · PAYAS pozz cure 7 d · L7–L12 dress ~56 kg** |
-| **Caps** | **×0 @ HOME · batch later summer** |
-| **PORC-BOWL-1** | **Green @ rack · dry read · fire queue** |
-| **Porcelain / basin** | **~350 g body remain · basin GO post-exped** |
-| **Char @ HOME** | **~49.1 kg GREEN · pile 5 ~2 kg RED thin** |
-| **Farm** | **Silas hold ended · scare due · wild flax ~window** |
-| **KILN-D** | **Idle · PORC-BOWL fire player queue** |
+| **Erzin–Ceyhan trail** | **AM-ERZIN-CEYHAN-01 LIVE · ~200 kg band · TQ ~3.2 · ASPHALT-FIELD-1 cure AMBER @ EC braid** |
+| **Blast caps** | **×1 @ cart mid-forward · ×0 @ HOME safe** |
+| **Bitumen @ yard** | **~7.9 kg @ BITUMEN-POT-1** |
+| **Flax rett** | **P-RETT-21 @ W-1 · FLAX-BREAK-21 GO next farm pass** |
+| **Hemp** | **Cut window Aug–Sep live @ Bed A north** |
+| **Gunpowder** | **~80 g mealed tail · char flour ~110 g · mix-3 runway** |
 
 ## Next
 
-**PORC-BOWL-1 dry read · porcelain fire · basin · cap batch**
+**Week 382 · FLAX-BREAK-21 · ASPHALT-FIELD-1 foot read · ASPHALT-INFRA-SPRINT-1 @ HOME · trail doctrine live**
 
 ## Agent reminders (player request d2312)
 
 - **Material gate:** **No stock · no time · no retcon magic = NO-GO**
+- **Metallurgy / chemistry:** **Real-life canon**
 
 ## Do not treat as live
 

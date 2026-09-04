@@ -89,6 +89,15 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 **Retrofit rule:** **Per-wing optional** — not blocking new stakes. **Sluice / WW infra** may use pozz-lime concrete outside BC-1 envelope scope.
 
+### Wet work & counters *(BC-1-WET · filed Day 2636 · cross-ref FC-1)*
+
+| Rule | Standard |
+|------|----------|
+| **Counter tops** | **Refractory tile or dressed stone** · smooth · flat · **neat lime-sand grout** |
+| **Sinks & slops** | **Ceramic or metal** — **✗ wood** @ wet service |
+| **Wall splash** | **Tile splash** behind sinks · grouted · ties counter pitch + drain grammar |
+| **Wood @ wet zones** | **Frame/legs/brackets only** — see [furniture-code-1.md](furniture-code-1.md) |
+
 ---
 
 ## WOODCRAFT-FINISH-1 *(filed Day 1889 · player wood standard)*

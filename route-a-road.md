@@ -4,6 +4,7 @@
 
 **Local geography:** [map.md](map.md) (HOME · campus · local trails)  
 **Live crossings · kit @ HOME:** [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md)  
+**Longevity doctrine (Y8):** [trail-longevity-doctrine-y8.md](trail-longevity-doctrine-y8.md)  
 **GPS waypoint notes:** [obsolete/ore-trip-gps-notes.md](obsolete/ore-trip-gps-notes.md)  
 **Map overlay (player):** [reference/README.md](reference/README.md)
 
@@ -339,6 +340,7 @@ Each **infra stop day**, rank **one** hero:
 |-------|------|
 | **Crossings** (bridge/ford/scout) | [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md) |
 | **Road quality** (speed over time) | **this file** |
+| **Longevity playbook** (Y8 · hydrology · asphalt · seasons) | [trail-longevity-doctrine-y8.md](trail-longevity-doctrine-y8.md) |
 | **Local geography** | [map.md](map.md) |
 | **Live priorities** | [now.md](now.md) |
 

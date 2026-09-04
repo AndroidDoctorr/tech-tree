@@ -110,9 +110,18 @@ Append rows **once per crop per season** (harvest or spring read):
 
 ---
 
+## Y8 observations *(append @ harvest heroes)*
+
+| Line | Y8 read | Next intent |
+|------|---------|-------------|
+| **P-03 grape** | **First pick d2655 ~3.15 kg partial · berries smaller vs Y7 · cluster count high · sugar OK · **GRAPE-PRUNE-Y8-1 spring defer**** | **Winter cordon prune · cluster thin @ set Y9 · P-03-SEL-Y8 elite saved ~14 g** |
+| **Bed D fig C1–C4** | **First pick d2654 ~1.27 kg · C2 lead sweetest **—** **FILED d2654** | **Repeat pick @ scare · bowl prune winter** |
+
+---
+
 ## Hero queue *(orchard/crop infra)*
 
-1. **GRAPE-PRUNE-Y8-1** — **P-03 cordon start @ spring dormancy**
+1. **GRAPE-PRUNE-Y8-1** — **P-03 cordon start @ **winter dormancy** *(spring band missed · do not skip again)*
 2. **FIG-PRUNE-Y8-1** — **Bed D bowl + burden relief**
 3. **OLIVE-GROVE-EXPAND-Y7** — **Cuttings / pit plant when band named**
 4. **CI-1-ANNUAL-READ** — **Each harvest block · one row per crop**
