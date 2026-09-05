@@ -5,7 +5,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**  
 **Theme:** **Acorn leach close · P-μ fire · harvest prep**
 
-**Status:** OPEN @ Day 2712 · **soak 2 ✓ · parched load ✓**
+**Status:** CLOSED @ Day 2716 · **roast ✓ · harvest audit ✓**
 
 ---
 
@@ -14,6 +14,10 @@
 | **2710** | **WEEK-388-OPEN · ACORN leach PASS ✓ · CHAR-RETORT ×2 ✓** |
 | **2711** | **ACORN-ROAST ✓ · POT-FIRE-P-μ ✓ · shell batch 7 · soak 1 live** |
 | **2712** | **ACORN soak 2 ✓ · P-μ-13 parched load ✓ · batch-3 defer harvest** |
+| **2713** | **ACORN soak 3 ✓ · HEMP-ROPE-SPRINT-2-D1 break/heckle** |
+| **2714** | **ACORN leach PASS ✓ · HEMP-ROPE-D2 twist · HOME GREEN** |
+| **2715** | **HEMP-ROPE-SPRINT-2-D3 ✓ · ~22 m stock peg** |
+| **2716** | **ACORN-ROAST-Y8-5 ✓ · HARVEST-BAY-AUDIT-1 ✓** |
 
 ---
 

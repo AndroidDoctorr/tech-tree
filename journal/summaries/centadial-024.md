@@ -190,4 +190,4 @@ Centadial 24 is the century of **deploy then refine**: lap 5 eats two weeks and 
 
 ---
 
-*Previous: [centadial-023.md](centadial-023.md) · Next: [centadial-025.md](centadial-025.md) at Day 2500 · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*
+*Previous: [centadial-023.md](centadial-023.md) · Next: [centadial-025.md](centadial-025.md) · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*

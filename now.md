@@ -2,26 +2,31 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2712** · Cal-Y8 D286 · ~2 Oct · Week 388 · **Soak 2 ✓ · P-μ-13 parched load ✓**
+**Day 2800** · Cal-Y9 D21 · ~11 Jan · **Week 400 CLOSED** · **rest / farm**
 
 | Track | Status |
 |-------|--------|
-| **Acorn leach** | **Batch 7 soak 2 live @ trough · bitter falling** |
-| **Acorn roast** | **~2.71 kg @ nut tray · ~2.0 kg @ P-μ-14 LIVE** |
-| **Pistachio** | **~2.08 kg @ nut tray** |
-| **P-μ parched** | **~0.95 kg @ P-μ-13 · ~0.15 kg working tail @ P-μ-12** |
-| **Acorn bulk** | **~1.75 kg @ v1 · ~1.2 kg @ WOOD-CRATE-4 · ~2.95 kg shell-on total** |
-| **Fuel** | **Char lane ~47 kg · pile 5 ~11 kg thin** |
-| **Season** | **Acorn gather window · emmer harvest ~56 d** |
+| **PALISADE-2** | **W+S stage-2 cheek 70/97 m · composite (wood stays)** |
+| **Wood grammar** | **Stage-2 = stone in front of stakes · salvage @ stage-3/demo** |
+| **Farm** | **Winter stubble · rett pool empty · scare PASS** |
+| **Pozz** | **~17.3 kg · dress ~24.5 kg · FS ×6** |
 
 ## Next
 
-**ACORN-LEACH-Y8-5 soak 3–4/pass · PARCHED-BATCH-Y8-3 @ harvest · HARVEST-BAY-AUDIT-1 horizon**
+**Ice haul ~20 Jan (~9 d) · sow ~26 Feb · stone defer**
+
+## Y9 musts *(player — do not miss)*
+
+1. **EMMER expand** — spring sow · Bed B south strip · frost gate
+2. **BARLEY sow** — spring · Bed A strip trial
+3. **GRAIN-WILD-COLLECT** — **Jun** · P-04/P-06 plain ~200 m
 
 ## Agent reminders (player request d2312)
 
 - **Material gate:** **No stock · no time · no retcon magic = NO-GO**
 - **Metallurgy / chemistry:** **Real-life canon**
+- **Y9 grain musts:** **Flag @ FARM-CARE if spring/Jun windows approach without hero**
+- **CI-1 vineyard:** **Cluster-thin @ fruit set Mar–Apr · P-03-SEL-Y9 from best vine only**
 
 ## Do not treat as live
 

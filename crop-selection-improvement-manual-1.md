@@ -67,8 +67,8 @@ Append rows **once per crop per season** (harvest or spring read):
 
 | Asset | Now | Orchard goal | Procedures |
 |-------|-----|--------------|------------|
-| **Bed D fig C1–C4** | **Live · leather heroes logged** | **Open bowl · 4–6 main limbs · head height ~2 m class · crop load managed** | **Winter prune · summer pinch · pick best for leather/must · propagate from C* winners** |
-| **P-03 trellis grape** | **Stripped Y7 · prune defer spring** | **Cordon or double-guyot · spur positions @ 30–40 cm · cluster thin** | **Prune @ dormancy · tie new wood · cluster drop @ set · select sweet/acid balance for must** |
+| **Bed D fig C1–C4** | **Live · **bowl prune Y8-1 ✓ d2762**** | **Open bowl · 4–6 main limbs · head height ~2 m class · crop load managed** | **Winter prune · summer pinch · pick best for leather/must · propagate from C* winners** |
+| **P-03 trellis grape** | **Stripped Y7 · **cordon Y8-1 ✓ d2761**** | **Cordon or double-guyot · spur positions @ 30–40 cm · cluster thin** | **Prune @ dormancy · tie new wood · cluster drop @ set · select sweet/acid balance for must** |
 | **P-02 olive terrace** | **~95% stripped Y7 · press done** | **Pit spacing ~6–8 m class · single trunk · bowl prune · table vs oil cultivar split when stock allows** | **Nov pick elite fruit · **P-02-SEL-1** vault · cuttings/pit plant per **OLIVE-GROVE-EXPAND-Y7**** |
 | **Wild P-12 fig · P-01 pistachio** | **Calendar hero only** | **Transplant or marcots to farm terrace before “orchard” status** | **Scout · tag · move in winter band — not orchard until planted @ HOME** |
 | **Apiary pads** | **Live** | **Herb margin · water · shade · no spray drift from chem** | **Weekly visual · **player-calendar** swarm band** |
@@ -114,15 +114,15 @@ Append rows **once per crop per season** (harvest or spring read):
 
 | Line | Y8 read | Next intent |
 |------|---------|-------------|
-| **P-03 grape** | **First pick d2655 ~3.15 kg partial · berries smaller vs Y7 · cluster count high · sugar OK · **GRAPE-PRUNE-Y8-1 spring defer**** | **Winter cordon prune · cluster thin @ set Y9 · P-03-SEL-Y8 elite saved ~14 g** |
-| **Bed D fig C1–C4** | **First pick d2654 ~1.27 kg · C2 lead sweetest **—** **FILED d2654** | **Repeat pick @ scare · bowl prune winter** |
+| **P-03 grape** | **First pick d2655 ~3.15 kg partial · berries smaller vs Y7 · cluster count high · sugar OK · **GRAPE-PRUNE-Y8-1 ✓ d2761 cordon**** | **Winter cordon · cluster thin @ set Y9 · P-03-SEL-Y9 from best vine · P-03-CUT-Y8-1 spring strike** |
+| **Bed D fig C1–C4** | **First pick d2654 ~1.27 kg · C2 lead sweetest · **FIG-PRUNE-Y8-1 ✓ d2762 bowl**** | **Summer pinch · Aug–Sep pick · C2 propagate if named** |
 
 ---
 
 ## Hero queue *(orchard/crop infra)*
 
-1. **GRAPE-PRUNE-Y8-1** — **P-03 cordon start @ **winter dormancy** *(spring band missed · do not skip again)*
-2. **FIG-PRUNE-Y8-1** — **Bed D bowl + burden relief**
+1. ~~**GRAPE-PRUNE-Y8-1**~~ — **✓ d2761 · cordon @ T-2**
+2. ~~**FIG-PRUNE-Y8-1**~~ — **✓ d2762 · Bed D bowl**
 3. **OLIVE-GROVE-EXPAND-Y7** — **Cuttings / pit plant when band named**
 4. **CI-1-ANNUAL-READ** — **Each harvest block · one row per crop**
 
