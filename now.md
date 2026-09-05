@@ -2,20 +2,21 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2671** · Cal-Y8 D245 · ~22 Aug · Week 382 · **Erzin–Ceyhan exped CLOSE ✓ · WEEK-381-CLOSE @ d2671**
+**Day 2712** · Cal-Y8 D286 · ~2 Oct · Week 388 · **Soak 2 ✓ · P-μ-13 parched load ✓**
 
 | Track | Status |
 |-------|--------|
-| **Erzin–Ceyhan trail** | **AM-ERZIN-CEYHAN-01 LIVE · ~200 kg band · TQ ~3.2 · ASPHALT-FIELD-1 cure AMBER @ EC braid** |
-| **Blast caps** | **×1 @ cart mid-forward · ×0 @ HOME safe** |
-| **Bitumen @ yard** | **~7.9 kg @ BITUMEN-POT-1** |
-| **Flax rett** | **P-RETT-21 @ W-1 · FLAX-BREAK-21 GO next farm pass** |
-| **Hemp** | **Cut window Aug–Sep live @ Bed A north** |
-| **Gunpowder** | **~80 g mealed tail · char flour ~110 g · mix-3 runway** |
+| **Acorn leach** | **Batch 7 soak 2 live @ trough · bitter falling** |
+| **Acorn roast** | **~2.71 kg @ nut tray · ~2.0 kg @ P-μ-14 LIVE** |
+| **Pistachio** | **~2.08 kg @ nut tray** |
+| **P-μ parched** | **~0.95 kg @ P-μ-13 · ~0.15 kg working tail @ P-μ-12** |
+| **Acorn bulk** | **~1.75 kg @ v1 · ~1.2 kg @ WOOD-CRATE-4 · ~2.95 kg shell-on total** |
+| **Fuel** | **Char lane ~47 kg · pile 5 ~11 kg thin** |
+| **Season** | **Acorn gather window · emmer harvest ~56 d** |
 
 ## Next
 
-**Week 382 · FLAX-BREAK-21 · ASPHALT-FIELD-1 foot read · ASPHALT-INFRA-SPRINT-1 @ HOME · trail doctrine live**
+**ACORN-LEACH-Y8-5 soak 3–4/pass · PARCHED-BATCH-Y8-3 @ harvest · HARVEST-BAY-AUDIT-1 horizon**
 
 ## Agent reminders (player request d2312)
 

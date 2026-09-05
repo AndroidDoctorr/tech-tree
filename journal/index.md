@@ -15,13 +15,40 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2671)* |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2712)* |
 
-## Recent days *(append here · @ Day 2671)*
+## Recent days *(append here · @ Day 2712)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 2671 | [day-2671.md](days/year-008/week-382/day-2671.md) | **HOME ✓ · Erzin–Ceyhan CLOSE · WEEK-381-CLOSE** | **Cal-Y8 D245 · 22 Aug** |
+| 2712 | [day-2712.md](days/year-008/week-388/day-2712.md) | **ACORN soak 2 ✓ · P-μ-13 parched load ✓** | **Cal-Y8 D286 · 2 Oct** |
+| 2711 | [day-2711.md](days/year-008/week-388/day-2711.md) | **ACORN-ROAST ✓ · POT-FIRE-P-μ ✓ · shell batch 7 · soak 1 live** | **Cal-Y8 D285 · 1 Oct** |
+| 2710 | [day-2710.md](days/year-008/week-388/day-2710.md) | **WEEK-388-OPEN · ACORN leach PASS ✓ · CHAR-RETORT ×2 ✓** | **Cal-Y8 D284 · 30 Sep** |
+| 2709 | [day-2709.md](days/year-008/week-387/day-2709.md) | **ACORN soak 3 · WHEEL-SPIN-Y8-3 ✓ · borderline bite** | **Cal-Y8 D283 · 29 Sep** |
+| 2708 | [day-2708.md](days/year-008/week-387/day-2708.md) | **ACORN soak 2 · P-μ-BATCH-2 ✓ green @ rack** | **Cal-Y8 D282 · 28 Sep** |
+| 2707 | [day-2707.md](days/year-008/week-387/day-2707.md) | **ACORN-ROAST ✓ · shell batch 6 · soak 1 live · exped close band** | **Cal-Y8 D281 · 27 Sep** |
+| 2706 | [day-2706.md](days/year-008/week-387/day-2706.md) | **WOOD-HAUL ✓ · pile 5 topped** | **Cal-Y8 D280 · 26 Sep** |
+| 2705 | [day-2705.md](days/year-008/week-387/day-2705.md) | **WOOD-CRATE-4 ✓ · BARREL-4 clear · nail batch 6** | **Cal-Y8 D279 · 25 Sep** |
+| 2704 | [day-2704.md](days/year-008/week-387/day-2704.md) | **AMPHORA-6/9 reclaim ✓ · grape vinegar fork · batch 5 PASS** | **Cal-Y8 D278 · 24 Sep** |
+| 2703 | [day-2703.md](days/year-008/week-387/day-2703.md) | **WEEK-387-OPEN · ACORN-ROAST ✓ · STORAGE-CAPACITY-READ ✓** | **Cal-Y8 D277 · 23 Sep** |
+| 2702 | [day-2702.md](days/year-008/week-386/day-2702.md) | **ACORN soak 2 · paper D13 ✓ · 2-day band closed** | **Cal-Y8 D276 · 22 Sep** |
+| 2701 | [day-2701.md](days/year-008/week-386/day-2701.md) | **ACORN leach PASS ✓ · batch 5 soak 1 · paper D12 ✓** | **Cal-Y8 D275 · 21 Sep** |
+| 2700 | [day-2700.md](days/year-008/week-386/day-2700.md) | **ACORN soak 3 · shell batch 5 ✓ · borderline bite** | **Cal-Y8 D274 · 20 Sep** |
+| 2699 | [day-2699.md](days/year-008/week-386/day-2699.md) | **P-01 tail shell ✓ · ACORN-ROAST-Y8-1 ✓ · soak 2 live** | **Cal-Y8 D273 · 19 Sep** |
+| 2698 | [day-2698.md](days/year-008/week-386/day-2698.md) | **ACORN soak 4 PASS ✓ · shell batch 4 · soak 1 live** | **Cal-Y8 D272 · 18 Sep** |
+| 2697 | [day-2697.md](days/year-008/week-386/day-2697.md) | **ACORN-GATHER-Y8-1 ✓ · ~4.1 kg net · ~7.5 kg bulk** | **Cal-Y8 D271 · 17 Sep** |
+| 2696 | [day-2696.md](days/year-008/week-386/day-2696.md) | **HOME ✓ · WEEK-386-OPEN · exped-6 CLOSE** | **Cal-Y8 D270 · 16 Sep** |
+| 2695 | [day-2695.md](days/year-008/week-385/day-2695.md) | **Return D4 · Belen · WEEK-385-CLOSE** | **Cal-Y8 D269 · 15 Sep** |
+| 2694 | [day-2694.md](days/year-008/week-385/day-2694.md) | **ASPHALT-FIELD-1 foot read GREEN ✓** | **Cal-Y8 D268 · 14 Sep** |
+| 2689 | [day-2689.md](days/year-008/week-385/day-2689.md) | **WEEK-385-OPEN · ACORN-PREP-1 ✓ · soak 1 live** | **Cal-Y8 D263 · 9 Sep** |
+| 2688 | [day-2688.md](days/year-008/week-384/day-2688.md) | **PARCHED-BATCH-2 ✓ · WEEK-384-CLOSE · sprint ✓** | **Cal-Y8 D262 · 8 Sep** |
+| 2687 | [day-2687.md](days/year-008/week-384/day-2687.md) | **SMOKE-JERKY-SPRINT ✓ · protein GREEN** | **Cal-Y8 D261 · 7 Sep** |
+| 2685 | [day-2685.md](days/year-008/week-384/day-2685.md) | **GRAPE-MUST-RACK ✓ · BARREL-4 clear** | **Cal-Y8 D259 · 5 Sep** |
+| 2684 | [day-2684.md](days/year-008/week-384/day-2684.md) | **PARCHED-BATCH-Y8-1 ✓ · ~2.10 kg · partial cut** | **Cal-Y8 D258 · 4 Sep** |
+| 2683 | [day-2683.md](days/year-008/week-384/day-2683.md) | **P-RETT-22 pull ✓ · STORAGE-CAPACITY-READ** | **Cal-Y8 D257 · 3 Sep** |
+| 2682 | [day-2682.md](days/year-008/week-384/day-2682.md) | **PISTACHIO-P-01-Y8-1 ✓ · ~3.95 kg hull-on** | **Cal-Y8 D256 · 2 Sep** |
+| 2681 | [day-2681.md](days/year-008/week-383/day-2681.md) | **HOME ✓ · exped-5 CLOSE · WEEK-383-CLOSE** | **Cal-Y8 D255 · 1 Sep** |
+| 2674 | [day-2674.md](days/year-008/week-382/day-2674.md) | **BUILD exped-5 PACK ✓ · L9 ROI slate** | **Cal-Y8 D248 · 25 Aug** |
 | 2670 | [day-2670.md](days/year-008/week-382/day-2670.md) | **Return D1 · Erzin → Belen · cure ghost PASS** | **Cal-Y8 D244 · 21 Aug** |
 | 2669 | [day-2669.md](days/year-008/week-382/day-2669.md) | **WORK CLOSE ✓ · ~200 kg EC · TQ ~3.2** | **Cal-Y8 D243 · 20 Aug** |
 | 2668 | [day-2668.md](days/year-008/week-382/day-2668.md) | **ASPHALT-FIELD-TRIAL-1 ✓ · cure read @ EC braid** | **Cal-Y8 D242 · 19 Aug** |

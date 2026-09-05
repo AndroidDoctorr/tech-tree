@@ -1,11 +1,11 @@
 # Week 382 summary
 
-**Days 2668–2671+ · ~10,000 BC · Cal-Y8 · exped-4 tail · HOME runway**
+**Days 2668–2674 · ~10,000 BC · Cal-Y8 · exped-4 tail · HOME fiber + BUILD pack**
 
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**  
-**Theme:** **Asphalt field read · exped close · flax break · asphalt infra horizon**
+**Theme:** **Doctrine · flax/hemp · BUILD exped-5 pack**
 
-**Status:** OPEN @ Day 2671 · **WEEK-381-CLOSE @ d2671 · week 382 opens mid-exped tail**
+**Status:** CLOSED @ Day 2674
 
 ---
 
@@ -15,6 +15,9 @@
 | **2669** | **WORK D6 CLOSE · ~200 kg EC band · TQ ~3.2 · turn Erzin** |
 | **2670** | **Return D1 Erzin → Belen · asphalt strip cure ghost PASS** |
 | **2671** | **Return D2 HOME · WEEK-381-CLOSE · TRAIL-LONGEVITY-DOCTRINE-Y8 ✓** |
+| **2672** | **Campus weed pull · yard tidy · farm scare · chill** |
+| **2673** | **FLAX-BREAK-21 ✓ · HEMP-CUT-Y8-1 ✓ · P-RETT-22 @ rafter** |
+| **2674** | **TRAIL-BUILD-EXPED-5-PACK ✓ · L9 BUILD ROI slate · food ~6.8 kg** |
 
 ---
 
@@ -22,4 +25,4 @@ See [now.md](../../now.md). Do not duplicate runway numbers here.
 
 ---
 
-*Week 382 · opens @ day 2668 (exped tail).*
+*Week 382 · CLOSED @ day 2674.*

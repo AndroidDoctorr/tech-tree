@@ -1,11 +1,11 @@
-# Bridges and trail *(live crossing canon @ Day 2671)*
+# Bridges and trail *(live crossing canon @ Day 2681)*
 
 Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../route-a-road.md). Spent RESERVE/FILL 1–15 and closed columns are in [archive-pre-split-1775.md](archive-pre-split-1775.md).
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-GRAVEL-EXPED-4-CLOSE-2671 · empty column ~22 kg class**
-- **×1 cap @ cart mid-forward** *(×0 @ HOME safe · caps A+B spent d2662/2667 · ×1 reserve)*
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-BUILD-EXPED-5-CLOSE-2681 · empty column ~24 kg class**
+- **×0 cap @ cart** *(×0 @ HOME safe · cap spent d2679 @ L9 pinch)*
 - **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
 - **EXPED-CARRY-KIT-1 @ wagon peg**
 - **TRAIL-MAINT-SLICE partial @ bench + mid-forward + cart mid-forward**
@@ -24,14 +24,16 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | AFRIN-1 | **~3.5** | **~10 m · site B · concrete abut d1967 · touch d2243 · ~2 mm · site A ford defer** |
 | KIRIKHAN-APPROACH-1 | **~2.0** | **~53 km · pozz wings d2319 · ~2 mm · hands off** |
 | ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 · reinforced · listen PASS d2320 |
-| PINARUS-1 | **~3.5** | ~12 m · reinforced d1551 · ~2 mm |
+| PINARUS-1 | **~3.5** | **~12 m · reinforced d1551 · **POZZ-KIT-10 wing d2679** · ~2 mm · scour GREEN** |
 | PAYAS-APPROACH-1 | **~2.0** | **~103 km · **POZZ-KIT-8 wing d2611** · ~2 mm · cure 7 d hands off** |
 | DORTYOL-APPROACH-1 | **~3.5** | **~117 km · reinforced d1564 · listen PASS d2329** |
 | ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · lap-5 terminus** |
 | **L6 crown** | **—** | **~88 km avian · BLAST-PINCH-5 d2328 · TQ ~3.0 · dressed** |
 | **L7 crown** | **—** | **~110 km avian · BLAST-PINCH-6 d2329 · TQ ~2.9 · dressed d2609** |
 | **L8 crown** | **—** | **~74 km avian · BLAST-PINCH-7 d2330 · TQ ~3.0 · dressed d2609** |
-| **L9 crown** | **—** | **~PINARUS band · **BLAST-PINCH-8 d2610** · TQ **~2.5** · dressed** |
+| **L9 crown** | **—** | **~PINARUS band · BLAST-PINCH-8 d2610 + **BLAST-PINCH-L9-01 d2679** · TQ **~2.85** · hydro d2678** |
+| **BLAST-PINCH-L9-01-2679** | **—** | **Inside bend bedrock · cap spent · dressed LIVE** |
+| **PINARUS-POZZ-10-2679** | **—** | **Upstream cheek + flood train · REFILL-18 apron · ~2 mm post** |
 | CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |
 | TRIB-FT-N02 | **~3.0** | ~8 m · d1473 |
 | **KARASU-TRUNK-1** | **~3.5** shore | **~28 km · listen PASS · ford ghost PASS · deck defer** |
@@ -40,7 +42,7 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | **AM-GRAVEL-EAST-03** | **—** | **~24 km E of Asi cross · bar train d2587–2652 · **~146 kg prior + re-dress d2651** · face CLOSE · TQ ~3.44** |
 | **AM-EAST-04** | **—** | **~28 km E of Asi cross · scout d2648 · gravel train d2649–2652 · TQ ~3.45 · stake LIVE** |
 | **AM-GRAVEL-EAST-04** | **—** | **~28 km E of Asi cross · bar train d2649–2652 · **~170 kg exped-3 band** · face CLOSE · veg fringe cleared** |
-| **AM-ERZIN-CEYHAN-01** | **—** | **Erzin–Ceyhan midpoint · bar train d2664–2669 · **~200 kg exped-4** · TQ ~3.2 · **ASPHALT-FIELD-1** cure strip @ EC braid** |
+| **AM-ERZIN-CEYHAN-01** | **—** | **Erzin–Ceyhan midpoint · bar train d2664–2669 · **~200 kg exped-4** · TQ ~3.2 · **ASPHALT-FIELD-1** foot read GREEN d2694 · scale-up defer** |
 | **BLAST-PINCH-BELEN-ASCENT-2662** | **—** | **L7 steep terrace · cap A spent · dressed** |
 | **BLAST-PINCH-EC-01-2667** | **—** | **EC midpoint inside bend · cap B spent · dressed LIVE** |
 | **L5 crown** | **—** | **~72 km avian · BLAST-PINCH-4 d2320 · TQ ~3.1 · dressed** |
