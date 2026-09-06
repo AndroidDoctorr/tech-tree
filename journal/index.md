@@ -15,15 +15,36 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2800)* |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2837)* |
 
-## Recent days *(append here · @ Day 2800)*
+## Recent days *(append here · @ Day 2837)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 2800 | [day-2800.md](days/year-008/week-400/day-2800.md) | **Wood grammar read · farm scare · [Centadial 28](summaries/centadial-028.md)** | **Cal-Y9 D21 · 11 Jan** |
-| 2799 | [day-2799.md](days/year-008/week-400/day-2799.md) | **S cheek CLOSE ✓ · wood refresh · upgrade read** | **Cal-Y9 D20 · 10 Jan** |
-| 2798 | [day-2798.md](days/year-008/week-400/day-2798.md) | **POZZ-TRIB-WASH ✓ · year-round read** | **Cal-Y9 D19 · 9 Jan** |
+| 2837 | [day-2837.md](days/year-008/week-406/day-2837.md) | **HAUL-LIME ✓ · pile 7 ~20.2 kg** | **Cal-Y9 D58 · 17 Feb** |
+| 2836 | [day-2836.md](days/year-008/week-406/day-2836.md) | **PALISADE-2 stage-2 ring CLOSE ✓ · WEEK-406-OPEN** | **Cal-Y9 D57 · 16 Feb** |
+| 2835 | [day-2835.md](days/year-008/week-405/day-2835.md) | **PALISADE cheek N leg-1 · WEEK-405-CLOSE** | **Cal-Y9 D56 · 15 Feb** |
+| 2834 | [day-2834.md](days/year-008/week-405/day-2834.md) | **PALISADE N footings CLOSE ✓** | **Cal-Y9 D55 · 14 Feb** |
+| 2833 | [day-2833.md](days/year-008/week-405/day-2833.md) | **PALISADE footing N leg-1 · wood refresh** | **Cal-Y9 D54 · 13 Feb** |
+| 2832 | [day-2832.md](days/year-008/week-405/day-2832.md) | **KILN-A-LIME ✓ · pile 7 CLOSE** | **Cal-Y9 D53 · 12 Feb** |
+| 2831 | [day-2831.md](days/year-008/week-405/day-2831.md) | **BED-EXPANSION-Y9 · SOW-PREP-Y9 ✓** | **Cal-Y9 D52 · 11 Feb** |
+| 2828 | [day-2828.md](days/year-008/week-404/day-2828.md) | **ICE haul 1 ✓ · WEEK-404-CLOSE** | **Cal-Y9 D49 · 8 Feb** |
+| 2827 | [day-2827.md](days/year-008/week-404/day-2827.md) | **ACID-DISTILL-3 ✓** | **Cal-Y9 D48 · 7 Feb** |
+| 2826 | [day-2826.md](days/year-008/week-404/day-2826.md) | **VITRIOL-MAKE-3 ✓** | **Cal-Y9 D47 · 6 Feb** |
+| 2824 | [day-2824.md](days/year-008/week-404/day-2824.md) | **ICE-HAUL-Y9-PREP ✓ · cart staged** | **Cal-Y9 D45 · 4 Feb** |
+| 2823 | [day-2823.md](days/year-008/week-404/day-2823.md) | **GYP haul ✓ · toilet gypsum mold ✓** | **Cal-Y9 D44 · 3 Feb** |
+| 2822 | [day-2822.md](days/year-008/week-404/day-2822.md) | **WEEK-404-OPEN · GYP-SCOUT Samandag ✓** | **Cal-Y9 D43 · 2 Feb** |
+| 2821 | [day-2821.md](days/year-008/week-403/day-2821.md) | **PORC-TOILET master D2 ✓ · mold defer** | **Cal-Y9 D42 · 1 Feb** |
+| 2820 | [day-2820.md](days/year-008/week-403/day-2820.md) | **PORC-TOILET-1 OPEN · site read · master D1** | **Cal-Y9 D41 · 31 Jan** |
+| 2819 | [day-2819.md](days/year-008/week-403/day-2819.md) | **Wet fixture read · sand/treat · floor pass** | **Cal-Y9 D40 · 30 Jan** |
+| 2818 | [day-2818.md](days/year-008/week-403/day-2818.md) | **BRASS-HINGE repair stock ×4 · lane read** | **Cal-Y9 D39 · 29 Jan** |
+| 2817 | [day-2817.md](days/year-008/week-403/day-2817.md) | **MEASURE-3 FULL CLOSE ✓ · jig · depth rod** | **Cal-Y9 D38 · 28 Jan** |
+| 2813 | [day-2813.md](days/year-008/week-402/day-2813.md) | **LATHE-V2 D1 · dead center · tool-post square** | **Cal-Y9 D34 · 24 Jan** |
+| 2812 | [day-2812.md](days/year-008/week-402/day-2812.md) | **MARKING-GAUGE-2 ✓ · CALIPER-1 lap ✓** | **Cal-Y9 D33 · 23 Jan** |
+| 2811 | [day-2811.md](days/year-008/week-402/day-2811.md) | **REF-CYL-SET-1 CLOSE ✓** | **Cal-Y9 D32 · 22 Jan** |
+| 2810 | [day-2810.md](days/year-008/week-402/day-2810.md) | **REF-CYL RC-06 + RC-10 ✓** | **Cal-Y9 D31 · 21 Jan** |
+| 2809 | [day-2809.md](days/year-008/week-402/day-2809.md) | **SURFACE-PLATE-1 + STRAIGHT-EDGE-3 ✓** | **Cal-Y9 D30 · 20 Jan** |
+| 2807 | [day-2807.md](days/year-008/week-401/day-2807.md) | **CL-BOXER-Y9 ×2 CLOSE ✓ · WEEK-401-CLOSE** | **Cal-Y9 D28 · 18 Jan** |
 | 2796 | [day-2796.md](days/year-008/week-400/day-2796.md) | **S stone cheek leg-1 ✓** | **Cal-Y9 D17 · 7 Jan** |
 | 2795 | [day-2795.md](days/year-008/week-400/day-2795.md) | **S footings 28 m CLOSE ✓** | **Cal-Y9 D16 · 6 Jan** |
 | 2794 | [day-2794.md](days/year-008/week-400/day-2794.md) | **WEEK-400-OPEN · chem pause · S footing leg-2** | **Cal-Y9 D15 · 5 Jan** |

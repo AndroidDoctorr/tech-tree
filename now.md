@@ -2,23 +2,27 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2800** · Cal-Y9 D21 · ~11 Jan · **Week 400 CLOSED** · **rest / farm**
+**Day 2837** · Cal-Y9 D58 · ~17 Feb · **Week 406 OPEN** · **HAUL-LIME-2837 ✓**
 
 | Track | Status |
 |-------|--------|
-| **PALISADE-2** | **W+S stage-2 cheek 70/97 m · composite (wood stays)** |
-| **Wood grammar** | **Stage-2 = stone in front of stakes · salvage @ stage-3/demo** |
-| **Farm** | **Winter stubble · rett pool empty · scare PASS** |
-| **Pozz** | **~17.3 kg · dress ~24.5 kg · FS ×6** |
+| **PALISADE-2** | **✓ 97/97 m stage-2 cheek ring CLOSE · stage-3 defer** |
+| **Farm beds** | **Scratched ready · scare-only until sow** |
+| **EMMER-SOW-Y9** | **~114 g staged · B expand ~18 m²** |
+| **Barley trial** | **P-06 ~11 g staged · A south ~3 m²** |
+| **Frost gate** | **~d2846–2847 · sow ~26 Feb · ~9 d** |
+| **Pile 7 CaCO₃** | **~20.2 kg GREEN · ~2 cook bands** |
+| **Quicklime** | **~4.5 kg · cook when named** |
+| **Stone mat** | **FS ×5 · dress ~12 kg AMBER** |
 
 ## Next
 
-**Ice haul ~20 Jan (~9 d) · sow ~26 Feb · stone defer**
+**FROST-GATE-Y9 → SPRING-SOW-Y9 ~26 Feb · KILN-A-LIME when named**
 
 ## Y9 musts *(player — do not miss)*
 
-1. **EMMER expand** — spring sow · Bed B south strip · frost gate
-2. **BARLEY sow** — spring · Bed A strip trial
+1. **EMMER expand** — **✓ prepped · broadcast @ frost gate**
+2. **BARLEY sow** — **✓ strip staged · drill @ frost gate**
 3. **GRAIN-WILD-COLLECT** — **Jun** · P-04/P-06 plain ~200 m
 
 ## Agent reminders (player request d2312)
@@ -27,6 +31,7 @@
 - **Metallurgy / chemistry:** **Real-life canon**
 - **Y9 grain musts:** **Flag @ FARM-CARE if spring/Jun windows approach without hero**
 - **CI-1 vineyard:** **Cluster-thin @ fruit set Mar–Apr · P-03-SEL-Y9 from best vine only**
+- **QUARTZ-PLATE-UPGRADE (d2815):** **Flag @ **Apr 1** quartz haul band — **SURFACE-PLATE-2** lap upgrade over D-rank SP-1**
 
 ## Do not treat as live
 
