@@ -19,6 +19,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **26 Feb** — Spring sow opens
 - **26 Feb – 16 Mar** — **Parsley / fava seed scout lap** *(beyond campus — not T-1/T-2 band · acquire before sow close)*
 
+
+
 ## March
 
 - **11 Mar** — Exped / cart trips open
@@ -27,14 +29,20 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **21 Mar** — Apiary expand / swarm / wax harvest opens
 - **21 Mar – 20 Apr** — **Campus herb seed save** *(coriander · allium · thyme · rosemary heads · mint root divide)*
 
+
+
 ## April
 
 - **1 Apr** — Quartz / ore haul season
 - **20 Apr** — Apiary / swarm / wax harvest closes
 
+
+
 ## May
 
 - **15 May – 30 Jun** — **Fava pod pick** *(Bed A headland · green or dry seed · before heat off)*
+
+
 
 ## June
 
@@ -42,10 +50,14 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **26 Jun** — **Wild flax pull opens** *(ditch W · T-1 lip · FLAX-PATCH-1 — not Bed B field drill)*
 - **26 Jun – 26 Jul** — **Wild / patch flax pull window** *(second fiber lap · combine with woad walks OK)*
 
+
+
 ## July
 
 - **9 Jul** — Woad leaf pull opens
 - **26 Jul** — Wild flax pull closes
+
+
 
 ## August
 
@@ -55,6 +67,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **1 Aug – 15 Sep** — **Wild fig P-12 optional** *(~650 m NW · extra lap if named — not required if Bed D picked)*
 - **1 Aug – 15 Sep** — **Goat browse trim inline** *(fig tips · Bed D fence · manger top-up @ fig/grape heroes · not a solo hunt)*
 - **18 Aug** — Woad leaf pull closes
+
+
 
 ## September
 
@@ -66,16 +80,19 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **~1 Dec** — **Acorn last tail lap** *(windfall OK · then hands off until next fall)*
 - **27 Sep** — Exped / cart trips close
 
+
+
 ## October
 
 - **12 Oct** — Donkey hunt closes
 - **15 Oct** — **Wild grape pick closes** *(leather · ferment · eat-now — before hard frost)*
 
+
+
 ## November
 
 - **1 Nov – 28 Feb** — **Grape winter prune band** *(P-03 @ T-2 · **GRAPE-PRUNE** hero · cordon/double-guyot · spur positions ~30–40 cm · tie new wood · **do not skip**)*
 - **Nov – Mar** — **Donkey winter care band** *(holding rug/blanket @ Mabel/Humphrey/Silas · scrape pad · TEAM-ROTATION-3 read · trace-rest rotate)*
-
 - **6 Nov** — Salt evap opens
 - **16 Nov** — **Olive pick · madder root dig season** *(P-02 fruit · Bed B + wild P-19 roots — not grape fruit)*
 - **20 Nov** — **Olive oil press window opens** *(P-02 fruit in · press build + first cold press · lamp/cooking runway · OIL-LAMP-OLIVE-1 class)*
@@ -85,6 +102,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **29 Nov** — Food prep day (shelf life sprint)
 - **~28 Nov – 15 Dec** — **Field flax pull (Bed B center / campus P-07 drill)** *(post grain+pulse · snap test · rett load — **second annual fiber lap** after Jun wild pull)*
 - **~20 Nov – 1 Dec** — **Farm-deadline buffer** *(block **Sep–Oct wild pistachio** before emmer/oil/salt crunch · **Bed D fig already in larder Aug–Sep**)*
+
+
 
 ## December
 
@@ -97,45 +116,57 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 ---
 
+
+
 ## Year-round *(low hero · high calorie)*
 
-| Cadence | What | Notes |
-|---------|------|-------|
-| **Daily** | Weir fish | Primary fresh protein |
-| **2×/week** | Snail collect *(A-02 · creek rocks)* | Bulk calories · brine 2–4 mo |
-| **Weekly** | Smoke / jerky top-up when weir surplus | Rack pool |
-| **As needed** | Grape vinegar mother refresh | Aug must season |
+
+| Cadence       | What                                   | Notes                        |
+| ------------- | -------------------------------------- | ---------------------------- |
+| **Daily**     | Weir fish                              | Primary fresh protein        |
+| **2×/week**   | Snail collect *(A-02 · creek rocks)*   | Bulk calories · brine 2–4 mo |
+| **Weekly**    | Smoke / jerky top-up when weir surplus | Rack pool                    |
+| **As needed** | Grape vinegar mother refresh           | Aug must season              |
+
 
 ---
 
+
+
 ## Vineyard — P-03 grape *(orchardizing · [CI-1](crop-selection-improvement-manual-1.md))*
 
-| When | Action |
-|------|--------|
-| **1 Aug – 15 Oct** | **Pick band** — partial strips OK · route eat-now / must / leather / vinegar · save **P-03-SEL-Y*n*** seed from sweetest clusters only |
-| **Mar – Apr** | **Cluster-thin @ fruit set** — drop overcrowded green bunches (~20–30%) before berries swell |
+
+| When               | Action                                                                                                                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 Aug – 15 Oct** | **Pick band** — partial strips OK · route eat-now / must / leather / vinegar · save **P-03-SEL-Y*n*** seed from sweetest clusters only                                                   |
+| **Mar – Apr**      | **Cluster-thin @ fruit set** — drop overcrowded green bunches (~20–30%) before berries swell                                                                                             |
 | **1 Nov – 28 Feb** | **GRAPE-PRUNE @ dormancy** — cordon or double-guyot · spur positions ~30–40 cm · cut crowded wood · tie new canes *( **highest yield/quality lever** · spring defer = crowded clusters)* |
-| **Each pick hero** | One **CI-1 observation row** · elite seed never mixes with field average |
-| **Optional** | Second trellis bay ~6 m · dormant cuttings from best vine · cap ~6–12 plants *(VINEYARD-Y6-SLATE)* |
+| **Each pick hero** | One **CI-1 observation row** · elite seed never mixes with field average                                                                                                                 |
+| **Optional**       | Second trellis bay ~6 m · dormant cuttings from best vine · cap ~6–12 plants *(VINEYARD-Y6-SLATE)*                                                                                       |
+
 
 **Not grape fruit:** Nov olive/madder band · wild P-12 fig optional Aug–Sep.
 
 ---
 
+
+
 ## Goats · donkeys · holding *(care ≠ hunt)*
 
-| When | Action |
-|------|--------|
-| **Weekly @ FARM-CARE** | **Goat pen scrape** lip · trough/feeder read · **browse top-up** (~7 d class @ home margin) |
-| **Monthly** | **Donkey hoof pick + body read** @ HOLDING-1 · holding scrape pad · **goat hoof/body** @ P-GOAT-1 |
-| **Each trail prep** | **TEAM-ROTATION-3** read · yoke rub · cart lash · Silas trace-rest slot |
-| **1 Aug – 15 Sep** | Fig browse trim → goat manger *(inline @ fig pick — not separate hero)* |
-| **Sep – Dec** | **Goat rut band** — billie #2 active · **separate pens if no planned breeding** · rut manage @ scare |
-| **Feb – Apr** | **Kidding / freshen window** — kidding stall · freshen watch · **milk/cheese blocked until post-freshen** |
-| **Nov – Mar** | **Donkey winter band** — rug/blanket @ holding · less shiver burn on cold wet nights |
-| **~18 Jan** | Annual holding walk + care-doc tick *(DONKEY-CARE-1 / GOAT-CARE-1 cross-ref)* |
-| **21 Dec band** | Yule animal treat *(browse margin · apiary)* |
-| **7 Sep – 12 Oct** | **Donkey hunt only** — wild recruit @ D-27 *( **not** daily holding care)* |
+
+| When                   | Action                                                                                                    |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Weekly @ FARM-CARE** | **Goat pen scrape** lip · trough/feeder read · **browse top-up** (~7 d class @ home margin)               |
+| **Monthly**            | **Donkey hoof pick + body read** @ HOLDING-1 · holding scrape pad · **goat hoof/body** @ P-GOAT-1         |
+| **Each trail prep**    | **TEAM-ROTATION-3** read · yoke rub · cart lash · Silas trace-rest slot                                   |
+| **1 Aug – 15 Sep**     | Fig browse trim → goat manger *(inline @ fig pick — not separate hero)*                                   |
+| **Sep – Dec**          | **Goat rut band** — billie #2 active · **separate pens if no planned breeding** · rut manage @ scare      |
+| **Feb – Apr**          | **Kidding / freshen window** — kidding stall · freshen watch · **milk/cheese blocked until post-freshen** |
+| **Nov – Mar**          | **Donkey winter band** — rug/blanket @ holding · less shiver burn on cold wet nights                      |
+| **~18 Jan**            | Annual holding walk + care-doc tick *(DONKEY-CARE-1 / GOAT-CARE-1 cross-ref)*                             |
+| **21 Dec band**        | Yule animal treat *(browse margin · apiary)*                                                              |
+| **7 Sep – 12 Oct**     | **Donkey hunt only** — wild recruit @ D-27 *( **not** daily holding care)*                                |
+
 
 **Breeding notes:** **Goats** — 1 doe + 1 billie @ pen · breed intentionally in rut or keep separated. **Donkeys** — established team (Mabel/Humphrey/Silas) · hunt window = **new** stock only · jenny cycle ~annual if breeding named.
 

@@ -2,37 +2,38 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 2837** · Cal-Y9 D58 · ~17 Feb · **Week 406 OPEN** · **HAUL-LIME-2837 ✓**
+**Day 2966** · Cal-Y9 D187 · ~26 Jun · **Week 424** · **ZN-PLATE-SPRINT ✓**
 
 | Track | Status |
 |-------|--------|
-| **PALISADE-2** | **✓ 97/97 m stage-2 cheek ring CLOSE · stage-3 defer** |
-| **Farm beds** | **Scratched ready · scare-only until sow** |
-| **EMMER-SOW-Y9** | **~114 g staged · B expand ~18 m²** |
-| **Barley trial** | **P-06 ~11 g staged · A south ~3 m²** |
-| **Frost gate** | **~d2846–2847 · sow ~26 Feb · ~9 d** |
-| **Pile 7 CaCO₃** | **~20.2 kg GREEN · ~2 cook bands** |
-| **Quicklime** | **~4.5 kg · cook when named** |
-| **Stone mat** | **FS ×5 · dress ~12 kg AMBER** |
+| **Zn plates** | **~22 spare @ VOLTAIC-RESERVE · partial 8-cell GO** |
+| **Cu plates** | **×10 gen-2 · wire ~14 m gen-2** |
+| **Voltaic** | **Partial 8-cell GO · vinegar v1 · acid = upgrade path** |
+| **Instruments** | **THERMOMETER-1 · BAROMETER-1 queued · Hg roast gate** |
+| **HCl** | **~40 ml · cassiterite wash GREEN** |
+| **Leather kits** | **Cut ✓ · mount defer fall** |
+| **BOOT-5** | **✓ trail primary** |
 
 ## Next
 
-**FROST-GATE-Y9 → SPRING-SOW-Y9 ~26 Feb · KILN-A-LIME when named**
+**Player names** — **voltaic partial build · Cu plate sprint · CINNABAR-ROAST-1 · cassiterite wash**
 
 ## Y9 musts *(player — do not miss)*
 
-1. **EMMER expand** — **✓ prepped · broadcast @ frost gate**
-2. **BARLEY sow** — **✓ strip staged · drill @ frost gate**
-3. **GRAIN-WILD-COLLECT** — **Jun** · P-04/P-06 plain ~200 m
+1. **EMMER expand** — **✓ sown d2848**
+2. **BARLEY sow** — **✓ trial strip sown d2848**
+3. **GRAIN-WILD-COLLECT** — **✓ d2944 · P-04/P-06 ~24 g**
 
 ## Agent reminders (player request d2312)
 
-- **Material gate:** **No stock · no time · no retcon magic = NO-GO**
-- **Metallurgy / chemistry:** **Real-life canon**
-- **Y9 grain musts:** **Flag @ FARM-CARE if spring/Jun windows approach without hero**
-- **CI-1 vineyard:** **Cluster-thin @ fruit set Mar–Apr · P-03-SEL-Y9 from best vine only**
-- **QUARTZ-PLATE-UPGRADE (d2815):** **Flag @ **Apr 1** quartz haul band — **SURFACE-PLATE-2** lap upgrade over D-rank SP-1**
+- **TIN:** **Sn ~1.18 kg @ tray · ore ~0.5 kg tail · HCl ✓**
+- **KOZAN-ORE-STOCKPILE-1** | **✓ field lee cleared d2925**
+- **CAP-RUNWAY:** **×5 @ safe**
+- **GHAB-STUB-1:** **Bitumen toe · lap-1 ✓ d2943 · ~15.1 kg pot · no south road push**
+- **FLUORITE-AKKAYA:** **Post Kozan-2 scout stub**
+- **P-03-SEL-Y9 (d2864):** **Best vine tagged @ harvest save band**
+- **INSTRUMENT-SLATE-2966:** **THERMOMETER-1 · BAROMETER-1 · after CINNABAR-ROAST-1**
 
 ## Do not treat as live
 
-[obsolete/schedule.md](obsolete/schedule.md) frozen ~Day 1540 · [obsolete/ladder.md](obsolete/ladder.md) frozen ~Day 1094 · [journal/index.md](journal/index.md) hub only — append to **Recent days**, do not load full tables
+[obsolete/schedule.md](obsolete/schedule.md) frozen ~Day 1540 · [obsolete/ladder.md](obsolete/ladder.md) frozen ~Day 1094 · [journal/index.md](journal/index.md) hub only — append to **Recent days**, do not append full tables

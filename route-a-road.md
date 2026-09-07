@@ -1,6 +1,6 @@
 # Route A — trail quality *(TRAIL-Q grammar)*
 
-*Last updated: **Day 2562** · **Cal-Y8 D136** · HOME · east Aleppo lap close · map sync*
+*Last updated: **Day 2941** · **Cal-Y9 D162** · HOME · pendulum clock LIVE · Ghab bitumen stub filed*
 
 **Local geography:** [map.md](map.md) (HOME · campus · local trails)  
 **Live crossings · kit @ HOME:** [inventory/bridges-and-trail.md](inventory/bridges-and-trail.md)  
@@ -34,7 +34,7 @@
 
 **West fork @ Kirikhan (Route A):** NNE string → **Asi cross ~18 km** → Afrin/Karasu → **Kirikhan split ~53 km** → Belen → **Alexandria ~85 km** → Issus/Erzin coast → **The Castle ~142 km** → Ceyhan **~170 km** → **Kozan north ~220 km** (tin verified).
 
-**East fork @ Asi (Aleppo Road):** After **ASI-ORONTES-1**, branch **E on north bank** — **AM-EAST-01 ~18 km · AM-EAST-02 ~20 km** *(d2558–2560 · kaolin SC-KAOLIN-01 · lap close d2561)*. Horizons: Afrin · Aleppo/Beroea · horse scout.
+**East fork @ Asi (Aleppo Road):** After **ASI-ORONTES-1**, branch **E on north bank** — **AM-EAST-01 ~18 km · AM-EAST-02 ~20 km · AM-EAST-05 ~32 km** *(d2936–2937 · **AM-ALEPPO-SPUR-1** · TQ ~3.47)*. **GHAB-STUB-1** ~2.5 km **S** of east toe @ Orontes margin — **bitumen deposit core** *(stub only · no south road)*. Horizons: Afrin · Aleppo/Beroea · horse scout.
 
 **Ceyhan splits:** **North** = Cappadocian Road → Kozan/tuff · **West** = Phrygian Road → Adana/Tarsus → ore slopes.
 
@@ -49,7 +49,7 @@
 | **Erzin** | — | **~132** | Lap-5 terminus west |
 | **The Castle** | Toprakkale terrace | **~142** | Rejoin · hill only @ 10k BC |
 | **Ceyhan** | — | **~170** | River cross · Phrygian/Cappadocian split |
-| **Kozan** | Cataonia class | **~220** | Tin scout camp · CAP-0 end |
+| **Kozan** | Cataonia class | **~220** | Tin scout camp · CAP-0 end · **Akkaya fluorite (M-13) horizon N · ~1 d mountain stub post-gate** |
 | **Aleppo** *(horizon)* | *Beroea* | **Aleppo Road** | Eastern trade node |
 
 ## TRAIL-Q scale *(per leg · 0–5)*

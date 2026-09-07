@@ -4,8 +4,8 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-BUILD-EXPED-5-CLOSE-2681 · empty column ~24 kg class**
-- **×0 cap @ cart** *(×0 @ HOME safe · cap spent d2679 @ L9 pinch)*
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-EAST-ALEPPO-GHAB-EXPED-1-CLOSE-2940 · ~30 kg empty**
+- **×5 cap @ HOME powder safe** *(×1 spent D3 · ×3 returned D6)*
 - **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
 - **EXPED-CARRY-KIT-1 @ wagon peg**
 - **TRAIL-MAINT-SLICE partial @ bench + mid-forward + cart mid-forward**
@@ -22,12 +22,12 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | KARASU-TRIB-01 | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1+2 **LIVE ✓** · cure read d2252 · knee @ both pads** |
 | ASI-ORONTES-1 | **~3.5** | **REBUILD CLOSE d2642 · concrete abuts + deck · oak demounted · foot + loaded wagon PASS d2652 · deck cured** |
 | AFRIN-1 | **~3.5** | **~10 m · site B · concrete abut d1967 · touch d2243 · ~2 mm · site A ford defer** |
-| KIRIKHAN-APPROACH-1 | **~2.0** | **~53 km · pozz wings d2319 · ~2 mm · hands off** |
+| KIRIKHAN-APPROACH-1 | **~2.0** | **~53 km · pozz wings d2319 · **POZZ-KIT-11 upstream cheek d2896** · ~2 mm · cure 7 d** |
 | ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 · reinforced · listen PASS d2320 |
 | PINARUS-1 | **~3.5** | **~12 m · reinforced d1551 · **POZZ-KIT-10 wing d2679** · ~2 mm · scour GREEN** |
 | PAYAS-APPROACH-1 | **~2.0** | **~103 km · **POZZ-KIT-8 wing d2611** · ~2 mm · cure 7 d hands off** |
 | DORTYOL-APPROACH-1 | **~3.5** | **~117 km · reinforced d1564 · listen PASS d2329** |
-| ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · lap-5 terminus** |
+| ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · **POZZ-KIT-12 upstream cheek d2908** · ~2 mm · cure 7 d** |
 | **L6 crown** | **—** | **~88 km avian · BLAST-PINCH-5 d2328 · TQ ~3.0 · dressed** |
 | **L7 crown** | **—** | **~110 km avian · BLAST-PINCH-6 d2329 · TQ ~2.9 · dressed d2609** |
 | **L8 crown** | **—** | **~74 km avian · BLAST-PINCH-7 d2330 · TQ ~3.0 · dressed d2609** |
@@ -42,9 +42,12 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | **AM-GRAVEL-EAST-03** | **—** | **~24 km E of Asi cross · bar train d2587–2652 · **~146 kg prior + re-dress d2651** · face CLOSE · TQ ~3.44** |
 | **AM-EAST-04** | **—** | **~28 km E of Asi cross · scout d2648 · gravel train d2649–2652 · TQ ~3.45 · stake LIVE** |
 | **AM-GRAVEL-EAST-04** | **—** | **~28 km E of Asi cross · bar train d2649–2652 · **~170 kg exped-3 band** · face CLOSE · veg fringe cleared** |
+| **AM-EAST-05** | **—** | **~32 km E of Asi cross · scout d2936 · **AM-ALEPPO-SPUR-1** finger stake · TQ **~3.47** · gravel train d2937** |
+| **AM-GRAVEL-EAST-05** | **—** | **~32 km E · bar train d2937 · **~38 kg** deploy · BLAST-PINCH-AM-EAST-05 ×1 cap** |
+| **GHAB-STUB-1** | **—** | **~2.5 km S of east string toe @ Orontes margin · **bitumen deposit core** · **BITUMEN-GHAB-COLLECT-LAP-1 ✓ d2943** · no south road push** |
 | **AM-ERZIN-CEYHAN-01** | **—** | **Erzin–Ceyhan midpoint · bar train d2664–2669 · **~200 kg exped-4** · TQ ~3.2 · **ASPHALT-FIELD-1** foot read GREEN d2694 · scale-up defer** |
 | **BLAST-PINCH-BELEN-ASCENT-2662** | **—** | **L7 steep terrace · cap A spent · dressed** |
-| **BLAST-PINCH-EC-01-2667** | **—** | **EC midpoint inside bend · cap B spent · dressed LIVE** |
+| **BLAST-PINCH-EC-01-2667** | **—** | **EC midpoint inside bend · **cap B spent d2908** · dressed LIVE** |
 | **L5 crown** | **—** | **~72 km avian · BLAST-PINCH-4 d2320 · TQ ~3.1 · dressed** |
 
 ## Caches · waystations
@@ -55,8 +58,8 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 - TRAIL-WAYSTATION-BELEN-1 · TRAIL-WAYSTATION-KOZAN-1 (corral · field kiln · cart kit · **food cache RED d2664/2666**)
 - Coast: COAST-BEACON-1 + M-spike #2 · M-spike #1 @ ~8 km W · **COAST-TRAIL MAINT-1/2 d2596/2599 · km ~9–14 band improved**
 - **FELDSPAR-FACE-W-1** @ SW coast bench ~28 km W of HOME · cairn + stake · scout chip HOME · haul AMBER defer
-- D-27 unattended: 80 m rope corral + short pen + lead + stakes ×8
+- D-27 corral **struck d2945** — rope ~72 m @ cart peg · stakes ×6
 
 ## Kozan field (left live)
 
-- KOZAN-FIELD-KILN-1 @ north lee · CART-KIT-KOZAN-1 sealed · hut wythe partial
+- KOZAN-FIELD-KILN-1 @ north lee · CART-KIT-KOZAN-1 sealed · hut wythe partial · **KOZAN-ORE-STOCKPILE-1 cleared d2925**
