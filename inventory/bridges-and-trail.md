@@ -4,7 +4,7 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-EAST-ALEPPO-GHAB-EXPED-1-CLOSE-2940 · ~30 kg empty**
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-BELEN-ERZIN-EXPED-2-CLOSE-2998 · ~30 kg empty**
 - **×5 cap @ HOME powder safe** *(×1 spent D3 · ×3 returned D6)*
 - **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
 - **EXPED-CARRY-KIT-1 @ wagon peg**
@@ -31,7 +31,7 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | **L6 crown** | **—** | **~88 km avian · BLAST-PINCH-5 d2328 · TQ ~3.0 · dressed** |
 | **L7 crown** | **—** | **~110 km avian · BLAST-PINCH-6 d2329 · TQ ~2.9 · dressed d2609** |
 | **L8 crown** | **—** | **~74 km avian · BLAST-PINCH-7 d2330 · TQ ~3.0 · dressed d2609** |
-| **L9 crown** | **—** | **~PINARUS band · BLAST-PINCH-8 d2610 + **BLAST-PINCH-L9-01 d2679** · TQ **~2.85** · hydro d2678** |
+| **L9 crown** | **—** | **~PINARUS band · BLAST-PINCH-8 + L9-01 + **BLAST-PINCH-L9-2993** · TQ **~2.4** post d2993 dress** |
 | **BLAST-PINCH-L9-01-2679** | **—** | **Inside bend bedrock · cap spent · dressed LIVE** |
 | **PINARUS-POZZ-10-2679** | **—** | **Upstream cheek + flood train · REFILL-18 apron · ~2 mm post** |
 | CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |

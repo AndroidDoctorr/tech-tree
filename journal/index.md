@@ -15,12 +15,39 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 2966)* |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 3000)* |
 
-## Recent days *(append here · @ Day 2966)*
+## Recent days *(append here · @ Day 3000)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3000 | [day-3000.md](days/year-009/week-429/day-3000.md) | **VOLTAIC-8-CELL ✓ · D3000** | **Cal-Y9 D221 · 30 Jul** |
+| 2997 | [day-2997.md](days/year-009/week-429/day-2997.md) | **WEEK-429-OPEN · D7 return** | **Cal-Y9 D218 · 27 Jul** |
+| 2996 | [day-2996.md](days/year-009/week-428/day-2996.md) | **D6 turn · WEEK-428-CLOSE** | **Cal-Y9 D217 · 26 Jul** |
+| 2995 | [day-2995.md](days/year-009/week-428/day-2995.md) | **D5 L12 Erzin WORK ✓** | **Cal-Y9 D216 · 25 Jul** |
+| 2994 | [day-2994.md](days/year-009/week-428/day-2994.md) | **D4 L10–L11 Issus ✓** | **Cal-Y9 D215 · 24 Jul** |
+| 2993 | [day-2993.md](days/year-009/week-428/day-2993.md) | **D3 L9 BLAST ✓** | **Cal-Y9 D214 · 23 Jul** |
+| 2992 | [day-2992.md](days/year-009/week-428/day-2992.md) | **D2 Erzin · rett pull** | **Cal-Y9 D213 · 22 Jul** |
+| 2991 | [day-2991.md](days/year-009/week-428/day-2991.md) | **EXPED-2 D1 · Belen** | **Cal-Y9 D212 · 21 Jul** |
+| 2986 | [day-2986.md](days/year-009/week-427/day-2986.md) | **CU-PLATE D2 ✓ · ×46** | **Cal-Y9 D207 · 16 Jul** |
+| 2985 | [day-2985.md](days/year-009/week-427/day-2985.md) | **CU-SMELT ✓ · CU-PLATE D1 ✓** | **Cal-Y9 D206 · 15 Jul** |
+| 2984 | [day-2984.md](days/year-009/week-427/day-2984.md) | **WOAD-LEAF-Y9-1 ✓** | **Cal-Y9 D205 · 14 Jul** |
+| 2983 | [day-2983.md](days/year-009/week-427/day-2983.md) | **WEEK-427-OPEN · WILD-FLAX L3 ✓** | **Cal-Y9 D204 · 13 Jul** |
+| 2981 | [day-2981.md](days/year-009/week-426/day-2981.md) | **MALACHITE-HAUL ✓ · O-1 restock** | **Cal-Y9 D202 · 11 Jul** |
+| 2980 | [day-2980.md](days/year-009/week-426/day-2980.md) | **CU-PLATE NO-GO · sprint stop** | **Cal-Y9 D201 · 10 Jul** |
+| 2979 | [day-2979.md](days/year-009/week-426/day-2979.md) | **ZN-PLATE D6 ✓ · bank ~42** | **Cal-Y9 D200 · 9 Jul** |
+| 2978 | [day-2978.md](days/year-009/week-426/day-2978.md) | **RETT-PULL ✓ · ZN-PLATE D5 ✓** | **Cal-Y9 D199 · 8 Jul** |
+| 2977 | [day-2977.md](days/year-009/week-426/day-2977.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓** | **Cal-Y9 D198 · 7 Jul** |
+| 2976 | [day-2976.md](days/year-009/week-426/day-2976.md) | **WEEK-426-OPEN · Cu D3 · power read** | **Cal-Y9 D197 · 6 Jul** |
+| 2975 | [day-2975.md](days/year-009/week-425/day-2975.md) | **ZN-PLATE-SPRINT D4 ✓** | **Cal-Y9 D196 · 5 Jul** |
+| 2974 | [day-2974.md](days/year-009/week-425/day-2974.md) | **ZN-PLATE-SPRINT D3 ✓** | **Cal-Y9 D195 · 4 Jul** |
+| 2973 | [day-2973.md](days/year-009/week-425/day-2973.md) | **ZN-PLATE-SPRINT ✓ · plate bank read** | **Cal-Y9 D194 · 3 Jul** |
+| 2972 | [day-2972.md](days/year-009/week-425/day-2972.md) | **ZN-PLATE-SPRINT D1 ✓** | **Cal-Y9 D193 · 2 Jul** |
+| 2971 | [day-2971.md](days/year-009/week-425/day-2971.md) | **CU-PLATE-SPRINT D2 ✓ · ×28** | **Cal-Y9 D192 · 1 Jul** |
+| 2970 | [day-2970.md](days/year-009/week-425/day-2970.md) | **CU-PLATE-SPRINT D1 ✓** | **Cal-Y9 D191 · 30 Jun** |
+| 2969 | [day-2969.md](days/year-009/week-425/day-2969.md) | **WEEK-425-OPEN · wood · retort** | **Cal-Y9 D190 · 29 Jun** |
+| 2968 | [day-2968.md](days/year-009/week-424/day-2968.md) | **WILD-FLAX L1 ✓ · flax trough load** | **Cal-Y9 D189 · 28 Jun** |
+| 2967 | [day-2967.md](days/year-009/week-424/day-2967.md) | **CU-PLATE-SPRINT ✓ · vinegar test** | **Cal-Y9 D188 · 27 Jun** |
 | 2966 | [day-2966.md](days/year-009/week-424/day-2966.md) | **ZN-PLATE-SPRINT ✓ · instrument slate** | **Cal-Y9 D187 · 26 Jun** |
 | 2965 | [day-2965.md](days/year-009/week-424/day-2965.md) | **CU-WIRE-GEN2 ✓ · battery read** | **Cal-Y9 D186 · 25 Jun** |
 | 2964 | [day-2964.md](days/year-009/week-424/day-2964.md) | **LEATHER-CUT ✓ · allocation CLOSE** | **Cal-Y9 D185 · 24 Jun** |
