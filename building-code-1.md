@@ -154,4 +154,53 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 ---
 
-*BC-1 filed Day 1759 · retrofit before expand.*
+## Campus operations *(BC-1-CAMPUS-OPS · filed Day 3020 · Cal-Y9)*
+
+**Intent:** Campus **routine** work matches **current infra** — not pioneer-era defaults.
+
+### Fuel
+
+| Rule | Standard |
+|------|----------|
+| **Primary** | **CHAR-RETORT-1 @ pit lane north berm** — retort ×3 grammar · lane bank |
+| **Pit char** | **✗ routine** · **LAST RESORT only** — retort down · emergency draw · documented exception |
+| **Lane floor** | **Maintain ~35 kg GREEN minimum** before hero burns · haul pre-retort when pile 5 thin |
+
+### Fiber rett
+
+| Rule | Standard |
+|------|----------|
+| **Primary** | **RETT-TROUGH-FLAX-1 (N)** · **RETT-TROUGH-HEMP-1 (S)** @ ditch W — clay-pitch lined · drain plug · rinse branch |
+| **Ditch mud pool** | **✗ routine** · **overflow/defer only** — dual trough full · emergency parallel |
+| **Load grammar** | **One bundle per trough max until habit** · tag day count @ south face |
+
+### Tools & metal
+
+| Rule | Standard |
+|------|----------|
+| **Campus routine** | **Iron · bronze · steel** — forge + bench stock |
+| **Retired @ routine** | **Stone tools · unrefined/native copper @ belt** — trail museum or archive · not daily campus |
+| **Copper path** | **Electrolytic / drawn wire / cast brass** for live work · **CU backup = museum not primary** |
+| **Worn default** | **Steel kitchen knife · iron/steel edge tools** — see [inventory/tools-lab.md](inventory/tools-lab.md) |
+
+### Fasteners *(draft · IRON-NAIL-GAUGE-SLATE-3020)*
+
+| Class | Target gauge *(iron wire Ø)* | Use |
+|-------|------------------------------|-----|
+| **FINE** | **~2.0 mm** | **Hinges · cabinet · instrument pegs** |
+| **STANDARD** | **~2.8 mm** | **Frame · crate · general carpentry** |
+| **HEAVY** | **~3.6 mm** | **Cart · door · structural lash tabs** |
+
+**Status:** **Slate filed · full BC-1 nail spec = named hero** *(drawplate lane + peg gauge board live)*.
+
+### History museum *(HISTORY-MUSEUM-SLATE-3020)*
+
+| Rule | Standard |
+|------|----------|
+| **Intent** | **Archive pioneer gear** — label · display · **do not melt · do not routine-use** |
+| **Candidates** | **CU-KNIFE · stone scrapers · pit-char tongs · early copper blanks · trail chert** |
+| **Site** | **Storage wing east margin upper shelf corner** — **HISTORY-MUSEUM-CORNER-1** · label peg · not a dedicated room |
+
+---
+
+*BC-1 filed Day 1759 · retrofit before expand · campus ops Day 3020.*

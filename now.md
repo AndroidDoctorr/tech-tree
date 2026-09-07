@@ -2,34 +2,29 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3000** · Cal-Y9 D221 · ~30 Jul · **Week 429** · **VOLTAIC-8-CELL LIVE ✓**
+**Day 3021** · Cal-Y9 D242 · ~20 Aug · **Week 432** · **PRUSSIAN-BLUE ✓ ARC CLOSE**
 
 | Track | Status |
 |-------|--------|
-| **Voltaic** | **VOLTAIC-8-CELL-1 LIVE · ~7.2 V · ×8 Cu/Zn in tray · ×38/~40 spare** |
-| **Wire** | **WIRE-CU-GEN2-1 ~11 m** |
-| **Farm** | **Fig C1–C4 · Aug 1 band ~2 d** |
-| **Flax** | **Line ~306 g · trough empty** |
-| **Woad** | **~238 g dry reserve** |
+| **Prussian blue** | **~24 g pigment LIVE · swatch PASS · arc CLOSE** |
+| **Farm fiber** | **P-RETT-26 day ~1 @ RETT-TROUGH-HEMP-1 · pull ~d3030–3034** |
+| **Campus standards** | **BC-1-CAMPUS-OPS · museum = storage wing corner** |
+| **Cold storage** | **COLD-CELLAR-FAN-1 LIVE · ice ~82 kg · fan extends runway** |
+| **Thermometers** | **#1 portable 0–100 · #2 kiln ~100–350 °C** |
+| **Mercury** | **~118 g bank · ~21 g in instruments** |
+| **Grape** | **Must ~2.35 L @ BARREL-4** |
+| **Voltaic** | **VOLTAIC-8-CELL-1 LIVE** |
 | **BOOT-5** | **✓ trail primary** |
 
 ## Next
 
-**Player names** — **fig pick · tray tune · Aleppo #2?**
-
-## Y9 musts *(player — do not miss)*
-
-1. **EMMER expand** — **✓ sown d2848**
-2. **BARLEY sow** — **✓ trial strip sown d2848**
-3. **GRAIN-WILD-COLLECT** — **✓ d2944 · P-04/P-06 ~24 g**
+**Player names** — **museum mounts · nail gauge · grape tail · coat dye**
 
 ## Agent reminders (player request d2312)
 
-- **FIG C1–C4:** **Aug 1–Sep 15 · ~2 d**
-- **P-03 grape:** **Aug 1–Oct 15**
-- **VOLTAIC-8-CELL-1:** **Maintain electrolyte · polarisation refresh**
-- **MAGNET-BOOTSTRAP-VOLTAIC:** **Bias helps · not stack replacement**
-- **INSTRUMENT-SLATE-2966:** **After CINNABAR-ROAST-1**
+- **THERMOMETER-1:** **Roving — cellar / porch / chem peg**
+- **THERMOMETER-2-KILN:** **KILN-D holder primary**
+- **THERM-HOLDER-OAT-2:** **Optional exterior post later**
 
 ## Do not treat as live
 

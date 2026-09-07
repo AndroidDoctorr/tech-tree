@@ -36,4 +36,4 @@ Wagon + cart + yoke + crane @ barn · travois @ pile 9 · **BOW-2 ✓ ~70 lb @ b
 
 ## Copper retired / backup
 
-CU-HOE-1 backup · CU-SAW · CU-CHISEL · CU-KNIFE on belt · needle · awl
+CU-HOE-1 backup · CU-SAW · CU-CHISEL · **CU-KNIFE @ museum queue** · needle · awl
