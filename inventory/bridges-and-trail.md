@@ -1,11 +1,11 @@
-# Bridges and trail *(live crossing canon @ Day 2681)*
+# Bridges and trail *(live crossing canon @ Day 3030)*
 
 Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../route-a-road.md). Spent RESERVE/FILL 1–15 and closed columns are in [archive-pre-split-1775.md](archive-pre-split-1775.md).
 
 ## Spare @ HOME
 
-- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-BELEN-ERZIN-EXPED-2-CLOSE-2998 · ~30 kg empty**
-- **×5 cap @ HOME powder safe** *(×1 spent D3 · ×3 returned D6)*
+- **WHEEL-CART-1 @ CART-YARD** — **TRAIL-BELEN-ERZIN-EXPED-3-CLOSE-3030 · ~30 kg empty**
+- **×4 cap @ HOME powder safe** *(exped-3 ×0 spent)*
 - **TENT-2 nested @ cart forward band · TENT-1 backup @ WW-YARD**
 - **EXPED-CARRY-KIT-1 @ wagon peg**
 - **TRAIL-MAINT-SLICE partial @ bench + mid-forward + cart mid-forward**
@@ -24,14 +24,14 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 | AFRIN-1 | **~3.5** | **~10 m · site B · concrete abut d1967 · touch d2243 · ~2 mm · site A ford defer** |
 | KIRIKHAN-APPROACH-1 | **~2.0** | **~53 km · pozz wings d2319 · **POZZ-KIT-11 upstream cheek d2896** · ~2 mm · cure 7 d** |
 | ISK-APPROACH-1 | **~3.5** | ~13 m · d1406 · reinforced · listen PASS d2320 |
-| PINARUS-1 | **~3.5** | **~12 m · reinforced d1551 · **POZZ-KIT-10 wing d2679** · ~2 mm · scour GREEN** |
+| PINARUS-1 | **~3.5** | **~12 m · reinforced d1551 · **POZZ-KIT-10 wing d2679** + **POZZ-KIT-14 wing skim d3025** · ~2 mm · scour train + asphalt trial strip d3027** |
 | PAYAS-APPROACH-1 | **~2.0** | **~103 km · **POZZ-KIT-8 wing d2611** · ~2 mm · cure 7 d hands off** |
 | DORTYOL-APPROACH-1 | **~3.5** | **~117 km · reinforced d1564 · listen PASS d2329** |
-| ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · **POZZ-KIT-12 upstream cheek d2908** · ~2 mm · cure 7 d** |
+| ERZIN-APPROACH-1 | **~3.5** | **~132 km · reinforced d1544 · **POZZ-KIT-12 upstream cheek d2908** + **POZZ-KIT-14 scour cheek d3027** · ~2 mm · cure 7 d** |
 | **L6 crown** | **—** | **~88 km avian · BLAST-PINCH-5 d2328 · TQ ~3.0 · dressed** |
 | **L7 crown** | **—** | **~110 km avian · BLAST-PINCH-6 d2329 · TQ ~2.9 · dressed d2609** |
 | **L8 crown** | **—** | **~74 km avian · BLAST-PINCH-7 d2330 · TQ ~3.0 · dressed d2609** |
-| **L9 crown** | **—** | **~PINARUS band · BLAST-PINCH-8 + L9-01 + **BLAST-PINCH-L9-2993** · TQ **~2.4** post d2993 dress** |
+| **L9 crown** | **—** | **~PINARUS band · BLAST-PINCH-L9-2993 · TL apron d3025 · TQ **~2.5** class · asphalt trial d3027** |
 | **BLAST-PINCH-L9-01-2679** | **—** | **Inside bend bedrock · cap spent · dressed LIVE** |
 | **PINARUS-POZZ-10-2679** | **—** | **Upstream cheek + flood train · REFILL-18 apron · ~2 mm post** |
 | CEYHAN-APPROACH-1 | **~3.5** | ~13 m · reinforced d1462 |

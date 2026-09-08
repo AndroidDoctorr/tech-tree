@@ -2,30 +2,23 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3021** · Cal-Y9 D242 · ~20 Aug · **Week 432** · **PRUSSIAN-BLUE ✓ ARC CLOSE**
+**Day 3094** · Cal-Y9 D315 · ~1 Nov · **Week 443 opens** · **Norima PAUSED ~92%**
 
 | Track | Status |
 |-------|--------|
-| **Prussian blue** | **~24 g pigment LIVE · swatch PASS · arc CLOSE** |
-| **Farm fiber** | **P-RETT-26 day ~1 @ RETT-TROUGH-HEMP-1 · pull ~d3030–3034** |
-| **Campus standards** | **BC-1-CAMPUS-OPS · museum = storage wing corner** |
-| **Cold storage** | **COLD-CELLAR-FAN-1 LIVE · ice ~82 kg · fan extends runway** |
-| **Thermometers** | **#1 portable 0–100 · #2 kiln ~100–350 °C** |
-| **Mercury** | **~118 g bank · ~21 g in instruments** |
-| **Grape** | **Must ~2.35 L @ BARREL-4** |
-| **Voltaic** | **VOLTAIC-8-CELL-1 LIVE** |
-| **BOOT-5** | **✓ trail primary** |
+| **Norima** *(WAGON-V2)* | **✓ shell **PAUSED** · default hauler · **WAGON-REAR-HITCH-1** · no canvas · ~92%** |
+| **Harvest** | **Bed B emmer ~18 m² + lentil ~8 m² standing · cut **~27–28 Nov**** |
+| **COVERED-WAGON-1** | **✓ museum/train @ south · roadworthy** |
 
 ## Next
 
-**Player names** — **museum mounts · nail gauge · grape tail · coat dye**
+**HARVEST-PREP-Y9** → **YELLOW-GO-READ** → **EMMER-HARVEST (~27 Nov)** → **PULSE-HARVEST (~28 Nov)**
 
-## Agent reminders (player request d2312)
+## Agent reminders
 
-- **THERMOMETER-1:** **Roving — cellar / porch / chem peg**
-- **THERMOMETER-2-KILN:** **KILN-D holder primary**
-- **THERM-HOLDER-OAT-2:** **Optional exterior post later**
+- **NORIMA:** **PAUSED post-hitch · canvas/stain/Yule after harvest band**
+- **FARM:** **Emmer/lentil standing · scare flags harvest prep**
 
 ## Do not treat as live
 
-[obsolete/schedule.md](obsolete/schedule.md) frozen ~Day 1540 · [obsolete/ladder.md](obsolete/ladder.md) frozen ~Day 1094 · [journal/index.md](journal/index.md) hub only — append to **Recent days**, do not append full tables
+[obsolete/schedule.md](obsolete/schedule.md) · [obsolete/ladder.md](obsolete/ladder.md) · [journal/index.md](journal/index.md) hub only

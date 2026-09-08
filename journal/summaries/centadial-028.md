@@ -188,4 +188,4 @@ Centadial 28 is the century of **kitchens and closures**: the culina sprint (wee
 
 ---
 
-*Previous: [centadial-027.md](centadial-027.md) · Next: [centadial-029.md](centadial-029.md) at Day 2900 · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*
+*Previous: [centadial-027.md](centadial-027.md) · Next: [centadial-029.md](centadial-029.md) · Milladial: [milladial-002.md](milladial-002.md) · Daily index: [index.md](../index.md)*

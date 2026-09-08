@@ -162,7 +162,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 | Rule | Standard |
 |------|----------|
-| **Primary** | **CHAR-RETORT-1 @ pit lane north berm** — retort ×3 grammar · lane bank |
+| **Primary** | **CHAR-RETORT-TWIN-CELL-1 @ cells C/D — parallel retort ×3 grammar · lane bank · shared wall** |
 | **Pit char** | **✗ routine** · **LAST RESORT only** — retort down · emergency draw · documented exception |
 | **Lane floor** | **Maintain ~35 kg GREEN minimum** before hero burns · haul pre-retort when pile 5 thin |
 
