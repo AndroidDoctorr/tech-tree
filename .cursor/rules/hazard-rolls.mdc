@@ -41,7 +41,7 @@ On each trigger in the matrix:
 | **Loaded team pull / haul** | **CART-WHEEL-MISHAP** · **WAGON-HUB-BIND** with wear modifier |
 | **Forge hero** | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |
 | **Trail / climb / forage hero** | **PLAYER-FALL-INJURY** · poison rows if relevant |
-| **Hero-day end** | **mishap_pool +1** · **MISHAP-POOL-POP** if pool ≥ 8 |
+| **Hero-day end** | **Genuine risk only** — see hazards.md mishap doctrine | **MISHAP-POOL-POP** if pool **≥ 8** after qualifying hero |
 
 ## Do not
 
@@ -49,6 +49,7 @@ On each trigger in the matrix:
 - Roll **player disease** or **player aging** — blocked per hazards.md immunity table.
 - Override **player-calendar.md** gates with hazard outcomes.
 - Skip logging when a trigger fired (audit trail).
+- Tick **mishap_pool** or roll **MISHAP-POOL-POP** on routine campus days — see hazards.md **Mishap pool doctrine**.
 
 ## Farm scare stack
 

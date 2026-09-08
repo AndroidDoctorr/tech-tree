@@ -73,8 +73,21 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **doe_bred_this_rut** | **no** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
 | **Norima wear** | **11** | Wagon v2 · default hauler |
-| **mishap_pool** | **3** | +1 per hero-day · pop roll when **≥ 8** |
-| **last_hazard_audit** | **—** | Last day any hazard HIT logged |
+| **mishap_pool** | **0** | **Reset d3118** · player doctrine: no tick on routine campus work |
+| **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
+
+### Mishap pool doctrine *(player @ d3118)*
+
+| Rule | Value |
+|------|-------|
+| **Philosophy** | Hazards = **real triggers** (weather, wear, rut, forge, loaded trail) — **not** D&D crit-fail or forced “something happens” |
+| **Pool tick** | **+1** only after **genuine risk** heroes: loaded expedition miles, novel/rushed build, forge under stress, trail/climb miles-out, first-run dangerous gear |
+| **No tick** | Farm scare · porch salt · retort · small haul · proven press · madder dig · clay to pile 1 · kiln fire on known grammar |
+| **POP roll** | Only when pool **≥ 8** after a **qualifying** hero · base thr **35M** (~3.5% on pop day) — still deterministic, still rare at source |
+| **Targeted mishaps** | e.g. drop amphora = roll only if player names rush/carry hero at height or trail — not automatic on oil press close |
+| **Wear on routine** | **Yes** — old hammer / worn tongs / high cart wear during **routine** work uses **wear-modified** catalog rows (e.g. **FORGE-TONGS-SLIP**, **CART-WHEEL-MISHAP**) — failure rises with condition, not with a fake “drama counter” |
+
+---
 
 ### Rut tension ticks *(agent duty @ year boundary or rut open)*
 
@@ -100,8 +113,10 @@ Cap **rut_tension** at **95**.
 | **Forge hero** | Tool condition | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |
 | **Trail / climb / loft hero** | — | **PLAYER-FALL-INJURY** · **PLAYER-POISON-MISID** |
 | **Forage / shellfish hero** | — | **PLAYER-FOOD-POISON** |
-| **Hero-day close** | — | **mishap_pool +1** · if **≥ 8** → **MISHAP-POOL-POP** |
+| **Genuine risk hero close** | See **Mishap pool doctrine** | **MISHAP-POOL-POP** only if pool **≥ 8** after a qualifying hero |
 | **Passive daily** | — | **TORNADO-DAILY** · **QUAKE-DAILY** *(index 0 only)* |
+
+**Do not** tick **mishap_pool** on routine home-campus days (farm scare, porch scrape, retort, small haul, press when frame is proven, madder dig, clay haul to pile 1). Roll **targeted** catalog hazards only when the trigger row fires — not a forced “something happens” counter.
 
 Skip rolls on explicit player **no-touch** expedition miles unless trigger is **weather** or **passive daily**.
 

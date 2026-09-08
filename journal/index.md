@@ -6,10 +6,43 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3094)*
+## Recent days *(append here · @ Day 3127)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3127 | [day-3127.md](days/year-009/week-447/day-3127.md) | **PYRITE spark ✓ · FK-1 v2** | **Cal-Y9 D348 · 4 Dec** |
+| 3126 | [day-3126.md](days/year-009/week-447/day-3126.md) | **OIL decant ✓ · Y9 cook unlock** | **Cal-Y9 D347 · 3 Dec** |
+| 3125 | [day-3125.md](days/year-009/week-447/day-3125.md) | **FIELD flax pull ✓ · P-RETT-27** | **Cal-Y9 D346 · 2 Dec** |
+| 3124 | [day-3124.md](days/year-009/week-447/day-3124.md) | **SHELF-LIFE sprint ✓ · stew · smoke** | **Cal-Y9 D345 · 1 Dec** |
+| 3123 | [day-3123.md](days/year-009/week-447/day-3123.md) | **WEEK-447-OPEN · shelf-life D1** | **Cal-Y9 D344 · 30 Nov** |
+| 3122 | [day-3122.md](days/year-009/week-446/day-3122.md) | **PULSE harvest ✓ · block CLOSE** | **Cal-Y9 D343 · 29 Nov** |
+| 3121 | [day-3121.md](days/year-009/week-446/day-3121.md) | **EMMER harvest ✓** | **Cal-Y9 D342 · 28 Nov** |
+| 3120 | [day-3120.md](days/year-009/week-446/day-3120.md) | **EMMER GO read ✓ · harvest block** | **Cal-Y9 D341 · 27 Nov** |
+| 3119 | [day-3119.md](days/year-009/week-446/day-3119.md) | **CHAR-RESTOCK ×3 · lane ~35 kg** | **Cal-Y9 D340 · 26 Nov** |
+| 3118 | [day-3118.md](days/year-009/week-446/day-3118.md) | **WOOD-HAUL · CHAR-RETORT ✓** | **Cal-Y9 D339 · 25 Nov** |
+| 3117 | [day-3117.md](days/year-009/week-446/day-3117.md) | **P-02-PRESS-Y9-1 ✓ · ~2.2 L** | **Cal-Y9 D338 · 24 Nov** |
+| 3116 | [day-3116.md](days/year-009/week-446/day-3116.md) | **WEEK-446 · MADDER-DIG ✓** | **Cal-Y9 D337 · 23 Nov** |
+| 3115 | [day-3115.md](days/year-009/week-445/day-3115.md) | **SALT scrape ✓ · GB-FIRE 67/72** | **Cal-Y9 D336 · 22 Nov** |
+| 3114 | [day-3114.md](days/year-009/week-445/day-3114.md) | **OLIVE-PICK-Y9-3 ✓ · press staged** | **Cal-Y9 D335 · 21 Nov** |
+| 3113 | [day-3113.md](days/year-009/week-445/day-3113.md) | **OLIVE-PICK-Y9-2 ✓ · GB touch** | **Cal-Y9 D334 · 20 Nov** |
+| 3112 | [day-3112.md](days/year-009/week-445/day-3112.md) | **OLIVE-PICK-Y9-1 ✓** | **Cal-Y9 D333 · 19 Nov** |
+| 3111 | [day-3111.md](days/year-009/week-445/day-3111.md) | **HAUL-CLAY ✓ · tile Q** | **Cal-Y9 D332 · 18 Nov** |
+| 3110 | [day-3110.md](days/year-009/week-445/day-3110.md) | **BRICK-PRESS CLOSE ✓ · ×72 test** | **Cal-Y9 D331 · 17 Nov** |
+| 3109 | [day-3109.md](days/year-009/week-445/day-3109.md) | **WEEK-445 · salt scrape/haul/pour** | **Cal-Y9 D330 · 16 Nov** |
+| 3108 | [day-3108.md](days/year-009/week-444/day-3108.md) | **IRON-BLOOM smelt ✓** | **Cal-Y9 D329 · 15 Nov** |
+| 3107 | [day-3107.md](days/year-009/week-444/day-3107.md) | **BRICK-PRESS-1 LIVE ✓** | **Cal-Y9 D328 · 14 Nov** |
+| 3106 | [day-3106.md](days/year-009/week-444/day-3106.md) | **BRICK-PRESS pad ✓** | **Cal-Y9 D327 · 13 Nov** |
+| 3105 | [day-3105.md](days/year-009/week-444/day-3105.md) | **BRICK-PRESS-1 scout/stake ✓** | **Cal-Y9 D326 · 12 Nov** |
+| 3104 | [day-3104.md](days/year-009/week-444/day-3104.md) | **SALT HAUL #11 · Y9 evap OPEN** | **Cal-Y9 D325 · 11 Nov** |
+| 3103 | [day-3103.md](days/year-009/week-444/day-3103.md) | **NORIMA FINISH ✓ · trim/oil/tallow** | **Cal-Y9 D324 · 10 Nov** |
+| 3102 | [day-3102.md](days/year-009/week-444/day-3102.md) | **WAGON BRASS FORGE ✓ · WEEK-444** | **Cal-Y9 D323 · 9 Nov** |
+| 3101 | [day-3101.md](days/year-009/week-443/day-3101.md) | **NORIMA MERLOT STAIN ✓** | **Cal-Y9 D322 · 8 Nov** |
+| 3100 | [day-3100.md](days/year-009/week-443/day-3100.md) | **GLASS OIL CRUET ✓** | **Cal-Y9 D321 · 7 Nov** |
+| 3099 | [day-3099.md](days/year-009/week-443/day-3099.md) | **HARVEST-PREP · storage · sickle** | **Cal-Y9 D320 · 6 Nov** |
+| 3098 | [day-3098.md](days/year-009/week-443/day-3098.md) | **HOLDING-WIND-BREAK ✓** | **Cal-Y9 D319 · 5 Nov** |
+| 3097 | [day-3097.md](days/year-009/week-443/day-3097.md) | **WIND-BREAK D1 · trail-orchard slate** | **Cal-Y9 D318 · 4 Nov** |
+| 3096 | [day-3096.md](days/year-009/week-443/day-3096.md) | **ANIMAL-CARE · winter/exped slates** | **Cal-Y9 D317 · 3 Nov** |
+| 3095 | [day-3095.md](days/year-009/week-443/day-3095.md) | **GRAPE-PRUNE-Y9-1 ✓** | **Cal-Y9 D316 · 2 Nov** |
 | 3094 | [day-3094.md](days/year-009/week-442/day-3094.md) | **REAR-HITCH ✓ · WEEK-442-CLOSE** | **Cal-Y9 D315 · 1 Nov** |
 | 3093 | [day-3093.md](days/year-009/week-442/day-3093.md) | **LOADED-TRIAL ✓ · default hauler** | **Cal-Y9 D314 · 31 Oct** |
 | 3092 | [day-3092.md](days/year-009/week-442/day-3092.md) | **LANTERN-HOOK ✓** | **Cal-Y9 D313 · 30 Oct** |
@@ -36,10 +69,16 @@
 | year-004 | 1097–1470 | [days-1097-1470.md](index/days-1097-1470.md) |
 | year-005 | 1471–1911 | [days-1471-1911.md](index/days-1471-1911.md) |
 | year-006 | 1912–2190 | [days-1912-2190.md](index/days-1912-2190.md) |
-| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 3094)* |
+| year-007+ | 2191+ | [days-2191-2562.md](index/days-2191-2562.md) *(through 3100)* |
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3100 | [day-3100.md](days/year-009/week-443/day-3100.md) | **GLASS OIL CRUET ✓** | **Cal-Y9 D321 · 7 Nov** |
+| 3099 | [day-3099.md](days/year-009/week-443/day-3099.md) | **HARVEST-PREP · storage · sickle** | **Cal-Y9 D320 · 6 Nov** |
+| 3098 | [day-3098.md](days/year-009/week-443/day-3098.md) | **HOLDING-WIND-BREAK ✓** | **Cal-Y9 D319 · 5 Nov** |
+| 3097 | [day-3097.md](days/year-009/week-443/day-3097.md) | **WIND-BREAK D1 · trail-orchard slate** | **Cal-Y9 D318 · 4 Nov** |
+| 3096 | [day-3096.md](days/year-009/week-443/day-3096.md) | **ANIMAL-CARE · winter/exped slates** | **Cal-Y9 D317 · 3 Nov** |
+| 3095 | [day-3095.md](days/year-009/week-443/day-3095.md) | **GRAPE-PRUNE-Y9-1 ✓** | **Cal-Y9 D316 · 2 Nov** |
 | 3094 | [day-3094.md](days/year-009/week-442/day-3094.md) | **REAR-HITCH ✓ · WEEK-442-CLOSE** | **Cal-Y9 D315 · 1 Nov** |
 | 3093 | [day-3093.md](days/year-009/week-442/day-3093.md) | **LOADED-TRIAL ✓ · default hauler** | **Cal-Y9 D314 · 31 Oct** |
 | 3092 | [day-3092.md](days/year-009/week-442/day-3092.md) | **LANTERN-HOOK ✓** | **Cal-Y9 D313 · 30 Oct** |
