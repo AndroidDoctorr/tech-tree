@@ -1,0 +1,59 @@
+---
+description: Deterministic hazard rolls on triggers — run sim/roll.py, log HAZARD lines, patch hazards.md state
+globs: journal/**/*.md
+alwaysApply: true
+---
+
+# Hazard rolls
+
+When playing the tech-tree journal campaign:
+
+## Sources
+
+1. **[hazards.md](hazards.md)** — live state, thresholds, trigger matrix, outcomes
+2. **[sim/roll.py](sim/roll.py)** — deterministic roll (`check` / `batch`)
+3. **[rules.md — Hazard rolls](rules.md#hazard-rolls-deterministic)** — volatility · player immunity
+
+Read **hazards.md Live state + Trigger matrix** when any trigger fires (do not load full file on quiet craft days with no triggers).
+
+## Mandatory procedure
+
+On each trigger in the matrix:
+
+1. Resolve **base threshold** from catalog (+ state for `GOAT-RUT-BREED`, wear for cart rows).
+2. Run roll:
+   ```bash
+   python sim/roll.py check --day <DAY> --hazard <ID> --threshold <N> --volatility <low|normal|high> [--modifier M]
+   ```
+3. Log in day file:
+   ```text
+   HAZARD · d#### · ID · roll ### · thr ### · HIT|MISS
+   ```
+4. On **HIT**: apply outcome tier · patch **hazards.md** state · **inventory.md** / **now.md** if stock or animals change.
+5. On **MISS** for passive dailies (tornado, quake): one line only — no narrative pepper.
+
+## Triggers *(minimum set)*
+
+| Day type | Rolls |
+|----------|-------|
+| **Every day open** | Seasonal **WEATHER-*** + passive **TORNADO-DAILY** + **QUAKE-DAILY** |
+| **FARM-CARE / scare** | **GOAT-RUT-BREED** if Sep–Dec + shared pen · **GOAT-ILLNESS-PASS** quarterly |
+| **Loaded team pull / haul** | **CART-WHEEL-MISHAP** · **WAGON-HUB-BIND** with wear modifier |
+| **Forge hero** | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |
+| **Trail / climb / forage hero** | **PLAYER-FALL-INJURY** · poison rows if relevant |
+| **Hero-day end** | **mishap_pool +1** · **MISHAP-POOL-POP** if pool ≥ 8 |
+
+## Do not
+
+- Improvise yes/no for catalog hazards without running the roll.
+- Roll **player disease** or **player aging** — blocked per hazards.md immunity table.
+- Override **player-calendar.md** gates with hazard outcomes.
+- Skip logging when a trigger fired (audit trail).
+
+## Farm scare stack
+
+Farm scare days run **rett pull** ([farm-scare-rett-pull.mdc](farm-scare-rett-pull.mdc)) **and** animal hazard rolls in the same pass when triggers apply.
+
+## Volatility
+
+Use **Current** row in hazards.md. Player names change → patch hazards.md + now.md same pass.

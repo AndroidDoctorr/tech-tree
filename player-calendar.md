@@ -73,7 +73,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ## September
 
 - **7 Sep** — Donkey hunt opens *(wild recruit · D-27 corral grammar — **not** holding care)*
-- **Sep – Dec** — **Goat rut band** *(billie #2 active · **separate pens if no planned breeding** · rut read @ FARM-CARE · **P-GOAT-1**)*
+- **Sep – Dec** — **Goat rut band** *(billie #2 active · **separate pens if no planned breeding** · rut read @ FARM-CARE · **P-GOAT-1** · rolls: [hazards.md — GOAT-RUT-BREED](hazards.md#catalog))*
 - **1 Sep – 15 Oct** — **Pistachio P-01 kernel harvest** *( **wild only** · T-2 ~160 m · **not on farm** · hull · dry · shell · **primary — don't skip**)*
 - **~20 Nov – 1 Dec** — **Pistachio ground-recovery tail only** *(missed primary · modest sweep under trees · not a full pick)*
 - **15 Sep – 30 Nov** — **Acorn gather window** *(P-09 terrace · shell · leach · roast — calorie supplement)*

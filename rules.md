@@ -105,6 +105,23 @@ Target feel: **cautious, industrious solo** with assistant reference — good pr
 | **Ceiling** | Not Hard/Brutal — no death-spiral RNG, no gratuitous catastrophe |
 | **Mishaps** | Expect **~1 meaningful complication** per **5–10 hero-days** on maintenance tracks (forge, farm, roof, haul); **more** when attempting a **new tier** or **heavy multi-heat** forge job |
 | **Failure shape** | Cost **time · material · rework · defer** — rarely total loss of a finished build |
+| **Volatility** | **normal** — see [hazards.md — Volatility](hazards.md#volatility-live-knob) · player may set **low / normal / high** |
+
+### Hazard rolls *(deterministic)*
+
+Random events use **seeded rolls**, not assistant judgment. Full catalog: **[hazards.md](hazards.md)** · tool: **[sim/roll.py](sim/roll.py)**.
+
+| Rule | Detail |
+|------|--------|
+| **Space** | Billion-scale (`0 … 999_999_999`) — supports **sub-percent** rates (e.g. tornado **~1 in 500M**/day) |
+| **Hit** | `roll < threshold × volatility × modifier` |
+| **When** | Triggers in [hazards.md — Trigger matrix](hazards.md#trigger-matrix) — farm scare, day-open weather, haul, forge hero, etc. |
+| **Log** | Day file **`HAZARD · d#### · ID · roll · thr · HIT/MISS`** — on HIT, patch hazard state + inventory |
+| **Player** | **No aging · no disease** — injury and poison hazards only |
+| **Animals** | Age, illness, breeding — roll on trigger; surface on farm pass, not when player asks |
+| **Calendar gates** | Sow, harvest, fig band, etc. stay **non-negotiable** — hazards change **cost/margin**, not whether crops exist |
+
+**Assistant duty:** On a trigger, **run** `sim/roll.py check` (or batch), compare to [hazards.md](hazards.md) threshold, log result. **Do not** silent PASS for catalog hazards.
 
 ### Wear, decay & condition
 

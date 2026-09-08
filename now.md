@@ -4,6 +4,8 @@
 
 **Day 3094** · Cal-Y9 D315 · ~1 Nov · **Week 443 opens** · **Norima PAUSED ~92%**
 
+**Hazard · volatility normal · rut_tension 68 · mishap_pool 3**
+
 | Track | Status |
 |-------|--------|
 | **Norima** *(WAGON-V2)* | **✓ shell **PAUSED** · default hauler · **WAGON-REAR-HITCH-1** · no canvas · ~92%** |

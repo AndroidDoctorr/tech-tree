@@ -424,7 +424,7 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Mabel | HOLDING-1 A | Jenny · TEAM-ROTATION-3 · dual-pull primary |
 | Humphrey | HOLDING-1 B | Jack · TEAM-ROTATION-3 · dual-pull primary |
 | Silas | HOLDING-1 C | TEAM-ROTATION-3 · **rotates in on haul/wagon** · not off-roster |
-| Goats ×2 | P-GOAT-1 | **#1 DOE (senior d87) · #2 BILLIE (junior d107) · sex read d2059** |
+| Goats ×2 | P-GOAT-1 | **#1 DOE (senior d87) · #2 BILLIE (junior d107) · sex read d2059** · hazard state: [hazards.md](hazards.md) |
 | Browse @ home | ~7-day ✓ | BROWSE-TOP-1812 ~4 kg cut |
 
 ## Farm (standing)

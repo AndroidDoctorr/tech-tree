@@ -14,6 +14,7 @@ This is a journal, not a code repo.
 3. `player-calendar.md` if the action touches a season window
 4. Grep `inventory.md` for the stock the action draws — do not read the whole file
 5. Current week file only to append the day's one-line summary
+6. **`hazards.md` — Live state + Trigger matrix only** when the day hits a hazard trigger (farm scare, haul roll, forge hero, day-open weather) — see [hazard-rolls.mdc](hazard-rolls.mdc)
 
 ## Do not read unless the player names that track or a gate needs it
 
