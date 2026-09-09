@@ -30,13 +30,13 @@ On each trigger in the matrix:
    HAZARD · d#### · ID · roll ### · thr ### · HIT|MISS
    ```
 4. On **HIT**: apply outcome tier · patch **hazards.md** state · **inventory.md** / **now.md** if stock or animals change.
-5. On **MISS** for passive dailies (tornado, quake): one line only — no narrative pepper.
+5. On **MISS** for passive dailies (quake, e.g.): one line only — no narrative pepper.
 
 ## Triggers *(minimum set)*
 
 | Day type | Rolls |
 |----------|-------|
-| **Every day open** | Seasonal **WEATHER-*** + passive **TORNADO-DAILY** + **QUAKE-DAILY** |
+| **Every day open** | Seasonal **WEATHER-** + passive **QUAKE-DAILY** |
 | **FARM-CARE / scare** | **GOAT-RUT-BREED** if Sep–Dec + shared pen · **GOAT-ILLNESS-PASS** quarterly |
 | **Loaded team pull / haul** | **CART-WHEEL-MISHAP** · **WAGON-HUB-BIND** with wear modifier |
 | **Forge hero** | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |
