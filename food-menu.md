@@ -40,9 +40,13 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **Ice vault** | Melt clock | Not food — extra days on wet plates |
 | **Honey / comb** | — | **· blocked** — wax is not a recipe |
 | **Olive oil** | — | **✓ Y6 press · **~2.05 L clear @ kitchen d2043**** · lamp/cook/fry unlocked |
-| **Milk / curd** | — | **· blocked** — goats not milked |
+| **Fresh goat milk** | **Hours** warm · **2–3 d** on ice | **✓ d3196** · drink · milk porridge · acid-set curd · let sour on purpose |
+| **Soured milk / clabber** | **3–5 d** cool | Curd base · drink tart · stew acid in place of vinegar |
+| **Fresh cheese (acid-set)** | **3–7 d** cool / ice · salted longer | **✓ d3200 ~230 g** · plate with olives · crumble into stew · herb roll · **will not melt or stretch** |
+| **Whey** | **2–4 d** cool | Cook grain in it · posca-class tart drink · bread liquid · **don't pour it out** |
+| **Goat cream / butter** | — | **~ trial** — goat fat globules stay suspended, cream barely rises · churn is a poor bet without a separator |
 
-**Live sources (not jars):** weir · river snails · culina herb bed · fig / grape / olive trees · two hives (wax yes · honey not harvested).
+**Live sources (not jars):** weir · river snails · culina herb bed · fig / grape / olive trees · two hives (wax yes · honey not harvested) · **doe #1 in milk — daily draw, kid eats first**.
 
 ---
 
@@ -61,6 +65,10 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **Mint / rosemary tea** | Fresh or dried herb · hot water | **Now** · no honey |
 | **Posca** | Vinegar · water · salt | Mixed crock **days** |
 | **Acorn roast handful** | Already-leached roast | Dry **weeks–months** · not a staple |
+| **Milk porridge** | Emmer · fresh milk · salt · mint | Cook **now** — richer than the water version |
+| **Fresh curd plate** | Acid-set curd · salt · olive oil · thyme | **Now** · **3–7 d** cool |
+| **Whey grain** | Emmer or pulse simmered in whey instead of water | **Now** · jar **3–7 d** |
+| **Tart milk cup** | Clabber · water · pinch salt | **Days** — posca's dairy cousin |
 
 ---
 
@@ -94,6 +102,8 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **ACORN-LEACH → roast** | Shell · leach cycles · roast | Roast **1–3 mo** |
 | **STEW jar** | Pulse + grain batch @ cool step | **3–7 d** |
 | **SALT** | S-03 → EVAP tray → scrape | **Years** |
+| **ACID-SET CURD** | **✓ d3200** — warm to **just under a simmer** (never boil) · **vinegar in a thin thread**, stirring slow · whey greens when the set is done · drain in linen ~1 h · salt | **3–7 d** cool · salted **1–2 wk** · **~11% yield by volume** |
+| **SALT-PRESSED CURD** | Curd → heavy salt → weight under a board → dry crust | **2–4 wk** cool — the honest limit without rennet |
 
 ---
 
@@ -124,6 +134,9 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **Tallow flat** | Tallow · parched flour | Yeast · wheat | Heavy cracker — not bread |
 | **Must sip** | Grape leather rehydrate | Wine clock | Hours before it turns |
 | **Bird broth** | Hunt surplus · herbs | — | Same-day small pot |
+| **Yogurt-class hold** | Soured milk · **hypocaust bench for a warm hold** | Named thermophilic culture | Back-slop a good batch into the next — the culture is the experiment |
+| **Butter churn** | Fresh milk · churn | Cream that will actually rise | Skim what little you get · expect a poor return from goat milk |
+| **Whey ricotta** | Whey · hard boil · acid | Rennet whey *(acid-set whey holds little protein left to catch)* | Try once, don't count on it |
 
 ---
 
@@ -132,11 +145,9 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | Dish | Why | Unlock |
 |------|-----|--------|
 | **Honey glaze / sweet tea** | Comb not harvested | Named honey year |
-| **Olive-oil dishes** | No press | P-02 press · settle |
-| **Yeast bread** | No culture · no wheat | **✓ STARTER-Y6-1 · emmer loaf d2043** |
 | **Wine cup** | Vinegar yes · wine no | Finish ferment or stay posca |
-| **Cheese / yogurt** | Goats not milked | GOAT-MILK-HORIZON |
-| **Goat jerky** | Stock animals, not butcher loop | Named slaughter |
+| **Aged / hard cheese** | **Acid curd won't age** — no rennet, no press, no cave | **Thistle (*Cynara*) flower @ summer bloom** · fig latex in leaf · abomasum @ named slaughter |
+| **Goat jerky · leather** | Stock animals, not butcher loop | Named slaughter — **save the abomasum that day** |
 | **Rice pilaf / classic dolma** | No rice | Accept emmer |
 
 ---
@@ -150,7 +161,9 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **Trail dawn** | Jerky · leather · parched · waterskin |
 | **Yule / visitor** | Goose if you hunt it that morning · otherwise the ten-course without the bird |
 | **Stock the year** | Parch · smoke · jerky · leather · salt batch |
-| **Leaf window** | Young grape-leaf roll · still no oil |
+| **Leaf window** | Young grape-leaf roll · oil drizzle now allowed |
+| **Milk in the crock** | Drink it · milk porridge · or set a curd before it turns |
+| **Curd day** | Fresh curd plate with olives and oil · cook the grain in the whey |
 
 ---
 

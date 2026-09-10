@@ -77,6 +77,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **1 Sep – 15 Oct** — **Pistachio P-01 kernel harvest** *( **wild only** · T-2 ~160 m · **not on farm** · hull · dry · shell · **primary — don't skip**)*
 - **~20 Nov – 1 Dec** — **Pistachio ground-recovery tail only** *(missed primary · modest sweep under trees · not a full pick)*
 - **15 Sep – 30 Nov** — **Acorn gather window** *(P-09 terrace · shell · leach · roast — calorie supplement)*
+- **15 Sep – 31 Oct** — **NITRE-BED leach band** *(NITRE-BED-1 @ north lee · leach earth · filter · boil down · **wood-ash potash swap** · crystallise · recharge bed after)*
 - **~1 Dec** — **Acorn last tail lap** *(windfall OK · then hands off until next fall)*
 - **27 Sep** — Exped / cart trips close
 

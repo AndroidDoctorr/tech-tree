@@ -67,11 +67,11 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | Key | Now @ d3094 | Notes |
 |-----|-------------|-------|
 | **rut_tension** | **20** | Per-rut FARM-CARE scare: threshold = `tension × 1_000_000` (20M ⇒ **2.0%**/scare) |
-| **last_breed_day** | **3131** | **GOAT-RUT-BREED HIT d3131** · kid due **Feb band** |
+| **last_breed_day** | **3131** | **Kidded d3191 · ×1 buckling · clean · doe freshened** |
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **14** | **LOCAL-CLAY-HAUL-3-3174 +1** |
+| **Norima wear** | **17** | **ICE-HAUL-Y10-PEAK-3193 +1** |
 | **mishap_pool** | **0** | **Reset d3118** · player doctrine: no tick on routine campus work |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 

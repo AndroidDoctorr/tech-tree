@@ -113,7 +113,7 @@ Random events use **seeded rolls**, not assistant judgment. Full catalog: **[haz
 
 | Rule | Detail |
 |------|--------|
-| **Space** | Billion-scale (`0 … 999_999_999`) — supports **sub-percent** rates (e.g. tornado **~1 in 500M**/day) |
+| **Space** | Billion-scale (`0 … 999_999_999`) — supports **sub-percent** rates (e.g. earthquake **~1 in 500M**/day) |
 | **Hit** | `roll < threshold × volatility × modifier` |
 | **When** | Triggers in [hazards.md — Trigger matrix](hazards.md#trigger-matrix) — farm scare, day-open weather, haul, forge hero, etc. |
 | **Log** | Day file **`HAZARD · d#### · ID · roll · thr · HIT/MISS`** — on HIT, patch hazard state + inventory |

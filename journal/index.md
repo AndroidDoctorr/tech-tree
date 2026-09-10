@@ -6,10 +6,25 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3185)*
+## Recent days *(append here · @ Day 3200)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3200 | [day-3200.md](days/year-009/week-458/day-3200.md) | **W458 OPEN · CHEESE-Y10-1 ✓ ~230 g** | **Cal-Y10 D55 · ~15 Feb** |
+| 3199 | [day-3199.md](days/year-009/week-457/day-3199.md) | **ELECTROLYSIS-1 ✓ H₂ · W457 CLOSE** | **Cal-Y10 D54 · ~14 Feb** |
+| 3198 | [day-3198.md](days/year-009/week-457/day-3198.md) | **COMMUTATOR-1 ✓ · PEDAL-GEN-1 WORKING** | **Cal-Y10 D53 · ~13 Feb** |
+| 3197 | [day-3197.md](days/year-009/week-457/day-3197.md) | **INDUCTION-1 ✓ · AC-READ · milk ~0.5 L** | **Cal-Y10 D52 · ~12 Feb** |
+| 3196 | [day-3196.md](days/year-009/week-457/day-3196.md) | **First milk ✓ ~0.45 L · KID-BOND ✓** | **Cal-Y10 D51 · ~11 Feb** |
+| 3195 | [day-3195.md](days/year-009/week-457/day-3195.md) | **NITRE-BED-1 ✓ CLOSE · roofed + charged** | **Cal-Y10 D50 · ~10 Feb** |
+| 3194 | [day-3194.md](days/year-009/week-457/day-3194.md) | **NITRE-BED-1 D1 ✓ · pan · crib** | **Cal-Y10 D49 · ~9 Feb** |
+| 3193 | [day-3193.md](days/year-009/week-457/day-3193.md) | **W457 OPEN · ICE arc CLOSE ~130 kg · herd doctrine** | **Cal-Y10 D48 · ~8 Feb** |
+| 3192 | [day-3192.md](days/year-009/week-456/day-3192.md) | **GOAT-MILK-STAND-1 ✓ · W456 CLOSE** | **Cal-Y10 D47 · ~7 Feb** |
+| 3191 | [day-3191.md](days/year-009/week-456/day-3191.md) | **GOAT-FRESHEN-Y10 ✓ · ×1 buckling** | **Cal-Y10 D46 · ~6 Feb** |
+| 3190 | [day-3190.md](days/year-009/week-456/day-3190.md) | **HAUL-LIME ✓ · KILN-A-LIME ✓ ~9.8 kg** | **Cal-Y10 D45 · ~5 Feb** |
+| 3189 | [day-3189.md](days/year-009/week-456/day-3189.md) | **ICE-VAULT-EXPAND-1 ✓ CLOSE · cap ~130 kg** | **Cal-Y10 D44 · ~4 Feb** |
+| 3188 | [day-3188.md](days/year-009/week-456/day-3188.md) | **ICE-VAULT-EXPAND-1 D1 ✓ · dig + line** | **Cal-Y10 D43 · ~3 Feb** |
+| 3187 | [day-3187.md](days/year-009/week-456/day-3187.md) | **ICE-HAUL-Y10-LAP-1 ✓ · vault ~106 kg** | **Cal-Y10 D42 · ~2 Feb** |
+| 3186 | [day-3186.md](days/year-009/week-456/day-3186.md) | **W456 OPEN · ICE-HAUL-Y10-PREP ✓** | **Cal-Y10 D41 · ~1 Feb** |
 | 3185 | [day-3185.md](days/year-009/week-455/day-3185.md) | **CAMPUS-PAINT ✓ · W455 CLOSE** | **Cal-Y10 D40 · ~31 Jan** |
 | 3184 | [day-3184.md](days/year-009/week-455/day-3184.md) | **CAMPUS-CLEAN ✓ · paint prep** | **Cal-Y10 D39 · ~30 Jan** |
 | 3183 | [day-3183.md](days/year-009/week-455/day-3183.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓** | **Cal-Y10 D38 · ~29 Jan** |
