@@ -12,8 +12,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 
 | Item | Qty | Where |
 |------|-----|-------|
-| Char lane | **~33.6 kg GREEN** | **LIQUID-PUMP-2-HEAD-3169 −~0.5 kg** |
-| Pile 5 oak | **~28.9 kg GREEN @ camp north face** | **LIQUID-BUNG-KIT-1-3171 −~30 g plug** |
+| Char lane | **~48 kg GREEN** | **CHAR-RETORT-3183 +~14.4 kg** |
+| Pile 5 oak | **~29.9 kg GREEN @ camp north face** | **WOOD-HAUL-3183 +~24.8 kg · retort −~22.0 kg** |
 | **WAGON-V2-COVER-STOCK-1** | **~2.08 kg tail @ CART-YARD south peg row** | **LANTERN-HOOK-3092 −~0.12 kg** |
 | **WAGON-V2-COVER-ARCH-1** | **✓ CLOSE @ chassis · ribs · ridge · hoops · braces · roll PASS** | **WAGON-V2-COVER-1-D3-3089** |
 | **COVERED-WAGON-1** | **✓ LIVE @ CART-YARD south · roadworthy · **museum/train lane** · **not cannibalized**** | **WAGON-V2-DEFAULT-HAULER-3093** |
@@ -48,7 +48,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **THERM-HOLDER-CELLAR-1** | **✓ @ horreum cold-step lintel** | **THERM-HOLDER-SET-1-3014** |
 | **THERM-HOLDER-PORCH-1** | **✓ @ chem porch east shaded lip** | **THERM-HOLDER-SET-1-3014** |
 | Pile 1 clay | **~63.4 kg GREEN** | **LOCAL-CLAY-HAUL-3-3174 +~31.4 kg** |
-| Iron nails | **×8 @ bench peg tray** | **BRICK-PRESS-FRAME-3107 −×14** |
+| Iron nails | **×0 @ bench peg tray** | **BARN-REFURB-1-D1-3179 −×8** |
 | **Brass nails** | **×4 @ WOOD-CRATE-5 FORGE-FASTENER** | **WAGON-BRASS-TRIM-INSTALL-3103 −×10** |
 | **Brass stock** | **~11.8 g @ chill tray · VERY LOW** | **LIQUID-BUNG-KIT-1-3171 −~18 g** |
 | **CULINA-KNIFE-BLOCK-1** | **✓ LIVE @ culina S prep · ×6 slot angled oak · tallow/beeswax finish** | **CULINA-KNIFE-BLOCK-1-CLOSE-2766** |
@@ -91,7 +91,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | TR tiles @ rack | **~×76 TR fired @ rack south · ×19 @ FABRICA SW roof LIVE · ×3 grog** | **TABLE-SAW-ROOF-SET-1-3049 −×19 staged** |
 | FT tiles @ rack | **×0 @ rack · ×108 deployed @ hub floor** | **FT-FLOOR-2224 · band CLOSE · ×2 scrap** |
 | Pile 4 dress/field | **~8.9 kg @ ×2 marked sacks north band** | **STORAGE-AUDIT-3073 sack row** |
-| **Gravel aggregate** | **~31.4 kg @ pile 4 south band · GRAVEL-LOCAL-3172** | **LOCAL-GRAVEL-HAUL-1-3172** |
+| **Gravel aggregate** | **~25.9 kg @ pile 4 south band · GRAVEL-LOCAL-3172** | **BARN-REFURB-1-D3-3181 −~5.5 kg** |
 | **Filter/concrete sand** | **~24.5 kg @ pile 4 apron · SAND-LOCAL-3173 · winter dry queue** | **LOCAL-SAND-HAUL-2-3173** |
 | Pile 8 floor-stone | **×0 @ camp · ×8 in PAD-1 ring** | **TABLE-SAW-PAD-1-3043 −×8 staged** |
 | Pile 7 CaCO₃ raw | **~2.2 kg tail @ camp north face** | **KILN-A-LIME-3042 −~18.0 kg** |
@@ -102,8 +102,8 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | SLUICE-2-GATE-1 | ✓ live @ S2-0 | Deploy-1878 · prefab kit mounted · bypass staged |
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
-| River sand / grog | **~38.9 kg tail @ Fabrica SW margin** | **BRICK-PRESS-PAD-3106 −~10.2 kg** |
-| Quicklime dry | **~8.20 kg @ trough** | **BRICK-PRESS-PAD-3106 −~0.45 kg** |
+| River sand / grog | **~38.5 kg tail @ Fabrica SW margin** | **CAMPUS-PAINT-3185 −~0.4 kg** |
+| Quicklime dry | **~6.2 kg @ trough** | **CAMPUS-PAINT-3184/3185 −~2.0 kg** |
 | **Flax shive** | **~7.5 kg @ storage wing** | **HOLDING-WIND-BREAK-3098 −~2.4 kg** |
 | **Hemp shive Y8** | **~4.95 kg @ berm** | **HOLDING-WIND-BREAK-3098 −~0.3 kg** |
 | **Hemp tow tail Y8** | **×0 spent** | **HEMP-ROPE-SPRINT-1-D1-2458 −~88 g** |
@@ -215,7 +215,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **Olive brine Y8** | **~1.9 kg fruit @ crock #2 v1 porch · salt · 6–18 mo band · Y8 tag** | **OLIVE-BRINE-Y8-1-2747** |
 | **Olive brine Y7** | **~1.9 kg fruit @ crock #2 v1 porch · salt · 6–18 mo band · Y7 tag** | **OLIVE-BRINE-Y7-1-2397** |
 | **P-02 olive oil Y7 crude** | **✓ decanted d2408 · sediment sealed @ AMPHORA-6 foot** | **OLIVE-OIL-DECANT-Y7-1-2408** |
-| **P-02 olive oil Y7 clear** | **~1.33 L @ GLASS-BOTTLE + P-ξ-5 · OIL-Y7-1 cook unlock** | **WAGON-OIL-LOCK-3103 −~35 ml** |
+| **P-02 olive oil Y7 clear** | **~1.31 L @ GLASS-BOTTLE + P-ξ-5 · OIL-Y7-1 cook unlock** | **CAMPUS-PAINT-3185 −~20 ml** |
 | **P-02 olive oil Y6 clear** | **~2.05 L @ GLASS-BOTTLE-4/5 + P-ξ-5 · OIL-Y6-1 + OIL-Y6-2 decanted d2043** | **OLIVE-OIL-SETTLE-1 d2043** |
 | **P-02 olive oil Y6 sediment** | **✓ cleared · AMPHORA-6/7 rinsed d2371** | **AMPHORA-6-RINSE-2371** |
 | Madder root dry | **~238 g @ chem shelf** | **MADDER-DIG-Y9-1-3116 +~93 g** |
@@ -384,7 +384,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **Gunpowder mealed** | **~3 g tail @ chem-lab lidded tray** | **BLAST-CAP-BATCH-6-Y9-2912 −~320 g** |
 | **Blast caps** | **×4 @ HOME powder safe · ×0 @ cart** | **TRAIL-BELEN-ERZIN-EXPED-3-CLOSE-3030 · ×0 spent** |
 | Soda / kelp ash | **~294 g KELP-ASH-5 @ v1 CHEM · GREEN** | **CULINA-GLASS-OIL-CRUET-3100 −~14 g** |
-| Woad reserve | **~238 g dry @ storage wing dye shelf** | **WOAD-DRY-SHRED-Y9-1-2999 +~41 g** |
+| Woad reserve | **~230 g dry @ storage wing dye shelf** | **CAMPUS-PAINT-3185 −~8 g** |
 | **Woad fresh Y9-1** | **✓ spent @ bench shred d2999** | **WOAD-DRY-SHRED-Y9-1-2999** |
 | Flax line | **~425 g @ STORAGE-WING N lower shelf** | **WHEEL-SPIN-Y8-3-2709 −~130 g** |
 | Flax tow | **×0 bank spent · tow tail in shive lane** | **SEAT-YOKE-PADS-3091 −~220 g** |
@@ -431,7 +431,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Goat meat fresh | **~0.35 kg @ larder chill** | **GOAT-SMOKE-TOPUP-3128 −~1.0 kg** |
 | **Deer meat fresh** | **✓ spent @ smoke rack** | **DEER-SMOKE-BATCH-3128** |
 | **Deer meat smoke queue** | **✓ cleared · **~6.1 kg smoked @ horreum A**** | **DEER-SMOKE-BATCH-3128** |
-| Tallow | **~1.93 kg @ kitchen fat jar** | **WAGON-OIL-LOCK-3103 −~35 g** |
+| Tallow | **~1.89 kg @ kitchen fat jar** | **BARN-REFURB-1-D2-3180 −~22 g · D3-3181 −~15 g** |
 | Goat bones | **~2.11 kg @ horreum tool peg** | **PRUSSIAN-BLOOD-LYE-ROAST-1-3015 −~90 g chips** |
 | **Deer bones** | **~2.6 kg @ horreum tool peg** | **HIDE-HUNT-3084** |
 | Expedition rope | **~72 m @ cart peg · D-27 salvage** | **D-27-CORRAL-STRIKE-2945** |
@@ -2556,6 +2556,13 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | **CAMPUS-CLEAN-3177** | **✓ drains · apron · staging · WW sweep** | |
 | **DONKEY-CARE-Y10-3177** | **✓ annual holding walk · Jan doc tick** | |
 | **GOAT-FRESHEN-WATCH-3177** | **✓ belly quiet · udder flat · PASS** | |
+| **BARN-AUDIT-1-3178** | **✓ frame PASS · N shake/pitch AMBER · refurb GO** | |
+| **BARN-REFURB-SLATE-3178** | **✓ 5-item queue · rebuild NO-GO** | |
+| **FUEL-DOCTRINE-Y10-3178** | **✓ cook/heat draws forward** | |
+| **ASSISTANT-DEVICE-DOCTRINE-Y10-3178** | **✓ finite charge · port @ ≤20%** | |
+| **FENCE-LONGEVITY-SLATE-Y10-3178** | **✓ stone/brick/concrete horizon** | |
+| **WEEK-455-OPEN-3179** | **✓ barn refurb band OPEN** | |
+| **BARN-REFURB-1-D1-3179** | **✓ N eave shakes ×12 · pitch band · ~40% refurb** | |
 | **CU-WIRE-GEN2-DRAW-2-3156** | **✓ ~22 m · CU-PRILL draw · ~33 m bank** |
 | **CU-WIRE-GEN2-DRAW-3-3157** | **✓ ~16 m · prill tail CLOSE · ~49 m bank** |
 | **WEEK-452-OPEN-3158** | **✓ magnet gen-2 band OPEN** | |

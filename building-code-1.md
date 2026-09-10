@@ -123,7 +123,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 | **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **W LIVE ✓ · E LIVE ✓ d1953** | **✓ cluster d1939** | **✓ d1922+d1941 LIVE** | **✓** | **Hypocaust east · indirect** |
 | **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem north LIVE ✓ d2071 · culina oak+glass interim** | **Chem airlock porch ✓ d1956** | **CHEM-LAB-AIRLOCK-1 ✓** | **✓ chem** | **Vent hood + fan ✓ d1954** |
 | **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **W + S strap+glass ✓ d1802 · BC-1 windows complete** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓ · **heat stub defer**** |
-| **W-1 lean-to** | **Retired** | **Wattle remnant** | **✓ TR leftover** | **Dirty racks only** | **N/A** | **N/A** | **N/A** | **N/A** | **Not a BC-1 target** |
+| **W-1 lean-to** | **Struck d2945** | **—** | **—** | **Pad clear** | **N/A** | **N/A** | **N/A** | **N/A** | **Not a BC-1 target** |
 
 **Retrofit queue:** **CULINA-STRAP-UPGRADE-1** *(optional · last major window)* · **CAMPUS-HUB-M2-1** *(Atelier heat)* · **PORTICO-RIGOR-1** · **DOOR-BRASS-PASS-1** · **BC-1-DRAIN-SPRING-1** *(all buildings · full thaw recheck)*.
 

@@ -5,12 +5,13 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**  
 **Theme:** **Bulk-dry swap · local hauls · sow prep**
 
-**Status:** OPEN @ Day 3177 · **campus check/clean ✓**
+**Status:** CLOSED @ Day 3178 · **barn audit ✓ · refurb queued**
 
 ---
 
 | Day | Summary |
 |-----|---------|
+| 3178 | **BARN-AUDIT ✓ · refurb GO · doctrines filed** |
 | 3177 | **CAMPUS-CHECK ✓ · holding annual walk · clean** |
 | 3176 | **GOAT-KIDDING-STALL-1 ✓ · freshen watch slate** |
 | 3175 | **BED-EXPANSION-Y10-PREP ✓ · seed audit · stakes** |

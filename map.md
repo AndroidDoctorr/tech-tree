@@ -199,13 +199,14 @@ Campus sits on a **plateau**, **south bank** of **TRIB-1**. The stream leaves th
 
 ---
 
-## Workshop W-1 — **retired** · pad = **Atelier**
+## Workshop W-1 — **struck d2945** · pad = **Atelier**
 
 | | |
 |--|--|
 | **Was** | **~3 × 4 m** wattle + daub @ **~80 m** mid-campus |
-| **Status** | **Retired as shop** — **CRAFT-WING-1 / Atelier** is the brick replacement · wattle may remain as **dirty lean-to** (fiber / hide) · **not** a Fabrica annex |
-| **ROOF-W1** | First campus tile roof (Day 364) — grammar only; live shop is the craft wing |
+| **Status** | **W-1-LEAN-TO-STRIKE-2945** — frame struck · site clear · **CRAFT-WING-1 / Atelier** is the brick replacement |
+| **Dry peg** | Farm logs **"W-1 north rafter"** = craft-wing north dry peg row (legacy tag · not a shed) |
+| **ROOF-W1** | First campus tile roof grammar (Day 364) — absorbed into craft-wing eave class |
 | **Turris** | Ghost hub **E** of the live wing · two future wings dashed |
 
 ---

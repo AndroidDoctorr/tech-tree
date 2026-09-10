@@ -6,10 +6,18 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3177)*
+## Recent days *(append here · @ Day 3185)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3185 | [day-3185.md](days/year-009/week-455/day-3185.md) | **CAMPUS-PAINT ✓ · W455 CLOSE** | **Cal-Y10 D40 · ~31 Jan** |
+| 3184 | [day-3184.md](days/year-009/week-455/day-3184.md) | **CAMPUS-CLEAN ✓ · paint prep** | **Cal-Y10 D39 · ~30 Jan** |
+| 3183 | [day-3183.md](days/year-009/week-455/day-3183.md) | **WOOD-HAUL ✓ · CHAR-RETORT ✓** | **Cal-Y10 D38 · ~29 Jan** |
+| 3182 | [day-3182.md](days/year-009/week-455/day-3182.md) | **REST ✓ · holding walk** | **Cal-Y10 D37 · ~28 Jan** |
+| 3181 | [day-3181.md](days/year-009/week-455/day-3181.md) | **BARN-REFURB D3 ✓ · arc CLOSE** | **Cal-Y10 D36 · ~27 Jan** |
+| 3180 | [day-3180.md](days/year-009/week-455/day-3180.md) | **BARN-REFURB D2 ✓ · loft only** | **Cal-Y10 D35 · ~26 Jan** |
+| 3179 | [day-3179.md](days/year-009/week-455/day-3179.md) | **W455 OPEN · BARN-REFURB D1 ✓** | **Cal-Y10 D34 · ~25 Jan** |
+| 3178 | [day-3178.md](days/year-009/week-454/day-3178.md) | **BARN-AUDIT ✓ · refurb slate** | **Cal-Y10 D33 · ~24 Jan** |
 | 3177 | [day-3177.md](days/year-009/week-454/day-3177.md) | **CAMPUS-CHECK ✓ · clean · holding walk** | **Cal-Y10 D32 · ~23 Jan** |
 | 3176 | [day-3176.md](days/year-009/week-454/day-3176.md) | **GOAT-KIDDING-STALL-1 ✓ · freshen prep** | **Cal-Y10 D31 · ~22 Jan** |
 | 3175 | [day-3175.md](days/year-009/week-454/day-3175.md) | **BED-EXPANSION-Y10-PREP ✓ · sow slate** | **Cal-Y10 D30 · ~21 Jan** |

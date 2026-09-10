@@ -39,7 +39,7 @@ Film concept explores this by default: see [movie/](movie/).
 
 - **Era:** ~10,000 BC, Orontes valley (near future Antioch)
 - **Humans:** None except player *(see Emergency multiplayer below)*
-- **Assistant:** Handheld device — voice Q&A, no physical crafting
+- **Assistant:** Handheld device — voice Q&A, no physical crafting · see **Assistant device** below
 
 ## Play style
 
@@ -148,6 +148,37 @@ Track **condition** on tools and deployed structures when use or season warrants
 | **Estimates** | Mark `~` if not weighed/counted that day; **re-count** on next factory day, clay haul, or smelt marathon |
 | **map.md** | Geography and pile **roles**; **quantities** live in inventory.md (map links there) |
 | **Day file** | Log burns/consumption in the journal (e.g. `Store C: −5.5 kg`) so audits trace forward |
+
+### Fuel — cooking & heating *(player @ d3178)*
+
+| Rule | Detail |
+|------|--------|
+| **Scope** | **Hearth/culina cooks**, **hypocaust/indirect heat**, **forge-adjacent warmth** — log draws on hero days forward |
+| **Char** | **CHAR lane / retort char** — draw on smelt, forge, and **named cook/hearth sprints**; routine stew may use **−trace class** on quiet days |
+| **Wood** | **Pile 5 / green splits** — camp fuel, scare-day pickup, journey haul top-up; **not** infinite background heat |
+| **Climate** | **Antioch winter << Indiana** — baseline heating load **low**; excess char bank (~years of surplus) covers **retro ambiguity** — do not back-audit every stew |
+| **Forward** | Any day with **forge · kiln · hearth hero · feast prep · hypocaust burn** patches **inventory char/wood row** or day-file consumption |
+| **Ledger** | Hero burns in **day file Consumption**; runway in **inventory.md** char lane + pile 5 |
+
+### Assistant device *(player @ d3178)*
+
+| Rule | Detail |
+|------|--------|
+| **Power** | **Finite** charge — absurdly long-lived alien/Star-Trek-class cell, **not** infinite @ ~10 yr runtime |
+| **Low charge** | At **≤20%** the assistant **must** surface **exact** recharge/interface instructions the player can build toward |
+| **Charge port** | **Contactless through skin** — magnetic/field-coupled · **no case cut** · mates to player-built dock when tech allows |
+| **Data port** | **Same coupler** — data + power · requires **precisely controlled electronics** (not yet on-tree except trivial audio) |
+| **Speaker** | **First plausible interface** — passive/active speaker from known copper/wire grammar · **no** silicon fab required for v0 |
+| **Full I/O** | **Voltaic + measured circuits + stable clocks** before assistant drives arbitrary campus machines |
+| **Play** | Assistant does **not** craft physically · player builds dock/speaker · assistant provides **specs @ low charge** |
+
+### Farm fence longevity *(player @ d3178)*
+
+| Rule | Detail |
+|------|--------|
+| **Horizon** | Replace **wattle/scare-only** margins with **stone · brick · or concrete** — **maintenance-minimum** doctrine |
+| **Priority** | **Bed B/D corridor · pen adjacency · scare streamer posts** before cosmetic campus |
+| **Timing** | **Post–Y10 harvest** masonry band honest — not before spring sow window |
 
 ---
 

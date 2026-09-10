@@ -24,9 +24,9 @@ Socle + TR roof · **WINDOW-W-1 + WINDOW-S-1 strap+glass LIVE ✓** · **CRAFT-S
 
 **OIL-LANTERN-1** iron frame + brass fittings ✓ d1809 @ domus south culina · **OIL-LANTERN-2** iron frame + brass fittings ✓ d1808 @ chem-lab east · **DOMUS-LANTERN-HANG-1 · LAB-LANTERN-HANG-1** · chain bails · GP pane sets · oak v1 frames ×2 @ chem shelf spare · protos @ M2 spare
 
-## Fabrica · retired W-1
+## Fabrica · W-1 pad absorbed
 
-**Atelier** is the shop (brick · old W-1 pad). Wattle **W-1** = **retired dirty lean-to** on that pad (fiber racks · hide frame) — not a live workshop. STORE-4 brick horreum (~72% load · lab/workshop only) · **CHEM-AIRLOCK seal patch ✓ d1940** · **CHEM-LAB-AIRLOCK-1 ✓ d1956 full porch @ chem east** · **DOOR-BRASS-PASS-1 ✓ d2734 @ chem E + store clean entries** · **LAB-VENT-FAN-1 ✓ d1954 @ north hood chase** · **LATHE-1 ✓ LIVE · DRILL-PRESS-1 ✓ LIVE ~90% · WW-MACHINE-SWITCH-1 ✓ d1973 @ belt tree · ×2 BOW-2 shaft reserve @ M2 peg · BOW-2 quiver ×6 ✓ d1961–1963** · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
+**Atelier / craft wing** owns the old W-1 pad (brick). **W-1 wattle lean-to struck d2945** — **site clear** · no standing wattle. Farm log tag **"W-1 north rafter"** = **craft-wing north dry peg row** only (legacy name). STORE-4 brick horreum (~72% load · lab/workshop only) · **CHEM-AIRLOCK seal patch ✓ d1940** · **CHEM-LAB-AIRLOCK-1 ✓ d1956 full porch @ chem east** · **DOOR-BRASS-PASS-1 ✓ d2734 @ chem E + store clean entries** · **LAB-VENT-FAN-1 ✓ d1954 @ north hood chase** · **LATHE-1 ✓ LIVE · DRILL-PRESS-1 ✓ LIVE ~90% · WW-MACHINE-SWITCH-1 ✓ d1973 @ belt tree · ×2 BOW-2 shaft reserve @ M2 peg · BOW-2 quiver ×6 ✓ d1961–1963** · STORE-3 retired empty · MILLHOUSE-2 west live · FORGE-D · WORKBENCH-1 · trip hammer · grind takeoff · spinning wheel @ WW-YARD
 
 ## Char
 
