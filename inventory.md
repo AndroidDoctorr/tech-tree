@@ -48,7 +48,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **THERM-HOLDER-CELLAR-1** | **✓ @ horreum cold-step lintel** | **THERM-HOLDER-SET-1-3014** |
 | **THERM-HOLDER-PORCH-1** | **✓ @ chem porch east shaded lip** | **THERM-HOLDER-SET-1-3014** |
 | Pile 1 clay | **~35.4 kg GREEN** | **NITRE-BED-1-FLOOR-3194 −~28 kg puddled pan** |
-| **NITRE-BED-1** | **✓ LIVE @ north lee · clay pan + sump · oak crib · shake lean-to · **charged + damp-set** · turn ~18–21 d** | **NITRE-BED-1-CHARGE-3195 · harvest autumn** |
+| **NITRE-BED-1** | **✓ LIVE @ north lee · clay pan + sump · oak crib · shake lean-to · **turn 1 ✓ d3213 · damp right · ammonia weak · cold-limited** · next turn ~d3231** | **NITRE-BED-1-TURN-1-3213 · harvest autumn** |
 | **URINE-CROCK-1** | **✓ ×2 LIVE @ pen rail + domus north step · nitre feed** | **NITRE-BED-1-CHARGE-3195** |
 | Iron nails | **×0 @ bench peg tray** | **BARN-REFURB-1-D1-3179 −×8** |
 | **Brass nails** | **×4 @ WOOD-CRATE-5 FORGE-FASTENER** | **WAGON-BRASS-TRIM-INSTALL-3103 −×10** |
@@ -86,7 +86,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **LAB-LINEN-STOCK-1** | **Filter ×10 · jar wraps ×4 · voltaic sep ×24 · wipes ×9 · spill reserve ×4 @ CHEM-SPILL-PEG-1** | **TABLE-SAW-COVER-1-3054 −×1 panel** |
 | **Flax line bank** | **~425 g @ WOOD-CRATE-6 FIBER** | **WOOD-CRATE-6-3075** |
 | **Flax tow bank** | **×0 spent @ wing shelf · tow tail in shive lane** | **SEAT-YOKE-PADS-3091 −~220 g** |
-| **HEMP-LINE-26** | **~1.32 kg @ WOOD-CRATE-6 FIBER** | **WOOD-CRATE-6-3075** |
+| **HEMP-LINE-26** | **~870 g @ WOOD-CRATE-6 FIBER** | **HEMP-ROPE-BATCH-Y10-3226 −~450 g** |
 | **Hemp tow bank** | **~180 g @ storage wing tow bag** | **SEAT-YOKE-PADS-3091 −~130 g** |
 | **Flax thread bank** | **~13 m @ craft cabinet 2** | **PAD-SHADE-FORGE-D-1-2565 −~4 m lash** |
 | Pile 3 green brick | **×0 green · GB-3110 spent** | **GB-FIRE-3110** |
@@ -106,12 +106,17 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | SLUICE-2-RACEWAY-1 | ✓ live | ~180 m @ S2-0 → WW-YARD pad · cut-1879 |
 | Lime putty | ~0.10 kg | Trough · slake spent in batch |
 | River sand / grog | **~25.5 kg tail @ Fabrica SW margin** | **ICE-VAULT-EXPAND-1-D2-3189 −~7.2 kg** |
-| Quicklime dry | **~11.7 kg @ trough · GREEN** | **KILN-A-LIME-3190 +~9.8 kg** |
-| **Flax shive** | **~7.5 kg @ storage wing** | **HOLDING-WIND-BREAK-3098 −~2.4 kg** |
+| Quicklime dry | **~11.7 kg @ trough · GREEN · **also LIMELIGHT-1 feedstock**** | **LIMELIGHT-1-3206 −~40 g chip** |
+| **Flax shive** | **~6.9 kg @ storage wing** | **SCARECROW-1-3216 −~0.6 kg** |
+| **SCARECROW-1** | ****✓ LIVE @ Beds B–D** · cross frame · loose tunic · straw + shive · **rag streamers** · **MOVE EVERY FEW DAYS**** | **SCARECROW-1-3216** |
+| **BIRD-RATTLE-LINE-1** | **✓ LIVE @ emmer beds · cord · shell + bone · **re-run across the scarecrow**** | **SCARECROW-1-3216** |
+| **HAWK-KITE-1** | ****✓ LIVE @ Beds B–D** · split-reed frame · sooted cloth · **hung on cord under a bowed sapling · keel + tail streamer** · **needs wind**** | **HAWK-KITE-1-3217** |
 | **Hemp shive Y8** | **~4.95 kg @ berm** | **HOLDING-WIND-BREAK-3098 −~0.3 kg** |
 | **Hemp tow tail Y8** | **×0 spent** | **HEMP-ROPE-SPRINT-1-D1-2458 −~88 g** |
 | **HEMP-ROPE-STOCK-2** | **~5.9 m @ WW peg · reserve/lash class** | **LIQUID-BUNG-KIT-1-3171 −~0.6 m** |
-| **HOME-ROPE-HEMP** | **~15.4 m @ pile 2 · GREEN** | **BRICK-PRESS-FRAME-3107 −~1.5 m** |
+| **HOME-ROPE-HEMP** | **~6.4 m @ pile 2 · **good lay — reserve for load work**** | **CAVE-3-PATH-1-3221 −~9 m *(fixed line)*** |
+| **HOME-ROPE-HEMP-Y10** | ****~28 m @ pile 2 · LASH CLASS ONLY** — uneven lay, soft spots · **never under load**** | **HEMP-ROPE-BATCH-Y10-3226** |
+| **CAVE-3-FIXED-LINE-1** | ****~9 m hemp** @ CAVE-3 approach · ×2 rock spikes · **live**** | **CAVE-3-PATH-1-3221** |
 | **Paper sheets** | **~7.0 peg dry (~14 sheets) @ chem-lab rack · SHEET-Y9-FLAX-29…32** | **BLAST-CAP-BATCH-6-Y9-2912 −×2 tubes** |
 | CHAR-RETORT-1 | ✓ LIVE d1777 | Pit lane north berm **cell C** · ~+15% yield vs pit |
 | **CHAR-RETORT-2** | **✓ LIVE d3032 @ cell D · shared wall w/ RETORT-1 · ~+17% trial** | **CHAR-RETORT-2-CLOSE-3032** |
@@ -138,26 +143,26 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Emmer elite Y5 | ~20 g | Seed vault |
 | **Emmer bulk Y7** | **~0 @ horreum A EMMER-BULK-Y7 bay · tail spent parched batch** | **PARCHED-BATCH-2674 −~0.34 kg** |
 | **Emmer bulk Y8** | **~0 @ horreum A · spent parched top-up** | **TRAIL-FOOD-PACK-10D-2990 −~0.42 kg** |
-| **Emmer bulk Y9** | **~2.53 kg @ horreum A EMMER-BULK-Y9 bay** | **BARREL-4-TOPUP-Y9-3123 −~0.85 kg** |
-| **Emmer elite Y9** | **~118 g @ SEED-VAULT** | **EMMER-Y9-HARVEST-1-3121** |
+| **Emmer bulk Y9** | **~0.85 kg @ horreum A EMMER-BULK-Y9 bay · **GERM ~HALF** · **thin eating year**** | **BIRD-PATCH-RESOW-3214 −~120 g** |
+| **Emmer elite Y9** | ****~18 g RESERVE @ SEED-VAULT** · ~95 g sown to **SEED-INCREASE-BLOCK-Y10 @ Bed C SW**** | **SEED-INCREASE-BLOCK-Y10-3211** |
 | **Emmer elite Y7** | **~0 g @ SEED-VAULT · spent into sow tray** | **SOW-PREP-Y9-2831 −~19 g** |
 | **EMMER-SOW-Y9** | **~6 g reserve @ vault** | **SPRING-SOW-Y9-2848 −~108 g** |
 | **P-06 barley trial** | **×0 spent @ sow** | **SPRING-SOW-Y9-2848 −~11 g** |
 | **P-17-ELITE-Y8** | **~5 g reserve @ vault** | **SPRING-SOW-Y9-2848 −~45 g** |
-| **P-18 chickpea Y8** | **~143 g @ horreum A pulse bay P-18-Y8** | **TRAIL-FOOD-PACK-8D-3022 −~20 g trail** |
-| **P-17 lentil Y8** | **~91 g @ horreum A pulse bay P-17-Y8** | **TRAIL-FOOD-PACK-8D-3022 −~15 g trail** |
-| **P-17 lentil Y9** | **~159 g @ horreum A pulse bay P-17-Y9** | **LENTIL-EMMER-STEW-Y9-3124 −~95 g** |
+| **P-18 chickpea Y8** | **~0 @ horreum A pulse bay P-18-Y8 · **sown**** | **SOW-Y10-D2-3212 −~143 g** |
+| **P-17 lentil Y8** | **~0 @ horreum A pulse bay P-17-Y8 · **sown**** | **SOW-Y10-D2-3212 −~91 g** |
+| **P-17 lentil Y9** | **~0 @ horreum A pulse bay P-17-Y9 · **sown**** | **SOW-Y10-D2-3212 −~159 g** |
 | **P-17-ELITE-Y9** | **~51 g @ SEED-VAULT** | **PULSE-Y9-HARVEST-1-3122** |
 | **Y8 stew jar** | **~0.06 kg @ cool cellar step tail** | **TRAIL-MAINT-EXPED-8-PACK-2903 −~0.50 kg trail crock** |
-| **P-18 chickpea Y7** | **~52 g @ horreum A pulse bay P-18-Y7** | **TRAIL-MAINT-EXPED-8-PACK-2903 −~20 g trail** |
-| **P-17 lentil Y7** | **~96 g @ horreum A pulse bay P-17-Y7** | **TRAIL-MAINT-EXPED-8-PACK-2903 −~40 g trail** |
+| **P-18 chickpea Y7** | **~0 @ horreum A pulse bay P-18-Y7 · **sown**** | **SOW-Y10-D2-3212 −~52 g** |
+| **P-17 lentil Y7** | **~0 @ horreum A pulse bay P-17-Y7 · **sown**** | **SOW-Y10-D2-3212 −~96 g** |
 | **Y7 stew jar** | **~0 @ cool cellar step · tail spent** | **BITUMEN-FOOD-PACK-2579 −~0.35 kg trail** |
 | **Emmer elite Y6** | **~18 g @ SEED-VAULT** | **SPRING-SOW-Y7-2129 −~80 g sow** |
 | P-18 chickpea Y5 | ~164 g | Pulse bay post-expand |
 | P-17 lentil Y5 | ~178 g | Pulse bay |
 | **P-18 chickpea Y6** | **~0 @ horreum A pulse bay P-18-Y6 · spent trail** | **TRAIL-MAINT-EXPED-7-PACK-2892 −~23 g trail** |
 | **P-17 lentil Y6** | **~91 g @ horreum A pulse bay P-17-Y6** | **TRAIL-MAINT-EXPED-7-PACK-2892 −~30 g trail** |
-| Seed vault | **P-14 ~0 · P-15 ~0 · P-21 ~0 · **P-07-ELITE-Y10 ~11 g** · **FLAX-SOW-Y10 tray staged** · **HEMP-SOW-Y10 tray staged** · **P-03-SEL-Y8 ~14 g** · **P-03-SEL-Y9 ~13 g** · **EMMER-SOW-Y9 ~6 g reserve** · **P-17-ELITE-Y8 ~5 g reserve** · **P-18-ELITE-Y8 ~52 g hold** · **HEMP-SEL-Y10 ~16 g** · **HEMP-SEL-Y7** Ghab tail @ vault · **herb Y9: P-CORIANDER-SEL-Y9 ~6 g · P-ALLIUM-SEL-Y9 ~4 g · P-THYME-SEL-Y9 ~4 g · P-ROSEMARY-SEL-Y9 ~7 g · P-PARSLEY-SEL-Y9 ~3 g · mint slips replanted d2870**** | **SEED-VAULT-AUDIT-3175** |
+| Seed vault | **P-14 ~0 · P-15 ~0 · P-21 ~0 · **P-07-ELITE-Y10 ~11 g** · **FLAX-SOW-Y10 tray staged** · **HEMP-SOW-Y10 tray staged** · **P-03-SEL-Y8 ~14 g** · **P-03-SEL-Y9 ~13 g** · **EMMER-SOW-Y9 ~6 g reserve** · **P-17-ELITE-Y8 ~5 g reserve** · **P-18-ELITE-Y8 ~52 g hold** · **HEMP-SEL-Y10 ~0 — sown to Bed A north seed strip d3218 · **this IS the Ghab line, gen 4 since Y7**** · ****HEMP-SEL-Y7 Ghab spare tail ~17 g — DEAD, written off d3218 *(oily seed, 3 yr — spare only, line unaffected)**** · **HEMP-SOW-Y10 tray spent d3218** · **herb Y9 — SOWN d3219, reserves only: P-CORIANDER-SEL-Y9 ~1 g · P-ALLIUM-SEL-Y9 ~0 · P-THYME-SEL-Y9 ~0 · P-ROSEMARY-SEL-Y9 ~1 g · P-PARSLEY-SEL-Y9 ~0.5 g · mint → MINT-CROCK-1**** | **SEED-VAULT-AUDIT-3175** |
 | Fig leather | **~770 g rolled @ horreum east rack peg** | **FEAST-YULE-3145 −~65 g** |
 | **Fresh grape hold** | **~1.15 kg @ cool step** | **FEAST-YULE-3145 −~120 g** |
 | **Grape must Y9** | **~2.23 L @ AMPHORA-9 · **GRAPE-FERMENT-Y9-1**** | **FEAST-YULE-3145 −~120 ml** |
@@ -179,7 +184,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **FT-Y8-FLOOR-TILE-3** | **×9 fired PASS @ bench stack · FT-Y8-17…25 · FT-Y8-12 marginal edge** | **FT-Y8-TAP-2593 ✓** |
 | **FT-Y8-DARK-GLAZE** | **×0 @ bench · ×8 deployed @ culina backsplash checker **—** **FT-Y8-GLAZE-BAND-1 ~d2594** | **CULINA-WET-BACKSPLASH-1-2722/2723** |
 | **FT-Y8 @ bench post-splash** | **×7 PASS · ×2 marginal (FT-Y8-4 · FT-Y8-12) · floor checker defer** | **CULINA-WET-BACKSPLASH-1-2722/2723 −×16 checker** |
-| **P-FAVA dry seed** | **~209 g @ horreum A pulse jar · Y7 tail ~91 g + Y8 pick ~118 g** | **FAVA-POD-PICK-Y8-2594 · sow −~4 g Y8** |
+| **P-FAVA dry seed** | ****~25 g RESERVE @ vault** — bank spent to the sow · **fava is now the limiter on the bare ground**** | **FAVA-EXTEND-Y10-3214 −~184 g** |
 | **KAOLIN-SLIP-2** | **~2.0 kg @ chem porch jar · rank #2 · **lane primary**** | **PORC-TOILET-GLAZE-1-2830 −~180 g** |
 | **MONT-CAND-1** | **~2.5 kg wet gross @ chem porch separate peg · mont rank only · unwashed** | **KAOLIN-WASH-RANK-1-2527 hold** |
 | **KAOLIN-CAND-4-EAST** | **✓ spent @ KAOLIN-WASH-CAND-4-EAST-2562** | **→ KAOLIN-SLIP-5 ~10.1 kg** |
@@ -261,12 +266,12 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **P-LAB-ACID-BOTTLE-7…12** | **×6 empty spares @ ACID-SPARE-PEG · ~120 ml narrow-neck** | **GLASS-ACID-BOTTLE-SPRINT-Y9-HERO-CLOSE-2890** |
 | **GREEN-VITRIOL** | **~17 g crystals @ reagent shelf · tail** | **PRUSSIAN-COMBINE-1-3020 −~38 g** |
 | **PRUSSIAN-BLUE-PIGMENT-1** | **~24 g @ craft cabinet 2 pigment shelf · NOT FOOD** | **PRUSSIAN-PIGMENT-FINISH-1-3021** |
-| **STRONG-ACID bank** | **~8 ml H₂SO₄ · BOTTLE-2/3/5/6 · AMBER** | **GEN-LOAD-1-3199 −~4 ml electrolyte** |
+| **STRONG-ACID bank** | **~8 ml H₂SO₄ · BOTTLE-2/3/5/6 · **LOW** · ~4 ml **held live in the kept cell**** | **ACID-RECOVER-3205 +~3 ml boiled back** |
 | **NITRIC-ACID-1** | **~34 ml aqua fortis @ BOTTLE-4 · batch 1** | **ACID-NITRIC-1-2793** |
 | **HYDROCHLORIC-ACID-1** | **~40 ml muriatic @ BOTTLE-1 · cassiterite wash GREEN** | **ACID-HCL-CAPTURE-2-2961** |
 | **BARREL-4** | **~0.50 kg cracked @ v1 working grain** | **BARREL-4-TOPUP-Y9-3123 −~0.35 kg parched** |
 | Ice vault | **~130 kg hard class · **FULL to cap** · Y10 record · arc CLOSED** | **ICE-VAULT-STOW-3193 +~26.2 kg nett @ niche 2** |
-| Acorn shelled / roast | **~0 @ nut tray · trail bed spent** | **TRAIL-MAINT-EXPED-9-PACK-2918 −~4.43 kg acorn class** |
+| Acorn shelled / roast | ****~1.86 kg @ nut tray** · Y9 batches ×3 · **1–3 mo dry**** | ****RETCON ACORN-GATHER-Y9** — see [retcon](journal/retcons/ACORN-GATHER-Y9.md)** |
 | Acorn bulk shell-on | **~0.80 kg @ v1 mat + WOOD-CRATE-4** | **ACORN-ROAST-TOPUP-3022 −~1.0 kg** |
 | **ACORN-LEACH-Y8-6** | **✓ spent @ trail roast** | **TRAIL-FOOD-PACK-8D-3022 −~0.62 kg** |
 | **P-FLAX-LINE-Y8-1** | **~1.03 kg @ WW peg · P-RETT-23 break/heckle** | **SPIN-WHEEL-2-SPIN-TRIAL-1-3135 −~15 g** |
@@ -291,8 +296,15 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **Zn voltaic plates** | **~40 spare @ storage wing · VOLTAIC-RESERVE** | **VOLTAIC-8-CELL-BUILD-3000 −×8** |
 | **Cu voltaic plates** | **×0 spare · gen-1 anode stock **RED**** | **CU-REFINE-SPRINT-2962 −×1** |
 | **CU-GEN2-STOCK-1** | **×0 spent @ last scrap sprint** | **CU-PLATE-SPRINT-2976** |
-| **CU-GEN2-VOLTAIC-PLATES-1** | **×24 @ tray spare · **×8 LIVE in VOLTAIC-8-CELL-1**** | **GEN-LOAD-1-3199 −×1 anode pitted** |
+| **CU-GEN2-VOLTAIC-PLATES-1** | **×21 @ tray spare · **×8 LIVE in VOLTAIC-8-CELL-1**** | **BLOWPIPE-TIP-1-3206 −×1 tip block** |
 | **ELECTROLYSIS-CELL-1** | **Crock + Cu cathode + inverted GLASS-BOTTLE-9 capture @ chem porch · **anode needs Pb or carbon**** | **GEN-LOAD-1-3199** |
+| **GASHOLDER-2** | ****~60%** @ CRAFT-WING · **tub ~0.55 × 0.45 m ✓ lined + scrim** · **Bell A ~9.5 L ✓ crown battened · air-tight** · **Bell B ~4.8 L ✗ bevels re-cut** · guides cut long · **cocks blocked on BRASS-POUR-1**** | **GASHOLDER-2-LINE-1-3209** |
+| **GASHOLDER-1 gas held** | ****FULL · Bell A H₂ ~0.9 L · Bell B O₂ ~0.45 L** = **~85 s of flame**** | **GAS-BANK-1-3207** |
+| **BLOWPIPE-1** | ****✓ LIT** · two-bore Cu tip · **no mixing chamber** · clay handle · keyed lines** | **BLOWPIPE-1-LIGHT-3206** |
+| **WATER-TRAP-1 · 2** | ****✓ ×2** · half-water jars · dip-in / headspace-out · **flashback stop + flow gauge**** | **WATER-TRAP-1-3206** |
+| **GASHOLDER-1** | **✓ LIVE @ Atelier · bitumen oak bath · **Bell A H₂ ~0.9 L · Bell B O₂ ~0.45 L** · guides · hoods · keyed dip-tube lines · **pinch clamps** · fill line marked** | **GASHOLDER-1-CLOSE-3203** |
+| **GAS-TERMINALS-1** | **✓ ×4 Cu binding posts *(threaded @ LATHE-V2)* · ×2 Cu leaf clips · cathode post notched** | **GAS-TERMINALS-1-3203** |
+| **ANODE-NARROW-1** | ****Pb strip ~15×60 mm · brown PbO₂ formed · evolves O₂ steadily**** | **ANODE-NARROW-1-3205 *(recast from ANODE-PB-1)*** |
 | **LIQUID-PUMP-2** | **✓ LIVE @ wagon liquid-insert pump peg · Cu barrel · brass checks · hose paired** | **LIQUID-PUMP-2-3170** |
 | **WIRE-CU-GEN2-1** | **~48.65 m @ chem peg · ~0.9 mm gen-2** | **LIQUID-BUNG-KIT-1-3171 −bore sleeve** |
 | **CU-WIRE-SCRAP-ORE-1** | **×0 spent @ last electrowin sprint** | **CU-PLATE-SPRINT-2976 −~130 g** |
@@ -303,7 +315,9 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **EM-COIL-2** | **✓ RETIRED · gen-1 wind scrapped · core → EM-COIL-3** | **EM-COIL-3-GEN2-3158** |
 | **EM-COIL-3** | **~280 turns gen-2 @ iron core ~185 g · bench fixture @ chem porch** | **EM-COIL-3-GEN2-3158 · leads C/D** |
 | WIRE-DRY-1 legacy | ~2.6 m @ ~0.75 mm class | Chem cab · untouched d1979 |
-| O-1 malachite | **×0 spent · tail ~0.48 kg @ slag dish** | **CU-SMELT-O1-2985** |
+| O-1 malachite | ****~34.6 kg Y10 @ pile 4 · dressed at the face**** *(+ tail ~0.48 kg @ slag dish)* | **MG1-ORE-RUN-1-3228** |
+| **AZURITE-1** | ****~1.4 kg @ chem porch** · smelts as copper **OR** grinds as **blue pigment**** | **MG1-ORE-RUN-1-3227** |
+| **CACHE-MG1-1** | ****~15 kg dressed + cairned AT THE FACE** · head start on the next run** | **MG1-ORE-RUN-1-3227** |
 | **CU-PRILL-O1-2985** | **×0 spent · O-1 prill line CLOSE** | **CU-WIRE-GEN2-DRAW-3-3157 −~300 g** |
 | H-11 hematite | **~8.85 kg** | **IRON-BLOOM-SMELT-3108 −~2.8 kg** |
 | Iron bloom (mounted) | **~1.06 kg · GREEN** | **IRON-BLOOM-SMELT-3108 +~720 g merge** |
@@ -379,7 +393,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | **ACID-DISTILL-3-2827** | **✓ ~62 ml @ BOTTLE-5** | |
 | **PORCELAIN-CAST-SLIP-1** | **✓ spent @ cast batch-2825** | |
 | **BRASS-TRIM-PARTS-1** | **✓ installed d2434 @ RECORDS-DESK-1 · tray empty** | **BRASS-ORNAMENT-INSTALL-2434** |
-| Pb metal | **~70 g tail @ forge jar** | **PENDULUM-WEIGHT-2916 −~820 g** |
+| Pb metal | **~15 g tail @ forge jar · **RED** · galena restock queued** | **ANODE-INERT-1-3202 −~55 g** |
 | ZnO calcine | **~849 g** | **BRASS-CEMENTATION-BATCH-10-3102 −~27 g** |
 | **Zn metal** | **~81 g prill tail @ chem-lab lidded tray** | **ZN-PLATE-SPRINT-2978-2979** |
 | Kisecik fringe pyrite | **~0.38 kg @ ore shelf · **PYRITE-SPARK-TIN-1 ~22 g @ FK-1**** | **PYRITE-SPARK-TRIAL-3127 −~18 g** |
@@ -395,12 +409,12 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Flax line | **~425 g @ STORAGE-WING N lower shelf** | **WHEEL-SPIN-Y8-3-2709 −~130 g** |
 | Flax tow | **×0 bank spent · tow tail in shive lane** | **SEAT-YOKE-PADS-3091 −~220 g** |
 | Madder dry | ~79 g | v1 CHEM |
-| Tallow | **~88 g @ v1 trough jar** | **ICE-HAUL-Y10-PREP-3186 −~4 g** |
-| Beeswax | **~438 g @ v1 CHEM / craft cabinet 2** | **COMMUTATOR-1-3198 −~15 g** |
+| Tallow | **~78 g @ v1 trough jar** | **GAS-COCK-1-3203 −~10 g lapping grease** |
+| Beeswax | **~426 g @ v1 CHEM / craft cabinet 2** | **ANODE-REMASK-3204 −~12 g** |
 | Cork bark | **~1.02 kg** | **LIQUID-BUNG-KIT-1-3171 −~12 g** |
 | Quartz frit | ~120 g | Vial G-FRIT |
 | **Bitumen sample** | **~220 g @ chem-lab · P-vial BITUMEN-SAMPLE-1 · scout chip d2269 · double-red NOT FOOD** | **BITUMEN-SCOUT-1 scout** |
-| **Bitumen bulk** | **~15.1 kg @ BITUMEN-POT-1 · **~1.5 kg chip @ cart trial tin** · NOT FOOD** | **BITUMEN-GHAB-COLLECT-LAP-1-2943 +~7.2 kg** |
+| **Bitumen bulk** | **~9.7 kg @ BITUMEN-POT-1 · **~1.5 kg chip @ cart trial tin** · NOT FOOD** | **GASHOLDER-2-LINE-1-3209 −~3.1 kg** |
 | **ASPHALT-TEST-1** | **~0.6×0.4 m strip @ hub S apron · ~18 mm crown · cure 48–72 h · NOT FOOD path** | **ASPHALT-TEST-POUR-1-2583** |
 
 ## Fiber · hide · rope
@@ -431,7 +445,7 @@ Pile key (camp 0 m): 1 clay · 2 cordage · 3 green brick · 4 stone/ore · 5 wo
 | Goat horn billie | **~65 g remnant @ WORKBENCH peg** | **PRUSSIAN-BLOOD-LYE-ROAST-1-3015 −~115 g** |
 | Sinew dry | **~32 g @ bench + wet queue cleared** | **WAGON-BRAKE-3090 −~12 g** |
 | **DEER-HIDE-1** | **~0.54 m² tanned @ horreum B LEATHER-STOCK-PEG-1** | **LIQUID-PUMP-2-3170 −cup disk** |
-| **LIQUID-HOSE-1** | **~4.1 m leather/reed · Cu barbs · paired @ LIQUID-PUMP-2** | **LIQUID-PUMP-2-3170 mount** |
+| **LIQUID-HOSE-1** | **~3.2 m leather/reed · Cu barbs · paired @ LIQUID-PUMP-2** | **GASHOLDER-1-D2-3202 −~0.9 m gas lines** |
 | **GOAT-HIDE-A03-2** | **~0.09 m² reserve @ horreum B · flap tail** | **LIQUID-PUMP-2-HEAD-3169 −2 disks** |
 | Goat meat smoked | **~0.66 kg @ v1 cool shelf** | **FEAST-YULE-3145 −~60 g** |
 | Goat meat fresh | **~0.35 kg @ larder chill** | **GOAT-SMOKE-TOPUP-3128 −~1.0 kg** |
@@ -458,9 +472,30 @@ Wardrobe, bedding, and peg clothes: [fixtures](inventory/fixtures.md).
 | Humphrey | HOLDING-1 B | Jack · **ANIMAL-BLANKET-SET-1** color-coded · TEAM-ROTATION-3 |
 | Silas | HOLDING-1 C | **ANIMAL-BLANKET-SET-1** color-coded · trace-rest · TEAM-ROTATION-3 |
 | Goats ×3 | P-GOAT-1 | **#1 DOE in milk ~0.45 L/d · #2 BILLIE west rail · **#3 BUCKLING kid** · horns KEPT · wether by weaning** |
-| **Goat milk crock** | **~0.30 L @ cool cellar step · daily draw** | **CHEESE-Y10-1-3200 −~2.0 L** |
-| **Fresh cheese Y10-1** | **~230 g @ cool cellar step · acid-set · **3–7 d**** | **CHEESE-Y10-1-3200** |
-| **Whey** | **~1.3 L @ cool step · cook grain in it** | **WHEY-GRAIN-3200 −~0.4 L** |
+| **Goat milk crock** | ****~0 L** — set to cheese d3226 · ****kid #3 left on the doe for the M-G1 run**** | **CHEESE-Y10-5-3226 −~1.8 L** |
+| **Curd Y10-5** | ****~70 g · clean set · pressed**** | **MG1-ORE-RUN-1 rations −~135 g** |
+| **NITRE-EARTH-CAVE3-1** | ****×0 spent — ASSAYED NEGATIVE d3222**** | **NITRE-EARTH-ASSAY-1-3222 −~2.5 kg** |
+| **BITTER-SALT-1** | ****~5 g @ chem porch · EPSOM CLASS** — **sulfate** *(hepar ✓)* of an earth **not lime** *(lime water precipitates it)* · ****no soda** — clean hydrogen flame* · identity narrowed** | **SALT-ID-1-3223 −~3 g** |
+| **GYPSUM-RESIDUE-1** | ****~2.1 kg @ chem porch · CONFIRMED GYPSUM** — thumbnail-soft · **no vinegar fizz** · gritty** | **SALT-ID-1-3223** |
+| **GYPSUM-PLASTER-GRADE-1** | ****×0 — washed to powder**** | **PLASTER-PURIFY-1-3225** |
+| **GYPSUM-CLEAN-POWDER-1** | ****~24 kg @ chem porch dry store** · **raw stone — burn small batches on demand**** | **PLASTER-PURIFY-1-3225** |
+| **PLASTER-CALCINED-1** | ****~2.1 kg working stock · STALES in damp air — use it**** | **PLASTER-BATCH-1-3225** |
+| **GYPSUM-FIELD-GRADE-1** | ****~15.4 kg @ pile 7** · gritty · strip-trial stock** | **GYPSUM-STRIP-TRIAL-1-3225 −~1.6 kg** |
+| **PLASTER-WALL-SWATCH-1** | ****~0.24 m² @ craft wing · set hard, burnished** · attempt 1 failed on a **dry** wall** | **PLASTER-WALL-SWATCH-1-3225** |
+| **GYPSUM-STRIP-TRIAL-1** | ****×6 alternating ~2 m blocks @ Bed B lentil run · ~150 g/m² · staked** · reads: rain-crust · flowering · **weigh by block**** | **CI-1 · d3225** |
+| **SELENITE-DESK-1** | ****×1 trimmed sheet @ desk** · ****MUSEUM — reserved, not stock**** | **SELENITE-MUS-1-3228** |
+| **MUSEUM reserved** | ****AZURITE-MUS-1 · MALACHITE-MUS-1 · SELENITE-MUS-1 · PLASTER-TEST-1** — see [museum.md](museum.md) · ****not available to consume**** | **MUSEUM-1-3228** |
+| **SELENITE-1** | ****×13 clear sheets wrapped** *(×1 → desk)* · **fragile** · pane / lantern glazing** | **SELENITE-DESK-1-3225 −×1** |
+| **PLASTER-TEST-1** | ****~120 g set slab** · proof piece · **roast gently → re-wet → hard in minutes** · **over-roast = dead**** | **PLASTER-TEST-1-3223** |
+| **NITRE-BED-COVER-1** | ****✓ dark sun-side cover @ north lee**** | **FARM-CARE-3223** |
+| **CAVE-3-SHELF-1** | ****✓ dry-stone · slab ~1.1 × 0.5 m on ×3 corbel piers · ~0.5 m up · hand's width clear of the wall** · load-tested** | **CAVE-3-SHELF-1-3221** |
+| **CAVE-3-PATH-1** | ****✓ ×11 out-canted steps · ~4 m diversion trench · drip lip · fixed line · ×2 skid stones in the crawl**** | **CAVE-3-PATH-1-3221** |
+| ~~Spring greens~~ | ****FINISHED d3219**** | **SPOILAGE-FIRST-3219** |
+| **Curd Y10-4** | ****×0 spent**** | **SPOILAGE-FIRST-3221 −~30 g** |
+| ~~Fresh cheese Y10-3~~ | ****FINISHED d3218 · spoilage-first · Y10-4 due**** | **SPOILAGE-FIRST-3218** |
+| **Whey** | ****~7.05 L** @ cool step · ****PLASTER RETARDER** — gauging with whey doubles working time to ~25 min** | **CHEESE-Y10-5-3226 +~1.55 L** |
+| **HERB-LAYER-1** | ****×4 rosemary · ×4 thyme** pegged + stoned @ herb margin · **sever autumn once rooted**** | **HERB-LAYER-1-3219** |
+| **MINT-CROCK-1** | ****✓ bottomless crock sunk to the rim** @ culina bed · runners contained** | **HERB-SOW-Y10-3219** |
 | **HOLDING-WIND-BREAK-1** | **✓ LIVE @ north lee · brush · straw · shive pack** | **HOLDING-WIND-BREAK-1-3098** |
 | Browse @ home | **~5.3 d ✓** | **HOLDING-WALK-3177 −~0.2 d** |
 

@@ -43,6 +43,15 @@ On each trigger in the matrix:
 | **Trail / climb / forage hero** | **PLAYER-FALL-INJURY** · poison rows if relevant |
 | **Hero-day end** | **Genuine risk only** — see hazards.md mishap doctrine | **MISHAP-POOL-POP** if pool **≥ 8** after qualifying hero |
 
+## Plausibility filter *(player directive, d3223)*
+
+The rolls exist for **variety and spontaneity**, not for slapstick. **A roll is an input, not a verdict.**
+
+- **Ignore a HIT or a MISS at discretion** when the result does not survive common sense, or when no good in-world justification exists. Say nothing about the ignored roll — do not narrate a non-event.
+- **Never** turn a routine, well-practised action into a disaster because a number came up. The player is **experienced, careful, and patient** — competence is the baseline and mishaps should read as *plausible bad luck*, not *critical fumble*.
+- **Roll fewer things.** Prefer a small set of rolls that genuinely could go either way over a wide spray of trivia.
+- Severity scales with **genuine novelty or risk**, not with routine repetition.
+
 ## Do not
 
 - Improvise yes/no for catalog hazards without running the roll.

@@ -8,6 +8,24 @@ alwaysApply: true
 
 When playing the tech-tree journal campaign:
 
+## THE RULE (player directive, d3218)
+
+**Every sow and every harvest in [player-calendar.md](player-calendar.md) is MANDATORY.**
+
+- The only valid skip is an **explicit player defer**, stated in that turn. Silence is not a defer.
+- A defer is only reasonable when **existing surplus already covers the next full year**. This has **never yet been true** — assume it is not.
+- **The player will not forget and will not skip.** If something in a live window is unlogged, that is an **agent failure**, not a player choice. Do not write it up as a miss.
+- **Never let a window close silently.** Name the outstanding items *before* the band ends.
+
+## Window audit — required
+
+Run this **whenever the player asks "am I done sowing / harvesting?" or "anything else to plant / pick?"**, and **unprompted on the last ~3 days of any sow or harvest band**:
+
+1. Open **player-calendar.md** and read the **full band line**, not memory.
+2. List **every named crop in that band** and mark each **IN / PICKED / OUTSTANDING** against the journal.
+3. **Answer with the outstanding list and the days remaining.** If nothing is outstanding, say so explicitly.
+4. If a band closed with items unlogged → **file a retcon** in `journal/retcons/` *(precedent: [ACORN-GATHER-Y9](../../journal/retcons/ACORN-GATHER-Y9.md))*.
+
 ## Non-negotiable events
 
 1. **SPRING-SOW** — Must be hero-logged in the journal when frost gate opens (Cal-Y*n* D67 class, ~Days 1399–1417 band in Y5). Beds are **not** fallow after sow until harvest cut.
@@ -35,3 +53,12 @@ When any day includes **FARM-CARE**, **farm scare**, or **farm fork loop** (Bed 
 ## If continuity breaks
 
 - File retcon in `journal/retcons/` and patch the sow day + harvest days — do not let the game proceed on empty beds when prep was done for grain.
+
+## Known collision points *(these are where windows get lost)*
+
+| Band | Collides with | Guard |
+|----|----|----|
+| **15 Sep – 30 Nov acorn** | **Grain + pulse harvest** | **Lost in Y9 — retcon filed. Flag on every farm pass in band.** |
+| **~5 Sep – 10 Oct Ghab hemp seed** | **Exped closes 27 Sep** | **Go early in the band or not at all.** |
+| **26 Feb – 16 Mar spring sow** | **Long build arcs** | **Herbs are last and are the item most likely to be dropped.** |
+| **1 Nov – 28 Feb grape prune** | **Winter build / ice haul** | **Calendar says do not skip.** |

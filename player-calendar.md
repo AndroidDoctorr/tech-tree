@@ -4,6 +4,12 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 **Forage detail:** [resource-map.md](resource-map.md) · **Food grammar:** [food-menu.md](food-menu.md)
 
+> ## ⚑ EVERY SOW AND EVERY HARVEST ON THIS CALENDAR IS MANDATORY
+>
+> **Filed d3218.** The only valid skip is an **explicit player defer stated that turn** — silence is never a defer, and a defer is only reasonable when **surplus already covers the next full year** *(which has never yet been true)*.
+>
+> **The player does not forget and does not skip.** An unlogged item in a live window is an **agent failure**. Agent must **name outstanding items before any band closes**, and **audit the full band line — not memory — whenever asked "am I done?"**. A band that closed with items unlogged gets a **retcon**.
+
 ---
 
 ## January
@@ -49,6 +55,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **21 Jun** — Summer solstice
 - **26 Jun** — **Wild flax pull opens** *(ditch W · T-1 lip · FLAX-PATCH-1 — not Bed B field drill)*
 - **26 Jun – 26 Jul** — **Wild / patch flax pull window** *(second fiber lap · combine with woad walks OK)*
+- **Jun** — **WILD-GRAIN-GATHER** *( **P-06 wild barley** @ P-06-A/B/C · **P-05 einkorn** @ P-05-A/B · **stands staked d3215 ~200 m** · **wild heads shatter as they ripen — cut early and repeatedly, do not wait for one perfect day** · **rebuilds the P-06 barley seed line, bank is zero**)*
 
 
 
@@ -62,6 +69,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ## August
 
 - **15 Aug – 30 Sep** — **Hemp cut (Bed A north)** *(fiber-first · before seed hard · **FARM-CARE flag if overdue**)*
+- **~20 Jul – 20 Aug** — **WILD HEMP · fibre band** *(cut **at flowering** · **pull the males right after they shed pollen** — that is the finest fibre and they die back anyway · **local / campus-margin stands only — fibre is too bulky to carry from Ghab**)*
 - **1 Aug** — **Wild grape pick opens** *(P-03 · T-2 trellis · must · leather · vinegar · yeast mother · **partial strip OK through Oct**)*
 - **1 Aug – 15 Sep** — **Bed D fig pick** *(FIG-C1–C4 @ farm · **FARM-CARE eyes** · fresh + leather · **not missable**)*
 - **1 Aug – 15 Sep** — **Wild fig P-12 optional** *(~650 m NW · extra lap if named — not required if Bed D picked)*
@@ -76,8 +84,11 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **Sep – Dec** — **Goat rut band** *(billie #2 active · **separate pens if no planned breeding** · rut read @ FARM-CARE · **P-GOAT-1** · rolls: [hazards.md — GOAT-RUT-BREED](hazards.md#catalog))*
 - **1 Sep – 15 Oct** — **Pistachio P-01 kernel harvest** *( **wild only** · T-2 ~160 m · **not on farm** · hull · dry · shell · **primary — don't skip**)*
 - **~20 Nov – 1 Dec** — **Pistachio ground-recovery tail only** *(missed primary · modest sweep under trees · not a full pick)*
-- **15 Sep – 30 Nov** — **Acorn gather window** *(P-09 terrace · shell · leach · roast — calorie supplement)*
+- **15 Sep – 30 Nov** — **Acorn gather window** *(P-09 terrace · shell · leach · roast — calorie supplement)* **— CALENDAR HERO, not opportunistic. This band collides with grain harvest every year and that is how Y9 was lost *(see [retcon](journal/retcons/ACORN-GATHER-Y9.md))*. Agent flags it on farm passes like a perennial.**
 - **15 Sep – 31 Oct** — **NITRE-BED leach band** *(NITRE-BED-1 @ north lee · leach earth · filter · boil down · **wood-ash potash swap** · crystallise · recharge bed after)*
+- **~5 Sep – 10 Oct** — **WILD HEMP · seed band · GHAB RUN** *(females hold seed ~5–6 wk after pollination · **strip seed, then cut the female stalks for coarse fibre on the same pass** · **exped closes 27 Sep — go early in the band** · ~7 d round trip, d2048–2054 grammar)*
+  - ****Ghab is a SEED run, not a fibre run.** Seed is light, dense, and the only thing you cannot grow at home; fibre is bulky over that distance and Bed A north already grows it. Bring back **genetics** for the hemp line, not bales.**
+  - ****Purpose = fresh diversity, not rescue.** Bed A north has been a **closed population since Y6** *(one 45 g drill, four grow-outs)* and hemp is an obligate outcrosser. **Isolate any Ghab plot from Bed A north or the wind merges them in one season.***
 - **~1 Dec** — **Acorn last tail lap** *(windfall OK · then hands off until next fall)*
 - **27 Sep** — Exped / cart trips close
 
@@ -151,6 +162,21 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ---
 
 
+
+## Sowing — standing procedure *(every sow day, every bed)*
+
+| When | Action |
+|------|--------|
+| **Two days before the gate** | ****Rag-test every seed bank** that is going in · same harvest in two stores can differ by half |
+| **Gate day** | ****Read soil at seed depth**, morning and afternoon — not air, not the calendar |
+| **Before sowing** | ****Check bed area against the seed bank.** Area and seed are one plan — freeing ground does nothing if no seed is waiting |
+| **Every sow** | ****Hold a reserve from every elite bank.** Never sow a selected line out |
+| ****After rolling — always**** | ****Walk the bed and look for seed sitting proud.** Hard and stony ground defeats a roller · re-rake and hand-press those patches |
+| ****First 3 days after sowing**** | ****Bird watch.** This is when they decide whether the field is worth visiting · rattle line on the beds · brush over fine seed *(flax)* |
+| ****Until the crop roots (~3 wk)**** | ****Birds learn any single device in ~4 days.** **Move the scarecrow, change its tunic, layer devices** · they are fooled by uncertainty, not by shapes · **the seed is the target, not the crop** |
+| **Flax specifically** | ****Dense = long fibre · thin = seed.** Split the tray to get both |
+
+---
 
 ## Goats · donkeys · holding *(care ≠ hunt)*
 

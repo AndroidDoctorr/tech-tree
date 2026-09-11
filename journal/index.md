@@ -6,10 +6,38 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3200)*
+## Recent days *(append here · @ Day 3228)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3228 | [day-3228.md](days/year-009/week-462/day-3228.md) | **W462 OPEN · ore home ~34.6 kg · ****MUSEUM opened**** · birds got the patch** | **Cal-Y10 D83 · ~15 Mar** |
+| 3227 | [day-3227.md](days/year-009/week-461/day-3227.md) | **M-G1 ore run D1 · **~36 kg dressed** · azurite · cache cairned** | **Cal-Y10 D82 · ~14 Mar** |
+| 3226 | [day-3226.md](days/year-009/week-461/day-3226.md) | ****GEN-WW-1 arc opens** · cheese ✓ · rope soft-laid · exped prep** | **Cal-Y10 D81 · ~13 Mar** |
+| 3225 | [day-3225.md](days/year-009/week-461/day-3225.md) | ****PLASTER WORKS** — burn ladder · wall swatch · blocked field trial** | **Cal-Y10 D80 · ~12 Mar** |
+| 3224 | [day-3224.md](days/year-009/week-461/day-3224.md) | ****M-21 GYPSUM BED**** · ~48 kg · ****SELENITE window panes**** | **Cal-Y10 D79 · ~11 Mar** |
+| 3223 | [day-3223.md](days/year-009/week-461/day-3223.md) | **FARM-CARE all beds up · ****GYPSUM → PLASTER**** · flame + hepar tests** | **Cal-Y10 D78 · ~10 Mar** |
+| 3222 | [day-3222.md](days/year-009/week-461/day-3222.md) | ****Cave earth NOT nitre** — glowing-splint test · all-ark** | **Cal-Y10 D77 · ~9 Mar** |
+| 3221 | [day-3221.md](days/year-009/week-461/day-3221.md) | ****W461 OPEN · CAVE-3 fitted** — path + dry-stone shelf · ark/quarry split** | **Cal-Y10 D76 · ~8 Mar** |
+| 3220 | [day-3220.md](days/year-009/week-460/day-3220.md) | ****CAVE-3 dry — ark site + NITRE EARTH** · seep-horizon rule** | **Cal-Y10 D75 · ~7 Mar** |
+| 3219 | [day-3219.md](days/year-009/week-460/day-3219.md) | ****HERBS IN — SPRING SOW CLOSED** · layering · cheese fail** | **Cal-Y10 D74 · ~6 Mar** |
+| 3218 | [day-3218.md](days/year-009/week-460/day-3218.md) | **HEMP IN · Ghab **spare jar** dead · line alive gen 4** | **Cal-Y10 D73 · ~5 Mar** |
+| 3217 | [day-3217.md](days/year-009/week-460/day-3217.md) | ****HAWK-KITE-1 ✓** *(rigid failed)* · wild-hemp bands** | **Cal-Y10 D72 · ~4 Mar** |
+| 3216 | [day-3216.md](days/year-009/week-460/day-3216.md) | ****SCARECROW-1 ✓** · bird habituation doctrine** | **Cal-Y10 D71 · ~3 Mar** |
+| 3215 | [day-3215.md](days/year-009/week-460/day-3215.md) | **Wild-grain stands staked · greens · **ACORN-Y9 retcon**** | **Cal-Y10 D70 · ~2 Mar** |
+| 3214 | [day-3214.md](days/year-009/week-460/day-3214.md) | **W460 OPEN · flax split sow · fava · **birds on the emmer**** | **Cal-Y10 D69 · ~1 Mar** |
+| 3213 | [day-3213.md](days/year-009/week-459/day-3213.md) | **NITRE turn 1 ✓ · ****CAVE-1 found — chamber + spring**** | **Cal-Y10 D68 · ~28 Feb** |
+| 3212 | [day-3212.md](days/year-009/week-459/day-3212.md) | **SOW D2 pulses · **seed ran short, ⅓ bare** · cheese Y10-3** | **Cal-Y10 D67 · ~27 Feb** |
+| 3211 | [day-3211.md](days/year-009/week-459/day-3211.md) | ****SPRING-SOW-Y10 D1 ✓ emmer in** · seed-increase block** | **Cal-Y10 D66 · ~26 Feb** |
+| 3210 | [day-3210.md](days/year-009/week-459/day-3210.md) | **FARM-CARE + SOW-PREP-READ-Y10 · emmer germ poor** | **Cal-Y10 D65 · ~25 Feb** |
+| 3209 | [day-3209.md](days/year-009/week-459/day-3209.md) | **GASHOLDER-2 D2 · crown ✓ · lined ✓ · Bell B re-cut** | **Cal-Y10 D64 · ~24 Feb** |
+| 3208 | [day-3208.md](days/year-009/week-459/day-3208.md) | **GASHOLDER-2 D1 · tub ✓ · bell crown fail → battens** | **Cal-Y10 D63 · ~23 Feb** |
+| 3207 | [day-3207.md](days/year-009/week-459/day-3207.md) | **GAS-BANK-1 ✓ bells capped · GASHOLDER-2 sized · kid · paint** | **Cal-Y10 D62 · ~22 Feb** |
+| 3206 | [day-3206.md](days/year-009/week-458/day-3206.md) | ****BLOWPIPE-1 ✓ LIT** · water traps · **LIMELIGHT**** | **Cal-Y10 D61 · ~21 Feb** |
+| 3205 | [day-3205.md](days/year-009/week-458/day-3205.md) | **ANODE-NARROW-1 ✓ · both gases caught · cheese ×2** | **Cal-Y10 D60 · ~20 Feb** |
+| 3204 | [day-3204.md](days/year-009/week-458/day-3204.md) | **GAS-CAPTURE-1 · H₂ ✓ · O₂ ✗ sulfated** | **Cal-Y10 D59 · ~19 Feb** |
+| 3203 | [day-3203.md](days/year-009/week-458/day-3203.md) | **GASHOLDER-1 ✓ CLOSE · terminals + clamps** | **Cal-Y10 D58 · ~18 Feb** |
+| 3202 | [day-3202.md](days/year-009/week-458/day-3202.md) | **GASHOLDER-1 D2 ✓ hoods + lines · Pb anode formed** | **Cal-Y10 D57 · ~17 Feb** |
+| 3201 | [day-3201.md](days/year-009/week-458/day-3201.md) | **GASHOLDER-1 D1 ✓ · bath + bells** | **Cal-Y10 D56 · ~16 Feb** |
 | 3200 | [day-3200.md](days/year-009/week-458/day-3200.md) | **W458 OPEN · CHEESE-Y10-1 ✓ ~230 g** | **Cal-Y10 D55 · ~15 Feb** |
 | 3199 | [day-3199.md](days/year-009/week-457/day-3199.md) | **ELECTROLYSIS-1 ✓ H₂ · W457 CLOSE** | **Cal-Y10 D54 · ~14 Feb** |
 | 3198 | [day-3198.md](days/year-009/week-457/day-3198.md) | **COMMUTATOR-1 ✓ · PEDAL-GEN-1 WORKING** | **Cal-Y10 D53 · ~13 Feb** |

@@ -26,6 +26,13 @@ Track **what you notice**, **what you want next year**, and **what you actually 
 | **Hands off WOAD/madder lines** | **Dye/perennial grammar overrides grain drill** |
 | **Wild margin ≠ field drill** | **P-07 patch · ditch flax · T-2 lips** — select for **margin hardiness**, not bed uniformity |
 | **Orchard pick = selection event** | **Best fruit from **C1–C4** · largest clusters · clean skin** — eat/leather/process · **seed/cutting from winners** |
+| ****Trials go in ALTERNATING BLOCKS*** *(d3225)* | ****Never test treated-half against untreated-half.** Soil varies along a bed, so halving **confounds treatment with position** and you will believe a lie. **Run ×4–6 short blocks A·B·A·B·A·B**, stake both ends of each, **weigh by block** at harvest. One bed, one year is still weak — **repeat before believing it** |
+
+### Live trials
+
+| Trial | Design | Reads |
+|-------|--------|-------|
+| ****GYPSUM-STRIP-TRIAL-1*** @ d3225 | **×6 alternating ~2 m blocks · Bed B **lentil** run · ~150 g/m² field-grade gypsum · sulfur hypothesis *(calcium is not limiting on limestone)*** | **1. **next real rain — crust?** · 2. flowering colour/vigour · 3. ****harvest weight BY BLOCK**** |
 
 ---
 

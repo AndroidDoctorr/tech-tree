@@ -52,6 +52,8 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 
 ## Daily
 
+> ****SPOILAGE-FIRST @ d3205** — the plate is drawn from whatever is nearest the turn.** Short windows eat first: **fresh cheese 3–7 d · milk 2–3 d · soft fruit · cut meat**, then rack and store stock. Assumed in daily consumption without asking.
+
 | Dish | Ingredients | Eat / keep |
 |------|-------------|------------|
 | **Weir fish grill** | Fresh fish · salt · rosemary or mint | **Now** · leftover **1 d** ice |
@@ -102,7 +104,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](inventory.m
 | **ACORN-LEACH → roast** | Shell · leach cycles · roast | Roast **1–3 mo** |
 | **STEW jar** | Pulse + grain batch @ cool step | **3–7 d** |
 | **SALT** | S-03 → EVAP tray → scrape | **Years** |
-| **ACID-SET CURD** | **✓ d3200** — warm to **just under a simmer** (never boil) · **vinegar in a thin thread**, stirring slow · whey greens when the set is done · drain in linen ~1 h · salt | **3–7 d** cool · salted **1–2 wk** · **~11% yield by volume** |
+| **ACID-SET CURD** | **✓ d3200** — warm to **just under a simmer** (never boil) · ****PULL THE POT OFF THE FIRE** *(d3219 — boiled it once, got squeaky gravel)*** · **vinegar in a thin thread**, stirring slow · whey greens when the set is done · drain in linen ~1 h · salt · **milk from the ice-vault crock** | **3–7 d** cool · salted **1–2 wk** · **~11% yield by volume** |
 | **SALT-PRESSED CURD** | Curd → heavy salt → weight under a board → dry crust | **2–4 wk** cool — the honest limit without rennet |
 
 ---
