@@ -1,6 +1,6 @@
 ---
 description: On any farm scare or farm check, auto-read rett pool and pull when ready — no defer without player block
-globs: journal/**/*.md
+globs: journal//*.md
 alwaysApply: true
 ---
 

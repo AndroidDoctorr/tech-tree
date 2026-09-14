@@ -1,0 +1,46 @@
+---
+description: Markdown emphasis rules for journal, now.md, inventory and state files
+alwaysApply: true
+---
+
+# Journal formatting — emphasis has a CEILING
+
+## The bug this rule exists to prevent *(player report, d3259)*
+
+**`**text**` is not "extra bold". Markdown has no emphasis tier above `**bold**`.**
+
+A run of four asterisks parses as *bold opening inside bold*, so it renders as **stray literal asterisks** and the player has to find-and-replace by hand to read the file.
+
+> **Root cause: an emphasis arms race.** Once every line is `**bold**`, the only way to make the next thing stand out is more asterisks — and there is no ceiling, so it escalates. `now.md` reached **825 four-asterisk runs in 237 lines**, at which point nothing was emphasised because everything was.
+>
+> **7270 runs across 364 files were repaired by [sim/fix_asterisks.py](../../sim/fix_asterisks.py) at d3259.** Do not recreate them.
+
+## Hard rules
+
+| | |
+|---|---|
+| **NEVER write 3 or more asterisks in a row** | `**bold**` is the maximum. `***` and `**` are both wrong |
+| **NEVER wrap a whole table cell in bold** | Nested `` inside it cannot pair — markdown matches greedily, left to right, and ignores `\|` boundaries. This is the other half of the damage |
+| **Close every marker on the same line** | An unpaired `` bleeds emphasis into the rest of the row |
+
+## The emphasis ladder — use these instead of more asterisks
+
+1. **Symbol prefix** — `★★` › `★` › `⚠` › `☠`. Already the convention, already unambiguous, and it **costs no markdown**
+2. `**bold**` — one idea per line, not the whole line
+3. `> blockquote` — for the single load-bearing insight of a section
+4. `### heading` — for structure
+5. *italic* — for asides and parentheticals
+
+## Density
+
+Per [play-minimum-read.mdc](play-minimum-read.mdc): **bold names and verdicts only, not every cell.**
+
+- If more than about **a quarter of a table's cells** are bold, the bold has stopped meaning anything — cut it back rather than escalating.
+- A **Discoveries** list is already a list of important things. **Bold the claim, not the explanation.**
+
+## Check before writing a day
+
+```bash
+python sim/fix_asterisks.py          # dry run, reports damage
+python sim/fix_asterisks.py --apply  # repair
+```

@@ -1,6 +1,6 @@
 ---
 description: inventory.md is live stock only — archive history, do not recopy fixtures
-globs: inventory.md,now.md,inventory/**/*.md
+globs: inventory.md,now.md,inventory//*.md
 alwaysApply: false
 ---
 

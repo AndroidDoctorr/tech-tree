@@ -84,10 +84,106 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 | **Portico / mudroom steps + treads** | **Recommended first retrofit** | **TEMP-PORTICO class · wear + drain** |
 | **Entry pads / drain lips** | **Optional** | **Pairs with BC-1 drain grammar** |
 | **Exterior sills / thresholds** | **Optional** | **Not interior TR floor** |
-| **Wythe walls / bond beam** | **✗ NO-GO** | **Brick + lime mortar grammar** |
+| **Wythe walls** | **✗ NO-GO** | **Brick + lime mortar grammar** |
+| **Tie-columns / ring beam / plinth beam** | **✓ REQUIRED** *(d3244)*** | **SUPERSEDES the old bond-beam-only rule — see BC-2-SEISMIC |
 | **Habitable floor finish** | **✗ NO-GO default** | **TR tile or oak plank per BC-1** |
 
 **Retrofit rule:** **Per-wing optional** — not blocking new stakes. **Sluice / WW infra** may use pozz-lime concrete outside BC-1 envelope scope.
+
+### BC-2-SEISMIC — **CONFINED MASONRY** *(filed Day 3244 · Cal-Y10)*
+
+> **A damaging quake here runs about once in 125 years. I do not die. "Sound for a few decades" is the wrong frame — in a millennium this campus goes down eight times.**
+>
+> **BC-1 specifies **unreinforced single-wythe brick**, which carries weight beautifully and **has no answer at all to sideways shaking.
+
+**Prerequisite:** pozzolanic lime concrete ✓ · iron bar ✓.
+
+| Rule | Standard |
+|------|----------|
+| **Tie-columns** | **Reinforced concrete columns at **every corner and at intervals along long walls |
+| **ORDER OF OPERATIONS — the whole trick** | **BUILD THE BRICK PANEL FIRST. LEAVE THE BRICK ENDS TOOTHED *(stepped in/out course by course)*. CAST THE COLUMN AGAINST IT SECOND** so the concrete keys into the teeth.** **Cast the column first and butt brick to it and you have a post standing next to a wall — same materials, none of the benefit |
+| **Ring beam** | **Tie-beam at head must be CONTINUOUS and tied into every column — a closed RING, not four lintels** |
+| **Plinth beam** | **Tie the column bases together at socle level, **or the feet splay |
+| **Rebar** | **Modest bar suffices · **HOOK THE ENDS*** *(plain round bonds poorly)* · **twisted square bar bonds far better |
+| **Cover** | **25–40 mm concrete over every bar.** Rust swells and swelling **spalls the concrete off**. Lime-pozzolan is alkaline and **passivates iron — but only where it covers it** |
+| **Openings** | **No window or door within ~½ a wall-height of a corner*** *(corners are where shear failure starts)* · **generous lintel bearing past each jamb** |
+| **Panel length** | **Limit unbraced wall run — **column or cross-wall at intervals |
+| **Roof** | **TIE THE ROOF FRAME DOWN TO THE RING BEAM.** An untied roof leaves** · **TR tile is heavy and mass up high is what you least want — keep it, but brace and tie properly |
+
+#### Retrofit — **DO NOT REBUILD**
+
+**Existing structures are sound. Rebuilding is enormous and unnecessary. **Retrofit in this order:
+
+| Priority | Work |
+|----------|------|
+| **1** | **RING BEAM** — continuous reinforced band round each building at wall head. **Highest-value single intervention on unreinforced masonry, by a long way** |
+| **2** | **CORNER TIES** — external buttress-columns at corners, **tied through the wall.** Not as good as cast-against-toothed-brick; **far better than nothing** |
+| **3** | Plinth tie at socle where accessible |
+| **4** | Render + plaster *(BC-2-RENDER)* |
+
+**New builds: full confined masonry from the first course.**
+
+### BC-2-DAMP — **damp-proof course** *(filed Day 3244)*
+
+> **HARD GATE: no interior plaster on any wall without a DPC below it.** **Gypsum plaster over a wall that wicks groundwater will blister at the base and — because gypsum is slightly soluble — **dissolve out.
+
+| Rule | Standard |
+|------|----------|
+| **DPC** | **Continuous barrier course in the socle — **pitch bed**, or a course of **dense tile bedded in pitch · blocks capillary rise |
+| **Scope** | **Required before BC-2-RENDER on any wall** · retrofit by cutting in a course where accessible |
+
+### BC-2-RENDER — **render, plaster, scrim** *(filed Day 3244)*
+
+| Rule | Standard |
+|------|----------|
+| **Never plaster straight onto brick** | **The finish follows every irregularity, keys poorly, and **suction differs between brick and mortar joint → patchy set |
+| **Scratch coat** | **Rough lime-sand render pressed hard into the joints, SCRATCHED while green** to key the next coat |
+| **Fibre goes IN the mix** | **Chopped flax tow through the base coat*** — that is what haired plaster is* |
+| **Scrim goes on JOINTS, not walls** | **Cloth over a whole solid wall is waste and can DEBOND.** Scrim belongs **where two materials meet** — above all **over the brick-panel / concrete-column junction, which is exactly where the crack will be** — plus over lath and in corners |
+| **Gypsum = INTERIOR ONLY** | **Not waterproof, and it re-wets.** **EXTERIOR RENDER IS LIME. No exceptions** |
+| **Substrate** | **DAMP THE WALL FIRST** or it drinks the plaster's water and you get chalk** · **SET ≠ DRY** · **never re-temper |
+
+### BC-2-PRECISION — **setting-out standards** *(filed Day 3244)*
+
+| Rule | Standard |
+|------|----------|
+| **Water level** | **Two vessels and a tube — dead accurate over ANY distance**, better than any straightedge for setting a foundation |
+| **Master straightedge · square · plumb** | **Kept, checked, **not borrowed |
+| **Square by the FLIP TEST** | **Scribe against it, flip it, scribe again. If the lines diverge, the square is out by HALF the divergence.** **A square that checks itself — no external standard needed** |
+| **Mortar by MEASURING BOX** | **Batch by volume in a box, never by eye.** Consistent mortar is most of consistent masonry |
+
+## ★★★ BC-3 — SITE AND LAYOUT *(filed Day 3271)*
+
+**BC-1 and BC-2 govern the structure. BC-3 governs the ground it stands on and the arrangement of the whole campus — and it buys things a structural code cannot.**
+
+### Water
+
+| Rule | Standard |
+|---|---|
+| ★★★ **A "FLAT" SURFACE MUST NEVER ACTUALLY BE FLAT** | **Every bench, slab, yard and apron gets a deliberate cross-fall — about a finger in five paces — toward somewhere CHOSEN.** *Level is for instruments* |
+| ☠ ★★★ **SIZE DRAIN MAINS FOR THE FINAL PAVED AREA, NOT THE CURRENT ONE** | **Hard surface is always added at the TOP; the water arrives at the BOTTOM, where the drain is already built, buried, and the wrong size.** ★★ **Capacity cannot be retrofitted into a network** |
+| ☠ ★★ **A TERRACE IS A TROUGH WITH A WALL AT THE UPHILL END** | **Every cut face gets a BACK-DRAIN at its foot and the bench must fall to it** *(three of mine did not, for years — d3271)* |
+| ★★ **Keep part of the site PERMEABLE ON PURPOSE** | **Every square metre unpaved is one the drains never carry.** ★ *Beds and gravel are drainage infrastructure* |
+
+### Layout for the earthquake
+
+| Rule | Standard |
+|---|---|
+| ★★★ **REDUNDANCY OF ACCESS** | **After a shake the question is not what fell, it is WHAT CAN STILL BE REACHED.** **Two routes to water, stores and gate** · ⚠ **never the only path running between two tall things** |
+| ☠ ★★★ **NEVER CONCENTRATE THE IRREPLACEABLE** | **Seed ark, museum, records and master tools in SEPARATE buildings.** *Free at planning time; unbuyable afterwards* |
+| ★★ **Nothing heavy uphill of anything essential** | *A wall falls onto whatever is below it* |
+| ★★ **Keep an open muster space** | Nothing tall around it — for working and rebuilding |
+| ★ **Rebuild ROUTES, not only structures** | The cart has to reach the rubble |
+
+### Ground-level elements
+
+| Rule | Standard |
+|---|---|
+| ☠ **STONE at grade, never fired BRICK** | **Brick wicks; anything standing permanently in wet soil will spall.** ★ **Brick lives ABOVE a damp course, stone lives in the ground** |
+| ★★★ **NON-STRUCTURAL ELEMENTS SHOULD BE ALLOWED TO MOVE** | **Dry-lay bed borders, edgings and low garden walls.** *A mortared one cracks in frost or a shake and is then broken; a dry-laid one shuffles and is still a border* · ★★ **the opposite of the answer for a wall — same reasoning, different job** |
+| ★ **Lay a single course level and to a line anyway** | So it can become the first course of something taller |
+
+> ★★★ **COMMITTING: STAKE IT, LIVE IN IT A SEASON, THEN LAY STONE.** *A layout teaches by being WALKED what it cannot teach by being DRAWN — desire lines, standing water, where the shade falls at which hour.*
 
 ### Wet work & counters *(BC-1-WET · filed Day 2636 · cross-ref FC-1)*
 
@@ -122,7 +218,7 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 |-----------|-------------|-------|------|-------|---------|------|---------|----------|-----------|
 | **Domus H-V3** | **✓** | **✓** | **✓ TR** | **✓ impluvium · spring test** | **W LIVE ✓ · E LIVE ✓ d1953** | **✓ cluster d1939** | **✓ d1922+d1941 LIVE** | **✓** | **Hypocaust east · indirect** |
 | **Fabrica wings** | **✓** | **✓** | **✓ TR** | **✓ belt swales · verify spring** | **Chem north LIVE ✓ d2071 · culina oak+glass interim** | **Chem airlock porch ✓ d1956** | **CHEM-LAB-AIRLOCK-1 ✓** | **✓ chem** | **Vent hood + fan ✓ d1954** |
-| **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **W + S strap+glass ✓ d1802 · BC-1 windows complete** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓ · **heat stub defer**** |
+| **Atelier** | **✓** | **✓** | **✓ TR** | **✓ d1760 audit · E swale scraped · spring recheck** | **W + S strap+glass ✓ d1802 · BC-1 windows complete** | **✓ brass d1749** | **✓ TEMP-PORTICO** | **✓ coat 1** | **Hub slate · vent hood ✓ · **heat stub defer |
 | **W-1 lean-to** | **Struck d2945** | **—** | **—** | **Pad clear** | **N/A** | **N/A** | **N/A** | **N/A** | **Not a BC-1 target** |
 
 **Retrofit queue:** **CULINA-STRAP-UPGRADE-1** *(optional · last major window)* · **CAMPUS-HUB-M2-1** *(Atelier heat)* · **PORTICO-RIGOR-1** · **DOOR-BRASS-PASS-1** · **BC-1-DRAIN-SPRING-1** *(all buildings · full thaw recheck)*.
@@ -203,4 +299,4 @@ Bring **existing structures up to BC-1** before new ground stakes. Atelier is th
 
 ---
 
-*BC-1 filed Day 1759 · retrofit before expand · campus ops Day 3020.*
+*BC-1 filed Day 1759 · retrofit before expand · campus ops Day 3020 · **BC-2 amendments Day 3244 — seismic · damp · render · precision.**

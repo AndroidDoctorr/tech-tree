@@ -132,9 +132,12 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 | **WEATHER-RAIN-LIGHT** | Oct–Mar wet season | 45_000_000 | ~1 in 22 | Rain · work AMBER · char pit OK |
 | **WEATHER-RAIN-HEAVY** | Nov–Feb peak | 8_000_000 | ~1 in 125 | Soak · rett smell · trail RED loaded |
 | **WEATHER-STORM-SEVERE** | All year | 500_000 | ~1 in 2,000 | Hail/wind · roof/lash read · apiary |
-| **QUAKE-DAILY** | All year | **50** | **~1 in 20M** | Tremor · kiln/brick read |
+| **QUAKE-FELT** | All year | **7_000_000** | **~2–3 / yr** | **Flavour only.** Pots rattle, dust falls, nothing moves. **One line, no consequence, no hero.** |
+| **QUAKE-DAMAGING** | All year | **22_000** | **~1 in 125 yr** | **Cracked masonry · kiln/brick/vault read · a real hero** |
 
-*Oct @ d3094:* roll **WEATHER-RAIN-LIGHT** + passive **QUAKE-DAILY**.
+> **QUAKE-DAILY is RETIRED** *(d3235)*. It was being rolled at **3_000_000 (0.3 %/day)**, which annualises to a **67 % chance of an earthquake every single year**. The Orontes sits on a live fault and Antioch has been levelled repeatedly — but that is **once or twice a century**, not two years out of three. **Split into flavour and damage; only the damage row is worth narrating.**
+
+*Oct @ d3094:* roll **WEATHER-RAIN-LIGHT** + passive **QUAKE-DAMAGING**.
 
 ### Animals *(farm · haul)*
 
@@ -162,23 +165,23 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 
 | ID | Base threshold | Tier outcomes *(by roll index 1 on HIT)* |
 |----|----------------|---------------------------------------------|
-| **CART-WHEEL-MISHAP** | 12_000_000 | wobble trim · bind PARTIAL · rim slip hero |
-| **WAGON-HUB-BIND** | 8_000_000 | grease defer · collar refresh · hub seize |
+| **CART-WHEEL-MISHAP** | **8_000_000** *(was 12M)* | wobble trim · bind PARTIAL · rim slip hero |
+| **WAGON-HUB-BIND** | **5_000_000** *(was 8M)* | grease defer · collar refresh · hub seize |
 
 ### Forge *(hero-day)*
 
 | ID | Base threshold | Outcome |
 |----|----------------|---------|
-| **FORGE-SCALD-NEARMISS** | 25_000_000 | Burn · PPE save vs injury |
-| **FORGE-TONGS-SLIP** | 15_000_000 | Drop workpiece · jaw spring · retire tongs |
+| **FORGE-SCALD-NEARMISS** | **4_000_000** *(was 25M)* | Burn · PPE save vs injury — **~15 %/yr at ~40 forge days** |
+| **FORGE-TONGS-SLIP** | **5_000_000** *(was 15M)* | Drop workpiece · jaw spring · retire tongs |
 
 ### Player *(injury / poison only)*
 
 | ID | Base threshold | Outcome |
 |----|----------------|---------|
-| **PLAYER-FALL-INJURY** | 6_000_000 | Sprain · cut · bone · respawn rules |
-| **PLAYER-POISON-MISID** | 800_000 | Wrong plant/fungus · purge hero |
-| **PLAYER-FOOD-POISON** | 4_000_000 | Bad shellfish/batch · debilitated day |
+| **PLAYER-FALL-INJURY** | **1_500_000** *(was 6M)* | Sprain · cut · bone · respawn rules — **~1 in 22 yr at ~30 trail heroes/yr** |
+| **PLAYER-POISON-MISID** | **200_000** *(was 800k)* | Wrong plant/fungus · purge hero — **he consults the device on everything** |
+| **PLAYER-FOOD-POISON** | **800_000** *(was 4M)* | Bad shellfish/batch · debilitated day |
 
 ### Pool *(hero-day backlog)*
 

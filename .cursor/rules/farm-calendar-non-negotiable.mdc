@@ -1,6 +1,6 @@
 ---
 description: Farm sow and harvest are non-negotiable calendar events — never skip or proceed past them without a hero log
-globs: journal/**/*.md
+globs: journal//*.md
 alwaysApply: true
 ---
 

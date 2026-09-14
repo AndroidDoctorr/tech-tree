@@ -12,7 +12,7 @@
 | **Day 3073** | **Audit + cleanup moves only** · **no crates LIVE** |
 | **WOOD-CRATE-5** | **Queued @ wing E · FORGE-FASTENER** |
 | **WOOD-CRATE-6** | **Queued @ wing N · FIBER** · **after crate-5** |
-| **Draws** | **Pile 5 · nails ×26 · rope **—** **restored** |
+| **Draws** | **Pile 5 · nails ×26 · rope **—** **restored |
 | **Fiber/fastener** | **Stay @ shelf/pegs until crate deploy** |
 
 **TABLE-SAW doctrine:** **~1 crate/d** rip assist · second crate **next day** or **PM** if AM is light scare-only.

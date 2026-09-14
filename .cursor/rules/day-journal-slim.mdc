@@ -1,6 +1,6 @@
 ---
 description: Slim day-file template — one fact once, no restated PASS tables
-globs: journal/days/**/*.md
+globs: journal/days//*.md
 alwaysApply: false
 ---
 

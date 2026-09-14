@@ -1,4 +1,8 @@
-# Bridges and trail *(live crossing canon @ Day 3030)*
+# Bridges and trail *(live crossing canon @ Day 3270)*
+
+> ☠ ★★★ **REGISTER RULE, filed d3270.** *The campus bridge was in here twice under two names with two different grades for seven years.* **A fact stored twice DIVERGES, and then both copies look authoritative — and the tell is always that THE TWO COPIES DISAGREE ABOUT SOMETHING SMALL.** ★★ **One crossing, one row. If a crossing appears under two names, merge it before reading either.**
+
+> ★★ **ORDER OUT FROM CAMPUS** *(player canon d3270)*: **CAMPUS-BRIDGE @ HOME TRIB-1** → **ASI split** *(east then south into the Ghab)* → **AFRIN fork** → **KARASU crossings** → **×3 smaller streams** → **BELEN**. *Pinarus and the further streams are surveyed but not yet placed on the map sheet; Aleppo spur and Ghab stub are not on it either.*
 
 Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../route-a-road.md). Spent RESERVE/FILL 1–15 and closed columns are in [archive-pre-split-1775.md](archive-pre-split-1775.md).
 
@@ -17,7 +21,8 @@ Live crossings and remaining kits. **Leg TQ / doctrine:** [route-a-road.md](../r
 
 | Crossing | **BQ** | Notes |
 |----------|--------|-------|
-| **TRIB-FT-01 @ HOME TRIB-1** | **~3.0** | **v1 LIVE ✓ d1938** — footings · stubs · stringers · deck · **wagon PASS** |
+| ☠ **CAMPUS-BRIDGE @ HOME TRIB-1** *(canonical)* | ⚠ **~1.5** *(was filed ~3.0)* | ☠ ★★ **MERGED d3270 — was recorded TWICE: as `TRIB-FT-01` (BQ ~3.0) and as `BRIDGE-1 @ km 3 creek` (built d720, ungraded).** *One crossing. A fossil of the early campus-layout muddle, sorted on the ground and never in the records* · **First bridge out of campus, on the T-2 farm road. Concrete abutments, upgraded more than once** · ✓ **all timber and all concrete faces PROBED SOUND d3270** · ☠ ★★★ **BUT THE BED IS SCOURED OUT UNDER THE DOWNSTREAM FOOTING — a hole deeper than the footing is set.** *The bridge is in excellent condition and standing on ground that is leaving* · ★★ **every upgrade I ever made addressed the ROT clock; none touched the SCOUR clock** · ⚠ **RIPRAP APRON = a stone HERO, started d3270, not finished · lighten or avoid loaded wagon until in** |
+| **Farm-road culvert stubs ×2** | **—** | **Added to register d3270 — genuinely missing** |
 | **KARASU-TRIB-02** | **~2.0** | **~16 km · **POZZ-KIT-7 wing d2585** · pozz upstream cheek · ~2 mm loaded · cure 7 d · wood core AMBER → decade+ class** |
 | KARASU-TRIB-01 | **—** *(FQ GO · ford ◐)* | **~12 km · shore-1+2 **LIVE ✓** · cure read d2252 · knee @ both pads** |
 | ASI-ORONTES-1 | **~3.5** | **REBUILD CLOSE d2642 · concrete abuts + deck · oak demounted · foot + loaded wagon PASS d2652 · deck cured** |

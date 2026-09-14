@@ -12,6 +12,18 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 ---
 
+> ## ⚑ FOOD-DOCTRINE-Y10 · standing aim for the year *(filed d3246)*
+>
+> **Emmer came in thin — ~0.85 kg bulk. The answer is not a smaller ration, it is a different FRACTION.**
+>
+> - **BANK JERKY** — keeps without grain, cellar or bought salt, dries in spring and autumn air. **The trail bank and the winter bank are the SAME BANK**, so every hunting day pays twice.
+> - **BANK AGED RENNET CHEESE** — milk is a daily flow currently half wasted, and rennet cheese is the first cheese that can be eaten in **six months** instead of this week. *Gated on the **Jun–Aug thistle gather** below — until then, acid cheese is fresh-only.*
+> - **June WILD-GRAIN-GATHER is the real fix. The bank is the bridge.**
+>
+> **This is FOOD SECURITY, not expedition prep — it runs alongside the build arcs and does not queue behind them.**
+
+---
+
 ## January
 
 - **20 Jan** — Ice haul opens
@@ -31,9 +43,12 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 - **11 Mar** — Exped / cart trips open
 - **16 Mar** — Spring sow closes *(emmer · lentil · **field flax (Bed B center)** · chickpea · **hemp (Bed A north)** · **fava (Bed A headland)** · **culina herbs** · fava if seed)*
-- **Mar – Apr** — **Grape cluster-thin @ fruit set** *(P-03 · drop ~20–30% green bunches before swell · **CI-1** · selection year-over-year)*
+- **Mar – Apr** — **SHOOT THIN** *(P-03 · **this is the budbreak job**: doubles, blind shoots, suckers, interior growth · **snap them GREEN with a thumb** · **this summer's canopy shade decides NEXT spring's fruitful buds** · ~12–15 leaves ripens one cluster)* — **DONE d3235**
+- ⚠ **BAND CORRECTED d3257** — *cluster-thin was filed under **Mar–Apr**, which is wrong and was nearly logged as a missed window.* **Cluster-thin is a FRUIT-SET job and fruit set has not happened.** See June below.
 - **21 Mar** — Apiary expand / swarm / wax harvest opens
 - **21 Mar – 20 Apr** — **Campus herb seed save** *(coriander · allium · thyme · rosemary heads · mint root divide)*
+  - **This band is for DESIGNATING seed plants, not cutting seed** *(d3236)*. **Ripe seed is May–June.** Stake the chosen plants and **take them off the kitchen rotation the day you choose them — a plant cannot give leaf and seed both.** Select for **vigour and LATE bolting**, never size.
+  - **Woody herbs: LAYER, do not seed** — rosemary and thyme from seed are slow, poor and do not come true. **Mint is DIVIDED.***
 
 
 
@@ -53,6 +68,10 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ## June
 
 - **21 Jun** — Summer solstice
+- **Jun – Aug** — **THISTLE / CARDOON FLOWER GATHER** *(d3236 · **HIGH VALUE — this is RENNET**) *(dried flower heads steeped in warm water set milk into an **elastic curd that can be cut, cooked, pressed and AGED** — the acid-set curd I make now **can never keep**. No animal killed. **Gather heads in full flower, dry them hard, store dry.** Use **the least that sets it** — too much plant rennet, or too long an age, turns the cheese *bitter*)
+  - **PLOT RULE *(player directive d3237)*: thistle goes in its OWN isolated plot, NEVER in or near a bed.** Seed is wind-borne, so distance is not the control — **cutting every head at full flower is**, and that is the rennet stage anyway. **Never let one head ripen.** Prefer a **cardoon-type** *(big heads, one clump, does not run at the root)* over a spreading field thistle.
+- **Jun** — **HERB SEED CUT** *(d3236 designation matures · **coriander shatters — cut whole stalks brown and dry head-down in a bag** · allium · thyme · parsley)*
+- **Jun – Jul** — **GRAPE CLUSTER-THIN @ FRUIT SET** *(P-03 · **moved here d3257 from a wrong Mar–Apr line**)* — **drop ~20–30% of green bunches once the berries have set and before they swell** · **best at veraison when the keepers show colour** · **do not overthin — this sun burns exposed fruit** · CI-1 · selection year over year*
 - **26 Jun** — **Wild flax pull opens** *(ditch W · T-1 lip · FLAX-PATCH-1 — not Bed B field drill)*
 - **26 Jun – 26 Jul** — **Wild / patch flax pull window** *(second fiber lap · combine with woad walks OK)*
 - **Jun** — **WILD-GRAIN-GATHER** *( **P-06 wild barley** @ P-06-A/B/C · **P-05 einkorn** @ P-05-A/B · **stands staked d3215 ~200 m** · **wild heads shatter as they ripen — cut early and repeatedly, do not wait for one perfect day** · **rebuilds the P-06 barley seed line, bank is zero**)*
@@ -87,8 +106,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 - **15 Sep – 30 Nov** — **Acorn gather window** *(P-09 terrace · shell · leach · roast — calorie supplement)* **— CALENDAR HERO, not opportunistic. This band collides with grain harvest every year and that is how Y9 was lost *(see [retcon](journal/retcons/ACORN-GATHER-Y9.md))*. Agent flags it on farm passes like a perennial.**
 - **15 Sep – 31 Oct** — **NITRE-BED leach band** *(NITRE-BED-1 @ north lee · leach earth · filter · boil down · **wood-ash potash swap** · crystallise · recharge bed after)*
 - **~5 Sep – 10 Oct** — **WILD HEMP · seed band · GHAB RUN** *(females hold seed ~5–6 wk after pollination · **strip seed, then cut the female stalks for coarse fibre on the same pass** · **exped closes 27 Sep — go early in the band** · ~7 d round trip, d2048–2054 grammar)*
-  - ****Ghab is a SEED run, not a fibre run.** Seed is light, dense, and the only thing you cannot grow at home; fibre is bulky over that distance and Bed A north already grows it. Bring back **genetics** for the hemp line, not bales.**
-  - ****Purpose = fresh diversity, not rescue.** Bed A north has been a **closed population since Y6** *(one 45 g drill, four grow-outs)* and hemp is an obligate outcrosser. **Isolate any Ghab plot from Bed A north or the wind merges them in one season.***
+  - **Ghab is a SEED run, not a fibre run.** Seed is light, dense, and the only thing you cannot grow at home; fibre is bulky over that distance and Bed A north already grows it. Bring back **genetics** for the hemp line, not bales.
+  - **Purpose = fresh diversity, not rescue.** Bed A north has been a **closed population since Y6** *(one 45 g drill, four grow-outs)* and hemp is an obligate outcrosser. **Isolate any Ghab plot from Bed A north or the wind merges them in one season.***
 - **~1 Dec** — **Acorn last tail lap** *(windfall OK · then hands off until next fall)*
 - **27 Sep** — Exped / cart trips close
 
@@ -151,7 +170,8 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 | When               | Action                                                                                                                                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1 Aug – 15 Oct** | **Pick band** — partial strips OK · route eat-now / must / leather / vinegar · save **P-03-SEL-Y*n*** seed from sweetest clusters only                                                   |
-| **Mar – Apr**      | **Cluster-thin @ fruit set** — drop overcrowded green bunches (~20–30%) before berries swell                                                                                             |
+| **Mar – Apr**      | ★ **SHOOT-THIN @ budbreak** — doubles, blind shoots, suckers, interior growth · snap them GREEN with a thumb · *this summer's shade decides next spring's fruitful buds*                  |
+| ⚠ **Jun – Jul**    | ★★ **CLUSTER-THIN @ FRUIT SET** — drop ~20–30% of green bunches once berries have set, best at veraison · ☠ *corrected d3257 from a wrong Mar–Apr line; this table kept the stale copy until d3268 — **a fact stored twice will disagree*** |
 | **1 Nov – 28 Feb** | **GRAPE-PRUNE @ dormancy** — cordon or double-guyot · spur positions ~30–40 cm · cut crowded wood · tie new canes *( **highest yield/quality lever** · spring defer = crowded clusters)* |
 | **Each pick hero** | One **CI-1 observation row** · elite seed never mixes with field average                                                                                                                 |
 | **Optional**       | Second trellis bay ~6 m · dormant cuttings from best vine · cap ~6–12 plants *(VINEYARD-Y6-SLATE)*                                                                                       |
@@ -167,14 +187,14 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 
 | When | Action |
 |------|--------|
-| **Two days before the gate** | ****Rag-test every seed bank** that is going in · same harvest in two stores can differ by half |
-| **Gate day** | ****Read soil at seed depth**, morning and afternoon — not air, not the calendar |
-| **Before sowing** | ****Check bed area against the seed bank.** Area and seed are one plan — freeing ground does nothing if no seed is waiting |
-| **Every sow** | ****Hold a reserve from every elite bank.** Never sow a selected line out |
-| ****After rolling — always**** | ****Walk the bed and look for seed sitting proud.** Hard and stony ground defeats a roller · re-rake and hand-press those patches |
-| ****First 3 days after sowing**** | ****Bird watch.** This is when they decide whether the field is worth visiting · rattle line on the beds · brush over fine seed *(flax)* |
-| ****Until the crop roots (~3 wk)**** | ****Birds learn any single device in ~4 days.** **Move the scarecrow, change its tunic, layer devices** · they are fooled by uncertainty, not by shapes · **the seed is the target, not the crop** |
-| **Flax specifically** | ****Dense = long fibre · thin = seed.** Split the tray to get both |
+| **Two days before the gate** | **Rag-test every seed bank** that is going in · same harvest in two stores can differ by half |
+| **Gate day** | **Read soil at seed depth**, morning and afternoon — not air, not the calendar |
+| **Before sowing** | **Check bed area against the seed bank.** Area and seed are one plan — freeing ground does nothing if no seed is waiting |
+| **Every sow** | **Hold a reserve from every elite bank.** Never sow a selected line out |
+| **After rolling — always** | **Walk the bed and look for seed sitting proud.** Hard and stony ground defeats a roller · re-rake and hand-press those patches |
+| **First 3 days after sowing** | **Bird watch.** This is when they decide whether the field is worth visiting · rattle line on the beds · brush over fine seed *(flax)* |
+| **Until the crop roots (~3 wk)** | **Birds learn any single device in ~4 days.** **Move the scarecrow, change its tunic, layer devices** · they are fooled by uncertainty, not by shapes · **the seed is the target, not the crop** |
+| **Flax specifically** | **Dense = long fibre · thin = seed.** Split the tray to get both |
 
 ---
 

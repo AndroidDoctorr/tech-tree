@@ -6,33 +6,80 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3228)*
+## Recent days *(append here · @ Day 3275)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 3228 | [day-3228.md](days/year-009/week-462/day-3228.md) | **W462 OPEN · ore home ~34.6 kg · ****MUSEUM opened**** · birds got the patch** | **Cal-Y10 D83 · ~15 Mar** |
+| 3256 | [day-3256.md](days/year-009/week-466/day-3256.md) | ★★ **W466 OPEN · ROPE-2 certified for haul** · the lay is turns/metre · broke one to learn the number | **Cal-Y10 D111 · ~12 Apr** |
+| 3257 | [day-3257.md](days/year-009/week-466/day-3257.md) | ★★ **SWARM PASS · drones flying — warning at HIVE-3, hope at HIVE-6** · space given before they asked · no committed cells · ⚠ no spare box | **Cal-Y10 D112 · ~13 Apr** |
+| 3258 | [day-3258.md](days/year-009/week-466/day-3258.md) | ★★ **GEN-WW-1 EPIC CLOSED — ~7 g coherent plate** · a cell is not a resistor · the cell weighs charge · **the first machine that works while I sleep** | **Cal-Y10 D113 · ~14 Apr** |
+| 3259 | [day-3259.md](days/year-009/week-466/day-3259.md) | **HIVE-3 cut-over complete · SPARE-HIVE-1 built** · ★★ purity is a measurement · the bridge is a purity meter · **water is blocked by a number** · **the loop closes** | **Cal-Y10 D114 · ~15 Apr** |
+| 3260 | [day-3260.md](days/year-009/week-466/day-3260.md) | ★★ **CU-ASSAY-1 — density ~8.88, efficiency ~92%** · density from two weighings · four-terminal · **one equation, two unknowns** | **Cal-Y10 D115 · ~16 Apr** |
+| 3261 | [day-3261.md](days/year-009/week-466/day-3261.md) | **Plate 3 → 82 m wire · field +23%** · ★★ cell is liquor-limited · the assay can destroy the sample · ☠ **cheat-sheet doctrine** | **Cal-Y10 D116 · ~17 Apr** |
+| 3262 | [day-3262.md](days/year-009/week-466/day-3262.md) | ★★ **W466 CLOSES · HIVE-6 laying, the egg dated her mating to d3257** · controlled assay: **the real number is 11%, not 4%** · four-terminal live | **Cal-Y10 D117 · ~18 Apr** |
+| 3263 | [day-3263.md](days/year-009/week-467/day-3263.md) | ★★ **W467 OPEN · CAVE-3 dry, gypsum breaks the crust, HIVE-6 light and fed** · **put a hive on a balance** | **Cal-Y10 D118 · ~19 Apr** |
+| 3264 | [day-3264.md](days/year-009/week-467/day-3264.md) | **BASALT HAUL from Kisecik ophiolite** · finer than the crystals · ring the block · ☠ **a fresh stone moves — rough now, lap in autumn** · grit graded by settling | **Cal-Y10 D119 · ~20 Apr** |
+| 3265 | [day-3265.md](days/year-009/week-467/day-3265.md) | ★★★ **WAX CONSTRAINT ENDS — ~850 g off SKEP-1** · old brood comb is mostly cocoon · ☠ **the scale's blind spot: investing and starving read the same** | **Cal-Y10 D120 · ~21 Apr** |
+| 3266 | [day-3266.md](days/year-009/week-467/day-3266.md) | ☠ ★★ **CLOSED BEE BLOODLINE — diploid drone brood** · bait box = genetic import · **QUEEN-PATTERN-TEST** · ★★ **melt tax 4% → 1.3% under glass** | **Cal-Y10 D121 · ~22 Apr** |
+| 3267 | [day-3267.md](days/year-009/week-467/day-3267.md) | ★★★ **THE LOAD LINE — a rewind is a trade, not a gain** · power ∝ field² × speed² · **the old armature WAS the copper** · ★★★ **WATER ELECTROLYSIS LIVE** | **Cal-Y10 D122 · ~23 Apr** |
+| 3268 | [day-3268.md](days/year-009/week-467/day-3268.md) | ★★★ **Reshape the LOAD, not the machine — series REUSES current** · ☠ **THE LIQUID PATH IS A WIRE** · ☠ **a fact stored twice disagrees** · basalt datum · cheese | **Cal-Y10 D123 · ~24 Apr** |
+| 3269 | [day-3269.md](days/year-009/week-467/day-3269.md) | ☠ ★★★ **CALORIES ARE FAT — biggest stag of the year, no tallow on him** · **PEMMICAN** · **probe the abutments** · ★★★ **bitumen IS the DPC** · **WEEK CLOSES** | **Cal-Y10 D124 · ~25 Apr** |
+| 3270 | [day-3270.md](days/year-009/week-468/day-3270.md) | ☠ ★★★ **Campus bridge was in the register TWICE with two grades** · ☠ **ROT AND SCOUR ARE DIFFERENT CLOCKS — the concrete is fine, the bed is gone** · ~40 kg bitumen · **trench, never shaft** · **WEEK 468 OPENS** | **Cal-Y10 D125 · ~26 Apr** |
+| 3271 | [day-3271.md](days/year-009/week-468/day-3271.md) | ★★★ **CAMPUS-PLAN-1 — fix the water, leave the plots loose** · ☠ **my terraces fall backward into the cut** · ★★★ **a "flat" surface must never be flat** · **death-test doctrine** | **Cal-Y10 D126 · ~27 Apr** |
+| 3272 | [day-3272.md](days/year-009/week-468/day-3272.md) | ☠ ★★★ **I harvest every bee plant before it flowers — seed plants ARE bee plants** · **VITEX fills high summer** · ★★★ **a lip on every shelf** · all beds bordered | **Cal-Y10 D127 · ~28 Apr** |
+| 3273 | [day-3273.md](days/year-009/week-468/day-3273.md) | ★★★ **The nickel trip is a BOTANY trip — serpentine flora is the ore indicator** · ☠ **pentlandite is the wrong target for an ophiolite** · **SC-1 storage code** · **caves certified by 12,000 years** | **Cal-Y10 D128 · ~29 Apr** |
+| 3274 | [day-3274.md](days/year-009/week-468/day-3274.md) | ☠ ★★★ **Wax moth took SKEP-2 — ~190 g vs 850 g · the larvae eat COCOONS, not wax** · **an empty comb is not stored, it is exposed** · ☠ **the terrace water comes out of the CUT FACE** | **Cal-Y10 D129 · ~30 Apr** |
+| 3275 | [day-3275.md](days/year-009/week-468/day-3275.md) | ★★★ **HIVE-6 reads ~15% brood loss — excess doubled = the share of her mates that were kin** · **an inbreeding meter** · ★★★ **dig to the LAYER, never to a depth** · **T-1 needed a rake** | **Cal-Y10 D130 · ~1 May** |
+| 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
+| 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
+| 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |
+| 3252 | [day-3252.md](days/year-009/week-465/day-3252.md) | ★ **HIVE-5 laying · HIVE-3 cut over to bars · FIRST BROOD TRANSFER** — cut-out keeps the brood, a drive abandons it | **Cal-Y10 D107 · ~8 Apr** |
+| 3251 | [day-3251.md](days/year-009/week-465/day-3251.md) | **bees.md split out** · two hives, no eggs, two causes · **movable comb is insurance** · deer ~17.5 kg · wagon-cool consult | **Cal-Y10 D106 · ~7 Apr** |
+| 3250 | [day-3250.md](days/year-009/week-465/day-3250.md) | **Cheese ✓ · **pollen in = a queen is laying** · **jerky case-hardened, the scale caught it** | **Cal-Y10 D105 · ~6 Apr |
+| 3249 | [day-3249.md](days/year-009/week-465/day-3249.md) | **WEEK 465. Air gap closed +25%/+50%** · one change then measure · true the assembly not the part · a flywheel can't fix a droop | **Cal-Y10 D104 · ~5 Apr** |
+| 3248 | [day-3248.md](days/year-009/week-464/day-3248.md) | ★★ **GEN-WW-1 RUNS AND IS MEASURED** · closed-ring armature · brush neutral moves under load · free-running speed is a lie | **Cal-Y10 D103 · ~4 Apr** |
+| 3247 | [day-3247.md](days/year-009/week-464/day-3247.md) | **HIVE-5: no eggs but QUEENRIGHT** · egg clock starts at the comb · wax costs honey 8:1 · **gears-vs-belts read** | **Cal-Y10 D102 · ~3 Apr** |
+| 3246 | [day-3246.md](days/year-009/week-464/day-3246.md) | **GEN-WW-1 frame + 16:1 belt train + laminated core** · belt grip is WRAP · crown the pulley · food doctrine Y10 | **Cal-Y10 D101 · ~2 Apr** |
+| 3245 | [day-3245.md](days/year-009/week-464/day-3245.md) | **COAT CLOSED — 104 m** · wire resistance as a gauge check · leakage QC | **Cal-Y10 D100 · ~1 Apr** |
+| 3244 | [day-3244.md](days/year-009/week-464/day-3244.md) | **SWARM TOOK THE BOX — 4 colonies** · cheese ✓ · **BC-2 SEISMIC** | **Cal-Y10 D99 · ~31 Mar** |
+| 3243 | [day-3243.md](days/year-009/week-464/day-3243.md) | **HIVE-5 ✓ · **SKEP-1 DRIVEN onto bars** · the whole skep's comb comes free | **Cal-Y10 D98 · ~30 Mar |
+| 3242 | [day-3242.md](days/year-009/week-464/day-3242.md) | **W464 OPEN · TOP-BAR-HIVE-4** + swarm box · **Dörtyol = the ACID trip** | **Cal-Y10 D97 · ~29 Mar** |
+| 3241 | [day-3241.md](days/year-009/week-463/day-3241.md) | **W463 CLOSE · SLIDE-WIRE BRIDGE** · alloys conduct worse than both parents | **Cal-Y10 D96 · ~28 Mar** |
+| 3240 | [day-3240.md](days/year-009/week-463/day-3240.md) | **~52 m drawn · **metrology slate — null beats reading** · frequency artifact** | **Cal-Y10 D95 · ~27 Mar** |
+| 3239 | [day-3239.md](days/year-009/week-463/day-3239.md) | **VOLTMETER + AMMETER** · iron resistance wire · **a coherent unit system** | **Cal-Y10 D94 · ~26 Mar** |
+| 3238 | [day-3238.md](days/year-009/week-463/day-3238.md) | **THE METER** — tangent galvanometer · **Daniell voltage standard** · R-STD-1 | **Cal-Y10 D93 · ~25 Mar** |
+| 3237 | [day-3237.md](days/year-009/week-463/day-3237.md) | **64 m all coated** · turpentine distilled · **GEN-WW-1: gear it, don't wind it** | **Cal-Y10 D92 · ~24 Mar** |
+| 3236 | [day-3236.md](days/year-009/week-463/day-3236.md) | **Cheese ✓ · ricotta ✓ · **RENNET = the storage unlock** · herb seed designated** | **Cal-Y10 D91 · ~23 Mar** |
+| 3235 | [day-3235.md](days/year-009/week-463/day-3235.md) | **WK 463 OPENS** · P-03 shoot-thin + cordon renewal · **hazard catalog recalibrated** | **Cal-Y10 D90 · ~22 Mar** |
+| 3234 | [day-3234.md](days/year-009/week-462/day-3234.md) | **Wax ~110 g · 3 hives PASS · **TOP BARS = the unlock** | **Cal-Y10 D89 · ~21 Mar |
+| 3233 | [day-3233.md](days/year-009/week-462/day-3233.md) | **~52 m coated *(wax out)* · **COMMUTATOR-2 design GO** | **Cal-Y10 D88 · ~20 Mar |
+| 3232 | [day-3232.md](days/year-009/week-462/day-3232.md) | **Insulation solved** — wax-rosin ×2 · test coil isolated · wind fat** | **Cal-Y10 D87 · ~19 Mar |
+| 3231 | [day-3231.md](days/year-009/week-462/day-3231.md) | **~64 m wire drawn** · nitre turn 2 · **insulation is the bottleneck** | **Cal-Y10 D86 · ~18 Mar** |
+| 3230 | [day-3230.md](days/year-009/week-462/day-3230.md) | **CU-SMELT D1 · **~1.15 kg poled wire-grade bar** · iron as flux** | **Cal-Y10 D85 · ~17 Mar** |
+| 3229 | [day-3229.md](days/year-009/week-462/day-3229.md) | **CU-LEACH-1 · **acid off by 1000×** · iron-fouled · acid is carried not consumed** | **Cal-Y10 D84 · ~16 Mar** |
+| 3228 | [day-3228.md](days/year-009/week-462/day-3228.md) | **W462 OPEN · ore home ~34.6 kg · **MUSEUM opened** · beds intact** | **Cal-Y10 D83 · ~15 Mar** |
 | 3227 | [day-3227.md](days/year-009/week-461/day-3227.md) | **M-G1 ore run D1 · **~36 kg dressed** · azurite · cache cairned** | **Cal-Y10 D82 · ~14 Mar** |
-| 3226 | [day-3226.md](days/year-009/week-461/day-3226.md) | ****GEN-WW-1 arc opens** · cheese ✓ · rope soft-laid · exped prep** | **Cal-Y10 D81 · ~13 Mar** |
-| 3225 | [day-3225.md](days/year-009/week-461/day-3225.md) | ****PLASTER WORKS** — burn ladder · wall swatch · blocked field trial** | **Cal-Y10 D80 · ~12 Mar** |
-| 3224 | [day-3224.md](days/year-009/week-461/day-3224.md) | ****M-21 GYPSUM BED**** · ~48 kg · ****SELENITE window panes**** | **Cal-Y10 D79 · ~11 Mar** |
-| 3223 | [day-3223.md](days/year-009/week-461/day-3223.md) | **FARM-CARE all beds up · ****GYPSUM → PLASTER**** · flame + hepar tests** | **Cal-Y10 D78 · ~10 Mar** |
-| 3222 | [day-3222.md](days/year-009/week-461/day-3222.md) | ****Cave earth NOT nitre** — glowing-splint test · all-ark** | **Cal-Y10 D77 · ~9 Mar** |
-| 3221 | [day-3221.md](days/year-009/week-461/day-3221.md) | ****W461 OPEN · CAVE-3 fitted** — path + dry-stone shelf · ark/quarry split** | **Cal-Y10 D76 · ~8 Mar** |
-| 3220 | [day-3220.md](days/year-009/week-460/day-3220.md) | ****CAVE-3 dry — ark site + NITRE EARTH** · seep-horizon rule** | **Cal-Y10 D75 · ~7 Mar** |
-| 3219 | [day-3219.md](days/year-009/week-460/day-3219.md) | ****HERBS IN — SPRING SOW CLOSED** · layering · cheese fail** | **Cal-Y10 D74 · ~6 Mar** |
+| 3226 | [day-3226.md](days/year-009/week-461/day-3226.md) | **GEN-WW-1 arc opens** · cheese ✓ · rope soft-laid · exped prep** | **Cal-Y10 D81 · ~13 Mar |
+| 3225 | [day-3225.md](days/year-009/week-461/day-3225.md) | **PLASTER WORKS** — burn ladder · wall swatch · blocked field trial** | **Cal-Y10 D80 · ~12 Mar |
+| 3224 | [day-3224.md](days/year-009/week-461/day-3224.md) | **M-21 GYPSUM BED** · ~48 kg · **SELENITE window panes** | **Cal-Y10 D79 · ~11 Mar** |
+| 3223 | [day-3223.md](days/year-009/week-461/day-3223.md) | **FARM-CARE all beds up · **GYPSUM → PLASTER** · flame + hepar tests** | **Cal-Y10 D78 · ~10 Mar** |
+| 3222 | [day-3222.md](days/year-009/week-461/day-3222.md) | **Cave earth NOT nitre** — glowing-splint test · all-ark** | **Cal-Y10 D77 · ~9 Mar |
+| 3221 | [day-3221.md](days/year-009/week-461/day-3221.md) | **W461 OPEN · CAVE-3 fitted** — path + dry-stone shelf · ark/quarry split** | **Cal-Y10 D76 · ~8 Mar |
+| 3220 | [day-3220.md](days/year-009/week-460/day-3220.md) | **CAVE-3 dry — ark site + NITRE EARTH** · seep-horizon rule** | **Cal-Y10 D75 · ~7 Mar |
+| 3219 | [day-3219.md](days/year-009/week-460/day-3219.md) | **HERBS IN — SPRING SOW CLOSED** · layering · cheese fail** | **Cal-Y10 D74 · ~6 Mar |
 | 3218 | [day-3218.md](days/year-009/week-460/day-3218.md) | **HEMP IN · Ghab **spare jar** dead · line alive gen 4** | **Cal-Y10 D73 · ~5 Mar** |
-| 3217 | [day-3217.md](days/year-009/week-460/day-3217.md) | ****HAWK-KITE-1 ✓** *(rigid failed)* · wild-hemp bands** | **Cal-Y10 D72 · ~4 Mar** |
-| 3216 | [day-3216.md](days/year-009/week-460/day-3216.md) | ****SCARECROW-1 ✓** · bird habituation doctrine** | **Cal-Y10 D71 · ~3 Mar** |
-| 3215 | [day-3215.md](days/year-009/week-460/day-3215.md) | **Wild-grain stands staked · greens · **ACORN-Y9 retcon**** | **Cal-Y10 D70 · ~2 Mar** |
-| 3214 | [day-3214.md](days/year-009/week-460/day-3214.md) | **W460 OPEN · flax split sow · fava · **birds on the emmer**** | **Cal-Y10 D69 · ~1 Mar** |
-| 3213 | [day-3213.md](days/year-009/week-459/day-3213.md) | **NITRE turn 1 ✓ · ****CAVE-1 found — chamber + spring**** | **Cal-Y10 D68 · ~28 Feb** |
+| 3217 | [day-3217.md](days/year-009/week-460/day-3217.md) | **HAWK-KITE-1 ✓** *(rigid failed)* · wild-hemp bands** | **Cal-Y10 D72 · ~4 Mar |
+| 3216 | [day-3216.md](days/year-009/week-460/day-3216.md) | **SCARECROW-1 ✓** · bird habituation doctrine** | **Cal-Y10 D71 · ~3 Mar |
+| 3215 | [day-3215.md](days/year-009/week-460/day-3215.md) | **Wild-grain stands staked · greens · **ACORN-Y9 retcon** | **Cal-Y10 D70 · ~2 Mar |
+| 3214 | [day-3214.md](days/year-009/week-460/day-3214.md) | **W460 OPEN · flax split sow · fava · **birds on the emmer** | **Cal-Y10 D69 · ~1 Mar |
+| 3213 | [day-3213.md](days/year-009/week-459/day-3213.md) | **NITRE turn 1 ✓ · **CAVE-1 found — chamber + spring** | **Cal-Y10 D68 · ~28 Feb |
 | 3212 | [day-3212.md](days/year-009/week-459/day-3212.md) | **SOW D2 pulses · **seed ran short, ⅓ bare** · cheese Y10-3** | **Cal-Y10 D67 · ~27 Feb** |
-| 3211 | [day-3211.md](days/year-009/week-459/day-3211.md) | ****SPRING-SOW-Y10 D1 ✓ emmer in** · seed-increase block** | **Cal-Y10 D66 · ~26 Feb** |
+| 3211 | [day-3211.md](days/year-009/week-459/day-3211.md) | **SPRING-SOW-Y10 D1 ✓ emmer in** · seed-increase block** | **Cal-Y10 D66 · ~26 Feb |
 | 3210 | [day-3210.md](days/year-009/week-459/day-3210.md) | **FARM-CARE + SOW-PREP-READ-Y10 · emmer germ poor** | **Cal-Y10 D65 · ~25 Feb** |
 | 3209 | [day-3209.md](days/year-009/week-459/day-3209.md) | **GASHOLDER-2 D2 · crown ✓ · lined ✓ · Bell B re-cut** | **Cal-Y10 D64 · ~24 Feb** |
 | 3208 | [day-3208.md](days/year-009/week-459/day-3208.md) | **GASHOLDER-2 D1 · tub ✓ · bell crown fail → battens** | **Cal-Y10 D63 · ~23 Feb** |
 | 3207 | [day-3207.md](days/year-009/week-459/day-3207.md) | **GAS-BANK-1 ✓ bells capped · GASHOLDER-2 sized · kid · paint** | **Cal-Y10 D62 · ~22 Feb** |
-| 3206 | [day-3206.md](days/year-009/week-458/day-3206.md) | ****BLOWPIPE-1 ✓ LIT** · water traps · **LIMELIGHT**** | **Cal-Y10 D61 · ~21 Feb** |
+| 3206 | [day-3206.md](days/year-009/week-458/day-3206.md) | **BLOWPIPE-1 ✓ LIT** · water traps · **LIMELIGHT** | **Cal-Y10 D61 · ~21 Feb** |
 | 3205 | [day-3205.md](days/year-009/week-458/day-3205.md) | **ANODE-NARROW-1 ✓ · both gases caught · cheese ×2** | **Cal-Y10 D60 · ~20 Feb** |
 | 3204 | [day-3204.md](days/year-009/week-458/day-3204.md) | **GAS-CAPTURE-1 · H₂ ✓ · O₂ ✗ sulfated** | **Cal-Y10 D59 · ~19 Feb** |
 | 3203 | [day-3203.md](days/year-009/week-458/day-3203.md) | **GASHOLDER-1 ✓ CLOSE · terminals + clamps** | **Cal-Y10 D58 · ~18 Feb** |

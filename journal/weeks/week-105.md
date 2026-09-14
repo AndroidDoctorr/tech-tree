@@ -17,7 +17,7 @@ Week one hundred five opens after **Week 104** on **Day 729** with a **two-day c
 | Order | Target | Why |
 |-------|--------|-----|
 | **1** | **CALORIE-BANK-1** | **~30–40 kg before COAST-SCOUT wheels-up** |
-| **2** | **COAST-SHAKEDOWN-1** | **Loaded proof → COAST-SITE-1 · **OPEN Day 730** |
+| **2** | **COAST-SHAKEDOWN-1** | **Loaded proof → COAST-SITE-1 · **OPEN Day 730 |
 | **3** | **CL-CLOAK-1 · TRAP-CRAFT-2 · goat dry-run** | Tier B with shakedown |
 | **4** | **Chem lab** | **Paused until coast return** |
 

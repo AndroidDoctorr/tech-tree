@@ -1,6 +1,6 @@
 ---
 description: Deterministic hazard rolls on triggers — run sim/roll.py, log HAZARD lines, patch hazards.md state
-globs: journal/**/*.md
+globs: journal//*.md
 alwaysApply: true
 ---
 
@@ -32,6 +32,51 @@ On each trigger in the matrix:
 4. On **HIT**: apply outcome tier · patch **hazards.md** state · **inventory.md** / **now.md** if stock or animals change.
 5. On **MISS** for passive dailies (quake, e.g.): one line only — no narrative pepper.
 
+## ★★ RISK CLASSES — roll the CLASS, not the incident *(player directive, d3265)*
+
+**Supersedes the per-incident catalog as the default.** Named catalog rows still exist for recurring specifics, but **the default is now one roll per class per day, interpreted.**
+
+> ★★ **RISK FACTOR = PREPAREDNESS + SKILL + INHERENT RANDOMNESS.** *Do not price an incident. Price the situation, roll once, and read the number.*
+
+### The four classes
+
+| Class | What it covers | Base rate per event | Failure looks like |
+|---|---|---|---|
+| **ROUTINE** | A practised procedure at skill 4–5 — milking, smelting, a haul, a leach he has run for years | **0.3–1%** | **A nuisance. Never a loss** |
+| **ROUTINE (learning)** | Same, at skill 2–3 | **2–4%** | Rework, not ruin |
+| **NOVEL** | First attempt, new technique, experiment | **5–10%** | ★ **Diagnosable and recoverable, and it teaches the real mechanism** |
+| **NOVEL (rushed / unprepped)** | Same without the prep | **15–25%** | Real loss — *but he does not work this way, so this row is rare* |
+| **SAFETY** | Acid, heights, electricity, fire, explosives | **0.1–0.3%** | ★ **Requires a genuinely NOVEL hazard. PPE and rehearsed response are already paid for** |
+| ★★ **EXTERNAL** | Weather, quake, animals, the world doing its own thing | **From the real return period. ANNUALIZE** | Independent of him entirely |
+
+> ★★ **THE LOAD-BEARING DISTINCTION: for the first three classes, preparedness lowers the PROBABILITY. For EXTERNAL it does not — it lowers the CONSEQUENCE.** *You cannot reduce the chance of a storm. You can only reduce what a storm costs you.* **Never let preparation buy down an external probability, and never let a lack of it fail to buy down external severity.**
+
+### ★★ Read the MARGIN, not the binary
+
+**The roll returns a number. Do not read it as HIT/MISS — read WHERE IT LANDS.**
+
+| Where the roll falls | Read it as |
+|---|---|
+| **Above threshold** | ★ **Nothing happened. SAY NOTHING — do not narrate a non-event** |
+| **Just under threshold** *(within ~⅓ of it)* | **The mildest form.** A scare, a near miss, a small waste, five minutes lost |
+| **Well under** | The ordinary form for that class |
+| **Far under** *(bottom ~⅕)* | The full severity the class allows — **and for ROUTINE and SAFETY that is still not a disaster** |
+
+> ★★ **PREPAREDNESS CAPS SEVERITY. A prepared person does not avoid events — he converts disasters into inconveniences.** *The top of the ladder is simply unreachable for this player in the routine and safety classes, and that is not the dice being generous, it is the backups, the PPE and the rehearsed response being paid for in advance.*
+
+### ★★ DISCOVERY rolls are not hazard rolls
+
+**Magnitude and unknown-world-state rolls — what is in the cave, how much wax, does the hunt find game, how fine the grain — are the GOOD rolls. Roll them freely, roll them often, and roll for MAGNITUDE rather than for CATASTROPHE.** *They carry no severity ladder and no preparedness discount; they are simply the world being uncertain.*
+
+### Character constants *(apply unless the turn says otherwise)*
+
+| | |
+|---|---|
+| **Preparedness** | ★ **HIGH by default.** Overthinker; builds backups and emergency handling; consults the Assistant constantly in-world *(far more than appears in the text)* |
+| **Learning rate** | ★ **Fast, and faster by DOING than by reading** — but reading transfers unusually well, because expectations tend to match the reality |
+| **Animals** | ★ **Unusually good.** Real-world track record with wild and domestic animals; **treat goats, donkeys and bees as a skill 3+ floor, not a novice's** |
+| **Listening** | ★ **The root skill.** Advice taken is advice used |
+
 ## Triggers *(minimum set)*
 
 | Day type | Rolls |
@@ -51,6 +96,49 @@ The rolls exist for **variety and spontaneity**, not for slapstick. **A roll is 
 - **Never** turn a routine, well-practised action into a disaster because a number came up. The player is **experienced, careful, and patient** — competence is the baseline and mishaps should read as *plausible bad luck*, not *critical fumble*.
 - **Roll fewer things.** Prefer a small set of rolls that genuinely could go either way over a wide spray of trivia.
 - Severity scales with **genuine novelty or risk**, not with routine repetition.
+
+### What deserves a roll *(player directive, d3231)*
+
+| Class | Roll? | Notes |
+|----|----|----|
+| **Unknown state of the WORLD** | **Roll freely** | What is in the cave · does the hunt find game · is the seam worked out · what the weather does. **These are the good rolls** — gypsum instead of nitre, and a seep in a low cave, were *fair, plausible and fun*. A "failure" here should still be **interesting and regionally realistic**, not just a denial |
+| **Routine practised procedure** | **Rarely** | Smelting · milking · sowing · cart hauls · a leach he has run for years. **Failure should be rare and small.** Do not re-teach a solved lesson |
+| **New / experimental** | **Sometimes** | But the player **preps heavily, reads ahead, and consults before acting**. First attempts usually **land, or fail in a diagnosable, recoverable way that teaches the real mechanism** — not in a way that destroys the work |
+| **Safety incident** | **Very rarely** | The player **does not mess around** with electricity, acid, explosives or heights — PPE, fume hood, redundant glassware, rehearsed emergency routines. **Injury requires a genuinely novel hazard, not a routine one** |
+
+**Prefer rolling for MAGNITUDE over rolling for CATASTROPHE.** *How much ore, how far the wire drew, how good the set* — not *did it all go wrong*.
+
+### Calibrate the threshold BEFORE rolling
+
+A bad threshold is worse than a bad roll, because the roll is honest and the threshold is a judgement. For any **ad-hoc** hazard not in the catalog:
+
+1. **State the base rate in one line** — what would actually happen, how often, given the mitigations already in place.
+2. **Subtract for every mitigation the player has already paid for.** Layered defences, recent maintenance, crop maturity, experience, prepared kit. If the player built three things to prevent X, X should be **rare**.
+3. **Check the exposure window honestly.** Two calendar days away is often **one** effective day of exposure. Do not round up.
+4. **Sanity test:** *"Would this outcome, at this rate, happen to a careful person doing this repeatedly?"* If it reads as bad luck once in a decade, the threshold is **not** 35%.
+5. Ad-hoc adverse rolls should usually sit in the **2–10%** band. Above ~20% needs a stated reason.
+
+### ANNUALIZE — the per-day number is a lie *(player directive, d3235)*
+
+**A daily threshold that *looks* small is almost never small.** Before setting any threshold on a **recurring** roll, compute **`1 − (1 − p)^n`** where `n` is how many times the trigger fires in a year, and **sanity-check the ANNUAL number, not the daily one.**
+
+| Per event | ×365 /yr | ×50 /yr | ×30 /yr |
+|---|---|---|---|
+| **1%** | **97%** | **39%** | **26%** |
+| **0.3%** | **67%** | **14%** | **9%** |
+| **0.1%** | **31%** | **4.9%** | **3.0%** |
+| **0.03%** | **10%** | **1.5%** | **0.9%** |
+| **0.01%** | **3.6%** | **0.5%** | **0.3%** |
+| **0.002%** | **0.7%** *(≈1 per 140 yr)* | — | — |
+
+> **Worked failure — this rule exists because of it.** QUAKE was rolled at **0.3%/day**, which reads as "vanishingly rare" and **is actually a two-in-three chance of an earthquake every year**. The player caught it. **Passive daily rolls need thresholds in the thousands, not the millions.**
+
+**Procedure:**
+
+1. **State the real-world return period first** — *"a damaging quake here every ~125 years"*.
+2. **Divide, don't guess:** `p_day = 1 / (years × 365)`.
+3. **For non-daily triggers, count the trigger, not the calendar.** A forge hazard fires on **forge days** (~40/yr), not 365.
+4. **Split flavour from consequence.** If a thing happens often but doesn't matter *(a felt tremor)*, that is **not a hazard row** — it is **one line and no consequence**. Reserve hazard rows for outcomes that **change the ledger**.
 
 ## Do not
 

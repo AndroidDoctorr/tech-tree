@@ -15,6 +15,8 @@ This is a journal, not a code repo.
 4. Grep `inventory.md` for the stock the action draws — do not read the whole file
 5. Current week file only to append the day's one-line summary
 6. **`hazards.md` — Live state + Trigger matrix only** when the day hits a hazard trigger (farm scare, haul roll, forge hero, day-open weather) — see [hazard-rolls.mdc](hazard-rolls.mdc)
+7. **`bees.md`** only when the day touches the apiary — roster, driving, entrance reading, wax. **Bee state lives there, not in `now.md`.**
+8. **`routines.md` — the WEATHER TRIGGERS + STATE TRIGGERS tables** on every day open, against the day's actual weather. These are cheap and they are the checks that get missed, because they fire on conditions rather than on plans.
 
 ## Do not read unless the player names that track or a gate needs it
 

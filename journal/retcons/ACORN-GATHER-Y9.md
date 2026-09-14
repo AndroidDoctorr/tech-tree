@@ -14,12 +14,12 @@
 | Item | Correction |
 |------|------------|
 | **ACORN-GATHER-Y9** | **✓ ~5.2 kg bulk shell-on · P-09 terrace + reserve margin · windfall + pole knock · d2332 grammar** |
-| **Tail lap** | ****Not run** — harvest crunch · consistent with the reduced bank |
-| **Leach → roast** | ****×3 batches** · trough cycles · bite PASS · dry tray · roast **~620 g each**** |
-| **Winter draw** | **Trail beds, handfuls, and feast plates through Y9–Y10 winter |
-| **Standing today** | ****Acorn roast ~1.86 kg** @ nut tray · **shell-on ~0.80 kg** unchanged |
+| **Tail lap** | **Not run** — harvest crunch · consistent with the reduced bank |
+| **Leach → roast** | **×3 batches** · trough cycles · bite PASS · dry tray · roast **~620 g each** |
+| **Winter draw** | Trail beds, handfuls, and feast plates through Y9–Y10 winter |
+| **Standing today** | **Acorn roast ~1.86 kg** @ nut tray · **shell-on ~0.80 kg** unchanged |
 
-**Doctrine:** ****ACORN-GATHER is a calendar hero, not an opportunistic pick.** Agent flags the 15 Sep – 30 Nov band on FARM-CARE passes the same as farm perennials — the window collides with grain harvest every year, which is exactly why it gets dropped.**
+**Doctrine:** **ACORN-GATHER is a calendar hero, not an opportunistic pick.** Agent flags the 15 Sep – 30 Nov band on FARM-CARE passes the same as farm perennials — the window collides with grain harvest every year, which is exactly why it gets dropped.
 
 ---
 
@@ -29,8 +29,8 @@
 |-----------|--------|
 | **Mid Sep** | **Primary gather · windfall + pole knock · sort/cull · **~5.2 kg bulk** stowed @ v1 mat + WOOD-CRATE-4** |
 | **Late Sep** | **Shell batches ×3 · **~660 g kernels** each · leach trough cycles @ pool margin** |
-| **Oct** | **Bite PASS ×3 · dry tray · **roast ~620 g ×3 = ~1.86 kg**** |
-| **Nov** | ****No tail lap** — grain harvest and storage took the days |
+| **Oct** | **Bite PASS ×3 · dry tray · **roast ~620 g ×3 = ~1.86 kg |
+| **Nov** | **No tail lap** — grain harvest and storage took the days |
 
 *Y10 read (Day 3215): bank re-stated · draw resumes from roast tray.*
 

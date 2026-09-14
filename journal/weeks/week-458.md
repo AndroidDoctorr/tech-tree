@@ -11,7 +11,7 @@
 
 | Day | Summary |
 |-----|---------|
-| 3206 | ****BLOWPIPE-1 ✓ LIT** · traps ×2 · quartz fused · **LIMELIGHT-1 ✓** · gas budget 1 min : 1 s** |
+| 3206 | **BLOWPIPE-1 ✓ LIT** · traps ×2 · quartz fused · **LIMELIGHT-1 ✓** · gas budget 1 min : 1 s |
 | 3205 | **ANODE-NARROW-1 ✓ PbO₂ · **GAS-CAPTURE-2 both gases ~2.33:1** · CHEESE-Y10-2 ✓ · SPOILAGE-FIRST filed** |
 | 3204 | **GAS-CAPTURE-1 · H₂ ~380 ml ✓ · O₂ ✗ anode sulfated · acid = critical path** |
 | 3203 | **GASHOLDER-1 ✓ CLOSE · Cu posts + clips · wood cocks FAIL → pinch clamps** |

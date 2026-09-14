@@ -11,7 +11,7 @@
 
 | Item | Correction |
 |------|------------|
-| **Day 3062** | **Re-filed **RUNNING-GEAR D1** *(not leaf spring)* — see days 3062–3066 |
+| **Day 3062** | **Re-filed **RUNNING-GEAR D1 *(not leaf spring)* — see days 3062–3066 |
 | **COVERED-WAGON-1** | **Untouched · LIVE @ CART-YARD · hubs/axle/tongue/arch/cover intact** |
 | **WAGON-V2-BED-FRAME-1** | **Shell on staging blocks @ north apron ghost · NOT on v1 gear · no roll test** |
 | **WAGON-V2-LEAF-SPRING-1** | **Not started** — strips not forged · packs not hardened · not mounted |

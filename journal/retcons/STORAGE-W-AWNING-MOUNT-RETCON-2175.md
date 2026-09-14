@@ -10,7 +10,7 @@ Day 2174 logged **STORAGE-W-AWNING-1 ✓ mounted · natural reed @ W-END-WINDOW-
 
 | Was (invalid) | Now (canon) |
 |-------------|-------------|
-| Awning mounted LIVE d2174 · natural reed | **Frame ✓ d2173 · reed skin ~60% staging only · **not mounted**** |
+| Awning mounted LIVE d2174 · natural reed | **Frame ✓ d2173 · reed skin ~60% staging only · **not mounted |
 | Finish band awning ✓ d2174 | **Awning WIP · weave + woad dye + mount defer** |
 | d2174 hero included awning CLOSE | **d2174 hero = GB-FIRE-2174 only · awning frame hold** |
 
