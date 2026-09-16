@@ -1,0 +1,49 @@
+# Journal summaries
+
+Rollups and benchmarks — not day-by-day logs.
+
+**Centadial** = one summary every **100 days** (*made-up but useful*).  
+**Milladial** = one summary every **1000 days** (*mille* / thousand — same family, not a millennial).
+
+| Centadial | Days | File |
+|-----------|------|------|
+| **1** | 1–100 | [centadial-001.md](centadial-001.md) |
+| **2** | 101–200 | [centadial-002.md](centadial-002.md) |
+| **3** | 201–300 | [centadial-003.md](centadial-003.md) |
+| **4** | 301–400 | [centadial-004.md](centadial-004.md) |
+| **5** | 401–500 | [centadial-005.md](centadial-005.md) |
+| **6** | 501–600 | [centadial-006.md](centadial-006.md) |
+| **7** | 601–700 | [centadial-007.md](centadial-007.md) |
+| **8** | 701–800 | [centadial-008.md](centadial-008.md) |
+| **9** | 801–900 | [centadial-009.md](centadial-009.md) |
+| **10** | 901–1000 | [centadial-010.md](centadial-010.md) |
+| **11** | 1001–1100 | [centadial-011.md](centadial-011.md) |
+| **12** | 1101–1200 | [centadial-012.md](centadial-012.md) |
+| **13** | 1201–1300 | [centadial-013.md](centadial-013.md) |
+| **14** | 1301–1400 | [centadial-014.md](centadial-014.md) |
+| **15** | 1401–1500 | [centadial-015.md](centadial-015.md) |
+| **16** | 1501–1600 | [centadial-016.md](centadial-016.md) |
+| **17** | 1601–1700 | [centadial-017.md](centadial-017.md) |
+| **18** | 1701–1800 | [centadial-018.md](centadial-018.md) |
+| **19** | 1801–1900 | [centadial-019.md](centadial-019.md) |
+| **20** | 1901–2000 | [centadial-020.md](centadial-020.md) |
+| **21** | 2001–2100 | [centadial-021.md](centadial-021.md) |
+| **22** | 2101–2200 | [centadial-022.md](centadial-022.md) |
+| **23** | 2201–2300 | [centadial-023.md](centadial-023.md) |
+| **24** | 2301–2400 | [centadial-024.md](centadial-024.md) |
+| **25** | 2401–2500 | [centadial-025.md](centadial-025.md) |
+| **26** | 2501–2600 | [centadial-026.md](centadial-026.md) |
+| **27** | 2601–2700 | [centadial-027.md](centadial-027.md) |
+| **28** | 2701–2800 | [centadial-028.md](centadial-028.md) |
+| **29** | 2801–2900 | [centadial-029.md](centadial-029.md) |
+| **30** | 2901–3000 | [centadial-030.md](centadial-030.md) |
+
+| Milladial | Days | File |
+|-----------|------|------|
+| **1** | 1–1000 | [milladial-001.md](milladial-001.md) |
+| **2** | 1–2000 | [milladial-002.md](milladial-002.md) |
+| **3** | 1–3000 | [milladial-003.md](milladial-003.md) |
+
+**Recipes:** [food-menu.md](../../government/procedures/food-menu.md)
+
+Daily timeline: [index.md](../index.md)

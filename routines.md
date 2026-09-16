@@ -2,7 +2,7 @@
 
 **Created d3263.** The standing checks — daily, periodic, and triggered. **Seasonal windows live in [player-calendar.md](player-calendar.md); this is everything that fires more often than once a year.**
 
-> ☠ **Why this file exists.** Until now there was no checklist. Every recurring check lived inside whichever project document happened to own it — drainage in the cave notes, a crust read in the trial notes, a tan step in the leather notes. **A project note is read when I think about the project.** In week 466 it rained five days running and **two standing reads fired and neither was walked**, because I was thinking about copper.
+> Why this file exists. Until now there was no checklist. Every recurring check lived inside whichever project document happened to own it — drainage in the cave notes, a crust read in the trial notes, a tan step in the leather notes. In week 466 it rained five days running and **two standing reads fired and neither was walked**, because I was thinking about copper.
 
 ---
 
