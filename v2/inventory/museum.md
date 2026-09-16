@@ -51,6 +51,8 @@ Ore gets smelted. Glass gets remelted. A first gets superseded and thrown on the
 | ★★ **PERIODIC-TABLE-1** | **Prestige — and an EXPERIMENT** | **PLANNED** d3259* | Sealed glass ampoules, one element each, **labelled with an assay and the method that produced it.** ★★ **The point is not the display: two cells IN SERIES pass exactly the same charge, so the deposits stand in a ratio that belongs to the substances and not to me — EQUIVALENT WEIGHTS, from a balance, a clock and a river.** In hand: **copper · mercury · sulfur if sublimed.** Near: **hydrogen · oxygen · chlorine**, all waiting on current |
 | **GEN-WW-1-LOGPLATE** | **The first machine I could grade** | **RESERVED** d3248* | **Keep the **first test slate** with it: *~1.5 GB open · ~1.15 GB loaded · ~0.45 I · ~2.4 R · predicted 2.2 GB.* **Not because the numbers are good — because they are NUMBERS.** The day the campus stopped saying *"it works"*** |
 
+| **CU-CATHODE-2** | **First good copper off the river** | **RESERVED** d3260 | 7.1 g coherent adherent plate, salmon-pink. ★ **Assayed d3260: density ~8.88 vs 8.96, about 99% · current efficiency ~92%.** ☠ **Do not melt** — plate 3 was the one destroyed for the resistivity assay, and that was the point of keeping this one |
+
 ## PRESTIGE
 
 | Tag | Item | Accessioned | Notes |
