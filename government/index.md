@@ -17,6 +17,8 @@ Rules and standards
 Established routines and procedures for production, maintenance, R&D, etc.
 
 - [bees.md](procedures/bees.md) - Apiary care
+- [campus-operations.md](procedures/campus-operations.md) - Campus routine defaults - fuel, rett, tools and metal, fasteners
+- [construction.md](procedures/construction.md) - Building construction phases, in order - companion to the building code
 - [harvest.md](procedures/harvest.md) - Harvest/collection procedures - how to pick, pull, cut, dig
 - [processing.md](procedures/processing.md) - Post-harvest conversion - leaching, retting, pressing, drying, curing
 - [sowing.md](procedures/sowing.md) - Sowing and establishment - seed testing, drilling, firming, bird defence
@@ -27,7 +29,7 @@ Established routines and procedures for production, maintenance, R&D, etc.
 ## Archive
 
 Obsolete/deprecated documentation for historical reference
-- Building Code 1
+- [Building Code 1](archive/building-code-1.md) - superseded by BC-2 at d3275
 - Chem Lab build plan
 - Craft Wing build plan
 - Domus build plan

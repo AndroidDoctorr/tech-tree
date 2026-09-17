@@ -29,7 +29,9 @@ Everything beyond — [resources](region/resources.md) · [off-campus structures
 
 ## Site
 
-**Orontes valley, near the future Antioch.** Campus sits on a **plateau, south bank of TRIB-1**. The stream leaves the **east gorge** and runs **west** to the Orontes.
+**Orontes valley, near the future Antioch** — Antakya, Hatay. **Arrival point `36.208154, 36.176368`**, on a tributary of the Orontes, hard against the mountains to the east.
+
+Campus sits on a **plateau, south bank of TRIB-1**. The stream leaves the **east gorge** and runs **west** to the Orontes.
 
 | Axis | What is there |
 |---|---|

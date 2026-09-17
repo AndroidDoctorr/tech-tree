@@ -2,7 +2,7 @@
 
 **Filed:** Day 2636 · **Cal-Y8 D210** · **Player standard — campus wood furniture + brass fixtures**  
 **Scope:** All **finished wood furniture** @ HOME campus and future stakes · **cabinet doors · desks · lab casework · handles · hinges**  
-**Related:** [building-code-1.md](building-code-1.md) *(envelope · doors · wet zones)* · **WOODCRAFT-FINISH-1** @ BC-1 · [craft-wing-plan.md](../../government/archive/craft-wing-plan.md)
+**Related:** [building-code-2.md](building-code-2.md) *(envelope · doors · wet zones)* · **WOODCRAFT-FINISH-1** @ BC-2 · [craft-wing-plan.md](../../government/archive/craft-wing-plan.md)
 
 ---
 
@@ -32,7 +32,7 @@ Codify the **near-modern fit-and-finish tier** already proven on **RECORDS-DESK-
 |------|----------|
 | **Frame** | **Stile-and-rail** · mortise/tenon or pinned lap · **filleted internal edges** on the opening |
 | **Panel** | **Flat board behind the frame** — field set in groove or rebate · **depth + shadow line** *(modern inset-panel look)* |
-| **Fit** | **Even reveal** · no bind · **weather strip** @ exterior entries per BC-1 |
+| **Fit** | **Even reveal** · no bind · **weather strip** @ exterior entries per BC-2 |
 
 ### Metal fixtures
 
@@ -52,11 +52,11 @@ Codify the **near-modern fit-and-finish tier** already proven on **RECORDS-DESK-
 
 ---
 
-## Wet work & counters *(see BC-1)*
+## Wet work & counters *(see BC-2)*
 
-**FC-1 does not govern sinks or splash zones.** Those live under **BC-1**:
+**FC-1 does not govern sinks or splash zones.** Those live under **BC-2**:
 
-| Element | Standard *(BC-1 wet supplement)* |
+| Element | Standard *(BC-2 wet supplement)* |
 |---------|-------------------------------------|
 | **Counter tops** | **High-quality refractory tile** or dressed stone · smooth · flat · **neat lime-sand grout** |
 | **Sinks & slops** | **Ceramic or metal** — **not wood** @ wet service |

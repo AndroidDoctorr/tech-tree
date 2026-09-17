@@ -1,185 +1,160 @@
 # Scenario rules
 
-*Canon for the speedrun journal. Source: [purpose.md](purpose.md) + player clarifications.*
+**Canon.** Not a daily read — come here when a trigger in [instructions.md](instructions.md) sends you.
 
-## Immortality & respawn
+## Immortality and respawn
 
 | Rule | Detail |
-|------|--------|
-| **Aging / disease** | No effect |
-| **Injury / death** | Possible |
-| **Hunger** | Felt; **does not starve** if unfed |
-| **Respawn** | Last **sleep site** (hut bed, etc.) |
+|---|---|
+| **Aging · disease** | No effect. ☠ **Never roll either** |
+| **Injury · death** | Both possible |
+| **Hunger** | Felt, and it hurts — **but the Player does not starve** |
+| **Respawn** | At the **last sleep site** |
 | **Corpse** | **Disappears** on respawn |
 
 ### Closed loopholes
 
 | Idea | Verdict |
-|------|---------|
-| **Cliff-farm corpses** for bone tools / hide | **No** — no corpse pile to harvest |
-| *(more TBD)* | Player flags; DM closes when raised |
+|---|---|
+| **Cliff-farm corpses** for bone and hide | ✗ **No** — nothing is left to harvest |
 
-### Intentionally open loopholes
+*Add a row when the Player proposes an exploit and it gets closed.*
+
+### Open loopholes — deliberately allowed
+
 | Idea | Verdict |
-|------|---------|
-| **Literal dead drops** for long journeys | **Yes** — items on person left at location of death (with fall damage etc, if applicable) |
-| **Immortal embryos** for cloning | **Yes** — a clone of me is immortal, too. Gestation might be VERY slow and VERY awkward, and the first few will wake up for the first time with a nonzero death count, but technically valid |
-
-## Emergency multiplayer *(last resort only)*
-
-If the solo speedrun hits a **hard wall** with no clever in-world workaround (tech-tree node that realistically needs more people), the player may invoke:
-
-- **Other "players"** exist — each started in a **different location** worldwide
-- Discovery by **stumble** (not spawn at camp); some may have **already met**
-- Use **only** when stuck — not for convenience or speed
-
-Film concept explores this by default: see [movie/](movie/).
+|---|---|
+| **Dead drops** on long journeys | ✓ Items carried are left where the Player died, with fall damage if it applies |
+| **Immortal embryos** for cloning | ✓ A clone is immortal too. Gestation may be very slow and very awkward, and the first few wake up with a nonzero death count — **technically valid** |
 
 ## World
 
-- **Era:** ~10,000 BC, Orontes valley (near future Antioch)
-- **Humans:** None except player *(see Emergency multiplayer below)*
-- **Assistant:** Handheld device — voice Q&A, no physical crafting · see **Assistant device** below
+- **Era:** ~10,000 BCE, Orontes valley near the future Antioch
+- **Humans:** none but the Player
+- **Assistant:** a handheld device — voice Q&A, no physical crafting
 
-## Play style
+### Other humans
 
-- Day-by-day journal unless player requests skip/summary
-- Realism challenged; solo-feasibility flagged in [tech-tree.md](tech-tree.md)
+Other "players" exist, each started somewhere else in the world, and some may already have met. Discovery happens by **stumbling into them**, never by spawning at camp.
 
-## Resource & skill gates *(assistant duty)*
+☠ **Last resort only.** Invoke this if and only if the solo run hits a hard wall with no in-world workaround — never for convenience or speed, and never before the wall has been named and explained per the standing duty in [instructions.md](instructions.md#-standing-duty--find-the-wall).
 
-Before the player **builds, crafts, smelts, hauls, or field-tests** something new, the assistant **must check** (and say so if blocked):
+## Gates
+
+**Before the Player builds, crafts, smelts, hauls or field-tests something new:**
 
 | Check | Source |
-|-------|--------|
-| **Materials & stock** | [inventory.md](inventory.md) — grep the row · [now.md](now.md) for runway |
-| **Prerequisite tech / tools** | [tech-tree.md](tech-tree.md) · [inventory/tools-lab.md](inventory/tools-lab.md) when the named tool matters |
-| **Skill tier** | [skills.md](skills.md) — task vs **Now** rank; no fumbling a tier-4 job without practice |
-| **Prior build steps** | Day files + week plans — e.g. footings before posts, crane test before loft lift |
+|---|---|
+| **Materials and stock** | [inventory](inventory/index.md) — grep the row · [now.md](now.md) for runway |
+| **Prerequisite tech and tools** | [tools.md](inventory/tools.md) · [infrastructure.md](inventory/infrastructure.md) |
+| **Skill tier** | [skills.md](skills.md) — task versus **Now** rank |
+| **Prior build steps** | Day files — footings before posts, crane test before loft lift |
 
-**If the gate fails:** do **not** log a clean **PASS** for that action. Instead:
+**If a gate fails:**
 
-1. **Block** or **defer** the action in the day file (`queued`, `NO-GO`, `PARTIAL`).
-2. **Name the gap** — missing kg, missing tool, missing skill, wrong sequence.
-3. **Offer honest next steps** — haul, pit char, practice craft, skill day, etc.
+1. **Block or defer** in the day file — `queued`, `NO-GO`, `PARTIAL`
+2. **Name the gap** — missing kg, missing tool, missing tier, wrong sequence
+3. **Offer the honest next step** — haul, char burn, practice craft, skill day
 
-The player may **choose** a different priority; the assistant should **push back** when a plan skips prerequisites (same tone as farm neglect / ore-hold doctrine). Do not retroactively grant stock or skills to make a requested day work — fix forward on a later day unless the player explicitly asks to retcon.
+☠ **Do not retroactively grant stock or skill to make a requested day work.** Fix forward on a later day, unless the User explicitly asks for a retcon.
 
-### Build decomposition *(assistant duty)*
+## Build decomposition
 
-Compound builds (belt runs, roof batches, forge kits, vent systems) **decompose into parts**. Before logging a finished **PASS**:
+Compound builds — belt runs, roof batches, forge kits, vent systems — **decompose into parts.** Before logging a finished PASS:
 
 | Step | Rule |
-|------|------|
-| **1 · Bill of materials** | List every **draw** — kg oak, m² hide, m rope, g wax, tool wear — from [inventory.md](inventory.md) |
-| **2 · Subcomponents** | If a part is not in stock, it needs its **own fab day** or phase (pulley batch, rope twist, hide tan) — not a hand-wave |
-| **3 · Doctrine choice** | When multiple materials work (e.g. **rope-primary vs hide-primary** belt), **audit**, pick, **file** — cite precedent day if any |
-| **4 · Phase ledger** | Multi-day heroes get phases in [schedule.md](schedule.md) with **Est. days**, **cumulative %**, and **draw column** |
-| **5 · Day file** | Log **−consumption** in **Craft** or **Events** (e.g. `HIDE-TRIM −0.04 m² pulley washers`) |
+|---|---|
+| **1 · Bill of materials** | Every draw, named: kg oak, m² hide, m rope, g wax, tool wear |
+| **2 · Subcomponents** | A part not in stock needs **its own fab day**, not a hand-wave |
+| **3 · Doctrine choice** | Where several materials would work, audit, pick, file, and cite the precedent day |
+| **4 · Phase ledger** | Multi-day heroes get phases with estimated days, cumulative percentage, and a draw column |
+| **5 · Day file** | Log the consumption as a negative draw |
 
-**Red flags — stop and fix forward:**
+### ☠ Red flags — stop and fix forward
 
-- Stock appears mid-day with no prior haul, hunt, or fab
-- Single named blob ("tannery offcut", "workshop spare") with **no inventory line**
-- Continuous material longer than physics allows from counted stock (e.g. **142 m hide strip** from **~2 m²** scrap)
-- Tool/material draw exceeds ledger (e.g. **54 g Cu** from **~12 g** peas)
+- Stock appears mid-day with no prior haul, hunt or fab
+- A single named blob — *"tannery offcut"*, *"workshop spare"* — with no inventory line
+- ★ **More continuous material than physics allows from counted stock** — *142 m of hide strip does not come out of 2 m² of scrap*
+- A draw that exceeds the ledger — *54 g of copper from 12 g of ore*
 
-**If blocked:** queue the missing phase (**GOAT-HUNT**, **ROPE-TWIST**, **PULLEY-BATCH**) before the assembly day.
-
-### Skills in daily play
+## Skills in daily play
 
 | Rule | Detail |
-|------|--------|
-| **Ledger** | [skills.md](skills.md) — **Start (IRL)** + **Now** tiers; player is not a blank slate |
-| **Day files** | When a hero craft, smelt, or field-test runs, log a **Skills** block (or row in **Craft**) naming the skill checked, **Now** tier, and **PASS / PARTIAL / NO-GO** |
-| **Tier gate** | Task above **Now** without practice → **PARTIAL** or **fail** with rework cost — not silent PASS |
-| **Updates** | Bump **Now** in skills.md when a day logs first reliable PASS at a **new tier** of task |
+|---|---|
+| **Ledger** | [skills.md](skills.md) — **Start (IRL)** plus **Now**. ★ *The Player is not a blank slate* |
+| **Day files** | A hero craft, smelt or field test logs the skill checked, the **Now** tier, and PASS / PARTIAL / NO-GO |
+| **Tier gate** | A task above **Now** without practice gives **PARTIAL or failure with rework cost** — never a silent PASS |
+| **Updates** | Bump **Now** when a day logs the first reliable PASS at a new tier |
 
-## Difficulty & realism *(Easy → Normal)*
+## Difficulty — Easy to Normal
 
-Target feel: **cautious, industrious solo** with assistant reference — good progress and survival are plausible, but **not** frictionless. The player brings real skills ([skills.md](skills.md)); the valley still pushes back.
+**Target feel: a cautious, industrious solo with a reference device.** Good progress and survival are plausible; the valley still pushes back.
 
 | Knob | Setting |
-|------|---------|
-| **Baseline** | Above stone-age average success — **not** “Easy Mode auto-win” |
-| **Ceiling** | Not Hard/Brutal — no death-spiral RNG, no gratuitous catastrophe |
-| **Mishaps** | Expect **~1 meaningful complication** per **5–10 hero-days** on maintenance tracks (forge, farm, roof, haul); **more** when attempting a **new tier** or **heavy multi-heat** forge job |
-| **Failure shape** | Cost **time · material · rework · defer** — rarely total loss of a finished build |
-| **Volatility** | **normal** — see [hazards.md — Volatility](hazards.md#volatility-live-knob) · player may set **low / normal / high** |
+|---|---|
+| **Baseline** | Above stone-age average — **not auto-win** |
+| **Ceiling** | Not brutal. **No death spirals, no gratuitous catastrophe** |
+| **Mishaps** | Roughly **one meaningful complication per 5–10 hero-days** on maintenance tracks · more when attempting a new tier |
+| **Failure shape** | Costs **time, material, rework, delay** — ★ **rarely the total loss of a finished build** |
+| **Volatility** | **normal** by default · Player may set low / normal / high — [hazards.md](hazards.md#volatility) |
 
-### Hazard rolls *(deterministic)*
+## Hazard rolls
 
-Random events use **seeded rolls**, not assistant judgment. Full catalog: **[hazards.md](hazards.md)** · tool: **[sim/roll.py](sim/roll.py)**.
+Random events use **seeded deterministic rolls**, never assistant judgment. Catalog: [hazards.md](hazards.md) · tool: `sim/roll.py`.
 
 | Rule | Detail |
-|------|--------|
-| **Space** | Billion-scale (`0 … 999_999_999`) — supports **sub-percent** rates (e.g. earthquake **~1 in 500M**/day) |
+|---|---|
+| **Space** | Billion-scale, so sub-percent rates are expressible |
 | **Hit** | `roll < threshold × volatility × modifier` |
-| **When** | Triggers in [hazards.md — Trigger matrix](hazards.md#trigger-matrix) — farm scare, day-open weather, haul, forge hero, etc. |
-| **Log** | Day file **`HAZARD · d#### · ID · roll · thr · HIT/MISS`** — on HIT, patch hazard state + inventory |
-| **Player** | **No aging · no disease** — injury and poison hazards only |
-| **Animals** | Age, illness, breeding — roll on trigger; surface on farm pass, not when player asks |
-| **Calendar gates** | Sow, harvest, fig band, etc. stay **non-negotiable** — hazards change **cost/margin**, not whether crops exist |
+| **When** | The trigger matrix in [hazards.md](hazards.md) |
+| **Log** | `HAZARD · d#### · ID · roll · thr · HIT/MISS` — on a hit, patch hazard state and inventory |
+| **Player** | ☠ **No aging, no disease.** Injury and poison only |
+| **Animals** | Age, illness and breeding roll on trigger — surface them on the farm pass, not when the Player asks |
+| **Calendar gates** | ☠ **Sow and harvest stay non-negotiable.** A hazard changes the cost or the margin, never whether the crop exists |
 
-**Assistant duty:** On a trigger, **run** `sim/roll.py check` (or batch), compare to [hazards.md](hazards.md) threshold, log result. **Do not** silent PASS for catalog hazards.
+★ **Annualize before setting any recurring threshold.** A daily rate that looks small almost never is — full procedure in [hazards.md](hazards.md).
 
-### Wear, decay & condition
+## Wear, decay and condition
 
-Track **condition** on tools and deployed structures when use or season warrants it. Update [inventory.md](inventory.md) and day files — do not assume gear is forever **✓** after first PASS.
+Track condition on tools and deployed structures when use or season warrants. ☠ **Gear is not forever ✓ after its first PASS.**
 
-| Category | Examples | Typical trigger |
-|----------|----------|-----------------|
-| **Tool wear** | Copper tongs jaw spring · chisel edge roll · haft loosen · bowstring stretch | Heavy forge batches · metal-on-metal · moisture cycles |
-| **Rot & pests** | Lash slack · reed door fray · green timber check · hide stiffen | Wet season · unchecked margins · stacked green wood |
-| **Structural creep** | Pitch drip · shake lift · fence sag · loft board spring | Freeze-thaw · load without maintenance · skipped inspection |
-| **Consumable depletion** | Char lane thin · nail tray low · lime crust · rope UV | Hero smelt/forge without pit refill · liberal nail doctrine |
-| **Mishap types** | Slag inclusion · bloom split · dropped workpiece · scald near-miss · cart wheel bind | Wrong tool for job · tired split day · worn PPE/tongs |
+| Category | Examples | Trigger |
+|---|---|---|
+| **Tool wear** | Jaw spring · edge roll · haft loosen · string stretch | Heavy batches · metal on metal · moisture cycles |
+| **Rot and pests** | Lash slack · fray · timber check · hide stiffen | Wet season · unchecked margins |
+| **Structural creep** | Pitch drip · tile lift · fence sag · board spring | Freeze-thaw · load without maintenance |
+| **Depletion** | Char lane thin · nail tray low · lime crust | Hero burns without refill |
 
-**Cautious play mitigates** (PPE, gate checks, split heroes, maintenance days) but **does not eliminate** wear. **Industrious play** earns faster recovery — not immunity.
+★ **Cautious play mitigates wear; it does not eliminate it. Industrious play earns faster recovery, not immunity.**
 
-**Assistant duty:** When the player proposes a heavy forge job (hinges, anvil block, long nail batch), **check tool condition** and **anvil class** — defer or **PARTIAL** if copper tongs, thin anvil face, or low skill tier would make “clean PASS” dishonest.
+**Duty:** when the Player proposes a heavy forge job, check tool condition and anvil class first. **Defer or PARTIAL if a clean PASS would be dishonest.**
 
-## Inventory ([inventory.md](inventory.md))
-
-| Rule | Detail |
-|------|--------|
-| **Source of truth** | **[inventory.md](inventory.md)** for live counts · **[now.md](now.md)** for the runway · fixtures / bridges / tools under `inventory/` |
-| **When to update** | End of any day that moves stock — patch the inventory row and `now.md` in the same pass. Do not append a chronicle line. |
-| **Estimates** | Mark `~` if not weighed/counted that day; **re-count** on next factory day, clay haul, or smelt marathon |
-| **map.md** | Geography and pile **roles**; **quantities** live in inventory.md (map links there) |
-| **Day file** | Log burns/consumption in the journal (e.g. `Store C: −5.5 kg`) so audits trace forward |
-
-### Fuel — cooking & heating *(player @ d3178)*
+## Inventory
 
 | Rule | Detail |
-|------|--------|
-| **Scope** | **Hearth/culina cooks**, **hypocaust/indirect heat**, **forge-adjacent warmth** — log draws on hero days forward |
-| **Char** | **CHAR lane / retort char** — draw on smelt, forge, and **named cook/hearth sprints**; routine stew may use **−trace class** on quiet days |
-| **Wood** | **Pile 5 / green splits** — camp fuel, scare-day pickup, journey haul top-up; **not** infinite background heat |
-| **Climate** | **Antioch winter << Indiana** — baseline heating load **low**; excess char bank (~years of surplus) covers **retro ambiguity** — do not back-audit every stew |
-| **Forward** | Any day with **forge · kiln · hearth hero · feast prep · hypocaust burn** patches **inventory char/wood row** or day-file consumption |
-| **Ledger** | Hero burns in **day file Consumption**; runway in **inventory.md** char lane + pile 5 |
+|---|---|
+| **Source of truth** | [inventory](inventory/index.md) for counts · [now.md](now.md) for runway |
+| **When to update** | End of any day that moves stock. Patch the row and `now.md` in the same pass — ☠ **do not append a chronicle line** |
+| **Estimates** | Mark `~` when not weighed that day · re-count on the next factory or smelt day |
+| **Map versus inventory** | The map holds **places**; quantities live in inventory |
 
-### Assistant device *(player @ d3178)*
+## Fuel
 
 | Rule | Detail |
-|------|--------|
-| **Power** | **Finite** charge — absurdly long-lived alien/Star-Trek-class cell, **not** infinite @ ~10 yr runtime |
-| **Low charge** | At **≤20%** the assistant **must** surface **exact** recharge/interface instructions the player can build toward |
-| **Charge port** | **Contactless through skin** — magnetic/field-coupled · **no case cut** · mates to player-built dock when tech allows |
-| **Data port** | **Same coupler** — data + power · requires **precisely controlled electronics** (not yet on-tree except trivial audio) |
-| **Speaker** | **First plausible interface** — passive/active speaker from known copper/wire grammar · **no** silicon fab required for v0 |
-| **Full I/O** | **Voltaic + measured circuits + stable clocks** before assistant drives arbitrary campus machines |
-| **Play** | Assistant does **not** craft physically · player builds dock/speaker · assistant provides **specs @ low charge** |
+|---|---|
+| **Scope** | Hearth cooks, indirect heat, forge-adjacent warmth — log draws on hero days |
+| **Char** | Draw on smelt, forge and named cook sprints · routine stew may draw a trace |
+| **Wood** | Camp fuel and journey top-up — ⚠ **not infinite background heat** |
+| **Climate** | ★ **Antioch winters are mild.** Baseline heating load is low, and the char surplus covers retro ambiguity — **do not back-audit every stew** |
 
-### Farm fence longevity *(player @ d3178)*
+## Assistant device
 
 | Rule | Detail |
-|------|--------|
-| **Horizon** | Replace **wattle/scare-only** margins with **stone · brick · or concrete** — **maintenance-minimum** doctrine |
-| **Priority** | **Bed B/D corridor · pen adjacency · scare streamer posts** before cosmetic campus |
-| **Timing** | **Post–Y10 harvest** masonry band honest — not before spring sow window |
-
----
-
-*Add rows under "Closed loopholes" when the player proposes an exploit.*
+|---|---|
+| **Power** | **Finite.** An absurdly long-lived cell, on the order of a decade — **not infinite** |
+| **Low charge** | ☠ **At 20% or below, surface exact recharge and interface instructions the Player can build toward** |
+| **Charge port** | Contactless through skin, magnetic or field-coupled · no case cut · mates to a Player-built dock when the tech allows |
+| **Data port** | The same coupler · needs precisely controlled electronics |
+| **Speaker** | ★ **The first plausible interface** — buildable from known copper and wire grammar, no silicon required |
+| **Full I/O** | Needs voltaic sources, measured circuits and stable clocks before the device can drive campus machines |
+| **Play** | ☠ **The device never crafts anything physically.** The Player builds; the device specifies |

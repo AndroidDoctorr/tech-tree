@@ -2,7 +2,7 @@
 
 **Filed:** Day 2410 · **Cal-Y7 D349** · **Player standard — campus-wide grey/black/chem/forge waste**  
 **Scope:** All **drains, traps, pads, middens, and hazardous streams** @ HOME campus · **farm ditch W · D-1 → TRIB-1 outfall**  
-**Cross-ref:** [building-code-1.md](building-code-1.md) *(BC-1)* · [house-plan.md](../../government/archive/house-plan.md) *(D-1 grammar)* · [chem-lab-plan.md](../../government/archive/chem-lab-plan.md) · [map.md](../../map/index.md)
+**Cross-ref:** [building-code-2.md](building-code-2.md) *(BC-2)* · [house-plan.md](../../government/archive/house-plan.md) *(D-1 grammar)* · [chem-lab-plan.md](../../government/archive/chem-lab-plan.md) · [map.md](../../map/index.md)
 
 ---
 
@@ -150,7 +150,7 @@ Walk in order · **pour test** any zone that fails weep or smell.
 |------|------|
 | **Weekly** | Hot scrape · grease-trap finger read · hub S sweep |
 | **Monthly** | Grease-trap scoop · chem berm · slag pad consolidate |
-| **Pre-sow spring** | **Full campus pour audit** *(BC-1 band · see d2119)* |
+| **Pre-sow spring** | **Full campus pour audit** *(BC-2 band · see d2119)* |
 | **Post-harvest winter** | **Grease-focused audit** *(WD-1 band · see d2410)* |
 | **After any chem acid hero** | Porch screen + berm same week |
 | **After heavy forge week** | Slag pad + hub S before next rain |
@@ -162,7 +162,7 @@ Walk in order · **pour test** any zone that fails weep or smell.
 | Now | Target |
 |-----|--------|
 | **Craft wing** — staging table + Atelier peg · **kitchen slate** for cadence | **Small records nook** — writing desk · cabinet · map drawer · dry rodent-proof |
-| **Master copies:** repo slates **BC-1 · WD-1 · maps · build plans** | **Paper codex** when fiber/paper tier live · **wax tablet** for field notes until then |
+| **Master copies:** repo slates **BC-2 · WD-1 · maps · build plans** | **Paper codex** when fiber/paper tier live · **wax tablet** for field notes until then |
 
 **Do not store sole copies in damp chem porch or forge hub.**
 

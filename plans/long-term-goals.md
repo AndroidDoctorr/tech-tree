@@ -19,12 +19,11 @@ Years out. Some of these are a scout, some are a continent away.
 ## Build
 
 - **A seaworthy boat**
-- **Fly**
+- **Flying machine** - airplane, hot air balloon, helicopter??
 - **`HYDRO-ELEC-1`** — small dam at the upstream head. ★ Phase 4 of `WW-POWER-PLAN-765`, and **the only phase left**: the fan, crusher, trip hammer and now a generator are all live off the wheels
 - **`LIGHTHOUSE-1`** — permanent navigation mark at the coast beacon, filed d200 and never started
 - **Full colonnade cover** over the Domus north passage — deferred d1253; the lean cover is in and works
 - **A second cella** beside the Domus — floated d1020, never cut. `COOL-CELLAR-1` is the only buried store
-- **Craft wing tile floor** — deferred at d1750; the oak plank floor is planed and holding
 
 ## Road
 

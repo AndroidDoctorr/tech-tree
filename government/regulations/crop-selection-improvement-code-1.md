@@ -2,7 +2,7 @@
 
 **Filed:** Day 2415 · **Cal-Y7 D354** · **Player standard — farm beds · orchard · seed vault**  
 **Scope:** **Annual crops · perennials · vines · seed save · orchard training** @ HOME campus + named wild stands  
-**Cross-ref:** [player-calendar.md](../../checklists/calendar.md) · [inventory.md](../../inventory/index.md) Farm + seed vault · [building-code-1.md](building-code-1.md) *(farm paths only)*
+**Cross-ref:** [player-calendar.md](../../checklists/calendar.md) · [inventory.md](../../inventory/index.md) Farm + seed vault · [building-code-2.md](building-code-2.md) *(farm paths only)*
 
 ---
 

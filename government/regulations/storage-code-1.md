@@ -2,7 +2,7 @@
 
 *Filed Day 3273.*
 
-**[building-code-1.md](building-code-1.md) governs the structure. This governs what is INSIDE it.**
+**[building-code-2.md](building-code-2.md) governs the structure. This governs what is INSIDE it.**
 
 > ☠ ★★★ **THE STRUCTURE SURVIVES AND THE CONTENTS DO NOT.** *A shake that leaves every wall standing can still empty every shelf onto the floor.* ★★ **Nothing else in the codes owns contents, which is why this file exists.**
 

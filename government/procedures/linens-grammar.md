@@ -119,7 +119,7 @@ MIDDEN (only when unsalvageable)
 |--------|------|
 | **Registry #10** | **LG-1** *(this file)* |
 | **Animal care ×3** | Pass 1 ✓ |
-| **BC-1 / WD-1** | Pass 1 ✓ |
+| **BC-2 / WD-1** | Pass 1 ✓ |
 | **Calendar / map** | Pass 1 ✓ · live patch defer |
 
 ---
