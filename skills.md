@@ -21,7 +21,7 @@
 
 **Update rule:** bump **Now** when a day logs a first reliable PASS at a **new tier** of task. Reps that reinforce the current tier are not a bump and do not need logging — ★ *the day file already records them, and a ledger of non-changes is noise.* **Start** changes only if the User says their background changed. **No retcon of past days.**
 
-**Cognition:** ADHD — parallel sprints are a strength, maintenance loops need structure *(precedent: the farm neglect arc d353–365, and the acorn window lost in Y9)*.
+**Cognition:** ADHD — parallel sprints are a strength, maintenance loops need structure *(precedent: the farm neglect arc d353–365, and the acorn window lost in Y9)*. User/Player learns quickly, thinks logically, and prepares thoroughly, but expertise still takes lots of practice.
 
 ---
 
