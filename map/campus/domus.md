@@ -99,9 +99,11 @@ Chambers A, B and C are live. Grain bays and what is in them: [food.md](../../in
 | **Staked** | d1098 · strings only |
 | **Colonnade ring + open boot path** | ✓ **d1246** · gravel dressed, ring tied to the horreum stub |
 | `H-V3-NORTH-TIE-SR-COVER-1` | ✓ **d1675–d1676** · lean tile roof over the passage, H-v2 north cheek to horreum sill · drip PASS |
-| **Full colonnade cover** | ◌ Deferred d1253 |
+| **Full colonnade cover** | ⚑ **DECIDED d3280 — build it.** Column ghosts `SC-NP-05`–`07` at ~1.0 m on centre stand as staked *(deferred d1253, revived d3280)* |
 
 ★ **It is a covered open strip, not an enclosed hall** — which is exactly what the d1098 rule demanded: the three chamber south doors stay independent, and the passage runs *in front of* the row.
+
+> ☠ ★★ **The colonnade and a cart bay were never both possible, and nothing said so.** *Columns at ~1.0 m on centre against a wagon wanting ~2 m of clear opening — two plans that cannot coexist, filed in two documents, neither wrong on its own.* **Settled d3280 in favour of the colonnade:** this is the covered route to the horreum, and parking a wagon in the only path to the food store is what the d3271 access rule exists to prevent. **The wagon gets a purpose-built shed** — see [vehicles.md](../../inventory/vehicles.md).
 
 ## Water
 

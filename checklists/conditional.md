@@ -22,6 +22,7 @@ Procedure detail in [sowing.md](../government/procedures/sowing.md). Windows in 
 Add as they come up.
 
 - Expedition / cart trip prep — wagon inspect and tune, team rotation, cache and ration load, kit refill
+- ★ **`TRIP-COLOCATE` — before leaving, ask what else is out that way.** Sweep the owed reads, staked marks and registry doubts against the leg you are already walking. *Added d3279: the Asi crossing and the Asi bench seeps sat on the slate as two separate trips for nine days and were always one walk.*
 - Haul day — cart wear read, load limits, route condition
 - Forge day — fuel, PPE, tongs and quench, clear floor
 - Chem / acid work — fume hood, secondary vessels, neutraliser to hand

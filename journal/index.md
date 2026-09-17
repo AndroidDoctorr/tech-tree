@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3275)*
+## Recent days *(append here · @ Day 3280)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -30,6 +30,11 @@
 | 3273 | [day-3273.md](days/year-009/week-468/day-3273.md) | ★★★ **The nickel trip is a BOTANY trip — serpentine flora is the ore indicator** · ☠ **pentlandite is the wrong target for an ophiolite** · **SC-1 storage code** · **caves certified by 12,000 years** | **Cal-Y10 D128 · ~29 Apr** |
 | 3274 | [day-3274.md](days/year-009/week-468/day-3274.md) | ☠ ★★★ **Wax moth took SKEP-2 — ~190 g vs 850 g · the larvae eat COCOONS, not wax** · **an empty comb is not stored, it is exposed** · ☠ **the terrace water comes out of the CUT FACE** | **Cal-Y10 D129 · ~30 Apr** |
 | 3275 | [day-3275.md](days/year-009/week-468/day-3275.md) | ★★★ **HIVE-6 reads ~15% brood loss — excess doubled = the share of her mates that were kin** · **an inbreeding meter** · ★★★ **dig to the LAYER, never to a depth** · **T-1 needed a rake** | **Cal-Y10 D130 · ~1 May** |
+| 3276 | [day-3276.md](days/year-009/week-468/day-3276.md) | ☠ ★★★ **W468 CLOSE · THE BRIDGE DIGS ITS OWN HOLE** — pier scour is self-inflicted and permanent · ★★★ **big stone on fine bed SINKS — it wants a graded filter** · ★★★ **build it to fail gracefully: a launching collar** · **apron staged, waits on low water** | **Cal-Y10 D131 · ~2 May** |
+| 3277 | [day-3277.md](days/year-009/week-469/day-3277.md) | ✓ ☠ ★★★ **W469 OPEN · APRON IN** — ★★★ **a reading taken at the LIMIT OF ACCESS is a MINIMUM, not a value** *(I probed to the end of my arm and wrote it down as the back of the hole)* · ★★★ **a filter you POUR needs still water — so WEAVE it: a brushwood mattress arrives in one piece** · ☠ **rigid structure, flexible protection** | **Cal-Y10 D132 · ~3 May** |
+| 3278 | [day-3278.md](days/year-009/week-469/day-3278.md) | ☠ ★★★ **A material's VIRTUE and its DEFECT are the same property read two ways** — gypsum dissolves *(so it works, and so it leaches)* and stales *(so it is a desiccant)* · ★★★ **cave = temperature, JAR = the ark, door = a porch** · ★★★ **you seal moisture IN, never out** · ☠ **test before you ark** | **Cal-Y10 D133 · ~4 May** |
+| 3279 | [day-3279.md](days/year-009/week-469/day-3279.md) | ☠ ★★★ **I measured the bridge AGAINST THE BRIDGE** — a measurement is a comparison and inherits its reference's faults · ✓ **ASI-ORONTES-1 BQ ~3.5 CONFIRMED at ~2.2 mm, the extra 1.8 mm was the RIG** · ☠ **a bad measurement sends you to fix what is not broken** · ★★ **BM-ASI-1 benchmark driven** | **Cal-Y10 D134 · ~5 May** |
+| 3280 | [day-3280.md](days/year-009/week-469/day-3280.md) | ★★★ **Block yard opens and stops at SEVEN — pozzolan, not lime, is the limit** · ☠ **feedstock is the reject pile: UNDERBURNT brick is the pozzolan** · ★★★ **dry-tamping = one mould, every block** · ☠ **lime-pozzolan REACTS with water, it does not dry** · **STORE-3 struck — punky at grade** | **Cal-Y10 D135 · ~6 May** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

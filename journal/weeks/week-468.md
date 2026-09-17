@@ -5,7 +5,7 @@
 **Home:** **H-V3 east cubiculum** · **Respawn:** **C-0 west · PROPER-BED-FRAME-2**
 **Theme:** **The open block — trips, and the things close to home that nobody was checking**
 
-**Status:** OPEN @ Day 3270
+**Status:** CLOSED @ Day 3276
 
 ---
 
@@ -27,8 +27,28 @@
 
 | 3275 | ★★★ **THE MARKED COMB ANSWERED, AND IT ANSWERED WITH A NUMBER.** *412 eggs mapped d3266, 351 sealed at nine days, ~15% gone — and the cells that were EMPTY on d3266 have filled in evenly* → ★★★ **which clears unpolished comb and "a new queen finding her stride," because both are ONE-TIME causes and a one-time cause CURES ITSELF; the 15% is a RATE** · ★★★ **AND THAT IS EXACTLY WHAT THE TWO-READING TEST WAS FOR: a one-time cause and a permanent cause look IDENTICAL in a single reading and DIFFERENT in two** *(rot and scour, again)* · ★★★ **a queen mates with a dozen or more drones and a csd match kills half of THAT ONE DRONE'S daughters, not half the hive — so inbreeding never arrives as a catastrophe, it arrives as a FRACTION** → ☠ ★★★ **EXCESS LOSS, DOUBLED, IS THE SHARE OF HER MATES THAT WERE KIN: ten points of excess means about ONE DRONE IN FIVE was a close relative** · ★★★ **so a comb, a piece of charcoal and nine days is an INBREEDING METER for a population I cannot see, cannot count and cannot follow — I have been reasoning about the drone congregation from first principles and I can MEASURE it** · ★ **KEEP HER: 15% is a tax, not a failure; the queen you replace reads near 50%. The value is the BASELINE — same test every spring, and the imports should make the number FALL** · **then T-1 and T-3** → ☠ ★★★ **SEEPAGE SITS ON A LAYER, NOT AT A DEPTH: water sinks until it meets something tight and then turns sideways along the top of it, and that layer rises and falls with no regard for the ground above** → ★★★ **DIG TO THE LAYER, NEVER TO A DEPTH** · ☠ ★★★ **and T-1 needed a RAKE, not a drain — its cut is IN the tight layer and its whole fault was a finger of back-fall. Three benches, one symptom, TWO CAUSES, and a test hole told them apart for the cost of an hour** → ★★★ **DIG BEFORE YOU BUILD: the cheapest thing on any site is a hole you fill back in** · ✓ **all three terraces now fall to a chosen outfall** · ★★ **TIGHT-LAYER-1 marked — probable cistern site** |
 
+| 3276 | ☠ ★★★ **THE BRIDGE IS DIGGING ITS OWN HOLE.** *Went down to set the apron, found the stream up and brown, and stood and watched it instead* → ★★★ **the water piles against the upstream face, DIVES, and rolls back in a collar around the base — and that roll is the excavator. The hole is not where the channel runs fastest, it is at the OBSTRUCTION, because the obstruction is what makes it** · ☠ ★★★ **so it is not damage that happened, it is a permanent condition of having built there, and it runs again every time the water comes up** · ☠ ★★★ **and a flat apron would have failed two ways: big stone laid on fine bed SINKS, because the current pumps the fines up through the gaps between the armour and carries them off — it wants a GRADED bed, fine then medium then big** · ★★ **which is the T-3 filter drain from yesterday, same principle, different job, and I reasoned it out from scratch instead of recognising it** · ☠ ★★ **and the edge unzips unless the toe is keyed below the scour line** → ★★★ **so do not build it to SEAL, build it to FAIL GRACEFULLY: a surplus collar at the outer edge that rolls down and armours the new face as the bed cuts. An apron that repairs itself** · ⚠ ★★ **the flood digs the hole and the LOAD drops the footing into it — two clocks, and only the flood one stops for the summer, so `BQ ~1.5` holds right through the season when it will feel safest** · **stone graded in three classes, armour at ~⅔** · ✓ **and the three new back-drains passed their first wet test** — ⚠ *though all three deliver to one outfall, which is the d3271 mains warning turning up on my own hillside nine days later* |
+
 ---
 
 ## Close
 
-*(pending)*
+**Days 3270–3276 · Cal-Y10 · the week the records and the ground both got audited.**
+
+> ★★★ **THE THEME FOUND ITSELF: every failure this week was an INFORMATION failure, not a capability failure.** *The bridge was in the register twice. Three terraces fell backward and had done for years. The skep render date was written in days when the clock was temperature. The queen's brood gap could not be read from one glance. Nothing was beyond me — I simply had not looked, or had looked once and called it a reading.*
+
+| | |
+|---|---|
+| ☠ ★★★ **A fact stored twice diverges** | And the tell is always a small disagreement. **The records you never consult are the records that rot** — the stale bridge entry survived because I could go and stand on the thing instead of looking it up |
+| ☠ ★★★ **One reading cannot tell two clocks apart** | **Rot and scour. One-time cause and permanent cause. Both need a SECOND look, separated in time** · the marked comb was built on exactly this and it worked |
+| ★★★ **The inbreeding meter** | **A comb, a piece of charcoal and nine days measures a population I cannot see, count or follow.** ~15% loss → about one drone in five was kin. **KEEP HER — the baseline is the value** |
+| ☠ ★★★ **Dig to the layer, never to a depth** | Seepage sits on top of the tight stratum, and that stratum ignores the shape of the ground above it · ★ **and T-1 needed a rake, not a drain** — three benches, one symptom, two causes, told apart by an hour with a shovel |
+| ☠ ★★★ **The bridge makes its own hole** | Pier scour is self-inflicted and permanent · **answer is a graded filter and a launching collar, not filling the hole** |
+| ★★ **Drainage is the skeleton of the master plan** | Size mains for the final paved area · keep ground permeable on purpose · **capacity comes by DIVISION, not enlargement** |
+| ★★ **The nickel trip is a botany trip** | Ophiolite carries laterite, not pentlandite — **the ore is the red dirt on top, and the bald hillside is the sign** |
+
+★ **Closed:** back-drains T-1 / T-2 / T-3 · `SKEP-2` render *(~190 g, wax moth)* · `QUEEN-PATTERN-TEST-1` · bed borders and four beds sown · `storage-code-1` filed · crossing register swept.
+
+⚠ **Carried:** campus-bridge apron *(staged, waits on low water)* · `CRUST-READ` · CAVE-3 wet walk · seep refill read · Kisecik and Dörtyol in May.
+
+**Status:** CLOSED @ Day 3276

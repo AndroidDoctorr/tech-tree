@@ -24,11 +24,12 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `CLAY-P1` | Clay, raw · green | ~35.4 kg | Pile 1 | | d3194 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | ~54.1 kg | `STORE-4` | | d2880 |
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
+| `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
 | `GRAVEL-1` | Gravel aggregate | ~20.4 kg | Pile 4 south band | | d3188 |
 | `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~24.5 kg | Pile 4 apron | | d3173 |
 | `SAND-RIVER-GROG` | River sand / grog | ~25.5 kg | Fabrica SW margin | | d3189 |
-| `POZZ-TUFF-1` | Pozzolan / tuff | ~2.1 kg | Pile 4 north band | | d3106 |
+| `POZZ-TUFF-1` | Pozzolan / tuff | ☠ **×0** — spent on the seventh block d3280 | Pile 4 north band | | d3280 |
 | `POZZ-SLAB-TRIAL-1` | Pozzolan slab · reference | ~4.8 kg | Apron | | d1868 |
 | `LIMESTONE-CHIP-TRAIL` | Limestone chip, trail assay | ~320 g | Pile 7 lip | | d2940 |
 | `GHAB-STUB-SAMPLE` | Marl-limestone, Ghab stub sample | ~220 g | Pile 7 lip bag | | d2939 |

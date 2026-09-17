@@ -65,7 +65,7 @@ Expansion grammar: [chem-lab-plan.md](../../government/archive/chem-lab-plan.md)
 
 > ★ **Doctrine: materials, chemicals, tools and equipment — not kitchen food.** Food lives at the Domus horreum and the calorie bank. This is the line that keeps the fume wing away from what gets eaten.
 
-`STORE-3` — the old v1 east annex — was **retired empty d797**. Peg at the door; the thatch holds until a demolition decision.
+`STORE-3` — the old v1 east annex — was retired empty d797 and ☠ **struck d3280** after 2,483 days standing. **Every post was sound at chest height and punky at grade**, which is the d3269 beam-end geometry on a whole building and the reason BC-2 forbids timber at grade. Corner stones lifted and kept; the site is clear.
 
 ## South court
 

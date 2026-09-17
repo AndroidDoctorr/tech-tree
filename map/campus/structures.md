@@ -94,7 +94,7 @@ Charcoal working and stacking run. Stock: [resources.md](../../inventory/resourc
 | **Cave vault** | Off campus, `CAVE-3` | **Seed only** — see [seed-vault.md](../../inventory/seed-vault.md) |
 
 ⚠ **There is only one cool cellar.** `COOL-CELLAR-2` is the name of the **evaporation trough at the cellar's north margin**, not a second excavation — a second cella was floated at d1020 and never dug.
-| `STORE-3` | Fabrica, v1 east annex | ✗ **Retired empty d797** · thatch holds until a demolition decision |
+| `STORE-3` | Fabrica, v1 east annex | ☠ **STRUCK d3280.** Retired empty d797, stood 2,483 days · **every post sound at chest height and punky at grade** — one hard winter from going on its own, beside the forge yard · corner stones lifted and kept, salvage otherwise poor |
 
 ★ **To find out what is in a space, grep its ID across the inventory.** No space lists its own contents, because then the contents would be stored twice.
 

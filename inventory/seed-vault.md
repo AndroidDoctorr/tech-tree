@@ -19,6 +19,10 @@ Last full audit **d3175**.
 
 ⚠ The Y9 **bulk** emmer tested at roughly half germination — see [food.md](food.md). The elite banks above have not been tested since, and Y5/Y6 have never been tested at all. Three grain reserves with no germination number between them is the single largest blind spot in the vault.
 
+> ✓ **`SEED-RAG-TEST` ×25 set d3278 on `EMMER-ELITE-Y5`, `EMMER-ELITE-Y6`, `EMMER-SOW-Y9`, `P-18-ELITE-Y8` and `P-17-ELITE-Y8` — read ~d3285.** *~1 g drawn from each.*
+>
+> ☠ ★★ **TEST BEFORE YOU ARK. Duplicating an untested bank duplicates an unknown, and two copies of nothing is nothing in two places** — no `CAVE-3` jar is charged until these read. ⚠ *And the trap is that the bank too small to spare a test gram is the bank most likely to be dead. Spend the gram.*
+
 ## Pulse
 
 | ID | Line | Qty | Where | Harvest | Tested |

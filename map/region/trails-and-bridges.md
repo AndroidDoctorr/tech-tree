@@ -76,7 +76,7 @@ Think path grading. **Each tier removes friction** — deviation, slope, brush, 
 | **Farm-road culvert stubs ×2** | — | Campus farm road | Added to the register d3270 — **genuinely missing until then** |
 | `KARASU-TRIB-01` | — *(ford · FQ GO)* | ~12 km | Shore 1 and 2 **live** · cure read d2252 · knee-deep at both pads |
 | `KARASU-TRIB-02` | **~2.0** | ~16 km | `POZZ-KIT-7` wing d2585 · pozzolan upstream cheek · ~2 mm loaded · 7-day cure. ⚠ **Wood core AMBER** — decade-plus class |
-| `ASI-ORONTES-1` | **~3.5** | Asi crossing | **Rebuild closed d2642.** Concrete abutments and deck, oak demounted · loaded wagon PASS d2652. ⚠ **Loaded listen read ~4 mm at d2997** — that is live-wood class, not the ~2–3 mm its filed 3.5 implies. **Not formally downgraded. Re-listen before trusting the grade** |
+| `ASI-ORONTES-1` | **~3.5** | Asi crossing | **Rebuild closed d2642.** Concrete abutments and deck, oak demounted · loaded wagon PASS d2652. ✓ **RE-LISTENED d3279 against `BM-ASI-1`: ~2.2 mm loaded — grade CONFIRMED, no downgrade.** ☠ *The d2997 ~4 mm was measured with the straightedge resting on the deck — the reference moved with the thing it was measuring, and ~1.8 mm of that reading was the rig. **The number is not wrong, it is unrecoverable**, because there is no record of what it was compared to* |
 | `AFRIN-1` | **~3.5** | ~10 m span · site B | Concrete abutment d1967 · touch d2243 · ~2 mm · site A ford deferred |
 | `KARASU-TRUNK-1` | **~3.5** shore | ~28 km | Listen PASS · ford ghost PASS · **deck deferred** |
 | `KIRIKHAN-APPROACH-1` | **~2.0** | ~53 km | Pozzolan wings d2319 · `POZZ-KIT-11` upstream cheek d2896 · ~2 mm · 7-day cure |

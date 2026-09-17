@@ -31,6 +31,8 @@ Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resou
 
 ⚠ **Parked in the open.** `CART-YARD` south has no roof. Covered parking is the outstanding build — the cover arch is doing work that a shed should be doing, and cloth is the consumable in that arrangement.
 
+> ⚑ **DECIDED d3280: a purpose-built shed to [BC-2](../government/regulations/building-code-2.md), not the north passage.** *The passage was considered and rejected — its column ghosts sit at ~1.0 m on centre, and it is the covered route to the horreum, so a parked wagon would plug the only path to the food store.* ⧗ ☠ **Gated on cast block: 90 days to load-bearing from the first tamp on d3280, so no earlier than ~d3370.**
+
 ---
 
 ## `COVERED-WAGON-1`
