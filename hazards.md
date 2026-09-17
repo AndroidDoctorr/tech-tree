@@ -1,6 +1,6 @@
 # Hazards & deterministic rolls
 
-*Live hazard state + tables. Roll math: [sim/roll.py](../sim/roll.py). Canon difficulty: [rules.md — Hazard rolls](rules.md#hazard-rolls-deterministic).*
+*Live hazard state + tables. Roll math: [sim/roll.py](sim/roll.py). Canon difficulty: [rules.md — Hazard rolls](rules.md#hazard-rolls-deterministic).*
 
 **Do not** improvise PASS/MISS on a catalog hazard — run the roll and log the line.
 
@@ -32,7 +32,7 @@ Change only when the player names it. Patch this row + [now.md](now.md) **Hazard
 
 **Why billion, not percent:** a **1%** floor is wrong for disaster-class events.  
 **1 / 500_000_000** daily ⇒ threshold **`2`** (0.0000002%).  
-Write rates as **`threshold`** integer, **`1/N`**, or **`Xppm`** — see [sim/roll.py](../sim/roll.py).
+Write rates as **`threshold`** integer, **`1/N`**, or **`Xppm`** — see [sim/roll.py](sim/roll.py).
 
 ### Day-file log line *(required on HIT or tier-1 near-miss)*
 

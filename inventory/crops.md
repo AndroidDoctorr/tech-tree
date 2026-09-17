@@ -94,7 +94,7 @@ Retting is a crop process rather than a stock, so the live arc lives here and th
 
 Last arc was `P-RETT-27`, closed d3136 for ~1.02 kg of line. Troughs are `RETT-TROUGH-FLAX-1` and `RETT-TROUGH-HEMP-1` in [infrastructure.md](infrastructure.md) — both live, empty and rinsed, ready for the next load.
 
-⚠ The rett clock is **10–14 days from pool load** and it is checked on every farm scare pass, not on a calendar — see [farm-scare-rett-pull](../../.cursor/rules/farm-scare-rett-pull.mdc). A bundle left submerged past its window is over-retted and the fibre is lost.
+⚠ The rett clock is **10–14 days from pool load** and it is checked on every farm scare pass, not on a calendar — see [farm-scare-rett-pull](../.cursor/rules/farm-scare-rett-pull.mdc). A bundle left submerged past its window is over-retted and the fibre is lost.
 
 ## Care
 

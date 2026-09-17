@@ -92,4 +92,4 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - ★ **Split by what a thing IS, not by what project it belongs to.** *When* to harvest acorns is the calendar, *where* they are is the map, *how* to process them is a procedure — and `ACORN-` finds all three
 - **ID convention:** `SUBJECT-ACTION` for the process, `SUBJECT-ACTION_INSTANCE` for one run of it
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
-- **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](../.cursor/rules/journal-formatting.mdc)
+- **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
