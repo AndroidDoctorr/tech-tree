@@ -19,6 +19,7 @@ Run against today's actual sky, before the day is planned.
 | `FROST-COVER` | Late frost warning | Vine, fig, any emerged bed | A year of fruit |
 | `DRY-LEVELS` | Long dry spell | Rett pool level, tan pit level, beds | A rett bundle stranded dry mid-process |
 | `HIVE-HEFT` | First properly fair day after a run of grey | Heft the hives. Grey days are days with no income | A colony starves a few days **before** the flow, with everything about to be fine |
+| `HOOD-WIND-TEST` | **First hard wind** after any hood, flue or vent work | Light the hub hearth and read the lip threads. Does the plume still sit under the canopy with a real wind on the building | **A hood tested on a still day has been tested against nothing.** Still air is the easy case, and the failure mode is a cross-draft |
 | `APRON-FLOOD-READ` | **First flood that tops the bank** after any apron, riprap or bank armour is laid | Read `CAMPUS-BRIDGE-APRON-1`: has the launching collar moved, is the toe still keyed, is the mattress still under the stone | **An apron laid at low water has been proved against nothing.** The flood is the only test, and the reading is only there for a day or two afterwards |
 
 ## State triggers

@@ -21,7 +21,7 @@ The next year or two.
 
 ## Scout
 
-- **Nickel / garnierite at the Kisecik laterite** — target reframed d3273, scout **queued and never executed**. ☠ Not pentlandite: the ore is red-brown dirt on weathered serpentinite, found by a bald patch on a green hillside. Reduce in contact with copper for constantan directly
+- ☠ **Nickel — NOT at Kisecik.** *The d3273 laterite hypothesis was walked out d3286 and there is none there; the ultramafic ore in that ophiolite is **chromite**.* ⚑ **Relocated to the Amanos near Islahiye, ~100 km N** — road to Kırıkhan, trail to Koruhöyük, then 30–35 km beyond. ★ **One trip with the Koruhöyük pozzolan and kaolin.** ⚠ Not pentlandite: red-brown dirt on weathered serpentinite with **apple-green garnierite in the fractures** — ☠ *the bald patch is a precondition, not a deposit; if the green is absent the nickel is absent.* ★ Reduce in contact with copper for constantan directly
 - **High-purity vein quartz, Nur Dağları / Belen pass** — `QUARTZ-SURVEY-NUR-BELEN-765`, ~15–25 km NE, a day survey. Best windows are **late spring** or the **early-autumn pre-harvest lull**; combine with an `M-22` repeat since it is the same corridor
 - **Bird cliff nitrate** — `M-12`, deferred since the first collect
 - **`FELDSPAR-FACE-W-1`** — cairned at ~28 km W, haul still AMBER

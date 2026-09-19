@@ -4,9 +4,12 @@ Everything beyond the campus. Distances in **km**, and in **km avian** where sta
 
 | | |
 |---|---|
-| [resources.md](resources.md) | Plants · geology · minerals · fauna — where to get things |
+| ★ [resources.md](resources.md) | ★★ **WHAT and WHERE.** Substance-to-site lookup · plants · minerals · fauna · confidence grades |
+| ★ [trails-and-bridges.md](trails-and-bridges.md) | ★★ **HOW LONG and WHAT SHAPE.** Route planner · leg and crossing registries · `TQ`/`BQ`/`FQ` · standards, decay and maintenance intervals |
+| ★ [diagram.md](diagram.md) | ★★ **THE ITINERARIUM.** A vertical strip schematic — every node, distance, crossing and resource on one line. ★ **Where the repair priority is visible** |
 | [off-campus-structures.md](off-campus-structures.md) | Caches · waystations · camps · beacons · the cave ark |
-| [trails-and-bridges.md](trails-and-bridges.md) | Leg registry · crossing registry · the `TRAIL-Q` and `BRIDGE-Q` scales |
+
+> ★★★ **PLANNING A TRIP TAKES BOTH FILES.** *`resources.md` says the kaolin is at `SC-KAOLIN-01`; `trails-and-bridges.md` says that is ~20 km east on the best-graded road on the map and therefore a day trip, not an expedition.* **Neither answer is usable alone.**
 
 Campus: [campus/index.md](../campus/index.md).
 
@@ -65,11 +68,11 @@ Where this valley is, in the world the player came from. The settlements do not 
 | Player name | Modern form | Classical | Role here |
 |---|---|---|---|
 | **Antakya** | Antakya | *Antioch* | The valley's future city · circus stake at 520 m NW |
-| **Kisecik** | Kisecik | — | **~14 km NW** · native sulfur `M-14` · the ophiolite and the Zn–Pb marks |
+| ★★★ **Kisecik** | Kisecik | — | **~16 km NW** *(⚠ ~9 km if the Orontes island site is ever bridged)* · ★★★ **`KISECIK-DISTRICT-1` — nine metals, the acid heap, and the best day trip on the map** |
 | **Samandag** | Samandağ | *Seleucia Pieria* | Orontes mouth · coast SW |
 | **Kirikhan** | Kırıkhan | — | **~53 km** · ★ **the split** — Route A west vs Aleppo Road east |
 | **Belen** | Belen | — | **~65 km** · the pass · first waystation |
-| **Iskenderun** | İskenderun | *Alexandria ad Issum* | **~85 km** · called **Alexandria** on the route |
+| **Iskenderun** | İskenderun | *Alexandria ad Issum* | **~80 km** · called **Alexandria** on the route |
 | **Dortyol** | Dörtyol | *Issus* | **~117 km** · called **Issus** · `SC-DORTYOL-B` |
 | **Erzin** | Erzin | — | **~132 km** · waystation |
 | **Ceyhan** | Ceyhan | — | **~170 km** · river crossing · the Phrygian / Cappadocian split |
@@ -77,7 +80,9 @@ Where this valley is, in the world the player came from. The settlements do not 
 | **Adana** | Adana | — | Phrygian Road · deferred behind the Seyhan crossing |
 | **Tarsus** | Tarsus | — | Phrygian Road · ore slopes beyond |
 | **Aleppo** | Halep | *Beroea* | Eastern trade node · **horizon** |
-| **Koruhoyuk** | Koruhöyük | — | Amanus belt · volcanic-margin alum horizon. ⚠ *Spelling uncertain — carried from the v1 resource map* |
+| **Koruhoyuk** | Koruhöyük | — | **~65 km N**, up the trail off the Kırıkhan split · **kaolin `M-26` · scoria pozzolan `M-27` · alum horizon** · the staging point for Islahiye |
+| **Islahiye** | İslahiye | — | **~100 km N** · ○ **Unscouted.** Podiform **chromite** documented · nickel inferred, not seen |
+| **Ghab** | Ghab plain | — | Far SE on the east string · ★ **wild hemp `P-22`** · `GHAB-STUB-1` bitumen core |
 
 ### Landmarks
 
@@ -97,6 +102,6 @@ Where this valley is, in the world the player came from. The settlements do not 
 | **Phrygian Road** | Cilician Gates → Adana → Tarsus → the plain west · *Via Tauri* class |
 | **Cappadocian Road** | Ceyhan **north** → Kozan · tin and tuff horizon |
 
-★ **Pozzolan is on the Cappadocian Road, not the coast.** Cappadocian tuff is an inland highland detour north of the ore slopes — do not go looking for it along the shore.
+⚠ **Cappadocian tuff is on the Cappadocian Road, not the coast** — an inland highland detour north of the ore slopes. ☠ **But do not plan a pozzolan trip at all:** the working supply is **ground kiln reject, at home** — see the three-tier note in [resources.md](resources.md).
 
 Historical naming notes: [route-nomenclature.md](../../government/archive/route-nomenclature.md) · player GPS waypoints: [ore-trip-gps-notes.md](../../government/archive/ore-trip-gps-notes.md).

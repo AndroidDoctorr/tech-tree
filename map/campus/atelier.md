@@ -44,7 +44,11 @@ Ring circulation around a central island. All four wing faces tie into it: the c
 
 ⚠ **The ridge vent and the flue are deliberately separate paths.** Warm air leaves at the tower top through the ridge slot; smoke goes up the stack. Do not merge them — the vent is not a flue cap.
 
-**Outstanding after stage close:** `CAMPUS-HUB-VENT-1` (island hood lip and cross-draft louvers) · **hub exterior limewash** · `HUB-RUG-N-1` · `FAN-PROVISION` ghost. All deferred, none blocking.
+✓ **`CAMPUS-HUB-VENT-1` CLOSED d3282** — island hood lip in fired tile bedded in lime, hung off the armature from outside the hot zone; **low cross-draft louvers** on the two faces that do not look at the island. Smoke test PASS, plume held against an opened windward door.
+
+> ☠ ★★ **The louvers are make-up air, not comfort.** *The ridge slot and the stack are two ways out of a tight building competing for one way in, and if the flue loses that competition it reverses and the hearth smokes into the room.* **Separating the two paths at the top does not separate them at the bottom.** ⚠ **Tested on a still day — the honest test is the first hard wind.**
+
+**Outstanding after stage close:** **hub exterior limewash** · `HUB-RUG-N-1` · `FAN-PROVISION` ghost. Deferred, none blocking.
 
 ## East — `CRAFT-WING-1`
 

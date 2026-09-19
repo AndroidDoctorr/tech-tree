@@ -13,13 +13,15 @@ Every sow and every harvest here is mandatory. The only valid skip is an explici
 - **8 Feb** — Ice max haul (peak) · `ICE-HAUL`
 - **10 Feb** — Ice max haul (peak) · `ICE-HAUL`
 - **14 Feb** — Ice haul tail · `ICE-HAUL`
-- **24 Feb** — `SEED-RAG-TEST` — germination-test every bank two days before the gate
+- **24 Feb** — `SEED-RAG-TEST` — germination-test **every bank in the [seed-vault.md](../inventory/seed-vault.md) roster, by ID, and write the date in the `Tested` column.** ☠ ★★★ *Revised d3285. This row read "every bank" for years and three banks had never been tested once — **an "every" with no roster is not auditable, because you can test one, tick the row, and be honestly finished.** The row is done when no `Tested` cell reads `—`*
+- **24 Feb** — `SEED-REGEN` — **sow out and replace any bank past its cycle: emmer ~3 yr · chickpea ~3 yr · lentil ~2 yr.** ★★ *A reserve is a stock times a rate and the rate falls — banks are regenerated, not stored*
 - **26 Feb** — Spring sow opens · `SPRING-SOW` *(run `SOW-PREP` in [conditional.md](conditional.md) on every sow day)*
 - **26 Feb – 16 Mar** — Parsley / fava seed scout lap · `SEED-SCOUT` *(beyond campus — acquire before sow close)*
 
 ## March
 - **11 Mar** — Exped / cart trips open
 - **16 Mar** — Spring sow closes · `SPRING-SOW` *(emmer · lentil · field flax · chickpea · hemp · fava · culina herbs)*
+- ⚑ **Y11 spring sow** — `EMMER-Y5-RESCUE` *(sow the ~25% Y5 elite bank thick as its own block, harvest as seed, replace the bank. **25% is not dead, it is the last call** — the curve is a cliff at this age)*
 - **Mar** — Mark the wild grain stands while they are green · `GRAIN-GATHER-WILD` *(P-04 · P-05-A/B · P-06-A/B/C — in June they are indistinguishable from everything around them)*
 - **Sow day + 3 weeks** — Bird establishment window · `BIRD-WATCH` · `BIRD-DEVICE-RESET`
 - **Mar – Apr** — Shoot thin · `GRAPE-SHOOT-THIN` *(the budbreak job)*

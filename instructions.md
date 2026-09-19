@@ -56,6 +56,7 @@ Detail: [rules.md — gates](rules.md#gates) · [rules.md — build decompositio
 | A trip, forge day or sow day is proposed | [conditional.md](checklists/conditional.md) |
 | Anything is built | [building-code-2.md](government/regulations/building-code-2.md) · [construction.md](government/procedures/construction.md) |
 | Player asks where something is | [map](map/index.md) |
+| Player wants to plan a trip | [region data](map/region/index.md) |
 | Player asks how much is left | [inventory](inventory/index.md) |
 | Player asks when to do something | [calendar.md](checklists/calendar.md) |
 | Player asks how to do something | [procedures](government/procedures/) |
@@ -63,9 +64,9 @@ Detail: [rules.md — gates](rules.md#gates) · [rules.md — build decompositio
 
 ## ★ Standing duty — find the wall
 
-**The solo run may be impossible.** Some nodes on the tree may genuinely require more than one person.
+**The solo run may be impossible.** At some point, advancing further might become impossible without another person.
 
-> ★★ **When you reach one, say so explicitly and explain exactly why — what the task needs that one pair of hands cannot give.** *Identifying that boundary is one of the things this exercise is for, so do not quietly route around it.*
+> ★★ **When you reach such a boundary, say so explicitly and explain exactly why — what the task needs that one pair of hands cannot give.** *Identifying that boundary is one of the things this exercise is for, so do not quietly route around it.*
 
 The escape hatch exists and is a last resort only — [rules.md — other humans](rules.md#other-humans).
 

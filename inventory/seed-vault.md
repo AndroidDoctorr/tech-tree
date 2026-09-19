@@ -13,23 +13,44 @@ Last full audit **d3175**.
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | `EMMER-ELITE-Y9` | Emmer elite · **+~95 g sown to `SEED-INCREASE-BLOCK-Y10` @ Bed C SW** | ~18 g | Vault | Y9 | d3211 |
-| `EMMER-ELITE-Y6` | Emmer elite | ~18 g | Vault | Y6 | — |
-| `EMMER-ELITE-Y5` | Emmer elite | ~20 g | Vault | Y5 | — |
-| `EMMER-SOW-Y9` | Emmer sow bank · reserve | ~6 g | Vault | Y9 | — |
+| ⚠ `EMMER-ELITE-Y6` | Emmer elite · **~40%** — sowable at double rate, not bankable | ~17 g | Vault | Y6 | **d3285** |
+| ☠ `EMMER-ELITE-Y5` | Emmer elite · ☠ **~25% — NOT A RESERVE.** ⚑ Sow thick Nov Y10, harvest as seed, replace bank | ~19 g | Vault | Y5 | **d3285** |
+| ✓ `EMMER-SOW-Y9` | Emmer sow bank · reserve · ★ **~85%** | ~5 g | Vault | Y9 | **d3285** |
 
-⚠ The Y9 **bulk** emmer tested at roughly half germination — see [food.md](food.md). The elite banks above have not been tested since, and Y5/Y6 have never been tested at all. Three grain reserves with no germination number between them is the single largest blind spot in the vault.
+> ☠ ★★★ **READ d3285 AND IT WAS WORSE THAN THE GUESS. `EMMER-ELITE-Y5` is ~25% — five years counted as insurance, dying on the shelf the whole time, and seven days from being sealed into a `CAVE-3` jar.** ★★ **The d3278 "test before you ark" gate paid for itself in a week.**
 
-> ✓ **`SEED-RAG-TEST` ×25 set d3278 on `EMMER-ELITE-Y5`, `EMMER-ELITE-Y6`, `EMMER-SOW-Y9`, `P-18-ELITE-Y8` and `P-17-ELITE-Y8` — read ~d3285.** *~1 g drawn from each.*
->
-> ☠ ★★ **TEST BEFORE YOU ARK. Duplicating an untested bank duplicates an unknown, and two copies of nothing is nothing in two places** — no `CAVE-3` jar is charged until these read. ⚠ *And the trap is that the bank too small to spare a test gram is the bank most likely to be dead. Spend the gram.*
+### ☠ ★★★ A bank is a stock TIMES A RATE, and the rate falls
+
+**Grain was being kept the way bricks are kept. A brick sits there; a seed is alive, and a living thing in a jar is not preserved, it is slowed — and slowed is still moving.**
+
+> ☠ ★★★ **RESERVES ARE REGENERATED, NOT STORED.** *Grown out on a cycle and the new crop replaces the bank.* ★★ **And the TEST is part of the cycle — a bank with no test date is a bank with no number, and a bank with no number is a story about a bank.**
+
+| Species | Regen cycle | Evidence |
+|---|---|---|
+| **Emmer** | ⚠ **~3 yr, not 5** | The Y5 bank is where the cliff is |
+| **Chickpea** | ~3 yr | ~60% at 2 yr |
+| ☠ **Lentil** | ★★ **~2 yr — the short-lived one** | ~35% at 2 yr, beside chickpea's 60% in the same air |
+
+★★ **Rates are per SPECIES, not per vault.** ⧗ **Cycle and test dates live in [calendar.md](../checklists/calendar.md)** — per the plans rule, a thing with a date is a calendar row or it does not happen.
+
+### ★★★ Handling on the way in beats storage
+
+| Y9 emmer, same harvest | Germination |
+|---|---|
+| **Elite** — hand-selected, hand-cleaned, vaulted | ★★ **~85%** |
+| **Bulk** — threshed, winnowed, binned *(see [food.md](food.md))* | ⚠ **~50%** |
+
+> ☠ ★★★ **Thirty-five points apart with not a day of age between them.** *Cracked hulls, thresher bruising, chaff holding damp, a bin that breathes with the weather.* ★★ **The largest number in the whole test was set by how the grain was threshed in one afternoon — not by the vault.**
+
+★ **`CAVE-3` jars charge with Y9-class seed only.** *The ark waits on the regeneration.*
 
 ## Pulse
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | `P-17-ELITE-Y9` | Lentil elite | ~51 g | Vault | Y9 | d3122 |
-| `P-18-ELITE-Y8` | Chickpea elite · hold | ~52 g | Vault | Y8 | — |
-| `P-17-ELITE-Y8` | Lentil elite · reserve | ~5 g | Vault | Y8 | — |
+| `P-18-ELITE-Y8` | Chickpea elite · hold · **~60%** — acceptable | ~51 g | Vault | Y8 | **d3285** |
+| ⚠ `P-17-ELITE-Y8` | Lentil elite · reserve · ⚠ **~35% at two years** — ☠ **lentil is the short-lived one, regen ~2 yr** | ~4 g | Vault | Y8 | **d3285** |
 | `P-FAVA-Y9` | Fava, dry · ★ **reserve only — bank spent to the sow** | ~25 g | Vault | Y9 | d3214 |
 
 ★ **Fava is now the limiter on bare ground.** The bank went in at `FAVA-EXTEND-Y10`, leaving 25 g. Area is no longer the constraint; seed is.

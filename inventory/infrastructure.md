@@ -209,6 +209,17 @@ Map: horreum north cella · Built: d3189
 
 ~1.2 × 1.0 m, lined c1–c5, straw/shive void, oak lid. Holding ~+40 kg. Cure to 8 Feb.
 
+### `ORE-BAY-1` — covered ore store and vitriol catch
+Map: `WW-YARD` west of the forge · Built: **d3291**
+
+**Puddled clay pan sloped to one corner · coarse stone bed · one-course dry-laid kerb · sunk lidded catch pot at the low corner · roofed lean-to off the forge wall.** ⚑ **Galena in its own kerbed bay, marked, handled separately.**
+
+☠ **Built because sulfide ore left in the weather makes acid, and the yard slopes to TRIB-1.** *The same design as `VITRIOL-HEAP-1` at Kisecik, scaled down and roofed — the heap wants rain, this does not.*
+
+> ★★★ **The catch pot is an instrument, not a drain fitting.** *`VITRIOL-HEAP-1` is a farm that cannot be observed between visits; this is the same reaction at a tenth of the scale, under the eye, daily.* ✓ **Pale liquor after 4 wet days (d3294)** — ⧗ **whatever it teaches about rate arrives ~90 days before the Kisecik sump is opened.**
+
+⚠ **The liquor carries arsenic as well as acid** — see [resources.md](../map/region/resources.md) district hazards.
+
 ## Food processing
 
 ### `ACORN-LEACH-TROUGH-1`

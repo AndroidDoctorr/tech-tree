@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3280)*
+## Recent days *(append here · @ Day 3294)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -35,6 +35,20 @@
 | 3278 | [day-3278.md](days/year-009/week-469/day-3278.md) | ☠ ★★★ **A material's VIRTUE and its DEFECT are the same property read two ways** — gypsum dissolves *(so it works, and so it leaches)* and stales *(so it is a desiccant)* · ★★★ **cave = temperature, JAR = the ark, door = a porch** · ★★★ **you seal moisture IN, never out** · ☠ **test before you ark** | **Cal-Y10 D133 · ~4 May** |
 | 3279 | [day-3279.md](days/year-009/week-469/day-3279.md) | ☠ ★★★ **I measured the bridge AGAINST THE BRIDGE** — a measurement is a comparison and inherits its reference's faults · ✓ **ASI-ORONTES-1 BQ ~3.5 CONFIRMED at ~2.2 mm, the extra 1.8 mm was the RIG** · ☠ **a bad measurement sends you to fix what is not broken** · ★★ **BM-ASI-1 benchmark driven** | **Cal-Y10 D134 · ~5 May** |
 | 3280 | [day-3280.md](days/year-009/week-469/day-3280.md) | ★★★ **Block yard opens and stops at SEVEN — pozzolan, not lime, is the limit** · ☠ **feedstock is the reject pile: UNDERBURNT brick is the pozzolan** · ★★★ **dry-tamping = one mould, every block** · ☠ **lime-pozzolan REACTS with water, it does not dry** · **STORE-3 struck — punky at grade** | **Cal-Y10 D135 · ~6 May** |
+| 3281 | [day-3281.md](days/year-009/week-469/day-3281.md) | ☠ ★★★ **Most of the checklist does not WAIT, it RUNS BACKWARD** — nitre core gone anaerobic at 49 d · ☠ ★★★ **the failure and the blind spot have the same cause** · ★★ **the tan ladder is a schedule for the LIQUOR** · ✓ **bees given space inside the window** | **Cal-Y10 D136 · ~7 May** |
+| 3282 | [day-3282.md](days/year-009/week-469/day-3282.md) | ✓ **Hub vent closed** · ★★★ **a hood is a BUCKET HELD UPSIDE DOWN — the flue extracts, the hood only contains** · ★★★ **cross-draft LOW, dead air HIGH** · ☠ ★★★ **I have built nothing but EXITS and never sized a way in — two outlets compete for one inlet and the loser reverses** | **Cal-Y10 D137 · ~8 May** |
+| 3283 | [day-3283.md](days/year-009/week-469/day-3283.md) | ★★★ **W469 CLOSE · the KILN now feeds the block yard — nine years of reject stacks, and every firing makes more** · ★★★ **grinding is what water power is FOR: stone runner on the WW-2 free collar** · ☠ ★★★ **who waters the blocks while I am away? SINK them — submerged cures harder and needs nobody** · ✓ **cart shed pad sited** | **Cal-Y10 D138 · ~9 May** |
+| 3284 | [day-3284.md](days/year-009/week-470/day-3284.md) | ✓ **W470 OPEN · dearth beds sown into rain · VITEX STRUCK** — the one plant that flowers Jul–Sep straight through the gap · ★★★ **the apiary is limited by a FORAGE HOLE, not by hives** · ★★ **the seed plants and the bee plants are the same plants** · ★★ **a cutting has no roots and I am leaving — same answer as the blocks** | **Cal-Y10 D139 · ~10 May** |
+| 3285 | [day-3285.md](days/year-009/week-470/day-3285.md) | ☠ ★★★ **EMMER-Y5 READS ~25% — five years of "insurance," seven days from the cave jar** · ☠ ★★★ **a bank is a stock times a RATE: regenerate, do not store** · ☠ ★★★ **Y9 elite 85% vs bulk 50% — HANDLING beat storage by 35 points** · ☠ ★★★ **the calendar row existed and caught nothing: an "every" with no ROSTER is not auditable** | **Cal-Y10 D140 · ~11 May** |
+| 3286 | [day-3286.md](days/year-009/week-470/day-3286.md) | ☠ ★★★ **NO NICKEL AT KISECIK — and everything else: a NINE-METAL district at 16 km** · ★★★ **the barren ground was the assay, serpentine flora maps the bedrock** · ☠ ★★★ **DÖRTYOL CANCELLED — and the near site was CATALOGUED all along, with a road I built to it** | **Cal-Y10 D141 · ~12 May** |
+| 3287 | [day-3287.md](days/year-009/week-470/day-3287.md) | ☠ ★★★ **THE FOUR IRON ORES ARE THE SULFIDES, ROTTED — the gossan is a gravestone standing over the body** · ★★★ **the weathering that ruined the ore is the flag that marks it** · ★★★ **map by ROCK, not by find: a point tells you only about itself** | **Cal-Y10 D142 · ~13 May** |
+| 3288 | [day-3288.md](days/year-009/week-470/day-3288.md) | ★★★ **YOU DO NOT ROAST PYRITE FOR ACID, YOU LET IT ROT — oil of vitriol, and the name was a recipe** · ☠ ★★★ **sulfur was never the bottleneck, the CONVERSION was: short of a PROCESS, went shopping for a MATERIAL** · ★★★ **CONTAINMENT IS THE HARVEST** | **Cal-Y10 D143 · ~14 May** |
+| 3289 | [day-3289.md](days/year-009/week-470/day-3289.md) | ★★★ **SILVER COMES OUT OF LEAD ORE, NOT OUT OF SILVER MINERALS — the obstacle was a NAME** · ✓ **cupellation proved on poor ore with nothing at stake** · ⚑ **Bolkardağ reframed from gamble to errand** · ✓ **gold colour, modest** | **Cal-Y10 D144 · ~15 May** |
+| 3290 | [day-3290.md](days/year-009/week-470/day-3290.md) | ✓ **W470 CLOSE · home loaded** · ⚑ **SC-ORONTES-ISLAND-B — two short spans, 16 km becomes 9** · ☠ ★★★ **I would still be on the road tonight** · ★★★ **effort spent on a plan is not evidence for the plan** | **Cal-Y10 D145 · ~16 May** |
+| 3291 | [day-3291.md](days/year-009/week-471/day-3291.md) | ☠ ★★★ **Built a sump at Kisecik to catch this, then nearly tipped the same rock on bare ground at home in the rain** · ★★★ **the rock changed CATEGORY on the wagon and the chemistry did not** · ✓ **`ORE-BAY-1`** | **Cal-Y10 D146 · ~17 May** |
+| 3292 | [day-3292.md](days/year-009/week-471/day-3292.md) | ★★★ **Set out to read one leg and the rain read all seven** · ★★★ **`TQ` and drainage are two axes and I kept one** · ☠ **`L6` drains QUEUED, each handing its water to the next** | **Cal-Y10 D147 · ~18 May** |
+| 3293 | [day-3293.md](days/year-009/week-471/day-3293.md) | ☠ ★★★ **MAINTENANCE ARRESTS, IT DOES NOT RECOVER** · ★★★ **a cheap job welded to an expensive one means the cheap half never gets done either** · ✓ **11 drains, `TQ ~2.25 → ~2.375`** | **Cal-Y10 D148 · ~19 May** |
+| 3294 | [day-3294.md](days/year-009/week-471/day-3294.md) | ✓ **HOME** · ★★★ **`L0` ford approach fixed in 40 min after 2.5 years** · ☠ ★★★ **a fault that resembles the normal condition of the place is invisible** | **Cal-Y10 D149 · ~20 May** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |
@@ -736,11 +750,7 @@ Rollups: **[journal/weeks/](weeks/)** · week *N* = days *(N−1)×7+1* through 
 | **year-002/** | 53–104 | Year 2 |
 | **year-003/** | 105+ | Year 3 *(Week 114 open @ Day 797 · Cal-Y3 D195)* |
 
-| Year | File | Days | Summary |
-|------|------|------|---------|
-| **1** | [year-001.md](years/year-001.md) | 1–237 | Base → campus · harvest · copper · donkey · coast · **FEAST-237** |
-| **2** | [year-002.md](years/year-002.md) | 238–602 | Factory · iron · cart · kitchen · aqueduct · wagon · **FEAST-602** |
-| **3** | [year-003.md](years/year-003.md) | 603+ | **Cal-Y3** — chem lab · STORE-4 · see [now.md](../now.md) @ Day 797 |
+☠ **Year summary files were dropped as stale.** *The three links that used to sit here pointed at `years/year-001.md` through `year-003.md`, which no longer exist.* **Use [weeks/](weeks/) and the [day part files](index/) instead.**
 
 ## Era markers (planned)
 
