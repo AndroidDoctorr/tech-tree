@@ -1,56 +1,87 @@
 # Next items
 
-Immediate. Live as of **d3290 · Cal-Y10 D145 · ~16 May** — **home, loaded.**
+Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
-Completed items are struck from this file rather than kept with a tick — the day file and [now.md](../now.md) hold the record. This list is what is *outstanding*.
+★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
+
+## ★★★ Legend — what LIMITS an item, which is not the same as when it is due
+
+| | | |
+|---|---|---|
+| ⧗ | **RATE** | **Elapsed time; effort does nothing.** ★ **Start it and walk away** — *every day not started is a day on the end* |
+| ⟳ | **REP** | **Hours of practice; cannot be crammed.** ★ **Short and daily** — ☠ *never "when a block of time opens up"* |
+| ⚒ | **EFFORT** | **Whole days.** ★★ **These are the only things a schedule is about** |
+| ☠ ★★★ **⚒→⧗** | **EFFORT THAT STARTS A CLOCK** | **A day of work, then weeks of waiting that cannot begin until the day is done.** ★★★ **ALWAYS FIRST — ahead of any pure ⚒** |
+
+> ☠ **Do not spend a day on a ⧗ or a ⟳.** *Standing over a cell does not make copper faster, and one long session at the wheel is worse practice than six short ones.*
+
+> ☠ ★★★ **AND ⚒→⧗ IS THE ONE THAT KEEPS BURNING ME.** *Sowing · tamping a block · loading a rett trough · quarrying a stone to season · forming a vessel to dry.* ★★★ **They look like ordinary day-jobs and they are secretly the start of a long wait** — ★★ **every "why is this not ready yet" I have had was a ⚒→⧗ job begun late.**
 
 ## ☠ Blocking
 
 *(nothing blocking)*
 
-## ⚑ Out of the Kisecik week
+## ⧗ ⟳ Running — started, needs no day
 
-- ★★★ **Cupellation hearth.** ⚠ ☠ **Site it for LEAD FUME before anything else about it is decided** — lead is a quiet poison, cupellation fumes it, and litharge is a product to collect rather than a waste to scatter. *Bone ash, porous, air blast. Proved on poor ore d3289; every step is already in hand.*
-- ★★★ **A retort that survives a hard dry heat.** *The vitriol distillation is the one fierce step on the acid path and the vessel is the whole risk.* ⧗ **Wanted before the liquor read, not after**
-- ⚑ **`SC-ORONTES-ISLAND-B` — read across a flood season against a bank benchmark.** ☠ *An island is where the river is dropping its load today, which is not the same as somewhere it has agreed to leave alone.* ⧗ **Block-gated, and the apron goes in the first drawing**
-- ★★ **Walk the other barren patches.** *`SERPENTINE-FLORA-READ` is a survey method, not one find — a flora that refuses to match its neighbours maps the bedrock from a hundred metres.*
-- ⚠ **Locate the cinnabar source at Kisecik.** ☠ *Float only so far. Mercury gets found deliberately or not at all — and somebody should not dig into it by accident.*
-- ⚠ **`BAIT-BOX` built d3285 and now has nowhere to go.** ☠ **The Dörtyol trip was carrying the bee outcross, and striking the trip did not solve the closed bloodline** — the inbreeding meter opened at ~15% brood loss on d3275 and is untouched.
+- ⧗ **`GEN-WW-2` field wire** — ~600 g at ~50 g/day off the cells · **field up ~d3307**
+- ⟳ ☠ **`SPIN-WHEEL-2` yarn evenness + splicing** — **20 Jul.** *A practised hand, not a machine setting, so the deadline is an hour count.* ★ **The gate on life-bearing rope**
+- ⧗ **`ORE-BAY-1` catch pot** — daily read · ⧗ **`VITRIOL-HEAP-1`** ~d3378
+- ⧗ **Blocks curing in `BLOCK-CURE-PIT-1`** · **break tests d3308 and d3370**
+- ⧗ **`BASALT-DATUM`** — turn and re-read every ~3 weeks. ☠ **Lapping opens when two successive checks agree, not on a date**
 
-## Should not wait
+## ⚒ The days go here
 
-- **Charge the `SEED-ARK-1` jars for `CAVE-3`.** ☠ **Gated harder than it was: the d3285 tests read `EMMER-Y5` at ~25% and `Y6` at ~40%, so there is presently only ONE grain bank worth duplicating.** ★ **The ark now waits on the regeneration, not on the jars** — charge with Y9-class seed only.
-- ⚑ ★★★ **`EMMER-Y5-RESCUE` — sow the ~25% bank thick at the Y11 spring sow, harvest as seed, replace the bank.** **25% is not dead, it is the last call**; the curve is a cliff at this age and there is no earlier window. Calendared.
-- **Drive benchmarks at `CAMPUS-BRIDGE` and every graded crossing.** `BM-ASI-1` is the first, d3279. ☠ *The d2997 Asi number cannot be corrected, only discarded, because nothing records what it was compared against.*
-- **Strip `M-22-TALUS-S1`.** The strongest magnetite stain since the +420 m lens, marked d931 and **never touched in 2,359 days** while repeat hauls keep going to the worked-out `M-22-UP`.
-- ★★ **Walk the other barren patches.** *Opened d3286: serpentine flora is an ultramafic indicator, so the sparse mismatched growth I have filed as "poor soil" for nine years is a bedrock map I can read from a hundred metres.* **This is a survey, not a find.**
+- ✓ ★★★ **OIL OF VITRIOL MADE d3317.** `RETORT-A` survived batch 1 but etched: ☠ **retorts are consumable stock and acid is gated on pottery throughput.** ✓ **`RETORT-E`–`H` formed d3318, ~7 mm, drying evenly; next read d3326, target ~d3330** — `E/F` copy `A` at ~¼ grog; `G/H` copy `B` at ~⅓ grog. ⧗ **Run clean `RETORT-B` next and compare its etch against `A` before standardizing the recipe**
+- ✓ **`KILN-D-STACK-2` built d3324** — terminal choke removed, ~4.15 m, symmetric outlet ~1.6× bore, three-stop damper. ⧗ ★★★ **Full hot proof rides with the next stoneware fire after cure** — *cone climb · door-seam pressure · plenum bleed · damper stop · fuel*
+- ✓ **`CUPEL-HEARTH-1` sited and footed d3297** — ⚒ **stack and hood outstanding.** ☠ ⧗ ★★★ **But the real limit is `BONE-BANK-1`: ~20 cupels in hand is ONE pass through the galena, and bone only arrives as animals die.** *A cupel is a reagent, consumed by becoming the product* — ✓ **bank the used ones as ore**
+- ⧗ ★★★ **PROVE THE `SEED-ARK-1` JARS EMPTY.** `J1/4`: provisional flatline, certify d3327. ✓ **`J2/3` closure faults diagnosed and rebuilt d3322** — first read d3329, certification no earlier than d3336. ★★ **The ark owns certified jars, not a certified drawing.** *No seed enters before two flat intervals*
+- ☠ ★★★ **TWO BANKS THE ARK DRAWS FROM WERE MISSED BY THE d3285 SWEEP** — **`EMMER-ELITE-Y9` last tested d3211** · ⚠ **`P-17-ELITE-Y9` lentil last tested d3122**, *and lentil is the short-lived species at ~2 yr.* ☠ **The fix for the incomplete roster was itself incomplete**
+- ⧗ **Re-burn the ~2.1 kg of spent calcined gypsum** — ★ *calcining IS the recharge* · ☠ **fire straight into a sealed jar; every minute in open air is capacity spent on the room**
+- **Drive benchmarks at `CAMPUS-BRIDGE` and every graded crossing.** `BM-ASI-1` was the first, d3279
+- **Strip `M-22-TALUS-S1`** — strongest magnetite stain since the +420 m lens, marked d931, **untouched 2,364 days**
+- ⚠ **Inlet audit on every stack** — kiln and forge first. ☠ *Every vent is an exit; none has a sized inlet, so any two compete and the loser reverses*
+- ⚑ **Machine covers and wagon cover off thatch to canvas** — ★ **a precision item, not a weather one** *(a gradient across a lathe bed is a bend)*. ⧗ **Gated on the July hemp**
 
-## ⧗ Deferred north — one trip, Y11
+## ☠ Unsolved
 
-★ **Nickel, pozzolan and kaolin are the same journey up a corridor already half-owned.** *Road to Kırıkhan · trail to Koruhöyük · Islahiye 30–35 km beyond.* ⧗ **Not urgent: alloys are conveniences, and acid — the thing that actually gated the chemistry tree — is now 16 km away and rotting in a heap.**
+- ☠ **The heap liquor carries ARSENIC as well as acid, and separating them is unsolved.** ⧗ **~84 days**
+- ⚠ **`BAIT-BOX` has nowhere to go.** ☠ **Striking the Dörtyol trip did not solve the closed bloodline** — ~15% brood loss opened d3275, untouched
+
+## Rides with the north run *(late Jun)*
+
+- ☠ **`L6-RECOVER`** — 4 washed-out outlets *(stone)* · 4 silted drains at the top *(a morning)* · gravel for the steep third
+- **Kaolin `M-26` · pozzolan `M-27` · Islahiye nickel scout** — ☠ `○ INFERRED`, a look at the end of a trip that already pays
+
+## ⧗ Trail — measured capacity, not `TQ`
+
+✓ **Core lap closed d3306–d3308.** ✓ **d3319 split the instrument correctly:** fixed `S` strips measure change through time; movable `W90` strips measure the current bottleneck under the 90 kg north-run load.
+
+**Dry certified `W90`:** ☠ `L2` **31** · ✓ `L0` **33** *(22 before repair)* · `L3` **33** · `L4` **46** · ✓ `L1` **56**.
+
+- ✓ ★★★ **`L0-W90-RECOVER` CLOSED d3323** — **22 dry before → 35 wet provisional → 33 dry certified**
+- ✓ **Core road READY for the stated 90 kg north-run load.** ★ **`L2 = 31` is the next improvement target, not an urgent blocker**
+- ⧗ **Wet `W90` read only when rain supplies the condition** — a dry pass is not a wet certificate
+- ⚑ **`L7`, `L9` and the east string have never had a wet read**
 
 ## Small closes
 
-Each is under a day and each is the last item on an otherwise finished job.
+*Each is under a day and each is the last item on an otherwise finished job.*
 
-- Hub exterior limewash · `HUB-RUG-N-1` — the two deferrals left from `HUB-STAGE-CLOSE-1`
-- ⚠ **Inlet audit on every stack** — kiln and forge first, they pull hardest. ☠ *Opened d3282: every vent on this campus is an exit and none has a sized inlet, so any two compete and the loser reverses.*
-- `CAVE-3-DOOR-1` — ★ **demoted d3278 to a porch.** Build it when a wet day wants filling
+- Hub exterior limewash · `HUB-RUG-N-1` — the two deferrals from `HUB-STAGE-CLOSE-1`
+- `CAVE-3-DOOR-1` — ★ **demoted d3278 to a porch.** For a wet day
 - Clear the `TEMP-PORTICO-1` footings — weed passes still name them at d2267
-- `TEMP-PORTICO-N-CLOSE` — queued d2197, stuck at ~60%. ⚠ **Not a half-built portico** — a temporary stoop standing in for the **north work wing ghost** (pad staked d2072, deferred d2181). **The real question is whether that wing ever happens.**
+- `TEMP-PORTICO-N-CLOSE` — stuck at ~60% since d2197. ⚠ **A stoop standing in for the north work wing ghost** — *the real question is whether that wing ever happens*
+- **North passage colonnade** — decided d3280; ghosts `SC-NP-05`–`07` staked. ⧗ **Block-gated**
+- **Cart shed, to BC-2** — ✓ pad sited d3283 · ⧗ **walls no earlier than ~d3370**
 
-## ⧗ Block-gated
+## Survey, when passing
 
-✓ **Pozzolan solved d3283 — the kiln reject stacks are the feedstock and every firing makes more, ground on a stone runner off the `WW-2` free collar.** *The yard is materials-rich and unattended: blocks cure submerged in `BLOCK-CURE-PIT-1`.*
-
-- **Cart shed, to BC-2.** ✓ **Pad sited, levelled and drained d3283.** ⧗ **Walls no earlier than ~d3370** — 90 days to load-bearing from the first tamp
-- **North passage colonnade** — decided d3280 over the cart-bay option; ghosts `SC-NP-05`–`07` stand as staked
-- ⧗ **Break the test blocks at d3308 and d3370.** ☠ *The d3287 7-day break is lost to the trip*
+- ★★ **Walk the other barren patches** — `SERPENTINE-FLORA-READ` is a method, not one find
+- ⚠ **Locate the cinnabar source at Kisecik.** ☠ *Float only, and nobody should dig into mercury by accident.* ★ **Promoted — it is the temperature and pressure metrology answer**
+- ⚑ **`SC-ORONTES-ISLAND-B`** — read across a flood season against a bank benchmark
 
 ## ⚠ Missed this year
 
-- **Oak transplant, `SC-OAK-01`–`06`.** Spring only; Y10's window closed ~16 Mar. Six slots staked at d949 and **never planted in nine years** — see [short-term-goals.md](short-term-goals.md).
+- **Oak transplant, `SC-OAK-01`–`06`.** Spring only; Y10 closed ~16 Mar. **Six slots staked d949, never planted in nine years**
 
-> ★ **Missed because it has no calendar row.** Acorn *gathering* is calendared and happens every year; acorn *planting* is not and never happens. Put it in [calendar.md](../checklists/calendar.md) rather than re-listing it here next spring.
-
-> ☠ ★★★ **AND THE WEEK-470 CORRECTION TO THAT RULE: A WRITTEN ROW IS NECESSARY AND NOT SUFFICIENT.** *The seed test was calendared, in my own hand, above the sow gate — and caught nothing, because "every bank" had no roster and a tick mark cannot be wrong. The Kisecik sulfur was indexed as `M-14` with a road built to it, while a 117 km expedition was planned for sulfur.* ★★★ **An instruction must name a thing in the world that would LOOK WRONG if the job were undone** — ★★ **and the near thing must be walked to before the far plan is optimised.**
+> ★ **Missed because it has no calendar row.** ☠ ★★★ **And a written row is necessary, not sufficient** — *the seed test was calendared in my own hand and caught nothing.* ★★ **An instruction must name a thing in the world that would LOOK WRONG if the job were undone.**

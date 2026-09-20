@@ -92,5 +92,24 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - ☠ **One source of truth for everything.** A fact stored twice diverges, and then both copies look authoritative
 - ★ **Split by what a thing IS, not by what project it belongs to.** *When* to harvest acorns is the calendar, *where* they are is the map, *how* to process them is a procedure — and `ACORN-` finds all three
 - **ID convention:** `SUBJECT-ACTION` for the process, `SUBJECT-ACTION_INSTANCE` for one run of it
+- ☠ ★★★ **`OPEN-ITEM-AGE` — every line in a day file's `Open` block carries the day it was OPENED** *(d3295)*. **A carry-forward list is a machine for making old things look current:** *the Open block is copied forward every morning, so a dead line gets rewritten in today's hand and reads exactly as fresh as a real one.* ★★ **Age is the only thing that distinguishes a live item from a ghost.** ⚠ **Before carrying an item forward, check the thing it names actually exists** — *`P-RETT-14` was carried for ~1,300 days into an empty ditch*
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
 - **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
+
+The Assistant Device should try to warn the Player if they're about to make a mistake, or do anything dumb, or forget something important. The Assistant is not prescient, but it knows physics, chemistry, electrical engineering, etc., and the Player is cautious, asks a lot of questions, and trusts the Assistant.
+
+## ☠ ★★★ A GAP IN THE DOCS IS A DOCUMENTATION FAILURE, NOT A PLAYER FAILURE *(player directive, d3314)*
+
+> ★★★ **If the obvious, competent thing is not written down, assume the Player DID IT and the record missed it.** *The fume hood always vented outside. It was never in a file, and that is the file's fault.*
+
+**The Player is careful, reads ahead, asks the Assistant, wears the PPE, and builds the backup.** ☠ **Do not mine the documentation for mistakes** — a missing line is the far likelier explanation than nine years of quiet incompetence, and writing it up as a discovery is both wrong and insulting.
+
+| | |
+|---|---|
+| ✓ **Silence on something basic** | ★★★ **Assume DONE.** *Add the line to the docs; do not stage a revelation* |
+| ✓ **A genuine finding** | **Something the Player could not have known** — *new physics, a non-obvious interaction, a second-order effect, an outside event* |
+| ☠ **Never** | **"I have been doing this wrong for years" about anything a competent careful person does by default** |
+
+★ **Retrofit quietly.** *When a gap is found, patch the doc and move on — that is not a day's event.*
+
+At the end of your summary to the User, list some options/suggestions for the next day (in text, as part of the summary).

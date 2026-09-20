@@ -80,6 +80,37 @@ Map: cell D · Built: d3032
 
 Shares a wall with `CHAR-RETORT-1`. ~+17% on trial. The pair run as `CHAR-RETORT-TWIN-CELL-1`, a C/D parallel ×3 grammar.
 
+### ★★ `CUPEL-HEARTH-1` — cupellation hearth and litharge recovery
+Map: **SW fume shelf below the forge** · Sited **d3297** · Built **d3299** · ✓ **Commissioned d3300** · ⚠ **draught adequate, little margin**
+
+**Dished brick bed for a renewable bone-ash cupel · low cross-blast tuyère** *(the air must sweep the surface, not stir the bath)* · **close hood · ~23 m flue up the shelf slope · settling chamber ~1.2 × 0.8 m with a sweeping hatch, floor falling to one lip · damper · small adjustable draught fire at the stack base, past the chamber** · ⚑ ★★ **a SIZED LOW INLET at ~1.5× the throat — the first on this campus.** ~550 brick.
+
+> ★★★ **THE FLUE DOES TWO OPPOSITE JOBS AND MUST DO THEM IN DIFFERENT PLACES.** *Cold at the near end where the vapour still carries its load; hot at the far end where the only job left is to pull.* ☠ **Never warm the cooling run to improve the draught — that is the product.**
+> ★★ **Stack stands on top of the RISE, not on top of the flue** — *draw is the difference between the ends.*
+
+> ☠ ★★★ **DRAW HAS A CEILING AS WELL AS A FLOOR.** *Fast gas carries dust past the chamber and out.* ★★★ **Set the damper by MASS BALANCE, never by eye** — **lead in · bead out · sweepings out · shortfall is the loss.** ✓ **d3300 baseline: ~400 g poor galena → ~150 g litharge, ~42%.**
+
+⚒ **Rodding doors every ~2 m of the cooling run outstanding** — ★ *most of the shortfall is furred to the flue wall in the first few metres, recoverable, and there is no way in.* **~42% → ~⅔.**
+
+☠ ★★★ **Sited for CAPTURE, not distance.** *A colony works a three-kilometre disc and this campus is a dot near the middle of it, so no arc of the compass is free of bee forage and "far enough away" is an empty category.*
+
+> ★★★ **THE FLUE IS A RECOVERY FITTING THAT HAPPENS TO BE THE SAFETY.** *Litharge is nine-tenths of the charge — reducible to lead, a flux, a glaze, and the drier for linseed varnish.* ☠ **A hearth that vents cleanly has solved the poisoning by throwing away the charge.**
+
+⚠ **Throughput is limited by `BONE-BANK-1`, not by the hearth** — *~20 cupels is one pass through `GALENA-1`.* ✓ **Used cupels are banked ore, kerbed with the galena, never discarded** — see [resources.md](resources.md).
+
+☠ ⚑ **Lead gives no warning of any kind.** *Never eat or drink at the hearth · sweep wet, never dry · ⚠ **a flue sweep is a LEAD job, not a chimney job** · hearth clothes stay at the hearth · wash before the kitchen every time.*
+
+### `KILN-D-STACK-2` — kiln D chimney, terminal and damper
+Map: kiln terrace · Original stack: d2516–d2529 · Upgraded: d3324
+
+**~4.15 m**, constant bore. Original weather hood was the choke: total side free area only ~0.7× bore, so wind suction sometimes masked weak still-air draw. Upgrade re-levelled the cap ring, added a modest tied course, and rebuilt the hood with symmetric free area **~1.6× bore**.
+
+`KILN-D-STACK-DAMPER-1`: fired-tile upper slide, stops at **full · working-mid · minimum-safe**. ☠ **No closed position.**
+
+★★★ **The plenum pushes and the stack pulls; the chamber must remain slightly negative.** Height supplies pressure margin. Damper + plenum bleed set the operating point.
+
+✓ Cold smoke and low draught fire PASS d3324. ⧗ **Full cone/fuel/door-seam proof at the next stoneware fire after mortar cure.**
+
 ### `KILN-D-PLENUM-1` — kiln D air plenum
 Map: belt tree · Built: d2530
 
@@ -101,6 +132,17 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 ★★ **Epic closed d3258** — 6 h under real duty driving `CU-CELL-1`, no fault.
 
 ⚠ **On the water threshold, not over it.** The rewind traded voltage for current at unchanged peak power, which is what a rewind always does. Next step is a finer armature rewind.
+
+> ✓ ★★★ **`GEN-WW-2` LIVE d3310 — SELF-EXCITED, SHUNT-WOUND.** *~4× the magneto output, steady, and none of the sag the steel rods gave after an hour.* ★★★ **The field stopped being something the machine CARRIES and became something it EARNS, for as long as the water runs.** ✓ **×6 `MAG-BOOT-EM` rods freed — no permanent magnet on the machine at all.**
+> ★★★ **Coils matched by DIFFERENTIAL WEIGHING, not by counting** — *same wire, same gauge, so equal weight is equal length is equal turns.* ✓ **Cross-tested against each other for a shorted turn** — ☠ **a short between neighbouring turns reads perfectly sound end to end, and will cook.**
+> ☠ ★★★ **IT SITS DEAD FOR ~8 SECONDS ON EVERY START.** *A self-exciting machine looks broken while it is building out of the residual, and nothing distinguishes that from broken except waiting.* ⚑ **`COUNT TWENTY BEFORE YOU DECIDE` — chiselled on the yoke beside the polarity mark.**
+> ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
+> ★★★ **NEW CEILING IS THE WHEEL, NOT THE FIELD.** *The race loads now in a way it never did; the magneto was so weak the water never knew it was working.* ★ **The limit was moved, not removed.**
+>
+> *(superseded — original spec)* ⧗ **`GEN-WW-2` — SHUNT-FIELD CONVERSION, opened d3295.** *Replace the ×6 `MAG-BOOT-EM` permanent rods with pole coils fed from the machine's own output.* ★★ **The field stops being a fixed asset that decays and becomes one the machine earns continuously; the ceiling moves from what steel holds to what the iron will take.**
+> **Spec:** ~600 m at ~0.5 mm, **many turns at low current**, air between layers, **not potted** — ⚠ *the wax-rosin coating softens hot and a shunt field is the one winding that never rests.* ★ **Fine wire is simultaneously the thermally safe, electrically correct and cheapest choice.**
+> ☠ **Polarity is chiselled into the yoke.** *Wired against the residual it does not merely fail to build — it erases the residual and makes the next attempt worse.* ★ **Flash from `DANIELL-CELL-1` if it will not start.**
+> ⧗ **Wire-rate limited: ~600 g to draw at ~50 g/day off `CU-CELL-1`+`CU-CELL-2`. Field up ~d3307.**
 
 Sub-assemblies: `GEN-WW-1-FRAME-1` (oak, sill-bolted, clear of splash, quick-release collar on WW-2 output) · `GEN-WW-1-BELT-TRAIN-1` (two ~4:1 stages = ~16:1, **crowned** pulleys, idler on stage 2, slack side up, ~12 rpm → ~190 rpm) · `GEN-WW-1-CORE-1` (laminations cut, **annealed after cutting**, deburred both faces, rosin-varnished) · `COMMUTATOR-2` (hardwood hub, 5 segments, plaster-jig seated, end-only ramps, adjustable brush gear, wire-bundle brushes).
 

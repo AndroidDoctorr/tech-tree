@@ -148,6 +148,32 @@ Local campus trails `T-1`–`T-5` are in [campus/index.md](../campus/index.md). 
 
 ★ **Ruts at terrace pinches, ford exits and bridge aprons are honest at `TQ` 3–4.** They mean the road is *used*, not that it is unfinished.
 
+### ☠ ★★★ `TQ` IS PROVISIONAL — IT WAS NEVER A MEASUREMENT *(d3307)*
+
+> ☠ ★★★ **`TQ` HAS ALWAYS BEEN MY OPINION OF MY OWN WORK, WRITTEN DOWN AS A NUMBER SO THAT IT WOULD LOOK LIKE A MEASUREMENT.** *I grade the road. I also built the road. I grade it immediately after building it, while pleased with myself.* ★★ **The d3279 datum rule applies exactly: a measurement inherits every fault of whatever it was compared against** — ☠ **and `TQ` was compared against nothing at all.**
+
+★★★ **`ROLL-TEST` replaces the judgement with an observable.** *A road's quality is how hard it is to pull a load along it — that is the entire content of the word.*
+
+| | |
+|---|---|
+| **Method** | **Release a loaded cart from rest off a fixed ramp; count paces to a stop on a marked strip** |
+| **Ramp** | ✓ **Short timber ramp carried on the cart. Same ramp, same height, always** — *so launch energy is identical and cancels* |
+| **Load** | ✓ **Measured stone ballast. The same stones** |
+| ☠ **Rule** | ⚠ **Same cart, same wheels, same greasing, same day where possible** — ★★ *the point is comparing legs to each other, not measuring an absolute* |
+| **Strips** | ✓ **40 paces, cairned both ends, marked on `L0`–`L4` at d3307** |
+
+☠ ★★ **Every `TQ` in this register is PROVISIONAL until the first full `ROLL-TEST` set.** ⚠ *The deficit ranking below is still believed, but it was drawn in units that were never checked.*
+
+### ☠ ★★★ THE FAILURES ARE AT THE JOINTS, AND NO ROW OWNS A JOINT *(d3306)*
+
+> ☠ ★★★ **EVERY LEG ON THIS ROAD READS `SHED` AND THE ROAD IS STILL FAILING, BECAUSE A LEG CAN ONLY EVER SHED ONTO ANOTHER LEG.** *Every soft spot found on `L3` was at a boundary — cut to fill, road to abutment, track junction, one season's work meeting the next.*
+>
+> ★★ **I split the road into legs because legs are how you walk it and how you schedule it.** ☠ **Water does not know where my legs end.**
+
+☠ ★★★ **Worked example — `L4` carried the BEST drainage and the WORST surface on the road, and they were two metres apart.** *The concrete ford shore sheds hard, fast, and onto earth, at exactly the spot where every cart is braking and turning.* ★★★ **The good drainage was CAUSING the bad surface** — ☠ **an exit designed without a destination.** ⚠ **Gravelling it first would have been gravel laid in front of a hose.**
+
+☑ **So joints are objects.** **The crossing registry gains a DOWNSTREAM row — what receives this, and is it made to receive it.** **Joints that are not crossings get IDs of their own.**
+
 ### ★★★ `TQ-STANDARD` — the required grade depends on how far out you are *(player doctrine)*
 
 > ★★ **A road is not held to one standard along its whole length.** *The near legs are crossed on every journey in every direction; the far legs are crossed a few times a year in one direction.* ★★★ **Grade improvement is worth `TQ gain × laps per year`, and that product falls off hard with distance.**
@@ -247,11 +273,22 @@ Every timber and every concrete face **probed sound** d3270. And then:
 
 | Leg | Segment | km | Crossing at end | Character | **`TQ` live** | `DRAIN-READ` | Last read | ⧗ **DUE** |
 |---|---|---|---|---|---|---|---|---|
-| `L0` | HOME → `KARASU-TRIB-01` | ~12 | ◐ ford | Rolling, gravelled | **~3.1** | ✓ **SHED** d3294 | d3294 · new | ✓ **~d4389.** ✓ **Crown run out to the ford pad and drained d3294** — *it had stopped 10 m short since d2537* |
-| `L1` | `KARASU-TRIB-01` → `TRIB-02` | ~4 | ✓ bridge | Rolling | **~3.1** | ✓ **SHED** d3292 | d3292 | **~d4387** |
-| `L2` | `TRIB-02` → `ASI-B` | ~2 | ✓ bridge | Flat | **~3.0** | ✓ **SHED** d3292 | d3292 | ✓ **~d5117** |
-| `L3` | `ASI-B` → `AFRIN-B` | ~8 | ✓ bridge | Flat | **~3.0** | ✓ **SHED** d3292 | d3292 | ✓ **~d5117** |
-| `L4` | `AFRIN-B` → `KTRUNK` | ~2 | ◐ ford + shore | Flat | **~2.85** | ★★ **SHED, best on the road** d3292 | d3292 | ✓ **~d5117** · ★ *the concrete shore throws water hard — worse grade, better drainage* |
+| `L0` | HOME → `KARASU-TRIB-01` | ~12 | ◐ ford | Rolling, gravelled | ✓ **`W90` 33 dry CERTIFIED d3323** · *22 before repair; 35 wet provisional* · `S` 62 d3308 | ✓ **SHED** d3294 | d3323 | ✓ **gap-graded scour fill rebuilt, gain holds dry** |
+| `L1` | `KARASU-TRIB-01` → `TRIB-02` | ~4 | ✓ bridge | Rolling | ✓ ★★★ **`W90` 56 paces d3319 — BEST worst-place** · `S` 56 pre-repair d3308 | ✓ **SHED** d3292 | d3319 | **~d4387** · ✓ **worst ~80 paces rebuilt d3316, heavy read PASS** |
+
+> ☠ ★★★ **A WAGON DOES NOT DRIVE THE AVERAGE — IT DRIVES THE WORST METRE** *(d3316)*. **A single number for a leg hides the stretch that stops the load.**
+>
+> ★★★ **BUT MOVING THE ORIGINAL STRIP WOULD DESTROY THE TIME SERIES** *(d3319)*. The register now carries two instruments:
+> - **`S` sentinel:** original fixed location, never moved; measures change through time
+> - **`W90` bottleneck:** current worst 40 paces, location recorded; 90 kg north-run load; both directions averaged; dry baseline d3319
+>
+> ☠ **The two series are not numerically interchangeable.** *A measurement inherits its location, load, vehicle and surface moisture.*
+>
+> ☠ ★★★ **A ROUTE IS A SERIES SYSTEM. Its load capacity is the lowest certified `W90` on it, not the mean.** ✓ **d3323: `L0` dry-certified at 33, so the HOME→`KTRUNK` core route now rates at `L2-W90 = 31 paces`.** ★ **READY for the stated 90 kg north-run load. `L2` is the next improvement target, not an urgent blocker.**
+
+| `L2` | `TRIB-02` → `ASI-B` | ~2 | ✓ bridge | Flat | **`W90` 31 paces d3319** · `S` 64 d3308 | ✓ **SHED** d3292 | d3319 | ✓ **~d5117** |
+| `L3` | `ASI-B` → `AFRIN-B` | ~8 | ✓ bridge | Flat | **`W90` 33 paces d3319** · `S` 61 d3308 | ✓ **SHED** d3292 | d3319 | ✓ **~d5117** |
+| `L4` | `AFRIN-B` → `KTRUNK` | ~2 | ◐ ford + shore | Flat | ★ **`W90` 46 paces d3319** · `S` 66 d3308 | ★★ **SHED, best on the road** d3292 | d3319 | ✓ **~d5117** · ★ *the concrete shore throws water hard* |
 | `L5` | `KTRUNK` → `KIRIKHAN-APPR-B` | ~18 | ✓ bridge | Terrace | **~3.1** | ✓ **SHED** d3292 | d3292 | **~d4024** |
 | ☠ `L6` | `KIRIKHAN-APPR` → **the split** | ~7 | — **pass** | ☠ **Pass, cross-drained** | **~2.375** | ⚠ **was CHANNEL · arrested d3293** | **d3293** | ✓ **~d3658.** ☠ **ARRESTED, NOT RECOVERED** — see below |
 | `L7` | Split → `BELEN-APPR-B` | ~12 | ✓ bridge | Terrace | **~3.4** | ☠ **never read wet** | d2609 · 1.9 yr | ⚠ **Due now** |

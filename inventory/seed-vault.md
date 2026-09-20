@@ -8,11 +8,26 @@ Two dates doing different jobs. `Harvest` is the year the seed was taken; `Teste
 
 Last full audit **d3175**.
 
+## Ark jar certification
+
+**Test opened d3298:** each empty jar holds ~120 g charged gypsum in an open dish; fifth dish is the open control. Whole jars compare differentially, so the large equal mass cancels.
+
+| Jar | d3320 read | State |
+|---|---|---|
+| `ARK-JAR-1` | No detectable change since d3313 | ✓ **Provisional flatline 1/2** · certify if unchanged d3327 |
+| `ARK-JAR-2` | Leak traced to radial cold joint in wax; ceramic ring good | ⧗ **Gasket rebuilt d3322 · read 1 d3329 · certify no earlier than d3336** |
+| `ARK-JAR-3` | Leak traced to interrupted ceramic contact ring | ⧗ **Lapped closed + gasket rebuilt d3322 · read 1 d3329 · certify no earlier than d3336** |
+| `ARK-JAR-4` | No detectable change since d3313 | ✓ **Provisional flatline 1/2** · certify if unchanged d3327 |
+
+> ★★★ **THE ARK OWNS CERTIFIED JARS, NOT A CERTIFIED DRAWING.** *Hand-made closures are individuals.* ☠ **A slow weekly leak is not small on a multi-year clock.**
+
+⚑ **No seed enters any jar before two successive flat intervals. Next read: d3327.**
+
 ## Grain
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `EMMER-ELITE-Y9` | Emmer elite · **+~95 g sown to `SEED-INCREASE-BLOCK-Y10` @ Bed C SW** | ~18 g | Vault | Y9 | d3211 |
+| `EMMER-ELITE-Y9` | Emmer elite · ✓ **~92%** · **+~95 g sown to `SEED-INCREASE-BLOCK-Y10` @ Bed C SW** | ~18 g | Vault | Y9 | **d3298** |
 | ⚠ `EMMER-ELITE-Y6` | Emmer elite · **~40%** — sowable at double rate, not bankable | ~17 g | Vault | Y6 | **d3285** |
 | ☠ `EMMER-ELITE-Y5` | Emmer elite · ☠ **~25% — NOT A RESERVE.** ⚑ Sow thick Nov Y10, harvest as seed, replace bank | ~19 g | Vault | Y5 | **d3285** |
 | ✓ `EMMER-SOW-Y9` | Emmer sow bank · reserve · ★ **~85%** | ~5 g | Vault | Y9 | **d3285** |
@@ -27,9 +42,15 @@ Last full audit **d3175**.
 
 | Species | Regen cycle | Evidence |
 |---|---|---|
-| **Emmer** | ⚠ **~3 yr, not 5** | The Y5 bank is where the cliff is |
+| **Emmer** | ⚠ **~3 yr, not 5** | The Y5 bank is where the cliff is · ✓ **−8 points in year one** *(d3298)* |
 | **Chickpea** | ~3 yr | ~60% at 2 yr |
-| ☠ **Lentil** | ★★ **~2 yr — the short-lived one** | ~35% at 2 yr, beside chickpea's 60% in the same air |
+| ☠ **Lentil** | ☠ ★★★ **~1 yr. Sow it, do not bank it** | ☠ **~72% at 1 yr, ~35% at 2** *(d3298)* — **−30 then −35** |
+
+> ☠ ★★★ **LENTIL HAS NO CLIFF. IT HAS A RAMP, AND IT BEGINS THE DAY THE JAR IS CLOSED.** *It was filed as "~2 yr, the short-lived one" on the strength of a single two-year reading, and the one-year reading shows the loss was already most of the way done.* ★★ **There was never a safe period — only an unmeasured one.**
+
+> ★★★ **AND THE VAULT IS NOT A PLACE, IT IS A RATE — THE RATE BELONGING TO THE SPECIES, NOT THE SHELF.** *Same shelf, same year, same air: emmer lost eight points and lentil lost thirty.* ☠ **So "in the vault" says nothing about a bank on its own.**
+
+> ★★★ **AN ARK IS NOT A TROPHY CASE.** *Ark space goes to whatever is falling fastest, not to whatever is finest* — ☠ **emmer at ninety-two points does not need a sealed jar in a cave; lentil does, and lentil is the bank that never looks alarming until it is.**
 
 ★★ **Rates are per SPECIES, not per vault.** ⧗ **Cycle and test dates live in [calendar.md](../checklists/calendar.md)** — per the plans rule, a thing with a date is a calendar row or it does not happen.
 
@@ -48,12 +69,12 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `P-17-ELITE-Y9` | Lentil elite | ~51 g | Vault | Y9 | d3122 |
+| ⚠ `P-17-ELITE-Y9` | Lentil elite · ☠ **~72% at ONE year — NOT a reserve.** ⚑ Sow at the Y11 spring sow | ~51 g | Vault | Y9 | **d3298** |
 | `P-18-ELITE-Y8` | Chickpea elite · hold · **~60%** — acceptable | ~51 g | Vault | Y8 | **d3285** |
 | ⚠ `P-17-ELITE-Y8` | Lentil elite · reserve · ⚠ **~35% at two years** — ☠ **lentil is the short-lived one, regen ~2 yr** | ~4 g | Vault | Y8 | **d3285** |
-| `P-FAVA-Y9` | Fava, dry · ★ **reserve only — bank spent to the sow** | ~25 g | Vault | Y9 | d3214 |
+| `P-FAVA-Y9` | Fava, dry · ★ **reserve only — bank spent to the sow** · ⧗ `FAVA-SEED-Y10` replacement strip standing | ~25 g | Vault | Y9 | d3214 |
 
-★ **Fava is now the limiter on bare ground.** The bank went in at `FAVA-EXTEND-Y10`, leaving 25 g. Area is no longer the constraint; seed is.
+★ **Fava is now the limiter on bare ground.** The bank went in at `FAVA-EXTEND-Y10`, leaving 25 g. Area is no longer the constraint; seed is. ✓ **Best ~1 m² left standing d3325; bank the dry seed before any of that strip becomes food.**
 
 ## Fibre
 

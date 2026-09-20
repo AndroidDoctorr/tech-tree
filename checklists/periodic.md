@@ -23,6 +23,7 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 |---|---|---|---|
 | `TAN-LADDER` | Step the tan liquor when the cut edge reads through. ☠ **And watch the LIQUOR, not only the edge** — it is alive and spoils on its own clock whether or not the hide is ready | ⚠ **Revised d3281: not "weeks, not the hide."** Seventeen warm days turned the liquor sour and scummed and cost grain on the face that sat proud | ☠ **REVERSE** |
 | `CU-CELL-CHARGE` | Recharge `CU-CELL-1` liquor with ore. The cell is liquor-limited | Sponge on the cathode, and a day's plating | ★ PAUSE |
+| `RETORT-DRY-READ` *(live to ~d3330)* | **Read `RETORT-E`–`H`; unwrap gradually; keep neck and bulb drying together.** ✓ **First action d3320** | ☠ **A thin neck dries before the bulb, pulling the joint open before the kiln ever sees it** | ☠ **REVERSE** |
 
 ## Every ~4 days
 
@@ -35,6 +36,7 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 | ID | Check | A miss costs | Neglect |
 |---|---|---|---|
 | `SNAIL-GATHER` | A-02 creek rocks. Bulk calories, brine keeps 2–4 months | Cheap calories in a year that needs them | ★ PAUSE |
+| `CHEESE-TURN-MATURE` *(corrected d3320)* | **Turn every wheel with an established rind twice weekly.** ☠ **A fresh tacky wheel is not on this interval — it turns DAILY under `CHEESE-RIND-DRY`** | ☠ **An unturned wheel settles its moisture downward and ages WET at the bottom and DRY at the top** — *and by the time that shows it is months old and past fixing* | ☠ **REVERSE** |
 
 ## Weekly
 
@@ -53,6 +55,8 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 |---|---|---|---|
 | `STOCK-HOOF` | Donkey hoof pick and body read at `HOLDING-1`; goat hoof and body at `P-GOAT-1` | Lameness, which ends hauling for the season | ☠ **REVERSE** |
 | `HOLDING-SCRAPE` | Scrape the holding pad | Foot problems and fly load | ★ PAUSE |
+| ☠ ★★★ `SMOKE-SPOT` | **A clean cool tile held in the gas of every enclosed fire for a slow count — hub, domus, forge.** ★★ **Date it and rack it beside last month's; the reading is the COMPARISON, not the tile.** *Barely marked on a good fire, black in seconds on a starved one* | ☠ ★★★ **The only warning I get.** *A starved fire makes soot and the colourless gas together, in proportion — and I have no headache, no nausea and no bad night to tell me* | ☠ **REVERSE** |
+| ☠ `READ-BEFORE-SWEEP` | **No flue is swept until it is read: depth, texture, colour, and WHERE along the run.** ⚑ **Sweep date chalked on the flue, because the reading that matters is the RATE of return** | ☠ ★★★ **Sweeping without reading throws away the measurement and resets the experiment.** *Nine years of it* | ☠ **REVERSE** |
 
 ## Every ~3 weeks
 
@@ -60,6 +64,15 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 |---|---|---|---|
 | `NITRE-TURN` | Fork `NITRE-BED-1` end over end at the `FARM-CARE` pass, then re-wet to the damp mark. Damp, never wet, and never trodden. A weakening ammonia smell is the good sign; no bloom in cold weather is expected, not a failure | The year. The bed is a slow biological process and a neglected one does not catch up | ☠ **REVERSE** |
 | `BASALT-DATUM` | The three lapping blocks read against each other. Three-point support, and **turn each block** at every check — stone relaxes toward whatever it is lying on, and gravity always sags the same way. Seasoning is done when two successive checks agree, whether that is August or next spring | Lapping a stone that is still moving. It will be flat this week and wrong silently after, and everything built off it inherits the error | ☠ **REVERSE** |
+
+## Quarterly
+
+| ID | Check | A miss costs | Neglect |
+|---|---|---|---|
+| ☠ ★★★ `CORD-LIFE-READ` | **Every cordage bearing weight or a body — crane fall, cave fixed line, well rope, harness.** *Down, bent, flexed, opened at the lay; ends and bearing points first* | ☠ ★★★ **A fall, which is the ONE hazard I am not immune to** — *and both ropes found on the first walk were older than the rule that governs them* | ☠ **REVERSE** |
+| ⚑ ★★★ `WORLD-FIRST-WALK` | **Walk a quarter of the property and name everything the eye lands on. For each: what list is this on · what is its clock · when was it last read.** ☠ **Anything with no answer is a finding, and the finding is the missing row** | ☠ ★★★ **A list can only catch what is already on it.** *Every failure of the d3295–d3303 fortnight was an item with no row anywhere* | ★ PAUSE |
+| `DECAY-ROSTER-READ` | **Walk `DECAY-ROSTER-1` and refresh last-read dates** — *oil, tallow, varnish, glue, lime, charcoal, cordage, hide, wax, cell liquors* | ☠ **A stock is a quantity TIMES A RATE, and an unread stock has no number** | ★ PAUSE |
+| ☠ ★★★ `RULE-AUDIT` *(added d3313)* | **Walk every filed rule against what was actually DONE.** ⚑ **Each survivor must carry a FIRST ACTION and a DATE, or it is struck** | ☠ ★★★ **Every rule filed in the glow of a discovery is dead; every rule filed while annoyed is alive.** *Understanding is the hard part and the part I enjoy, so a rule written at that moment FEELS finished.* ★★★ **A rule that does not land on a calendar band or a checklist is not filed — it is REMEMBERED** | ☠ **REVERSE** |
 
 ## Seasonal
 

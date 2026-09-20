@@ -42,6 +42,8 @@ Fire on a reading. Where one of these exists, it replaces any interval check for
 | ID | Reading | Do |
 |---|---|---|
 | `CHEESE-SET` | Milk crock ≥ ~2 L | Cheese — and ricotta the **same day**. Whey is a stream, not a stock; old whey is too acidic to throw ricotta. [food-menu.md](../government/procedures/food-menu.md) |
+| `CHEESE-RIND-DRY` | **Fresh wheel surface is tacky / rind not yet firm** | **Turn DAILY on a clean slatted or reed mat in the cool dry stage.** When the surface is dry and firm, move to the ageing cave and switch to twice-weekly turns. **Do not wax before the rind is stable** |
+| `FAVA-SEED-HARVEST` | **Designated fava pods are black, dry and rattle in the shell** | **Cut before rain or shatter; finish under cover; thresh separately; bank seed before food.** `FAVA-SEED-Y10` is the replacement for the ~25 g reserve behind the crop |
 | `RETT-PULL` | A bundle snaps clean | Pull inline on that pass, not as a deferred hero. Overdue in the pool is the failure that cannot be undone |
 | `JERKY-DIAGNOSE` | Weight stops falling before target | Sealed, not done. Lower the heat and raise the airflow — hurry seals the surface and strands the middle |
 | `TAN-BACKOFF` | Cut edge shows a hard line | Struck too fast. Back off the liquor |

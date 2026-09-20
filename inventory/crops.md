@@ -13,7 +13,7 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
 | `HEMP-SEL-Y10` | Hemp · ★ **the Ghab line, gen 4 since Y7** | Bed A north seed strip, ~16 m² | d3218 | Standing · ⚠ **no seed reserve behind it** |
-| `FAVA-Y10` | Fava | Bed A west, ~4 m² | d3214 | Standing · extended at `FAVA-EXTEND-Y10` |
+| `FAVA-Y10` | Fava | Bed A west, ~4 m² | d3214 | ✓ **Food rows cleared d3325** · `FAVA-SEED-Y10` best ~1 m² standing to black, dry, rattling pod stage |
 | `BARLEY-TRIAL-Y10` | Barley, trial | Bed A south, ~3 m² | Y10 | Standing |
 | — | Chickpea ground | Bed A | — | Fallow · hands off |
 

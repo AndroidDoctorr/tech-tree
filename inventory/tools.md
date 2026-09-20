@@ -107,6 +107,17 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `GLASS-PLIERS-1` | Glass pliers, smooth wide jaws ~18 cm | Chem fire-table peg | Live |
 | `HELICAL-MANDREL-1` | Helical mandrel, ~1.6 mm pitch · ~18 cm groove | Chem bench staging | Live · tube fit PASS |
 
+## Acid ceramic apparatus
+
+| ID | Tool | Where | State |
+|---|---|---|---|
+| `RETORT-A` | Thin stoneware acid retort · ~¼ grog | Chem fire-table | **Batch 1 d3317 · visibly etched, serviceable** · count scratched on foot |
+| `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Clean reference shelf | **Fresh reference** · next acid run measures grog effect |
+| `RETORT-C` · `D` | Thick-wall design trials | Reject stack | ×0 · cracked in stoneware fire d3311 |
+| `RECEIVER-1` | Thin stoneware receiver · loose-neck sand-seal seat | Chem fire-table | Live · rings clean |
+| `RETORT-E` · `F` | Production retorts · ~7 mm · ~¼ grog | Cool-store drying crate | ✓ **Even d3323, joints closed** · crate open under shade cloth · next read d3326, target ~d3330 |
+| `RETORT-G` · `H` | Production retorts · ~7 mm · ~⅓ grog | Cool-store drying crate | ✓ **Even d3323, fractionally ahead but stable** · next read d3326, target ~d3330 |
+
 ## Bottles
 
 ☠ Acid bottles are **never** repurposed for anything else, filled or empty.
@@ -125,6 +136,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `THERMOMETER-1` | Portable, 0–100 °C · ☠ **not food-safe** | Chem-lab peg between moves | Live |
 | `THERMOMETER-2-KILN` | ~100–350 °C · boil + Sn marks · ☠ **not food-safe** | Forge tray default | Live |
 | `PORC-PROBE-SET-1` | Firing probes ×6 | Bench tray | ×4 porcelain-class · ×1 stoneware+ · ×1 marginal |
+| `CAVE-HUMIDITY-DOSE-1` | Matched calcined-gypsum dishes · cave exposure vs workshop control | `CAVE-3` + balance bench | ★ **Integrates humidity over a fixed interval; not instantaneous RH** · seven-day comparisons from d3320 |
 | `PENDULUM-CLOCK-1` | Pendulum clock, ~2.05 s beat · hour marks coarse | `H-V3` east | Live · minute hand deferred |
 | `RUNOUT-GAUGE-1` | Wobble gauge — pivoted pointer, short arm on the work, long arm over a scale | Craft wing | Live |
 

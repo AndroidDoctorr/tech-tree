@@ -60,6 +60,20 @@ python sim/roll.py batch --day 3094 --volatility normal WEATHER-RAIN:45000000 CA
 
 Player **illness** hazards are **blocked** — do not roll them. Animal illness and age bands **do** roll.
 
+### ☠ ★★★ IMMUNITY IS A BLIND SPOT, NOT ONLY A SHIELD *(d3302)*
+
+> ☠ ★★★ **EVERY HAZARD THE PLAYER IS IMMUNE TO IS A HAZARD HE CANNOT FEEL — and therefore one he will build into every structure he puts up, forever, without noticing.** *The warning was never a separate system from the injury: a mortal's headache, nausea and bad night ARE the detector, and he does not get them.*
+
+★★ **This is the one class of problem where he is strictly WORSE off than an ordinary person**, *and it is invisible to him by construction.*
+
+| Reading | |
+|---|---|
+| ☠ **Slow, cumulative, symptom-signalled hazards** | ★★★ **He will not notice.** *Carbon monoxide, lead, chronic fume, bad water, mould* — **no roll fires, and no narrative cue arrives, so the campus quietly accumulates them** |
+| ✓ **The correct move** | ★★★ **He must BUILD AN INSTRUMENT for anything he is immune to.** *Soot as the CO meter · the smoke-spot tile · mass balance on fume · weighed desiccant* — **an external, comparable reading standing in for a sense he does not have** |
+| ⚠ **For the agent** | ★ **Do not roll the player's harm.** ★★★ **Do roll, and do narrate, the EVIDENCE** — *a sooting throat, a grey tile, a shortfall in a mass balance.* **The hazard is real and only the injury is blocked** |
+
+☠ **"Lead gives no warning of any kind" *(d3297)* was filed as a fact about lead.** ★★★ **It is a fact about him.**
+
 ---
 
 ## Live state *(patch when counters move)*
@@ -71,7 +85,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **17** | **ICE-HAUL-Y10-PEAK-3193 +1** |
+| **Norima wear** | **20** | **`L0-W90` dry confirmation d3323 +1** |
 | **mishap_pool** | **0** | **Reset d3118** · player doctrine: no tick on routine campus work |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 

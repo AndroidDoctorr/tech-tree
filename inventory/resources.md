@@ -21,14 +21,14 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CLAY-P1` | Clay, raw · green | ~35.4 kg | Pile 1 | | d3194 |
+| `CLAY-P1` | Clay, raw · green | ~13.2 kg | Pile 1 | | d3324 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | ~54.1 kg | `STORE-4` | | d2880 |
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
 | `GRAVEL-1` | Gravel aggregate | ~20.4 kg | Pile 4 south band | | d3188 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~24.5 kg | Pile 4 apron | | d3173 |
-| `SAND-RIVER-GROG` | River sand / grog | ~25.5 kg | Fabrica SW margin | | d3189 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~22.7 kg | Pile 4 apron | | d3324 |
+| `SAND-RIVER-GROG` | River sand / grog | ~19.3 kg | Fabrica SW margin | | d3318 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | ☠ **×0** — spent on the seventh block d3280 | Pile 4 north band | | d3280 |
 | `POZZ-SLAB-TRIAL-1` | Pozzolan slab · reference | ~4.8 kg | Apron | | d1868 |
 | `LIMESTONE-CHIP-TRAIL` | Limestone chip, trail assay | ~320 g | Pile 7 lip | | d2940 |
@@ -40,7 +40,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CACO3-P7` | Limestone, raw · plus underburnt returns | ~4.3 kg | Pile 7, camp north face | | d3190 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~11.7 kg | Lime trough | d3190 | d3206 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~11.3 kg | Lime trough | d3190 | d3324 |
 | `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
@@ -63,7 +63,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `BRICK-GREEN-P3` | Green brick | ×0 | Pile 3 | | d3110 |
-| `BRICK-FIRED-B` | Fired brick, stackable · amber | ~219 | Kiln B | | d3189 |
+| `BRICK-FIRED-B` | Fired brick, stackable · amber | ~205 | Kiln B | | d3324 |
 | `TILE-TR` | TR tile, fired | ×76 *(+×19 laid Fabrica SW roof · ×3 to grog)* | Rack south | | d3049 |
 | `TILE-FT` | FT tile | ×0 *(×108 laid, hub floor)* | Rack | | d2224 |
 | `CLAY-RANK-REF` | Refractory rank tiles · fired reference set | ×6 | Bench | | d2447 |
@@ -178,8 +178,16 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `WEATHER-STRIP-LEATHER-1` | Weather strip, ~25 mm | ~4.6 m | — | | d3167 |
 | `MACHINE-BELT-LEATHER-KIT-1` | Machine belt stock — WW · drill · trip tail | — | `BELT` peg | | d3052 |
 | `TRAIL-GEAR-LEATHER-1` | Belt v2 blank · waterskin patch · lash tabs ×4 | — | Vestiarium trail peg | | d2964 |
-| `DEER-BONES` | Deer bone | ~2.6 kg | Horreum tool peg | | d3084 |
-| `GOAT-BONES` | Goat bone | ~2.11 kg | Horreum tool peg | | d3015 |
+| `DEER-BONES` | Deer bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
+| `GOAT-BONES` | Goat bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
+| ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~40 cupels · ~2 passes through `GALENA-1`** | ~6.1 kg | Chem porch | d3309 | d3311 |
+
+> ☠ ★★★ **THE MIDDEN DOES NOT GIVE IT BACK** *(d3309)*. *Nine years of it forked over for ~2.8 kg of usable fragment — weathered soft, gnawed, trodden into the ash, the small bones gone entirely.* ★★★ **It is not lost the way a mislaid tool is lost. It is GONE.** ★★ *The other half of d3303: the clocks ran while I was not reading them, and they do not run backwards.*
+
+> ★★★ **`OXIDISING-COOL` — CALCINE ON THE COOLDOWN, NEVER ON THE CLIMB** *(d3309)*. ☠ **A stoked kiln is REDUCING, and carbon in a cupel reduces litharge straight back to lead** — *the exact reaction the hearth exists to run the other way.* ★★★ **Stop stoking, damper wide, trays shallow and high in the chamber: a kiln at ~800 °C full of moving air is a free oxidising furnace** — ☠ **and I threw those hours away after every firing for nine years.** ✓ *The soak burns midden charcoal out as a side effect.* ★ **Bone ash must be WHITE — grey means carbon, and carbon means no silver.**
+
+> ☠ ★★★ **`BONE-BANK-1` opened d3297 — bone is the rate limit on SILVER, not the hearth.** *A cupel is a reagent consumed every run; ~4.7 kg of bone is ~3 kg of ash is ~20 cupels is ONE pass through `GALENA-1`.* ⚑ **Retain every bone from every butchery and every kitchen pot, dried, on the Horreum peg** — ☠ *nine years of it went on the midden.*
+> ✓ ★★ **Used cupels are BANKED ORE, not waste** — *lead-soaked, richer than anything dug.* **They go in the kerbed galena bay at `ORE-BAY-1`.**
 | `GOAT-HORN-BILLIE` | Goat horn, remnant | ~65 g | `WORKBENCH` peg | | d3015 |
 | `SINEW-DRY` | Sinew, dry | ~32 g | Bench | | d3090 |
 
@@ -236,6 +244,10 @@ The Samandağ face turned a one-off haul into a bank. Grades are not interchange
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| ✓ ★★★ `ACID-VITRIOL-1` | **OIL OF VITRIOL, strong** · ★★ **~1.8× the weight of water** · ⚠ **chars on contact** | small bottle | `ACID-BOTTLE-1`, grooved glass stopper · chem porch | d3317 | d3317 |
+| `COLCOTHAR-1` | Raw red ferric-oxide residue · ✓ **washed and levigated d3318** | ×0 → `ROUGE-FINE-1` + `IRON-OXIDE-PIGMENT-1` | — | d3317 | d3318 |
+| ✓ ★★★ `ROUGE-FINE-1` | **Washed, levigated hematite finishing polish** · ★★ **clears final glass haze; does not remove deeper scratches** | small crock | Lap bench | d3318 | d3318 |
+| ✓ `IRON-OXIDE-PIGMENT-1` | Clean red hematite, coarser early-settling fraction · **pigment, not trusted on finished glass** | small crock | Pigment shelf | d3318 | d3318 |
 | `GYPSUM-CLEAN-POWDER-1` | Gypsum, clean powder · **raw stone — burn small batches on demand** | ~24 kg | Chem porch dry store | | d3225 |
 | `GYPSUM-FIELD-GRADE-1` | Gypsum, field grade · gritty · strip-trial stock | ~15.4 kg | Pile 7 | | d3225 |
 | `GYP-STOCK-1` | Gypsum, raw · `SC-GYP-SAMANDAG-1` face open | ~14.2 kg | Chem porch peg | | d2823 |
@@ -244,6 +256,9 @@ The Samandağ face turned a one-off haul into a bank. Grades are not interchange
 | `SELENITE-1` | Selenite, clear sheets, wrapped · ⚠ **fragile** · pane and lantern glazing | ×13 | — | | d3225 |
 | `PLASTER-TEST-1` | Plaster proof slab | ~120 g | — | d3223 | d3223 |
 | `PLASTER-WALL-SWATCH-1` | Wall swatch · set hard, burnished | ~0.24 m² | Craft wing | d3225 | d3225 |
+
+
+★★★ **The cooldown is not a temperature — it is a DESCENT THROUGH ALL OF THEM** *(d3311)*. Bone calcines early at ~800 with the damper wide; gypsum burns late at ~150–200 on the same descent. ✓ **Anything below the kiln's peak can be made on the way down if it is charged at the right hour, for no fuel at all.**
 
 ★★ **Calcined plaster is the only row in this file with a short fuse.** It stales in damp air, so it is burnt in small batches on demand from `GYPSUM-CLEAN-POWDER-1` rather than stockpiled. Twenty-four kilos of raw powder is a bank; 1.85 kg of calcined is a deadline.
 
@@ -297,7 +312,7 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `WAX-Y10-RENDER-1` | Beeswax, clean cake — ~850 g `SKEP-1` + ~190 g `SKEP-2` | ~1.04 kg | Wax store | | d3274 |
+| `WAX-Y10-RENDER-1` | Beeswax, clean cake — ~850 g `SKEP-1` + ~190 g `SKEP-2` | ~1.03 kg | Wax store | | d3322 |
 | `COMB-TO-RENDER` | Comb awaiting render · the two torn on the cut-out, plus `SKEP-2`'s | ~90 g | Wax queue | | d3265 |
 
 Y10's binding constraint, closed. Yield per kg of comb is low because old brood comb is mostly cocoon and propolis — honey comb off top bars is the rich fraction. See [bees.md](../government/procedures/bees.md).

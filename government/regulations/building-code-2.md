@@ -263,6 +263,42 @@ Carrying forward from BC-1 and extended.
 | ★ **Vent** | ⚠ **Every trap needs a vent upstream or a discharge siphons it dry and the seal is gone.** *This is the entire reason a vent stack exists, and it is the part everyone omits* |
 | **Rodding** | An access eye at every bend. Something will block |
 
+### ☠ ★★★ Combustion air — a sized, dedicated, low inlet *(d3301)*
+
+> ☠ ★★★ **EVERY TIME A BUILDING HERE WAS MADE TIGHTER, ITS FIRE WAS MADE WORSE — for nine years, and nobody was wrong on the day.** *The crude open kiln draws beautifully. The properly walled forge, with its fitted door and its glazed light, rolled smoke back at the hood on a still afternoon.* ★★★ **The draught was never designed. It was a by-product of how badly the walls fitted, and every good joinery decision since has been a withdrawal from an account that nothing in the build was tracking.**
+
+**A stack is a pump with one port specified.** ★★ *Air leaving is the half that gets drawn; air arriving is the half that gets assumed* — ☠ **and when two stacks assume the same accidental gap, they compete, and the loser reverses.**
+
+| Rule | Standard |
+|---|---|
+| ☠ **Required** | **Every enclosed space containing a fire gets a dedicated combustion-air inlet, named in the build.** *Not delegated to the joinery, the door gap or the weather* |
+| **Size** | **Free area ≥ ~1.5 × the flue throat.** *Larger than the outlet, because the inlet path is slow and lossy* |
+| **Position** | ★ **Low, and ducted so it does not blow on the work** — *cold air on a fire is good and cold air on a smith is not* |
+| ☠ ★★★ **Two kinds, and the difference only matters where people live** *(d3304)* | ★★ **WORKSHOP — a room inlet is acceptable.** *It ventilates the space and the fire takes what it needs.* ★★★ **OCCUPIED SPACE — DIRECT TO THE FIREBOX.** *Ducted through the wall and discharged into the hearth's own air path, never into the room* — ☠ **a low room inlet in a bedroom is a cold floor draught every winter, and an inlet that will be stuffed with a rag in January is not an inlet, it is a hole with an intention** |
+| ⚠ **Grille** | **Fired-clay grille outside, coarse aperture, laid to fall so water runs out.** ☠ *An opening is a rodent door until it is grilled.* **Throttle on the duct, inside — never on the grille** |
+| **Winter** | A damper flap — ⚠ **throttled, never closed** |
+| ☠ **Commissioning** | ★★★ **Read the draught under FULL CAMPUS LOAD, with every other fire lit.** *A hood that draws alone and spills when the forge is running has not been tested — the forge is not interference with the reading, it is the condition* |
+| ⚠ **Retrofit trigger** | **Any work that tightens an envelope re-opens the draught question for every fire inside it.** *Glazing, a fitted door, plaster, a new roof covering* |
+
+#### ★★★ Stack terminals, dampers and forced blast *(d3324)*
+
+> ★★★ **A CHIMNEY IS A BUOYANCY PUMP. IT DOES NOT REQUIRE AMBIENT WIND.** ☠ **If wind is required for draw, the terminal is using weather as a component it does not own.**
+
+- **Terminal free area ≥ 1.5 × flue bore area.** Count the actual side slots under a cap, not the visible mouth below it. ☠ *A flue can look open and be hydraulically closed*
+- **Terminal openings symmetric on all sides.** A cowl that works only with one wind direction is not commissioned
+- **Keep one bore through the extension.** A neck raises friction; a broad pocket cools the gas and weakens buoyancy
+- **Height is pressure margin, not automatic performance.** More height also adds weight, earthquake leverage and heat-losing surface
+- ☠ **Re-level and plumb before extending.** *Height magnifies angular error below it*
+- **Forced-blast kiln:** the inlet blower and stack are two pumps with the chamber between them. Tune for **slightly negative chamber pressure** at the door seam
+- **Damper:** full · working · minimum-safe stops. ☠ **No fully closed position on a live-fire flue**
+- **Commission twice:** still-air draw first, then changing wind. Full hot proof records cone climb · door-seam direction · blower setting · damper stop · fuel together
+
+#### ☠ Doors in a fume flue
+
+> ★★★ **THE SAFE DOOR IS THE ONE THAT IS NOT A DOOR WHILE THE HEARTH IS LIT.** *Under draught a flue runs under suction and a leaking door draws air in, harmlessly* — ☠ **but that is only true while a fire is burning somewhere else, and fires go out.**
+
+★★ **Rodding access on any flue carrying fume is bricked and limed shut in normal running and broken open at each sweep.** ☠ **Not hinged.** ★★★ *Ten minutes of mortar removes the failure mode instead of managing it* — **prefer the version where forgetting is impossible over the version where forgetting is forbidden.**
+
 ### Ductwork and air
 
 **Achievable now, not merely conceivable:** a **wetted mat with a belt-driven fan behind it** is evaporative cooling, and in a dry Syrian summer that is a real and substantial drop. `LAB-VENT-FAN-1` and the evaporation trough at `COOL-CELLAR-1` are most of the parts already.

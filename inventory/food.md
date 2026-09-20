@@ -23,11 +23,13 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| `FAVA-GREEN-Y10-FINAL` | Fava, tender shelled · **eat / short brine** | ~0.50 kg | Cool shelf | d3325 | d3325 |
+| `FAVA-DRYING-Y10-FOOD` | Fava, mature food beans · drying, not seed | ~0.25 kg wet-sort | Drying rack | d3325 | d3325 |
 | `P-17-LENTIL-Y6` | Lentil | ~91 g | Horreum A pulse bay `P-17-Y6` | Y6 | d2892 |
 | `P-17-LENTIL-Y5` | Lentil | ~178 g | Pulse bay | Y5 | — |
 | `P-18-CHICKPEA-Y5` | Chickpea | ~164 g | Pulse bay, post-expand | Y5 | — |
 
-All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty. The bays persist as locations; the rows do not.
+All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty. The bays persist as locations; the rows do not. `FAVA-SEED-Y10` remains standing in [crops.md](crops.md) and is not food stock until dry threshing separates the seed bank first.
 
 ## Nuts
 
@@ -66,6 +68,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · ⧗ **edges dry, broad faces less tacky; rind not yet coherent** | ×1 wheel | **Cool dairy shelf, clean reed mat** | d3315 | d3325 |
 | `CHEESE-Y10-10` | Cheese | ~320 g | Dairy shelf | d3260 | d3260 |
 | `CHEESE-Y10-9` | Cheese | ~250 g | Dairy shelf | d3260 | d3260 |
 | `RICOTTA-Y10-4` | Ricotta, off fresh whey | ~190 g | Dairy shelf | d3260 | d3260 |
@@ -80,6 +83,8 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 Ricotta off **fresh** whey runs half again the yield of ricotta off stale — the `RICOTTA-Y10-2` row is the control. The year's open cheese question is thistle heads in June, not the procedure, which runs without thought now.
 
 ★★ **Whey keeps souring after it leaves the curd, so run ricotta the same day as the cheese.** Acid whey gives a poor ricotta yield and sweet rennet whey gives far more, and the difference is measured in hours, not days. Old whey is not waste — it goes to the retarder jar, the goats, or the soil.
+
+⚑ **`CHEESE-AGED-Y10-1`: turn DAILY until the rind is dry and firm, then return to `CAVE-3` and turn twice weekly. Wax only after the rind is established.** *The cave shelf tested too wet for the initial dry stage; its temperature remains excellent for later ageing.*
 
 ★ **Whey is a plaster retarder.** Gauging with whey roughly doubles working time, to about 25 minutes. That is the difference between a wall you can finish and one that goes off in the bucket.
 

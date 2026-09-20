@@ -22,7 +22,7 @@ Every sow and every harvest here is mandatory. The only valid skip is an explici
 - **11 Mar** — Exped / cart trips open
 - **16 Mar** — Spring sow closes · `SPRING-SOW` *(emmer · lentil · field flax · chickpea · hemp · fava · culina herbs)*
 - ⚑ **Y11 spring sow** — `EMMER-Y5-RESCUE` *(sow the ~25% Y5 elite bank thick as its own block, harvest as seed, replace the bank. **25% is not dead, it is the last call** — the curve is a cliff at this age)*
-- **Mar** — Mark the wild grain stands while they are green · `GRAIN-GATHER-WILD` *(P-04 · P-05-A/B · P-06-A/B/C — in June they are indistinguishable from everything around them)*
+- **Mar** — Mark the wild grain stands while they are green · `GRAIN-GATHER-WILD` *(P-04 · P-05-A/B · P-06-A/B/C — in June they are indistinguishable from everything around them).* ★★ **Marking exists to TIME THE FOOD GATHER** — *the `T-2` parent ghost already finds the stands* **(d3312)**
 - **Sow day + 3 weeks** — Bird establishment window · `BIRD-WATCH` · `BIRD-DEVICE-RESET`
 - **Mar – Apr** — Shoot thin · `GRAPE-SHOOT-THIN` *(the budbreak job)*
 - **21 Mar** — Apiary expand / swarm / wax harvest opens · `HIVE-SPLIT` · `WAX-RENDER`
@@ -33,13 +33,15 @@ Every sow and every harvest here is mandatory. The only valid skip is an explici
 - **20 Apr** — Apiary / swarm / wax harvest closes
 
 ## May
-- **15 May – 30 Jun** — Fava pod pick · `FAVA-PICK` *(Bed A headland · green or dry seed · before heat off)*
+- **15 May – 30 Jun** — ✓ **Fava FOOD pod pick CLOSED d3325** · `FAVA-PICK` *(Bed A west)* · ⚑ **`FAVA-SEED-Y10` remains standing — harvest on black, dry, rattling pods under the state trigger, not this food band**
 
 ## June
 - **21 Jun** — Summer solstice
-- **Jun** — Herb seed cut · `HERB-SEED-CUT` *(coriander · allium · thyme · parsley)*
-- **Jun** — Wild grain gather · `GRAIN-GATHER-WILD` *(P-05 einkorn · P-06 wild barley)*
-- **Jun – Aug** — Thistle / cardoon flower gather · `THISTLE-GATHER` *(this is rennet — gates aged cheese)*
+- **Jun** — Herb seed cut · `HERB-SEED-CUT` *(coriander · allium · thyme · parsley)* · ⚠ ★★ **CORIANDER FIRST — it drops the day it dries.** *Cut a shade under-ripe onto a sheet and let it finish off the plant* · ⚠ **parsley is BIENNIAL — second-year plants only** **(d3312)**
+- ★★★ **Jun — Wild grain: TWO GATHERS, NOT ONE** · `GRAIN-GATHER-WILD` *(P-04 emmer · P-05 einkorn · P-06 wild barley)* **(split d3312)**
+  - ✓ **FOOD gather — EARLY, at first dry.** *Volume, any head. Selects for nothing, and that is fine*
+  - ✓ ★★★ **SEED gather — DELIBERATELY LATE.** **Only heads STILL HOLDING, stripped by hand** — ★★★ *every head still full in late June is full because it CANNOT LET GO, so the late stand is pre-sorted for TOUGH RACHIS* — ☠ **the one trait that separates a wild grass from a crop, handed over free**
+- **Jun – Aug** — Thistle / cardoon flower gather · `THISTLE-GATHER` *(this is rennet — gates aged cheese)* · ✓ **plot sited d3312, rough ground east, off all beds** · ⚠ **CUT EVERY HEAD AT FULL FLOWER** — ★★ *the harvest stage IS the containment: a head cut in flower never makes seed* **(d3237 rule)**
 - **Jun – Jul** — Grape cluster thin · `GRAPE-CLUSTER-THIN` *(at fruit set, not at budbreak)*
 - **26 Jun** — Wild flax pull opens · `FLAX-PULL-WILD` *(ditch W · T-1 lip · FLAX-PATCH-1 — not the Bed B field drill)*
 - **26 Jun – 26 Jul** — Wild / patch flax pull window *(second fibre lap · combines with woad walks)*

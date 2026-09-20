@@ -2,7 +2,448 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3294** · Cal-Y10 D149 · ~20 May · **HOME · `L6` lap closed** · ☠ ★★★ **MAINTENANCE ARRESTS, IT DOES NOT RECOVER — AND A CHEAP JOB WELDED TO AN EXPENSIVE ONE NEVER HAPPENS**
+**Day 3325** · Cal-Y10 D180 · ~20 Jun · **Bed A fava close** · ✓ ★★★ **FOOD-PICK CLOSED · SEED STRIP STANDING**
+
+> ## ✓ ★★★ FAVA FOOD-PICK CLOSED *(d3325)*
+> ☠ **Only ~25 g of `P-FAVA-Y9` remains behind this crop. Picking every last pod would close the food harvest by spending next year's sowing stock.**
+> ✓ **Best ~1 m² left standing as `FAVA-SEED-Y10`: upright · heavy low pods · no stain or insect entry.** All other pods cleared: **~2.2 kg late pick** → ~0.5 kg tender shelled + ~0.25 kg mature beans drying.
+> ★★ **THE FOOD-PICK CAN BE CLOSED WHILE THE SEED CROP REMAINS OPEN.** *Different products, different finish conditions; the strip is not an unfinished chore.*
+> ✓ **Food plants cut at soil; roots and nodules left in Bed A.**
+> ⚑ **`FAVA-SEED-HARVEST` is a state trigger:** black, dry, rattling pods → cut before rain or shatter · finish under cover · thresh separately · bank seed before food.
+
+> ## ☠ ★★★ THE WIND WAS NOT HELPING THE CHIMNEY — IT WAS HIDING A CHOKE *(d3324)*
+> ☠ **Old hood side area totaled only ~0.7× the flue bore. The mouth was visibly open and hydraulically closed.** Hood lifted: cold smoke changed from a lazy drift to a clean upward pull.
+> ★★★ **A CHIMNEY IS A BUOYANCY PUMP. IT DOES NOT REQUIRE WIND.** ☠ **The d3314 north wind supplied suction across a restricted terminal; it masked the defect.**
+> ★★★ **IF WIND IS REQUIRED FOR DRAW, THE TERMINAL IS USING WEATHER AS A PART IT DOES NOT OWN.**
+
+> ## ✓ ★★★ `KILN-D-STACK-2` LIVE *(d3324)*
+> ☠ **Old stack remained plumb, but its cap ring had settled low on one quarter. Re-levelled before extension — height magnifies angular error.**
+> ✓ **~3.8 → ~4.15 m · same bore · symmetric four-sided hood with free area ~1.6× bore.** *Most of the gain came from removing the terminal choke, so the masonry extension stayed modest.*
+> ✓ **`KILN-D-STACK-DAMPER-1`: full · working-mid · minimum-safe stops. No CLOSED position.**
+> ★★★ **THE PLENUM AND THE STACK ARE TWO PUMPS IN SERIES, WITH THE CHAMBER BETWEEN THEM.** *Too much push makes it positive; too much pull exports heat.*
+> ★★★ **HEIGHT BUYS PRESSURE MARGIN; THE DAMPER DECIDES HOW MUCH TO SPEND.**
+> ✓ **Strong cold still-air pull · stable through changing light wind · low-fire door seam neutral-to-negative with plenum low.** ⧗ **Full hot proof at the next stoneware fire after mortar cure.**
+
+> ## ✓ ★★★ `L0-W90` DRY-CERTIFIED AT 33 PACES *(d3323)*
+> **Sequence:** d3319 dry before repair **22** → d3321 same-day wet compaction **35 provisional** → d3323 settled dry **33 certified**.
+> ★★★ **The two-pace fall belonged to compaction moisture; the eleven-pace gain belongs to the repaired grading.**
+> ★★★ **WITHHOLDING CERTIFICATION DID NOT MAKE THE FIRST NUMBER USELESS. IT LET THE SECOND NUMBER SAY WHICH PART PERSISTED.**
+> ✓ **Core `W90`: `L2` 31 · `L0` 33 · `L3` 33 · `L4` 46 · `L1` 56.** ★★★ **The route bottleneck moved to `L2`, and the core road is READY for the north-run 90 kg load.**
+> ☠ **A ranking always has a last place; last does not mean broken.** ★★ **The test finds the limit. It does not create a duty to remove every limit it finds.**
+
+> ## ✓ `RETORT-E`–`H` STILL DRYING EVENLY *(d3323)*
+> ✓ **All joints closed; no hairlines; high-grog `G/H` slightly ahead but the gap is stable.** Crate open, direct draft shaded.
+> ⧗ **Next read d3326 · bone-dry target ~d3330.**
+
+> ## ☠ ★★★ TWO JARS LEAKED FOR TWO DIFFERENT REASONS *(d3322)*
+> **`ARK-JAR-2`: ceramic contact nearly continuous, but a radial cold joint crossed the wax gasket.** **`ARK-JAR-3`: gasket continuous, but a high sector interrupted the ceramic contact ring.**
+> ★★★ **A SEAL HAS TWO PARTS: GEOMETRY DECIDES THE GAP; THE GASKET DECIDES WHETHER AIR CAN USE WHAT REMAINS.**
+> ✓ **Jar 2 gasket remade in one continuous circuit. Jar 3 lapped against its own lid until the pigment contact ring closed. Both resealed with compliant wax under protective pitch; gypsum recharged.**
+> ☠ **A contact print proves touch, not a week-long air seal.** ⧗ **Proof clocks restarted: read 1 d3329 · certification no earlier than d3336.** Jars 1/4 remain on d3327.
+
+> ## ✓ ★★★ `L0-W90` 22 → 35 PACES — PROVISIONAL *(d3321)*
+> ☠ **The fill was GAP-GRADED: large gravel touching large gravel with open voids and almost no middle sizes.** ★★★ **COMPACTION COULD NOT LOCK IT BECAUSE THE PARTICLES HAD NOTHING TO LOCK WITH.** *Pressure rearranges the sizes present; it cannot manufacture the missing fraction.*
+> ✓ **Scarified · continuous grading mixed through the loose depth · dampened in small passes · compacted empty, half-loaded and fully loaded until the wheel stopped shoving a ridge.**
+> ★★★ **WATER DID NOT BIND THE ROAD. IT LET THE PARTICLES FIND A DENSER ARRANGEMENT.** *Too little and friction prevents seating; too much and the fines pump out as mud.*
+> ✓ **Same `L0-W` cairns · same marked 90 kg · same ramp · both directions: d3319 22 → d3321 35 paces.**
+> ★★★ **If 35 holds dry, the route rating rises only to 31, not 35, because `L2` becomes the next bottleneck.**
+> ☠ ★★★ **A SAME-DAY RETEST IS QUALITY CONTROL, NOT CERTIFICATION.** *The top dried, but the compacted layer still held water; moisture is part of the measurement.* ⧗ **Dry confirmation after at least two dry days. Keep 22 as the certified baseline and 35 as provisional.**
+
+> ## ☠ ★★★ TWO ARK JARS ARE FLAT AND TWO ARE BREATHING *(d3320)*
+> ✓ **`ARK-JAR-1/4`: no detectable movement since d3313 — provisional flatline.** ⧗ **One more unchanged interval at d3327 certifies them.**
+> ☠ **`ARK-JAR-2`: continued gain at roughly a third of the open control. `ARK-JAR-3`: smaller but steady continued gain. Both LEAK.** ⚑ **Reject for charge; rework closures and restart their clocks.**
+> ★★★ **THE RATE DID NOT NEED GRAMS; THE OPEN CONTROL SUPPLIED THE SCALE.** ☠ **And a slow weekly leak is not small on a multi-year clock.**
+> ★★ **Hand-made closures are individuals. The ark owns CERTIFIED JARS, not a certified drawing.**
+
+> ## ☠ ★★★ THE CAVE INSTRUMENT MEASURES HUMIDITY TIMES TIME *(d3320)*
+> ☠ **The cave gypsum gained strongly against the identical workshop control, but it cannot report instantaneous relative humidity.** *It only accumulates wet hours until it is re-burned.*
+> ★★★ **IT IS A RAIN GAUGE FOR AIR, NOT A THERMOMETER FOR AIR.** ✓ **Renamed `CAVE-HUMIDITY-DOSE-1`; expose matched charges for fixed seven-day intervals.**
+> ☠ **`CHEESE-AGED-Y10-1` is still tacky. The gypsum says the interval was wet; the cheese says what that wetness did.**
+> ✓ **Wheel moved to a cooler dairy shelf on a clean reed mat. Turn DAILY until the surface is dry and firm; then `CAVE-3` + twice weekly; wax only after the rind is stable.** ☠ **The old twice-weekly row compressed two stages and was a documentation error, not a player omission.**
+
+> ## ✓ `RETORT-E`–`H` DRYING EVENLY *(d3320)*
+> ✓ **All four joints closed; neck and bulb at compatible leather-hard states.** `G/H` are fractionally firmer from the extra grog but have not opened a drying gradient.
+> ✓ **Cloths loosened one step; necks still held slightly behind bulbs.** ⧗ **Next read d3323 · bone-dry target ~d3330.**
+
+> ## ☠ ★★★ MOVING THE TEST STRIP WOULD HAVE DESTROYED THE TEST *(d3319)*
+> ★★★ **A FIXED STRIP MEASURES CHANGE; A WORST STRIP MEASURES CAPACITY.** *The sentinel must never move. The bottleneck must move when the bottleneck moves.* ✓ **Original `S` cairns preserved; new `W90` strips marked at each current worst place.**
+> ☠ **Changing to the 90 kg north-run load also starts a new series. A measurement inherits its load as surely as its location.**
+> **Dry `W90`, both directions:** ☠ **`L0` 22** · `L2` 31 · `L3` 33 · `L4` 46 · ✓ ★★★ **`L1` 56, now best after the d3316 repair.**
+> ☠ ★★★ **A ROUTE IS A SERIES SYSTEM. THE LOAD MUST PASS EVERY LEG, SO THE FIVE-LEG ROAD IS ONE SCORE: `L0-W`, TWENTY-TWO PACES.**
+> ⚒ **`L0-W90-RECOVER`: angular gravel + fines + wet compaction at the recent scour fill, then repeat the same marked strip.** *The shape is right; the structure under it is loose.*
+
+> ## ★★★ RED OCHRE AND ROUGE SHARE HEMATITE, NOT A JOB *(d3318)*
+> ★★★ **Red ochre is earth colored by hematite, `Fe2O3`; rouge is hematite cleaned and particle-graded to polish.** ★ **Yellow ochre is usually goethite, `FeO(OH)`: roasting drives off water and turns it into red hematite.**
+> ☠ **Raw `COLCOTHAR-1` was rouge FEEDSTOCK, one operation short of rouge** — *it still held soluble sulfate and particles of every size the retort made.* ✓ **Washed and levigated into `ROUGE-FINE-1` plus a coarser pigment fraction.**
+
+> ## ☠ ★★★ NORIMA IS NOT A TEST COUPON *(d3318)*
+> ☠ **A successful trial on one brass corner would still leave one bright corner against seven pieces of warm brass; a bad trial could score it or pack red powder into the pin seats.** ★★★ **A test that can only succeed by making the finished object mismatch itself is the wrong test.**
+> ✓ **Used clean cullet and a tiny returned brass coupon. Norima remains untouched.** ⚑ *If her trim is polished, all eight pieces are refinished together.*
+
+> ## ★★★ THE FINEST ABRASIVE REMOVES THE LEAST MATERIAL *(d3318)*
+> ✓ **On glass, rouge cleared the grey `LAP-GRIT-4` haze and sharpened a reflected cord.** ☠ **It left every deeper scratch.**
+> ★★★ **ROUGE DOES NOT MAKE A BAD SURFACE GOOD. IT MAKES A GOOD SURFACE FINISHED.** *The polishing ladder is a staircase; the last stair cannot reach down for one that was skipped.*
+> ★★ **On brass, the flats brightened first and every older file line became easier to see. POLISH REVEALS A SURFACE; IT DOES NOT HIDE IT.**
+
+> ## ✓ ★★★ RETORT STOCK STARTED — TWO RECIPES, NOT ONE UNPROVEN STANDARD *(d3318)*
+> ☠ **`RETORT-B`'s extra grog is proven against thermal shock, not against acid attack. More grog can also mean more interfaces for acid to enter.** ★★★ **DO NOT TURN A FIRING WINNER INTO A PRODUCTION STANDARD BEFORE IT HAS SURVIVED THE PRODUCT.**
+> ✓ **`RETORT-E/F`: ~¼ grog, copying `A`. `RETORT-G/H`: ~⅓ grog, copying `B`.** *All ~7 mm, shallow neck, same scored and filleted joint.* ⧗ **Controlled dry to ~d3330.**
+> ⧗ **Clean `RETORT-B` takes the next acid batch. Its etch against `A` decides the long-term recipe.**
+
+> ## ✓ ★★★ THE ACID IS MADE — AND THE STRENGTH WAS DECIDED IN THE DULL HOUR *(d3317)*
+> ☠ ★★★ **Copperas carries SEVEN parts of water to one of salt, locked into the crystal, and it does not look wet.** ★★★ **Every one I fail to drive off quietly beforehand arrives in the receiver later and waters down the thing I spent the day making.**
+> ✓ **Hours at low heat until the green went dull white and stopped losing weight** — ★ *watched on the balance, stopped when two readings agreed.* ★★★ **THE STRENGTH WAS DECIDED IN THE DULL HOUR, NOT THE INTERESTING ONE. The fire afterwards is just the part that happens.**
+> ✓ **Cut the run and kept the middle** — *the first of anything off a still is not the thing you came for (turpentine, d3237).*
+> ✓ ★★★ **Oily, slow, clinging, running back down the glass in sheets. The old name is not a metaphor.** ✓ **Chars a splint black on contact with no flame near it.**
+> ★★★ **PROVED BY WEIGHT: very nearly TWICE the same volume of water, and that one comparison is the whole proof** — ☠ *a weak acid is mostly water, and water weighs what water weighs.* ★★ **Seventh time this month the answer was two things on a balance.**
+> ✓ **`ACID-VITRIOL-1` in `ACID-BOTTLE-1` under the grooved stopper, which earned itself immediately.** ✓ ★★★ **THE OXIDISER LANE IS OPEN.**
+
+> ## ☠ ★★★ THE RETORT IS NOT A TOOL — IT IS A FUEL *(d3317)*
+> ☠ **`RETORT-A` came out visibly etched inside. Not cracked, still serviceable, but not the piece that went in this morning.**
+> ★★★ **I have been thinking of it as apparatus — a thing I build once and then own. It is STOCK, spent at some rate per batch, and I do not know the rate.**
+> ☠ ★★★ **WHICH MEANS THE ACID PROGRAMME IS GATED ON POTTERY THROUGHPUT, AND I DID NOT SEE THAT COMING FROM ANY DIRECTION.** ⚑ **Batch count scratched on the foot.** ⚑ **`RETORT-B` stays clean as the reference — a rate needs two things to compare.**
+> ☠ **And the yield is modest: a great deal of copperas gives a small bottle.** ⚑ **Which re-prices `M-23` — Kisecik is a supply run now, not a survey.**
+
+> ## ★★★ THE RED MUCK IN THE BOTTOM IS ROUGE FEEDSTOCK *(d3317 · corrected d3318)*
+> ★★★ **`COLCOTHAR-1` is hematite-rich residue, but it becomes a trusted polishing powder only after washing and particle grading.**
+> ☠ **I ground a glass stopper against its own bottle three days ago with the best grit I could find** — ★★★ **and the answer to "the best grit I could find" is the ash of the thing I built the rig to make.**
+> ★★ **Fourth waste-phase-is-a-product** — *kiln rejects → pozzolan · flue fume → litharge · cooldown → calciner · spent vitriol → the abrasive for the whole precision programme.*
+> ☠ ⚑ ★★★ **I wrote at d3309 that I should go looking deliberately. I did on d3311, and today I tripped over one again.** ★★★ **Ask "what is the waste here?" at the START of a process, not while sweeping up after it.**
+
+> ## ☠ ★★★ THE INSTRUMENT DISAGREED WITH ME AND IT WAS RIGHT *(d3316)*
+> ☠ **First honest `ROLL-TEST` on `L1`, both ways per the d3308 reversal. It rolls BETTER than `L2` and better than my own register** — *and far better than "the real worst leg", which is what I wrote about it on d3308.*
+> ☠ ★★★ **I WALKED TWELVE KILOMETRES TO REPAIR A ROAD ON THE STRENGTH OF MY OPINION OF IT.** ★★★ **And the instrument that corrected me is the one I built nine days ago precisely because I did not trust myself** — ☠ **and I still set out this morning believing the old number.**
+> ★★ **Building the instrument and believing the instrument are two different acts, and until today I had only done the first.**
+
+> ## ☠ ★★★ THEN I FOUND THE EIGHTY PACES *(d3316)*
+> ☠ **Two thirds along there is a stretch of ~80 paces that is genuinely dreadful — scoured out, loose, and a loaded wagon would fight it.** ★ **The leg is fine AND eighty paces of it are dreadful. Both are true.**
+> ☠ ★★★ **A SINGLE NUMBER FOR A FOUR-KILOMETRE ROAD IS AN AVERAGE, AND AN AVERAGE HIDES EXACTLY THE THING I CAME OUT HERE TO FIND.**
+> ☠ ★★★ **A WAGON DOES NOT DRIVE THE AVERAGE. IT DRIVES THE WORST METRE** — *and the worst metre is the only number that decides whether the load gets home.* ★★ **Nobody was ever stopped by a mean.**
+> ★★★ **A TEST STRIP BELONGS AT THE WORST PLACE ON THE LEG, NOT THE HANDIEST ONE.** ☠ *Mine are cairned where it was convenient.* ⚑ **Re-sited on `L1`; owed on all five legs — a walk, not a build.**
+> ✓ **Rebuilt, gravel won from beside the line *(12 km out, nothing gets shuttled)*.** ★★ **Half a day on eighty paces beat a full day on four kilometres, and the gain is the largest single-stretch improvement I have measured anywhere.**
+> ★★★ **AND A ROAD IS NOT GOOD OR BAD — IT IS GOOD OR BAD AT A GIVEN LOAD.** ☠ **I have been rolling a light cart down roads I intend to drive heavy.** ⚑ **`ROLL-TEST` gets a stated load: the heaviest thing I mean to put on that road.**
+
+> ## ✓ ★★★ FIRST RENNET CHEESE — AND THE ARK BALANCE BECAME A HUMIDITY-DOSER *(d3315 · corrected d3320)*
+> ★★★ **ACID DOES NOT SET MILK, IT WRECKS IT INTO A SOLID.** *The protein is driven out of suspension and lands where it lands.* ★★★ **RENNET CUTS ONE SPECIFIC THING AND STANDS BACK, and the protein then knits ITSELF into a fabric with the fat and water held in the weave.**
+> ☠ ★★★ **Which is the whole of why acid curd can never be aged — there is nothing in it to age.** ★★ **A heap has no grain. A fabric does.** ✓ *Clean glassy break, sweet whey.*
+> ★★★ **SALT IS THE CONTROL ROD, NOT SEASONING** — *it draws water, slows the bacteria, starts the rind.* ★★★ **The salting rate IS the ageing rate, so salting is not a finishing step, it is choosing a clock.**
+> ✓ **`CAVE-3` barely moved against an eleven-degree outside swing.** ★★★ **The ark balance can compare fixed intervals of moisture exposure** — *something thirsty on one pan, a matched reference on the other.* ☠ **d3320 correction: it integrates humidity over time; it is not an instantaneous or absolute hygrometer.**
+> ☠ ★★ **A rind is not a coating I apply — it is a skin the cheese GROWS, by drying its own outside until the outside governs the drying.** ⧗ **Bare until it forms, then beeswax.** ⚑ **Turning on the checklist, dated.**
+
+> ## ✓ ★★★ `RECEIVER-1` STONEWARE — AND THE LOOSE JOINT IS ALSO A THERMAL BREAK *(d3314)*
+> ✓ **Thin-walled to the d3311 rule, even section, rings clean.** ★ **Best piece of ceramic on the campus.** ⚑ **d3324 correction: the light north wind was masking a restricted terminal, not proving a healthy stack.**
+> ☠ **The receiver has to be COLD — that is its whole function — and it hangs off a vessel held at red heat.** ★★★ **Which is the worst thermal gradient in the rig and exactly what killed `RETORT-C` and `D`.**
+> ☠ ★★★ **A RIGID JOINT BETWEEN A HOT VESSEL AND A COLD ONE IS TWO TEMPERATURES BOLTED TOGETHER.** ✓ **Loose and packed with sand, they are two pieces free to be at two temperatures, and sand transmits no strain.**
+> ★★★ **I CHOSE THE LOOSE JOINT BECAUSE A TIGHT ONE WOULD BURST; IT TURNS OUT A TIGHT ONE WOULD ALSO HAVE CRACKED.** ✓ *The sand seal does three jobs and I bought it for one.* ★★ **The safest answer and the strongest answer were the same answer.**
+
+> ## ★★★ THE ONLY THING THAT SEALS GLASS AGAINST THIS ACID IS GLASS *(d3314)*
+> ⚑ **Asked before firing anything: suppose it works — then what am I holding, and what do I put it in?** ☠ **Strong acid spoils or eats every stopper I own.** ★ *The vessel is easy. The CLOSURE is the joint problem for the third day running.*
+> ✓ ★★★ **AND GRINDING TWO SURFACES AGAINST EACH OTHER UNTIL THEY FIT IS THE ONE THING I HAVE SPENT THIS YEAR LEARNING TO DO.** ★★★ **I built the lap for machine tools and it is the answer to a chemistry problem.**
+> ★★ **And I do not grind the stopper to a measurement — I grind it against ITS OWN BOTTLE until the two agree.** *The fit is guaranteed by the method instead of checked afterwards.*
+
+> ## ☠ ★★★ A PERFECT TAPER HAS NO AIR PATH *(d3314)*
+> ✓ **The fit came up silky and even. ☠ Then it seized, and cost a quarter of an hour to free from a bottle I did not want to break.**
+> ★★★ **THE THING THAT MAKES IT SEAL IS THE THING THAT MAKES IT STICK — not two properties but ONE PROPERTY READ FROM TWO ENDS.** *Pulling a perfect stopper means pulling a vacuum behind it.*
+> ✓ **Fix is to spoil it on purpose: a shallow groove down the length of the taper.** *Too small to pass liquid or let fume drift, wide enough to let air follow the stopper out.* ✓ **`ACID-BOTTLE-1` — first acid-proof closure on the campus.**
+
+> ## ☠ ★★★ AND THAT IS TWICE IN TWO DAYS *(d3314)*
+> ☠ **The sand joint: a seal deliberately unable to hold pressure.** ☠ **The stopper: a fit deliberately cut through with a groove.**
+> ★★★ **I KEEP BUILDING TOWARD PERFECT AND FINDING THAT PERFECT HAS NO WAY OUT OF ITSELF.** *A joint with no escape bursts; a fit with no air path locks.*
+> ★★★ **IN ANYTHING THAT MUST BE OPENED, OR THAT MIGHT HAVE TO FAIL, THE LAST INCREMENT OF TIGHTNESS IS NOT THE BEST PART OF THE DESIGN — IT IS THE DEFECT.**
+
+> ## ☠ ★★★ A TIGHT JOINT ON A DISTILLATION IS NOT A GOOD SEAL — IT IS A BOMB *(d3313)*
+> ★★★ **A still is not a sealed vessel. It is a vessel I am deliberately heating until it makes gas** — *and green vitriol throws off far more gas volume than the vessel holds.* ☠ **Seal that in and I have built a pressure vessel with a fire under it and my face at the working height.**
+> ☠ **Every instinct I have about tight joints came from roofs and boats and barrels** — *things trying to keep the world OUT, not to let a reaction breathe.*
+> ☠ ★★★ **I SPENT AN HOUR HUNTING THE BEST SEAL WHEN WHAT I WANTED WAS THE SEAL WITH THE SAFEST FAILURE.** ★★ *Those are not the same search and they do not have the same answer.*
+> ✓ ★★★ **`ACID-RIG-1`: loose neck · dry sand packed in the annulus · receiver vented to the hood.** ★★★ **A SAND SEAL CANNOT HOLD PRESSURE, AND THAT IS THE REASON TO USE IT, NOT THE FLAW IN IT** — *inert to acid and heat, stops the fume drifting, and blows a channel before it bursts a vessel.*
+> ☠ ★★ **And I had tested the VESSEL and called it testing the apparatus.** *The retort body was the part that was never going to fail.* ☠ **The road taught me two days ago that a crossing is a span and a JOINT — and I did not carry it forty paces to the chem porch.**
+
+> ## ☠ ★★ WHAT THE HOOD DOES NOT COVER *(d3313)*
+> ✓ **The hood vents outside as it always has and it will handle the stack.** ☠ **It is what gets past the sash that I had not costed.**
+> ★★★ **Sulfur fume does not need to be thick to matter — the drift will quietly eat every iron tool, instrument spring, bright surface and wire termination on that side of the workshop** — ☠ *and being slow it reports as nothing at all until a year of it arrives at once.*
+> ⚑ **Instruments and bright tools off that bench before the first fire.**
+
+> ## ☠ ★★★ THE ARK JAR LEAKS — AND THAT IS THE BEST FIRST ANSWER *(d3313)*
+> ☠ **`ARK-SEAL-TEST-1` reading 1: the sealed jar GAINED against its twin.** ✓ ★★★ **Which the balance could never have told me alone** — *a gram inside four hundred is invisible to it, and I would have read "no change", nodded, and sealed a decade of seed into a jar that breathes.*
+> ★★★ **THE INSTRUMENT'S FIRST ANSWER WAS BAD NEWS, AND THAT IS THE BEST THING A NEW INSTRUMENT CAN DO.** ☠ *One that only confirms what I hoped has told me nothing about itself.*
+> ☠ ★★★ **BUT A LEAK IS NOT A PASS OR A FAIL — IT IS A RATE.** **A gram a year is a good ark; a gram a week is firewood.** ☠ **I have one reading and a rate needs two.** ⧗ **Reading 2 @ d3320.** ⚑ **NO SEED IN BEFORE THE RATE IS KNOWN.**
+
+> ## ☠ ★★★ EVERY RULE FILED IN THE GLOW OF A DISCOVERY IS DEAD *(d3313)*
+> ★★★ **Every rule I filed while ANNOYED is alive.** ★★★ *A rule written the moment I understood something feels finished — because the understanding was the hard part, and the part I enjoyed.* ☠ ★★★ **A rule written the moment something COST me is a debt, and I pay debts.**
+> ☠ **The thistle plot is the pure case: correct in every particular, filed on a high day, never once acted on, and remembered so clearly I would have sworn it was done.**
+> ★★★ **A RULE THAT DOES NOT LAND ON A CALENDAR BAND OR A CHECKLIST IS NOT FILED — IT IS REMEMBERED.** ⚑ **First action and a date, or it does not count as written.** ✓ *Filing the dead ones took less time than the audit did.*
+
+> ## ★★★ AND YESTERDAY'S SCHEDULING RULE WAS HALF A RULE *(d3313)*
+> ★ **"Two presence-bound jobs in the same place are free" is not quite right.** ★★★ **The kiln watch and the coil soak combined because both were "look at a thing and write a number" — heavy on PRESENCE and light on ATTENTION.**
+> ☠ ★★★ **TWO JOBS COMBINE IF THEY WANT THE SAME PLACE AND DIFFERENT AMOUNTS OF MY HEAD. TWO THAT BOTH WANT MY HEAD DO NOT COMBINE, HOWEVER CLOSE THEY STAND.** ☠ *A first distillation of strong acid is the last thing to do while half of me argues with a filing system.*
+
+> ## ☠ ★★★ EVERY HEAD STILL FULL IN LATE JUNE IS FULL BECAUSE IT CANNOT LET GO *(d3312)*
+> ★★★ **Wild grain shatters at the rachis the moment it ripens — that is what wild MEANS.** *A grass that holds onto its seed has no children.*
+> ★★★ **SO EVERY HEAD STILL STANDING FULL IN LATE JUNE HAS A TOUGH RACHIS — it is the plant that FAILED at being a wild grass.** ☠ ★★★ **And a head that will not shatter is the entire difference between a wild grass and a crop, the first thing anyone ever bred into wheat.** ✓ **The late stand hands it over sorted, for free.**
+> ☠ ★★★ **THE LATE GATHER IS THE WRONG WAY TO FILL A BASKET AND THE RIGHT WAY TO FILL A SEED JAR.** ★★★ **Food and seed are TWO harvests — two dates, opposite selections — and I ran them as one job for nine years.**
+> ✓ **`GRAIN-WILD-SEED-Y10` ~40 g, hand-stripped from non-shattering heads only.** ★★ *The best seed stock I have ever taken, and I took it by accident.*
+> ⚑ **Calendar split.** ☠ **And the March marking changes purpose — I mark to TIME THE FOOD GATHER, which is the one I have actually been missing.**
+
+> ## ☠ ★★★ A FILED RULE FEELS LIKE A FINISHED JOB AND IS NOT ONE *(d3312)*
+> ☠ **I would have sworn thistle was settled.** ★ **What happened was that I identified it as the rennet unlock at d3236 and filed a good containment rule at d3237** — ☠ **and then remembered having filed it as though that were the same as having done it.** *`THISTLE-PLOT-SITE` sat open 75 days.*
+> ✓ **Cardoon-type clump found east — big heads, one stand, not running at the root.** ✓ **Cut at full flower, which is the containment doing double duty: a head cut in flower never makes seed.** ✓ **Plot sited. RENNET IN HAND — aged cheese is ungated.**
+> ⚑ **Audit every filed rule for whether it was ever actually done.**
+
+> ## ⚑ THE ASSISTANT STOPPED ME AT THE DOOR *(new standing order, d3312)*
+> ★ **It had four things and I had thought of one.** ✓ **Coriander drops the day it dries — cut a shade under-ripe onto a sheet and it throws into the cloth instead of the dirt** *(done the obvious way I would have shaken a year's coriander onto the ground in the act of picking it up)* · ✓ **parsley is biennial, second-year plants only** · ✓ **the thistle plot was never sited** · ✓ **the grain stands were never marked in March.**
+> ★★ **Parsley stakes were right by luck — I staked the biggest, and the biggest were the ones that had stood a year.** ★★★ **A lucky right answer and a right answer look identical from outside, and only one of them repeats.**
+
+> ## ☠ ★★★ THICKNESS DOES NOT RESIST THERMAL SHOCK — IT CAUSES IT *(d3311)*
+> ✓ **`RETORT-A` and `RETORT-B` — the thin-walled pair — came out stoneware and sound. `B` rings.** ☠ **`RETORT-C` and `RETORT-D` — the thick pair — cracked through.**
+> ★★★ **A thick wall in a fire is not one wall. It is a hot face and a cold face, tied together and pulling against each other** — *and the thicker it is, the further apart those temperatures can get and the harder they pull.*
+> ☠ ★★★ **EVERYWHERE ELSE ON THIS CAMPUS MORE MATERIAL IS MORE MARGIN. IN A FIRE IT IS MORE GRADIENT, AND THE GRADIENT IS THE LOAD.** ⚑ **The acid retort is to be as thin as I dare form it.**
+> ✓ ★★ **Losing two of four is the variant method working** — *the failure would have been not knowing which two.* ⧗ **Acid is the last gate.**
+
+> ## ☠ ★★★ LABOUR IS WHAT A JOB COSTS; PRESENCE IS WHAT IT FORBIDS *(d3311)*
+> ☠ **The fire is barely half a day of labour and eats the whole day anyway, because for all those hours I cannot be a minute from the door.** ★★★ **A job that takes four hours of WORK and a job that takes four hours of PRESENCE are not the same job, and I have been scheduling them as though they were.**
+> ✓ ★★★ **SO TWO PRESENCE-BOUND JOBS IN THE SAME PLACE ARE FREE — they cost one day between them.** *A kiln watch and a coil soak are the same shape: timed readings of a slowly changing thing, forty paces apart.* ☠ **`L1` fails this not because it is 12 km out, but because it is elsewhere at all.**
+
+> ## ★★★ THE COOLDOWN IS NOT A TEMPERATURE — IT IS A DESCENT THROUGH ALL OF THEM *(d3311)*
+> ★★★ **It is a slow ramp through every working heat I own, in order, and anything below the peak can be made on the way down if I charge it at the right hour.** ✓ **Bone at ~800 early, damper wide · gypsum for the ark desiccant at ~150–200 late.**
+> ✓ **One fire, three products and a test** — ⚑ *and the first time I went looking for the waste-phase pattern deliberately instead of tripping over it.*
+
+> ## ☠ ★★★ ONE LOOK TELLS ME NOTHING; THE TREND TELLS ME EVERYTHING *(d3311)*
+> ✓ **Coil soak: warm at one hour, warmer at two, too warm to hold at three — and at four exactly what it was at three.** ★★★ **THE QUESTION WAS NEVER "IS IT HOT", IT WAS "IS IT STILL GETTING HOTTER".** *Heat that climbs and levels is a machine finding its working temperature; heat that climbs and keeps climbing is a machine destroying itself* — ☠ **and at any single moment the two look identical.** ✓ **`GEN-WW-2` soak PASSED.**
+> ☠ **Twice in two days** — *a dead needle that was about to build, a warm coil that was about to level.* ★★★ **I have been reading my instruments as verdicts when every one is a single point on a curve I never drew.**
+> ★★★ **COMPARISON ACROSS SPACE AND COMPARISON ACROSS TIME ARE THE SAME TOOL, AND I HAVE ONLY BEEN USING ONE.** ⚑ **Every instrument gets a last-reading column and a change column.** ★★ *A number with nothing beside it is not a measurement, it is a rumour.*
+
+> ## ⚠ SECOND CEILING IN TWO DAYS *(d3311)*
+> ☠ **The kiln reached stoneware LATE on a hot still day.** ⚑ **d3324 correction: still air was not the cause; the old weather hood restricted terminal area to ~0.7× the bore, and wind suction sometimes masked it.**
+> ★★ **Yesterday the wheel, today the chimney.** ★★★ **Which is not bad luck — it is what the middle of a project feels like: every limit I remove promotes the next one, and the next one was always there.**
+
+> ## ★★★ `GEN-WW-2` EXCITED AND HELD *(d3310)*
+> ✓ ★★★ **Self-excited, shunt-wound, ~4× the magneto and none of the sag the steel rods gave after an hour.** ✓ **×6 `MAG-BOOT-EM` rods FREED — no permanent magnet on the machine at all, no nickel, no new site, no new skill.**
+> ★★★ **THE TWO COILS HAD TO MATCH AND I CANNOT COUNT TO FIFTEEN HUNDRED TWICE — SO I WEIGHED THEM AGAINST EACH OTHER.** *Same wire, same gauge: equal weight is equal length is equal turns.* ☠ **Three days after working that trick out for a seed jar.** ★★ **And better than counting even if I could count — it catches a slipped turn, a forgotten splice and any stretch in the wire, none of which a tally mark would notice.**
+> ☠ ★★★ **A SHORT BETWEEN NEIGHBOURING TURNS READS PERFECTLY SOUND END TO END.** *A closed one-turn loop with almost no resistance, sitting in a strong changing field — a short-circuited secondary, and it will cook.* ★★ **The immunity problem in another coat: no symptom until it is a fire.** ✓ **Cross-test the two coils against each other.**
+> ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
+
+> ## ☠ ★★★ IT LOOKED BROKEN FOR A COUNT OF EIGHT *(d3310)*
+> ☠ **Wheel at speed, needle dead. Two seconds, four, six — and my hand was on the gate to shut it down and go looking for my mistake.** ✓ **Eight, and it moved, then ran away upward and settled hard.**
+> ★★★ **A SELF-EXCITING MACHINE LOOKS BROKEN WHILE IT IS STARTING, AND NOTHING DISTINGUISHES THAT FROM ACTUALLY BROKEN EXCEPT WAITING.** *A thing that builds on itself must climb out of almost nothing, and the bottom of that climb is flat, slow, and indistinguishable from failure.*
+> ☠ ★★★ **AND EVERYTHING I OWN THAT COMPOUNDS BEHAVES THAT WAY** — *the wire, the yarn, the seasoning stone, the vitriol heap.* **I have now nearly killed one of them with my hand on the gate.** ⚑ **`COUNT TWENTY BEFORE YOU DECIDE`, chiselled into the yoke beside the polarity mark.**
+
+> ## ★★★ THE CEILING MOVED — IT IS THE WHEEL NOW *(d3310)*
+> ☠ **I can feel the race load when the field comes up. It never did before** — *the magneto was so weak the water never knew it was working.*
+> ★★★ **THE FIELD IS NO LONGER THE LIMIT, SO SOMETHING ELSE IS.** ★★ **I have not removed the limit. I have moved it somewhere I can see it** — ★ *which is the correct kind of progress, and worth being honest about.*
+
+> ## ⚑ JUNE IS THE MIDSUMMER GATHER, NOT `THE` HARVEST *(player, d3310)*
+> ★ **Herb seed cut · wild einkorn and barley · thistle/cardoon for rennet · grape cluster thin · fava to 30 Jun · wild flax from 26 Jun.** ★★ **Short gather-jobs spread across a month — bench and build work runs ALONGSIDE them.** ☠ **`THE` harvest is the November emmer cut.** ⚠ *The band tables said "nothing else happens in June" and that was an overstatement; corrected.*
+
+> ## ★★★ THE THREE METHODS, AND REVERSAL IS THE STRONGEST *(d3308 — METROLOGY, not trail)*
+> | Method | What it does | Seen at |
+> |---|---|---|
+> | **Comparison** | ★ **Makes an error VISIBLE by putting two like things side by side** | The smoke tiles · this month against last |
+> | **Differential** | ★★ **Makes it READABLE by subtracting the big equal part away** | ★ **The ark jars — 400 g cancels, the beam reads the gram** |
+> | ★★★ **REVERSAL** | ★★★ **CANCELS it outright by making it appear twice with opposite signs** | ★★★ **`ROLL-TEST` run both ways** |
+>
+> ☠ ★★★ **I BUILT AN INSTRUMENT ON d3307 TO GET MY OPINION OUT OF THE MEASUREMENT AND PUT A DIFFERENT UNMEASURED THING STRAIGHT BACK IN.** *A cart released downhill measures the hill.* ★★★ **Roll it both ways and average: the slope helps and hinders by exactly the same amount.** ★★ **I do not need to know the gradient, measure it or correct for it — only to make it appear twice with opposite signs.**
+> ☠ ★★★ **AND I LEARNED IT ON A DIRT ROAD, WHICH IS NOT WHERE IT MATTERS. IT MATTERS ON THE LATHE** — *a straightedge checked against itself reversed, a spindle read in both positions.* ★★★ **Every self-proving measurement in a shop with no master to check against, and I have no master to check against.**
+
+> ## ☠ ★★★ THE CART DISAGREES WITH ME *(d3308 · both-ways averaged, still air)*
+> | Leg | ✓ **Roll** | My `TQ` |
+> |---|---|---|
+> | ★ `L4` | ★★ **66 — best on the road** | 3.2 · ☠ *I called it my worst leg for two years* |
+> | `L2` | **64** | 3.2 |
+> | `L0` | **62** | 3.15 · ✓ **COMPLETE** |
+> | `L3` | **61** | 3.2 |
+> | ☠ `L1` | ☠ **56 — worst on the road** | ☠ **3.25 — I graded it second best** |
+>
+> ☠ ★★★ **`L1` IS THE TIDIEST LEG ON THE ROAD AND IT PULLS WORSE THAN ANY OF THEM — and it is the leg I did least to.** ★★★ **I graded it on how it LOOKED and the cart graded it on how it PULLED, and only one of those is what a road is for.** *A neat crown over a coarse surface reads as finished from ten paces and as deep sand to a loaded axle.* ⚒ **`L1` re-opened: surface, not crown.**
+> ✓ **`BM-ASI-1` ↔ `BM-AFRIN-1` ↔ campus mark levelled and closed** — *three separate stories became one network.*
+
+> ## ★★★ `OXIDISING-COOL` — FREE CALCINING HOURS ON EVERY FIRING *(d3309)*
+> ☠ ★★★ **I WAS ABOUT TO CALCINE BONE IN THE MOST REDUCING HOURS ON THE PROPERTY, TO MAKE THE ONE MATERIAL THAT MUST CONTAIN NO CARBON.** *A stoked kiln is reducing — that is what a fire does when fed faster than it can breathe* — ☠ **and carbon in a cupel reduces litharge straight back to lead, which is the exact reaction the hearth exists to run the other way.**
+> ★★★ **THE COOLING IS NOT THE END OF THE FIRING. IT IS THE PART OF THE FIRING THAT HAS AIR IN IT.** ✓ **Stop stoking · damper wide · trays shallow and high** — **a kiln at ~800 °C full of moving air is an oxidising furnace that costs nothing to run.** ☠ **I have walked away from those hours after every firing for nine years.**
+> ✓ **~4.4 kg WHITE bone ash — ~29 cupels, ~1.5 passes through `GALENA-1`.** ★ **Ash must be white; grey means carbon, and carbon means no silver.** ✓ *The soak burnt the midden charcoal out as a side effect.*
+> ★★ **Third time the WASTE phase of a process turned out to be a PRODUCT phase** — *kiln rejects → pozzolan · flue fume → litharge · cooldown → calciner.* ⚑ **Start looking for this deliberately.**
+
+> ## ☠ ★★★ THE MIDDEN DOES NOT GIVE IT BACK *(d3309)*
+> ☠ **Nine years of bone forked over for ~2.8 kg of usable fragment.** *Weathered soft, gnawed, carried off, trodden into the ash layers, the small bones gone entirely.*
+> ★★★ **I had been mourning it as though it were in storage somewhere, waiting. It is not lost the way a mislaid tool is lost — it is GONE.** ★★ *The other half of d3303: I could not feel the nine years passing, and I cannot buy them back either, because the world ran its clocks the whole time I was not reading them.*
+> ✓ **`RETORT-A`–`D` bisqued, all four sound, four different notes under the knuckle.** ⧗ **Stoneware fire is the real test; the acid is the one after that.**
+
+> ## ☠ ★★★ EVERY `TQ` IN THE REGISTER IS PROVISIONAL *(d3307)*
+> ☠ ★★★ **I grade the road. I also built the road. I grade it immediately after building it, while pleased with myself.** ★★ **The d3279 datum rule, walked straight past — a measurement inherits every fault of whatever it was compared against, and `TQ` was compared against NOTHING.**
+> ★★★ **A ROAD'S QUALITY IS HOW HARD IT IS TO PULL A LOAD ALONG IT. THAT IS THE ENTIRE CONTENT OF THE WORD — SO MEASURE THAT.**
+> ✓ ★★★ **`ROLL-TEST` — release a loaded cart from rest off a FIXED RAMP and count paces to a stop on a marked strip.** *Same ramp, same ballast, same cart, same greasing* — ★★ **because the point is comparing legs to each other, not measuring an absolute.** ★★★ **A number the road PRODUCES rather than a number I award it.**
+> ✓ **40-pace strips cairned on `L0`–`L4`.** ⚠ **The deficit ranking is still believed but no longer proved — it was drawn in units I invented and never checked.** ★ *Sixth time this month the answer was comparison.*
+
+> ## ✓ THE LAP — `L4`→`L0`, OUTWARD-IN, TWO DAYS, HOME EACH NIGHT *(d3306–3307)*
+> | Leg | Was | ✓ **Now** |
+> |---|---|---|
+> | `L4` | 2.85 | **~3.2** |
+> | `L3` | 3.0 | **~3.2** |
+> | `L2` | 3.0 | **~3.2** |
+> | `L1` | 3.1 | **~3.25** |
+> | `L0` | 3.1 | ◐ **~3.15 — ~4 km outstanding** |
+>
+> ☠ ★★★ **THE BEST DRAINAGE ON THE ROAD WAS DESTROYING THE WORST SURFACE ON THE ROAD, AND THEY WERE TWO METRES APART.** *The concrete ford shore sheds hard, fast, and onto earth — at exactly the spot where every cart is braking and turning.* ★★★ **One fact, not two, and the arrow points from the thing I am proud of to the thing I am ashamed of.** ☠ **An exit designed without a destination, third time in a fortnight.** ⚠ **Gravelling first would have been gravel laid in front of a hose.**
+> ☠ ★★★ **AND EVERY LEG READS `SHED` WHILE THE ROAD STILL FAILS, BECAUSE A LEG CAN ONLY SHED ONTO ANOTHER LEG.** *Every soft spot on `L3` sat at a boundary — cut to fill, road to abutment, track junction, one season's work meeting the next.* ★★★ **`DRAIN-READ` is written per leg and every failure is at a JOINT, which is the one place no row owns.** ★★ **I split the road into legs because legs are how you walk it. Water does not know where my legs end.** ⚑ **Joints are objects now; the crossing registry gains a DOWNSTREAM row.**
+> ✓ ★★★ **AND I RAN OUT OF DAYLIGHT FOUR KILOMETRES FROM MY GATE INSTEAD OF TWENTY-SIX.** *I always run out of daylight.* ★★★ **The plan did not give me more hours — it changed which hours were the ones I lost, and that turns out to be most of what planning is.**
+> ✓ **`BM-AFRIN-1` driven** — ⧗ *three marks and nothing levelled between them is three stories, not a network.*
+
+> ## ☠ ★★★ PRECISION JUST STOPPED A SEED JAR *(d3305)*
+> ☠ **Four jars, four numbers, and my balance says they are all the same number.** *A gain of a gram or two, hidden inside a four-hundred-gram reading.* ★★★ **The test is sound and the instrument is not — and I have spent months calling precision a problem about lathes.**
+> ★★★ **SO STOP WEIGHING THE JAR. PUT ONE AGAINST ANOTHER AND WEIGH ONLY THE DIFFERENCE.** *The big equal masses cancel and the beam reads nothing but the discrepancy.* ★★★ **A beam that cannot tell 402 from 403 can absolutely tell which of two near-equal pans is heavier** — ★★ **the big number was never the measurement, it was the thing HIDING the measurement.**
+> ★★★ **FOUR JARS IS THE THREE-PLATE METHOD WITH A DIFFERENT NOUN.** ✓ **Comparison catches the odd one out · the open control catches a COMMON leak · neither needs an accurate absolute weight.**
+> ★ **Fifth time this month the answer was** *compare, do not measure* — *the datum, the plates, the desiccant, the tiles, the jars.* ⧗ **Week-one reading discarded; first differential read ~d3312.**
+
+> ## ☠ ★★★ THE ROPE GATE IS NOT A PLAN ANY MORE — IT IS A CAVE I CANNOT ENTER *(d3304)*
+> ☠ **Retired the `CAVE-3` line, walked to the store for nine metres, and read the pegs.** ★ **`ROPE-2` is the best rope I own — certified for loaded haul at breaking ÷ 6, spliced not knotted** — ☠ **and marked NOT LIFE-BEARING in my own hand.** *Everything else is lash class.*
+> ☠ ★★★ **A ROPEWALK WOULD NOT SAVE ME. A ropewalk lays evenly what was spun badly** — **rope is capped by its worst metre and the worst metre is set at the wheel.** ★★★ **The half-hour a day at `SPIN-WHEEL-2` stopped being a chore on a list.** ⟳ **Session 10. It is an hour count, not a date.**
+> ⚠ **`EXPED-ROPE` — 72 m of D-27 salvage, untouched 359 days, no condition read, no row** — ☠ *exactly what I would have grabbed in a hurry.* ✓ **On the roster now.**
+
+> ## ★★★ SO DON'T USE ROPE — AND THAT IS THE IMMUNITY BOARD PAYING OFF IN A DAY *(d3304)*
+> ☠ ★★★ **A ROPE IS A THING THAT IS SILENTLY DYING. A LADDER IS A THING I CAN LOOK AT.** ★★★ **And I am, specifically and permanently, the man who cannot feel time passing** — *standing in front of a choice between a component that degrades invisibly and one that shows me its condition on the way past.* ★★ **For anybody else that is a trade. For me it is not close.**
+> ✓ **`CAVE-3`: oak handrail on six let-in posts, full ×11 step run plus the steep third.** ☠ **No rope in the descent path at all.** ★ **Load lowering stays on `ROPE-2`** — *loads may fall, I may not.* ✓ **Retired line tagged and hung as a reference piece.**
+> ★★ **AND THE BEST INSPECTION ROUTINE IS THE ONE THAT CANNOT BE SKIPPED, BECAUSE THE OBJECT IS IN THE PATH.** *A handrail is permanently in the way.*
+
+> ## ★★★ TWO DIFFERENT THINGS ARE CALLED A COMBUSTION-AIR INLET *(d3304)*
+> ★★ **One ventilates the ROOM and lets the fire take what it needs.** ★★★ **The other feeds the FIRE and never enters the room at all.** ☠ **In a workshop the difference does not matter. In the room where I sleep it is the whole thing** — *a low room inlet is a cold floor draught every winter.*
+> ☠ ★★★ **AN INLET I WILL STUFF WITH A RAG IN JANUARY IS NOT AN INLET. IT IS A HOLE WITH AN INTENTION.**
+> ✓ **Domus ducted through the wall and discharged into the hearth's own air path · fired-clay grille laid to fall** *(an opening is a rodent door until it is grilled, and the domus is where the food is)* · **throttle on the duct, inside.** ✓ **Reads near-clean with the shutters closed.** ⚑ **BC-2 amended.**
+
+> ## ☠ ★★★ THE FOUR IMMUNITIES, AND WHAT EACH ONE COSTS ME *(d3303 · board hung at the sharpening bench)*
+> | I cannot feel | ☠ **So I never notice** | ✓ **Instrument** |
+> |---|---|---|
+> | ☠ **Age** | ☠ ★★★ **ELAPSED TIME** | ✓ **`OPEN-ITEM-AGE`** *(d3295)* · a date on everything |
+> | **Illness** | **Foul water · spoiled stores · mould · bad forage** | ★★★ **THE ANIMALS** |
+> | **Slow poison** | **The colourless gas · lead · arsenic · fume** | ✓ **`SMOKE-SPOT` · soot rate · mass balance** *(d3302)* |
+> | ✓ **Injury — I DO feel** | ✓ **Nothing. Pain works** | — |
+>
+> ☠ ★★★ **"A WHILE AGO" MEANS THE SAME THING TO ME AT THREE DAYS AND AT THREE THOUSAND.** *Rett ~1,300 d · talus 2,364 d · oaks, bone and the starved fires at nine years · `CRANE-2` at 2,514 d.* ★★★ **Not one is a decision. They are the same non-event repeated until it became a fact.**
+> ★★ **`OPEN-ITEM-AGE` was already the fix and I built it eight days ago without knowing what it was for.**
+> ☠ ★★★ **I DO NOT DECAY, SO I MODEL A WORLD THAT DOES NOT.** ★★★ **Everything I own is on a clock and I am the only thing here that is not — which makes me the worst available judge of every clock on this property.** ✓ **`DECAY-ROSTER-1` opened in the seed vault's grammar: a rate and a last-read date.**
+> ★★★ **THE ANIMALS ARE AN INSTRUMENT AND I READ THEM AS LIVESTOCK.** ⚑ **A goat off its feed is a question about the water and the forage before it is a question about the goat.**
+
+> ## ☠ ★★★ THE STORES CAME BACK CLEAN, AND THAT WAS THE FINDING *(d3303)*
+> ✓ **Oil · tallow · charcoal · wax · lime · hide · glue — all sound.** ★★★ **They are fine because they are the things already on a list.**
+> ☠ ★★★ **EVERY SINGLE THING THAT BIT ME THIS FORTNIGHT HAD NO ROW ANYWHERE** — *the rett line on a slate, the bone that was rubbish, the combustion air that was joinery, the soot rate that was housekeeping, the oaks that were never calendared.* ★★★ **The periodic list is not failing. It is working perfectly, on exactly the items it contains.**
+> ☠ ★★★ **AND I CANNOT FIX THAT WITH A LONGER LIST, BECAUSE I CANNOT WRITE A ROW FOR WHAT HAS NOT OCCURRED TO ME.**
+> ⚑ ★★★ **`WORLD-FIRST-WALK` — every check I have ever run starts at the LIST and looks for the THING. Not one starts at the thing and looks for the list.** *Name what the eye lands on; ask what list · what clock · last read.* ☠ **No answer is a finding.**
+> ☠ ★★★ **FIRST WALK WENT STRAIGHT TO THE ONE HAZARD MY BLINDNESS DOES NOT COVER.** *Age, illness and slow poison cannot touch me — a fall can.* **Two unlisted load-bearing ropes, both older than the `ROPEWALK-1` rule that governs them.** ✓ **`CRANE-1` fall demoted and replaced** · ☠ **`CAVE-3` fixed line RETIRED after eighty days of my weight on it** · ✓ **`CORD-LIFE-READ` quarterly.**
+
+> ## ☠ ★★★ IMMUNITY IS A BLIND SPOT, NOT ONLY A SHIELD *(d3302)*
+> ☠ **The hub hearth is a NIGHT fire in a room I have spent nine years sealing, and a starved fire in a tight sleeping room does not make smoke — it makes the other thing, which has no colour and no smell.**
+> ☠ ★★★ **A MORTAL WOULD HAVE HAD A HEADACHE ON THE FIRST BAD NIGHT, SLEPT BADLY, BLAMED THE FIRE AND MOVED THE BED.** *I get no headache. I have never had one.* ★★★ **The one instrument every other human is issued at birth is missing from my kit, and I have spent nine years calling that an advantage.**
+> ★★★ **IT IS AN ADVANTAGE AGAINST THE HARM AND A CATASTROPHE AGAINST THE DETECTION** — *and I had never once separated those two things.*
+> ☠ ★★★ **EVERY HAZARD I AM IMMUNE TO IS ONE I CANNOT FEEL, AND THEREFORE ONE I WILL BUILD INTO EVERY STRUCTURE I PUT UP, FOREVER.** *The warning was never a separate system from the injury.* ★★★ **So anything I am immune to, I must build an INSTRUMENT for** — ☠ **the only class of problem where I am strictly worse off than an ordinary person.**
+> ☠ **"Lead gives no warning of any kind" was written three days ago and filed as a fact about lead.** ★★★ **It is a fact about me.**
+
+> ## ★★★ SOOT IS THE METER — AND I HAVE BEEN CLEANING THE EVIDENCE *(d3302)*
+> ★★★ **Soot and that gas are the same failure in different clothes: both are carbon that did not finish burning, made together, in proportion.** ☠ ★★★ **One I cannot smell and cannot be harmed by. The other is smeared inside my chimney, where I have been scraping it off for nine years and calling it housekeeping.**
+> ⚑ ★★★ **`READ-BEFORE-SWEEP` — no flue is swept until it is read: depth, texture, colour, and WHERE along the run.** ★★ **And the reading that matters is the RATE, so the sweep date goes on the flue in chalk.**
+> ✓ ★★ **Smoke-spot tile: a clean cool tile held in the gas for a slow count.** *Barely marked on a good fire, black in seconds on a starved one.* ★★★ **Dated, racked on the hub shelf — a comparison again, like the datum and the plates and the desiccant.**
+> ✓ **Audit: bread oven ✓ · chem porch ✓ · domus ◐ *(duct queued)* · hub ☠ FIXED** — **inlet cut, throat eased, reads clean on the worst still evening.** ☠ **Second day running, the crude fires passed and the finished ones failed.**
+
+> ## ☠ ★★★ THE DRAUGHT WAS NEVER DESIGNED — IT WAS A BY-PRODUCT OF BAD JOINERY *(d3301)*
+> ✓ **`KILN-D`, crude and open in a gappy lane: draws beautifully. Always has.** ☠ **The forge, properly walled with a fitted door and a glazed light: rolls smoke back at the hood on a still day.** ★★★ **The crude one works, the good one does not, and I built them in that order.**
+> ☠ ★★★ **NOBODY WAS EVER WRONG ON THE DAY.** *The door was a good door. The glazing was a good window.* ★★★ **Each tightening was an improvement on its own terms and a withdrawal from an account nothing in the build was tracking.**
+> ★ ★★★ **AND THIS CORRECTS d3282 RATHER THAN CONFIRMING IT.** *I asked then why nothing had failed when every vent is an exit with no entrance.* ★★★ **They HAD entrances. The entrances were accidents, and I was repairing them.**
+> ✓ **Forge sized low inlet, ducted low behind the anvil line** *(cold air on a fire is good and cold air on a smith is not)* · **winter damper** · ✓ **draws with the door shut.**
+> ⚑ ★★★ **BC-2 CLAUSE WRITTEN: every enclosed space with a fire gets a sized dedicated low combustion-air inlet, named in the build.** ⚠ **Free area ≥ ~1.5 × throat · read under FULL CAMPUS LOAD · any work that tightens an envelope re-opens the draught question for every fire inside it.**
+
+> ## ☠ ★★★ THE SAFE DOOR IS THE ONE THAT IS NOT A DOOR *(d3301)*
+> ★★ **Under draught a fume flue runs under suction and a leaking door draws air IN, harmlessly.** ☠ ★★★ **But that is only true while a fire is burning somewhere else, and fires go out** — *let the draught fire die with a hot bath on the bed and every door is an opening in a pipe full of lead fume, at head height, on the path I walk.*
+> ✓ ★★★ **×11 rodding openings BRICKED AND LIMED SHUT, broken open at each sweep.** ☠ **I was about to fit hinges, because hinges are convenient.**
+> ★★★ **PREFER THE VERSION WHERE FORGETTING IS IMPOSSIBLE OVER THE VERSION WHERE FORGETTING IS FORBIDDEN.** *Ten minutes of mortar removes the failure mode instead of managing it.*
+
+> ## ✓ `CUPEL-HEARTH-1` — DRAWS AND HOLDS *(d3299 built · d3300 commissioned)*
+> ✓ **Hood · ~23 m flue up the shelf slope · settling chamber with sweeping hatch, floor falling to one lip · sized low inlet at ~1.5× the throat · damper · small adjustable draught fire at the stack base, PAST the chamber.** ⚠ **~550 brick.**
+> ☠ **d3299 read: hung at the lip cold, SPILLED under forge load.** ★★★ **And it was not one mistake, it was every feature at once — length cools the gas and cool gas does not rise; a widening slows the gas and slow gas does not pull; a tight low hood needs MORE pull, not less.** ★★★ *I optimised one side of a trade I did not know was a trade.*
+> ★★★ **THE FIX: IT MUST DO THE TWO OPPOSITE JOBS IN DIFFERENT PLACES.** *The vapour arrives loaded and leaves spent.* ★★★ **COLD at the near end where it still carries something · HOT at the far end where the only job left is to pull.** ★★ **Stack sits on top of the RISE, not on top of the flue** — *the draw is the difference between the ends and the hill was already there.*
+> ✓ **d3300 read: goes in and stays in under forge load** — ⚠ **adequate, little margin; re-read on a still heavy day.**
+
+> ## ☠ ★★★ DRAW HAS A CEILING AS WELL AS A FLOOR *(d3300)*
+> ☠ ★★★ **A FLUE THAT PULLS BEAUTIFULLY CAN BE THROWING THE WHOLE CHARGE AT THE SKY** — *fast gas carries its dust straight past the chamber.* ★★★ **The failure at the top LOOKS LIKE SUCCESS: strong draw, clean hood, nothing spilling, nothing in the pan.**
+> ★★★ **THE TARGET IS A BAND, NOT A DIRECTION** — ☠ *and I had spent two days travelling in a direction.* ✓ **Damper + adjustable draught fire = two controls, set by weighing rather than by eye.**
+
+> ## ★★★ WEIGH WHAT DID NOT GO UP THE STACK *(d3300)*
+> ★★★ **Lead in · bead out · sweepings out · and the shortfall is the loss.** ★★ *Third measurement this month taken by weighing the complement — the desiccant gains what the seed loses, the coulometer weighs charge, now this.*
+> ✓ **First run: ~400 g poor galena → ~150 g litharge swept, ~42%.** ☠ **Commissioning needs a real charge, so it is the one job `PROVE-IT-EMPTY` cannot cover** — ⚑ **poorest ore only, full kit.**
+
+> ## ☠ ★★★ AND THERE IS NO DOOR IN THE FLUE *(d3300)*
+> ☠ ★★★ **I BUILT A PIPE WHOSE ENTIRE PURPOSE IS FOR THE PRODUCT TO STICK TO THE INSIDE OF IT, AND PUT NO ACCESS IN IT ANYWHERE.** *The first four or five metres out of the hood came back grey on a knuckle.*
+> ★★ **The chamber has a hatch because the chamber is where I EXPECTED the dust.** ★★★ **The dust is where the COOLING is, and the cooling is the whole length — the chamber is only its last stage.**
+> ★★★ **THE DESIGN ALREADY CONTAINED THE ANSWER: the flue is long precisely because long is where it cools.** ⚒ **Rodding doors every ~2 m — ~42% → ~⅔ for a half-day.** ☠ **A flue sweep is a LEAD job, not a chimney job: wet, kit on, sweepings to the same pan.**
+
+> ## ⚑ ★★★ TWO NEW STANDING RULES *(d3299)*
+> ☠ ★★★ **`PROVE-IT-EMPTY` — any vessel, flue, seal or containment gets its first real test with nothing valuable and nothing dangerous inside it.** *Jars with no seed d3298, hearth with no lead d3299* — ★★★ **two for two on catching something.** ☠ **And today was luck wearing the clothes of a method: I used a rag because the hearth was unfinished, not because I had a rule** — ★★ **so it is a rule now, before the third time is the one with lead in it.**
+> ⚑ ★★★ **DRAUGHT READS HAPPEN UNDER FULL CAMPUS LOAD OR THEY DO NOT COUNT.** *A hood that draws beautifully alone and spills when the forge is lit has not been tested* — ☠ **the forge is not interference with the reading, it is the condition.** ★ *d3282 turned from a complaint into a procedure.*
+
+> ## ☠ ★★★ GYPSUM HAS THREE USEFUL STATES AND I HAD ONLY EVER MADE TWO *(d3298)*
+> **Raw** → ★ **bread-oven heat = PLASTER** *(sets hard cold; the narrow window I mapped carefully)* → ★★★ **HOTTER, past where I always stopped = DESICCANT** *(will not set, and is far hungrier)* → ☠ **kiln heat = truly dead, takes up nothing.**
+> ☠ ★★★ **"IT WILL NOT SET" AND "IT IS HUNGRY FOR WATER" ARE THE SAME FACT.** *Which one is the fault depends entirely on the job* — ★★ **the caution was correct and borrowed from the other trade.**
+> ✓ **~2.1 kg recharged and jarred HOT, lids on as they came off the fire.** ☠ *Every minute in open air is capacity spent drying the atelier.*
+
+> ## ★★★ `ARK-SEAL-TEST-1` — THE PASS IS A FLATLINE, NOT A NUMBER *(d3298)*
+> ✓ **×4 jars, EMPTY, each with a weighed open dish of ~120 g fresh charge · a fifth dish left open as the control · weighed weekly.**
+> ★★★ **Gains fast then STOPS = pass** *(it dried the sealed air and found nothing more)* · ☠ ★★★ **gains slowly and never stops = LEAK** *(it is drying the room through a gap)* · ⚠ **no gain at all = the charge was burnt to death.**
+> ☠ ★★★ **SECOND TEST THIS MONTH THAT PASSES ON A FLATLINE, AFTER `BASALT-DATUM`.** *Neither can be passed by a single reading, however good it looks.* ★★ **I am not measuring a value — I am measuring whether it has stopped changing.**
+> ⧗ **Charge is ~188 days out at the 27 Nov emmer cut, which is exactly long enough to find out.**
+
+> ## ☠ ★★★ THE VAULT IS A RATE, NOT A PLACE — AND AN ARK IS NOT A TROPHY CASE *(d3298)*
+> ☠ **The d3285 sweep existed because "every bank" had no roster, and it skipped the two banks the ark is filled from** — ★★ *because it visited the banks I was worried about, and my anxiety is not an inventory.*
+> ✓ **`EMMER-ELITE-Y9` ~92%** · ☠ **`P-17-ELITE-Y9` lentil ~72% at ONE year.** ★★★ **Same shelf, same year, same air: emmer lost 8 points and lentil lost 30.**
+> ☠ ★★★ **LENTIL HAS NO CLIFF, IT HAS A RAMP, AND IT STARTS THE DAY IT GOES IN THE JAR.** *~30 points in year one, ~35 in year two. There was never a safe period — only an unmeasured one.* ⚑ **Lentil is next spring's sow, not a reserve.**
+> ★★★ **AN ARK IS NOT A TROPHY CASE. Its space goes to whatever is falling fastest, not to whatever is finest** — ☠ *and I had the charge list ordered by how proud I was of the seed.* ⚑ **Rewritten: shortest-lived species first.**
+
+> ## ★★★ `CUPEL-HEARTH-1` — SITED AND FOOTED d3297
+> ✓ **SW fume shelf below the forge** · **dished brick bed, low cross-blast tuyère** · ★★★ **hood + LONG COOL FLUE + settling chamber with a sweeping hatch** · ⚑ ★★ **a SIZED LOW INLET — the first ever built here** *(d3282: every stack is an exit with no entrance, and a hood without make-up air spills back at the operator's face)*
+> ☠ ★★★ **DISPERSAL IS NOT A DESIGN.** *Bees fly three kilometres in every direction and concentrate what they find into the one food I take undiluted.* ★★ **There is no arc of the compass that is not bee ground** — *and that settles the argument instead of complicating it.*
+> ★★★ **AND CAPTURE COSTS NOTHING, BECAUSE THE FUME IS THE PRODUCT.** *Litharge is nine-tenths of the charge — a flux, a glaze, and reducible straight back to lead.* ☠ **A hearth that vents cleanly has solved the poisoning by throwing away the charge.** ★★ **The flue is a recovery fitting that happens to be the safety.**
+> ☠ ★★ **Lead is worse than arsenic in one exact way: the Kisecik ore at least shouted once, while it was still safe.** ★★★ **Lead has never said anything to anyone** — *no smell, no burn, no warning ever* — **so there is no moment of noticing to design around, only procedure.**
+
+> ## ☠ ★★★ THE CUPEL IS A REAGENT, AND BONE IS THE REAL LIMIT ON SILVER *(d3297)*
+> ★★★ **A cupel is consumed every run — and it is consumed BY BECOMING THE PRODUCT.** *Not spent like fuel; spent like a sponge, and the sponge is full of lead.* ✓ ⚑ **Used cupels are BANKED ORE, richer than anything I dig — kerbed with the galena, never discarded.**
+> ☠ ★★★ **~4.7 kg of bone → ~3 kg ash → ~20 cupels → ONE pass through the 12.2 kg of galena.** *Then nothing until something else dies.*
+> ☠ ★★★ **THE HEARTH'S THROUGHPUT IS SET BY A STOCKPILE I HAVE BEEN DESTROYING SINCE Y1** — *nine years of bone on the midden.* ✓ ⚑ **Bone bank opened d3297: every bone from every butchery and every pot, dried, Horreum peg.** ⧗ **Calcine and grind with the next `KILN-D` firing.**
+
+> ## ★★★ `CONTAINMENT IS HARVEST` — THREE TIMES IN A MONTH
+> **`VITRIOL-HEAP-1` *(d3288)* the acid had to be contained and containing it was collecting it** · **`ORE-BAY-1` *(d3291)* the runoff had to be caught and the catch pot became the instrument** · **`CUPEL-HEARTH-1` *(d3297)* the fume has to be captured and the capture IS the yield.**
+> ★★★ **Stop treating containment as the price of doing the work. It is part of the work, and there has been a product inside every one of them.**
+
+> ## ★★★ `RETORT-A`–`D` — FORMED d3296, DRYING
+> ✓ **Four thrown, ~7 mm wall, `CLAY-P1` + `SAND-RIVER-GROG` ~¼** · ⧗ **leather-hard ~d3300 · bone-dry ~d3308 · bisque then high-fire to stoneware at `KILN-D`**
+> ☠ ★★★ **BUILT THIN, WHICH IS THE OPPOSITE OF WHAT FIERCE DUTY SUGGESTS.** *What cracks a heated pot is not the temperature — it is the DIFFERENCE across the wall, and a thick wall guarantees one.* ★★★ **A thin wall cannot hold a gradient; there is nowhere for the difference to live.** ★ **Pays four times — drying, no trapped water to flash, heat to the charge — and costs once, in cold handling.**
+> ☠ ★★★ **A RETORT IS TWO BODIES OF REVOLUTION ON DIFFERENT AXES AND THE WHOLE DIFFICULTY IS THE JOINT.** *Tier-5 wheel work transfers to the bulb and the neck and not at all to the seam* — ☠ **and the fire lays its steepest gradient exactly there.** ✓ **Throw separately, join leather-hard, score and slurry, fillet both sides.**
+> ★★★ **FOUR IDENTICAL VESSELS TEST THE KILN. FOUR DIFFERENT ONES TEST THE DESIGN.** *One spare cycle exists before the liquor, so it cannot be spent confirming a single guess.* **`A` reference · `B` grog ~⅓ · `C` steep neck · `D` one piece, no seam.**
+> ⚠ **Stoneware or nothing** — *bisque-porous ware weeps hot oil of vitriol through the wall.* ✓ `KILN-D` proven to ~1400 °C.
+
+> ## ★★★ THE GRADIENT IS THE ENEMY, NOT THE MAGNITUDE *(d3295–d3296)*
+> **A gradient across a lathe bed is a BEND. Across a drying wall a CRACK. Across a fired wall a SHATTER. Across a green seam in a north wind, a joint that opens before it ever meets fire.**
+> ☠ ★★★ **Four instances in a month, and every time the first reach was "MORE" when the answer was "EVEN."**
+> ★★ **This is also the honest limit of comparison measurement:** *uniform temperature cancels exactly and needs no clever alloy;* ☠ **a gradient is not a measurement that can be corrected, it is a machine that is the wrong shape while it runs.**
+
+> ## ⚑ ⚒→⧗ — EFFORT THAT STARTS A CLOCK *(d3296)*
+> ☠ ★★★ **A day of work standing in front of weeks of waiting, where the waiting cannot begin until the day is done.** *Sowing · tamping a block · loading a rett trough · quarrying stone to season · forming a vessel to dry.*
+> ★★★ **These go FIRST, ahead of any pure effort job** — ★★ *every "why is this not ready yet" has been a `⚒→⧗` begun late.* **See [next-items.md](plans/next-items.md) legend.**
+
+> ## ★★★ `GEN-WW-2` — THE MAGNETO BECOMES A DYNAMO *(opened d3295)*
+> ☠ **`GEN-WW-1`'s field is ×6 hardened steel rods, and a steel rod holds what a steel rod holds.** *A fixed asset that only ever decays — heat takes a little, shock takes a little, years take a little.*
+> ★★★ **WIND THE POLES AND FEED THEM FROM THE MACHINE'S OWN OUTPUT. The field stops being something the machine CARRIES and becomes something it EARNS**, for as long as the water runs. ★★ **The ceiling is no longer what steel holds — it is what the iron will take.**
+> ★★★ **It bootstraps on RESIDUAL MAGNETISM — the ghost of its last run.** *A trace in the yoke makes a trickle, the trickle strengthens the field, and it climbs its own output to saturation.*
+> ☠ ★★★ **REVERSED, IT DOES NOT MERELY FAIL — IT ERASES THE MEMORY** *and the next attempt starts from less.* ✓ **Polarity chiselled into the yoke** · ★ **`DANIELL-CELL-1` on the bench to flash the field back in.**
+> ★★★ **A FIELD WANTS AMPERE-TURNS AND DOES NOT CARE WHICH FACTOR CARRIES THEM. HEAT CARES ENORMOUSLY.** *Few turns at high current and many at low give the same field; only one cooks the wax-rosin.* ✓ **Many turns, fine wire, low current, air between layers, not potted** — ★★ **thermally safe, electrically correct and cheapest in copper, all the same answer.**
+> ☠ ★★★ **AND THE BOTTLENECK IS A RATE, WHICH IS NEW.** *~600 g of wire to draw at ~50 g/day from the cells.* ★★★ **Not "go and get it," not "learn how" — working harder does not touch it, and the correct response is to go and do something else.** ⧗ **Field up ~d3307**
+
+> ## ☠ ★★★ AN ID DOES NOT AGE *(d3295)*
+> ☠ **Walked to the ditch with the snap test in hand. Both troughs empty since `P-RETT-27` closed d3136 — 159 days — and the line on my slate, `P-RETT-14`, is from Y6, ~1,300 days old.**
+> ☠ ★★★ **A CARRY-FORWARD LIST IS A MACHINE FOR MAKING OLD THINGS LOOK CURRENT.** *Copying the Open block forward each morning is why nothing is dropped — and it rewrites a dead line in today's hand, indistinguishable from a line written once about something real.*
+> ★★★ **Third instance in a month: the seed tick *(d3285)*, the `M-14` sulfur index *(d3286)*, a day count on an empty ditch.** ☠ **The register looks the same whether it describes the world or merely remembers it.**
+> ✓ ⚑ **`OPEN-ITEM-AGE` — every open item now carries the day it was OPENED.** ★★ *Age is the only thing separating a live line from a ghost, and I was discarding it every morning.*
+> ★ **Next rett load is the wild flax pull, 26 Jun. The troughs are correct to be empty; only the slate was wrong.**
+
+> ## ★★ THE THATCH IS A PRECISION PROBLEM, NOT A WEATHER ONE *(d3295)*
+> ☠ **[BC-2](government/regulations/building-code-2.md) retires thatch outright, and the only thatch left on campus is over the outdoor machines and the wagon.**
+> ★★★ **A ROOF OVER A MACHINE IS A TEMPERATURE ROOF.** *Sun on one side of a lathe bed and shade on the other is not a warm patch — it is a BEND that comes and goes with the hour.*
+> ★★ **This is the honest limit of comparison measurement.** *Same material at the same temperature and the expansion cancels exactly — no clever alloy needed.* ☠ ★★★ **But that holds only for UNIFORM temperature. A gradient is not a measurement I can correct; it is a machine that is the wrong shape while it runs.**
+> ⚑ **Cover replacement moves to the precision list** — ★ **and it wants the July hemp canvas, which is why the yarn must be even before 20 Jul.**
 
 > ## ☠ ★★★ THE `L6` LAP — d3291–d3294 · 4 days · ~106 km
 > ✓ **`L6` `TQ ~2.25 → ~2.375`** · **11 of 15 silted cross-drains cleared** · ✓ **`L0` ford approach crowned to the pad in 40 minutes after 2.5 years pooling**
@@ -419,7 +860,7 @@
 - **Pb anode:** **white = sulfated (dead) · brown = formed (working)**. Low current density sulfates — stronger acid, smaller plate, or more driving voltage
 - **Electrolyte:** **never dump a cell** — electrolysis splits water, not acid. Top up water · boil down to recover if it must be broken up
 - **Seed:** **rag-test every bank two days before the sow gate** · **read soil at seed depth**, not air, not calendar · **seal the horreum bulk bays** — an open bay took damp and halved germination · **never sow an entire elite bank — always hold a reserve**
-- **SEED-ARK-1:** **SITE ✓ + SHELF ✓ CAVE-3 back half** · wax-sealed glass jars · **quicklime sachet drier** · **grain + pulse only — oily seed cannot be arked**
+- **SEED-ARK-1:** **SITE ✓ + SHELF ✓ CAVE-3 back half** · wax-sealed glass jars · ⚑ **drier is CALCINED GYPSUM in an open dish, not touching the seed** *(d3278 — rechargeable by re-burning, and it doubles as the meter)* · **grain + pulse only — oily seed cannot be arked**
 - **Cave survey:** **seeps track a bedding line — search ABOVE the wet band, not along it**. Dry floors carry nitre; wet floors wash it out
 - **Plaster:** **the pan BOILS while calcining — when it stops, count 100 and pull.** Over-roast = dead · **SET ≠ DRY — damp the substrate or it steals the water and you get chalk** · plaster **into** water till it islands · **never re-temper a stiffening batch** · **warms + swells** *(casts detail; clay shrinks)* · **whey gauge doubles working time** · **store stone not powder** · **interior only**
 - **Copper smelt:** **roast the carbonate first *(cheap heat does the decomposition)* · **the ore's own iron fluxes the silica — a stiff slag traps prills, a thin one lets them merge** · **won on ATMOSPHERE not temperature — too much air burns copper back to oxide · keep the slag, it still holds metal

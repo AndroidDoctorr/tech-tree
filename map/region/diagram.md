@@ -140,9 +140,23 @@ Canonical numbers live in [trails-and-bridges.md](trails-and-bridges.md) and [re
 
 ## ★★★ What the diagram shows that the table hid
 
-> ☠ ★★★ **THE ROAD IS WORST WHERE IT IS BUSIEST. Every single leg inside 30 km is below its standard, and almost every leg beyond 80 km meets its own.**
+> ⚠ **SUPERSEDED FOR `L0`–`L4` BY THE d3319 `W90` READ.** `TQ` was a visual opinion, not a load measurement. Keep the table below only as the historical reason the core lap was opened.
 
-**Ranked by deficit against the tier standard, not by absolute grade:**
+**Current dry core-route capacity, 90 kg north-run load, current worst 40 paces, both directions averaged:**
+
+| Leg | `W90` | Read |
+|---|---:|---|
+| ✓ `L0` | **33 paces dry-certified d3323** | ✓ **Gap-graded fill rebuilt · 22 before repair** |
+| ☠ `L2` | **31** | **Route bottleneck · measured, not urgent** |
+| `L3` | **33** | Poor+ |
+| `L4` | **46** | Good |
+| ✓ `L1` | **56** | **Best · d3316 repair passed** |
+
+★★★ **Fixed `S` strips and movable `W90` strips are separate series.** *Fixed measures change; worst-place measures capacity. Never move the sentinel cairns.*
+
+✓ **d3323 dry confirmation: `L0` held at 33 after the d3321 wet provisional 35.** ★★★ **Core-route bottleneck moved to `L2` at 31; road READY for the stated north-run load.**
+
+**Historical `TQ` deficit ranking:**
 
 | Rank | Leg | km band | `TQ` | Need | ☠ **Deficit** | Last touched |
 |---|---|---|---|---|---|---|

@@ -103,7 +103,7 @@ What the wheels actually drive.
 | `TRIP-HAMMER-1` | ✓ 100% **d973** · moved to a `WW-2` belt **d1893** |
 | **Ore crusher link** | ✓ **d973** |
 | `LAB-VENT-FAN-1` | ✓ Built on `WW-1` **d836** · **relocated to the chem hood on the `WW-2` belt d1954** |
-| `KILN-D` plenum link | ✓ **d2530** |
+| `KILN-D` | ✓ **Plenum link d2530** · ✓ **`STACK-2` d3324: ~4.15 m, symmetric terminal ~1.6× bore, three-stop damper** · ⧗ *full hot proof at next stoneware fire* |
 | `GEN-WW-1` | ✓ **d3248** · magneto on a `WW-2` collar — **drives `CU-CELL-1` from d3258** |
 | `HYDRO-ELEC-1` | ◌ **Never built.** Phase 4 horizon only |
 
