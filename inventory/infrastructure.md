@@ -109,7 +109,7 @@ Map: kiln terrace · Original stack: d2516–d2529 · Upgraded: d3324
 
 ★★★ **The plenum pushes and the stack pulls; the chamber must remain slightly negative.** Height supplies pressure margin. Damper + plenum bleed set the operating point.
 
-✓ Cold smoke and low draught fire PASS d3324. ⧗ **Full cone/fuel/door-seam proof at the next stoneware fire after mortar cure.**
+✓ Cold smoke and low draught fire PASS d3324. ◐ Partial hot proof d3331 at bisque band. ✓ **Full hot proof PASS d3332 at stoneware hold** — cone · seam · plenum · damper · fuel curve logged together.
 
 ### `KILN-D-PLENUM-1` — kiln D air plenum
 Map: belt tree · Built: d2530
@@ -123,11 +123,12 @@ Map: `WW-2` wheelhouse · Built: d3248 · Air gap closed: d3249 · Field up: d32
 
 The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armature on a laminated core, 5-segment commutator with brushes tuned **under load**, concave pole faces shimmed to just over measured runout.
 
-| Reading | Open | Loaded |
+| Reading | Open | Loaded / notes |
 |---|---|---|
 | d3249 build | ~1.85 GB | ~1.40 GB · ~0.55 I · ~2.4 R |
 | d3261 field up *(×6 rods, yoke shortened)* | 2.28 GB | 1.72 GB **(+23%)** |
-| d3267 `ARMATURE-2` | 4.31 GB | 8.6 R · peak 0.54 GB·I |
+| d3267 `ARMATURE-2` *(magneto)* | 4.31 GB | ~8.6 R · peak **~0.54 GB·I** |
+| ✓ **d3336 `GEN-WW-2` shunt field** | **~8.5 GB** | **~8.6 R** · **~0.99 I** short · peak **~2.1 GB·I** @ ~8.6 R · **`WATER-CELL-1` supply-class** |
 
 ★★ **Epic closed d3258** — 6 h under real duty driving `CU-CELL-1`, no fault.
 

@@ -111,12 +111,12 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 
 | ID | Tool | Where | State |
 |---|---|---|---|
-| `RETORT-A` | Thin stoneware acid retort · ~¼ grog | Chem fire-table | **Batch 1 d3317 · visibly etched, serviceable** · count scratched on foot |
-| `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Clean reference shelf | **Fresh reference** · next acid run measures grog effect |
+| `RETORT-A` | Thin stoneware acid retort · ~¼ grog | Chem fire-table | **Batch 1 d3317 · etched · spent-rate witness** · foot **1** |
+| `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Chem fire-table | ✓ **Batch 1 d3335 · lighter etch than `A` · acid reference** · foot **1** |
 | `RETORT-C` · `D` | Thick-wall design trials | Reject stack | ×0 · cracked in stoneware fire d3311 |
 | `RECEIVER-1` | Thin stoneware receiver · loose-neck sand-seal seat | Chem fire-table | Live · rings clean |
-| `RETORT-E` · `F` | Production retorts · ~7 mm · ~¼ grog | Cool-store drying crate | ✓ **Even d3323, joints closed** · crate open under shade cloth · next read d3326, target ~d3330 |
-| `RETORT-G` · `H` | Production retorts · ~7 mm · ~⅓ grog | Cool-store drying crate | ✓ **Even d3323, fractionally ahead but stable** · next read d3326, target ~d3330 |
+| `RETORT-E` · `F` | Production retorts · ~7 mm · ~¼ grog | Chem fire-table | ✓ **Stoneware sound d3332** · ✓ **acid recipe locked to ~⅓ grog thin (`B` class) d3335** |
+| `RETORT-G` · `H` | Production retorts · ~7 mm · ~⅓ grog | Chem fire-table | ✓ **Stoneware sound d3332** · duller ring · same acid gate |
 
 ## Bottles
 

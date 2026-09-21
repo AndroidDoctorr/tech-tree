@@ -2,7 +2,55 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3325** · Cal-Y10 D180 · ~20 Jun · **Bed A fava close** · ✓ ★★★ **FOOD-PICK CLOSED · SEED STRIP STANDING**
+**Day 3353** · Cal-Y10 D208 · ~18 Jul · **Chip trial + farm scare**
+
+> ## ✓ **`GARNIERITE-CHIP-M24-3` trial *(d3353)*
+> ◐ **≈ `CU-NI-TRIAL-M24-C` on bridge · north ribbon still scale-up face.** ✓ **`CU-NI-TRIAL-M24-D` banked.**
+
+> ## ✓ **Farm scare *(d3353)*
+> ✓ **`P-RETT-29` pulled → `W-1` · pool empty.** ⚠ **`DRY-LEVELS` fired.** ⧗ **Lap 3 flax before load `P-RETT-30`.**
+
+> ## ✓ **`ISLAHIYE-GARNIERITE-HAUL-Y10` CLOSED *(d3352)*
+> ✓ **`GARNIERITE-BULK-M24-1` ~31 kg @ forge staging.**
+
+> ## ✓ **`FAVA-SEED-HARVEST-Y10` + `WOAD-LEAF-Y10-1` *(d3345 · shred d3351 neighbor)*
+> ✓ **`P-FAVA-Y10` ~392 g · elite ~38 g banked.** ✓ **`WOAD-RESERVE` ~385 g after shred.**
+
+> ## ✓ **`M-24` nickel assay *(d3344)*
+> ✓ **Ash enriched vs blank · garnierite `M24-2` wins Cu–Ni trial on bridge.**
+> ✓ **Haul d3350–d3351:** **`GARNIERITE-BULK-M24-1` ~31 kg** · **`M24-3` chip ◐ ≈ ribbon on bridge d3353** · ⚑ **bulk assay / reduction when queue allows**
+
+> ## ✓ **`FLAX-PULL-WILD-Y10-L2` · rett *(d3343)*
+> ✓ **~3.1 kg lap 2 · `P-RETT-28` pulled · `P-RETT-29` loaded.**
+
+> ## ✓ **FARM-CARE + periodic sweep *(d3342)*
+> ✓ **Fork loop · goats · holding scrape · nitre turn · apiary · cells · smoke-spot · snails.**
+> ⧗ **`W-1` dry queue · lap 1–2 rett pulled · break/heckle defer**
+
+> ## ✓ **`BASALT-DATUM` turned *(d3342)* — blocks still settling · no lap yet.
+
+> ## ✓ **`ISLAHIYE-NICKEL-SCOUT-Y10` CLOSED *(d3341)* · **`ISLAHIYE-GARNIERITE-HAUL-Y10` CLOSED *(d3352)*
+
+> ## ✓ **`GEN-WW-2` measured *(d3336)*
+> ✓ **~8.5 GB open · ~8.6 R internal · ~0.99 I short · peak ~2.1 GB·I** *(~4× magneto peak).*
+> ✓ **`WATER-CELL-1` above decomposition threshold at matched load · `CU-CELL` series ~3.8 GB · wheel droop ~8%.**
+> ★★ **Next gains are head and field, not armature turns.**
+
+> ## ✓ **`RETORT-B` vs `A` — acid reference locked *(d3335)*
+> ✓ **Batch 1 on `B` · lighter etch than etched `A` at same strength.** **~⅓ grog thin wall is the working acid recipe.**
+> ✓ **`ACID-VITRIOL-2` banked · `CHAR-LANE` −2.4 kg.**
+
+> ## ✓ **`GRAPE-CLUSTER-THIN-Y10` closed *(d3314 set + d3335 touch-up)*
+> ✓ **Main cordon holds June thin · renewal arm overload trimmed.**
+
+> ## ✓ **`FLAX-PULL-WILD` lap 1 · `P-RETT-28` *(d3333)*
+> ✓ **~3.4 kg ditch W / T-1 · not field flax.** **`P-RETT-29` submerged after d3343 pull.**
+
+> ## ✓ **`FAVA-SEED-HARVEST-Y10` closed *(d3345)*
+> ✓ **`P-FAVA-Y10` banked · Bed A west fallow · nodules left in ground.**
+
+> ## ✓ `RETORT-E`–`H` STONEWARE *(d3332)*
+> ✓ **`NORTH-RUN-Y10` CLOSED** — **`M-26` sampled · `L6` partial.**
 
 > ## ✓ ★★★ FAVA FOOD-PICK CLOSED *(d3325)*
 > ☠ **Only ~25 g of `P-FAVA-Y9` remains behind this crop. Picking every last pod would close the food harvest by spending next year's sowing stock.**
@@ -31,9 +79,8 @@
 > ✓ **Core `W90`: `L2` 31 · `L0` 33 · `L3` 33 · `L4` 46 · `L1` 56.** ★★★ **The route bottleneck moved to `L2`, and the core road is READY for the north-run 90 kg load.**
 > ☠ **A ranking always has a last place; last does not mean broken.** ★★ **The test finds the limit. It does not create a duty to remove every limit it finds.**
 
-> ## ✓ `RETORT-E`–`H` STILL DRYING EVENLY *(d3323)*
-> ✓ **All joints closed; no hairlines; high-grog `G/H` slightly ahead but the gap is stable.** Crate open, direct draft shaded.
-> ⧗ **Next read d3326 · bone-dry target ~d3330.**
+> ## ✓ `RETORT-E`–`H` READ — HOLD TO ~d3330 *(d3326)*
+> ✓ **Bulbs hard; necks still lagging. Not bone-dry — no bisque.** ⧗ **Next read d3329.**
 
 > ## ☠ ★★★ TWO JARS LEAKED FOR TWO DIFFERENT REASONS *(d3322)*
 > **`ARK-JAR-2`: ceramic contact nearly continuous, but a radial cold joint crossed the wax gasket.** **`ARK-JAR-3`: gasket continuous, but a high sector interrupted the ceramic contact ring.**

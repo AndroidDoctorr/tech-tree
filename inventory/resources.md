@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | ~31.8 kg | Char lane | | d3190 |
+| `CHAR-LANE` | Charcoal, oak · green | ~10.8 kg | Char lane | | d3353 |
 | `CHAR-RESERVE-C` | Charcoal reserve | ~37 kg | Store C vault | | — |
-| `WOOD-OAK-P5` | Oak, green | ~29.9 kg | Pile 5, camp north face | | d3183 |
+| `WOOD-OAK-P5` | Oak, green | ~20.4 kg | Pile 5, camp north face | | d3333 |
 | `SHIVE-FLAX` | Flax shive | ~6.9 kg | Storage wing | | d3216 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~4.95 kg | Berm | | d3098 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
@@ -22,7 +22,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CLAY-P1` | Clay, raw · green | ~13.2 kg | Pile 1 | | d3324 |
-| `QUARTZ-FACE-B` | Quartz, FACE-B | ~54.1 kg | `STORE-4` | | d2880 |
+| `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | ×0 → slips | — | d3329 | d3331 |
+| `QUARTZ-FACE-B` | Quartz, FACE-B | ~53.85 kg | `STORE-4` | | d3332 |
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
@@ -51,7 +52,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-4` | Kaolin slip · ★ **best** — CAND-4 wash | ~0.62 kg | Chem porch jar | | d2765 |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash d3331** | ~12.1 kg | Chem porch jar | d3331 | d3332 |
+| `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | ~0.15 kg | Chem porch jar | d3331 | d3332 |
+| `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | ~0.35 kg wet | Chem porch separate peg | d3331 | d3331 |
+| `KAOLIN-SLIP-4` | Kaolin slip · ★ **best** — CAND-4 wash | ~0.42 kg | Chem porch jar | | d3332 |
 | `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | ~10.07 kg | Chem porch jar | | d2591 |
 | `KAOLIN-SLIP-2` | Kaolin slip · rank #2 · **lane primary** | ~2.0 kg | Chem porch jar | | d2830 |
 | `KAOLIN-SLIP-1` | Kaolin slip · #2-class bulk — CAND-1 wash | ~1.4 kg | Chem porch jar | | d2580 |
@@ -70,6 +74,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CRUCIBLE-GROG` | Crucible grog, reclaim | ×0 | Berm | | d2504 |
 | `FT-Y8-FLOOR-TILE` | FT-Y8 floor tile, fired PASS · ⚠ FT-Y8-4 and FT-Y8-12 marginal | ×25 *(−×16 laid, culina backsplash checker)* | Bench stack | | d2723 |
 | `PORCELAIN-CHIP-SET-1` | Porcelain chip reference set · stoneware rank | ×10 | `CRAFT-CABINET-2` archive drawer | | d3073 |
+| `PORC-M26-TRIAL-TILES-1` | **`M-26` body trial witness tiles ×3** · ◐ **high stoneware, not porcelain** | ×3 | Craft archive tray | d3332 | d3332 |
 
 ## Ore
 
@@ -85,6 +90,19 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CASSITERITE-CONC` | Cassiterite concentrate · fines-heavy, deferred | ~0.5 kg | Forge staging tray | | d2933 |
 | `PYRITE-KISECIK` | Pyrite, Kisecik fringe · *(+`PYRITE-SPARK-TIN-1` ~22 g at `FK-1`)* | ~0.38 kg | Ore shelf | | d3127 |
 | `M-22-MAGNETITE` | Magnetite · ⚠ amber, low | ~0.38 kg | `FORGE-ORE-TRAY-1` staging | | d3161 |
+| `NICKEL-LATERITE-TRACE-M24-1` | Red laterite dirt · **`M-24` scout** · surface | ~1.18 kg | Chem porch dry queue | d3338 | d3344 |
+| `GARNIERITE-CHIP-M24-1` | Garnierite trace · fracture chip | ~80 g | Chem porch dry queue | d3338 | d3341 |
+| `CHROMITE-POD-M24-1` | Chromite pod fragment · podiform | ~190 g | Chem porch dry queue | d3338 | d3344 |
+| `NICKEL-LATERITE-TRACE-M24-2` | Red laterite dirt · gully **`M-24` pass 2** | ~980 g | Chem porch dry queue | d3339 | d3344 |
+| `GARNIERITE-CHIP-M24-2` | Garnierite · north fracture · pass 2 | ~95 g | Chem porch dry queue | d3339 | d3347 |
+| `GARNIERITE-BULK-M24-1` | Garnierite · **ribbon haul `M24-2`** · fracture chips | ~31 kg | Forge ore staging | d3350 | d3352 |
+| `GARNIERITE-CHIP-M24-3` | Garnierite · **east bench crack** · prospect | ~73 g | Chem porch dry queue | d3350 | d3353 |
+| `NICKEL-LATERITE-TRACE-M24-3` | Red laterite · gully lip · pass 3 | ~450 g | Chem porch dry queue | d3351 | d3351 |
+| `NICKEL-HYPERACCUM-ASH-M24-1` | Ni-indicator plant ash · burned | ~16 g | Chem porch sealed shelf | d3339 | d3344 |
+| `CU-NI-TRIAL-M24-A` | Cu–Ni trial button · **`M24-1` dirt** · weak drift | ~5 g | Bridge trial tray | d3344 | d3344 |
+| `CU-NI-TRIAL-M24-B` | Cu–Ni trial button · **`M24-2` dirt** · ◐ drift | ~6 g | Bridge trial tray | d3344 | d3344 |
+| `CU-NI-TRIAL-M24-C` | Cu–Ni trial button · **`GARNIERITE-M24-2`** · ✓ best drift | ~7 g | Bridge trial tray | d3344 | d3344 |
+| `CU-NI-TRIAL-M24-D` | Cu–Ni trial button · **`GARNIERITE-M24-3`** · ◐ ≈ `C` | ~6 g | Bridge trial tray | d3353 | d3353 |
 | `CACHE-MG1-1` | Ore, dressed and cairned **at the face** — head start on the next run | ~15 kg | MG-1 face | | d3227 |
 | `KOZAN-CHAR-BANK` | Charcoal, Kozan · red | ~0.3 kg | Kiln lee | | — |
 
@@ -92,7 +110,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — ~58 m left in it at 0.9 mm | ~390 g | — | | d3241 |
+| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — ~58 m left in it at 0.9 mm | ~366 g | — | | d3353 |
 | `IRON-BLOOM-1` | Iron bloom, mounted · green | ~720 g | — | | d3246 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
 | `ZNO-CALCINE` | Zinc oxide calcine | ~849 g | — | | d3102 |
@@ -210,7 +228,7 @@ Rope is here rather than in tools because it is measured and consumed. A rope ri
 | `BASALT-BLOCK-1/2/3` | Dyke basalt, fine-grained chilled-margin, Kisecik ophiolite · **all three ring sound** · cut generously oversize | ~130 kg rough | `WW-YARD` | d3264 | d3264 |
 | `LAP-GRIT-1/2/3/4` | Lapping grit, four settled grades coarse → very fine · labelled crocks | ×4 crocks | — | d3264 | d3264 |
 
-⚠ **The basalt is rough now and must season through summer on three points, to be lapped in autumn.** A fresh stone moves for months. Turning and re-reading is `BASALT-DATUM` in [periodic.md](../checklists/periodic.md) — first datum d3268.
+⚠ **The basalt is rough now and must season through summer on three points, to be lapped in autumn.** **`BASALT-DATUM` turn d3342 — still settling; first datum d3268.**
 
 Grits were graded by elutriation, so the settling times are **arbitrary but identical every batch**: repeatable rather than known. Wash between grades.
 
@@ -219,7 +237,8 @@ Grits were graded by elutriation, so the settling times are **arbitrary but iden
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `MADDER-ROOT-DRY` | Madder root, dry | ~238 g | Chem shelf | | d3116 |
-| `WOAD-RESERVE` | Woad, dry | ~230 g | Storage wing dye shelf | | d3185 |
+| `WOAD-RESERVE` | Woad, dry | ~385 g | Storage wing dye shelf | | d3351 |
+| `WOAD-LEAF-Y10-1` | Woad leaves, fresh · **window pull 1** | ×0 spent | — | d3345 | d3351 |
 | `MADDER-DRY-V1` | Madder, dry | ~79 g | v1 chem | | — |
 | `PRUSSIAN-BLUE-1` | Prussian blue pigment · ☠ **not food** | ~24 g | Craft cabinet 2 pigment shelf | | d3021 |
 | `GREEN-VITRIOL` | Green vitriol crystals · tail | ~17 g | Reagent shelf | | d3020 |
@@ -234,7 +253,7 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 | `M-11-ALUM` | Alum, crude | ~1.39 kg | — | | d3101 |
 | `M-12-NITER` | Niter crystal | ~370 g | Dry jar | | d2989 |
 | `BITTER-SALT-1` | Epsom-class bitter salt · identity narrowed | ~5 g | Chem porch | | d3223 |
-| `QUARTZ-FRIT` | Quartz frit | ~120 g | Vial `G-FRIT` | | — |
+| `QUARTZ-FRIT` | Quartz frit | ~40 g | Vial `G-FRIT` | | d3332 |
 
 `BITTER-SALT-1` is the sulfate of an earth that is **not lime** — lime water precipitates it, hepar confirms sulfate, and a clean hydrogen flame rules out soda.
 
@@ -245,6 +264,9 @@ The Samandağ face turned a one-off haul into a bank. Grades are not interchange
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | ✓ ★★★ `ACID-VITRIOL-1` | **OIL OF VITRIOL, strong** · ★★ **~1.8× the weight of water** · ⚠ **chars on contact** | small bottle | `ACID-BOTTLE-1`, grooved glass stopper · chem porch | d3317 | d3317 |
+| `ACID-VITRIOL-2` | Oil of vitriol, strong · batch 2 · `RETORT-B` compare run | small bottle | Spare narrow-neck + grooved stopper · chem porch | d3335 | d3335 |
+| `VITRIOL-FEED-CROCK-1` | Copperas feed · Kisecik-class green · calcined as needed | ~4.2 kg | Chem porch feed crock | d3317 | d3335 |
+| `COLCOTHAR-2` | Raw red ferric residue · `RETORT-B` batch 1 | small dish | Chem porch · unwashed | d3335 | d3335 |
 | `COLCOTHAR-1` | Raw red ferric-oxide residue · ✓ **washed and levigated d3318** | ×0 → `ROUGE-FINE-1` + `IRON-OXIDE-PIGMENT-1` | — | d3317 | d3318 |
 | ✓ ★★★ `ROUGE-FINE-1` | **Washed, levigated hematite finishing polish** · ★★ **clears final glass haze; does not remove deeper scratches** | small crock | Lap bench | d3318 | d3318 |
 | ✓ `IRON-OXIDE-PIGMENT-1` | Clean red hematite, coarser early-settling fraction · **pigment, not trusted on finished glass** | small crock | Pigment shelf | d3318 | d3318 |

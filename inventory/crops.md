@@ -13,7 +13,7 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
 | `HEMP-SEL-Y10` | Hemp · ★ **the Ghab line, gen 4 since Y7** | Bed A north seed strip, ~16 m² | d3218 | Standing · ⚠ **no seed reserve behind it** |
-| `FAVA-Y10` | Fava | Bed A west, ~4 m² | d3214 | ✓ **Food rows cleared d3325** · `FAVA-SEED-Y10` best ~1 m² standing to black, dry, rattling pod stage |
+| `FAVA-Y10` | Fava | Bed A west | d3214 | ✓ **Seed strip harvested d3345** · **`P-FAVA-Y10` banked** · ground **fallow / nodules left** |
 | `BARLEY-TRIAL-Y10` | Barley, trial | Bed A south, ~3 m² | Y10 | Standing |
 | — | Chickpea ground | Bed A | — | Fallow · hands off |
 
@@ -45,7 +45,7 @@ Bed C north is the goat pen, not crop ground — `GOAT-KIDDING-STALL-1` NE ~2.5 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
 | `FIG-C1…C4` | Fig ×4 | Bed D | — | Perennial · C4 tail picked, Y9 tail pass done |
-| `WOAD-BED-D` | Woad, year-two rosette | Bed D | Y9 | Trimmed · no Y6 broadcast |
+| `WOAD-BED-D` | Woad, year-two rosette | Bed D | Y9 | ✓ **`WOAD-LEAF-Y10-1` pulled d3345** · crown intact · window to 18 Aug |
 
 Figs run **1 Aug – 15 Sep** and are flagged on every `FARM-CARE` pass in band — pick or leather on the pass rather than queuing a separate hero.
 
@@ -75,7 +75,7 @@ Stands drawn on but not tended. Where they are is [map region resources](../map/
 | ID | Stand | Where | State |
 |---|---|---|---|
 | `P-04` · `P-05-A/B` · `P-06-A/B/C` | Wild grain | — | Standing |
-| `FLAX-PATCH-1` | Wild flax band | — | Y9 band closed — L1/L2/L3 pulled d2968–d2983, ~13.9 kg |
+| `FLAX-PATCH-1` | Wild flax band | Ditch W · T-1 lip | ✓ **Laps 1–2 d3333–d3343 · ~6.5 kg green Y10 · window to 26 Jul** |
 | `P-01` | Pistachio | T-2, ~160 m | Standing |
 | `P-12` | Fig | 650 m | Standing |
 | `PINE-TAP-CUPS` | Pine, ×8 trees scored and cupped | Pine stand | **Standing — collect on the pass** |
@@ -90,7 +90,9 @@ Retting is a crop process rather than a stock, so the live arc lives here and th
 
 | ID | Load | Where | Loaded | State |
 |---|---|---|---|---|
-| — | *(none submerged)* | Ditch W | — | Both troughs clear |
+| `P-RETT-28` | Flax wild · lap 1 | ✓ **Pulled d3343** · dry queue **`W-1`** | d3333 | Break/heckle defer |
+| `P-RETT-29` | Flax wild · lap 2 | ✓ **Pulled d3353** · dry queue **`W-1`** | d3343 | Break/heckle defer |
+| — | Rett pool | **Empty · rinsed d3353** | — | Load after **lap 3** pull |
 
 Last arc was `P-RETT-27`, closed d3136 for ~1.02 kg of line. Troughs are `RETT-TROUGH-FLAX-1` and `RETT-TROUGH-HEMP-1` in [infrastructure.md](infrastructure.md) — both live, empty and rinsed, ready for the next load.
 

@@ -85,7 +85,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **20** | **`L0-W90` dry confirmation d3323 +1** |
+| **Norima wear** | **27** | **Garnierite haul return d3352 +1** *(was 26 @ d3347)* |
 | **mishap_pool** | **0** | **Reset d3118** · player doctrine: no tick on routine campus work |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 

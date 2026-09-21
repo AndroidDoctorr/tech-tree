@@ -51,7 +51,7 @@ Where things come from. **Sites and distances only — no stock counts.** What y
 | ☠ **Mercury** | Kisecik cinnabar. ⚠ **Float only, source unlocated** | `KISECIK-DISTRICT-1` | ~16 km | ◐ | ◐ |
 | **Chromium** | Kisecik, pods in the deep serpentinite. ⚠ **No process** | `KISECIK-DISTRICT-1` | ~16 km | ★ **DAY** | ◐ |
 | | **Islahiye** — the documented podiform district | `M-24` | ~100 km N | **EXPEDITION** | ○ |
-| **Nickel** | ☠ **NOT Kisecik.** Amanos, near Islahiye | `M-24` | ~100 km N | **EXPEDITION** | ○ |
+| **Nickel** | ☠ **NOT Kisecik.** Amanos, near Islahiye | `M-24` | ~100 km N | **EXPEDITION** | ◐ |
 | **Tin** | Kozan north gate — cassiterite | `M-25` | ~220 km | **EXPEDITION** | ✓ |
 | ☠ **Arsenic** | ⚠ **Not a target — a HAZARD.** Arsenopyrite at Kisecik, and **the gold is inside it** | `KISECIK-DISTRICT-1` | ~16 km | — | ✓ |
 
@@ -157,9 +157,9 @@ Where things come from. **Sites and distances only — no stock counts.** What y
 | `M-21` | **Gypsum bed** | Gorge wall, below the cave line | ~300 m | **Plaster · selenite panes · desiccant** | ✓ | ★★ **A bed, not a pocket — supply is unconstrained.** Thumbnail-soft, no vinegar fizz, bars out in slabs. **Selenite gives clear cleavable sheets.** ⚠ Granular — not carving alabaster. **~48 kg d3224** · ⚠ **no return trip since** |
 | ★★★ `KISECIK-DISTRICT-1` | **The Kisecik ophiolite district** | Across the Orontes | **~16 km** *(⚠ ~9 km if `SC-ORONTES-ISLAND-B` is bridged)* | ★★★ **Nine metals** | ✓ | **See the district block below** |
 | ★★★ `M-23` | **`VITRIOL-HEAP-1`** — pyrite weathering bed | At the ore, Kisecik | ~16 km | ★★★ **SULFURIC ACID** | ✓ | Built d3288 — clay pan, stone bed, roofed sump, open heap. ⧗ **First liquor ~d3378.** **The heap stays at the ore; only the liquor travels** |
-| `M-24` | **Islahiye / Amanos ophiolite** | N Amanos, Gaziantep side | ~100 km N | **Chromite** ✓ · **nickel** ○ | ○ | **Podiform chromite is the documented ore here**, near the harzburgite–cumulate boundary. ☠ **Nickel is the Player's inference, not a sighting** — see the nickel block below |
+| `M-24` | **Islahiye / Amanos ophiolite** | N Amanos, Gaziantep side | ~100 km N | **Chromite** ✓ · **nickel** ◐ | ✓ **Garnierite ribbon haul ~31 kg d3352** | **`GARNIERITE-BULK-M24-1` @ staging · prospect `M24-3` · dirt `M24-3` · assay queue**
 | `M-25` | **Cassiterite** | Kozan north gate and the slopes beyond | ~220 km | **Tin** | ✓ | **~2.4 kg concentrate hauled d1500.** ★ The wider Taurus tin district is real and was worked in antiquity — **placer cassiterite in the streams is the accessible form**, not the vein |
-| `M-26` | **Koruhöyük kaolin** | Tributary runoff below the volcanic ground | ~65 km N | Porcelain · refractory | ○ | ★ **Same stop as the pozzolan.** ⚠ **Inferred from the setting — weathered feldspathic rock shedding white clay into the tributaries.** Not yet sampled |
+| `M-26` | **Koruhöyük kaolin** | Tributary runoff below the volcanic ground | ~65 km N | Porcelain · refractory | ○ → ✓ **sampled d3329** | ✓ **First sample d3329 — white bar clay, inference confirmed.** ~22 kg wet **`KAOLIN-M26-WET-1`**. ★ **Same stop as `M-27`; bar harvest, not a tell bank like `SC-KAOLIN-01`** |
 | `M-27` | **Karasu volcanic field** — working face at **Koruhöyük** | Karasu graben, Kırıkhan north to the Belen ascent | ~40–65 km N | **Pozzolan · hard stone** | ✓ **at Koruhöyük** | ★★ **Young alkali olivine basalt along the rift faults — plainly visible from the road on the Kırıkhan→Belen climb.** ☠ ★★★ **The FLOWS ARE NOT POZZOLANIC — crystalline basalt is nearly inert. Only the glassy material reacts: scoria, cinder, ash and altered tuff off the cones.** *`POZZ-TUFF-1` came from here and it is a marginal pozzolan, which is half of why seven blocks emptied it* |
 | `M-28` | **Nur Dağları / Belen pass quartz** | NE, same corridor as `L7` | ~15–25 km NE | High-purity optics · glass | ○ | `QUARTZ-SURVEY-NUR-BELEN-765`, a day survey. ★ **Combine with any Belen-bound lap — same road** |
 | `M-29` | **Fluorite** | Akkaya, north of the Kozan gate | ~220 km+ | Flux · optics · ⚠ **HF if ever wanted** | ○ | Filed d2915 as **~1 day from the Kozan gate once the trail is mature** — ★ **rides on a `CAP-0` lap, never its own expedition** |
@@ -228,7 +228,7 @@ Where things come from. **Sites and distances only — no stock counts.** What y
 
 > ☠ ★★★ **THE INDICATOR IS RIGHT AND IT IS NOT SUFFICIENT.** *Kisecik passed the vegetation test perfectly and carries no nickel whatsoever.* ★★★ **The barren tells you the rock is ULTRAMAFIC, which is a precondition, not a deposit.** ★ **Look for the green in the fractures. If the green is absent, the nickel is absent.**
 
-**Where now:** `M-24`, **the Amanos near Islahiye, ~100 km N.** ⚠ ○ **INFERRED, not seen** — *what is documented up there is podiform **chromite**, which confirms the right rock and says nothing about a laterite cap.*
+**Where now:** `M-24`, **the Amanos near Islahiye, ~100 km N.** ◐ **SUSPECT d3338** — *bald serpentinite + trace waxy green in one fracture; red dirt bagged. ☠ **Still not a deposit — chromite pods confirmed separately.*
 
 | Corridor stage | Distance | State |
 |---|---|---|

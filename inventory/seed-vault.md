@@ -12,16 +12,16 @@ Last full audit **d3175**.
 
 **Test opened d3298:** each empty jar holds ~120 g charged gypsum in an open dish; fifth dish is the open control. Whole jars compare differentially, so the large equal mass cancels.
 
-| Jar | d3320 read | State |
+| Jar | Last read | State |
 |---|---|---|
-| `ARK-JAR-1` | No detectable change since d3313 | ✓ **Provisional flatline 1/2** · certify if unchanged d3327 |
-| `ARK-JAR-2` | Leak traced to radial cold joint in wax; ceramic ring good | ⧗ **Gasket rebuilt d3322 · read 1 d3329 · certify no earlier than d3336** |
-| `ARK-JAR-3` | Leak traced to interrupted ceramic contact ring | ⧗ **Lapped closed + gasket rebuilt d3322 · read 1 d3329 · certify no earlier than d3336** |
-| `ARK-JAR-4` | No detectable change since d3313 | ✓ **Provisional flatline 1/2** · certify if unchanged d3327 |
+| ✓ `ARK-JAR-1` | d3327 | ✓ **CERTIFIED** · flatline 2/2 d3313–d3327 |
+| `ARK-JAR-2` | d3334 | ✓ **CERTIFIED** · flatline 2/2 on rebuild clock d3322–d3334 |
+| `ARK-JAR-3` | d3334 | ✓ **CERTIFIED** · flatline 2/2 on rebuild clock d3322–d3334 |
+| ✓ `ARK-JAR-4` | d3327 | ✓ **CERTIFIED** · flatline 2/2 d3313–d3327 |
 
 > ★★★ **THE ARK OWNS CERTIFIED JARS, NOT A CERTIFIED DRAWING.** *Hand-made closures are individuals.* ☠ **A slow weekly leak is not small on a multi-year clock.**
 
-⚑ **No seed enters any jar before two successive flat intervals. Next read: d3327.**
+⚑ **No seed enters a jar until the line is worth banking — three jars certified empty, one policy for all four.**
 
 ## Grain
 
@@ -72,9 +72,11 @@ Last full audit **d3175**.
 | ⚠ `P-17-ELITE-Y9` | Lentil elite · ☠ **~72% at ONE year — NOT a reserve.** ⚑ Sow at the Y11 spring sow | ~51 g | Vault | Y9 | **d3298** |
 | `P-18-ELITE-Y8` | Chickpea elite · hold · **~60%** — acceptable | ~51 g | Vault | Y8 | **d3285** |
 | ⚠ `P-17-ELITE-Y8` | Lentil elite · reserve · ⚠ **~35% at two years** — ☠ **lentil is the short-lived one, regen ~2 yr** | ~4 g | Vault | Y8 | **d3285** |
-| `P-FAVA-Y9` | Fava, dry · ★ **reserve only — bank spent to the sow** · ⧗ `FAVA-SEED-Y10` replacement strip standing | ~25 g | Vault | Y9 | d3214 |
+| `P-FAVA-Y10` | Fava, dry · **Y10 working bank** · from `FAVA-SEED-HARVEST` strip | ~392 g | Vault | Y10 | d3345 |
+| `P-FAVA-ELITE-Y10` | Fava elite · true-black full seed | ~38 g | Vault elite tray | Y10 | d3345 |
+| `P-FAVA-Y9` | Fava, dry · **legacy reserve tail** | ~25 g | Vault | Y9 | d3214 |
 
-★ **Fava is now the limiter on bare ground.** The bank went in at `FAVA-EXTEND-Y10`, leaving 25 g. Area is no longer the constraint; seed is. ✓ **Best ~1 m² left standing d3325; bank the dry seed before any of that strip becomes food.**
+★ **Fava seed limiter cleared d3345.** **`P-FAVA-Y10` ~392 g working bank** · elite **`P-FAVA-ELITE-Y10` ~38 g**. **`P-FAVA-Y9` ~25 g** retained as labeled tail only.
 
 ## Fibre
 

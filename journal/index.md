@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3325)*
+## Recent days *(append here · @ Day 3353)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -80,6 +80,34 @@
 | 3323 | [day-3323.md](days/year-010/week-475/day-3323.md) | ✓ ★★★ **`L0-W90` DRY-CERTIFIED AT 33 PACES** · ★★★ **the two-pace fall belonged to moisture; the eleven-pace gain persisted** · ★★★ **the core-route bottleneck moved to `L2 = 31`** · ✓ **north-run core road READY** · ✓ **four retorts still drying evenly** | **Cal-Y10 D178 · ~18 Jun** |
 | 3324 | [day-3324.md](days/year-010/week-475/day-3324.md) | ☠ ★★★ **THE WIND WAS NOT HELPING THE CHIMNEY — IT WAS HIDING A CHOKED TERMINAL** · ✓ ★★★ **`KILN-D-STACK-2` live: ~4.15 m, outlet area ~1.6× bore** · ★★★ **plenum and stack are two pumps with the chamber between them** · ✓ **three-stop damper, no closed position** · ⧗ **full hot proof at next stoneware fire** | **Cal-Y10 D179 · ~19 Jun** |
 | 3325 | [day-3325.md](days/year-010/week-475/day-3325.md) | ✓ ★★★ **FAVA FOOD-PICK CLOSED** · ☠ **clearing every pod would spend next year's sowing stock** · ✓ **~1 m² seed strip remains standing to black-pod stage** · ✓ **~2.2 kg late pods cleared and sorted** · ⚑ **seed harvest moved to an observable state trigger** · ✓ **WEEK 475 CLOSED** | **Cal-Y10 D180 · ~20 Jun** |
+| 3326 | [day-3326.md](days/year-010/week-476/day-3326.md) | ✓ **retorts not bone-dry — no bisque** · ☠ **neck still lagging bulb on the joint** · ⚒ **`NORTH-RUN-MANIFEST-1` load diagram graded to `L2-W90 = 31`** · ✓ **Norima pre-trip read PASS** · **WEEK 476 OPEN** | **Cal-Y10 D181 · ~21 Jun** |
+| 3327 | [day-3327.md](days/year-010/week-476/day-3327.md) | ✓ **`ARK-JAR-1/4` CERTIFIED** · ☠ **cupellation partitions noble metals from lead, not base metals — gold rides the bead, litharge is the lead product** · ⚒ **`NORTH-RUN-Y10` wheels-up · camp `KTRUNK`** | **Cal-Y10 D182 · ~22 Jun** |
+| 3328 | [day-3328.md](days/year-010/week-476/day-3328.md) | ◐ **`L6-RECOVER` partial — drains open, 2/4 outlets stoned** · ☠ **a drain without a stone lip is a ditch that migrates** · ★ **cupellation is one chain-step among many** · camp **split · `M-26` kaolin d3329** · Islahiye nickel deferred | **Cal-Y10 D183 · ~23 Jun** |
+| 3329 | [day-3329.md](days/year-010/week-476/day-3329.md) | ✓ **`M-26` first sample — ~22 kg wet bar clay · inference confirmed** · **`M-27` skipped** · wheels turned HOME · camp **`L3`** | **Cal-Y10 D184 · ~24 Jun** |
+| 3330 | [day-3330.md](days/year-010/week-476/day-3330.md) | ✓ **HOME · `ARK-JAR-2/3` read 1 flatline 1/2** · ✓ **`RETORT-E`–`H` bone-dry · bisque queued** · ✓ **`NORTH-RUN-Y10` CLOSED** | **Cal-Y10 D185 · ~25 Jun** |
+| 3331 | [day-3331.md](days/year-010/week-476/day-3331.md) | ✓ **`RETORT-E`–`H` bisqued sound** · ✓ **`M-26` wash/rank ~12.4 kg slip** · ◐ **`KILN-D-STACK-2` partial hot proof at bisque band** · **`FLAX-PULL-WILD` opens** | **Cal-Y10 D186 · ~26 Jun** |
+| 3332 | [day-3332.md](days/year-010/week-476/day-3332.md) | ✓ **retorts stoneware sound · full stack hot proof** · ◐ **`M-26` porcelain trial = high stoneware** · **`CHAR-LANE` −15.2 kg** | **Cal-Y10 D187 · ~27 Jun** |
+| 3333 | [day-3333.md](days/year-010/week-477/day-3333.md) | ✓ **wild flax lap 1 ~3.4 kg · `P-RETT-28` loaded** · **pit `B-49` lit** · **WEEK 477 OPEN** | **Cal-Y10 D188 · ~28 Jun** |
+| 3334 | [day-3334.md](days/year-010/week-477/day-3334.md) | ✓ **`ARK-JAR-2/3` CERTIFIED** · ✓ **`CHAR-LANE` +6.8 kg** | **Cal-Y10 D189 · ~29 Jun** |
+| 3335 | [day-3335.md](days/year-010/week-477/day-3335.md) | ✓ **`RETORT-B` acid reference vs etched `A`** · ✓ **`P-03` cluster touch-up · band closed** | **Cal-Y10 D190 · ~30 Jun** |
+| 3336 | [day-3336.md](days/year-010/week-477/day-3336.md) | ✓ **`GEN-WW-2` load line — ~8.5 GB · peak ~2.1 GB·I · water cell supply-class** | **Cal-Y10 D191 · ~1 Jul** |
+| 3337 | [day-3337.md](days/year-010/week-477/day-3337.md) | ⚒ **`ISLAHIYE-NICKEL-SCOUT-Y10` wheels-up** · camp **`KTRUNK`** · manifest ~55 kg | **Cal-Y10 D192 · ~2 Jul** |
+| 3338 | [day-3338.md](days/year-010/week-477/day-3338.md) | ✓ **camp `M-24-FOOT-1` ~100 km** · ◐ **trace garnierite · nickel suspect** | **Cal-Y10 D193 · ~3 Jul** |
+| 3339 | [day-3339.md](days/year-010/week-477/day-3339.md) | ✓ **`M-24` scout pass 2 · +samples · ash for HOME assay** | **Cal-Y10 D194 · ~4 Jul** |
+| 3340 | [day-3340.md](days/year-010/week-478/day-3340.md) | ⚒ **return march 1 · camp `KTRUNK`** · **WEEK 478 OPEN** | **Cal-Y10 D195 · ~5 Jul** |
+| 3341 | [day-3341.md](days/year-010/week-478/day-3341.md) | ✓ **HOME · `ISLAHIYE-NICKEL-SCOUT-Y10` CLOSED** | **Cal-Y10 D196 · ~6 Jul** |
+| 3342 | [day-3342.md](days/year-010/week-478/day-3342.md) | ✓ **farm-care · basalt turn · nitre · smoke-spot · rett hold** | **Cal-Y10 D197 · ~7 Jul** |
+| 3343 | [day-3343.md](days/year-010/week-478/day-3343.md) | ✓ **wild flax lap 2 ~3.1 kg · `P-RETT-28` pull · `P-RETT-29` load** | **Cal-Y10 D198 · ~8 Jul** |
+| 3344 | [day-3344.md](days/year-010/week-478/day-3344.md) | ✓ **`M-24` ash + Cu–Ni trials · garnierite `M24-2` wins** | **Cal-Y10 D199 · ~9 Jul** |
+| 3345 | [day-3345.md](days/year-010/week-478/day-3345.md) | ✓ **`FAVA-SEED` bank · woad pull 1 · half day** | **Cal-Y10 D200 · ~10 Jul** |
+| 3346 | [day-3346.md](days/year-010/week-478/day-3346.md) | ⚒ **`ISLAHIYE-GARNIERITE` manifest · Norima staged** | **Cal-Y10 D201 · ~11 Jul** |
+| 3347 | [day-3347.md](days/year-010/week-479/day-3347.md) | ⚒ **Garnierite haul wheels-up · `KTRUNK` · W479 OPEN** | **Cal-Y10 D202 · ~12 Jul** |
+| 3348 | [day-3348.md](days/year-010/week-479/day-3348.md) | ⚒ **March · Koruhöyük staging** | **Cal-Y10 D203 · ~13 Jul** |
+| 3349 | [day-3349.md](days/year-010/week-479/day-3349.md) | ✓ **Camp `M-24-FOOT-1` · ribbon re-staked** | **Cal-Y10 D204 · ~14 Jul** |
+| 3350 | [day-3350.md](days/year-010/week-479/day-3350.md) | ✓ **Ribbon haul ~18 kg · `GARNIERITE-CHIP-M24-3`** | **Cal-Y10 D205 · ~15 Jul** |
+| 3351 | [day-3351.md](days/year-010/week-479/day-3351.md) | ✓ **Ribbon +13 kg · laterite sample · woad shred @ HOME** | **Cal-Y10 D206 · ~16 Jul** |
+| 3352 | [day-3352.md](days/year-010/week-479/day-3352.md) | ✓ **HOME · haul CLOSED ~31 kg garnierite** | **Cal-Y10 D207 · ~17 Jul** |
+| 3353 | [day-3353.md](days/year-010/week-479/day-3353.md) | ✓ **`M24-3` trial · farm scare · `P-RETT-29` pull · W479 CLOSE** | **Cal-Y10 D208 · ~18 Jul** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

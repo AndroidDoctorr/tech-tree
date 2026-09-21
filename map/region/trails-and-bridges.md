@@ -311,17 +311,17 @@ Every timber and every concrete face **probed sound** d3270. And then:
 
 ⚑ **This column is the fix: a leg is due when its date is old, not when something standing on it wants attention.**
 
-### ☠ `L6-RECOVER` — outstanding, and it is a BUILD lap
+### ☠ `L6-RECOVER` — partial d3328 · build lap continues
 
-**Arrested d3293, not recovered.** The two years of surface loss are still gone.
+**Arrested d3293.** ✓ **d3328:** top **4/4 drains desilted** · steep third **2/4 outlets re-lipped with stone** · **~60 m gravel band** on worst ruts. ⚠ **Lower two outlets re-cut only — stone short on the wagon.** Camp **split** · **`M-26` kaolin next (~12 km trail).**
 
-| Item | Needs |
-|---|---|
-| ☠ **4 washed-out drain outlets**, all in the steep third | **Stone.** *The drain cut back into itself and took its own lip downhill* |
-| ⚠ **4 silted drains** still full at the top of the leg | ★ **A morning and a shovel.** Arrest class |
-| ☠ **Lost surface across the steep third** | **Gravel and a bar train.** *Everything finer than a walnut left in suspension* |
+| Item | Needs | d3328 |
+|---|---|---|
+| ☠ **4 washed-out drain outlets**, steep third | **Stone lip on each** | ✓ **2/4 lipped** · ⚠ **2/4 awaiting stone** |
+| ⚠ **4 silted drains**, top of leg | **Shovel morning** | ✓ **4/4 open d3328** |
+| ☠ **Lost surface**, steep third | **Gravel bar trains** | ◐ **One band · not crowned** |
 
-⚑ **Rides with the Koruhöyük run** — same road, same split, and that trip is loaded anyway.
+⚑ **Islahiye garnierite haul CLOSED d3352** — **`GARNIERITE-BULK-M24-1` ~31 kg HOME.**
 
 ⚑ **Standing item: `L7`, `L9` and the east string have never had a wet read.** *Take the next wet lap deliberately.*
 
@@ -398,7 +398,7 @@ Not crossings — **places on a leg where the road itself was made.** Blast pinc
 |---|---|---|
 | ⚑ **Kisecik direct** | HOME → `SC-ORONTES-ISLAND-B` → Kisecik | ★★★ **Halves the best resource trip on the map.** Block-gated |
 | ⚑ **Koruhöyük trail** | Kırıkhan split → Koruhöyük | ⚠ **Mostly trail.** ★ Pozzolan and kaolin both sit on it |
-| **Islahiye push** | Koruhöyük → Islahiye ~30–35 km | ○ **Unscouted.** Chromite documented, nickel inferred |
+| **Islahiye push** | Koruhöyük → Islahiye ~30–35 km | ✓ **First transit d3338** · camp **`M-24-FOOT-1`** · nickel ◐ suspect |
 | `EAST-L2`+ | `AM-EAST-02` → Afrin and Aleppo | String open · push when the calendar allows |
 | **Phrygian Road** | Ceyhan → Adana → Tarsus → Bolkardağ | ⚠ **Deferred behind the Seyhan crossing** |
 | `SEYHAN-1` | Adana river crossing | Deferred — **raft or ferry class**, not a bridge |

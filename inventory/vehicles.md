@@ -7,11 +7,11 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler** · Wear: **20** · Last out: **d3323 `L0-W90` dry confirmation**
+Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **27** · Last out: **d3352 garnierite haul return**
 
 The working wagon. Bulk dry aft. Ice kit stowed, wet rig staged.
 
-**Wear 20 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
+**Wear 26 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
 
 ### Fittings
 

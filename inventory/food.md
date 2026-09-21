@@ -68,7 +68,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · ⧗ **edges dry, broad faces less tacky; rind not yet coherent** | ×1 wheel | **Cool dairy shelf, clean reed mat** | d3315 | d3325 |
+| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · ⧗ **edges firm; broad faces less tacky; rind not yet coherent** | ×1 wheel | **Cool dairy shelf, clean reed mat** | d3315 | d3326 |
 | `CHEESE-Y10-10` | Cheese | ~320 g | Dairy shelf | d3260 | d3260 |
 | `CHEESE-Y10-9` | Cheese | ~250 g | Dairy shelf | d3260 | d3260 |
 | `RICOTTA-Y10-4` | Ricotta, off fresh whey | ~190 g | Dairy shelf | d3260 | d3260 |

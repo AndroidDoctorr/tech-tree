@@ -23,7 +23,7 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 |---|---|---|---|
 | `TAN-LADDER` | Step the tan liquor when the cut edge reads through. ☠ **And watch the LIQUOR, not only the edge** — it is alive and spoils on its own clock whether or not the hide is ready | ⚠ **Revised d3281: not "weeks, not the hide."** Seventeen warm days turned the liquor sour and scummed and cost grain on the face that sat proud | ☠ **REVERSE** |
 | `CU-CELL-CHARGE` | Recharge `CU-CELL-1` liquor with ore. The cell is liquor-limited | Sponge on the cathode, and a day's plating | ★ PAUSE |
-| `RETORT-DRY-READ` *(live to ~d3330)* | **Read `RETORT-E`–`H`; unwrap gradually; keep neck and bulb drying together.** ✓ **First action d3320** | ☠ **A thin neck dries before the bulb, pulling the joint open before the kiln ever sees it** | ☠ **REVERSE** |
+| `RETORT-DRY-READ` *(closed d3330)* | **✓ `RETORT-E`–`H` bone-dry d3330** | ☠ **A thin neck dries before the bulb, pulling the joint open before the kiln ever sees it** | ✓ **DONE** |
 
 ## Every ~4 days
 

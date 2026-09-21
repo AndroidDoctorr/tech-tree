@@ -23,7 +23,8 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## ⧗ ⟳ Running — started, needs no day
 
-- ⧗ **`GEN-WW-2` field wire** — ~600 g at ~50 g/day off the cells · **field up ~d3307**
+- ⧗ **`GEN-WW-2` field wire** — ✓ **complete d3307 · live d3310 · load line d3336 — peak ~2.1 GB·I**
+- ⚠ **`CHAR-LANE` ~13.2 kg** — ✓ **pit `B-49` +6.8 kg d3334** · **−2.4 kg acid d3335**
 - ⟳ ☠ **`SPIN-WHEEL-2` yarn evenness + splicing** — **20 Jul.** *A practised hand, not a machine setting, so the deadline is an hour count.* ★ **The gate on life-bearing rope**
 - ⧗ **`ORE-BAY-1` catch pot** — daily read · ⧗ **`VITRIOL-HEAP-1`** ~d3378
 - ⧗ **Blocks curing in `BLOCK-CURE-PIT-1`** · **break tests d3308 and d3370**
@@ -31,10 +32,10 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## ⚒ The days go here
 
-- ✓ ★★★ **OIL OF VITRIOL MADE d3317.** `RETORT-A` survived batch 1 but etched: ☠ **retorts are consumable stock and acid is gated on pottery throughput.** ✓ **`RETORT-E`–`H` formed d3318, ~7 mm, drying evenly; next read d3326, target ~d3330** — `E/F` copy `A` at ~¼ grog; `G/H` copy `B` at ~⅓ grog. ⧗ **Run clean `RETORT-B` next and compare its etch against `A` before standardizing the recipe**
-- ✓ **`KILN-D-STACK-2` built d3324** — terminal choke removed, ~4.15 m, symmetric outlet ~1.6× bore, three-stop damper. ⧗ ★★★ **Full hot proof rides with the next stoneware fire after cure** — *cone climb · door-seam pressure · plenum bleed · damper stop · fuel*
+- ✓ ★★★ **OIL OF VITRIOL MADE d3317.** `RETORT-A` etched batch 1. ✓ **`RETORT-E`–`H` stoneware sound d3332.** ✓ **`RETORT-B` batch 1 d3335 — lighter etch than `A`; ~⅓ grog thin is acid reference**
+- ✓ **`KILN-D-STACK-2` built d3324 · full hot proof d3332**
 - ✓ **`CUPEL-HEARTH-1` sited and footed d3297** — ⚒ **stack and hood outstanding.** ☠ ⧗ ★★★ **But the real limit is `BONE-BANK-1`: ~20 cupels in hand is ONE pass through the galena, and bone only arrives as animals die.** *A cupel is a reagent, consumed by becoming the product* — ✓ **bank the used ones as ore**
-- ⧗ ★★★ **PROVE THE `SEED-ARK-1` JARS EMPTY.** `J1/4`: provisional flatline, certify d3327. ✓ **`J2/3` closure faults diagnosed and rebuilt d3322** — first read d3329, certification no earlier than d3336. ★★ **The ark owns certified jars, not a certified drawing.** *No seed enters before two flat intervals*
+- ✓ **`ARK-JAR-1/2/3/4` — jars 1/2/3/4 certified empty d3327–d3334.** ★★ **Still no seed until the roster earns it.**
 - ☠ ★★★ **TWO BANKS THE ARK DRAWS FROM WERE MISSED BY THE d3285 SWEEP** — **`EMMER-ELITE-Y9` last tested d3211** · ⚠ **`P-17-ELITE-Y9` lentil last tested d3122**, *and lentil is the short-lived species at ~2 yr.* ☠ **The fix for the incomplete roster was itself incomplete**
 - ⧗ **Re-burn the ~2.1 kg of spent calcined gypsum** — ★ *calcining IS the recharge* · ☠ **fire straight into a sealed jar; every minute in open air is capacity spent on the room**
 - **Drive benchmarks at `CAMPUS-BRIDGE` and every graded crossing.** `BM-ASI-1` was the first, d3279
@@ -49,8 +50,11 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## Rides with the north run *(late Jun)*
 
-- ☠ **`L6-RECOVER`** — 4 washed-out outlets *(stone)* · 4 silted drains at the top *(a morning)* · gravel for the steep third
-- **Kaolin `M-26` · pozzolan `M-27` · Islahiye nickel scout** — ☠ `○ INFERRED`, a look at the end of a trip that already pays
+- ⚒ **`P-RETT-29` pull** — ✓ **d3353**
+- ⚑ **`GARNIERITE-BULK-M24-1` bulk assay / reduction**
+- ⧗ **Wild flax lap 3 → `P-RETT-30` load**
+- ⚒ **Stoneware `RETORT-E`–`H` + full stack proof** — ✓ **closed d3332**
+- ◐ **`M-26` porcelain re-trial** — needs **feldspar/pegmatite stock** · tiles ◐ high stoneware d3332
 
 ## ⧗ Trail — measured capacity, not `TQ`
 

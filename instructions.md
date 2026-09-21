@@ -19,6 +19,8 @@ Document **the next day — just one**, unless the User says otherwise. If the i
 4. Gate the actions — see **Gates** below
 5. Write the day · patch `now.md` · patch the one inventory row that changed
 
+☠ **Fuel is not exempt from step 5.** If charcoal burned, **`CHAR-LANE` (or the named reserve) gets a kg debit the same pass** — day file + resources row.
+
 **Read nothing else unless a trigger below sends you there.**
 
 ## Gates — the duty that fires most
@@ -36,7 +38,7 @@ Detail: [rules.md — gates](rules.md#gates) · [rules.md — build decompositio
 - **Real physics, chemistry, geology, biology.** Plausible options, plausible outcomes
 - **Nothing comes from nowhere.** Every material consumed must already be in inventory. If it is not, propose the haul or harvest first
 - **Account for time** — chores, sleep, meals
-- **Account for fuel** — heating, cooking, lighting
+- **Account for fuel** — heating, cooking, lighting. ☠ **Every fire that burns charcoal debits a real stock row** — usually **`CHAR-LANE`** or **`CHAR-RESERVE-C`** — **with an explicit kg in the day file Consumption block and a matching patch to [inventory/resources.md](inventory/resources.md).** *No “full charge” or “a firing” without a number. Forge, kiln, lime, smelt, and retort runs all count.*
 - **Account for skill and preparedness** — [skills.md](skills.md)
 - **Mishaps are low-probability and realistic, not D&D.** Routine work rarely fails; new and experimental work is where risk lives. The Player is cautious, thinks ahead, and prepares
 
@@ -95,6 +97,7 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - ☠ ★★★ **`OPEN-ITEM-AGE` — every line in a day file's `Open` block carries the day it was OPENED** *(d3295)*. **A carry-forward list is a machine for making old things look current:** *the Open block is copied forward every morning, so a dead line gets rewritten in today's hand and reads exactly as fresh as a real one.* ★★ **Age is the only thing that distinguishes a live item from a ghost.** ⚠ **Before carrying an item forward, check the thing it names actually exists** — *`P-RETT-14` was carried for ~1,300 days into an empty ditch*
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
 - **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
+- **Every material must be accounted for.** Building a table consumes wood. The Player cannot build a table if they have no wood. Cooking food uses wood or charcoal (for now). Nothing just magically appears.
 
 The Assistant Device should try to warn the Player if they're about to make a mistake, or do anything dumb, or forget something important. The Assistant is not prescient, but it knows physics, chemistry, electrical engineering, etc., and the Player is cautious, asks a lot of questions, and trusts the Assistant.
 
