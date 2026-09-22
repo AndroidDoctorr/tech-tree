@@ -48,7 +48,7 @@ Every sow and every harvest here is mandatory. The only valid skip is an explici
 
 ## July
 - **9 Jul** — Woad leaf pull opens · `WOAD-PULL`
-- **~20 Jul – 20 Aug** — Wild hemp fibre band · `HEMP-CUT` *(local / campus-margin stands only — fibre is too bulky to carry from Ghab)*
+- **~20 Jul – 20 Aug** — Wild hemp fibre band · `HEMP-CUT` *(local / campus-margin stands · **Bed A cut is Aug** — **Ghab fibre is a wagon haul on the east string when the trail is open**, not a foot scout; **Y6 foot was pre-trail + bad ford season** · **d2943 proved Norima to `GHAB-STUB-1`**)*
 - **26 Jul** — Wild flax pull closes
 
 ## August

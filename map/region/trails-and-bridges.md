@@ -323,6 +323,8 @@ Every timber and every concrete face **probed sound** d3270. And then:
 
 ⚑ **Islahiye garnierite haul CLOSED d3352** — **`GARNIERITE-BULK-M24-1` ~31 kg HOME.**
 
+✓ **Ghab stub toe — Norima proved d2943** on improved east string *(~2.5 km hook from south · bitumen lap).* ✓ **`GHAB-SOUTH-STRING-1` d3357–d3358** — **~4.4 km crown stub → valley lip · `AM-GHAB-VALLEY-01` wagon terminus · empty proof roll d3358.**
+
 ⚑ **Standing item: `L7`, `L9` and the east string have never had a wet read.** *Take the next wet lap deliberately.*
 
 ### Composites

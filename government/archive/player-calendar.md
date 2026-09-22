@@ -88,7 +88,7 @@ Cal-Y · solstice-synced Gregorian · repeats every year · [sun-calendar.md](su
 ## August
 
 - **15 Aug – 30 Sep** — **Hemp cut (Bed A north)** *(fiber-first · before seed hard · **FARM-CARE flag if overdue**)*
-- **~20 Jul – 20 Aug** — **WILD HEMP · fibre band** *(cut **at flowering** · **pull the males right after they shed pollen** — that is the finest fibre and they die back anyway · **local / campus-margin stands only — fibre is too bulky to carry from Ghab**)*
+- **~20 Jul – 20 Aug** — **WILD HEMP · fibre band** *(cut **at flowering** · **pull the males right after they shed pollen** — that is the finest fibre and they die back anyway · **local / campus-margin + Bed A Aug; Ghab fibre = wagon on east string when trail open — not “too bulky,” mass-managed like any haul** · seed band separate ~Sep)*
 - **1 Aug** — **Wild grape pick opens** *(P-03 · T-2 trellis · must · leather · vinegar · yeast mother · **partial strip OK through Oct**)*
 - **1 Aug – 15 Sep** — **Bed D fig pick** *(FIG-C1–C4 @ farm · **FARM-CARE eyes** · fresh + leather · **not missable**)*
 - **1 Aug – 15 Sep** — **Wild fig P-12 optional** *(~650 m NW · extra lap if named — not required if Bed D picked)*

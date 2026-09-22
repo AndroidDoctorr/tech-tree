@@ -17,7 +17,8 @@
 1. **Cast block and stack it to cure** — ⧗ **90 days to load-bearing.** Run the mould in the background between heroes; the yard should never be empty
 2. Break the test blocks at 7, 28 and 90 days and log the results
 3. Fell and season timber · burn lime · bank char · lay in sand, grit and pozzolan
-4. Cut or check the mould, the measuring box, the straightedge, the square and the water level
+4. **Forge rebar stock** — smelt, draw, **twist square bar** to [BC-2-REBAR](../regulations/building-code-2.md#rebar--wrought-iron-bc-2-rebar) · cut hooks · stage laps and chairs before the pour day
+5. Cut or check the mould, the measuring box, the straightedge, the square and the water level
 
 ---
 
@@ -72,11 +73,11 @@
 
 ## Phase V — Roof
 
-1. Lay beams, rafters and joists — ☠ **tied down to the ring beam**
+1. Lay beams, rafters and joists — **brace to triangles** (collar ties, wind braces) — ☠ **tied down to the ring beam at every heel**
 2. Set portico posts and frames
 3. Fix battens and flashing
-4. Lay sheathing
-5. Lay tile
+4. **Lay continuous sheathing** — the seismic diaphragm
+5. Lay finish — ★ **light first** per [BC-2-ROOF](../regulations/building-code-2.md#bc-2-roof--seismic); heavy tile only where the ring and ties are proven on this building
 6. Fit vent covers and the ridge hood
 
 > ★ **The building is now dry, and that is what the next phase has been waiting for.**

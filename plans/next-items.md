@@ -27,7 +27,7 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 - ⚠ **`CHAR-LANE` ~13.2 kg** — ✓ **pit `B-49` +6.8 kg d3334** · **−2.4 kg acid d3335**
 - ⟳ ☠ **`SPIN-WHEEL-2` yarn evenness + splicing** — **20 Jul.** *A practised hand, not a machine setting, so the deadline is an hour count.* ★ **The gate on life-bearing rope**
 - ⧗ **`ORE-BAY-1` catch pot** — daily read · ⧗ **`VITRIOL-HEAP-1`** ~d3378
-- ⧗ **Blocks curing in `BLOCK-CURE-PIT-1`** · **break tests d3308 and d3370**
+- ⧗ **Blocks** · ✓ **90-day break d3370** · **`BLOCK-CAST-Y10-3280` ×7 stack · ×20 submerged**
 - ⧗ **`BASALT-DATUM`** — turn and re-read every ~3 weeks. ☠ **Lapping opens when two successive checks agree, not on a date**
 
 ## ⚒ The days go here
@@ -50,9 +50,17 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## Rides with the north run *(late Jun)*
 
-- ⚒ **`P-RETT-29` pull** — ✓ **d3353**
+- ✓ **`HEMP-GHAB-FIBRE-HAUL-Y10` CLOSED d3365** — **~42 kg · `P-RETT-30` submerged**
+- ✓ **`HEMP-GHAB-SEED-RUN-Y10` CLOSED d3415** — **`HEMP-GHAB-RESERVE-Y10` ~108 g**
+- ⚒→⧗ **`BLOCK-Y10`** — **×20 submerged** · **`BLOCK-CAST-Y10-3280` ×7 stack** · prisms d3371 batch
+- ✓ **`KILN-A-LIME-3367` CLOSED d3370**
+- ✓ **`WAGON-GARAGE-1` utility shell d3379** — Norima under cover
+- ✓ **`HEMP-CUT-Y10-1` d3381** — **`P-RETT-31` @ `W-1`**
+- ✓ **Block yard d3398 · ×36 submerged · haul before next ×4**
+- ★ **`ROOF-R&D-HEMP-BITUMEN-1`** — mat/bitumen/shingle + copper trial *(not BC-2)* · [roof-rd-hemp-bitumen-1.md](roof-rd-hemp-bitumen-1.md)
+- ✓ **`WAGON-V2-COVER-HEMP-FLAX-1` mounted d3407** — Norima under canvas · roll PASS
 - ⚑ **`GARNIERITE-BULK-M24-1` bulk assay / reduction**
-- ⧗ **Wild flax lap 3 → `P-RETT-30` load**
+- ⟳ **`SEED-RAG-TEST` roster** — ⚑ **`P-FAVA-Y10` first test** · chickpea rotation
 - ⚒ **Stoneware `RETORT-E`–`H` + full stack proof** — ✓ **closed d3332**
 - ◐ **`M-26` porcelain re-trial** — needs **feldspar/pegmatite stock** · tiles ◐ high stoneware d3332
 
@@ -67,16 +75,24 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 - ⧗ **Wet `W90` read only when rain supplies the condition** — a dry pass is not a wet certificate
 - ⚑ **`L7`, `L9` and the east string have never had a wet read**
 
+## Personal · Yule *(player d3400)*
+
+- ⚒ **`SUNGLASS-YULE-1`** — round brass-framed tint lenses · **Yule present to self**
+  - **Glass:** clear lites proven @ Kiln C · **smoke/tint = NOVEL batch** — iron-oxide pinch in culina sand *(green-gray class · trial for density)* · small disk mold or lap from lite grammar
+  - **Frame:** fine brass wire + polish · **`BRASS-STOCK` ~11.8 g — melt/draw band before frames**
+  - **⧗** lens anneal + frame fit · not a one-afternoon close
+  - ★ **UV is not the win here — glare comfort and looking cool in brass are**
+
 ## Small closes
 
 *Each is under a day and each is the last item on an otherwise finished job.*
 
-- Hub exterior limewash · `HUB-RUG-N-1` — the two deferrals from `HUB-STAGE-CLOSE-1`
+- ✓ Hub exterior limewash *(d3391)* · `HUB-RUG-N-1` — last deferral from `HUB-STAGE-CLOSE-1`
 - `CAVE-3-DOOR-1` — ★ **demoted d3278 to a porch.** For a wet day
 - Clear the `TEMP-PORTICO-1` footings — weed passes still name them at d2267
 - `TEMP-PORTICO-N-CLOSE` — stuck at ~60% since d2197. ⚠ **A stoop standing in for the north work wing ghost** — *the real question is whether that wing ever happens*
 - **North passage colonnade** — decided d3280; ghosts `SC-NP-05`–`07` staked. ⧗ **Block-gated**
-- **Cart shed, to BC-2** — ✓ pad sited d3283 · ⧗ **walls no earlier than ~d3370**
+- **Wagon garage, to BC-2** — ✓ pad d3283 · ✓ **90-day break d3370 · stem may start when blocks lifted**
 
 ## Survey, when passing
 

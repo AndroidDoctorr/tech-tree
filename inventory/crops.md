@@ -12,7 +12,7 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-SEL-Y10` | Hemp · ★ **the Ghab line, gen 4 since Y7** | Bed A north seed strip, ~16 m² | d3218 | Standing · ⚠ **no seed reserve behind it** |
+| `HEMP-SEL-Y10` | Hemp · ★ **the Ghab line, gen 4 since Y7** | Bed A north · **stubble ~10 cm post cut d3381** | d3381 | ✓ **`HEMP-CUT-Y10-1` d3381** · **`P-RETT-31` CLOSED d3399** |
 | `FAVA-Y10` | Fava | Bed A west | d3214 | ✓ **Seed strip harvested d3345** · **`P-FAVA-Y10` banked** · ground **fallow / nodules left** |
 | `BARLEY-TRIAL-Y10` | Barley, trial | Bed A south, ~3 m² | Y10 | Standing |
 | — | Chickpea ground | Bed A | — | Fallow · hands off |
@@ -44,7 +44,7 @@ Bed C north is the goat pen, not crop ground — `GOAT-KIDDING-STALL-1` NE ~2.5 
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FIG-C1…C4` | Fig ×4 | Bed D | — | Perennial · C4 tail picked, Y9 tail pass done |
+| `FIG-C1…C4` | Fig ×4 | Bed D | d3368 | **Aug pick in progress** · third pass d3380 · repeat through 15 Sep |
 | `WOAD-BED-D` | Woad, year-two rosette | Bed D | Y9 | ✓ **`WOAD-LEAF-Y10-1` pulled d3345** · crown intact · window to 18 Aug |
 
 Figs run **1 Aug – 15 Sep** and are flagged on every `FARM-CARE` pass in band — pick or leather on the pass rather than queuing a separate hero.
@@ -76,7 +76,8 @@ Stands drawn on but not tended. Where they are is [map region resources](../map/
 |---|---|---|---|
 | `P-04` · `P-05-A/B` · `P-06-A/B/C` | Wild grain | — | Standing |
 | `FLAX-PATCH-1` | Wild flax band | Ditch W · T-1 lip | ✓ **Laps 1–2 d3333–d3343 · ~6.5 kg green Y10 · window to 26 Jul** |
-| `P-01` | Pistachio | T-2, ~160 m | Standing |
+| `P-01` | Pistachio | T-2, ~160 m | **Y10 primary picked d3409 · hull drying** |
+| `P-22` | Wild hemp | Ghab plain · east string | **Seed strip d3413 · partial heads · patch standing** |
 | `P-12` | Fig | 650 m | Standing |
 | `PINE-TAP-CUPS` | Pine, ×8 trees scored and cupped | Pine stand | **Standing — collect on the pass** |
 
@@ -90,11 +91,12 @@ Retting is a crop process rather than a stock, so the live arc lives here and th
 
 | ID | Load | Where | Loaded | State |
 |---|---|---|---|---|
-| `P-RETT-28` | Flax wild · lap 1 | ✓ **Pulled d3343** · dry queue **`W-1`** | d3333 | Break/heckle defer |
-| `P-RETT-29` | Flax wild · lap 2 | ✓ **Pulled d3353** · dry queue **`W-1`** | d3343 | Break/heckle defer |
-| — | Rett pool | **Empty · rinsed d3353** | — | Load after **lap 3** pull |
+| `P-RETT-28` | Flax wild · lap 1 | ✓ **CLOSED d3401** · spun to cover thread | d3333 | — |
+| `P-RETT-29` | Flax wild · lap 2 | ✓ **CLOSED d3401** · spun to cover thread | d3343 | — |
+| `P-RETT-30` | Hemp wild · **`HEMP-GHAB-FIBRE-Y10`** | ✓ **CLOSED d3383** · ~1.89 kg line class | d3365 | — |
+| `P-RETT-31` | Hemp Bed A · **`HEMP-CUT-Y10-1`** | ✓ **CLOSED d3399** · ~1.08 kg line → ~695 m thread | d3383 | — |
 
-Last arc was `P-RETT-27`, closed d3136 for ~1.02 kg of line. Troughs are `RETT-TROUGH-FLAX-1` and `RETT-TROUGH-HEMP-1` in [infrastructure.md](infrastructure.md) — both live, empty and rinsed, ready for the next load.
+Last arc **`P-RETT-28/29`**, closed d3401 — **~1,050 m @ `FLAX-THREAD-COVER-Y10-1`**. Hemp **`P-RETT-31`** closed d3399. Troughs empty · **`W-1` clear**.
 
 ⚠ The rett clock is **10–14 days from pool load** and it is checked on every farm scare pass, not on a calendar — see [farm-scare-rett-pull](../.cursor/rules/farm-scare-rett-pull.mdc). A bundle left submerged past its window is over-retted and the fibre is lost.
 

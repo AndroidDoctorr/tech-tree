@@ -7,17 +7,17 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **27** · Last out: **d3352 garnierite haul return**
+Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **38** · Last out: **d3415 Ghab seed return**
 
 The working wagon. Bulk dry aft. Ice kit stowed, wet rig staged.
 
-**Wear 26 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
+**Wear 38 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
 
 ### Fittings
 
 | ID | Fitting | State |
 |---|---|---|
-| `WAGON-V2-COVER-ARCH-1` | Cover arch — chassis · ribs · ridge · hoops · braces | Close · roll PASS |
+| `WAGON-V2-COVER-ARCH-1` | Cover arch — chassis · ribs · ridge · hoops · braces | ✓ **cover mounted · outer oilcloth d3408** |
 | `WAGON-REAR-HITCH-1` | Pintle receiver at tail · latch · safety chain | Pod ghost PASS |
 | `WAGON-LANTERN-HOOK-1` | Lantern hook, cover arch fore rib · portable lantern swap | Live |
 | `WAGON-DASH-SHELF-1` | Dash shelf, driver bench rail · wick tin · wrench ghost | Live |
@@ -29,9 +29,9 @@ Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resou
 
 ### Open
 
-⚠ **Parked in the open.** `CART-YARD` south has no roof. Covered parking is the outstanding build — the cover arch is doing work that a shed should be doing, and cloth is the consumable in that arrangement.
+✓ **`WAGON-GARAGE-1` @ `CART-YARD` south** — **stem d3375 · frame d3376–3378 · roof d3379.** Norima parks under cover; arch can stay closed.
 
-> ⚑ **DECIDED d3280: a purpose-built shed to [BC-2](../government/regulations/building-code-2.md), not the north passage.** *The passage was considered and rejected — its column ghosts sit at ~1.0 m on centre, and it is the covered route to the horreum, so a parked wagon would plug the only path to the food store.* ⧗ ☠ **Gated on cast block: 90 days to load-bearing from the first tamp on d3280, so no earlier than ~d3370.**
+> **Phased utility bay** @ south pad (not north passage). Block mix break PASS d3370.
 
 ---
 
@@ -50,7 +50,7 @@ Stowed on a vehicle rather than at a bench, so it travels whether or not anyone 
 
 | ID | Item | Qty | Where |
 |---|---|---|---|
-| `TRAIL-MAINT-SLICE` | Trail maintenance stock | ~5.9 kg at wagon · ~2 kg at bench | Wagon |
+| `TRAIL-MAINT-SLICE` | Trail maintenance stock | ~1.9 kg at wagon · ~2 kg at bench | Wagon |
 | `EXPED-ROPE-WAGON` | Hemp rope | ~6 m | Wagon |
 | `WAGON-V2-COVER-THATCH-TEMP-1` | Temporary thatch cover · M-08 removable | — | Cart yard peg — **pulled for the ice band** |
 | `CART-POWDER-SAFE-1` | Powder safe | ☠ **×0 caps** — empty at cart and at HOME safe | Cart |

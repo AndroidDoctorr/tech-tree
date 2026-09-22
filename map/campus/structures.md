@@ -131,7 +131,9 @@ Proven d469. **~90 kg hay at the loft.** Iron hinges and latch d485. `CRANE-1` s
 ### `CART-YARD` — farm
 **~3 × 6 m.** Where the wagons live.
 
-⚠ **Still open ground.** `Norima` and `COVERED-WAGON-1` both park in the weather — see [vehicles.md](../../inventory/vehicles.md). **Covered parking has never been built**, and it remains one of the longest-standing wants on campus.
+✓ **`WAGON-GARAGE-1` complete d3379** — block stem · oak frame · shake roof · **Norima under cover.**
+
+⚠ **Utility shelter — not habitable BC-2 finish.** Optional taller block stem later.
 
 ☠ `CRANE-2` — the wheeled, iron-shod, >100 kg-lift upgrade — was **brainstormed d789 and never started.** `CRANE-1`, the portable A-frame at ~50 kg test, is still the only lift.
 

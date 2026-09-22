@@ -82,11 +82,12 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `HEMP-SEL-Y10` | Hemp select · ★ **the Ghab line, gen 4 since Y7** | ×0 — sown to Bed A north seed strip d3218 | — | Y10 | — |
+| `HEMP-SEL-Y10` | Hemp select · ★ **the Ghab line, gen 4 since Y7** · Bed A | **~15 g** | SEED-VAULT · linen jar | Y10 cut d3381 | — |
+| `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` hard select** · genetics reserve | **~108 g** | SEED-VAULT · linen jar | d3413 gather | d3415 |
 | `FLAX-SOW-Y10` | Flax sow tray | Staged | Vault | Y10 | — |
 | `P-07-ELITE-Y10` | *(fibre elite)* | ~11 g | Vault | Y10 | — |
 
-☠ **`HEMP-SEL-Y7` Ghab spare tail ~17 g — DEAD, written off d3218.** Oily seed at three years. The line itself is unaffected because the working bank carried it, but the spare that existed *to be* the backup is gone, so the Ghab line currently has **no reserve** — it exists only as the standing crop in Bed A north. That is the exact situation `SEED-RESERVE` exists to prevent.
+☠ **`HEMP-SEL-Y7` Ghab spare tail ~17 g — DEAD, written off d3218.** **`HEMP-SEL-Y10` ~15 g @ vault** · **`HEMP-GHAB-RESERVE-Y10` ~108 g @ vault d3415** — reserve rebuilt; rag test before arking.
 
 Isolate hemp **by time, not distance** — see `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 

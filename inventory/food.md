@@ -36,6 +36,7 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `PISTACHIO-1` | Pistachio kernels | ~1.80 kg | Horreum A nut tray | ? | d3145 |
+| `PISTACHIO-HULL-Y10-1` | Pistachio hull-on · **`P-01` Y10 primary** · drying | ~4.1 kg | v1 porch mat + lean rack | d3409 | d3409 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | ~1.86 kg | Nut tray | Y9 | [retcon](../journal/retcons/ACORN-GATHER-Y9.md) |
 | `ACORN-SHELL-ON` | Acorn, bulk shell-on | ~0.80 kg | v1 mat · `WOOD-CRATE-4` | Y9 | d3022 |
 
@@ -46,6 +47,11 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `FIG-LEATHER-1` | Fig leather, rolled | ~770 g | Horreum east rack peg | ? | d3145 |
+| `FIG-LEATHER-TRAY-Y10-1` | Fig leather, tray drying | ~0.65 kg wet | Sun rack / horreum porch | d3368 | d3380 |
+| `FIG-FRESH-Y10-1` | Fig, fresh hold · Bed D first pass | ~1.25 kg | Cool step | d3368 | d3368 |
+| `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
+| `FIG-FRESH-Y10-4` | Fig, fresh · Bed D strip | ~0.4 kg | Cool step | d3389 | d3389 |
+| `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ~1.05 kg | Cool step | d3375 | d3389 |
 | `GRAPE-FRESH-1` | Grape, fresh hold | ~1.15 kg | Cool step | Y9 | d3145 |
 
 ## Meat and fish
@@ -95,7 +101,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `JERKY-Y10` | ★ Jerky · **dry, cool, in cloth, not sealed** | ~4.44 kg | Horreum A | d3253 | d3253 |
 | `GOAT-SMOKE-1` | Smoked goat | ~0.66 kg | v1 cool shelf | ? | d3145 |
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
-| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | ~1.89 kg | Culina | | d3181 |
+| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | ~1.57 kg | Culina | | d3408 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | — | — | d3251 | d3251 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.

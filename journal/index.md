@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3353)*
+## Recent days *(append here · @ Day 3415)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -108,6 +108,68 @@
 | 3351 | [day-3351.md](days/year-010/week-479/day-3351.md) | ✓ **Ribbon +13 kg · laterite sample · woad shred @ HOME** | **Cal-Y10 D206 · ~16 Jul** |
 | 3352 | [day-3352.md](days/year-010/week-479/day-3352.md) | ✓ **HOME · haul CLOSED ~31 kg garnierite** | **Cal-Y10 D207 · ~17 Jul** |
 | 3353 | [day-3353.md](days/year-010/week-479/day-3353.md) | ✓ **`M24-3` trial · farm scare · `P-RETT-29` pull · W479 CLOSE** | **Cal-Y10 D208 · ~18 Jul** |
+| 3354 | [day-3354.md](days/year-010/week-480/day-3354.md) | ✓ **Ghab hemp seed plan · east-string wagon read · W480 OPEN** | **Cal-Y10 D209 · ~19 Jul** |
+| 3355 | [day-3355.md](days/year-010/week-480/day-3355.md) | ⚒ **Ghab south trail manifest · no caps (powder tail)** | **Cal-Y10 D210 · ~20 Jul** |
+| 3356 | [day-3356.md](days/year-010/week-480/day-3356.md) | ⚒ **Roll to `GHAB-STUB-1`** | **Cal-Y10 D211 · ~21 Jul** |
+| 3357 | [day-3357.md](days/year-010/week-480/day-3357.md) | ✓ **South crown ~2.8 km · bar train** | **Cal-Y10 D212 · ~22 Jul** |
+| 3358 | [day-3358.md](days/year-010/week-480/day-3358.md) | ✓ **Valley lip · `AM-GHAB-VALLEY-01` · proof roll** | **Cal-Y10 D213 · ~23 Jul** |
+| 3359 | [day-3359.md](days/year-010/week-480/day-3359.md) | ✓ **HOME · `GHAB-SOUTH-TRAIL-PUSH-Y10` CLOSED** | **Cal-Y10 D214 · ~24 Jul** |
+| 3360 | [day-3360.md](days/year-010/week-480/day-3360.md) | ✓ **farm scare · campus · wagon maintenance** | **Cal-Y10 D215 · ~25 Jul** |
+| 3361 | [day-3361.md](days/year-010/week-481/day-3361.md) | ⚒ **`HEMP-GHAB-FIBRE` wheels-up · W481 OPEN** | **Cal-Y10 D216 · ~26 Jul** |
+| 3362 | [day-3362.md](days/year-010/week-481/day-3362.md) | ✓ **`AM-GHAB-VALLEY-01` lip** | **Cal-Y10 D217 · ~27 Jul** |
+| 3363 | [day-3363.md](days/year-010/week-481/day-3363.md) | ✓ **`P-22` cut · ~42 kg loaded** | **Cal-Y10 D218 · ~28 Jul** |
+| 3364 | [day-3364.md](days/year-010/week-481/day-3364.md) | ⚒ **return loaded · east camp** | **Cal-Y10 D219 · ~29 Jul** |
+| 3365 | [day-3365.md](days/year-010/week-481/day-3365.md) | ✓ **HOME · haul CLOSED · `P-RETT-30`** | **Cal-Y10 D220 · ~30 Jul** |
+| 3366 | [day-3366.md](days/year-010/week-481/day-3366.md) | ✓ **block yard ×4 · hemp rett running** | **Cal-Y10 D221 · ~31 Jul** |
+| 3367 | [day-3367.md](days/year-010/week-481/day-3367.md) | ✓ **lime haul · hemp bed staked · figs held** | **Cal-Y10 D222 · ~1 Aug** |
+| 3368 | [day-3368.md](days/year-010/week-482/day-3368.md) | ✓ **W482 · retort char · farm scare · fig pick** | **Cal-Y10 D223 · ~2 Aug** |
+| 3369 | [day-3369.md](days/year-010/week-482/day-3369.md) | ✓ **wood haul · pile 5 restock** | **Cal-Y10 D224 · ~3 Aug** |
+| 3370 | [day-3370.md](days/year-010/week-482/day-3370.md) | ✓ **block break PASS · char · lime CLOSED** | **Cal-Y10 D225 · ~4 Aug** |
+| 3371 | [day-3371.md](days/year-010/week-482/day-3371.md) | ✓ **block ×4 · material gate GO** | **Cal-Y10 D226 · ~5 Aug** |
+| 3372 | [day-3372.md](days/year-010/week-482/day-3372.md) | ✓ **block ×4 · ×19 submerged** | **Cal-Y10 D227 · ~6 Aug** |
+| 3373 | [day-3373.md](days/year-010/week-482/day-3373.md) | ✓ **lift ×7 · block ×4 · stack ready** | **Cal-Y10 D228 · ~7 Aug** |
+| 3374 | [day-3374.md](days/year-010/week-482/day-3374.md) | ✓ **lime burn · careful ×4 · W482 close** | **Cal-Y10 D229 · ~8 Aug** |
+| 3375 | [day-3375.md](days/year-010/week-483/day-3375.md) | ✓ **farm · rett pull · garage stem** | **Cal-Y10 D230 · ~9 Aug** |
+| 3376 | [day-3376.md](days/year-010/week-483/day-3376.md) | ✓ **wood haul · garage frame started** | **Cal-Y10 D231 · ~10 Aug** |
+| 3377 | [day-3377.md](days/year-010/week-483/day-3377.md) | ✓ **straps ×4 · nails ×32 · draw bench** | **Cal-Y10 D232 · ~11 Aug** |
+| 3378 | [day-3378.md](days/year-010/week-483/day-3378.md) | ✓ **garage frame d2 · prism 7d PASS** | **Cal-Y10 D233 · ~12 Aug** |
+| 3379 | [day-3379.md](days/year-010/week-483/day-3379.md) | ✓ **garage roof · Norima covered** | **Cal-Y10 D234 · ~13 Aug** |
+| 3380 | [day-3380.md](days/year-010/week-483/day-3380.md) | ✓ **farm scare · hemp cut prep · roof R&D** | **Cal-Y10 D235 · ~14 Aug** |
+| 3381 | [day-3381.md](days/year-010/week-483/day-3381.md) | ✓ **`HEMP-CUT-Y10-1` hero** | **Cal-Y10 D236 · ~15 Aug** |
+| 3382 | [day-3382.md](days/year-010/week-484/day-3382.md) | ✓ **W484 · break T1 · spin** | **Cal-Y10 D237 · ~16 Aug** |
+| 3383 | [day-3383.md](days/year-010/week-484/day-3383.md) | ✓ **rett load · rope · `P-RETT-30` CLOSE** | **Cal-Y10 D238 · ~17 Aug** |
+| 3384 | [day-3384.md](days/year-010/week-484/day-3384.md) | ✓ **spin AM · rope PM** | **Cal-Y10 D239 · ~18 Aug** |
+| 3385 | [day-3385.md](days/year-010/week-484/day-3385.md) | ✓ **cover weave D1** | **Cal-Y10 D240 · ~19 Aug** |
+| 3386 | [day-3386.md](days/year-010/week-484/day-3386.md) | ✓ **cover weave D2 · ~38%** | **Cal-Y10 D241 · ~20 Aug** |
+| 3387 | [day-3387.md](days/year-010/week-484/day-3387.md) | ✓ **cover weave D3** | **Cal-Y10 D242 · ~21 Aug** |
+| 3388 | [day-3388.md](days/year-010/week-484/day-3388.md) | ✓ **cover D4 · yarn OUT · ~58%** | **Cal-Y10 D243 · ~22 Aug** |
+| 3389 | [day-3389.md](days/year-010/week-485/day-3389.md) | ✓ **W485 · scare · cleanup · flax read** | **Cal-Y10 D244 · ~23 Aug** |
+| 3390 | [day-3390.md](days/year-010/week-485/day-3390.md) | ✓ **sand · lime · block ×4** | **Cal-Y10 D245 · ~24 Aug** |
+| 3391 | [day-3391.md](days/year-010/week-485/day-3391.md) | ✓ **hub exterior limewash** | **Cal-Y10 D246 · ~25 Aug** |
+| 3392 | [day-3392.md](days/year-010/week-485/day-3392.md) | ✓ **wood haul · char retort ×3** | **Cal-Y10 D247 · ~26 Aug** |
+| 3393 | [day-3393.md](days/year-010/week-485/day-3393.md) | ✓ **scare · `P-RETT-31` pull** | **Cal-Y10 D248 · ~27 Aug** |
+| 3394 | [day-3394.md](days/year-010/week-485/day-3394.md) | ✓ **lime · block ×4** | **Cal-Y10 D249 · ~28 Aug** |
+| 3395 | [day-3395.md](days/year-010/week-485/day-3395.md) | ✓ **sand · pile-7 lime haul** | **Cal-Y10 D250 · ~29 Aug** |
+| 3396 | [day-3396.md](days/year-010/week-486/day-3396.md) | ✓ **W486 OPEN · wood · char retort ×3** | **Cal-Y10 D251 · ~30 Aug** |
+| 3397 | [day-3397.md](days/year-010/week-486/day-3397.md) | ✓ **lime · block ×4 · Ghab seed defer** | **Cal-Y10 D252 · ~31 Aug** |
+| 3398 | [day-3398.md](days/year-010/week-486/day-3398.md) | ✓ **block ×4 · raw band spent** | **Cal-Y10 D253 · ~1 Sep** |
+| 3399 | [day-3399.md](days/year-010/week-486/day-3399.md) | ✓ **`P-RETT-31` break · spin** | **Cal-Y10 D254 · ~2 Sep** |
+| 3400 | [day-3400.md](days/year-010/week-486/day-3400.md) | ✓ **cover hemp outer CLOSED** | **Cal-Y10 D255 · ~3 Sep** |
+| 3401 | [day-3401.md](days/year-010/week-486/day-3401.md) | ✓ **flax break · spin · cover thread** | **Cal-Y10 D256 · ~4 Sep** |
+| 3402 | [day-3402.md](days/year-010/week-486/day-3402.md) | ✓ **hemp doff · flax inner D1** | **Cal-Y10 D257 · ~5 Sep** |
+| 3403 | [day-3403.md](days/year-010/week-487/day-3403.md) | ✓ **W487 OPEN · flax inner D2** | **Cal-Y10 D258 · ~6 Sep** |
+| 3404 | [day-3404.md](days/year-010/week-487/day-3404.md) | ✓ **flax inner D3** | **Cal-Y10 D259 · ~7 Sep** |
+| 3405 | [day-3405.md](days/year-010/week-487/day-3405.md) | ✓ **flax inner D4** | **Cal-Y10 D260 · ~8 Sep** |
+| 3406 | [day-3406.md](days/year-010/week-487/day-3406.md) | ✓ **flax inner cut-off** | **Cal-Y10 D261 · ~9 Sep** |
+| 3407 | [day-3407.md](days/year-010/week-487/day-3407.md) | ✓ **cover mounted · wear tune** | **Cal-Y10 D262 · ~10 Sep** |
+| 3408 | [day-3408.md](days/year-010/week-487/day-3408.md) | ✓ **cover outer oilcloth** | **Cal-Y10 D263 · ~11 Sep** |
+| 3409 | [day-3409.md](days/year-010/week-487/day-3409.md) | ✓ **P-01 pistachio primary** | **Cal-Y10 D264 · ~12 Sep** |
+| 3410 | [day-3410.md](days/year-010/week-488/day-3410.md) | ✓ **Ghab seed prep · W488 OPEN** | **Cal-Y10 D265 · ~13 Sep** |
+| 3411 | [day-3411.md](days/year-010/week-488/day-3411.md) | ✓ **Ghab OUT leg 1** | **Cal-Y10 D266 · ~14 Sep** |
+| 3412 | [day-3412.md](days/year-010/week-488/day-3412.md) | ✓ **Ghab OUT leg 2 · lip** | **Cal-Y10 D267 · ~15 Sep** |
+| 3413 | [day-3413.md](days/year-010/week-488/day-3413.md) | ✓ **`HEMP-SEED-STRIP` P-22** | **Cal-Y10 D268 · ~16 Sep** |
+| 3414 | [day-3414.md](days/year-010/week-488/day-3414.md) | ✓ **Ghab BACK leg 1** | **Cal-Y10 D269 · ~17 Sep** |
+| 3415 | [day-3415.md](days/year-010/week-488/day-3415.md) | ✓ **HOME · Ghab seed CLOSED** | **Cal-Y10 D270 · ~18 Sep** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

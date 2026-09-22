@@ -10,11 +10,11 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | ~10.8 kg | Char lane | | d3353 |
+| `CHAR-LANE` | Charcoal, oak · green | ~6.2 kg | Char lane | | d3398 |
 | `CHAR-RESERVE-C` | Charcoal reserve | ~37 kg | Store C vault | | — |
-| `WOOD-OAK-P5` | Oak, green | ~20.4 kg | Pile 5, camp north face | | d3333 |
-| `SHIVE-FLAX` | Flax shive | ~6.9 kg | Storage wing | | d3216 |
-| `SHIVE-HEMP-Y8` | Hemp shive | ~4.95 kg | Berm | | d3098 |
+| `WOOD-OAK-P5` | Oak, green | **~20.1 kg @ pile 5** · **~6.5 kg @ garage pad** | Pile 5 / pad | | d3396 |
+| `SHIVE-FLAX` | Flax shive | ~8.1 kg | Storage wing | | d3401 |
+| `SHIVE-HEMP-Y8` | Hemp shive | ~8.2 kg | Berm | | d3399 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
 
 ## Clay, stone and aggregate
@@ -27,9 +27,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
-| `GRAVEL-1` | Gravel aggregate | ~20.4 kg | Pile 4 south band | | d3188 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~22.7 kg | Pile 4 apron | | d3324 |
-| `SAND-RIVER-GROG` | River sand / grog | ~19.3 kg | Fabrica SW margin | | d3318 |
+| `GRAVEL-1` | Gravel aggregate | ~19.2 kg | Pile 4 south band | | d3374 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~9.4 kg | Pile 4 apron | | d3398 |
+| `SAND-RIVER-GROG` | River sand / grog | ~0.9 kg | Fabrica SW margin | | d3395 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | ☠ **×0** — spent on the seventh block d3280 | Pile 4 north band | | d3280 |
 | `POZZ-SLAB-TRIAL-1` | Pozzolan slab · reference | ~4.8 kg | Apron | | d1868 |
 | `LIMESTONE-CHIP-TRAIL` | Limestone chip, trail assay | ~320 g | Pile 7 lip | | d2940 |
@@ -40,8 +40,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | ~4.3 kg | Pile 7, camp north face | | d3190 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~11.3 kg | Lime trough | d3190 | d3324 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | ~0.35 kg | Pile 7, camp north face | d3374 | d3398 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~0.9 kg | Lime trough | d3390 | d3398 |
+| `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
@@ -111,7 +112,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — ~58 m left in it at 0.9 mm | ~366 g | — | | d3353 |
-| `IRON-BLOOM-1` | Iron bloom, mounted · green | ~720 g | — | | d3246 |
+| `IRON-BLOOM-1` | Iron bloom, mounted · green | ~190 g | — | | d3377 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
 | `ZNO-CALCINE` | Zinc oxide calcine | ~849 g | — | | d3102 |
 | `ZN-METAL-1` | Zinc, prill tail | ~81 g | Chem-lab lidded tray | | d2979 |
@@ -120,7 +121,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `PB-METAL` | Lead, tail · red · galena restock queued | ~15 g | Forge jar | | d3202 |
 | `BRASS-STOCK` | Brass stock · ⚠ very low | ~11.8 g | Chill tray | | d3171 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | ×0 | Bench peg tray | | d3179 |
+| `NAIL-IRON` | Iron nails | ×8 | Bench peg tray | d3379 | d3379 |
+| `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
 | `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×2 | Horreum peg tray | | d3081 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | ×2 | Bench tray | | d3087 |
 
@@ -164,13 +166,17 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FLAX-LINE-BANK` | Flax line | ~425 g | `WOOD-CRATE-6` fibre | | d3075 |
-| `FLAX-TOW-BANK` | Flax tow | ×0 | Wing shelf | | d3091 |
+| `FLAX-LINE-BANK` | Flax line | ×0 | — | | d3401 |
+| `FLAX-TOW-BANK` | Flax tow | ~65 g | Wing shelf | | d3401 |
+| `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
-| `HEMP-LINE-26` | Hemp line | ~870 g | `WOOD-CRATE-6` fibre | | d3226 |
-| `HEMP-TOW-BANK` | Hemp tow | ~180 g | Storage wing tow bag | | d3091 |
-| `HEMP-TOW-Y8` | Hemp tow, Y8 tail | ×0 | — | | d2458 |
-| `ROPE-HEMP-STOCK-2` | Hemp rope · reserve / lash class | ~5.9 m | WW peg | | d3171 |
+| `HEMP-LINE-26` | Hemp line | ~10 g tail | `WOOD-CRATE-6` fibre | | d3384 |
+| `P-HEMP-LINE-GHAB-Y10-1` | Hemp line · **`P-RETT-30` lap** | ×0 | — | d3383 | d3384 |
+| `HEMP-THREAD-Y10-1` | Hemp thread · cover weft | ~75 m | Craft wing peg | d3382 | d3400 |
+| `WAGON-V2-COVER-HEMP-FLAX-1` | Wagon cover · hemp shell + flax liner · air gap · **outer oilcloth d3408** · mounted Norima | ✓ CLOSED d3407 | `WAGON-V2-COVER-ARCH-1` | d3400 | d3408 |
+| `HEMP-TOW-BANK` | Hemp tow | ~313 g | Storage wing tow bag | | d3399 |
+| `HEMP-GREEN-GHAB-Y10-1` | Hemp stalk, green · **`P-22` wild · fibre haul** | ×0 → **`P-RETT-30`** | — | d3363 | d3365 |
+| `ROPE-HEMP-STOCK-2` | Hemp rope · reserve / lash · **cover weave band** | ~35 m | WW peg | | d3407 |
 | `ROPE-HEMP-HOME` | Hemp rope · good lay, **reserve for load work** | ~6.4 m | Pile 2 | d3221 | d3221 |
 | `ROPE-HEMP-Y10` | Hemp rope · ⚠ **lash class only** — uneven lay, soft spots, never under load | ~28 m | Pile 2 | d3226 | d3226 |
 | `ROPE-1` | 3-strand hemp · ⚠ **lashing grade only** — uneven lay | ~24 m | — | d3255 | d3255 |
@@ -334,7 +340,7 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `WAX-Y10-RENDER-1` | Beeswax, clean cake — ~850 g `SKEP-1` + ~190 g `SKEP-2` | ~1.03 kg | Wax store | | d3322 |
+| `WAX-Y10-RENDER-1` | Beeswax, clean cake — ~850 g `SKEP-1` + ~190 g `SKEP-2` | ~0.62 kg | Wax store | | d3408 |
 | `COMB-TO-RENDER` | Comb awaiting render · the two torn on the cut-out, plus `SKEP-2`'s | ~90 g | Wax queue | | d3265 |
 
 Y10's binding constraint, closed. Yield per kg of comb is low because old brood comb is mostly cocoon and propolis — honey comb off top bars is the rich fraction. See [bees.md](../government/procedures/bees.md).

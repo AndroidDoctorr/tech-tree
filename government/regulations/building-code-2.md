@@ -36,9 +36,11 @@ A chase costs a morning while the wall is open and is effectively unbuyable once
 
 ---
 
-## BC-2-BLOCK — cast block *(new standard)*
+## BC-2-BLOCK — hollow cast block *(cinder-class · new standard)*
 
-**Prerequisites, all live:** quicklime ✓ · pozzolan ✓ · sand and grit ✓ · iron bar ✓ · timber and strap for a mould ✓.
+**Prerequisites, all live:** quicklime ✓ · pozzolan ✓ · sand and grit ✓ · wrought rebar ✓ · timber and strap for a mould ✓.
+
+★★ **Call it what you like — cinder block, hollow block, cast block — it is one unit in this code:** dry-tamped lime–pozzolan with **two vertical cores**, cured damp, laid dry, with **selected cores grouted solid around rebar**. That is the earthquake wall, not a cheaper brick.
 
 ★★ **Block is castable stone, and that resolves a standing conflict in this code.** [BC-3](#ground-level-elements) requires stone at grade and forbids fired brick there, because brick wicks — but dressed stone is slow. A cast block is a stone-class unit produced at brick-class speed.
 
@@ -98,14 +100,17 @@ This is why hollow, and not simply a smaller solid unit:
 
 ### ⚠ Aggregate — the "cinder" question
 
-Real cinder block used coal ash, which is not what is on this campus.
+Industrial cinder block used **coal ash** as cheap bulk. This campus does not have a coal plant; **"cinder block" here means the same *form* — hollow, tamped, pozzolanic — not the same ash.**
 
 | Aggregate | Verdict |
 |---|---|
-| **Crushed stone · grit · sharp sand** | ✓ **The structural standard.** Use this |
-| **Bloomery slag, crushed** | **Acceptable as partial aggregate** in non-load-bearing units. Historically ordinary |
-| ☠ **Copper slag** | ✗ **No.** It is 3.8 kg of re-charge stock that still holds metal — it is feedstock, not gravel |
+| **Crushed stone · grit · sharp sand** | ✓ **The structural standard.** Use this in every load-bearing unit and in all grout |
+| **Crushed underburnt brick · kiln seconds · broken pot** | ✓ **The pozzolan feedstock** — ground reject, not vitrified hard brick |
+| **Bloomery slag, crushed** | **Partial aggregate only** — acceptable in **non-load-bearing** infill or yard units, not in stem, corner cores, or ring-beam grout |
+| ☠ **Copper slag** | ✗ **No.** It is re-charge stock that still holds metal — feedstock, not gravel |
 | ⚠ **Char fines · unburnt ash** | ✗ **No.** Unburnt carbon makes a weak, punky block |
+
+★ **Do not chase the name.** A hollow lime–pozzolan block with stone aggregate and grouted rebar cores is **functionally what cinder block was invented to be** — light unit, continuous vertical chase, cast-in-place column — without importing a fuel nobody burns here.
 
 ### Laying
 
@@ -142,17 +147,21 @@ Real cinder block used coal ash, which is not what is on this campus.
 | **Dowels** | Rebar left standing proud across every planned joint |
 | ★ **Plan the joint** | **A planned construction joint is sound. An accidental cold joint is a crack you built on purpose** |
 
-### Rebar
+### Rebar — wrought iron *(BC-2-REBAR)*
 
-Carrying forward from BC-1 and extended.
+Carrying forward from BC-1 and extended. **There is no rolled mild-steel stock on this campus.** Structural bar is **bloomery wrought iron**, forged to section, installed in lime–pozzolan concrete and grout.
 
 | Rule | Standard |
 |---|---|
-| **Ends** | ★ **Hook them.** Plain round bar bonds poorly · twisted square bar bonds far better |
-| **Cover** | **25–40 mm of concrete over every bar.** Lime-pozzolan is alkaline and passivates iron — but only where it actually covers it. Rust swells, and swelling spalls the cover off |
+| **Section** | ★★ **Twisted square prism, modest size** — roughly **8–12 mm** face class, full length twisted under the hammer so the faces read as a spiral key. *Plain round rod drawn off the bench bonds poorly; twist is the deformed bar you can actually make* |
+| **Length** | Forge-weld or **lap**; do not pretend a single bloom yields a full wall height without a joint |
+| **Ends** | ★ **Hook every termination** in a pour or grouted cell — even twisted bar — unless the detail is fully developed (continuous vertical with lapped splices only) |
+| **Cover** | **25–40 mm of grout or concrete over every bar face.** Lime-pozzolan is alkaline and passivates iron — but only where it actually covers it. Rust swells, and swelling spalls the cover off |
 | ⚠ **Chairs** | **Hold the bar up off the ground on stones or fired chairs.** *Bar laid on the dirt has zero cover on its underside and will rust out from below* — the most common way a good pour fails |
-| **Laps** | Where two bars join, overlap generously — on the order of **40× the bar diameter** — and wire the lap |
-| **Columns to walls** | ✓ **Rebar ties the tie-columns into the wall** — dowels bedded into the bed joints as the wall goes up |
+| **Laps** | Overlap generously — on the order of **40× the bar face** — faces aligned, **wired** (iron or copper tie wire), grout rodded through the lap so voids do not stay voids |
+| **Columns to walls** | ✓ **Rebar ties the tie-columns into the wall** — vertical bar continuous or lapped through the ring beam; **dowels** bedded in footing and socle pours; **horizontal ties** through bed joints where brick meets column (brick path) or cast as one object (block path) |
+| **Ring beam · plinth** | Same bar stock, same cover rules. ★ **The ring is one closed loop of reinforcement**, not four separate lintels with gaps at the corners |
+| **Stock** | Smelt and draw before a structural hero — see [construction.md](../procedures/construction.md) Phase 0. **Bar in the wall is not recoverable; budget the forge run in the pour plan** |
 
 ---
 
@@ -160,26 +169,45 @@ Carrying forward from BC-1 and extended.
 
 > ☠ **A damaging quake here runs about once in 125 years. I do not die.** *"Sound for a few decades" is the wrong frame — in a millennium this campus goes down eight times.* Mass carries weight beautifully and has no answer at all to sideways shaking.
 
-**Two systems are permitted. They are equivalent in intent and must not be mixed carelessly within one wall.**
+**Design intent for new work:** a **solid, interlinked frame** — footing, plinth tie, grouted cores or cast columns, **closed ring beam** — with a **light, rigid roof diaphragm** tied down so the building moves as one object instead of a stack of parts arguing.
+
+**Two wall systems are permitted. They are equivalent in intent and must not be mixed carelessly within one wall.**
 
 ### Brick — confined masonry
 
 ★★ **Build the brick panel first, leave the brick ends toothed, cast the column against it second** so the concrete keys into the teeth. ☠ *Cast the column first and butt brick to it and you have a post standing next to a wall — same materials, none of the benefit.*
 
-### Block — reinforced hollow-unit
+### Block — reinforced hollow-unit *(preferred for long runs)*
 
-★★ **The column is cast inside the wall.** Lay the block, stand the rebar in the chosen cores, grout them solid. There is no toothing because there is no interface — **the wall and the column are the same object.** This is the cleaner system and it is the reason block is now the standard for long structural runs.
+★★ **The column is cast inside the wall.** Lay the block, stand the rebar in the chosen cores, grout them solid. There is no toothing because there is no interface — **the wall and the column are the same object.** This is the cleaner system and it is the reason cinder-class block is now the standard for long structural runs.
+
+★★ **Interlink the shells.** Corner cores, opening jambs, and **cross-walls** share the same grout-and-bar grammar so panels cannot shear past each other. A long straight wall without returns is a hinge waiting for a direction to fail.
 
 ### Both systems
 
 | Rule | Standard |
 |---|---|
-| **Columns** | Every corner, both sides of every opening, and at intervals along long walls |
+| **Columns** | Every corner, both sides of every opening, and at intervals along long walls — ★ **spacing small enough that no panel acts as a free-standing sail** |
 | **Ring beam** | Continuous reinforced band at the head, tied into every column — ★ **a closed RING, not four lintels** |
 | **Plinth beam** | Tie the column bases together at socle level, or the feet splay |
-| **Openings** | ⚠ No window or door within about **half a wall-height of a corner** — corners are where shear failure starts. Generous lintel bearing past each jamb |
-| **Panel length** | Limit unbraced run — column or cross-wall at intervals |
-| **Roof** | ☠ **Tie the roof frame down to the ring beam.** An untied roof leaves. Tile is heavy and mass up high is what you least want — keep it, but brace and tie it properly |
+| **Openings** | ⚠ No window or door within about **half a wall-height of a corner** — corners are where shear failure starts. Generous lintel bearing past each jamb · reinforced lintel where the opening is wide |
+| **Panel length** | Limit unbraced run — column, cross-wall, or return at intervals |
+| **Roof** | [BC-2-ROOF](#bc-2-roof--seismic) — light mass, rigid diaphragm, tied to the ring |
+
+### BC-2-SEISMIC-ENERGY — where the shake goes
+
+> ★★ **You cannot cancel an earthquake. You can only choose what yields, what slides, and what stays elastic.** *Preparation lowers consequence on EXTERNAL risk — it does not lower the probability.*
+
+| Strategy | Verdict |
+|---|---|
+| ★★★ **Confined masonry / grouted block** | **The real energy sink.** Cracking is distributed in the panel; the frame keeps the pieces from becoming rubble |
+| ★★ **Light mass up high** | **Less inertia to accelerate.** A heavy roof on a stiff wall multiplies overturning — see roof section |
+| ★★ **Rigid diaphragm, ductile connections** | **The roof plane stays one shape; the ties deform slightly instead of the wall head opening** — iron straps, bolted collars, slotted holes where seasonal movement is expected |
+| ★ **Sacrificial soft joints** | **Deliberate weak planes** — render scrim at panel-to-column lines, **dry-laid** garden and yard elements per BC-3 — so something harmless moves before the structural line does |
+| ⚠ **Friction slip interfaces** | **Research tier, not standard.** A leather or oiled-wood slider with **limited stroke** between bearing block and sill *can* absorb a little energy — but only if the wall above cannot fall off the slider. Document, test on a mock-up, never on a habitable room until it has survived a deliberate shove test |
+| ✗ **Swinging counterweights · pendulum "dampers"** | **Not codified — and for good reason.** A tuned mass only helps when its **period, mass fraction, and damping** match the building — values you do not yet measure in the field. ☠ **Mistuned, it can amplify the motion it was meant to kill.** *Clock pendulums swing in buildings that were already designed not to fall; they are not what keeps the tower up* |
+
+★ **If you want motion without magic:** spend the iron and grout on **ties, ring, and a light braced roof** first. That is the whole earthquake programme for this century. Anything fancier belongs in a **named experiment** on a non-habitable frame, with before-and-after shove logs — not in BC-2 as a default.
 
 ---
 
@@ -342,9 +370,19 @@ Carrying forward from BC-1 and extended.
 
 ## Roof and floor
 
+### BC-2-ROOF — seismic
+
 | Rule | Standard |
 |---|---|
-| **Roof** | **Tile.** ⚠ Tied down to the ring beam |
+| ★★★ **Light up high, stiff in plane** | **Minimise mass on the diaphragm; maximise bracing in the diaphragm.** *Earthquake force scales with what moves — a heavy roof is a weapon aimed at the ring beam* |
+| **Structure** | **Triangulated frame** — rafters, collar ties, wind braces, gable bracing. ☠ **A rectangle of timbers is a parallelogram waiting to happen** |
+| **Sheathing** | **Continuous deck** — board or split shake on the frame before any finish. The deck is the diaphragm; the finish is weather |
+| **Finish** | ★ **Light first:** shake, thin tile, or mixed — **full heavy tile only where the ring and ties are already proven** on that building. Existing tile stock is not a reason to overload a new light frame |
+| ☠ **Tie-down** | **Every rafter or truss heel to the ring beam** — strap, bolt, or hooked bar in a grouted pocket. *An untied roof does not stay; it departs* |
+| **Chimneys and stacks** | ★ **Shorten leverage:** brace to the frame, keep mass low, separate from sleeping wings where possible |
+
+| Rule | Standard |
+|---|---|
 | **Finish floor** | Tile, or oak plank on the clean-wing grammar |
 | **Oak plank** | ★ Planed and sanded smooth **before** install · treated after · ☠ no raw-sawn plank in a habitable room |
 
@@ -433,14 +471,19 @@ Carrying forward from BC-1 and extended.
 
 | Priority | Work | Note |
 |---|---|---|
-| **1** | **Ring beam** — continuous reinforced band at wall head | ★ **The highest-value single intervention on unreinforced masonry, by a long way** |
-| **2** | **Corner ties** — external buttress-columns, tied through the wall | Not as good as cast-against-toothed-brick; far better than nothing |
-| **3** | Plinth tie at socle where accessible | |
-| **4** | Render and plaster to BC-2-RENDER | ⚠ DPC first, always |
+| **1** | **Ring beam** — continuous reinforced band at wall head, wrought bar, hooked ends | ★ **The highest-value single intervention on unreinforced masonry, by a long way** |
+| **2** | **Roof tie-down** to the new ring — straps, lightened finish where over-heavy | ★★ **A ring without ties is a belt on a coat that is not buttoned** |
+| **3** | **Corner ties** — external buttress-columns or grouted block piers, bar through the wall | Not as good as cast-against-toothed-brick; far better than nothing |
+| **4** | Plinth tie at socle where accessible | |
+| **5** | Render and plaster to BC-2-RENDER | ⚠ DPC first, always |
 | ★ **Opportunistic** | **Chase and sleeve whenever a wall is open anyway** | ★★ **Never open a wall for services. Always add services to an open wall** |
 
-**New builds: full BC-2 from the first course.**
+**New builds: full BC-2 from the first course** — strip footing with rebar · cinder-class block stem and walls with grouted structural cores · closed ring · light braced roof tied down.
+
+**Extensions to existing wings:** match the **interlink grammar** at the junction — dowels, toothed panel, or block pier grouted through — ☠ **never butt a new reinforced run to an old unreinforced panel without a designed tie**
 
 ---
 
 *BC-2 filed Day 3275 · supersedes BC-1 · concrete, block, services and plaster brought into the code · procedure in [construction.md](../procedures/construction.md).*
+
+*Amended Day 3378 · Cal-Y10 D233 · hollow block named cinder-class · [BC-2-REBAR](#rebar--wrought-iron-bc-2-rebar) · seismic interlink · light rigid roof · energy-management table (pendulum dampers explicitly not standard).*

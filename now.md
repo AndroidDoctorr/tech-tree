@@ -2,15 +2,72 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3353** · Cal-Y10 D208 · ~18 Jul · **Chip trial + farm scare**
+**Day 3415** · Cal-Y10 D270 · ~18 Sep · **Ghab seed HOME**
+
+> ## ✓ **`HEMP-GHAB-SEED-RUN-Y10` CLOSED *(d3410–3415)*
+> ✓ **~108 g wild reserve @ vault · last loaded exped Y10 · HOME ~9 d before 27 Sep exped close.**
+
+> ## ⚑ **HOME-only runway**
+> **Pistachio hull dry · block lime/sand · `HEMP-GHAB-RESERVE` rag test**
+
+> ## ✓ **Block yard *(d3398)*
+> ✓ **×36 submerged.** ⚠ **Lime/sand/char before next ×4.**
+
+> ## ⚑ **`SUNGLASS-YULE-1`** · **Ghab seed** *(queued)*
+
+> ## ★ **`ROOF-R&D-HEMP-BITUMEN-1`** *(player d3380 · not BC-2)*
+> **Hemp mat + bitumen + mineral surfacing · deck · shingle · copper trial parallel.** See [plans/roof-rd-hemp-bitumen-1.md](plans/roof-rd-hemp-bitumen-1.md).
+
+> ## ✓ **`WAGON-GARAGE-1` CLOSED *(utility)* *(d3375–3379)*
+> ✓ **Roof d3379 · Norima under cover.** Phased block + timber + shake.
+
+> ## ✓ **`WAGON-GARAGE-1` *(d3378)*
+> ✓ **Frame complete · ×4 straps bolted · rafters closed.**
+
+> ## ✓ **Garage hardware *(d3377)*
+> ✓ **`WAGON-GARAGE-STRAP-1` ×4 forged · `NAIL-IRON` draw to ×32 @ bench.**
+
+> ## ✓ **`WAGON-GARAGE-1` *(d3376 · corrected)*
+> ✓ **Wood haul · plate + posts raised · rafters part-cut.** ⧗ **Roof · forge straps · nails still open · `NAIL-IRON` ×0.** Norima still in open yard.
+
+> ## ✓ **Garage + farm *(d3375)*
+> ✓ **`WAGON-GARAGE-1` stem ×7 block · open front.** ✓ **`P-RETT-30` pulled → `W-1` queue.** ✓ **Fig/grape scare strip.**
+
+> ## ✓ **Block yard *(d3374)*
+> ✓ **Pile-7 burn then careful ×4 · ×20 submerged · `BLOCK-CAST-Y10-3280` ×7 stack.** ⚠ **Sand trace · gravel top-up used · lime ~3.5 kg tail.**
+
+> ## ✓ **Block yard *(d3373)*
+> ✓ **`BLOCK-CAST-Y10-3280` ×7 dry stack · load-bearing.** ✓ **×16 submerged · ×4 tamped today.** ⚠ **`QUICKLIME-1` ~4.2 kg — burn before next block band after one more ×4.**
+
+> ## ✓ **Block yard *(d3372)*
+> ✓ **×4 tamped · ×19 submerged.** ✓ **Lime ~9.8 kg · sand class ~21 kg — another ×4 day still GO.**
+
+> ## ✓ **Block yard *(d3371)*
+> ✓ **×4 tamped → pit · ×15 submerged.** ✓ **Mix stock GO** *(lime · reject poz · sand).* ⚑ **d3280 ×7 lift when garage needs · prisms d3378/3399/3461.**
+
+> ## ✓ **Block + binder *(d3370)*
+> ✓ **90-day break PASS · d3280 cohort load-bearing.** ✓ **Retort ×3 · lime load 2 CLOSED.** ✓ **`QUICKLIME-1` ~21 kg · `CHAR-LANE` ~20.6 kg.** ⚑ **×4 younger blocks still submerged · lift d3280 set when ready.**
+
+> ## ✓ **Wood + char runway *(d3369 / d3368)*
+> ✓ **`WOOD-OAK-P5` thin again ~3.6 kg.** ⚑ **Wagon garage block stem unlocked · timber phase OK.**
+
+> ## ✓ **Lime + Bed A expand *(d3367)*
+> ✓ **Two-burn lime arc CLOSED d3370.** ✓ **Bed A north ~18 m² staked.**
+
+> ## ✓ **Cover + garage doctrine *(player d3367)*
+> ✓ **Hemp outer · flax inner.** ✓ **Wagon garage phased — block stem unlocked d3370 · timber shell OK.**
+
+> ## ✓ **`BLOCK-Y10` yard *(d3370)*
+> ✓ **90-day break PASS · ×7 d3280 cohort load-bearing when lifted.** ⧗ **×4 d3366 still submerged.**
+
+> ## ✓ **`HEMP-GHAB-FIBRE-HAUL-Y10` CLOSED *(d3365)*
+> ✓ **~42 kg green · `P-RETT-30` submerged** — ★ **enough fibre stock for cover/rope pipeline + Aug Bed A cut.**
+
+> ## ✓ **Farm + campus *(d3360 · rett d3365)*
+> ✓ **Scare · Norima service.** ⧗ **`P-RETT-30` hemp submerged · pull ~d3375–d3380.** · **`W-1` flax dry queue.** ✓ **`GHAB-SOUTH-TRAIL` lip terminus.**
 
 > ## ✓ **`GARNIERITE-CHIP-M24-3` trial *(d3353)*
-> ◐ **≈ `CU-NI-TRIAL-M24-C` on bridge · north ribbon still scale-up face.** ✓ **`CU-NI-TRIAL-M24-D` banked.**
-
-> ## ✓ **Farm scare *(d3353)*
-> ✓ **`P-RETT-29` pulled → `W-1` · pool empty.** ⚠ **`DRY-LEVELS` fired.** ⧗ **Lap 3 flax before load `P-RETT-30`.**
-
-> ## ✓ **`ISLAHIYE-GARNIERITE-HAUL-Y10` CLOSED *(d3352)*
+> ◐ **≈ `CU-NI-TRIAL-M24-C` on bridge.**
 > ✓ **`GARNIERITE-BULK-M24-1` ~31 kg @ forge staging.**
 
 > ## ✓ **`FAVA-SEED-HARVEST-Y10` + `WOAD-LEAF-Y10-1` *(d3345 · shred d3351 neighbor)*
@@ -27,7 +84,7 @@
 > ✓ **Fork loop · goats · holding scrape · nitre turn · apiary · cells · smoke-spot · snails.**
 > ⧗ **`W-1` dry queue · lap 1–2 rett pulled · break/heckle defer**
 
-> ## ✓ **`BASALT-DATUM` turned *(d3342)* — blocks still settling · no lap yet.
+> ## ✓ **`BASALT-DATUM` turned *(d3342 · d3360)* — blocks still settling · no lap yet.
 
 > ## ✓ **`ISLAHIYE-NICKEL-SCOUT-Y10` CLOSED *(d3341)* · **`ISLAHIYE-GARNIERITE-HAUL-Y10` CLOSED *(d3352)*
 

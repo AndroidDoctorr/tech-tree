@@ -97,7 +97,7 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - ☠ ★★★ **`OPEN-ITEM-AGE` — every line in a day file's `Open` block carries the day it was OPENED** *(d3295)*. **A carry-forward list is a machine for making old things look current:** *the Open block is copied forward every morning, so a dead line gets rewritten in today's hand and reads exactly as fresh as a real one.* ★★ **Age is the only thing that distinguishes a live item from a ghost.** ⚠ **Before carrying an item forward, check the thing it names actually exists** — *`P-RETT-14` was carried for ~1,300 days into an empty ditch*
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
 - **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
-- **Every material must be accounted for.** Building a table consumes wood. The Player cannot build a table if they have no wood. Cooking food uses wood or charcoal (for now). Nothing just magically appears.
+- **Every material must be accounted for.** Building a table consumes wood. The Player cannot build a table if they have no wood. Cooking food uses wood or charcoal (for now). Nothing just magically appears. The Player and his animals must eat.
 
 The Assistant Device should try to warn the Player if they're about to make a mistake, or do anything dumb, or forget something important. The Assistant is not prescient, but it knows physics, chemistry, electrical engineering, etc., and the Player is cautious, asks a lot of questions, and trusts the Assistant.
 
