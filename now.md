@@ -2,18 +2,32 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3415** · Cal-Y10 D270 · ~18 Sep · **Ghab seed HOME**
+**Day 3442** · Cal-Y10 D297 · ~15 Oct · **Norima overhaul**
 
-> ## ✓ **`HEMP-GHAB-SEED-RUN-Y10` CLOSED *(d3410–3415)*
-> ✓ **~108 g wild reserve @ vault · last loaded exped Y10 · HOME ~9 d before 27 Sep exped close.**
+> ## ✓ **`WAGON-V2-OVERHAUL-Y10` *(d3440–3442)*
+> ✓ **Collars · tail/rail strips · bush · rim trim · full tune · wear 35.**
 
-> ## ⚑ **HOME-only runway**
-> **Pistachio hull dry · block lime/sand · `HEMP-GHAB-RESERVE` rag test**
+> ## ✓ **Restock *(d3438–3439 · corrected)*
+> ✓ **`SAND-FILTER-1` ~22.2 kg · `WOOD-OAK-P5` ~48.8 kg · `CACO3-P7` ~19.6 kg unchanged.**
+
+> ## ✓ **`BLOCK-Y10` ×4 *(d3437)*
+> ✓ **Pit ×52 · sand GO · lime ~1.0 kg — burn before next ×4.**
+
+> ## ✓ **`WOOD-HAUL-3425` *(d3425)*
+> ✓ **`WOOD-OAK-P5` ~25.0 kg @ pile 5.** Norima under canvas @ garage.
+
+> ## ✓ **`NITRE-BOIL-Y10-1` *(d3424)*
+> ✓ **~125 g crystal · `M-12-NITER` ~495 g · coal flare PASS · leach band closed.**
+
+> ## ✓ **Char *(d3424)*
+> ✓ **Retort ×3 · `CHAR-LANE` ~16.8 kg GREEN.** ✓ pile 5 refilled d3425.
+
+> ## ⚑ **HOME-only · exped closed**
 
 > ## ✓ **Block yard *(d3398)*
-> ✓ **×36 submerged.** ⚠ **Lime/sand/char before next ×4.**
+> ✓ **×52 submerged @ pit.** ✓ **Sand ~22 kg · wood pile 5 fat · lime ~1.0 kg — burn before ×4.**
 
-> ## ⚑ **`SUNGLASS-YULE-1`** · **Ghab seed** *(queued)*
+> ## ⚑ **`SUNGLASS-YULE-1`** — **×3 lens blanks annealing · brass after lap**
 
 > ## ★ **`ROOF-R&D-HEMP-BITUMEN-1`** *(player d3380 · not BC-2)*
 > **Hemp mat + bitumen + mineral surfacing · deck · shingle · copper trial parallel.** See [plans/roof-rd-hemp-bitumen-1.md](plans/roof-rd-hemp-bitumen-1.md).

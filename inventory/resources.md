@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | ~6.2 kg | Char lane | | d3398 |
+| `CHAR-LANE` | Charcoal, oak · green | ~4.6 kg | Char lane | | d3441 |
 | `CHAR-RESERVE-C` | Charcoal reserve | ~37 kg | Store C vault | | — |
-| `WOOD-OAK-P5` | Oak, green | **~20.1 kg @ pile 5** · **~6.5 kg @ garage pad** | Pile 5 / pad | | d3396 |
+| `WOOD-OAK-P5` | Oak, green | **~48.8 kg @ pile 5** · **~6.5 kg @ garage pad** | Pile 5 / pad | | d3439 |
 | `SHIVE-FLAX` | Flax shive | ~8.1 kg | Storage wing | | d3401 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~8.2 kg | Berm | | d3399 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
@@ -28,8 +28,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
 | `GRAVEL-1` | Gravel aggregate | ~19.2 kg | Pile 4 south band | | d3374 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~9.4 kg | Pile 4 apron | | d3398 |
-| `SAND-RIVER-GROG` | River sand / grog | ~0.9 kg | Fabrica SW margin | | d3395 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~22.2 kg | Pile 4 apron | | d3438 |
+| `SAND-RIVER-GROG` | River sand / grog | ~2.1 kg | Fabrica SW margin | | d3438 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | ☠ **×0** — spent on the seventh block d3280 | Pile 4 north band | | d3280 |
 | `POZZ-SLAB-TRIAL-1` | Pozzolan slab · reference | ~4.8 kg | Apron | | d1868 |
 | `LIMESTONE-CHIP-TRAIL` | Limestone chip, trail assay | ~320 g | Pile 7 lip | | d2940 |
@@ -40,8 +40,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | ~0.35 kg | Pile 7, camp north face | d3374 | d3398 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~0.9 kg | Lime trough | d3390 | d3398 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | ~19.6 kg | Pile 7, camp north face | d3374 | d3427 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~1.0 kg | Lime trough | d3390 | d3437 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
 
@@ -111,15 +111,15 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — ~58 m left in it at 0.9 mm | ~366 g | — | | d3353 |
+| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — ~58 m left in it at 0.9 mm | ~328 g | — | | d3431 |
 | `IRON-BLOOM-1` | Iron bloom, mounted · green | ~190 g | — | | d3377 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
-| `ZNO-CALCINE` | Zinc oxide calcine | ~849 g | — | | d3102 |
+| `ZNO-CALCINE` | Zinc oxide calcine | ~836 g | — | | d3431 |
 | `ZN-METAL-1` | Zinc, prill tail | ~81 g | Chem-lab lidded tray | | d2979 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | ~118 g | Purple lidded jar, v1 chem | | d3013 |
 | `BRONZE-STOCK` | Bronze, sprue tail · red | ~75 g | Chill tray | | d3064 |
 | `PB-METAL` | Lead, tail · red · galena restock queued | ~15 g | Forge jar | | d3202 |
-| `BRASS-STOCK` | Brass stock · ⚠ very low | ~11.8 g | Chill tray | | d3171 |
+| `BRASS-STOCK` | Brass stock · **`SUNGLASS-FRAME-WIRE-Y10` ~28 m @ peg** | ~42 g class @ tray | Chill tray | | d3435 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
 | `NAIL-IRON` | Iron nails | ×8 | Bench peg tray | d3379 | d3379 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
@@ -159,7 +159,8 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `GP-Y8-C-LITE` | Glass pane, C-lite · spare, dividered | ×20 | Storage wing N upper shelf | | d3073 |
-| `KELP-ASH-5` | Soda / kelp ash · green | ~294 g | v1 chem | | d3100 |
+| `KELP-ASH-5` | Soda / kelp ash · green | ~225 g | v1 chem | | d3430 |
+| `GLASS-TINT-LENS-Y10-D` | Tint lens spare | **`SUNGLASS-LENS-Y10-3` annealed · unlapped** | Spare peg | d3430 | d3435 |
 | `PAPER-SHEET-Y9` | Paper, flax · `SHEET-Y9-FLAX-29…32` · coil interleaving stock | ~13 sheets | Chem-lab rack | | d3232 |
 
 ## Fibre, cordage and hide
@@ -196,9 +197,9 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `DEER-HIDE-1` | Deer hide, **tanned** | ~0.54 m² | Horreum B `LEATHER-STOCK-PEG-1` | | d3170 |
+| `DEER-HIDE-1` | Deer hide, **tanned** | ~0.52 m² | Horreum B `LEATHER-STOCK-PEG-1` | | d3436 |
 | `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | ~0.09 m² | Horreum B | | d3169 |
-| `HIDE-SCRAP` | Hide scrap, tail | ~0.16 m² | — | | d2964 |
+| `HIDE-SCRAP` | Hide scrap, tail | ~0.14 m² | — | | d3436 |
 | `WEATHER-STRIP-LEATHER-1` | Weather strip, ~25 mm | ~4.6 m | — | | d3167 |
 | `MACHINE-BELT-LEATHER-KIT-1` | Machine belt stock — WW · drill · trip tail | — | `BELT` peg | | d3052 |
 | `TRAIL-GEAR-LEATHER-1` | Belt v2 blank · waterskin patch · lash tabs ×4 | — | Vestiarium trail peg | | d2964 |
@@ -257,7 +258,7 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 |---|---|---|---|---|---|
 | `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~116 g flour | ~15.7 kg | — | | d2911 |
 | `M-11-ALUM` | Alum, crude | ~1.39 kg | — | | d3101 |
-| `M-12-NITER` | Niter crystal | ~370 g | Dry jar | | d2989 |
+| `M-12-NITER` | Niter crystal | ~495 g | Dry jar | d3424 | d3424 |
 | `BITTER-SALT-1` | Epsom-class bitter salt · identity narrowed | ~5 g | Chem porch | | d3223 |
 | `QUARTZ-FRIT` | Quartz frit | ~40 g | Vial `G-FRIT` | | d3332 |
 

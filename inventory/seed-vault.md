@@ -82,8 +82,8 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `HEMP-SEL-Y10` | Hemp select · ★ **the Ghab line, gen 4 since Y7** · Bed A | **~15 g** | SEED-VAULT · linen jar | Y10 cut d3381 | — |
-| `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` hard select** · genetics reserve | **~108 g** | SEED-VAULT · linen jar | d3413 gather | d3415 |
+| `HEMP-SEL-Y10` | Hemp select · ★ **the Ghab line, gen 4 since Y7** · Bed A | **~15 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d3416 ~91%** |
+| `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` hard select** · genetics reserve | **~108 g** | SEED-VAULT · linen jar | d3413 gather | **d3416 ~86%** |
 | `FLAX-SOW-Y10` | Flax sow tray | Staged | Vault | Y10 | — |
 | `P-07-ELITE-Y10` | *(fibre elite)* | ~11 g | Vault | Y10 | — |
 

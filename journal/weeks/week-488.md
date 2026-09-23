@@ -1,8 +1,8 @@
 # Week 488
 
-**Status:** **OPEN @ Day 3415** · **Days 3410–** · **Cal-Y10 D265+** · **~13 Sep+**
+**Status:** **CLOSED @ Day 3416** · **Days 3410–3416** · **Cal-Y10 D265–D271** · **~13–19 Sep**
 
-**Live bands:** **Exped closed after d3415 · pistachio hull dry · block runway**
+**Live bands:** **Exped closed · pistachio hull dry · acorn 15 Sep – 30 Nov**
 
 ## Days
 
@@ -14,8 +14,8 @@
 | 3413 | ✓ **`HEMP-SEED-STRIP` @ P-22** |
 | 3414 | ✓ **BACK leg 1** |
 | 3415 | ✓ **HOME · `HEMP-GHAB-SEED-RUN-Y10` CLOSED** |
+| 3416 | ✓ **hemp rag test · farm scare · WEEK CLOSE** |
 
 ## Carried forward
 
-- ⚑ **HOME-only runway · pistachio shell · block lime haul**
-- ⚑ **`HEMP-GHAB-RESERVE-Y10` rag test before arking**
+- ⚑ **Pistachio shell · acorn · block runway · hemp fibre/seed isolation slate**

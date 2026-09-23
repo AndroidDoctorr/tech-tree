@@ -174,6 +174,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `CULINA-WOOD-SPOON-2` | Oak ~18 cm, sauce / taste | Culina peg board | Live |
 | `CULINA-WOOD-SPATULA-1` | Oak ~26 cm, flip lip | Culina peg board | Live |
 | `GLASS-CUP-1…4` | Tumblers ~180 ml, matched set | Culina peg band | Live |
+| `SUNGLASS-YULE-1` | Tint spectacles v1 · round brass · vine temples · side guards · **leather pads + tips** · **`TINT-RECIPE-D-Y10`** | Worn | Live · d3436 |
 | `CULINA-GLASS-OIL-CRUET-1` | Oil cruet ~280 ml, pour lip, glass handle | Culina S peg | Live · holds Y8 oil |
 | `PORC-BOWL-1` | Porcelain bowl ~19 cm | Bench tray | Fired · kitchen-ready |
 | `PORC-BOWL-2…4` | Porcelain bowls ×3, ~19 cm | Culina peg board | Fired · kitchen-ready |

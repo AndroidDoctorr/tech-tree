@@ -76,7 +76,7 @@ Stands drawn on but not tended. Where they are is [map region resources](../map/
 |---|---|---|---|
 | `P-04` · `P-05-A/B` · `P-06-A/B/C` | Wild grain | — | Standing |
 | `FLAX-PATCH-1` | Wild flax band | Ditch W · T-1 lip | ✓ **Laps 1–2 d3333–d3343 · ~6.5 kg green Y10 · window to 26 Jul** |
-| `P-01` | Pistachio | T-2, ~160 m | **Y10 primary picked d3409 · hull drying** |
+| `P-01` | Pistachio | T-2, ~160 m | **Y10 primary shelled d3418 · ~3.72 kg kernels tray** |
 | `P-22` | Wild hemp | Ghab plain · east string | **Seed strip d3413 · partial heads · patch standing** |
 | `P-12` | Fig | 650 m | Standing |
 | `PINE-TAP-CUPS` | Pine, ×8 trees scored and cupped | Pine stand | **Standing — collect on the pass** |

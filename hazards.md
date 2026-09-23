@@ -85,7 +85,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **38** | **Ghab seed return d3415 +1 · tune d3407 40→37** |
+| **Norima wear** | **35** | **Overhaul tune d3442 39→35 · hauls d3438–3439 +2 · tune d3428 base** |
 | **mishap_pool** | **1** | **+1 qualifying exped d3415 · pop only if pool ≥ 8** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
@@ -181,6 +181,21 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 |----|----------------|---------------------------------------------|
 | **CART-WHEEL-MISHAP** | **8_000_000** *(was 12M)* | wobble trim · bind PARTIAL · rim slip hero |
 | **WAGON-HUB-BIND** | **5_000_000** *(was 8M)* | grease defer · collar refresh · hub seize |
+
+### Cart wear ledger *(player d3430 · Norima · COVERED-WAGON-1)*
+
+**Scale:** **0–100** maintenance-debt index for hazard `(wear / 50) × load × terrain` — **not** physical rim mm or “percent life.”
+
+| Event | Δ wear |
+|-------|--------|
+| **Loaded haul hero** — margin · trail · exped · multi-lap stone/wood/lime **with meaningful load** | **+1** |
+| **Heavy north / ~90 kg manifest** day | **+1** *(same tick; load_mult already 1.6 in hazards)* |
+| **Campus yard roll · garage apron · empty bed · hand loop tune test** | **0** |
+| **Farm-scare inline hub grease** *(no haul hero)* | **0** |
+| **Full-day wagon tune** — **`WAGON-V2-TUNE-*`** grammar: hubs · tyres · bed · lash · cover roll · empty certification roll | **−4** |
+| **Partial grease pass** *(minutes, not a tune hero)* | **0** |
+
+> **Prior tunes at −3 stand in the journal; apply −4 from d3431 onward.** Do not retro wear unless player files a retcon.
 
 ### Forge *(hero-day)*
 

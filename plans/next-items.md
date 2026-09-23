@@ -51,7 +51,7 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 ## Rides with the north run *(late Jun)*
 
 - ✓ **`HEMP-GHAB-FIBRE-HAUL-Y10` CLOSED d3365** — **~42 kg · `P-RETT-30` submerged**
-- ✓ **`HEMP-GHAB-SEED-RUN-Y10` CLOSED d3415** — **`HEMP-GHAB-RESERVE-Y10` ~108 g**
+- ✓ **`NITRE-LEACH/BOIL-Y10-1` CLOSED d3424** — **`M-12-NITER` ~495 g**
 - ⚒→⧗ **`BLOCK-Y10`** — **×20 submerged** · **`BLOCK-CAST-Y10-3280` ×7 stack** · prisms d3371 batch
 - ✓ **`KILN-A-LIME-3367` CLOSED d3370**
 - ✓ **`WAGON-GARAGE-1` utility shell d3379** — Norima under cover
@@ -77,11 +77,7 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## Personal · Yule *(player d3400)*
 
-- ⚒ **`SUNGLASS-YULE-1`** — round brass-framed tint lenses · **Yule present to self**
-  - **Glass:** clear lites proven @ Kiln C · **smoke/tint = NOVEL batch** — iron-oxide pinch in culina sand *(green-gray class · trial for density)* · small disk mold or lap from lite grammar
-  - **Frame:** fine brass wire + polish · **`BRASS-STOCK` ~11.8 g — melt/draw band before frames**
-  - **⧗** lens anneal + frame fit · not a one-afternoon close
-  - ★ **UV is not the win here — glare comfort and looking cool in brass are**
+- ✓ **`SUNGLASS-YULE-1` v1 CLOSED d3435** — round brass · vine temples · side guards · **`TINT-RECIPE-D-Y10`** · ⚑ v2 comfort pair after wear notes · spare lens #3
 
 ## Small closes
 

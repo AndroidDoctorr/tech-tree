@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3415)*
+## Recent days *(append here · @ Day 3442)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -170,6 +170,33 @@
 | 3413 | [day-3413.md](days/year-010/week-488/day-3413.md) | ✓ **`HEMP-SEED-STRIP` P-22** | **Cal-Y10 D268 · ~16 Sep** |
 | 3414 | [day-3414.md](days/year-010/week-488/day-3414.md) | ✓ **Ghab BACK leg 1** | **Cal-Y10 D269 · ~17 Sep** |
 | 3415 | [day-3415.md](days/year-010/week-488/day-3415.md) | ✓ **HOME · Ghab seed CLOSED** | **Cal-Y10 D270 · ~18 Sep** |
+| 3416 | [day-3416.md](days/year-010/week-488/day-3416.md) | ✓ **hemp rag · farm scare · W488 CLOSE** | **Cal-Y10 D271 · ~19 Sep** |
+| 3417 | [day-3417.md](days/year-010/week-489/day-3417.md) | ✓ **ACORN-GATHER-Y10-1 · W489 OPEN** | **Cal-Y10 D272 · ~20 Sep** |
+| 3418 | [day-3418.md](days/year-010/week-489/day-3418.md) | ✓ **P-01 shell Y10** | **Cal-Y10 D273 · ~21 Sep** |
+| 3419 | [day-3419.md](days/year-010/week-489/day-3419.md) | ✓ **ACORN-LEACH-Y10-1 soak 1** | **Cal-Y10 D274 · ~22 Sep** |
+| 3420 | [day-3420.md](days/year-010/week-489/day-3420.md) | ✓ **ACORN-LEACH-Y10-1 soak 2** | **Cal-Y10 D275 · ~23 Sep** |
+| 3421 | [day-3421.md](days/year-010/week-489/day-3421.md) | ✓ **ACORN-LEACH-Y10-1 soak 3 · borderline** | **Cal-Y10 D276 · ~24 Sep** |
+| 3422 | [day-3422.md](days/year-010/week-489/day-3422.md) | ✓ **ACORN-LEACH-Y10-1 soak 4 PASS** | **Cal-Y10 D277 · ~25 Sep** |
+| 3423 | [day-3423.md](days/year-010/week-489/day-3423.md) | ✓ **acorn roast · nitre leach · W489 CLOSE** | **Cal-Y10 D278 · ~26 Sep** |
+| 3424 | [day-3424.md](days/year-010/week-490/day-3424.md) | ✓ **nitre boil · char retort · W490 OPEN** | **Cal-Y10 D279 · ~27 Sep** |
+| 3425 | [day-3425.md](days/year-010/week-490/day-3425.md) | ✓ **wood haul · pile 5 refill** | **Cal-Y10 D280 · ~28 Sep** |
+| 3426 | [day-3426.md](days/year-010/week-490/day-3426.md) | ✓ **lime haul · pile 7 restock** | **Cal-Y10 D281 · ~29 Sep** |
+| 3427 | [day-3427.md](days/year-010/week-490/day-3427.md) | ✓ **Kiln A lime ×2 · basalt read** | **Cal-Y10 D282 · ~30 Sep** |
+| 3428 | [day-3428.md](days/year-010/week-490/day-3428.md) | ✓ **wagon tune · cover roll** | **Cal-Y10 D283 · ~1 Oct** |
+| 3429 | [day-3429.md](days/year-010/week-490/day-3429.md) | ✓ **Fe²⁺/Fe³⁺ tint disks · D wins** | **Cal-Y10 D284 · ~2 Oct** |
+| 3430 | [day-3430.md](days/year-010/week-490/day-3430.md) | ✓ **recipe D ×3 lenses · anneal** | **Cal-Y10 D285 · ~3 Oct** |
+| 3431 | [day-3431.md](days/year-010/week-491/day-3431.md) | ✓ **W491 OPEN · anneal · brass frame wire** | **Cal-Y10 D286 · ~4 Oct** |
+| 3432 | [day-3432.md](days/year-010/week-491/day-3432.md) | ✓ **lens #1 lap · donkey defer Y10** | **Cal-Y10 D287 · ~5 Oct** |
+| 3433 | [day-3433.md](days/year-010/week-491/day-3433.md) | ✓ **lens #2 lap · matched to #1** | **Cal-Y10 D288 · ~6 Oct** |
+| 3434 | [day-3434.md](days/year-010/week-491/day-3434.md) | ✓ **frame D1 · vine · guards blank** | **Cal-Y10 D289 · ~7 Oct** |
+| 3435 | [day-3435.md](days/year-010/week-491/day-3435.md) | ✓ **`SUNGLASS-YULE-1` v1 CLOSED** | **Cal-Y10 D290 · ~8 Oct** |
+| 3436 | [day-3436.md](days/year-010/week-491/day-3436.md) | ✓ **pads + temple tips leather** | **Cal-Y10 D291 · ~9 Oct** |
+| 3437 | [day-3437.md](days/year-010/week-491/day-3437.md) | ✓ **BLOCK-Y10 ×4 · sand thin** | **Cal-Y10 D292 · ~10 Oct** |
+| 3438 | [day-3438.md](days/year-010/week-492/day-3438.md) | ✓ **W492 OPEN · sand restock** | **Cal-Y10 D293 · ~11 Oct** |
+| 3439 | [day-3439.md](days/year-010/week-492/day-3439.md) | ✓ **wood haul · pile 5** | **Cal-Y10 D294 · ~12 Oct** |
+| 3440 | [day-3440.md](days/year-010/week-492/day-3440.md) | ✓ **Norima overhaul D1** | **Cal-Y10 D295 · ~13 Oct** |
+| 3441 | [day-3441.md](days/year-010/week-492/day-3441.md) | ✓ **Norima overhaul D2 forge** | **Cal-Y10 D296 · ~14 Oct** |
+| 3442 | [day-3442.md](days/year-010/week-492/day-3442.md) | ✓ **Norima tune · wear 35** | **Cal-Y10 D297 · ~15 Oct** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

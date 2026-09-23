@@ -35,10 +35,10 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `PISTACHIO-1` | Pistachio kernels | ~1.80 kg | Horreum A nut tray | ? | d3145 |
-| `PISTACHIO-HULL-Y10-1` | Pistachio hull-on · **`P-01` Y10 primary** · drying | ~4.1 kg | v1 porch mat + lean rack | d3409 | d3409 |
+| `PISTACHIO-1` | Pistachio kernels | ~3.72 kg | Horreum A nut tray | Y10 | d3418 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | ~1.86 kg | Nut tray | Y9 | [retcon](../journal/retcons/ACORN-GATHER-Y9.md) |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | ~0.80 kg | v1 mat · `WOOD-CRATE-4` | Y9 | d3022 |
+| `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~615 g | Nut tray | d3423 | d3423 |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | ~4.5 kg | v1 mat · `WOOD-CRATE-4` | Y10 | d3419 |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
