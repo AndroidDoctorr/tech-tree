@@ -81,8 +81,9 @@ Every sow and every harvest here is mandatory. The only valid skip is an explici
 - **~20 Nov – 1 Dec** — Pistachio ground-recovery tail only · `PISTACHIO-PICK` *(if primary was missed — a modest sweep, not a full pick)*
 - **~20 Nov – 15 Dec** — Farm-deadline buffer *(keep Sep–Oct wild pistachio clear of the emmer / oil / salt crunch)*
 - **26 Nov** — Salt evap closes
-- **27 Nov** — Emmer harvest · `EMMER-HARVEST`
-- **28 Nov** — Pulse harvest · `PULSE-HARVEST`
+- **27 Nov** — Emmer harvest · `EMMER-HARVEST` · **barley trial · `BARLEY-HARVEST`**
+- **28 Nov** — Lentil harvest · `P-17-HARVEST`
+- **29 Nov** — Chickpea harvest · `P-18-HARVEST`
 - **29 Nov** — Food prep day *(shelf-life sprint)*
 - **~28 Nov – 15 Dec** — Field flax pull · `FLAX-PULL-FIELD` *(Bed B centre / campus P-07 drill · after grain and pulse · second annual fibre lap)*
 

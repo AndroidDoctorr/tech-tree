@@ -21,6 +21,8 @@ Lab glass is here rather than in resources because each piece is individually bl
 | `BN-PAIR-V1-1` | Bolt/nut proof pair | Bench tray | PASS |
 | `BN-PAIR-V1-2` | Bolt/nut proof pair | Bench tray | Marginal |
 | `BN-PAIR-V2-11…12` | Bolt/nut pairs | Bench tray peg | Marginal · usable with care |
+| `BN-PAIR-G3-06-1…4` | Bolt/nut pairs · RC-06 · gen-3 cert d3503 | `PARTS-PEG-BOARD-1` slots A–D | ✓ PASS |
+| `REF-CYL-SET-1` | Reference cylinders RC-06 · RC-10 · RC-12 · RC-22 · gen-3 cert d3503 | `REF-CYL-TRAY-1` / slot K | ✓ CERT d3503 |
 | `BRIDGE-PROBE-KIT-1` | Spike probe · plumb cord *(scour depth)* · straightedge *(sag)* · notebook | — | Live |
 | `WOOD-PLANE-1` | Wood plane, forged d1886 | Bench peg | Live |
 | `SAND-SMOOTH-1` | Sanding roll | Bench roll | Live |
@@ -69,7 +71,8 @@ The lasts and patterns are the reason a replacement boot is a day's work rather 
 | `COLLECT-BAG-1…7` | Tow-body collecting bags — OLIVE · MADDER · SPARE · FIG · GRAPE · **WINNOW-PICK** · **GRAIN-PICK** | Barn peg | Live |
 | `WOOD-CRATE-3` | Fibre / tool · ×14 nails | Horreum overflow slot 2 | Live |
 | `WOOD-CRATE-4` | `ACORN-STAGING` · ×12 nails | v1 porch | Live |
-| `WOOD-CRATE-5` | `FORGE-FASTENER` — iron ×18 · brass ×14 · tools | Storage wing E lower | Live |
+| `WOOD-CRATE-5` | `FORGE-FASTENER` — brass ×14 · tools · **iron → cave cache** | Storage wing E lower | Live · iron drawn d3458 |
+| `CAVE-RECOVERY-CRATE-1` | Recovery cache · salt · niter · jerky · ash · wire · nails · records | `CAVE-3` @ `CAVE-3-SHELF-1` | ✓ LIVE d3458 |
 | `WOOD-CRATE-6` | `FIBER` — hemp · flax · tow tail | Storage wing N lower | Live |
 
 Bags are labelled by **what they collect**, not by what is in them — an empty OLIVE bag is still the olive bag. That is why they are here rather than in a stock file.
@@ -90,6 +93,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-BEAKER-1` | Beaker ~180 ml, flat bottom | Chem bench staging | Live |
 | `P-LAB-BEAKER-2` | Beaker ~180 ml, flat bottom | Chem bench staging | Live |
 | `P-LAB-BEAKER-3` | Beaker ~180 ml, flat bottom | Chem bench **backup** peg | Live |
+| `P-LAB-BEAKER-4` | Beaker ~180 ml, flat bottom | Chem bench **backup** peg | ✓ LIVE d3449 |
+| `P-LAB-FUNNEL-1` | Funnel ~120 ml · ~12 mm stem | Chem bench staging | ✓ LIVE d3449 |
 | `P-LAB-FLASK-BOIL-1` | Boiling flask ~250 ml, P4 neck | Fire-table | Live |
 | `P-LAB-CONDENSER-1` | Condenser, ~18 cm coil, inlet/outlet stubs | Chem bench | Live · ⚠ outlet stub marginal |
 | `P-LAB-CONDENSER-2` | Condenser, ~18 cm coil | Chem bench **backup** peg | Live · outlet stub slightly oval, usable |
@@ -128,11 +133,37 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-ACID-BOTTLE-7…12` | Acid bottles ×6, ~120 ml narrow-neck | `ACID-SPARE-PEG` | Empty spares |
 | `GLASS-BOTTLE-4` · `5` | Bottles, vinegar and oil tags | Chem-lab rack | Live |
 | `GLASS-BOTTLE-6…13` | Bottles ×8, ~250 ml wine grammar | Chem-lab `STORAGE-EMPTY` rack | Empty |
+| `P-LAB-BLEACH-BOTTLE-1` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-1` | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-2` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-2` | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-3` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-1` | Bleach peg | ✓ FILLED d3454 |
+| `P-LAB-BLEACH-BOTTLE-4` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-2` | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-5` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-3` spare | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-6` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-3` spare | Bleach peg | ✓ FILLED d3456 |
+
+☠ **Bleach bottles are not acid bottles** — separate peg, separate tags, never cross-filled.
 
 ## Measuring and standards
 
+★ **Gen-3 references** *(d3495–3501 · `BASALT-DATUM` Block 1 primary)* — ☠ **masters on `REF-SHELF-1` only; working copies on `REF-WORK-PEG-1`.** ✓ **Suite CERT d3501 @ ~14 °C** — electrical + **`TUNING-FORK-1` · `MONOCHORD-1`**.
+
 | ID | Tool | Where | State |
 |---|---|---|---|
+| `STRAIGHTEDGE-REF-1` | Steel straightedge ~320 mm · master · refined d3496 | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `STRAIGHTEDGE-WORK-1` | Shop straightedge · transfer from master | `REF-WORK-PEG-1` | ✓ LIVE d3496 |
+| `SQUARE-REF-1` | Steel blade ~140 mm · flip-test square · master | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `SQUARE-WORK-1` | Shop square · transfer from master | `REF-WORK-PEG-1` | ✓ LIVE d3496 |
+| `SPIRIT-LEVEL-1` | Blown arc vial · **−~28 g cullet d3495** · light spirit · oak stock ~45 cm · master | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `SPIRIT-LEVEL-WORK-1` | Second vial · **−~24 g cullet d3496** · matched to master | `REF-WORK-PEG-1` | ✓ LIVE d3496 |
+| `LENGTH-REF-100-1` | **Steel** length master · **100.0 mm** class · ☠ **not invar — state workshop °C on read** | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `LENGTH-WORK-100-1` | **Steel** shop bar · transfer from master | `REF-WORK-PEG-1` | ✓ LIVE d3496 |
+| `LENGTH-REF-1000-1` | **Oak** rule · shellacked · **10 × 100 mm** stepped · ~1 m class · refined d3496 | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `ANGLE-REF-90-1` | Steel 90° wedge · flip tested | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `ANGLE-REF-45-1` | Steel 45° wedge | `REF-SHELF-1` | ✓ LIVE d3495 |
+| `MASS-VESSEL-100-1` | 100 mL water seat · `P-LAB-BEAKER-4` + foot ring · **@ ~14 °C workshop** | `REF-SHELF-1` | ✓ LIVE d3497 |
+| `MASS-REF-100-1` | **Brass + bronze coupons** · **~100 g @ 14 °C** · substitution null | `REF-SHELF-1` | ✓ LIVE d3497 |
+| `MASS-REF-1000-1` | **Composite iron stack** · **~992 g @ 14 °C** · ×10 vessel null · ⧗ **monolithic brass slug when stock allows** | `REF-SHELF-1` | ✓ LIVE d3497 |
+| `CALIPER-1` | Divided jaws · **±0.1 mm class** · gen-3 re-cert d3497 | `REF-WORK-PEG-1` | ✓ CERT d3497 |
+| `BALANCE-1` | Oak beam · cord pivot · bark pans · stone 1/2×/5× | Balance bench | Live · d286 |
 | `THERMOMETER-1` | Portable, 0–100 °C · ☠ **not food-safe** | Chem-lab peg between moves | Live |
 | `THERMOMETER-2-KILN` | ~100–350 °C · boil + Sn marks · ☠ **not food-safe** | Forge tray default | Live |
 | `PORC-PROBE-SET-1` | Firing probes ×6 | Bench tray | ×4 porcelain-class · ×1 stoneware+ · ×1 marginal |
@@ -148,6 +179,12 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 |---|---|---|---|
 | `DANIELL-CELL-1` | ★ **The voltage standard, "1 GB"** · Zn/ZnSO₄ ‖ bisque ‖ Cu/CuSO₄ · steady, no sag | Chem rack | Live · ☠ **not a power source** |
 | `R-STD-1` | ★ **The resistance standard, "1 R"** · 10 m of 0.9 mm wire, non-inductive, on posts | Reference shelf | Live · ☠ **do not borrow** |
+| `R-STD-BRONZE-1` | **10 R** · 0.3 mm bronze · non-inductive · trimmed d3499 @ ~14 °C | Reference shelf | ✓ LIVE d3499 |
+| `L-STD-1` | Air-core inductor · **118 turns** · 0.3 mm · Ø ~28 mm former | Reference shelf | ✓ LIVE d3499 |
+| `C-STD-1` | Waxed-paper foil cap · fine-null CERT d3501 | Reference shelf | ✓ CERT d3501 |
+| `TUNING-FORK-1` | Brass fork · **A ~440** · frequency artifact | Reference shelf | ✓ LIVE d3501 · ☠ **do not borrow** |
+| `MONOCHORD-1` | Single-string pitch bench · mechanical A from length + tension | Reference shelf | ✓ LIVE d3501 |
+| `POTENTIOMETER-1` | ~1.15 m iron slide wire · knife-edge jockey · voltage null | Reference shelf | ✓ LIVE d3499 · **tap, never drag** |
 | `VOLTMETER-1` | Fine multi-turn coil with `R-BIG-1` in series · scale in GB · linear ×1→×4 cells | Chem bench | Live |
 | `AMMETER-1` | Few fat turns · ×2 shunt ranges | Chem bench | Live |
 | `R-BIG-1` | ~106 m of 0.3 mm iron, non-inductive · ~500 R | Chem bench | Live · ⚠ **drifts with heat — keep cool, read at one temperature** |
@@ -156,6 +193,28 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `FOUR-TERMINAL-JIG-1` | Heavy current clamps outboard, two knife-edge voltage taps at fixed spacing | Chem bench | Live |
 
 ★★ The four-terminal jig **measures resistances far below the connections themselves**, which is what the slide-wire bridge could not do — the bridge was defeated by sample shape on the first copper assay.
+
+## Standardized parts *(working families · d3503)*
+
+☠ **Masters on `REF-SHELF-1` only — these rows are expendable bench stock.**
+
+| ID | Part | Where | State |
+|---|---|---|---|
+| `PARTS-PEG-BOARD-1` | Oak peg board · BN / R / C / L slots @ chem bench east | Chem bench | ✓ LIVE d3503 |
+| `R-WORK-1R-1` | Working 1 R tap | Slot E | ✓ LIVE d3503 |
+| `R-WORK-10R-1` | Working 10 R duplicate | Slot F | ✓ LIVE d3503 |
+| `R-WORK-100R-1` | Working 100 R · 0.3 mm brass · trimmed | Slot G | ✓ LIVE d3503 |
+| `C-WORK-1` · `C-WORK-2` | Waxed-paper caps · matched `C-STD-1` | Slots H–I | ✓ LIVE d3503 |
+| `L-WORK-1` | Air-core 118-turn duplicate | Slot J | ✓ LIVE d3503 |
+| `ELEC-COMPONENT-BOX-Y10-1` | Oak 4-row bench tray · R / L / C / SW · felt-lined · @ chem bench east shelf | Chem bench east | ✓ LIVE d3511 |
+| `R-SPARE-1R-1` | 1 R tap spare | `ELEC-COMPONENT-BOX-Y10-1` row R | ✓ LIVE d3511 |
+| `R-SPARE-10R-1` | 10 R bronze duplicate spare | Row R | ✓ LIVE d3511 |
+| `R-SPARE-100R-1` | 100 R · 0.3 mm brass trimmed spare | Row R | ✓ LIVE d3511 |
+| `L-SPARE-1` | 118-turn air core · matched `L-STD-1` | Row L | ✓ LIVE d3511 |
+| `C-SPARE-1` · `C-SPARE-2` | Waxed-paper cap pair | Row C | ✓ LIVE d3511 |
+| `BN-PAIR-G3-06-5/6` | Bolt/nut pairs · RC-06 · box stock | Row SW | ✓ LIVE d3511 |
+| `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
+| `SW-KNIFE-BLANK-1` | Knife-switch blanks ×2 | Row SW | ✓ LIVE d3511 |
 
 ## Glass and forge working
 

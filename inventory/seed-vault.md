@@ -14,20 +14,21 @@ Last full audit **d3175**.
 
 | Jar | Last read | State |
 |---|---|---|
-| ✓ `ARK-JAR-1` | d3327 | ✓ **CERTIFIED** · flatline 2/2 d3313–d3327 |
-| `ARK-JAR-2` | d3334 | ✓ **CERTIFIED** · flatline 2/2 on rebuild clock d3322–d3334 |
-| `ARK-JAR-3` | d3334 | ✓ **CERTIFIED** · flatline 2/2 on rebuild clock d3322–d3334 |
-| ✓ `ARK-JAR-4` | d3327 | ✓ **CERTIFIED** · flatline 2/2 d3313–d3327 |
+| `ARK-JAR-1` | d3457 | ✓ **CERTIFIED** · flatline 2/2 on d3443 rebuild clock d3450–d3457 |
+| `ARK-JAR-2` | d3457 | ✓ **CERTIFIED** · flatline 2/2 on d3443 rebuild clock d3450–d3457 |
+| `ARK-JAR-3` | d3457 | ✓ **CERTIFIED** · flatline 2/2 on d3443 rebuild clock d3450–d3457 |
+| `ARK-JAR-4` | d3457 | ✓ **CERTIFIED** · flatline 2/2 on d3443 rebuild clock d3450–d3457 |
 
 > ★★★ **THE ARK OWNS CERTIFIED JARS, NOT A CERTIFIED DRAWING.** *Hand-made closures are individuals.* ☠ **A slow weekly leak is not small on a multi-year clock.**
 
-⚑ **No seed enters a jar until the line is worth banking — three jars certified empty, one policy for all four.**
+⚑ **No seed enters a jar until the line is worth banking — all four certified empty on the d3443 rebuild clock.**
 
 ## Grain
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `EMMER-ELITE-Y9` | Emmer elite · ✓ **~92%** · **+~95 g sown to `SEED-INCREASE-BLOCK-Y10` @ Bed C SW** | ~18 g | Vault | Y9 | **d3298** |
+| `EMMER-ELITE-Y10` | Emmer elite · Y10 harvest · field + increase block | ~327 g | Vault | Y10 | d3485 |
+| `EMMER-ELITE-Y9` | Emmer elite · ✓ **~92%** · tail after increase sow | ~18 g | Vault | Y9 | **d3298** |
 | ⚠ `EMMER-ELITE-Y6` | Emmer elite · **~40%** — sowable at double rate, not bankable | ~17 g | Vault | Y6 | **d3285** |
 | ☠ `EMMER-ELITE-Y5` | Emmer elite · ☠ **~25% — NOT A RESERVE.** ⚑ Sow thick Nov Y10, harvest as seed, replace bank | ~19 g | Vault | Y5 | **d3285** |
 | ✓ `EMMER-SOW-Y9` | Emmer sow bank · reserve · ★ **~85%** | ~5 g | Vault | Y9 | **d3285** |
@@ -69,6 +70,9 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| `P-18-ELITE-Y10` | Chickpea elite · Y10 harvest · fresh | ~50 g | Vault | Y10 | d3491 |
+| `BARLEY-ELITE-Y10` | Barley elite · Y10 trial harvest · fresh | ~48 g | Vault | Y10 | d3491 |
+| `P-17-ELITE-Y10` | Lentil elite · Y10 harvest · fresh | ~49 g | Vault | Y10 | d3486 |
 | ⚠ `P-17-ELITE-Y9` | Lentil elite · ☠ **~72% at ONE year — NOT a reserve.** ⚑ Sow at the Y11 spring sow | ~51 g | Vault | Y9 | **d3298** |
 | `P-18-ELITE-Y8` | Chickpea elite · hold · **~60%** — acceptable | ~51 g | Vault | Y8 | **d3285** |
 | ⚠ `P-17-ELITE-Y8` | Lentil elite · reserve · ⚠ **~35% at two years** — ☠ **lentil is the short-lived one, regen ~2 yr** | ~4 g | Vault | Y8 | **d3285** |
@@ -84,8 +88,8 @@ Last full audit **d3175**.
 |---|---|---|---|---|---|
 | `HEMP-SEL-Y10` | Hemp select · ★ **the Ghab line, gen 4 since Y7** · Bed A | **~15 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d3416 ~91%** |
 | `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` hard select** · genetics reserve | **~108 g** | SEED-VAULT · linen jar | d3413 gather | **d3416 ~86%** |
-| `FLAX-SOW-Y10` | Flax sow tray | Staged | Vault | Y10 | — |
-| `P-07-ELITE-Y10` | *(fibre elite)* | ~11 g | Vault | Y10 | — |
+| `FLAX-SOW-Y10` | Flax sow tray | Staged | Vault | Y10 | d3493 |
+| `P-07-ELITE-Y10` | Flax elite · field pull + prior tag | ~25 g | Vault | Y10 | d3487 |
 
 ☠ **`HEMP-SEL-Y7` Ghab spare tail ~17 g — DEAD, written off d3218.** **`HEMP-SEL-Y10` ~15 g @ vault** · **`HEMP-GHAB-RESERVE-Y10` ~108 g @ vault d3415** — reserve rebuilt; rag test before arking.
 
@@ -95,8 +99,8 @@ Isolate hemp **by time, not distance** — see `HEMP-CUT` in [harvest.md](../gov
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `P-03-SEL-Y9` | Grape select | ~13 g | Vault | Y9 | — |
-| `P-03-SEL-Y8` | Grape select | ~14 g | Vault | Y8 | — |
+| ⚠ `P-03-SEL-Y9` | Grape select · **~72%** | ~13 g | Vault | Y9 | d3493 |
+| ⚠ `P-03-SEL-Y8` | Grape select · ⚠ **~25% — regen before Y11 prune sow** | ~14 g | Vault | Y8 | d3493 |
 
 ## Herb
 
@@ -104,11 +108,11 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| `P-CORIANDER-SEL-Y9` | Coriander | ~1 g | Vault | Y9 | — |
-| `P-ROSEMARY-SEL-Y9` | Rosemary | ~1 g | Vault | Y9 | — |
-| `P-PARSLEY-SEL-Y9` | Parsley | ~0.5 g | Vault | Y9 | — |
-| `P-ALLIUM-SEL-Y9` | Allium | ×0 | Vault | Y9 | — |
-| `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | — |
+| ⚠ `P-CORIANDER-SEL-Y9` | Coriander · ⚠ **~38%** · sow thick | ~1 g | Vault | Y9 | d3493 |
+| `P-ROSEMARY-SEL-Y9` | Rosemary · **~60%** | ~1 g | Vault | Y9 | d3493 |
+| ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **~2% — dead** | ~0 g | Vault | Y9 | d3493 |
+| ☠ `P-ALLIUM-SEL-Y9` | Allium | ×0 | Vault | Y9 | d3493 DEAD |
+| ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3493 DEAD |
 
 ⚠ Allium and thyme are at zero with no standing reserve. Mint is held as a live crock rather than seed — [food.md](food.md).
 

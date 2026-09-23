@@ -13,6 +13,7 @@ Join on the procedure ID: `ACORN-*` finds the window, the stand, the gather rule
 | `CLAY-HAUL` | Clay | year-round | M-01 @ T-1 90 m |
 | `DONKEY-HUNT` | Wild donkey recruit | 7 Sep – 12 Oct | D-27 |
 | `EMMER-HARVEST` | Emmer | 27 Nov | Bed B S+C |
+| `BARLEY-HARVEST` | Barley, field trial | 27 Nov | Bed A south · with emmer |
 | `FAVA-PICK` | Fava | 15 May – 30 Jun | Bed A headland |
 | `FIG-PICK` | Fig | 1 Aug – 15 Sep | Bed D C1–C4; P-12 wild |
 | `FLAX-PULL-WILD` | Wild flax | 26 Jun – 26 Jul | ditch W, T-1 lip, FLAX-PATCH-1 |
@@ -34,7 +35,8 @@ Join on the procedure ID: `ACORN-*` finds the window, the stand, the gather rule
 | `OLIVE-PICK` | Olive | 16 Nov – 16 Dec | P-02 @ T-2 end ~600 m |
 | `ORE-HAUL` · `STONE-HAUL` | Quartz, ore, stone | 1 Apr onward | M-series, see map |
 | `PISTACHIO-PICK` | Pistachio | 1 Sep – 15 Oct | P-01 @ T-2 ~160 m |
-| `PULSE-HARVEST` | Lentil, chickpea | 28 Nov | Bed B N |
+| `P-17-HARVEST` | Lentil | 28 Nov | Bed B N |
+| `P-18-HARVEST` | Chickpea | 29 Nov | Bed C · pulse day 2 |
 | `RESIN-COLLECT` | Pine resin | on pass | M-08, PINE-TAP-CUPS ×8 |
 | `SALT-HAUL` | Brackish water | Nov band | S-03 marsh, PM-R1 |
 | `SNAIL-GATHER` | Snails | year-round, 2×/wk | A-02 creek rocks |
@@ -65,15 +67,24 @@ Two-stage, and the first stage is six months before the harvest.
 - Wild jars vault **separately** from elite field seed: `GRAIN-WILD-A1` emmer, `GRAIN-WILD-A3` barley.
 - P-06 barley bank stands at zero — treat the first lap as seed, not food.
 
-### `EMMER-HARVEST` · `PULSE-HARVEST`
+### `EMMER-HARVEST` · `BARLEY-HARVEST`
 
-Emmer day one, pulse day two. Do not combine — threshing floor and drying racks collide.
+Emmer and barley share **day one** — same gate, same thresh zone, separate bays and elite jars.
 
-- **Gate:** `EMMER-YELLOW-GO-READ` — heads hard-dry, **snap ×3 PASS**. Pulse gate is dry straw, pod rattle, hard kernel.
+- **Gate:** `EMMER-YELLOW-GO-READ` / `BARLEY-YELLOW-GO-READ` — heads hard-dry, **snap ×3 PASS**.
 - Stubble ~8–10 cm. `IRON-SICKLE-1` hero-sharp, `COLLECT-BAG-7`, `BASKET-HARVEST`, team and `WHEEL-CART-1`.
 - Sheaf-bind with M-08 → `SHEAF-RACK-1`.
 - Thresh and winnow leeward at `THRESH-ZONE-1` / `WINNOW-SHEET-1`, chaff off the kitchen path.
-- Elite threshed last: `EMMER-ELITE-Yn`, `P-17-ELITE-Yn`.
+- Elite threshed last: `EMMER-ELITE-Yn`, `BARLEY-ELITE-Yn`.
+
+### `P-17-HARVEST` · `P-18-HARVEST`
+
+Pulse is **two days** — lentil day two, chickpea day three. Do not combine with grain cut or with each other; threshing floor and drying racks collide.
+
+- **Gate:** dry straw, pod rattle, hard kernel — **snap ×3 PASS** on each crop.
+- If chickpea reads HOLD on lentil day, **log the read and cut next calendar day** — never fold an unlogged stand into "pulse close."
+- Stubble ~8–10 cm. Same kit as grain.
+- Elite threshed last: `P-17-ELITE-Yn`, `P-18-ELITE-Yn`.
 
 ## Fibre
 

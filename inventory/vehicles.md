@@ -7,9 +7,11 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **38** · Last out: **d3415 Ghab seed return**
+Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **21** · Last out: **d3480 olive tail haul**
 
-The working wagon. Bulk dry aft. Ice kit stowed, wet rig staged.
+**Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
+
+Bulk dry aft. Ice kit stowed, wet rig staged.
 
 **Wear 38 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
 
@@ -35,10 +37,10 @@ Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resou
 
 ---
 
-## `COVERED-WAGON-1`
+## `COVERED-WAGON-1` *(v1 covered cart)*
 Map: `CART-YARD` south · Status: live, roadworthy · Last: d3093
 
-The v1 wagon, **never named**. ★ **Museum / train lane — not to be cannibalised.** Kept roadworthy rather than retired, so it is a genuine second vehicle and not an exhibit.
+**One axle · two wheels** — the v1 **covered cart**, never named. ID says “wagon” from habit; **cart** is the correct class. ★ **Museum / train lane behind Norima — not to be cannibalised.**
 
 `CART-IRON-RIM-1` — both wheels fully banded since d1877, wobble ~1 mm class.
 

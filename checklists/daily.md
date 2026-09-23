@@ -21,6 +21,8 @@ Procedure IDs are searchable. Where a procedure doc owns the detail it is linked
 | `STOCK-WATER` | Water and feed goats and donkeys; eyes on each animal while you do it | The animal — and the daily look is how illness gets caught early |
 | `WEIR-FISH` | Clear the weir. Primary fresh protein | A day's protein, and a fouled weir |
 | `HEARTH-BANK` | Bank the fire; check fuel on hand for tomorrow's work | An hour relighting, and any process that needed heat at dawn |
+| `CONSUMPTION-DAILY` | Log **Daily** draws in the day file: **food · soap · heat/cook fuel · lamp** — [.cursor/rules/daily-consumption.mdc](../.cursor/rules/daily-consumption.mdc) | Silent calories and fuel — the larder drifts without audit |
+| `STOCK-WATCH` | After patches: any row **×0** or **runway thin** → `## Stock watch` in day file | One calculation per debit — inventory is the ledger |
 
 ## Running processes
 

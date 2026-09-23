@@ -17,9 +17,26 @@ Document **the next day — just one**, unless the User says otherwise. If the i
 2. Run [checklists](checklists/index.md) — daily, periodic, triggers, calendar. These can outrank the day's plan
 3. Roll the day's hazards — [hazards.md](hazards.md)
 4. Gate the actions — see **Gates** below
-5. Write the day · patch `now.md` · patch the one inventory row that changed
+5. Write the day · **`## Consumption`** (daily + hero) · patch `now.md` · patch every inventory row that changed
 
 ☠ **Fuel is not exempt from step 5.** If charcoal burned, **`CHAR-LANE` (or the named reserve) gets a kg debit the same pass** — day file + resources row.
+
+### Daily consumption — every day
+
+Every day file carries a **Consumption** block. See [.cursor/rules/daily-consumption.mdc](.cursor/rules/daily-consumption.mdc).
+
+| Category | What to debit |
+|---|---|
+| **Food** | Player + animals · spoilage-first — [food-menu.md](government/procedures/food-menu.md) |
+| **Soap** | Working bar (`SOAP-Y10-1` class) unless the day is explicitly no-wash |
+| **Heat / cook** | `WOOD-OAK-P5` and/or `CHAR-LANE` · **winter = hearth + cook · summer = cook only** · forge/kiln are hero, not daily |
+| **Lantern / lamp** | Tallow · wick oil · or lamp charcoal when cave/night work runs |
+
+Write **`none`** on a line when that category truly did not fire — do not omit the block.
+
+**Each debit is calculated once:** Consumption block → subtract once from inventory → `now.md` gets the **final runway only** if tracked there. Never derive the same draw twice with different numbers.
+
+**Low stock:** when a row hits **×0** or **runway thin**, end the day with **`## Stock watch`** — ID · qty left · what it blocks. See [daily-consumption.mdc](.cursor/rules/daily-consumption.mdc).
 
 **Read nothing else unless a trigger below sends you there.**
 
@@ -38,7 +55,8 @@ Detail: [rules.md — gates](rules.md#gates) · [rules.md — build decompositio
 - **Real physics, chemistry, geology, biology.** Plausible options, plausible outcomes
 - **Nothing comes from nowhere.** Every material consumed must already be in inventory. If it is not, propose the haul or harvest first
 - **Account for time** — chores, sleep, meals
-- **Account for fuel** — heating, cooking, lighting. ☠ **Every fire that burns charcoal debits a real stock row** — usually **`CHAR-LANE`** or **`CHAR-RESERVE-C`** — **with an explicit kg in the day file Consumption block and a matching patch to [inventory/resources.md](inventory/resources.md).** *No “full charge” or “a firing” without a number. Forge, kiln, lime, smelt, and retort runs all count.*
+- **Account for fuel** — heating, cooking, lighting. ☠ **Every fire debits a real stock row** — **`WOOD-OAK-P5`** for hearth wood · **`CHAR-LANE`** / **`CHAR-RESERVE-C`** for charcoal · **seasonal:** no space heat in summer unless the day says cold. ☠ **Lantern and lamp fuel are daily when used** — tallow, oil, or trace charcoal. **Forge, kiln, lime, smelt, and retort are hero draws**, not folded into “daily” silently.
+- **Account for soap** — ~¼–½ bar class per wash day from `SOAP-Y10-1` unless no-wash is explicit.
 - **Account for skill and preparedness** — [skills.md](skills.md)
 - **Mishaps are low-probability and realistic, not D&D.** Routine work rarely fails; new and experimental work is where risk lives. The Player is cautious, thinks ahead, and prepares
 
@@ -98,6 +116,7 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
 - **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
 - **Every material must be accounted for.** Building a table consumes wood. The Player cannot build a table if they have no wood. Cooking food uses wood or charcoal (for now). Nothing just magically appears. The Player and his animals must eat.
+- **Day 7 ends the week** Do not end a week before 7 days or add an 8th day.
 
 The Assistant Device should try to warn the Player if they're about to make a mistake, or do anything dumb, or forget something important. The Assistant is not prescient, but it knows physics, chemistry, electrical engineering, etc., and the Player is cautious, asks a lot of questions, and trusts the Assistant.
 

@@ -189,6 +189,11 @@ Divided. ~2.0 GB at ~0.27 I, both electrodes gassing steadily.
 
 ⚠ **No storage yet, and hydrogen leaks through everything.** Outdoors is not a preference.
 
+### `CHLOR-ALKALI-CELL-1` — undivided brine bleach cell
+Map: chem porch **south outdoor pad** · Built: d3454
+
+~4 L stoneware crock · saturated brine · carbon anode · iron cathode · open downwind. **`GEN-WW-2` supply-class.** Makes hypochlorite in liquor — not separated Cl₂. ☠ **Outdoor only · downwind · never the enclosed porch.**
+
 ### `ELECTROLYSIS-CELL-1`
 Map: chem porch
 
@@ -280,7 +285,7 @@ Both are the **fallback**, not the primary. Running water in the ditch leaches f
 ### `EVAP-RACK-1` — salt evaporation rack
 Map: — · Interval: seasonal
 
-Trays empty. **Closed for the winter at D340, reopens in the March band.**
+**`SALT-EVAP-SPRINT-Y10-1` cycle 1 CLOSED @ d3474** — trays empty · rinse-dry · pour #2 when haul lands.
 
 ### `COOL-CELLAR-2-EVAP`
 Map: cellar north margin
@@ -295,9 +300,9 @@ Map: — · Vinegar
 Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
 
 ### `AMPHORA-6`
-Map: — · Oil sediment
+Map: `OLIVE-PRESS-1` cool-step · Oil
 
-Sealed oil sediment at the foot, Y8 and Y9. **Never rinsed between years while sediment is held** — the settle is the point. Rinse deferred.
+**`OIL-Y10-1` crude settling @ d3479** — repitched food-oil coat · sediment foot Y8/Y9 sealed below. Decant Dec 1–10 band.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -310,9 +315,9 @@ Map: cart yard · Built: d2286
 Brackish and general. M-08 foot ring. Brackish haul staging runs through here and amphora #2; haul #13 queued as of d3109.
 
 ### `AMPHORA-9`
-Map: rack hold
+Map: horreum A margin ghost · Built: d2744
 
-Ferment vessel. Currently under `GRAPE-MUST-Y9-1` — quantity in [food.md](food.md), not here. Harvest buffer swaps post-Dec.
+**EMPTY harvest buffer @ d3475** — rinsed · M-08 foot · vinegar fork reclaimed vessel.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
@@ -399,6 +404,13 @@ Map: under the campus hillside · Located: d3275
 
 Found by following the seepage line. ★ **Where water wants to stand — the probable cistern or pond site.** A liability read as an asset.
 
+### `DUCK-POND-1` — habituation pond
+Map: `TIGHT-LAYER-1` · Built: d3494 · Finished: d3504
+
+~4.2 × 4.8 m shallow dish · **~35–40 cm** to tight pan · uphill berm · chip spillway to backdrain line. Seep-fed · slow fill class.
+
+✓ **Reed margin** · **`DUCK-NEST-PLATFORM-1`** on berm · **`DUCK-SCRATCH-STATION-1`** grit/grain tray. ☠ **Habituation only — Mar–May nest watch · not a trap Y1.**
+
 ### `ASPHALT-TEST-1`
 Map: hub S apron · Built: d2583
 
@@ -455,7 +467,7 @@ Map: ditch W · Live
 ### `RETT-TROUGH-FLAX-1`
 Map: ditch W · Live
 
-Empty, rinse clear. *(Wild flax arcs closed d3401.)*
+✓ **`P-RETT-32` CLOSED d3505** — break/heckle/spin · **`FLAX-THREAD-SHINGLE-Y10-1` ~760 m** @ craft peg.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 
@@ -480,6 +492,13 @@ Dark sun-side cover over `NITRE-BED-1`.
 
 ## Trail and outposts
 
+### `METROLOGY-CELLAR-1` — reference cellar @ `CAVE-1` upslope
+Map: `CAVE-1` dry niche **~8 m upslope** · Built: d3502 · Last service: d3502
+
+Lime-washed · plaster-skinned mouth cavity @ **~9 °C** stable. Drain lip keeps seep below floor. **`REF-CELLAR-SHELF-1`** levelled for reference duplicates and long-season checks.
+
+☠ **Not food · not seed · not general cool store** — metrology lane only. Rear pool and seep horizon unchanged.
+
 ### `CAVE-3-FIXED-LINE-1` — fixed line, CAVE-3 approach
 Map: `CAVE-3` approach · Built: d3221
 
@@ -495,11 +514,16 @@ Map: `CAVE-3` approach · Built: d3221
 The steps are canted **outward** deliberately — an in-canted step holds water and ices.
 
 ### `CAVE-3-SHELF-1`
-Map: `CAVE-3` · Built: d3221
+Map: `CAVE-3` · Built: d3221 · **lip strip d3458**
 
-Dry-stone. Slab ~1.1 × 0.5 m on ×3 corbel piers, ~0.5 m up, a hand's width clear of the wall. Load-tested.
+Dry-stone. Slab ~1.1 × 0.5 m on ×3 corbel piers, ~0.5 m up, a hand's width clear of the wall. Load-tested. **Oak lip pinned d3458.**
 
 ★ The wall gap is the design. Stored goods touching cave rock wick moisture out of it — cave storage is certified by 12,000 years of standing, but ⚠ **standing is not dry**. See [storage-code-1.md](../government/regulations/storage-code-1.md).
+
+### `CAVE-RECOVERY-CACHE-1`
+Map: `CAVE-3` · Built: d3458
+
+**`CAVE-RECOVERY-CRATE-1`** on shelf · **×8 brick @ mouth stack** — disaster-recovery lane separate from ark jars. ☠ **No acids in the cave cache** — chem porch remains primary for vitriol/bleach.
 
 ### `KOZAN-HUT-1`
 Map: gate · Built: d1832

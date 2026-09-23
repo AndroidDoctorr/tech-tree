@@ -12,7 +12,7 @@ Target ~80–120 lines / ~2 KB. Do not rewrite old days.
 
 - **Meta** — day · Cal-Y · date · week · place · weather
 - **Events** — one paragraph *or* one table, not both
-- **Consumption** — draws with amounts (the audit trail)
+- **Consumption** — **Daily** (food · soap · heat · lamp) + **Hero** material draws — see [daily-consumption.mdc](daily-consumption.mdc)
 - **Next** — 2–3 lines
 
 ## Only when needed

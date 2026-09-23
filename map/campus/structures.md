@@ -179,7 +179,7 @@ Also on the ring: the farm east gate and TRIB cheek palisade d2135 · `PALISADE-
 
 **`TIGHT-LAYER-1`** — the impermeable horizon itself, located d3275 by following the seepage line under the campus hillside. ★ **Where water wants to stand is the probable cistern or pond site** — the liability read as an asset.
 
-◌ **Nothing has been dug there.** The site is located and marked only, and there is no cistern anywhere on campus — the atrium `cisterna` was deferred at d1105 too, leaving rain on a compluvium → impluvium → barrel → overflow path.
+✓ **`DUCK-POND-1` @ `TIGHT-LAYER-1` d3494–3504** — seep-fed habituation pond · reed margin · nest platform · scratch station. ◌ Atrium `cisterna` still deferred at d1105 — rain runs compluvium → impluvium → barrel → overflow to `D-1`.
 
 ### Waste
 

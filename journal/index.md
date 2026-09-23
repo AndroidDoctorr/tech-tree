@@ -6,7 +6,7 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3442)*
+## Recent days *(append here · @ Day 3511)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
@@ -197,6 +197,75 @@
 | 3440 | [day-3440.md](days/year-010/week-492/day-3440.md) | ✓ **Norima overhaul D1** | **Cal-Y10 D295 · ~13 Oct** |
 | 3441 | [day-3441.md](days/year-010/week-492/day-3441.md) | ✓ **Norima overhaul D2 forge** | **Cal-Y10 D296 · ~14 Oct** |
 | 3442 | [day-3442.md](days/year-010/week-492/day-3442.md) | ✓ **Norima tune · wear 35** | **Cal-Y10 D297 · ~15 Oct** |
+| 3443 | [day-3443.md](days/year-010/week-492/day-3443.md) | ✓ **`BASALT-DATUM` flatline 1/2 · ark jars resealed** | **Cal-Y10 D298 · ~16 Oct** |
+| 3444 | [day-3444.md](days/year-010/week-492/day-3444.md) | ✓ **`GASHOLDER-2` D3 · Bell B · air commission** | **Cal-Y10 D299 · ~17 Oct** |
+| 3445 | [day-3445.md](days/year-010/week-493/day-3445.md) | ✓ **`GASHOLDER-2` first fill · ~15 min flame · H₂ leak trace** | **Cal-Y10 D300 · ~18 Oct** |
+| 3446 | [day-3446.md](days/year-010/week-493/day-3446.md) | ✓ **brass pour · gas cock 1 · chem bench sprint D1** | **Cal-Y10 D301 · ~19 Oct** |
+| 3447 | [day-3447.md](days/year-010/week-493/day-3447.md) | ✓ **gas cock B · wainscot · `CHLOR-ALKALI` queued** | **Cal-Y10 D302 · ~20 Oct** |
+| 3448 | [day-3448.md](days/year-010/week-493/day-3448.md) | ✓ **wood haul · char retort ×3** | **Cal-Y10 D303 · ~21 Oct** |
+| 3449 | [day-3449.md](days/year-010/week-493/day-3449.md) | ✓ **lab glassware · beaker-4 · funnel-1** | **Cal-Y10 D304 · ~22 Oct** |
+| 3450 | [day-3450.md](days/year-010/week-493/day-3450.md) | ✓ **`ARK-JAR` read 1 · flatline 1/2** | **Cal-Y10 D305 · ~23 Oct** |
+| 3451 | [day-3451.md](days/year-010/week-493/day-3451.md) | ✓ **chem bench sprint CLOSED** | **Cal-Y10 D306 · ~24 Oct** |
+| 3452 | [day-3452.md](days/year-010/week-494/day-3452.md) | ✓ **`SOAP-BULK-Y10-1` · rosemary–thyme · ~22 bars** | **Cal-Y10 D307 · ~25 Oct** |
+| 3453 | [day-3453.md](days/year-010/week-494/day-3453.md) | ✓ **bleach glass sprint · ×2 LIVE · ×4 anneal** | **Cal-Y10 D308 · ~26 Oct** |
+| 3454 | [day-3454.md](days/year-010/week-494/day-3454.md) | ✓ **`CHLOR-ALKALI-1` · first bleach · moderate yield** | **Cal-Y10 D309 · ~27 Oct** |
+| 3455 | [day-3455.md](days/year-010/week-494/day-3455.md) | ✓ **bleach deep clean · chem + domus + culina** | **Cal-Y10 D310 · ~28 Oct** |
+| 3456 | [day-3456.md](days/year-010/week-494/day-3456.md) | ✓ **bleach run 2 · ×5 bottles filled** | **Cal-Y10 D311 · ~29 Oct** |
+| 3457 | [day-3457.md](days/year-010/week-494/day-3457.md) | ✓ **`ARK-JAR` read 2 · all four CERTIFIED** | **Cal-Y10 D312 · ~30 Oct** |
+| 3458 | [day-3458.md](days/year-010/week-494/day-3458.md) | ✓ **acorn soak 2 · cave recovery cache** | **Cal-Y10 D313 · ~31 Oct** |
+| 3459 | [day-3459.md](days/year-010/week-495/day-3459.md) | ✓ **acorn soak 2 · grape prune Y10** | **Cal-Y10 D314 · ~1 Nov** |
+| 3460 | [day-3460.md](days/year-010/week-495/day-3460.md) | ✓ **acorn soak 3 · iron nail batch** | **Cal-Y10 D315 · ~2 Nov** |
+| 3461 | [day-3461.md](days/year-010/week-495/day-3461.md) | ✓ **acorn soak 4 PASS · lime · block ×4** | **Cal-Y10 D316 · ~3 Nov** |
+| 3462 | [day-3462.md](days/year-010/week-495/day-3462.md) | ✓ **wood haul · char retort ×3** | **Cal-Y10 D317 · ~4 Nov** |
+| 3463 | [day-3463.md](days/year-010/week-495/day-3463.md) | ✓ **iron bloom smelt · wear doctrine** | **Cal-Y10 D318 · ~5 Nov** |
+| 3464 | [day-3464.md](days/year-010/week-495/day-3464.md) | ✓ **basalt flatline 2/2 · lime ×2** | **Cal-Y10 D319 · ~6 Nov** |
+| 3465 | [day-3465.md](days/year-010/week-495/day-3465.md) | ✓ **basalt lap 1 · acorn roast Y10-2** | **Cal-Y10 D320 · ~7 Nov** |
+| 3466 | [day-3466.md](days/year-010/week-496/day-3466.md) | ✓ **basalt lap 2 · acorn soak 3 batch 1** | **Cal-Y10 D321 · ~8 Nov** |
+| 3467 | [day-3467.md](days/year-010/week-496/day-3467.md) | ✓ **acorn soak 2 · basalt lap 3** | **Cal-Y10 D322 · ~9 Nov** |
+| 3468 | [day-3468.md](days/year-010/week-496/day-3468.md) | ✓ **acorn soak 4 · basalt lap 4 finish** | **Cal-Y10 D323 · ~10 Nov** |
+| 3469 | [day-3469.md](days/year-010/week-496/day-3469.md) | ✓ **acorn batch 3 PASS · basalt datum closed** | **Cal-Y10 D324 · ~11 Nov** |
+| 3470 | [day-3470.md](days/year-010/week-496/day-3470.md) | ✓ **`SALT-HAUL-14` · wet rig field trial** | **Cal-Y10 D325 · ~12 Nov** |
+| 3471 | [day-3471.md](days/year-010/week-496/day-3471.md) | ✓ **salt pour · acorn roast Y10-3** | **Cal-Y10 D326 · ~13 Nov** |
+| 3472 | [day-3472.md](days/year-010/week-496/day-3472.md) | ✓ **roof R&D panel · bitumen trial · W496 close** | **Cal-Y10 D327 · ~14 Nov** |
+| 3473 | [day-3473.md](days/year-010/week-497/day-3473.md) | ✓ **acorn batch 4 PASS · char retort** | **Cal-Y10 D328 · ~15 Nov** |
+| 3474 | [day-3474.md](days/year-010/week-497/day-3474.md) | ✓ **salt harvest · panel read · storage audit** | **Cal-Y10 D329 · ~16 Nov** |
+| 3475 | [day-3475.md](days/year-010/week-497/day-3475.md) | ✓ **storage defrag · grape vinegar fork** | **Cal-Y10 D330 · ~17 Nov** |
+| 3476 | [day-3476.md](days/year-010/week-497/day-3476.md) | ✓ **`OLIVE-PICK-Y10-1` lap 1** | **Cal-Y10 D331 · ~18 Nov** |
+| 3477 | [day-3477.md](days/year-010/week-497/day-3477.md) | ✓ **`OLIVE-PICK-Y10-2` lap 2** | **Cal-Y10 D332 · ~19 Nov** |
+| 3478 | [day-3478.md](days/year-010/week-497/day-3478.md) | ✓ **emmer YELLOW HOLD · acorn roast Y10-4** | **Cal-Y10 D333 · ~20 Nov** |
+| 3479 | [day-3479.md](days/year-010/week-497/day-3479.md) | ✓ **`P-02-PRESS-Y10-1` · ~1.7 L crude** | **Cal-Y10 D334 · ~21 Nov** |
+| 3480 | [day-3480.md](days/year-010/week-498/day-3480.md) | ✓ **W498 OPEN · `OLIVE-PICK-Y10-3` tail · `OLIVE-BRINE-Y10-1`** | **Cal-Y10 D335 · ~22 Nov** |
+| 3481 | [day-3481.md](days/year-010/week-498/day-3481.md) | ✓ **`HARVEST-PREP-Y10` · sickle dress · haft crank** | **Cal-Y10 D336 · ~23 Nov** |
+| 3482 | [day-3482.md](days/year-010/week-498/day-3482.md) | ✓ **`ANIMAL-WINTER-CARE-Y10-1` · pens · blankets** | **Cal-Y10 D337 · ~24 Nov** |
+| 3483 | [day-3483.md](days/year-010/week-498/day-3483.md) | ✓ **`BROWSE-MARGIN-CUT-Y10-1` · stack ~10 d** | **Cal-Y10 D338 · ~25 Nov** |
+| 3484 | [day-3484.md](days/year-010/week-498/day-3484.md) | ✓ **`FARM-CARE` · emmer YELLOW GO** | **Cal-Y10 D339 · ~26 Nov** |
+| 3485 | [day-3485.md](days/year-010/week-498/day-3485.md) | ✓ **`EMMER-Y10-HARVEST-1` · seed increase harvest** | **Cal-Y10 D340 · ~27 Nov** |
+| 3486 | [day-3486.md](days/year-010/week-498/day-3486.md) | ✓ **`P-17-LENTIL-Y10-HARVEST-1` · pulse day 1** | **Cal-Y10 D341 · ~28 Nov** |
+| 3487 | [day-3487.md](days/year-010/week-499/day-3487.md) | ✓ **W499 OPEN · `FIELD-FLAX-PULL-Y10-BED-B` · `P-RETT-32`** | **Cal-Y10 D342 · ~29 Nov** |
+| 3488 | [day-3488.md](days/year-010/week-499/day-3488.md) | ✓ **`SHELF-LIFE-SPRINT-Y10-D1` · barrel · parched** | **Cal-Y10 D343 · ~30 Nov** |
+| 3489 | [day-3489.md](days/year-010/week-499/day-3489.md) | ✓ **`SHELF-LIFE-SPRINT-Y10-D2` · larder CLOSE** | **Cal-Y10 D344 · ~1 Dec** |
+| 3490 | [day-3490.md](days/year-010/week-499/day-3490.md) | ✓ **`OLIVE-OIL-DECANT-Y10-1` · cook unlock** | **Cal-Y10 D345 · ~2 Dec** |
+| 3491 | [day-3491.md](days/year-010/week-499/day-3491.md) | ✓ **`P-18` + barley trial · harvest block CLOSE** | **Cal-Y10 D346 · ~3 Dec** |
+| 3492 | [day-3492.md](days/year-010/week-499/day-3492.md) | ✓ **`FALAFEL-Y10-1` · `HUMMUS-Y10-1`** | **Cal-Y10 D347 · ~4 Dec** |
+| 3493 | [day-3493.md](days/year-010/week-499/day-3493.md) | ✓ **`SEED-RAG-ROSTER-CLOSE` · duck habitat scout · W499 CLOSE** | **Cal-Y10 D348 · ~5 Dec** |
+| 3494 | [day-3494.md](days/year-010/week-500/day-3494.md) | ✓ **`DUCK-POND-DIG-Y10-1` @ `TIGHT-LAYER-1`** | **Cal-Y10 D349 · ~6 Dec** |
+| 3495 | [day-3495.md](days/year-010/week-500/day-3495.md) | ✓ **`METROLOGY-SPRINT-Y10-D1` — straightedge · square · spirit level** | **Cal-Y10 D350 · ~7 Dec** |
+| 3496 | [day-3496.md](days/year-010/week-500/day-3496.md) | ✓ **`METROLOGY-SPRINT-Y10-D1B` — audit · refine · shop duplicates** | **Cal-Y10 D351 · ~8 Dec** |
+| 3497 | [day-3497.md](days/year-010/week-500/day-3497.md) | ✓ **`METROLOGY-SPRINT-Y10-D2` — mass · caliper · `P-RETT-32` pull** | **Cal-Y10 D352 · ~9 Dec** |
+| 3498 | [day-3498.md](days/year-010/week-500/day-3498.md) | ✓ **`METROLOGY-SPRINT-Y10-D3` — fine lap · `METROLOGY-CELLAR-1` scout** | **Cal-Y10 D353 · ~10 Dec** |
+| 3499 | [day-3499.md](days/year-010/week-500/day-3499.md) | ✓ **`METROLOGY-SPRINT-Y10-D4` — potentiometer · trimmed R/L/C** | **Cal-Y10 D354 · ~11 Dec** |
+| 3500 | [day-3500.md](days/year-010/week-500/day-3500.md) | ✓ **`BRASS-POUR-2` — `CU-BAR-Y10-1` · ~86 g `BRASS-STOCK`** | **Cal-Y10 D355 · ~12 Dec** |
+| 3501 | [day-3501.md](days/year-010/week-501/day-3501.md) | ✓ **`METROLOGY-SPRINT-Y10-D5` CLOSE — `TUNING-FORK-1` · `C-STD-1` CERT** · **W501 OPEN** | **Cal-Y10 D356 · ~13 Dec** |
+| 3502 | [day-3502.md](days/year-010/week-501/day-3502.md) | ✓ **`METROLOGY-CELLAR-1` LIVE @ `CAVE-1` · sprint CLOSED** | **Cal-Y10 D357 · ~14 Dec** |
+| 3503 | [day-3503.md](days/year-010/week-501/day-3503.md) | ✓ **`COMPONENT-SPRINT-Y10` — `BN` · `RC` · R/C/L families** | **Cal-Y10 D358 · ~15 Dec** |
+| 3504 | [day-3504.md](days/year-010/week-501/day-3504.md) | ✓ **`DUCK-POND-1` FINISH — reed · nest platform · scratch** | **Cal-Y10 D359 · ~16 Dec** |
+| 3505 | [day-3505.md](days/year-010/week-501/day-3505.md) | ✓ **`P-RETT-32` spin — `FLAX-THREAD-SHINGLE-Y10-1` ~760 m** | **Cal-Y10 D360 · ~17 Dec** |
+| 3506 | [day-3506.md](days/year-010/week-501/day-3506.md) | ✓ **`ROOF-R&D-SHINGLE-Y10-1` — woven mat · F1 lap course** | **Cal-Y10 D361 · ~18 Dec** |
+| 3507 | [day-3507.md](days/year-010/week-501/day-3507.md) | ✓ **`BITUMEN-ROOF-TRIAL-1` refill · W501 CLOSE** | **Cal-Y10 D362 · ~19 Dec** |
+| 3508 | [day-3508.md](days/year-010/week-502/day-3508.md) | ✓ **`YULE-FEAST-EVE-COOK-Y10` — plate locked · serve tomorrow** | **Cal-Y10 D363 · ~20 Dec** |
+| 3509 | [day-3509.md](days/year-010/week-502/day-3509.md) | ✓ **`BOW-HUNT` · `FEAST-YULE` · bread + aged cheese · `SUN-YULE` · Cal-Y10 close** | **Cal-Y10 D364 · ~21 Dec** |
+| 3510 | [day-3510.md](days/year-010/week-502/day-3510.md) | ✓ **`STORAGE-AUDIT-Y10` — purge · consolidate · char reserve ~15 kg** | **Cal-Y11 D1 · ~22 Dec** |
+| 3511 | [day-3511.md](days/year-010/week-502/day-3511.md) | ✓ **`ELEC-COMPONENT-BOX-Y10-1` — R/L/C/SW bench tray** | **Cal-Y11 D2 · ~23 Dec** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

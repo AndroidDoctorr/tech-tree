@@ -14,7 +14,7 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 |---|---|---|---|---|
 | `HEMP-SEL-Y10` | Hemp · ★ **the Ghab line, gen 4 since Y7** | Bed A north · **stubble ~10 cm post cut d3381** | d3381 | ✓ **`HEMP-CUT-Y10-1` d3381** · **`P-RETT-31` CLOSED d3399** |
 | `FAVA-Y10` | Fava | Bed A west | d3214 | ✓ **Seed strip harvested d3345** · **`P-FAVA-Y10` banked** · ground **fallow / nodules left** |
-| `BARLEY-TRIAL-Y10` | Barley, trial | Bed A south, ~3 m² | Y10 | Standing |
+| `BARLEY-TRIAL-Y10` | Barley, trial | Bed A south, ~3 m² | Y10 | ✓ **CUT d3491 · stubble** |
 | — | Chickpea ground | Bed A | — | Fallow · hands off |
 
 ☠ The Ghab hemp is an **obligate outcrosser** and its spare seed died at d3218. This standing crop is the only copy of gen 4 in existence. Isolate by **time, not distance** — pollen carries for kilometres and there is no corner of the campus far enough away. See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
@@ -23,9 +23,9 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y10` | Flax, field · expansion | Bed B centre, ~10 m² | Y10 | Standing |
-| `EMMER-Y10` | Emmer | Bed B south | Y10 | Standing |
-| `P-17-LENTIL-Y10` | Lentil | Bed B north margin | d3212 | Standing |
+| `FLAX-FIELD-Y10` | Flax, field · expansion | Bed B centre, ~10 m² | Y10 | ✓ **CUT d3487 · centre clear** |
+| `EMMER-Y10` | Emmer | Bed B south + centre | Y10 | ✓ **CUT d3485 · stubble** |
+| `P-17-LENTIL-Y10` | Lentil | Bed B north margin | d3212 | ✓ **CUT d3486 · stubble** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
 | `GYPSUM-STRIP-TRIAL-1` | Gypsum strip trial · ×6 alternating ~2 m blocks, ~150 g/m², staked | Bed B lentil run | d3225 | Live · **weigh by block** |
 
@@ -35,8 +35,8 @@ Y10 sow ran **d3211–d3219**. Bed geometry is [map](../map/index.md); what to s
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y10` | Emmer elite increase · ~95 g drawn from `EMMER-ELITE-Y9` | Bed C SW | d3211 | Standing |
-| `P-18-CHICKPEA-Y10` | Chickpea | — | d3212 | Standing |
+| `SEED-INCREASE-BLOCK-Y10` | Emmer elite increase | Bed C SW | d3211 | ✓ **HARVESTED d3485 · ~215 g → vault** |
+| `P-18-CHICKPEA-Y10` | Chickpea | Bed C | d3212 | ✓ **CUT d3491 · stubble** |
 
 Bed C north is the goat pen, not crop ground — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -63,7 +63,7 @@ Mint in open ground takes the bed. The sunk bottomless crock is the containment,
 
 | ID | Crop | Where | Planted | State |
 |---|---|---|---|---|
-| `P-03-TRELLIS` | Grape, cordon-trained | P-03 trellis | — | Budbreak · shoot-thinned d3235 |
+| `P-03-TRELLIS` | Grape, cordon-trained | P-03 trellis @ T-2 | — | ✓ **`GRAPE-PRUNE-Y10-1` d3459** · renewal arm seated · cluster thin Mar–Apr |
 | `P-02-OLIVE` | Olive terrace | P-02 | — | Standing · Nov pick and press band |
 
 ★ **`P-03` has one cordon arm winter-killed.** The renewal shoot is tow-tied and must be trained along the wire all season — ⚠ **do not thin it off.** That shoot is the arm. Most shoots carry two inflorescences; cluster-thin after fruit set to ~12–15 leaves per cluster.
@@ -95,8 +95,9 @@ Retting is a crop process rather than a stock, so the live arc lives here and th
 | `P-RETT-29` | Flax wild · lap 2 | ✓ **CLOSED d3401** · spun to cover thread | d3343 | — |
 | `P-RETT-30` | Hemp wild · **`HEMP-GHAB-FIBRE-Y10`** | ✓ **CLOSED d3383** · ~1.89 kg line class | d3365 | — |
 | `P-RETT-31` | Hemp Bed A · **`HEMP-CUT-Y10-1`** | ✓ **CLOSED d3399** · ~1.08 kg line → ~695 m thread | d3383 | — |
+| `P-RETT-32` | Flax field · **`FIELD-FLAX-PULL-Y10-BED-B`** | — | d3487 | **✓ CLOSED d3505 — spun → `FLAX-THREAD-SHINGLE-Y10-1`** |
 
-Last arc **`P-RETT-28/29`**, closed d3401 — **~1,050 m @ `FLAX-THREAD-COVER-Y10-1`**. Hemp **`P-RETT-31`** closed d3399. Troughs empty · **`W-1` clear**.
+Last arc **`P-RETT-28/29`**, closed d3401 — **~1,050 m @ `FLAX-THREAD-COVER-Y10-1`**. Hemp **`P-RETT-31`** closed d3399. **`P-RETT-32`** pulled d3497 · wet @ **`W-1`**.
 
 ⚠ The rett clock is **10–14 days from pool load** and it is checked on every farm scare pass, not on a calendar — see [farm-scare-rett-pull](../.cursor/rules/farm-scare-rett-pull.mdc). A bundle left submerged past its window is over-retted and the fibre is lost.
 

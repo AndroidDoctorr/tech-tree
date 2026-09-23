@@ -24,7 +24,9 @@ A small stooping chamber. **Powder-dry floor, no bats, air PASS** — the only d
 ### `CAVE-1` — chamber and spring
 Cairned d3213. Walk-in, good moving air, **live seep and pool at the rear**. Cool store and shelter class, a genuine fallback site.
 
-⚠ **Too damp for seed.** ☠ **The water is untested — boil it.**
+✓ **`METROLOGY-CELLAR-1` LIVE d3502** — dry niche **~8 m upslope** · mouth ~9 °C · lime wash + plaster · **`REF-CELLAR-SHELF-1`** · drain lip above seep.
+
+⚠ **Rear pool too damp for seed.** ☠ **The water is untested — boil it.**
 
 ### `CAVE-2`
 Cairned d3220. One room, air PASS, but damp wall and floor on the same seep horizon. **No use** for seed or nitre.

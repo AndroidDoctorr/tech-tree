@@ -2,16 +2,108 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3442** · Cal-Y10 D297 · ~15 Oct · **Norima overhaul**
+**Day 3511** · Cal-Y11 D2 · ~23 Dec · **Component box · storage audit**
+
+> ## ✓ **`BASALT-DATUM` triplet *(d3464–3469 · fine lap d3498)*
+> ✓ **Blocks 1/2/3 wind-free matched · fine triplet · reference @ Block 1 primary.**
+
+> ## ✓ **`METROLOGY-CELLAR-1` @ `CAVE-1` upslope** *(d3502)*
+> ✓ **Lime wash · plaster skim · `REF-CELLAR-SHELF-1` · ~9 °C stable.** ☠ **References only — not food/seed.**
+
+> ## ✓ **`METROLOGY-SPRINT-Y10` CLOSED** *(d3501–3502)*
+> ✓ **References + cellar complete.**
+
+> ## ✓ **`COMPONENT-SPRINT-Y10` CLOSED** *(d3503)*
+> ✓ **`PARTS-PEG-BOARD-1` + `ELEC-COMPONENT-BOX-Y10-1` — bench peg board + 4-row spare drawer @ ~14 °C.**
+
+> ## ✓ **Acorn Y10 *(d3478)*
+> ✓ **Batch 4 roast closed.** ~1.15 kg shell-on remain.
+
+> ## ✓ **Salt Y10 *(d3474)*
+> ✓ **Cycle 1 harvest ~880 g · trays empty.** Window to 26 Nov · haul #15 when named.
+
+> ## ✓ **`SALT-1` larder**
+> ✓ **~9.03 kg @ larder · ~1.0 kg cave.**
+
+> ## ✓ **Acorn roast stock *(d3478)*
+> ✓ **Y10-1–4 ~615 · ~610 · ~605 · ~600 g @ nut tray.**
+
+> ## ✓ **`KILN-A-LIME-3464` *(d3502)*
+> ✓ **`QUICKLIME-1` ~5.2 kg · `CACO3-P7` thin.** Char retort before next lime band.
+
+> ## ✓ **`IRON-BLOOM-SMELT-3463` *(d3503)*
+> ✓ **`IRON-BLOOM-1` ~240 g GREEN** *(BN sprint draw).* ⚠ **conserve or smelt before heavy forge.**
+
+> ## ✓ **Wood + char *(d3511)*
+> ✓ **`CHAR-LANE` ~37.5 kg · `CHAR-RESERVE-C` ~15 kg · `WOOD-OAK-P5` ~5.6 kg @ pile 5.**
+
+> ## ✓ **Brass + bar *(d3503)*
+> ✓ **`BRASS-STOCK` ~44 g @ chill tray · `CU-BAR-Y10-1` ~243 g** *(~44 m class @ 0.9 mm remain).*
+
+> ## ⚠ **Alloy tail *(d3500)*
+> ⚠ **`BRONZE-STOCK` ~5 g only.**
+
+> ## ✓ **Norima wear *(d3480 haul)*
+> ✓ **21** — overhaul baseline **15** @ d3442 · tune **−6** forward.
+
+> ## ✓ **Olive Y10 *(d3490)*
+> ✓ **~1.24 L clear `OIL-Y10-1` cook live · tail ~1.3 kg brined @ crock #2.** Press stage closed.
+
+> ## ✓ **`BLOCK-Y10` ×4 *(d3461)*
+> ✓ **Pit ×56 submerged · lime ~6.4 kg.** Block ×4 GO.
+
+> ## ✓ **`IRON-NAIL-BATCH-3460` *(d3460)*
+> ✓ **`NAIL-IRON` ×40 @ bench peg.**
+
+> ## ✓ **`GRAPE-PRUNE-Y10-1` *(d3459)*
+> ✓ **Cordon · spur · tie · renewal arm kept.** Cluster thin Mar–Apr.
+
+> ## ✓ **`CAVE-RECOVERY-CACHE-1` *(d3458)*
+> ✓ **Crate on shelf · ×8 brick @ mouth · salt · niter · jerky · ash · wire · ×18 nails · records copy.**
+
+> ## ✓ **`ARK-JAR` *(d3457)*
+> ✓ **All four CERTIFIED.** ⚑ **No seed until roster earns it.**
+
+> ## ✓ **`CHLOR-ALKALI-1-RUN-2` *(d3456)*
+> ✓ **×3 clean bottles full · ×2 chem bottles filled · bottle-3 original chem untouched.** ~1.6 L crock remain.
+
+> ## ✓ **`BLEACH-DEEP-CLEAN-Y10-3455` *(d3455)*
+> ✓ **Campus scrubbed · peg line stocked.**
+
+> ## ✓ **Wood + char *(d3448 backfill)*
+
+> ## ✓ **Lab glassware *(d3449 backfill)*
+> ✓ **`P-LAB-BEAKER-4` · `P-LAB-FUNNEL-1` LIVE** · ×2 cullet honest.
+
+> ## ✓ **`GLASS-BLEACH-BOTTLE-SPRINT-Y10` *(d3453–3456)*
+> ✓ **×6 bottles on peg — ×5 filled · ×1 chem from run 1.**
+
+> ## ✓ **`SOAP-BULK-Y10-1` *(d3452)*
+> ✓ **×22 bars curing · ~d3475+ skin.** **`TALLOW-KITCHEN` ~0.35 kg.**
+
+> ## ✓ **`BRASS-POUR-1` + both gas cocks *(d3446–3447)*
+> ✓ **`GASHOLDER-2` H₂ + O₂ on brass cocks — pinch clamps retired.**
+
+> ## ✓ **`GASHOLDER-2` FULL *(d3445)*
+> ✓ **~2 h 55 `GEN-WW-2` fill · ~15 min flame class.** ☠ **Bath daily read.** H₂ cock A live · O₂ pinch clamp until cock B.
+
+> ## ✓ **`GASHOLDER-2` CLOSED *(mechanical)* *(d3444)*
+> ✓ **Bell B raised · lined · crown battened · guides stepped · tub water + air commission.**
+
+> ## ✓ **`ARK-JAR-1/2/3/4` resealed *(d3443)*
+> ✓ **Contact print · wax-under-pitch · gypsum recharged.**
+
+> ## ✓ **`BASALT-DATUM` *(d3443–3464)*
+> ✓ **Flatline 2/2 certified.** ★ **Three-plate lap when named.**
 
 > ## ✓ **`WAGON-V2-OVERHAUL-Y10` *(d3440–3442)*
-> ✓ **Collars · tail/rail strips · bush · rim trim · full tune · wear 35.**
+> ✓ **Collars · tail/rail strips · bush · rim trim · overhaul close · wear →15.**
 
 > ## ✓ **Restock *(d3438–3439 · corrected)*
 > ✓ **`SAND-FILTER-1` ~22.2 kg · `WOOD-OAK-P5` ~48.8 kg · `CACO3-P7` ~19.6 kg unchanged.**
 
-> ## ✓ **`BLOCK-Y10` ×4 *(d3437)*
-> ✓ **Pit ×52 · sand GO · lime ~1.0 kg — burn before next ×4.**
+> ## ✓ **`KILN-A-LIME-3461` *(d3461)*
+> ✓ **×2 stagger · `QUICKLIME-1` topped for block run.**
 
 > ## ✓ **`WOOD-HAUL-3425` *(d3425)*
 > ✓ **`WOOD-OAK-P5` ~25.0 kg @ pile 5.** Norima under canvas @ garage.
@@ -19,18 +111,51 @@
 > ## ✓ **`NITRE-BOIL-Y10-1` *(d3424)*
 > ✓ **~125 g crystal · `M-12-NITER` ~495 g · coal flare PASS · leach band closed.**
 
-> ## ✓ **Char *(d3424)*
-> ✓ **Retort ×3 · `CHAR-LANE` ~16.8 kg GREEN.** ✓ pile 5 refilled d3425.
+> ## ✓ **Char *(d3464)*
+> ✓ **`CHAR-LANE` ~7.7 kg GREEN** after lime ×2. ⚑ **Retort before next burn.**
 
 > ## ⚑ **HOME-only · exped closed**
 
-> ## ✓ **Block yard *(d3398)*
-> ✓ **×52 submerged @ pit.** ✓ **Sand ~22 kg · wood pile 5 fat · lime ~1.0 kg — burn before ×4.**
+> ## ✓ **Block yard *(d3461)*
+> ✓ **×56 submerged @ pit.** ✓ **Sand ~15.8 kg · lime ~6.4 kg — block ×4 GO.**
 
 > ## ⚑ **`SUNGLASS-YULE-1`** — **×3 lens blanks annealing · brass after lap**
 
-> ## ★ **`ROOF-R&D-HEMP-BITUMEN-1`** *(player d3380 · not BC-2)*
-> **Hemp mat + bitumen + mineral surfacing · deck · shingle · copper trial parallel.** See [plans/roof-rd-hemp-bitumen-1.md](plans/roof-rd-hemp-bitumen-1.md).
+> ## ✓ **Yule Y10 *(d3509 CLOSE)*
+> ✓ **Goose lap 6 · feast @ desk · `SUN-YULE-3509` tenth glyph · Cal-Y10 close.** **`GOOSE-SMOKE-Y10-1` ~0.95 kg @ rack.**
+
+> ## ✓ **`STORAGE-AUDIT-Y10-3510` *(d3510)*
+> ✓ **Assay tails purged · M24 traces cleared · `CHAR-RESERVE-C` ~15 kg · `CHAR-LANE` ~37.5 kg.**
+
+> ## ✓ **`ELEC-COMPONENT-BOX-Y10-1` *(d3511)*
+> ✓ **4-row tray @ chem bench east · R / L / C / SW stocked.** Masters stay on `REF-SHELF-1`.
+
+> ## ✓ **`ROOF-R&D-HEMP-BITUMEN-1`** *(d3507)*
+> ✓ **Lead: F1 lap-shingle prototype.** Panel **A0–F1** @ south lean · **rain-roll read queued.** **`BITUMEN-ROOF-TRIAL-1` ~0.78 kg** topped.
+
+> ## ✓ **Harvest block *(d3485–3491)*
+> ✓ **Grain:** emmer + barley trial. ✓ **Pulse:** lentil d3486 · chickpea d3491. **BLOCK CLOSED.**
+
+> ## ✓ **Field flax Y10 *(d3505 CLOSE)*
+> ✓ **`P-RETT-32` break/heckle/spin closed.** **`FLAX-THREAD-SHINGLE-Y10-1` ~540 m @ peg** *(d3506 mat −~220 m).* Bed B clear.
+
+> ## ✓ **Shelf-life sprint *(d3488–3489)*
+> ✓ **Barrel · parched · stew · smoke · flat · herb dry — larder band CLOSED.**
+
+> ## ✓ **Pulse kitchen *(d3492)*
+> ✓ **`FALAFEL-Y10-1` · `HUMMUS-Y10-1` ~220 g @ cool step.** Y10 oil fry unlocked in practice.
+
+> ## ✓ **Seed vault roster *(d3493)*
+> ✓ **No `Tested` cell reads `—`.** ⚠ **`P-03-SEL-Y8` ~25% · `P-PARSLEY-SEL-Y9` dead.**
+
+> ## ✓ **Duck habituation *(d3494)*
+> ✓ **`DUCK-POND-1` CLOSED @ `TIGHT-LAYER-1` *(d3504)*.** Reed margin · **`DUCK-NEST-PLATFORM-1`** · **`DUCK-SCRATCH-STATION-1`**. ⚑ Habituation Mar–May · not a trap Y1.
+
+> ## ✓ **Metrology gen-3 *(d3497)*
+> ✓ **D2 CLOSED.** `MASS-REF-100/1000-1` @ 14 °C · `CALIPER-1` gen-3 cert. ☠ **Length refs = steel/oak, not invar.** ⚑ D3 fine lap · D4 electrical · D5 parts sprint.
+
+> ## ✓ **Animals winter *(d3483)*
+> ✓ **Pens · blankets · browse stack ~10 d @ holding north face.** Hay loft **~90 kg** · chaff sprint after cut.
 
 > ## ✓ **`WAGON-GARAGE-1` CLOSED *(utility)* *(d3375–3379)*
 > ✓ **Roof d3379 · Norima under cover.** Phased block + timber + shake.
@@ -98,7 +223,7 @@
 > ✓ **Fork loop · goats · holding scrape · nitre turn · apiary · cells · smoke-spot · snails.**
 > ⧗ **`W-1` dry queue · lap 1–2 rett pulled · break/heckle defer**
 
-> ## ✓ **`BASALT-DATUM` turned *(d3342 · d3360)* — blocks still settling · no lap yet.
+> ## ✓ **`BASALT-DATUM` turned *(d3342 · d3360 · d3427 · d3443)* — **flatline 1/2 vs d3427** · lap unauthorized · next ~d3464.
 
 > ## ✓ **`ISLAHIYE-NICKEL-SCOUT-Y10` CLOSED *(d3341)* · **`ISLAHIYE-GARNIERITE-HAUL-Y10` CLOSED *(d3352)*
 
@@ -699,10 +824,10 @@
 | **Grain** | **Emmer bulk ~0.85 kg — thin eating year.** Cover: **acorn roast ~1.86 kg** · dairy · hunting / jerky · weir · greens ~0.8 kg |
 | **Bird watch** | **NO damage over the trip** — stack held, beds intact. All three devices re-set d3228 · **habituation clock is ~4 d, so short trips are free** · **~1.5 wk left** |
 | **June lap** | **WILD-GRAIN-GATHER** — P-06-A/B/C barley · P-05-A/B einkorn · **staked ~200 m d3215** · rebuilds the zeroed barley line |
-| **GASHOLDER-2** | **~60%** · tub ✓ lined · **Bell A ✓ crown battened + air-tight** · **Bell B bevels re-cut D3** · cocks blocked on brass |
-| **Generator** | **PEDAL-GEN-1 ✓** · Cu posts + leaf clips · quick-detach |
-| **Gas rig** | **GASHOLDER-1 FULL · H₂ ~0.9 L · O₂ ~0.45 L** · ANODE-NARROW-1 ✓ · **BLOWPIPE-1 ✓ + traps ×2** |
-| **Gas budget** | **Full bank = ~85 s of flame.** The **store** is the cap, not the pedalling — **GASHOLDER-2 at ~10×** |
+| **GASHOLDER-2** | **✓ FULL** · both brass cocks live · bath daily read |
+| **Generator** | **PEDAL-GEN-1 ✓** · **`GEN-WW-2` on free collar** · Cu posts + leaf clips |
+| **Gas rig** | **`GASHOLDER-2` primary · `GASHOLDER-1` standby** · ANODE-NARROW-1 ✓ · **BLOWPIPE-1 ✓ + traps ×2** |
+| **Gas budget** | **~15 min flame @ full bank** *(vs ~85 s on rig 1)* · **store + H₂ permeation are the limits now, not the wheel** |
 | **RED stocks** | **Pb ~15 g · brass ~11.8 g** · **H₂SO₄ ~5.8 ml** *(a fouled leach costs acid in the wet residue)* · ★ **COPPER WIRE IS NO LONGER RED — ×0 all year, and now ~72 m of 0.3 mm with ~17 g/day accumulating. The year's binding constraint came off at d3258** |
 | ★★ **THREE-PLATE FLAT — materials in hand** *(d3264)* | ★★ **A LAPPED SURFACE CAN NEVER BE FINER THAN THE CRYSTALS IT IS MADE OF** — a crystal does not wear under abrasive, **it PLUCKS OUT WHOLE and leaves a pit its own size** · ★★ **so the search is not for a rock, it is for WHERE THE ROCK COOLED FASTEST: grain size is set by cooling rate, and DYKE MARGINS + PILLOW RIMS chilled against cold rock and water and never grew crystals at all** *(gabbro is useless however hard it is)* · ☠ **VESICLES are holes in a reference surface and I would not find them until a week into lapping — dyke rock froze under pressure with nowhere to bubble** · ★★ **RING THE BLOCK: sound stone rings and holds the note, vesicular or cracked stone THUDS — an internal inspection for the price of a tap** · ★ **take from a FRESH BREAK; the outer few fingers of any exposed rock is an altered weathering rind that looks exactly like the rest** · **method: AZURITE BLUE as the marking medium · rotate ALL THREE pairings every cycle** *(two plates converge to a matching convex/concave pair — you can rub two spheres forever)* · **vary the stroke, because any repeated path prints itself** · **three-point support, never flat on a bench** |
 | ☠ ★★ **A FRESHLY QUARRIED STONE MOVES** | **Held in compression inside a mountain for an unimaginable time, and I have just cut it free — it creeps into its new shape for months** · ★★ **Lap it now and I own a plate that is flat THIS WEEK. It will be wrong SILENTLY, and everything built off it inherits the error** · ★★ **The tan pit and the jerky rack wearing a third face: HURRY SEALS THE SURFACE AND STRANDS THE MIDDLE — and here the middle is the stress** |

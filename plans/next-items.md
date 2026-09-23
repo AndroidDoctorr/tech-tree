@@ -28,20 +28,22 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 - ⟳ ☠ **`SPIN-WHEEL-2` yarn evenness + splicing** — **20 Jul.** *A practised hand, not a machine setting, so the deadline is an hour count.* ★ **The gate on life-bearing rope**
 - ⧗ **`ORE-BAY-1` catch pot** — daily read · ⧗ **`VITRIOL-HEAP-1`** ~d3378
 - ⧗ **Blocks** · ✓ **90-day break d3370** · **`BLOCK-CAST-Y10-3280` ×7 stack · ×20 submerged**
-- ⧗ **`BASALT-DATUM`** — turn and re-read every ~3 weeks. ☠ **Lapping opens when two successive checks agree, not on a date**
+- ⧗ **`BASALT-DATUM`** — **flatline 1/2 d3443** · next turn ~d3464. ☠ **Lapping opens when two successive checks agree, not on a date**
 
 ## ⚒ The days go here
 
 - ✓ ★★★ **OIL OF VITRIOL MADE d3317.** `RETORT-A` etched batch 1. ✓ **`RETORT-E`–`H` stoneware sound d3332.** ✓ **`RETORT-B` batch 1 d3335 — lighter etch than `A`; ~⅓ grog thin is acid reference**
 - ✓ **`KILN-D-STACK-2` built d3324 · full hot proof d3332**
 - ✓ **`CUPEL-HEARTH-1` sited and footed d3297** — ⚒ **stack and hood outstanding.** ☠ ⧗ ★★★ **But the real limit is `BONE-BANK-1`: ~20 cupels in hand is ONE pass through the galena, and bone only arrives as animals die.** *A cupel is a reagent, consumed by becoming the product* — ✓ **bank the used ones as ore**
-- ✓ **`ARK-JAR-1/2/3/4` — jars 1/2/3/4 certified empty d3327–d3334.** ★★ **Still no seed until the roster earns it.**
+- ⧗ **`ARK-JAR-1/2/3/4` — read 1 flatline 1/2 d3450 · read 2 d3457.** ★★ **Still no seed until the roster earns it.**
 - ☠ ★★★ **TWO BANKS THE ARK DRAWS FROM WERE MISSED BY THE d3285 SWEEP** — **`EMMER-ELITE-Y9` last tested d3211** · ⚠ **`P-17-ELITE-Y9` lentil last tested d3122**, *and lentil is the short-lived species at ~2 yr.* ☠ **The fix for the incomplete roster was itself incomplete**
 - ⧗ **Re-burn the ~2.1 kg of spent calcined gypsum** — ★ *calcining IS the recharge* · ☠ **fire straight into a sealed jar; every minute in open air is capacity spent on the room**
 - **Drive benchmarks at `CAMPUS-BRIDGE` and every graded crossing.** `BM-ASI-1` was the first, d3279
 - **Strip `M-22-TALUS-S1`** — strongest magnetite stain since the +420 m lens, marked d931, **untouched 2,364 days**
 - ⚠ **Inlet audit on every stack** — kiln and forge first. ☠ *Every vent is an exit; none has a sized inlet, so any two compete and the loser reverses*
 - ⚑ **Machine covers and wagon cover off thatch to canvas** — ★ **a precision item, not a weather one** *(a gradient across a lathe bed is a bend)*. ⧗ **Gated on the July hemp**
+- ✓ **`CHLOR-ALKALI-1` bleach d3454–3456** — **×3 clean · ×3 chem on peg · crock ~1.6 L** · optimise yield optional
+- ✓ **`SOAP-BULK-Y10-1` d3452** — **×22 bars curing · `SOAP-Y10-1` · skin ~d3475+**
 
 ## ☠ Unsolved
 

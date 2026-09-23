@@ -85,7 +85,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **35** | **Overhaul tune d3442 39→35 · hauls d3438–3439 +2 · tune d3428 base** |
+| **Norima wear** | **21** | Haul d3480 20→21 · overhaul d3442 → 15 · doctrine d3463 |
 | **mishap_pool** | **1** | **+1 qualifying exped d3415 · pop only if pool ≥ 8** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
@@ -182,20 +182,31 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 | **CART-WHEEL-MISHAP** | **8_000_000** *(was 12M)* | wobble trim · bind PARTIAL · rim slip hero |
 | **WAGON-HUB-BIND** | **5_000_000** *(was 8M)* | grease defer · collar refresh · hub seize |
 
-### Cart wear ledger *(player d3430 · Norima · COVERED-WAGON-1)*
+### Wagon wear ledger *(Norima · `WAGON-V2-CHASSIS-1`)*
 
-**Scale:** **0–100** maintenance-debt index for hazard `(wear / 50) × load × terrain` — **not** physical rim mm or “percent life.”
+**Scale:** **0–100** maintenance-debt index for hazard `(wear / 50) × load × terrain` — **not** rim mm or “percent life.”
+
+**What it tracks:** deferred maintenance across **hubs · tyres · bed wear strips · lash · cover · hitch** — grease drying, collar creep, rim wobble, thin strips, stretched lash. **+1** ≈ one loaded haul’s worth of that debt.
+
+| Band | Read |
+|------|------|
+| **0–15** | Fresh / just rebuilt |
+| **16–30** | Normal season — routine tune on schedule |
+| **31–45** | Due tune — bind ghost · wobble · thin strips flagged |
+| **46–60** | Parts wearing — tune buys less; plan overhaul |
+| **61+** | Failure band — mishap rolls get mean |
 
 | Event | Δ wear |
 |-------|--------|
 | **Loaded haul hero** — margin · trail · exped · multi-lap stone/wood/lime **with meaningful load** | **+1** |
-| **Heavy north / ~90 kg manifest** day | **+1** *(same tick; load_mult already 1.6 in hazards)* |
+| **Heavy manifest** — four-lap wood · ~90 kg north run *(same day as haul)* | **+1** *(stacks with haul tick)* |
 | **Campus yard roll · garage apron · empty bed · hand loop tune test** | **0** |
-| **Farm-scare inline hub grease** *(no haul hero)* | **0** |
-| **Full-day wagon tune** — **`WAGON-V2-TUNE-*`** grammar: hubs · tyres · bed · lash · cover roll · empty certification roll | **−4** |
+| **Farm-scare inline hub grease** *(minutes, not a tune hero)* | **0** |
+| **Routine tune** — **`WAGON-V2-TUNE-*`**: grease · lash · trim · cover roll · empty cert | **−6** *(adjustment — does not replace metal)* |
+| **Overhaul close** — **`WAGON-V2-OVERHAUL-*` D1–D3**: strip · forge replacements · cert on D3 | **set wear → 15** *(post-rebuild baseline — not a delta)* |
 | **Partial grease pass** *(minutes, not a tune hero)* | **0** |
 
-> **Prior tunes at −3 stand in the journal; apply −4 from d3431 onward.** Do not retro wear unless player files a retcon.
+> **Prior routine tunes at −4 stand in the journal through d3462; apply −6 from d3463 onward.** **`WAGON-V2-OVERHAUL-Y10` baseline in [retcon](../journal/retcons/WAGON-V2-OVERHAUL-WEAR-Y10.md).**
 
 ### Forge *(hero-day)*
 

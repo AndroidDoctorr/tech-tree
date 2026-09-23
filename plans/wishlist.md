@@ -1,0 +1,16 @@
+Things I want eventually:
+- Screw cutting lathe
+- Boring mill
+- STEEL
+- Musket
+- Better generator
+- Electric lighting
+- Electric heating
+- Electric motors
+- Synthesizer
+- Tool shed
+- Full garage
+- (More) modern workshop (attached to garage?)
+- More modern versions of some tools:
+    - Shovel, spade, hoe, rake, axe, pickaxe, adze, crowbar
+    - Broom, push-broom, mop, bucket, dustpan

@@ -1,0 +1,64 @@
+---
+description: Every day file debits daily living costs — fuel, lamp, food, soap — plus hero draws
+globs: journal/days/**/*.md,instructions.md,checklists/daily.md
+alwaysApply: true
+---
+
+# Daily consumption — every day file
+
+Every day that is logged gets a **`## Consumption`** block. Split it into **Daily** and **Hero** when both apply.
+
+## Daily block — always unless explicitly zero
+
+| Category | Debit | When to skip |
+|---|---|---|
+| **Food** | Player + animals · spoilage-first per [food-menu.md](../government/procedures/food-menu.md) | Never skip without stating why (expedition ration pack already counted, etc.) |
+| **Soap** | ~¼–½ bar class from `SOAP-Y10-1` or working bar | Only if the day is explicitly no-wash (miles-out overnight with no water) |
+| **Heat / cook fuel** | `WOOD-OAK-P5` and/or `CHAR-LANE` / `CHAR-RESERVE-C` — **state kg** | **Summer band:** cooking only, no space heat · **Winter band:** hearth + cook · **Forge/kiln/retort** are hero draws, not daily |
+| **Lantern / lamp** | `DEER-TALLOW-Y10-1` · wick oil · or `CHAR-LANE` trace for brazier lamp | **Skip only** when the day is full daylight and no cave/night work |
+
+★ **"As needed" means judge the season and the day's hours — not omit the block.** Write `none` on a line when a category truly did not fire.
+
+## Hero block — when the day burns extra stock
+
+Craft, haul, lap, forge, kiln, smelt, retort, glass, build: **every material row** with amount · patch [inventory/resources.md](../inventory/resources.md) or the split file the row lives in.
+
+## Patch rule — calculate each debit once
+
+1. **Pick amounts once** in the day file `## Consumption` block — that table is the audit trail.
+2. **Patch inventory once:** `new_qty = last_inventory_qty − debit` (or `+` credit). Do not re-estimate from a different starting number in the same pass.
+3. **`now.md`:** only the **resulting runway** when that stock is tracked there (wood, char, lime, etc.) — **not a second calculation** and not a copy of the Consumption table.
+4. **Never** state the same draw in Events prose *and* Consumption with different numbers. Events name the work; Consumption owns the kg/g.
+
+## Low stock — remind the player
+
+When a draw pushes a row to **runway thin** or **×0**, add a **`## Stock watch`** block at the end of the day file (2–4 lines max). Flag only what changed or crossed a threshold — do not repeat stable surpluses.
+
+| Signal | Typical threshold |
+|---|---|
+| **×0** | Any ID the next hero names |
+| **Runway thin** | Row already marked thin in `now.md`, or **&lt;~3 days** of typical daily/heavy draw at current rate |
+| **Season gate** | Calendar band needs stock that is not in hand (e.g. lime before kiln band) |
+
+Name the ID · remaining qty · what breaks if ignored.
+
+## Example
+
+```markdown
+## Consumption
+
+### Daily
+
+| Draw | Amount | Notes |
+|---|---|---|
+| **Food** | goat milk · stew · parched | Spoilage-first |
+| **`SOAP-Y10-1`** | **−~35 g** | Wash + bench |
+| **`WOOD-OAK-P5`** | **−~1.1 kg** | Hearth cook + Dec warmth |
+| **Lamp tallow** | **−~18 g** | Cave scout + eve bench |
+
+### Hero
+
+| Draw | Amount | Notes |
+|---|---|---|
+| **`ROUGE-FINE-1`** | **−trace ~6 g** | Fine lap |
+```

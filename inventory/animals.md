@@ -42,7 +42,7 @@ Daily care is `MILK-GOAT` and `STOCK-WATER` in [daily.md](../checklists/daily.md
 
 ⚠ **Sep–Dec, shared pen** triggers `GOAT-RUT-BREED`; quarterly triggers `GOAT-ILLNESS-PASS`. Both in [hazards.md](../hazards.md).
 
-Browse at home reads **~5.3 days** as of d3177 — `HOLDING-WALK`. That is the number that decides whether the team eats off the campus or off a haul.
+Browse at home reads **~10 days** as of d3483 — `HOLDING-WALK`. That is the number that decides whether the team eats off the campus or off a haul.
 
 ## Bees
 
