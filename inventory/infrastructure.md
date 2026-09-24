@@ -243,6 +243,8 @@ Map: `WW-2` · Built: d1891–d1892
 
 `WW-MACHINE-FLYWHEEL-1` (MF-1) at idler B with clutch collar #3 — ~3.6 kg disk, `WW-MACHINE-SWITCH-1` live since d1973. `GRIND-TAKEOFF-2` is a cord branch to `GS-1`. `TRIP-HAMMER-BELT-1` is a ~1.8 m leather cam.
 
+**Clutch A–D** *(d3553)* — **one live:** **A** lathe direct · **B** `LATHE-TORQUE-GB-1` reduced · **C** `BORING-MILL-1` direct · **D** `MILL-TORQUE-GB-1` reduced. Collar **#4** stays cellar fan.
+
 ★ One wheel, one belt tree, and every powered tool on the campus hangs off it. A failure here stops the saw, the lathe, the drill press, the trip hammer, the cellar fan and the generator at the same time.
 
 ## Cold store
@@ -354,7 +356,7 @@ Powered rip PASS. `TABLE-SAW-ARBOR-1` ~22 mm shaft on ×2 bronze pillows · `TAB
 ### `LATHE-V2-LEADSCREW-1`
 Map: `LATHE-V2` · Built: d2856 · Wear read: d3525 · Gearbox: d3526
 
-`LS-SCREW-1` plus `LS-HALF-NUT-1`, **~1.02 mm/rev** · backlash **~0.42 mm** @ power nut · **hand + power feed live** · **1:1 BN pitch threading certified d3529** · **`SCREW-LATHE-1` retrofit CLOSED**.
+`LS-SCREW-1` plus `LS-HALF-NUT-1`, **~1.02 mm/rev** · backlash **~0.42 mm** @ power nut · **hand + power feed live** · **1:1 BN pitch threading certified d3529** · **`SCREW-LATHE-1` retrofit CLOSED**. **`LATHE-TORQUE-GB-1` LIVE d3553** — **~3:1** · spindle **~58 rpm** reduced · clutch **B**.
 
 ### `ROPEWALK-1`
 Map: `WW-YARD` long run · Built: d3255
@@ -369,9 +371,9 @@ Map: — · Built: d1894 · Live ~95%
 With `BORE-JIG-1`. Repeat bore to ~0.08 mm class. Upgrade path from `CRANK-DRILL-1`, which is still at `WORKBENCH-1` on a belt stub.
 
 ### `BORING-MILL-1`
-Map: `WORKBENCH-1` east cheek · Opened: d3542 · Bed: d3543 · Headstock: d3544 · Saddle: d3545 · Belt: d3546 · **~70%**
+Map: `WORKBENCH-1` east cheek · Opened: d3542 · **LIVE d3553**
 
-`BORING-MILL-BED-FRAME-1` + **`BASALT-BLOCK-2` wear plate** + **`BORING-MILL-HEADSTOCK-1`** + **`BORING-MILL-SADDLE-1`** + **`BORING-MILL-BELT-BRANCH-1`** @ idler B. Spin **~145 rpm** PASS · runout **<0.07 mm** under load. Scrap bore trial outstanding.
+`BORING-MILL-BED-FRAME-1` + **`BASALT-BLOCK-2` wear plate** + **`BORING-MILL-HEADSTOCK-1`** + **`BORING-MILL-SADDLE-1`** + **`BORING-MILL-BELT-BRANCH-1`** @ idler B. First **`RC-10`** scrap bore PASS d3547 · **`BORING-BAR-1` PoC** @ peg. **`MILL-TORQUE-GB-1` LIVE d3553** — direct **~145 rpm** clutch **C** · reduced **~36 rpm** clutch **D**. Brass bar pilots defer.
 
 ### `LATHE-1` and `LATHE-V2`
 Map: `WORKBENCH-1`

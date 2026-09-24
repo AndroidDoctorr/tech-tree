@@ -169,7 +169,7 @@ Salt is the one indefinite row. **Y10 evap band OPEN** (6 Nov – 26 Nov) — cy
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class · ★ **full to cap, Y10 record** | ~130 kg | Ice vault | Y10 | d3193 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~101 kg** | Ice vault | Y12 | d3556 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

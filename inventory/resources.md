@@ -10,10 +10,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | **~13.9 kg** | Char lane | | d3545 |
+| `CHAR-LANE` | Charcoal, oak · green | **~30.2 kg** | Char lane | | d3561 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~15 kg** | Store C vault | | d3510 |
-| `WOOD-OAK-P5` | Oak, green | **~29.4 kg @ pile 5** | Pile 5 | | d3546 |
-| `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.28 kg tail** | Craft peg | d3520 | d3528 |
+| `WOOD-OAK-P5` | Oak, green | **~0.1 kg @ pile 5** | Pile 5 | | d3561 |
+| `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~8.08 kg | Berm | | d3472 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
@@ -80,7 +80,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | ~34.75 kg | v1 chem, isolated | | d3008 |
 | `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
-| `H-11-HEMATITE` | Hematite | **~8.45 kg @ pile 4** | Pile 4 | | d3541 |
+| `H-11-HEMATITE` | Hematite | **~5.65 kg @ pile 4** | Pile 4 | | d3559 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -96,14 +96,14 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — **~30 m class left @ 0.9 mm** | ~166 g | — | | d3535 |
-| `IRON-BLOOM-1` | Iron bloom, mounted · green | **~585 g GREEN** | Forge mount | | d3546 |
+| `IRON-BLOOM-1` | Iron bloom, mounted · green | **~980 g GREEN** | Forge mount | | d3559 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
 | `ZNO-CALCINE` | Zinc oxide calcine | ~786 g | — | | d3535 |
 | `ZN-METAL-1` | Zinc, prill tail | ~81 g | Chem-lab lidded tray | | d2979 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | ~118 g | Purple lidded jar, v1 chem | | d3013 |
 | `BRONZE-STOCK` | Bronze, sprue tail · red | **×0** | Chill tray | | d3545 |
 | `PB-METAL` | Lead, tail · red · galena restock queued | **×0** | Forge jar | | d3497 |
-| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~62 g** | Chill tray | d3500 | d3544 |
+| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~54 g** | Chill tray | d3500 | d3552 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
 | `NAIL-IRON` | Iron nails | **×28 @ bench** · **×18 @ `CAVE-RECOVERY-CRATE-1`** | Bench / cave | d3514 | d3515 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |

@@ -274,6 +274,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `GEAR-DIV-PLATE-12-1` | Hand-walked ÷12 scratch disc · brass | `METROLOGY-CELLAR-1` archive drawer | **RETIRED d3524** · bootstrap complete |
 | `GEAR-DIV-PLATE-12-2` | Bootstrap ÷12 plate · indexed off `GEAR-MORTISE-WHEEL-12-1` · **live indexer** | Craft peg | Live · d3524 |
 | `GEAR-LANTERN-PINION-12-1` | Lantern pinion · 12 leaf · on **`SCREW-LATHE-HUB-SPD-1`** | `LATHE-V2` gearbox | ✓ Mounted d3528 |
+| `GEAR-LANTERN-PINION-12-2` | Lantern pinion · 12 leaf · iron pins · hornbeam plates · lathe torque | `LATHE-TORQUE-GB-HUB-PIN-1` | ✓ Mounted d3553 |
+| `GEAR-LANTERN-PINION-12-3` | Lantern pinion · 12 leaf · iron pins · hornbeam plates · mill torque | `MILL-TORQUE-GB-HUB-PIN-1` | ✓ Mounted d3553 |
 | `GEAR-MORTISE-WHEEL-12-1` | Mortise wheel #1 · hornbeam · on **`SCREW-LATHE-HUB-LS-1`** | `LATHE-V2` gearbox | ✓ Mounted d3528 |
 | `GEAR-BOOTSTRAP-WHEEL-2-1` | Bootstrap wheel #2 · hornbeam · **×12/12 cogs** | Craft peg | ✓ Reserve · compound train |
 | `SCREW-LATHE-STUD-PLATE-1` | Headstock stud plate · wrought iron · ×3 indexed studs | `LATHE-V2` headstock | Live · d3526 |
@@ -303,6 +305,23 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `BORING-MILL-SPINDLE-PULLEY-1` | Hornbeam drive disc ~42 mm · iron boss · crowned | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
 | `BORING-MILL-BELT-BRANCH-1` | Leather cord ~2.2 m · idler B takeoff | `BELT-TREE-1` | Live · d3546 |
 | `BORING-MILL-BELT-QR-1` | Cheek quick-release · local link | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
+| `BORING-BAR-1` | Boring bar PoC · wrought shank · case tip · `RC-06` tail | Craft peg | ✓ PoC d3547 |
+| `BORING-MILL-TRIAL-BLOCK-1` | Oak scrap · `RC-10` trial bore | Craft peg | Reference d3547 |
 | `BORING-MILL-LAYOUT-1` | Layout mock-up · oak strip | — | **RETIRED d3543** · absorbed into frame |
+| `LATHE-TORQUE-GB-LAYOUT-1` | Torque gearbox layout mock · oak strip | — | **RETIRED d3552** · absorbed into frame |
+| `MILL-TORQUE-GB-LAYOUT-1` | Torque gearbox layout mock · oak strip | — | **RETIRED d3552** · absorbed into frame |
+| `LATHE-TORQUE-GB-FRAME-1` | Oak cheek bracket · iron hub mounts · lathe torque box | `LATHE-V2` west cheek | Live · d3552 |
+| `MILL-TORQUE-GB-FRAME-1` | Oak cheek bracket · iron hub mounts · mill torque box | `WORKBENCH-1` east cheek | Live · d3552 |
+| `LATHE-TORQUE-GB-HUB-IN-1` | Input hub · iron · brass liner · mortise wheel seat | `LATHE-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `LATHE-TORQUE-GB-HUB-PIN-1` | Pinion hub · iron · lantern seat | `LATHE-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `LATHE-TORQUE-GB-HUB-OUT-1` | Output hub · iron · brass liner · belt stub | `LATHE-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `LATHE-TORQUE-GB-BELT-BRANCH-1` | Leather cord ~1.6 m · `LATHE-REDUCTION-IN` tee | `BELT-TREE-1` | Live · d3553 |
+| `LATHE-TORQUE-GB-BELT-QR-1` | Quick-release · lathe reduced clutch **B** | `LATHE-V2` west post | Live · d3553 |
+| `MILL-TORQUE-GB-HUB-IN-1` | Input hub · iron · brass liner · mortise wheel seat | `MILL-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `MILL-TORQUE-GB-HUB-PIN-1` | Pinion hub · iron · lantern seat | `MILL-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `MILL-TORQUE-GB-HUB-OUT-1` | Output hub · iron · brass liner · belt stub | `MILL-TORQUE-GB-FRAME-1` | Live · d3553 |
+| `MILL-TORQUE-GB-BELT-BRANCH-1` | Leather cord ~1.9 m · idler B tee upstream of mill QR | `BELT-TREE-1` | Live · d3553 |
+| `GEAR-MORTISE-WHEEL-36-1` | Mortise wheel · hornbeam · **36T** · lathe torque box | `LATHE-TORQUE-GB-HUB-IN-1` | ✓ Mounted d3553 |
+| `GEAR-MORTISE-WHEEL-48-1` | Mortise wheel · hornbeam · **48T** · mill torque box | `MILL-TORQUE-GB-HUB-IN-1` | ✓ Mounted d3553 |
 
 Powered machines are not tools — the table saw, lathes and drill press are [infrastructure.md](infrastructure.md), because they are installed, belt-driven and maintained on a schedule.

@@ -8,10 +8,11 @@ Things I want eventually:
     - Switches
     - Transformers
     - Diodes?? Vacuum tubes??
-- Boring mill
 - Sheet roller?
-- STEEL
-- Musket
+- STEEL *(Y12 parallel · pipe pressure · musket barrel)*
+- Pipe standards · OD/ID/wall · CSA · safe-P table
+- Musket *(parallel with steel + bore mill)*
+- Invar + constantan length/resistance refs *(hot/cold variance · nickel lane)*
 - Better generator
 - Electric lighting
 - Electric heating

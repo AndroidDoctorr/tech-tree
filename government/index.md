@@ -8,7 +8,10 @@ Rules and standards
 
 - [building-code-2.md](regulations/building-code-2.md) - Construction standards, routines, and best practices (v2)
 - [crop-selection-improvement-code-1.md](regulations/crop-selection-improvement-code-1.md) - Crop selection/breeding plan/goals
+- [electrical-code-1.md](regulations/electrical-code-1.md) - Electrical definitions, resistance standards, and bench measurement (EC-1)
 - [furniture-code-1.md](regulations/furniture-code-1.md) - Furniture quality standards and aesthetic preferences
+- [manufacturing-code-1.md](regulations/manufacturing-code-1.md) - Fasteners, pipe series, fittings classes, and workshop mechanical stock (MFGC-1)
+- [measurement-code-1.md](regulations/measurement-code-1.md) - Dimensional, mass, and bore reference standards (MC-1)
 - [storage-code-1.md](regulations/storage-code-1.md) - Rules for storage management - organization, archiving, backups, etc.
 - [waste-management-drainage-code-1.md](regulations/waste-management-drainage-code-1.md) - Regulations for waste and water management - rainfall/runoff, slag, grey water, black water, grease, etc.
 

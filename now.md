@@ -2,7 +2,7 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3546** · Cal-Y12 D27 · ~27 Jan · **Boring mill D5**
+**Day 3561** · Cal-Y12 D42 · ~11 Feb · **Char retort refill**
 
 > ## ✓ **`BASALT-DATUM` triplet *(d3464–3469 · fine lap d3498)*
 > ✓ **Blocks 1/3 @ `WW-YARD` · Block 2 wear plate @ `BORING-MILL-1` · reference @ Block 1 primary.**
@@ -31,17 +31,23 @@
 > ## ✓ **`KILN-A-LIME-3464` *(d3517)*
 > ✓ **`QUICKLIME-1` ~4.85 kg · `CACO3-P7` thin.** Char runway restored.
 
-> ## ✓ **`IRON-BLOOM-1` *(d3546)*
-> ✓ **`~585 g GREEN @ mount`** — boring bar PoC GO.
+> ## ✓ **`IRON-BLOOM-1` *(d3559)*
+> ✓ **`~980 g GREEN @ mount`** — steel branch stock · wrought bar next.
 
-> ## ✓ **`H-11-HEMATITE` *(d3541)*
-> ✓ **`~8.45 kg @ pile 4`** — ~3 smelt charges remain.
+> ## ✓ **`H-11-HEMATITE` *(d3559)*
+> ✓ **`~5.65 kg @ pile 4`** — ~2 smelt charges remain.
 
-> ## ✓ **Wood + char *(d3546)*
-> ✓ **`CHAR-LANE` ~13.9 kg · `CHAR-RESERVE-C` ~15 kg · `WOOD-OAK-P5` ~29.4 kg @ pile 5** · **`WOOD-HORNBEAM-GEAR-1` ~0.22 kg tail.**
+> ## ⚑ **`STEEL-PATH-SLATE-Y12-1` *(d3559)*
+> ⚑ **Bloom → wrought bar → pack carburize → harden/temper** · fold for **laminate**, not for **C**.
 
-> ## ✓ **Brass + bar *(d3544)*
-> ✓ **`BRASS-STOCK` ~62 g @ chill tray · `CU-BAR-Y10-1` ~166 g** *(~30 m @ 0.9 mm).*
+> ## ✓ **Wood + char *(d3561)*
+> ✓ **`CHAR-LANE` ~30.2 kg** · **`CHAR-RESERVE-C` ~15 kg** · **`WOOD-OAK-P5` ~0.1 kg @ pile 5** · **`WOOD-HORNBEAM-GEAR-1` ~0.24 kg tail @ peg.**
+
+> ## ✓ **Norima wear *(d3560)*
+> ✓ **23** — wood haul · ice/steel arc.
+
+> ## ✓ **Brass + bar *(d3552)*
+> ✓ **`BRASS-STOCK` ~54 g @ chill tray · `CU-BAR-Y10-1` ~166 g** *(~30 m @ 0.9 mm).*
 
 > ## ✓ **`GEAR-SPRINT-1` bootstrap CLOSED *(d3524)*
 > ✓ **Wheel #1 + wheel #2 ×12/12 · pinion meshes both · ~12:1 pair trial PASS.** **`GEAR-DIV-PLATE-12-2` live** · hand plate **retired @ cellar archive.**
@@ -52,14 +58,30 @@
 > ## ✓ **`TORR-FASTENER-STANDARD-1` *(d3539)*
 > ✓ **BN · WS · stud · grub PoCs live.** ⚑ **Batch copies when build names qty.**
 
-> ## ⧗ **`BORING-MILL-1` *(d3546)*
-> ⧗ **Belt live · ~145 rpm spin PASS · runout holds under load.** ⚑ **D6: scrap bore trial.**
+> ## ✓ **`BORING-MILL-1` *(d3553)*
+> ✓ **LIVE** — direct **~145 rpm** · reduced **~36 rpm** via **`MILL-TORQUE-GB-1`**.
+
+> ## ✓ **`LATHE-TORQUE-GB-1` *(d3553)*
+> ✓ **LIVE** — **~3:1** · spindle **~58 rpm** reduced · clutch **B** on **`BELT-TREE-1`**.
+
+> ## ✓ **`MILL-TORQUE-GB-1` *(d3553)*
+> ✓ **LIVE** — **~4:1** · spindle **~36 rpm** reduced · clutch **D**.
+
+> ## ✓ **`TORQUE-GEARBOX-SLATE-Y12-1` CLOSED *(d3553)*
+> ✓ **Clutch A–D** on belt tree · **one branch live** · fan keeps collar **#4**.
 
 > ## ⚠ **Alloy tail *(d3545)*
 > ⚠ **`BRONZE-STOCK` ×0** — feed-nut pad spent.
 
-> ## ✓ **Norima wear *(d3540)*
-> ✓ **26** — overhaul baseline **15** @ d3442 · tune **−6** forward.
+
+> ## ✓ **`ICE-HAUL-Y12` *(d3556)*
+> ✓ **Laps 1–2 ~53.5 kg** · vault **~101 kg** · **~29 kg** headroom · lap 3 optional **~10 Feb**.
+
+> ## ✓ **`STANDARDS-CODE-FILING-Y12-1` *(d3558)*
+> ✓ **MC-1 · EC-1 · MFGC-1** @ `government/regulations/` · **`PT-*` pipe series** · test-before-production gate.
+
+> ## ⚑ **`Y12-PARALLEL-GOALS` *(d3558)*
+> ⚑ **Steel · musket · invar/constantan refs** — pipe table in **MFGC-1** · production after **PIPE-TEST**.
 
 > ## ✓ **Olive Y10 *(d3490)*
 > ✓ **~1.24 L clear `OIL-Y10-1` cook live · tail ~1.3 kg brined @ crock #2.** Press stage closed.
@@ -923,10 +945,10 @@
 | ★★ **WHY THE SCALE** | **Weight is a number, available daily, and it costs the colony NOTHING** — no smoke, no lid, no lost heat · ★★ **and it is a CURVE, not a number: CLIMBING = the flow is ON** *(and the start date is a fact about the VALLEY, not the hive)* **· FLAT = break-even · FALLING = DEARTH, feed or lose them ·** ☠ **SUDDEN DROP ON A FINE DAY = THEY SWARMED** · ★★ **one reading a day from ONE hive builds a FORAGE CALENDAR FOR THE WHOLE VALLEY** — when nectar starts, how long the midsummer gap runs, which years are poor · *platform under HIVE-3, same hour daily* · ★ **same move as the jerky scale and the wire resistance: find the thing already countable, and count it** |
 | ⚠ ★★ **A COLONY STARVES JUST BEFORE THE FLOW, NOT IN THE DEARTH** *(d3263)* | **HIVE-6 hefted LIGHT: a CAST** *(small to begin with)* **that spent a month building its whole house out of its own body at 8 honey : 1 wax, has JUST begun laying** *(when food demand turns sharply up)*, **and then lost five grey days of income** · **fed thin honey-water with floats · ENTRANCE REDUCED — a light colony is a robbing target and robbing kills a weak colony in an afternoon** · **re-heft in 2 days** · ⚠ **and the bigger frame: the apiary is a POPULATION and the real constraint is FORAGE — spring here is a flood and midsummer a desert. Carrying capacity + the JUNE–AUGUST DEARTH need planning, not reacting** |
 | **Rope** | **~28 m new @ LASH CLASS ONLY** *(uneven lay — never under load)* · ~6.4 m old · CAVE-3 fixed line 9 m · **ROPEWALK-1 needed before any load-bearing rope** |
-| **Ice** | **Vault ~130 kg FULL · Y10 record · arc CLOSED** |
+| **Ice** | **Vault ~101 kg · Y12 laps 1–2 · ~29 kg headroom to cap** |
 | **Mortar** | **Quicklime ~11.7 kg GREEN · pile 7 ~4.3 kg · clay ~35.4 kg** |
 | **Nitre** | **NITRE-BED-1 ✓ LIVE** @ north lee · **turn 3 ✓ d3281** *(49 d late — core had gone sour; see the nitre row above)* · **next ~d3300** · ammonia still weakening *(good)* · **no bloom — ground still cold, expected** · harvest autumn |
-| **Norima wear** | **19** |
+| **Norima wear** | **23** |
 | **Ore** | **O-1 malachite Y10 ~17.55 kg @ pile 4 — D2 pending, not urgent** · slag ~3.8 kg re-charge · azurite ~1.4 kg · **CACHE-MG1-1 ~15 kg cairned at the face** |
 | **Copper** | **CU-WIRE-Y10-1 ~64 m @ ~0.9 mm · continuous · BARE** · bar ~785 g left *(~135 m more in it)* · **copper is no longer the constraint** |
 | **Insulation** | **SOLVED d3232.** **WAX + PINE ROSIN**, ×2 coats, pulled through a **felt wiper** off the melt pot · **paper between layers** · **thread only at leads/crossovers** *(serving costs ~12–13 m thread per m of wire — would eat the whole ~850 m bank)* · **test coil ISOLATED under compression** · **CLOSED d3245 — ~104 m ALL COATED, no bare copper in the building** · compound **~25 g left** *(tight until SKEP-1's comb renders ~d3265)* |

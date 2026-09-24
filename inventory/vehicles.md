@@ -7,13 +7,13 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **21** · Last out: **d3480 olive tail haul**
+Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **23** · Last out: **d3560 wood haul** · Last tune: **d3554 ice prep**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
 
 Bulk dry aft. Ice kit stowed, wet rig staged.
 
-**Wear 38 is a live number, not a note.** It feeds the `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` rolls as a modifier — see [hazards.md](../hazards.md). Patch it here when it changes, because the hazard table reads it from this row.
+**Wear is a live 0–100 index** — feeds `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` via `(wear/50)×load×terrain`; see [hazards.md](../hazards.md). Patch this row when it changes.
 
 ### Fittings
 

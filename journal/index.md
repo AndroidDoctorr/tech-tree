@@ -6,10 +6,25 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3546)*
+## Recent days *(append here · @ Day 3561)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3561 | [day-3561.md](days/year-010/week-509/day-3561.md) | ✓ **`CHAR-REFILL-3561`** · lane **~30.2 kg** · ×2 retort | **Cal-Y12 D42 · ~11 Feb** |
+| 3560 | [day-3560.md](days/year-010/week-509/day-3560.md) | ✓ **`WOOD-HAUL-3560`** · **~20 kg** @ pile 5 | **Cal-Y12 D41 · ~10 Feb** |
+| 3559 | [day-3559.md](days/year-010/week-509/day-3559.md) | ✓ **`STEEL-PATH-SLATE`** · bloom **~980 g** · fold≠carburize | **Cal-Y12 D40 · ~9 Feb** |
+| 3558 | [day-3558.md](days/year-010/week-509/day-3558.md) | ✓ **MC-1 · EC-1 · MFGC-1** · **`PT-*` pipe series** · test gate | **Cal-Y12 D39 · ~8 Feb** |
+| 3557 | [day-3557.md](days/year-010/week-509/day-3557.md) | ✓ **Campus cleanup · rest** — ice rig stowed · no hero | **Cal-Y12 D38 · ~7 Feb** |
+| 3556 | [day-3556.md](days/year-010/week-508/day-3556.md) | ✓ **Ice lap 2 ~26.1 kg** · vault **~101 kg** · **W508 CLOSE** | **Cal-Y12 D37 · ~6 Feb** |
+| 3555 | [day-3555.md](days/year-010/week-508/day-3555.md) | ✓ **`ICE-HAUL-Y12-PEAK`** · **~27.4 kg** · vault **~75 kg** · **`ICE-ROUTE-1`** | **Cal-Y12 D36 · ~5 Feb** |
+| 3554 | [day-3554.md](days/year-010/week-508/day-3554.md) | ✓ **Norima ice-prep tune · wear 20** · **`PIPE-STANDARD-SLATE`** filed | **Cal-Y12 D35 · ~4 Feb** |
+| 3553 | [day-3553.md](days/year-010/week-508/day-3553.md) | ✓ **`LATHE-TORQUE-GB-1` + `MILL-TORQUE-GB-1` LIVE** · clutch **A–D** · **~58 / ~36 rpm** spin PASS | **Cal-Y12 D34 · ~3 Feb** |
+| 3552 | [day-3552.md](days/year-010/week-508/day-3552.md) | ✓ **Torque frames + ×6 hubs** · both cheeks bolted · trial seat PASS | **Cal-Y12 D33 · ~2 Feb** |
+| 3551 | [day-3551.md](days/year-010/week-508/day-3551.md) | ✓ **`GEAR-LANTERN-PINION-12-2` + `12-3`** · iron pins · mesh PASS | **Cal-Y12 D32 · ~1 Feb** |
+| 3550 | [day-3550.md](days/year-010/week-508/day-3550.md) | ✓ **`GEAR-MORTISE-WHEEL-36-1` + `48-1` cut** · **W508 OPEN** | **Cal-Y12 D31 · ~31 Jan** |
+| 3549 | [day-3549.md](days/year-010/week-507/day-3549.md) | ✓ **`TORQUE-GEARBOX-LAYOUT-Y12-1` PASS** · clutch **A–D** · **W507 CLOSE** | **Cal-Y12 D30 · ~30 Jan** |
+| 3548 | [day-3548.md](days/year-010/week-507/day-3548.md) | ✓ **`TORQUE-GEARBOX-SLATE-Y12-1`** · lathe **~3:1** + mill **~4:1** · pipe path | **Cal-Y12 D29 · ~29 Jan** |
+| 3547 | [day-3547.md](days/year-010/week-507/day-3547.md) | ✓ **`BORING-MILL-1` LIVE ~90%** · **`RC-10`** scrap bore PASS · **`BORING-BAR-1` PoC** | **Cal-Y12 D28 · ~28 Jan** |
 | 3546 | [day-3546.md](days/year-010/week-507/day-3546.md) | ✓ **`BORING-MILL-1` D5** · idler B belt branch · **~145 rpm** spin PASS · fan keeps collar #4 | **Cal-Y12 D27 · ~27 Jan** |
 | 3545 | [day-3545.md](days/year-010/week-507/day-3545.md) | ✓ **`BORING-MILL-1` D4** · leather ways · saddle · hand feed **~1 mm/rev** · **~180 mm** stroke | **Cal-Y12 D26 · ~26 Jan** |
 | 3544 | [day-3544.md](days/year-010/week-507/day-3544.md) | ✓ **`BORING-MILL-1` D3** · headstock mounted · brass bush pair · runout **<0.06 mm** | **Cal-Y12 D25 · ~25 Jan** |
