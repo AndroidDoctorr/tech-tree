@@ -14,7 +14,7 @@ Lab glass is here rather than in resources because each piece is individually bl
 |---|---|---|---|
 | `WRENCH-BN-06-1` | Open-end wrench, ~8 mm square jaw · case-hardened bite, oak haft | `WORKBENCH-1` peg | Live |
 | `SCREWDRIVER-CASE-1` | Flat slot driver · case tip, oak haft | `WORKBENCH-1` peg | Live |
-| `WS-HAND-PLATE-1` | Wood-screw chase plate, coarse | Peg board | Live |
+| `WS-HAND-PLATE-1` | Wood-screw chase plate, coarse | Peg board | Live · superseded by **`WS-HAND-CHASE-1`** for new work |
 | `BN-HAND-DIE-V2-1` | Bolt/nut hand die, RC-06 · ~1.0 mm · case-hardened | Peg board | Live |
 | `BN-HAND-DIE-V1-1` | Bolt/nut hand die, RC-06 · ~1.0 mm pitch | Peg board | Live |
 | `CLAMP-BN-1…4` | Bar clamps ×4, ~45 cm · hide-glue class | `WORKBENCH-1` east peg | Live |
@@ -22,7 +22,21 @@ Lab glass is here rather than in resources because each piece is individually bl
 | `BN-PAIR-V1-2` | Bolt/nut proof pair | Bench tray | Marginal |
 | `BN-PAIR-V2-11…12` | Bolt/nut pairs | Bench tray peg | Marginal · usable with care |
 | `BN-PAIR-G3-06-1…4` | Bolt/nut pairs · RC-06 · gen-3 cert d3503 | `PARTS-PEG-BOARD-1` slots A–D | ✓ PASS |
+| `BN-TRAY-Y12-1` | BN-06 batch tray · pairs + spare bolts | Chem bench east | Live · d3534 |
+| `BN-PAIR-G3-06-7…10` | Bolt/nut pairs · RC-06 · lathe batch d3534 | `BN-TRAY-Y12-1` | ✓ PASS d3534 |
+| `BN-PAIR-G3-06-11…14` | Bolt/nut pairs · RC-06 · spare bolt completion d3536 | `BN-TRAY-Y12-1` | ✓ PASS d3536 |
+| `BN-06-BOLT-SPARE-3534` | Spare BN-06 bolts | — | **RETIRED d3536** → pairs 11–14 |
 | `REF-CYL-SET-1` | Reference cylinders RC-06 · RC-10 · RC-12 · RC-22 · gen-3 cert d3503 | `REF-CYL-TRAY-1` / slot K | ✓ CERT d3503 |
+| `TORR-FASTENER-STANDARD-1` | Fastener slate · BN / LS / WS / stud / grub · kitchen + cellar copy | Kitchen slate · `METROLOGY-CELLAR-1` | ✓ D2 d3537 |
+| `WS-HAND-CHASE-1` | Wood-screw chase file + taper gauge | Craft peg | ✓ Live d3537 |
+| `WS-COARSE-PILOT-1` | Oak stepped pilot gauge · WS family | Craft peg | ✓ Live d3537 |
+| `WS-PILOT-CHART-1` | Pilot chart burned @ peg · WS-COARSE-1 | Craft peg | ✓ Live d3537 |
+| `WS-COARSE-1-MASTER-3537` | Wood-screw PoC masters · coarse taper ×3 | Craft peg | ✓ PoC d3537 |
+| `BN-MASTER-06-S-1` | BN-06 length master · S-grade ~14 mm | `BN-TRAY-Y12-1` lip | ✓ REF d3537 |
+| `BN-MASTER-06-M-1` | BN-06 length master · M-grade ~24 mm | `BN-TRAY-Y12-1` lip | ✓ REF d3537 |
+| `BN-MASTER-06-L-1` | BN-06 length master · L-grade ~36 mm | `BN-TRAY-Y12-1` lip | ✓ REF d3537 |
+| `BN-STUD-06-M-1` | BN stud PoC · M-grade · double-ended · RC-06 | Craft peg | ✓ PoC d3539 |
+| `BN-GRUB-06-1` | BN set screw PoC · cup point · RC-06 | Craft peg | ✓ PoC d3539 |
 | `BRIDGE-PROBE-KIT-1` | Spike probe · plumb cord *(scour depth)* · straightedge *(sag)* · notebook | — | Live |
 | `WOOD-PLANE-1` | Wood plane, forged d1886 | Bench peg | Live |
 | `SAND-SMOOTH-1` | Sanding roll | Bench roll | Live |
@@ -38,6 +52,12 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | `STEEL-COLD-CHISEL-1` | Cold chisel · soft core, hard bit | M2 forge peg | Live |
 | `STEEL-DRIFT-1` | Drift · case-hardened tip | M2 forge peg | Live |
 | `STEEL-CENTER-PUNCH-1` | Centre punch | M2 forge peg | Live |
+| `STEEL-TIN-SNIPS-1` | Tin snips · offset · Cu/brass sheet to ~1 mm | M2 forge peg | ✓ LIVE d3531 |
+| `STEEL-SHEARS-1` | Strap shears · leather · nail-rod to ~3.2 mm | M2 forge peg | ✓ LIVE d3531 |
+| `STEEL-PRICK-PUNCH-2-1` | Prick punch · layout · finer than centre | Bench punch roll | ✓ LIVE d3531 |
+| `STEEL-HOLE-PUNCH-6-1` | Round hole punch · ~6 mm strap | Bench punch roll | ✓ LIVE d3531 |
+| `STEEL-SLOT-PUNCH-1` | Slot punch · strap/keyway class | Bench punch roll | ✓ LIVE d3531 |
+| `STEEL-FORGE-PLIERS-1` | Forge pliers · serrated jaws · ~22 cm | M2 forge peg | ✓ LIVE d3531 |
 
 ## Worn and carried
 
@@ -246,5 +266,43 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 |---|---|---|---|
 | `DRY-TRAY-1` | Acorn leach dry tray | Porch west | Live |
 | `DRY-TRAY-2` | Acorn leach dry tray | Porch east | Live |
+
+## Gear sprint WIP *(metrology lane)*
+
+| ID | Tool | Where | State |
+|---|---|---|---|
+| `GEAR-DIV-PLATE-12-1` | Hand-walked ÷12 scratch disc · brass | `METROLOGY-CELLAR-1` archive drawer | **RETIRED d3524** · bootstrap complete |
+| `GEAR-DIV-PLATE-12-2` | Bootstrap ÷12 plate · indexed off `GEAR-MORTISE-WHEEL-12-1` · **live indexer** | Craft peg | Live · d3524 |
+| `GEAR-LANTERN-PINION-12-1` | Lantern pinion · 12 leaf · on **`SCREW-LATHE-HUB-SPD-1`** | `LATHE-V2` gearbox | ✓ Mounted d3528 |
+| `GEAR-MORTISE-WHEEL-12-1` | Mortise wheel #1 · hornbeam · on **`SCREW-LATHE-HUB-LS-1`** | `LATHE-V2` gearbox | ✓ Mounted d3528 |
+| `GEAR-BOOTSTRAP-WHEEL-2-1` | Bootstrap wheel #2 · hornbeam · **×12/12 cogs** | Craft peg | ✓ Reserve · compound train |
+| `SCREW-LATHE-STUD-PLATE-1` | Headstock stud plate · wrought iron · ×3 indexed studs | `LATHE-V2` headstock | Live · d3526 |
+| `SCREW-LATHE-GEARBOX-FRAME-1` | Gearbox oak cheek frame · bolted to stud plate | `LATHE-V2` | Live · d3526 |
+| `SCREW-LATHE-HUB-LS-1` | Leadscrew changewheel hub · iron · brass liner · wheel seated | `LATHE-V2` gearbox | Live · d3528 |
+| `SCREW-LATHE-HUB-SPD-1` | Spindle changewheel hub · iron · brass liner · pinion seated | `LATHE-V2` gearbox | Live · d3528 |
+| `SCREW-LATHE-HUB-IDLER-1` | Idler hub · iron · **`SCREW-LATHE-IDLER-WHEEL-1`** seated | `LATHE-V2` gearbox | Live · d3528 |
+| `SCREW-LATHE-IDLER-WHEEL-1` | Idler disc · hornbeam ~38 mm | `LATHE-V2` gearbox | Live · d3528 |
+| `SCREW-LATHE-HN-LEVER-1` | Power half-nut lever · iron arm · bronze face pad | `LATHE-V2` carriage | Live · d3528 |
+| `SCREW-LATHE-THREAD-TOOL-1` | Thread tool post · oak shank @ `TOOL-POST-SQUARE-1` | `LATHE-V2` | ✓ Live · d3529 |
+| `SCREW-LATHE-THREAD-BIT-1` | External thread bit · case-hardened · BN-class 60° | `LATHE-V2` tool post | ✓ Live · d3529 |
+| `SCREW-LATHE-TEST-ROD-1` | Power-thread reference rod · BN-06 class · ~28 mm thread | Craft peg | ✓ PASS d3529 |
+| `SCREW-LATHE-HN-LEVER-PATTERN-1` | Half-nut power lever · oak throw pattern | Craft peg | **RETIRED d3528** · lever live |
+| `SCREW-LATHE-GEARBOX-LAYOUT-1` | Gearbox layout mock-up · oak strip | — | **RETIRED d3526** · absorbed into frame |
+| `BORING-MILL-BED-FRAME-1` | Three-point oak bed frame · hard pegs | `WORKBENCH-1` east | Live · d3543 |
+| `BORING-MILL-DATUM-MOUNT-1` | Block 2 shim stack · lime pad · through-bolts | `BORING-MILL-BED-FRAME-1` | Live · d3543 |
+| `BORING-MILL-HEADSTOCK-1` | Headstock + integral spindle · brass bush pair · `RC-06` nose | `BORING-MILL-BED-FRAME-1` cheek | Live · d3544 |
+| `BORING-MILL-BUSH-F-1` | Front brass bearing bush · matched pair | `BORING-MILL-HEADSTOCK-1` | Live · d3544 |
+| `BORING-MILL-BUSH-R-1` | Rear brass bearing bush · matched pair | `BORING-MILL-HEADSTOCK-1` | Live · d3544 |
+| `BORING-MILL-WAY-N-1` | North way strip · oak + leather on datum | `BORING-MILL-BED-FRAME-1` | Live · d3545 |
+| `BORING-MILL-WAY-S-1` | South way strip · oak + leather on datum | `BORING-MILL-BED-FRAME-1` | Live · d3545 |
+| `BORING-MILL-SADDLE-1` | Oak saddle · iron gib · ~180 mm travel | `BORING-MILL-1` ways | Live · d3545 |
+| `BORING-MILL-GIB-1` | Iron gib · set-screw wipe | `BORING-MILL-SADDLE-1` | Live · d3545 |
+| `BORING-MILL-FEED-SCREW-1` | Hand feed screw · ~1.0 mm/rev | `BORING-MILL-SADDLE-1` | Live · d3545 |
+| `BORING-MILL-FEED-NUT-1` | Split bronze-face nut block | `BORING-MILL-SADDLE-1` | Live · d3545 |
+| `BORING-MILL-FEED-HANDLE-1` | Oak T-handle | `BORING-MILL-FEED-SCREW-1` | Live · d3545 |
+| `BORING-MILL-SPINDLE-PULLEY-1` | Hornbeam drive disc ~42 mm · iron boss · crowned | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
+| `BORING-MILL-BELT-BRANCH-1` | Leather cord ~2.2 m · idler B takeoff | `BELT-TREE-1` | Live · d3546 |
+| `BORING-MILL-BELT-QR-1` | Cheek quick-release · local link | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
+| `BORING-MILL-LAYOUT-1` | Layout mock-up · oak strip | — | **RETIRED d3543** · absorbed into frame |
 
 Powered machines are not tools — the table saw, lathes and drill press are [infrastructure.md](infrastructure.md), because they are installed, belt-driven and maintained on a schedule.

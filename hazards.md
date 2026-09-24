@@ -139,19 +139,30 @@ Skip rolls on explicit player **no-touch** expedition miles unless trigger is **
 
 Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 
-### Weather *(day open · one seasonal row)*
+### Weather *(day open · month from [calendar.md](checklists/calendar.md))*
 
-| ID | Month band | Base threshold | ≈ odds @ normal | Outcome |
-|----|------------|----------------|-----------------|---------|
-| **WEATHER-RAIN-LIGHT** | Oct–Mar wet season | 45_000_000 | ~1 in 22 | Rain · work AMBER · char pit OK |
-| **WEATHER-RAIN-HEAVY** | Nov–Feb peak | 8_000_000 | ~1 in 125 | Soak · rett smell · trail RED loaded |
-| **WEATHER-STORM-SEVERE** | All year | 500_000 | ~1 in 2,000 | Hail/wind · roof/lash read · apiary |
-| **QUAKE-FELT** | All year | **7_000_000** | **~2–3 / yr** | **Flavour only.** Pots rattle, dust falls, nothing moves. **One line, no consequence, no hero.** |
-| **QUAKE-DAMAGING** | All year | **22_000** | **~1 in 125 yr** | **Cracked masonry · kiln/brick/vault read · a real hero** |
+★ **Resolve the calendar month first.** `sim/roll.py` has no month logic — the agent picks thresholds from the table below. **Do not use one flat rate year-round.**
 
-> **QUAKE-DAILY is RETIRED** *(d3235)*. It was being rolled at **3_000_000 (0.3 %/day)**, which annualises to a **67 % chance of an earthquake every single year**. The Orontes sits on a live fault and Antioch has been levelled repeatedly — but that is **once or twice a century**, not two years out of three. **Split into flavour and damage; only the damage row is worth narrating.**
+| Calendar month | Rain rolls | Light threshold | Heavy threshold | ≈ @ normal |
+|---|---|---|---|---|
+| **Apr–Sep** | **SKIP** | — | — | Dry season · no rain row |
+| **Oct, Mar** | Light only | **67_000_000** | — | ~1 in 15 / day |
+| **Nov–Feb** | Light + heavy | **111_000_000** | **20_000_000** | ~1 in 9 light · ~1 in 50 heavy |
+| **All year** | **WEATHER-STORM-SEVERE** | **500_000** | — | ~1 in 2,000 |
 
-*Oct @ d3094:* roll **WEATHER-RAIN-LIGHT** + passive **QUAKE-DAMAGING**.
+| ID | Outcome |
+|----|---------|
+| **WEATHER-RAIN-LIGHT** | Rain · work AMBER · char pit OK · **`ROOF-R&D-PANEL-1` post-rain read** when queued |
+| **WEATHER-RAIN-HEAVY** | Soak · rett smell · trail RED loaded · panel read if queued |
+| **WEATHER-STORM-SEVERE** | Hail/wind · roof/lash read · apiary |
+| **QUAKE-FELT** | **Flavour only** · one line · no consequence |
+| **QUAKE-DAMAGING** | **22_000** · ~1 in 125 yr · cracked masonry · kiln/brick/vault read |
+
+> **QUAKE-DAILY is RETIRED** *(d3235)*. Passive daily is **`QUAKE-DAMAGING` only** at day open.
+
+**Annual sanity (wet peak Nov–Feb, ~120 d):** light ~1 in 9 → **~13 rain days** in the band · heavy ~1 in 50 → **~2–3 soak days**. Dry season rolls **zero** rain rows.
+
+*Dec @ d3512:* roll **WEATHER-RAIN-LIGHT** `111_000_000` + **WEATHER-RAIN-HEAVY** `20_000_000` + **QUAKE-DAMAGING** `22_000`.
 
 ### Animals *(farm · haul)*
 

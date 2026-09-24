@@ -134,4 +134,9 @@ The Assistant Device should try to warn the Player if they're about to make a mi
 
 ★ **Retrofit quietly.** *When a gap is found, patch the doc and move on — that is not a day's event.*
 
-At the end of your summary to the User, list some options/suggestions for the next day (in text, as part of the summary).
+At the end of your summary to the User:
+
+1. **Materials debited** — brief list of stock IDs and amounts from that day's `## Consumption` (daily + hero), plus **remaining qty** when a row is thin or crossed a threshold. Lets the User audit the turn without opening the day file.
+2. **Next-day options** — a few honest suggestions for what could run next.
+
+If a draw is **zero** because finished parts came off the shelf (e.g. repair-pool hinges, not a forge day), say so explicitly — do not imply char or ingot stock moved when it did not.

@@ -77,11 +77,21 @@ On each trigger in the matrix:
 | **Animals** | ★ **Unusually good.** Real-world track record with wild and domestic animals; **treat goats, donkeys and bees as a skill 3+ floor, not a novice's** |
 | **Listening** | ★ **The root skill.** Advice taken is advice used |
 
+## Seasonal weather *(day open · mandatory)*
+
+1. Read **calendar month** from the day header or [player-calendar.md](../../checklists/calendar.md).
+2. Look up thresholds in **hazards.md → Weather** — **do not reuse a flat rate year-round.**
+3. **Apr–Sep:** skip **WEATHER-RAIN-LIGHT** and **WEATHER-RAIN-HEAVY** entirely.
+4. **Oct, Mar:** light only · threshold **67_000_000**.
+5. **Nov–Feb:** light **111_000_000** + heavy **20_000_000**.
+6. **All year:** **WEATHER-STORM-SEVERE** `500_000` when warranted · **QUAKE-DAMAGING** `22_000` at day open.
+7. On rain **HIT** when **`ROOF-R&D-PANEL-1`** read is queued: run the panel compare inline that day.
+
 ## Triggers *(minimum set)*
 
 | Day type | Rolls |
 |----------|-------|
-| **Every day open** | Seasonal **WEATHER-** + passive **QUAKE-DAILY** |
+| **Every day open** | Seasonal **WEATHER-*** per month table + **QUAKE-DAMAGING** |
 | **FARM-CARE / scare** | **GOAT-RUT-BREED** if Sep–Dec + shared pen · **GOAT-ILLNESS-PASS** quarterly |
 | **Loaded team pull / haul** | **CART-WHEEL-MISHAP** · **WAGON-HUB-BIND** with wear modifier |
 | **Forge hero** | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |

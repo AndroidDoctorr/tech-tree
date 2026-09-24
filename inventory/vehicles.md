@@ -31,7 +31,7 @@ Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resou
 
 ### Open
 
-✓ **`WAGON-GARAGE-1` @ `CART-YARD` south** — **stem d3375 · frame d3376–3378 · roof d3379.** Norima parks under cover; arch can stay closed.
+✓ **`WAGON-GARAGE-1` @ `CART-YARD` south** — **utility CLOSED d3515** — stem · DPC · walls · front doors · roof d3379. Norima parks under cover.
 
 > **Phased utility bay** @ south pad (not north passage). Block mix break PASS d3370.
 

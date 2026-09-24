@@ -111,9 +111,9 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `JERKY-Y10` | ★ Jerky · **dry, cool, in cloth, not sealed** | ~3.84 kg @ horreum · **~0.6 kg recovery pouch @ cave** | Horreum A / cave | d3253 | d3458 |
 | `GOAT-SMOKE-1` | Smoked goat | ~0.60 kg | v1 cool shelf | ? | d3508 |
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
-| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | ~0.34 kg | Culina | | d3511 |
-| `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~1.31 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3511 |
-| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | ~0.73 kg | Lamp jar · culina | d3251 | d3511 |
+| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | ~0.26 kg | Culina | | d3537 |
+| `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.47 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3539 |
+| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | ~0.45 kg | Lamp jar · culina | d3251 | d3539 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

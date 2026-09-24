@@ -95,7 +95,7 @@
 | Carving and coopering | 2 | 4 | Barrels, staves, wagon ribs |
 | Water power and transmission | 1 | 4 | `WW-2` belt tree d1881–1894 · clutch swap without stopping the gate d1973 |
 | Surveying and site hydrology | 2 | 4 | Water level · seepage-layer drains and sized mains d3271–3275 |
-| Gear cutting | — | 1 | ⚠ `GEAR-SPRINT-1` **filed as doctrine d3247, never cut** |
+| Gear cutting | — | 3 | ✓ **Bootstrap pair d3524** — two ×12 mortise wheels · **`GEAR-DIV-PLATE-12-2` live indexer** |
 | Crane and heavy lift | 1 | 1 | ⚠ `CRANE-1` at ~50 kg is still the only lift. `CRANE-2` brainstormed d789, never built |
 | Three-plate precision flat | — | 2 | Stock hauled and ring-tested d3264 · ★ **lapping deliberately deferred to autumn so the stone can finish moving** |
 

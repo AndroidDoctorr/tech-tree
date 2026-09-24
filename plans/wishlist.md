@@ -1,6 +1,15 @@
 Things I want eventually:
-- Screw cutting lathe
+- Spyglass
+- Standard parts of various sizes/specs
+    - Pipes
+    - Bevel gears
+- Standard electronic components of various specs
+    - Potentiometers
+    - Switches
+    - Transformers
+    - Diodes?? Vacuum tubes??
 - Boring mill
+- Sheet roller?
 - STEEL
 - Musket
 - Better generator
@@ -14,3 +23,4 @@ Things I want eventually:
 - More modern versions of some tools:
     - Shovel, spade, hoe, rake, axe, pickaxe, adze, crowbar
     - Broom, push-broom, mop, bucket, dustpan
+- TRANSISTORS

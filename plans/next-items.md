@@ -56,7 +56,9 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 - ✓ **`NITRE-LEACH/BOIL-Y10-1` CLOSED d3424** — **`M-12-NITER` ~495 g**
 - ⚒→⧗ **`BLOCK-Y10`** — **×20 submerged** · **`BLOCK-CAST-Y10-3280` ×7 stack** · prisms d3371 batch
 - ✓ **`KILN-A-LIME-3367` CLOSED d3370**
-- ✓ **`WAGON-GARAGE-1` utility shell d3379** — Norima under cover
+- ✓ **`WAGON-GARAGE-1` utility CLOSED d3515** — functional shell · **`WAGON-GARAGE-2` when named**
+- ✓ **`GEAR-SPRINT-1` bootstrap CLOSED d3524** — wheel pair · **`GEAR-DIV-PLATE-12-2` live**
+- ✓ **`SCREW-LATHE-1` CLOSED d3529** — **`LATHE-V2` power threading · BN-06 certified · test rod @ peg**
 - ✓ **`HEMP-CUT-Y10-1` d3381** — **`P-RETT-31` @ `W-1`**
 - ✓ **Block yard d3398 · ×36 submerged · haul before next ×4**
 - ★ **`ROOF-R&D-HEMP-BITUMEN-1`** — mat/bitumen/shingle + copper trial *(not BC-2)* · [roof-rd-hemp-bitumen-1.md](roof-rd-hemp-bitumen-1.md)
@@ -79,7 +81,7 @@ Live as of **d3295 · Cal-Y10 D150 · ~21 May**.
 
 ## Personal · Yule *(player d3400)*
 
-- ✓ **`SUNGLASS-YULE-1` v1 CLOSED d3435** — round brass · vine temples · side guards · **`TINT-RECIPE-D-Y10`** · ⚑ v2 comfort pair after wear notes · spare lens #3
+- ✓ **`SUNGLASS-YULE-1` v1 CLOSED d3435** — round brass · vine temples · side guards · **`TINT-RECIPE-D-Y10`** · ⚑ v2 comfort pair after wear notes · ✓ **spare lens #3 lapped d3517**
 
 ## Small closes
 

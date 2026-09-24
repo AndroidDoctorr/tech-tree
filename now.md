@@ -2,10 +2,10 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3511** · Cal-Y11 D2 · ~23 Dec · **Component box · storage audit**
+**Day 3546** · Cal-Y12 D27 · ~27 Jan · **Boring mill D5**
 
 > ## ✓ **`BASALT-DATUM` triplet *(d3464–3469 · fine lap d3498)*
-> ✓ **Blocks 1/2/3 wind-free matched · fine triplet · reference @ Block 1 primary.**
+> ✓ **Blocks 1/3 @ `WW-YARD` · Block 2 wear plate @ `BORING-MILL-1` · reference @ Block 1 primary.**
 
 > ## ✓ **`METROLOGY-CELLAR-1` @ `CAVE-1` upslope** *(d3502)*
 > ✓ **Lime wash · plaster skim · `REF-CELLAR-SHELF-1` · ~9 °C stable.** ☠ **References only — not food/seed.**
@@ -28,23 +28,38 @@
 > ## ✓ **Acorn roast stock *(d3478)*
 > ✓ **Y10-1–4 ~615 · ~610 · ~605 · ~600 g @ nut tray.**
 
-> ## ✓ **`KILN-A-LIME-3464` *(d3502)*
-> ✓ **`QUICKLIME-1` ~5.2 kg · `CACO3-P7` thin.** Char retort before next lime band.
+> ## ✓ **`KILN-A-LIME-3464` *(d3517)*
+> ✓ **`QUICKLIME-1` ~4.85 kg · `CACO3-P7` thin.** Char runway restored.
 
-> ## ✓ **`IRON-BLOOM-SMELT-3463` *(d3503)*
-> ✓ **`IRON-BLOOM-1` ~240 g GREEN** *(BN sprint draw).* ⚠ **conserve or smelt before heavy forge.**
+> ## ✓ **`IRON-BLOOM-1` *(d3546)*
+> ✓ **`~585 g GREEN @ mount`** — boring bar PoC GO.
 
-> ## ✓ **Wood + char *(d3511)*
-> ✓ **`CHAR-LANE` ~37.5 kg · `CHAR-RESERVE-C` ~15 kg · `WOOD-OAK-P5` ~5.6 kg @ pile 5.**
+> ## ✓ **`H-11-HEMATITE` *(d3541)*
+> ✓ **`~8.45 kg @ pile 4`** — ~3 smelt charges remain.
 
-> ## ✓ **Brass + bar *(d3503)*
-> ✓ **`BRASS-STOCK` ~44 g @ chill tray · `CU-BAR-Y10-1` ~243 g** *(~44 m class @ 0.9 mm remain).*
+> ## ✓ **Wood + char *(d3546)*
+> ✓ **`CHAR-LANE` ~13.9 kg · `CHAR-RESERVE-C` ~15 kg · `WOOD-OAK-P5` ~29.4 kg @ pile 5** · **`WOOD-HORNBEAM-GEAR-1` ~0.22 kg tail.**
 
-> ## ⚠ **Alloy tail *(d3500)*
-> ⚠ **`BRONZE-STOCK` ~5 g only.**
+> ## ✓ **Brass + bar *(d3544)*
+> ✓ **`BRASS-STOCK` ~62 g @ chill tray · `CU-BAR-Y10-1` ~166 g** *(~30 m @ 0.9 mm).*
 
-> ## ✓ **Norima wear *(d3480 haul)*
-> ✓ **21** — overhaul baseline **15** @ d3442 · tune **−6** forward.
+> ## ✓ **`GEAR-SPRINT-1` bootstrap CLOSED *(d3524)*
+> ✓ **Wheel #1 + wheel #2 ×12/12 · pinion meshes both · ~12:1 pair trial PASS.** **`GEAR-DIV-PLATE-12-2` live** · hand plate **retired @ cellar archive.**
+
+> ## ✓ **`SCREW-LATHE-1` CLOSED *(d3529)*
+> ✓ **`LATHE-V2` power threading live** — BN-06 class · **`SCREW-LATHE-TEST-ROD-1` @ peg.** Compound ratios when named.
+
+> ## ✓ **`TORR-FASTENER-STANDARD-1` *(d3539)*
+> ✓ **BN · WS · stud · grub PoCs live.** ⚑ **Batch copies when build names qty.**
+
+> ## ⧗ **`BORING-MILL-1` *(d3546)*
+> ⧗ **Belt live · ~145 rpm spin PASS · runout holds under load.** ⚑ **D6: scrap bore trial.**
+
+> ## ⚠ **Alloy tail *(d3545)*
+> ⚠ **`BRONZE-STOCK` ×0** — feed-nut pad spent.
+
+> ## ✓ **Norima wear *(d3540)*
+> ✓ **26** — overhaul baseline **15** @ d3442 · tune **−6** forward.
 
 > ## ✓ **Olive Y10 *(d3490)*
 > ✓ **~1.24 L clear `OIL-Y10-1` cook live · tail ~1.3 kg brined @ crock #2.** Press stage closed.
@@ -52,11 +67,11 @@
 > ## ✓ **`BLOCK-Y10` ×4 *(d3461)*
 > ✓ **Pit ×56 submerged · lime ~6.4 kg.** Block ×4 GO.
 
-> ## ✓ **`IRON-NAIL-BATCH-3460` *(d3460)*
-> ✓ **`NAIL-IRON` ×40 @ bench peg.**
+> ## ✓ **`IRON-NAIL-BATCH-3514` *(d3514)*
+> ✓ **`NAIL-IRON` ×40 @ bench peg** · **×18 @ cave crate.**
 
-> ## ✓ **`GRAPE-PRUNE-Y10-1` *(d3459)*
-> ✓ **Cordon · spur · tie · renewal arm kept.** Cluster thin Mar–Apr.
+> ## ✓ **`GRAPE-PRUNE-Y10` *(d3512)*
+> ✓ **Cordon pass d3459 · touch-up d3512.** **`P-03-CUT-Y10-1` ×4 @ T-2 lip — 2 callus.** Cluster thin Mar–Apr.
 
 > ## ✓ **`CAVE-RECOVERY-CACHE-1` *(d3458)*
 > ✓ **Crate on shelf · ×8 brick @ mouth · salt · niter · jerky · ash · wire · ×18 nails · records copy.**
@@ -119,7 +134,8 @@
 > ## ✓ **Block yard *(d3461)*
 > ✓ **×56 submerged @ pit.** ✓ **Sand ~15.8 kg · lime ~6.4 kg — block ×4 GO.**
 
-> ## ⚑ **`SUNGLASS-YULE-1`** — **×3 lens blanks annealing · brass after lap**
+> ## ✓ **`SUNGLASS-LENS-Y10-3` *(d3517)*
+> ✓ **Spare lapped · tint D matched · @ spare peg.** Spyglass objective candidate.
 
 > ## ✓ **Yule Y10 *(d3509 CLOSE)*
 > ✓ **Goose lap 6 · feast @ desk · `SUN-YULE-3509` tenth glyph · Cal-Y10 close.** **`GOOSE-SMOKE-Y10-1` ~0.95 kg @ rack.**
@@ -130,8 +146,8 @@
 > ## ✓ **`ELEC-COMPONENT-BOX-Y10-1` *(d3511)*
 > ✓ **4-row tray @ chem bench east · R / L / C / SW stocked.** Masters stay on `REF-SHELF-1`.
 
-> ## ✓ **`ROOF-R&D-HEMP-BITUMEN-1`** *(d3507)*
-> ✓ **Lead: F1 lap-shingle prototype.** Panel **A0–F1** @ south lean · **rain-roll read queued.** **`BITUMEN-ROOF-TRIAL-1` ~0.78 kg** topped.
+> ## ✓ **`ROOF-R&D-HEMP-BITUMEN-1` *(d3523)*
+> ✓ **Rain read d3523:** **C1** flat-sheet lead · **F1** lap lead — both mounted. **`BITUMEN-ROOF-TRIAL-1` ~0.78 kg**
 
 > ## ✓ **Harvest block *(d3485–3491)*
 > ✓ **Grain:** emmer + barley trial. ✓ **Pulse:** lentil d3486 · chickpea d3491. **BLOCK CLOSED.**
@@ -157,8 +173,8 @@
 > ## ✓ **Animals winter *(d3483)*
 > ✓ **Pens · blankets · browse stack ~10 d @ holding north face.** Hay loft **~90 kg** · chaff sprint after cut.
 
-> ## ✓ **`WAGON-GARAGE-1` CLOSED *(utility)* *(d3375–3379)*
-> ✓ **Roof d3379 · Norima under cover.** Phased block + timber + shake.
+> ## ✓ **`WAGON-GARAGE-1` CLOSED *(utility)* *(d3515)*
+> ✓ **Functional shell complete** — DPC · walls · doors. **No cosmetic lime scratch** *(bigger garage later)*.
 
 > ## ✓ **`WAGON-GARAGE-1` *(d3378)*
 > ✓ **Frame complete · ×4 straps bolted · rafters closed.**

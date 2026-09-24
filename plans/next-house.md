@@ -1,0 +1,8 @@
+- Single story
+- Concrete, cinderblocks, rebar, plaster, shingles
+- Electricity, plumbing
+- Water heater
+- Lightning rod
+- Bedroom, kitchen, office, pantry, bathroom, linen closet, bath closet, dining nook
+- Plan for modern fixtures/appliances
+- Connected to workshop with a separate section (meant to absorb energy in the event of an earthquake, like a "crumple zone")

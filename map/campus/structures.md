@@ -131,7 +131,7 @@ Proven d469. **~90 kg hay at the loft.** Iron hinges and latch d485. `CRANE-1` s
 ### `CART-YARD` — farm
 **~3 × 6 m.** Where the wagons live.
 
-✓ **`WAGON-GARAGE-1` complete d3379** — block stem · oak frame · shake roof · **Norima under cover.**
+✓ **`WAGON-GARAGE-1` utility CLOSED d3515** — block stem · DPC · walls · front doors · shake roof · **Norima under cover.**
 
 ⚠ **Utility shelter — not habitable BC-2 finish.** Optional taller block stem later.
 

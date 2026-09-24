@@ -6,10 +6,17 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3511)*
+## Recent days *(append here · @ Day 3546)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3546 | [day-3546.md](days/year-010/week-507/day-3546.md) | ✓ **`BORING-MILL-1` D5** · idler B belt branch · **~145 rpm** spin PASS · fan keeps collar #4 | **Cal-Y12 D27 · ~27 Jan** |
+| 3545 | [day-3545.md](days/year-010/week-507/day-3545.md) | ✓ **`BORING-MILL-1` D4** · leather ways · saddle · hand feed **~1 mm/rev** · **~180 mm** stroke | **Cal-Y12 D26 · ~26 Jan** |
+| 3544 | [day-3544.md](days/year-010/week-507/day-3544.md) | ✓ **`BORING-MILL-1` D3** · headstock mounted · brass bush pair · runout **<0.06 mm** | **Cal-Y12 D25 · ~25 Jan** |
+| 3543 | [day-3543.md](days/year-010/week-507/day-3543.md) | ✓ **`BORING-MILL-1` D2** · bed frame · **Block 2** mounted · headstock blank ~320 g | **Cal-Y12 D24 · ~24 Jan** |
+| 3542 | [day-3542.md](days/year-010/week-506/day-3542.md) | ✓ **`BORING-MILL-1` OPEN** · slate · stake @ `WORKBENCH-1` east · **`ARBOR-BORE-STANDARD-1`** · **W506 CLOSE** | **Cal-Y12 D23 · ~23 Jan** |
+| 3541 | [day-3541.md](days/year-010/week-506/day-3541.md) | ✓ **`IRON-BLOOM-SMELT-3541`** · **~1.05 kg** bloom @ mount · light AM drizzle only | **Cal-Y12 D22 · ~22 Jan** |
+| 3540 | [day-3540.md](days/year-010/week-506/day-3540.md) | ✓ **`H-11-HEMATITE-HAUL-3540`** · campus bridge low-water read · **~10.8 kg** modest winter cut | **Cal-Y12 D21 · ~21 Jan** |
 | 3256 | [day-3256.md](days/year-009/week-466/day-3256.md) | ★★ **W466 OPEN · ROPE-2 certified for haul** · the lay is turns/metre · broke one to learn the number | **Cal-Y10 D111 · ~12 Apr** |
 | 3257 | [day-3257.md](days/year-009/week-466/day-3257.md) | ★★ **SWARM PASS · drones flying — warning at HIVE-3, hope at HIVE-6** · space given before they asked · no committed cells · ⚠ no spare box | **Cal-Y10 D112 · ~13 Apr** |
 | 3258 | [day-3258.md](days/year-009/week-466/day-3258.md) | ★★ **GEN-WW-1 EPIC CLOSED — ~7 g coherent plate** · a cell is not a resistor · the cell weighs charge · **the first machine that works while I sleep** | **Cal-Y10 D113 · ~14 Apr** |
@@ -266,6 +273,34 @@
 | 3509 | [day-3509.md](days/year-010/week-502/day-3509.md) | ✓ **`BOW-HUNT` · `FEAST-YULE` · bread + aged cheese · `SUN-YULE` · Cal-Y10 close** | **Cal-Y10 D364 · ~21 Dec** |
 | 3510 | [day-3510.md](days/year-010/week-502/day-3510.md) | ✓ **`STORAGE-AUDIT-Y10` — purge · consolidate · char reserve ~15 kg** | **Cal-Y11 D1 · ~22 Dec** |
 | 3511 | [day-3511.md](days/year-010/week-502/day-3511.md) | ✓ **`ELEC-COMPONENT-BOX-Y10-1` — R/L/C/SW bench tray** | **Cal-Y11 D2 · ~23 Dec** |
+| 3512 | [day-3512.md](days/year-010/week-502/day-3512.md) | ✓ **`GRAPE-PRUNE-Y10-2` @ `P-03` · seasonal rain thresholds** | **Cal-Y11 D3 · ~24 Dec** |
+| 3513 | [day-3513.md](days/year-010/week-502/day-3513.md) | ✓ **`WAGON-GARAGE-1` — BC-2 timber walls** | **Cal-Y11 D4 · ~25 Dec** |
+| 3514 | [day-3514.md](days/year-010/week-502/day-3514.md) | ✓ **`IRON-NAIL-BATCH-3514` @ forge** | **Cal-Y11 D5 · ~26 Dec** |
+| 3515 | [day-3515.md](days/year-010/week-503/day-3515.md) | ✓ **`WAGON-GARAGE-1` front + DPC · WEEK 503 OPEN** | **Cal-Y11 D6 · ~27 Dec** |
+| 3516 | [day-3516.md](days/year-010/week-503/day-3516.md) | ✓ **`WOOD-HAUL-3516` @ pile 5** | **Cal-Y11 D7 · ~28 Dec** |
+| 3517 | [day-3517.md](days/year-010/week-503/day-3517.md) | ✓ **`CHAR-RETORT-3517` · lens #3 lap** | **Cal-Y11 D8 · ~29 Dec** |
+| 3518 | [day-3518.md](days/year-010/week-503/day-3518.md) | ✓ **`WOOD-HAUL-3518` @ pile 5** | **Cal-Y11 D9 · ~30 Dec** |
+| 3519 | [day-3519.md](days/year-010/week-503/day-3519.md) | ✓ **`IRON-BLOOM-SMELT-3519`** | **Cal-Y11 D10 · ~31 Dec** |
+| 3520 | [day-3520.md](days/year-010/week-503/day-3520.md) | ✓ **`SUN-Y12-OPEN` · `GEAR-SPRINT-1` D1** | **Cal-Y12 D1 · ~1 Jan** |
+| 3521 | [day-3521.md](days/year-010/week-503/day-3521.md) | ✓ **`GEAR-SPRINT-1` D2 · WEEK 503 CLOSE** | **Cal-Y12 D2 · ~2 Jan** |
+| 3522 | [day-3522.md](days/year-010/week-504/day-3522.md) | ✓ **`GEAR-SPRINT-1` D3** | **Cal-Y12 D3 · ~3 Jan** |
+| 3523 | [day-3523.md](days/year-010/week-504/day-3523.md) | ✓ **rain read · `GEAR-SPRINT-1` D4 cog #1** | **Cal-Y12 D4 · ~4 Jan** |
+| 3524 | [day-3524.md](days/year-010/week-504/day-3524.md) | ✓ **`GEAR-SPRINT-1` D5 · hand plate retired** | **Cal-Y12 D5 · ~5 Jan** |
+| 3539 | [day-3539.md](days/year-010/week-506/day-3539.md) | ✓ **`BN-STUD-GRUB-POC-3539`** | **Cal-Y12 D20 · ~20 Jan** |
+| 3538 | [day-3538.md](days/year-010/week-506/day-3538.md) | ✓ **`WOOD-HAUL-3538`** | **Cal-Y12 D19 · ~19 Jan** |
+| 3537 | [day-3537.md](days/year-010/week-506/day-3537.md) | ✓ **`TORR-FASTENER-STANDARD-1` D2** | **Cal-Y12 D18 · ~18 Jan** |
+| 3536 | [day-3536.md](days/year-010/week-506/day-3536.md) | ✓ **`BN-NUT-CHASE-3536` · WEEK 506 OPEN** | **Cal-Y12 D17 · ~17 Jan** |
+| 3535 | [day-3535.md](days/year-010/week-505/day-3535.md) | ✓ **`BRASS-POUR-3` · WEEK 505 CLOSE** | **Cal-Y12 D16 · ~16 Jan** |
+| 3534 | [day-3534.md](days/year-010/week-505/day-3534.md) | ✓ **`BN-BATCH-3534` — lathe bolts** | **Cal-Y12 D15 · ~15 Jan** |
+| 3533 | [day-3533.md](days/year-010/week-505/day-3533.md) | ✓ **`TORR-FASTENER-STANDARD-1` filed** | **Cal-Y12 D14 · ~14 Jan** |
+| 3532 | [day-3532.md](days/year-010/week-505/day-3532.md) | ✓ **`IRON-BLOOM-SMELT-3532`** | **Cal-Y12 D13 · ~13 Jan** |
+| 3531 | [day-3531.md](days/year-010/week-505/day-3531.md) | ✓ **`FORGE-HAND-TOOL-1` CLOSE** | **Cal-Y12 D12 · ~12 Jan** |
+| 3530 | [day-3530.md](days/year-010/week-505/day-3530.md) | ✓ **`FORGE-HAND-TOOL-1` D1** | **Cal-Y12 D11 · ~11 Jan** |
+| 3529 | [day-3529.md](days/year-010/week-505/day-3529.md) | ✓ **`SCREW-LATHE-1` D4 CLOSE · WEEK 505 OPEN** | **Cal-Y12 D10 · ~10 Jan** |
+| 3528 | [day-3528.md](days/year-010/week-504/day-3528.md) | ✓ **`SCREW-LATHE-1` D3 · WEEK 504 CLOSE** | **Cal-Y12 D9 · ~9 Jan** |
+| 3527 | [day-3527.md](days/year-010/week-504/day-3527.md) | ✓ **`WOOD-HAUL-3527`** | **Cal-Y12 D8 · ~8 Jan** |
+| 3526 | [day-3526.md](days/year-010/week-504/day-3526.md) | ✓ **`SCREW-LATHE-1` D2 — iron hubs · stud plate** | **Cal-Y12 D7 · ~7 Jan** |
+| 3525 | [day-3525.md](days/year-010/week-504/day-3525.md) | ✓ **`SCREW-LATHE-1` D1 — retrofit verdict** | **Cal-Y12 D6 · ~6 Jan** |
 | 3255 | [day-3255.md](days/year-009/week-465/day-3255.md) | ★ **W465 CLOSE · ROPEWALK-1** · counter-twist IS the rope · a rope shortens ~25% as it closes | **Cal-Y10 D110 · ~11 Apr** |
 | 3254 | [day-3254.md](days/year-009/week-465/day-3254.md) | **Thin ricotta — **whey is a stream, not a stock** · bark tan for belt leather · ★★ **hurry seals the surface** | **Cal-Y10 D109 · ~10 Apr |
 | 3253 | [day-3253.md](days/year-009/week-465/day-3253.md) | ★★ **SKEP-2 driven → HIVE-7 · ALL COLONIES ON MOVABLE COMB** · furnish the box before they arrive · **~4.3 kg jerky** | **Cal-Y10 D108 · ~9 Apr** |

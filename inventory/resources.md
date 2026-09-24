@@ -10,9 +10,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | **~37.5 kg** | Char lane | | d3510 |
+| `CHAR-LANE` | Charcoal, oak · green | **~13.9 kg** | Char lane | | d3545 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~15 kg** | Store C vault | | d3510 |
-| `WOOD-OAK-P5` | Oak, green | **~5.6 kg @ pile 5** · **~6.5 kg @ garage pad** | Pile 5 / pad | | d3511 |
+| `WOOD-OAK-P5` | Oak, green | **~29.4 kg @ pile 5** | Pile 5 | | d3546 |
+| `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.28 kg tail** | Craft peg | d3520 | d3528 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~8.08 kg | Berm | | d3472 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
@@ -37,7 +38,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CACO3-P7` | Limestone, raw · plus underburnt returns | ~1.6 kg | Pile 7, camp north face | d3374 | d3464 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~5.2 kg | Lime trough | d3390 | d3502 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~4.85 kg | Lime trough | d3390 | d3513 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
 
@@ -79,7 +80,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | ~34.75 kg | v1 chem, isolated | | d3008 |
 | `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
-| `H-11-HEMATITE` | Hematite | ~6.05 kg | Pile 4 | | d3463 |
+| `H-11-HEMATITE` | Hematite | **~8.45 kg @ pile 4** | Pile 4 | | d3541 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -94,19 +95,19 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — **~44 m class left @ 0.9 mm** | ~243 g | — | | d3503 |
-| `IRON-BLOOM-1` | Iron bloom, mounted · green | **~222 g** | Forge mount | | d3511 |
+| `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — **~30 m class left @ 0.9 mm** | ~166 g | — | | d3535 |
+| `IRON-BLOOM-1` | Iron bloom, mounted · green | **~585 g GREEN** | Forge mount | | d3546 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
-| `ZNO-CALCINE` | Zinc oxide calcine | ~811 g | — | | d3500 |
+| `ZNO-CALCINE` | Zinc oxide calcine | ~786 g | — | | d3535 |
 | `ZN-METAL-1` | Zinc, prill tail | ~81 g | Chem-lab lidded tray | | d2979 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | ~118 g | Purple lidded jar, v1 chem | | d3013 |
-| `BRONZE-STOCK` | Bronze, sprue tail · red | **~5 g** | Chill tray | | d3499 |
+| `BRONZE-STOCK` | Bronze, sprue tail · red | **×0** | Chill tray | | d3545 |
 | `PB-METAL` | Lead, tail · red · galena restock queued | **×0** | Forge jar | | d3497 |
-| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~38 g** | Chill tray | d3500 | d3511 |
+| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~62 g** | Chill tray | d3500 | d3544 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | ×24 @ bench · **×18 @ `CAVE-RECOVERY-CRATE-1`** | Bench / cave | d3460 | d3511 |
+| `NAIL-IRON` | Iron nails | **×28 @ bench** · **×18 @ `CAVE-RECOVERY-CRATE-1`** | Bench / cave | d3514 | d3515 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
-| `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×2 | Horreum peg tray | | d3081 |
+| `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×0 → **`WAGON-GARAGE-1` doors** | Horreum peg tray | | d3515 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | ×2 | Bench tray | | d3087 |
 
 ## Copper wire
@@ -115,7 +116,7 @@ The wire bank is tracked by **gauge**, because gauge is what decides whether a l
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | ~58.8 m @ rack · **~8 m @ cave spool** | Wire rack / cave | d3261 | d3511 |
+| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | **~57.3 m @ rack** · **~8 m @ cave spool** | Wire rack / cave | d3261 | d3521 |
 | `WIRE-CU-GEN2-1` | 0.9 mm gen-2 | ~48.0 m | Chem peg | | d3501 |
 | `WIRE-CU-4` | 1.6 mm · lane B coil, hold | ~14 m | Chem porch | | d1982 |
 | `CU-WIRE-Y10-COATED` | 0.9 mm coated · leads and tails only | ~9 m | — | d3245 | d3267 |
@@ -140,10 +141,10 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 |---|---|---|---|---|---|
 | `GP-Y8-C-LITE` | Glass pane, C-lite · spare, dividered | ×20 | Storage wing N upper shelf | | d3073 |
 | `KELP-ASH-5` | Soda / kelp ash · green | ~225 g | v1 chem | | d3430 |
-| `GLASS-TINT-LENS-Y10-D` | Tint lens spare | **`SUNGLASS-LENS-Y10-3` annealed · unlapped** | Spare peg | d3430 | d3435 |
+| `GLASS-TINT-LENS-Y10-D` | Tint lens spare | **`SUNGLASS-LENS-Y10-3` lapped · tint D matched · spare peg** | Spare peg | d3430 | d3517 |
 | `PAPER-SHEET-Y9` | Paper, flax · `SHEET-Y9-FLAX-29…32` · coil interleaving stock | ~9 sheets | Chem-lab rack | | d3503 |
 | `PAPER-SHEET-Y10-FLAX-1…3` | Paper, flax · roof R&D pulls | ×2 drying @ rack · ×1 on panel | Chem-lab rack | d3472 | d3472 |
-| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F1** | **10 coupons** @ chem porch south lean | Chem porch | d3472 | d3506 |
+| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F1** | **10 coupons** @ chem porch south lean · **rain read d3523** | Chem porch | d3472 | d3523 |
 | `BITUMEN-ROOF-TRIAL-1` | Bitumen · roof-grade trial crock · skimmed bulk | **~0.78 kg** | Chem porch | d3472 | d3507 |
 | `SAND-ROOF-FINE-1` | Sand, screened fine · roof surfacing | ~325 g | Chem porch jar | d3472 | d3506 |
 
@@ -155,7 +156,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~540 m** | Craft wing peg | d3505 | d3506 |
 | `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
-| `HEMP-LINE-26` | Hemp line | ~4 g tail | `WOOD-CRATE-6` fibre | | d3504 |
+| `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-THREAD-Y10-1` | Hemp thread · cover weft | ~75 m | Craft wing peg | d3382 | d3400 |
 | `WAGON-V2-COVER-HEMP-FLAX-1` | Wagon cover · hemp shell + flax liner · air gap · **outer oilcloth d3408** · mounted Norima | ✓ CLOSED d3407 | `WAGON-V2-COVER-ARCH-1` | d3400 | d3408 |
 | `HEMP-TOW-BANK` | Hemp tow | ~183 g | Storage wing tow bag | | d3472 |
@@ -214,11 +215,12 @@ Rope is here rather than in tools because it is measured and consumed. A rope ri
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `BASALT-BLOCK-1/2/3` | Dyke basalt, fine-grained chilled-margin, Kisecik ophiolite · **all three ring sound** · cut generously oversize | ~130 kg rough | `WW-YARD` | d3264 | d3264 |
+| `BASALT-BLOCK-1/3` | Dyke basalt triplet · Blocks 1 + 3 · ring sound | ~87 kg rough class | `WW-YARD` | d3264 | d3543 |
+| `BASALT-BLOCK-2` | Dyke basalt · **wear plate @ `BORING-MILL-1` bed** | ~43 kg | `WORKBENCH-1` east | d3264 | d3543 |
 | `LAP-GRIT-1/2/3/4` | Lapping grit, four settled grades coarse → very fine · labelled crocks | ×4 crocks | — | d3264 | d3264 |
 | `LAP-GRIT-5` | Lapping grit, finest elutriation tail · crock | small crock | Lap bench | d3468 | d3498 |
 
-✓ **`BASALT-DATUM` triplet CLOSED @ d3469 · fine lap d3498** — blocks 1/2/3 wind-free matched · reference @ Block 1 primary.
+✓ **`BASALT-DATUM` triplet CLOSED @ d3469 · fine lap d3498** — Blocks 1/3 @ yard · **Block 2 @ mill bed** · reference @ Block 1 primary.
 
 Grits were graded by elutriation, so the settling times are **arbitrary but identical every batch**: repeatable rather than known. Wash between grades.
 
@@ -298,7 +300,7 @@ The first wall swatch **failed on a dry wall** — the substrate drank the water
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `BITUMEN-ASI-1` | Bitumen, Asi seeps · 4 crocks, sand-dusted · ⚠ heavy end only | ~40 kg | Chem porch | d3270 | d3270 |
-| `BITUMEN-BULK-1` | Bitumen · *(+~1.5 kg chip at cart trial tin)* · ☠ not food | **~7.65 kg** | `BITUMEN-POT-1`, cart yard | | d3507 |
+| `BITUMEN-BULK-1` | Bitumen · *(+~1.5 kg chip at cart trial tin)* · ☠ not food | **~7.37 kg** | `BITUMEN-POT-1`, cart yard | | d3515 |
 | `CORK-BARK` | Cork bark | ~1.02 kg | — | | d3171 |
 | `BEESWAX-V1` | Beeswax · *(plus ~1.04 kg at the wax store — see below)* | ~216 g | v1 chem · craft cabinet 2 | | d3511 |
 | `TALLOW-1` | Tallow | ~78 g | v1 trough jar | | d3203 |

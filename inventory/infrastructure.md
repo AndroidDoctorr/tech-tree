@@ -352,9 +352,9 @@ Powered rip PASS. `TABLE-SAW-ARBOR-1` ~22 mm shaft on ×2 bronze pillows · `TAB
 ☠ The guard and splitter are not optional furniture. This is the highest-energy tool on the campus and the only one that can take a hand faster than a reaction.
 
 ### `LATHE-V2-LEADSCREW-1`
-Map: `LATHE-V2` · Built: d2856
+Map: `LATHE-V2` · Built: d2856 · Wear read: d3525 · Gearbox: d3526
 
-`LS-SCREW-1` plus `LS-HALF-NUT-1`, ~1.0 mm/rev hand feed.
+`LS-SCREW-1` plus `LS-HALF-NUT-1`, **~1.02 mm/rev** · backlash **~0.42 mm** @ power nut · **hand + power feed live** · **1:1 BN pitch threading certified d3529** · **`SCREW-LATHE-1` retrofit CLOSED**.
 
 ### `ROPEWALK-1`
 Map: `WW-YARD` long run · Built: d3255
@@ -367,6 +367,11 @@ Geared 3-hook whirler, grooved top, **travelling** far hook, ~40 m pegged run.
 Map: — · Built: d1894 · Live ~95%
 
 With `BORE-JIG-1`. Repeat bore to ~0.08 mm class. Upgrade path from `CRANK-DRILL-1`, which is still at `WORKBENCH-1` on a belt stub.
+
+### `BORING-MILL-1`
+Map: `WORKBENCH-1` east cheek · Opened: d3542 · Bed: d3543 · Headstock: d3544 · Saddle: d3545 · Belt: d3546 · **~70%**
+
+`BORING-MILL-BED-FRAME-1` + **`BASALT-BLOCK-2` wear plate** + **`BORING-MILL-HEADSTOCK-1`** + **`BORING-MILL-SADDLE-1`** + **`BORING-MILL-BELT-BRANCH-1`** @ idler B. Spin **~145 rpm** PASS · runout **<0.07 mm** under load. Scrap bore trial outstanding.
 
 ### `LATHE-1` and `LATHE-V2`
 Map: `WORKBENCH-1`
@@ -474,7 +479,7 @@ The old mud pool is **retired**. The dual trough plus rinse branch runs the two 
 ### `WAGON-GARAGE-1` — wagon garage
 Map: `CART-YARD` south · Built: **stem d3375 · frame d3376–3378 · roof d3379** · Pad/drain: d3283
 
-**~3 × 6 m bay** — block socle ×7 · oak frame + **×4 iron straps** · **shake/M-08 roof d3379** · **Norima default park under cover.** Utility grammar — not habitable BC-2 finish.
+**~3 × 6 m bay** — block socle ×7 · **DPC band d3515** · oak frame + **×4 iron straps** · **BC-2 timber walls d3513** · **board-and-batten front + double doors d3515** · **shake/M-08 roof d3379** · **Norima default park under cover.** Utility CLOSED · **`WAGON-GARAGE-2` future.** Ring beam N/A.
 
 ---
 
