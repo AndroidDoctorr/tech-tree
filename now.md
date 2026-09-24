@@ -2,7 +2,7 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-**Day 3561** · Cal-Y12 D42 · ~11 Feb · **Char retort refill**
+**Day 3580** · Cal-Y12 D61 · ~2 Mar · **HERB-DRILL parsley/allium**
 
 > ## ✓ **`BASALT-DATUM` triplet *(d3464–3469 · fine lap d3498)*
 > ✓ **Blocks 1/3 @ `WW-YARD` · Block 2 wear plate @ `BORING-MILL-1` · reference @ Block 1 primary.**
@@ -31,20 +31,53 @@
 > ## ✓ **`KILN-A-LIME-3464` *(d3517)*
 > ✓ **`QUICKLIME-1` ~4.85 kg · `CACO3-P7` thin.** Char runway restored.
 
-> ## ✓ **`IRON-BLOOM-1` *(d3559)*
-> ✓ **`~980 g GREEN @ mount`** — steel branch stock · wrought bar next.
+> ## ✓ **`CS-BAR-Y12-1` *(d3571)*
+> ✓ **`~847 g @ forge peg`** — case **~0.6 mm** · fracture PASS · **`STEEL-TEST-SLATE-Y12-1` CLOSED**.
 
-> ## ✓ **`H-11-HEMATITE` *(d3559)*
-> ✓ **`~5.65 kg @ pile 4`** — ~2 smelt charges remain.
+> ## ✓ **`CS-BAR-Y12-2` *(d3573)*
+> ✓ **`~848 g @ forge peg`** — case **~1.0 mm** · hardened + tempered · fracture compare vs bar-1 PASS.
 
-> ## ⚑ **`STEEL-PATH-SLATE-Y12-1` *(d3559)*
-> ⚑ **Bloom → wrought bar → pack carburize → harden/temper** · fold for **laminate**, not for **C**.
+> ## ✓ **`CS-TEST-COUPON-Y12-2` *(d3573)*
+> ✓ **`~17 g @ bench vial`** — thicker shell vs coupon-1.
 
-> ## ✓ **Wood + char *(d3561)*
-> ✓ **`CHAR-LANE` ~30.2 kg** · **`CHAR-RESERVE-C` ~15 kg** · **`WOOD-OAK-P5` ~0.1 kg @ pile 5** · **`WOOD-HORNBEAM-GEAR-1` ~0.24 kg tail @ peg.**
+> ## ✓ **`SEED-RAG-TEST-Y12` *(d3574)*
+> ✓ **Full roster tested** · **`SOW-PREP` gate GO**.
 
-> ## ✓ **Norima wear *(d3560)*
-> ✓ **23** — wood haul · ice/steel arc.
+> ## ✓ **`SPRING-SOW-Y12` *(d3576)*
+> ✓ **~58–62 m² drilled** · scare-only on rows · band closes **16 Mar**.
+
+> ## ✓ **`EMMER-Y5-RESCUE-Y12` *(d3576)*
+> ✓ **Dedicated ~4 m² block sown thick** — November harvest replaces bank.
+
+> ## ✓ **`H-11-HEMATITE` *(d3572)*
+> ✓ **`~2.85 kg @ pile 4`** — ~1 smelt charge remain.
+
+> ## ✓ **`STEEL-PATH-SLATE-Y12-1` *(d3573)*
+> ✓ **Both bars hardened + tempered** · fracture compare PASS · **MFGC-1 ST column** when certs exist.
+
+> ## ✓ **`BED-EXPANSION-SLATE-Y12-1` *(d3576)*
+> ✓ **Drilled** · flax **~16 m²** · hemp **~24 m²** · disaster blocks live · **`SEED-REGEN` chickpea/lentil Y8 ✓**.
+
+> ## ✓ **`HERB-DRILL-3580` *(d3580)*
+> ✓ **Parsley + allium @ culina** · **`HERB-GAP-Y12` CLOSED** · **`SPRING-SOW-Y12` culina roster complete**.
+
+> ## ✓ **`GRAPE-SEL-REGEN-3578` *(d3578)*
+> ✓ **`P-03-REGEN-Y12-1` @ T-2 lip** · **`P-03-SEL-Y8` sown out** · **`P-03-SEL-Y9` ~13 g hold**.
+
+> ## ✓ **`GRAPE-PRUNE-Y12-1` *(d3579)*
+> ✓ **Cordon pruned** · **`P-03-CUT-Y12-1` ×4** · **`GRAPE-PRUNE` band CLOSED** · cluster thin Mar–Apr.
+
+> ## ⚑ **`SPRING-SOW-Y12` *(d3580)*
+> ⚑ **Band closes 16 Mar** · scare-only on all rows · green line ~d3587 class.
+
+> ## ✓ **`PALISADE-2` *(d3570)*
+> ✓ **97/97 m stage-2 shored** — W toe · N gate lash · S weep · TRIB brace · **stage-3 defer**.
+
+> ## ✓ **Wood + char *(d3580)*
+> ✓ **`CHAR-LANE` ~30.7 kg** · **`CHAR-RESERVE-C` ~15 kg** · **`WOOD-OAK-P5` ~12.0 kg @ pile 5** · **`WOOD-HORNBEAM-GEAR-1` ~0.24 kg tail @ peg.**
+
+> ## ✓ **Norima wear *(d3575)*
+> ✓ **21** — wood haul d3575.
 
 > ## ✓ **Brass + bar *(d3552)*
 > ✓ **`BRASS-STOCK` ~54 g @ chill tray · `CU-BAR-Y10-1` ~166 g** *(~30 m @ 0.9 mm).*
@@ -74,8 +107,8 @@
 > ⚠ **`BRONZE-STOCK` ×0** — feed-nut pad spent.
 
 
-> ## ✓ **`ICE-HAUL-Y12` *(d3556)*
-> ✓ **Laps 1–2 ~53.5 kg** · vault **~101 kg** · **~29 kg** headroom · lap 3 optional **~10 Feb**.
+> ## ✓ **`ICE-HAUL-Y12` CLOSED *(d3563)*
+> ✓ **Laps 1–3 ~78.3 kg** · vault **~125.8 kg** · **~4 kg** headroom · **cap-bound**.
 
 > ## ✓ **`STANDARDS-CODE-FILING-Y12-1` *(d3558)*
 > ✓ **MC-1 · EC-1 · MFGC-1** @ `government/regulations/` · **`PT-*` pipe series** · test-before-production gate.
@@ -945,10 +978,10 @@
 | ★★ **WHY THE SCALE** | **Weight is a number, available daily, and it costs the colony NOTHING** — no smoke, no lid, no lost heat · ★★ **and it is a CURVE, not a number: CLIMBING = the flow is ON** *(and the start date is a fact about the VALLEY, not the hive)* **· FLAT = break-even · FALLING = DEARTH, feed or lose them ·** ☠ **SUDDEN DROP ON A FINE DAY = THEY SWARMED** · ★★ **one reading a day from ONE hive builds a FORAGE CALENDAR FOR THE WHOLE VALLEY** — when nectar starts, how long the midsummer gap runs, which years are poor · *platform under HIVE-3, same hour daily* · ★ **same move as the jerky scale and the wire resistance: find the thing already countable, and count it** |
 | ⚠ ★★ **A COLONY STARVES JUST BEFORE THE FLOW, NOT IN THE DEARTH** *(d3263)* | **HIVE-6 hefted LIGHT: a CAST** *(small to begin with)* **that spent a month building its whole house out of its own body at 8 honey : 1 wax, has JUST begun laying** *(when food demand turns sharply up)*, **and then lost five grey days of income** · **fed thin honey-water with floats · ENTRANCE REDUCED — a light colony is a robbing target and robbing kills a weak colony in an afternoon** · **re-heft in 2 days** · ⚠ **and the bigger frame: the apiary is a POPULATION and the real constraint is FORAGE — spring here is a flood and midsummer a desert. Carrying capacity + the JUNE–AUGUST DEARTH need planning, not reacting** |
 | **Rope** | **~28 m new @ LASH CLASS ONLY** *(uneven lay — never under load)* · ~6.4 m old · CAVE-3 fixed line 9 m · **ROPEWALK-1 needed before any load-bearing rope** |
-| **Ice** | **Vault ~101 kg · Y12 laps 1–2 · ~29 kg headroom to cap** |
+| **Ice** | **Vault ~125.8 kg · Y12 CLOSED · ~4 kg headroom · cap-bound** |
 | **Mortar** | **Quicklime ~11.7 kg GREEN · pile 7 ~4.3 kg · clay ~35.4 kg** |
 | **Nitre** | **NITRE-BED-1 ✓ LIVE** @ north lee · **turn 3 ✓ d3281** *(49 d late — core had gone sour; see the nitre row above)* · **next ~d3300** · ammonia still weakening *(good)* · **no bloom — ground still cold, expected** · harvest autumn |
-| **Norima wear** | **23** |
+| **Norima wear** | **20** |
 | **Ore** | **O-1 malachite Y10 ~17.55 kg @ pile 4 — D2 pending, not urgent** · slag ~3.8 kg re-charge · azurite ~1.4 kg · **CACHE-MG1-1 ~15 kg cairned at the face** |
 | **Copper** | **CU-WIRE-Y10-1 ~64 m @ ~0.9 mm · continuous · BARE** · bar ~785 g left *(~135 m more in it)* · **copper is no longer the constraint** |
 | **Insulation** | **SOLVED d3232.** **WAX + PINE ROSIN**, ×2 coats, pulled through a **felt wiper** off the melt pot · **paper between layers** · **thread only at leads/crossovers** *(serving costs ~12–13 m thread per m of wire — would eat the whole ~850 m bank)* · **test coil ISOLATED under compression** · **CLOSED d3245 — ~104 m ALL COATED, no bare copper in the building** · compound **~25 g left** *(tight until SKEP-1's comb renders ~d3265)* |

@@ -1,6 +1,6 @@
 # Week 509
 
-**Status:** **OPEN @ Day 3561** · **Days 3556–** · **Cal-Y12 D37+** · **~6 Feb+**
+**Status:** **CLOSED @ Day 3563** · **Days 3556–3563** · **Cal-Y12 D37–D44** · **~6–13 Feb**
 
 **Theme:** **Ice tail · Y12 parallel goals**
 
@@ -16,9 +16,10 @@
 | 3559 | ✓ **`STEEL-PATH-SLATE`** · **`IRON-BLOOM-SMELT`** · **~980 g** bloom bank |
 | 3560 | ✓ **`WOOD-HAUL-3560`** · **~20 kg** @ pile 5 · Norima **wear 23** |
 | 3561 | ✓ **`CHAR-REFILL-3561`** · **×2 retort** · lane **~30.2 kg** |
+| 3562 | ✓ **`WI-BAR-DRAW-3562`** · **`WI-BAR-Y12-1` ~900 g** · bloom consumed |
+| 3563 | ✓ **`ICE-HAUL-Y12` lap 3 CLOSED** · vault **~125.8 kg** · Norima **wear 24** |
 
 ## Carried forward
-- ⚑ **`STEEL-PATH-Y12`** — wrought bar → **pack carburize** → harden/temper
-- ⚑ **`ICE-HAUL-Y12` lap 3** — optional · vault **~101 kg**
+- ⚑ **`STEEL-PATH-Y12`** — **`CARBURIZE-1`** pack trial → harden/temper
 - ⚑ **`PIPE-TEST`** — scrap trial before first **PT-*** production
 - ⚑ **`SPYGLASS`** — spring band

@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **23** · Last out: **d3560 wood haul** · Last tune: **d3554 ice prep**
+Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **20** · Last out: **d3568 wood haul** · Last tune: **d3567 routine**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
 

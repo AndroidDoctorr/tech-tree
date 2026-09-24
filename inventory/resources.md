@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | **~30.2 kg** | Char lane | | d3561 |
+| `CHAR-LANE` | Charcoal, oak · green | **~30.7 kg** | Char lane | | d3575 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~15 kg** | Store C vault | | d3510 |
-| `WOOD-OAK-P5` | Oak, green | **~0.1 kg @ pile 5** | Pile 5 | | d3561 |
+| `WOOD-OAK-P5` | Oak, green | **~12.0 kg @ pile 5** | Pile 5 | | d3580 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~8.08 kg | Berm | | d3472 |
@@ -22,7 +22,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CLAY-P1` | Clay, raw · green | ~13.2 kg | Pile 1 | | d3324 |
+| `CLAY-P1` | Clay, raw · green | **~9.6 kg** | Pile 1 | | d3572 |
 | `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | ×0 → slips | — | d3329 | d3331 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | ~53.85 kg | `STORE-4` | | d3332 |
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
@@ -38,7 +38,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CACO3-P7` | Limestone, raw · plus underburnt returns | ~1.6 kg | Pile 7, camp north face | d3374 | d3464 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | ~4.85 kg | Lime trough | d3390 | d3513 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~4.70 kg** | Lime trough | d3390 | d3570 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
 
@@ -80,7 +80,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | ~34.75 kg | v1 chem, isolated | | d3008 |
 | `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
-| `H-11-HEMATITE` | Hematite | **~5.65 kg @ pile 4** | Pile 4 | | d3559 |
+| `H-11-HEMATITE` | Hematite | **~2.85 kg @ pile 4** | Pile 4 | | d3572 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -96,7 +96,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · **poled, wire-grade** — **~30 m class left @ 0.9 mm** | ~166 g | — | | d3535 |
-| `IRON-BLOOM-1` | Iron bloom, mounted · green | **~980 g GREEN** | Forge mount | | d3559 |
+| `CS-BAR-Y12-1` | Carbon steel bar · hardened + tempered | **~847 g** | Forge peg | Y12 | d3571 |
+| `CS-BAR-Y12-2` | Carbon steel bar · hardened + tempered | **~848 g** | Forge peg | Y12 | d3573 |
+| `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
+| `CS-TEST-COUPON-Y12-2` | Carbon steel test coupon · bar-2 fracture | **~17 g** | Bench vial | Y12 | d3573 |
 | `SN-BANK` | Tin | ~1.14 kg | — | | d3166 |
 | `ZNO-CALCINE` | Zinc oxide calcine | ~786 g | — | | d3535 |
 | `ZN-METAL-1` | Zinc, prill tail | ~81 g | Chem-lab lidded tray | | d2979 |

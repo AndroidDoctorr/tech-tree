@@ -13,7 +13,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `BARLEY-BULK-Y10` | Barley, bulk · Y10 trial harvest | ~0.48 kg | Horreum A barley bay | d3491 | d3491 |
-| `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~2.56 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3488 |
+| `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~1.11 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3576 |
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | ~0.38 kg | `P-μ-12` | d3489 | d3508 |
 | `BARREL-4-GRAIN` | Cracked grain, working · Y10 top-up | ~0.46 kg | `BARREL-4`, v1 | d3488 | d3504 |
@@ -59,7 +59,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `FIG-FRESH-Y10-1` | Fig, fresh hold · Bed D first pass | ~1.25 kg | Cool step | d3368 | d3368 |
 | `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
 | `FIG-FRESH-Y10-4` | Fig, fresh · Bed D strip | ~0.4 kg | Cool step | d3389 | d3389 |
-| `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ~0.93 kg | Cool step | d3375 | d3508 |
+| `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ~0.87 kg | Cool step | d3375 | d3579 |
 | `GRAPE-FRESH-1` | Grape, fresh hold | ~1.15 kg | Cool step | Y9 | d3145 |
 
 ## Meat and fish
@@ -111,7 +111,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `JERKY-Y10` | ★ Jerky · **dry, cool, in cloth, not sealed** | ~3.84 kg @ horreum · **~0.6 kg recovery pouch @ cave** | Horreum A / cave | d3253 | d3458 |
 | `GOAT-SMOKE-1` | Smoked goat | ~0.60 kg | v1 cool shelf | ? | d3508 |
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
-| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | ~0.26 kg | Culina | | d3537 |
+| `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **~0.25 kg** | Culina | | d3566 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.47 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3539 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | ~0.45 kg | Lamp jar · culina | d3251 | d3539 |
 
@@ -169,7 +169,7 @@ Salt is the one indefinite row. **Y10 evap band OPEN** (6 Nov – 26 Nov) — cy
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~101 kg** | Ice vault | Y12 | d3556 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~125.8 kg** | Ice vault | Y12 | d3563 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

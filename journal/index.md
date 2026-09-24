@@ -6,10 +6,29 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3561)*
+## Recent days *(append here · @ Day 3580)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3580 | [day-3580.md](days/year-010/week-512/day-3580.md) | ✓ **`HERB-DRILL-3580`** · parsley + allium · gap closed | **Cal-Y12 D61 · ~2 Mar** |
+| 3579 | [day-3579.md](days/year-010/week-512/day-3579.md) | ✓ **`GRAPE-PRUNE-Y12-1`** · cordon · cuttings ×4 | **Cal-Y12 D60 · ~1 Mar** |
+| 3578 | [day-3578.md](days/year-010/week-512/day-3578.md) | ✓ **`GRAPE-SEL-REGEN` · W512 OPEN** · Y8 bank sown | **Cal-Y12 D59 · ~28 Feb** |
+| 3577 | [day-3577.md](days/year-010/week-511/day-3577.md) | ✓ **`SEED-SCOUT-3577`** · parsley ~5 g · allium ~7 g | **Cal-Y12 D58 · ~27 Feb** |
+| 3576 | [day-3576.md](days/year-010/week-511/day-3576.md) | ✓ **`SPRING-SOW-Y12`** · **~58–62 m²** · rescue + regen | **Cal-Y12 D57 · ~26 Feb** |
+| 3575 | [day-3575.md](days/year-010/week-511/day-3575.md) | ✓ **`WOOD-HAUL-3575`** · **`CHAR-RETORT-3575`** ×1 | **Cal-Y12 D56 · ~25 Feb** |
+| 3574 | [day-3574.md](days/year-010/week-511/day-3574.md) | ✓ **`SEED-RAG-TEST-Y12`** · full roster · **`SOW-PREP` GO** | **Cal-Y12 D55 · ~24 Feb** |
+| 3573 | [day-3573.md](days/year-010/week-511/day-3573.md) | ✓ **`HARDEN-TEMPER-3573`** · **`CS-BAR-Y12-2` ~848 g** · coupon-2 | **Cal-Y12 D54 · ~23 Feb** |
+| 3572 | [day-3572.md](days/year-010/week-511/day-3572.md) | ✓ **`CARBURIZE-2`** · **~7 h pack** · **`CS-BAR-Y12-2` ~865 g** | **Cal-Y12 D53 · ~22 Feb** |
+| 3571 | [day-3571.md](days/year-010/week-511/day-3571.md) | ✓ **`STEEL-TEST-3571` · W511 OPEN** · case **~0.6 mm** · fracture PASS | **Cal-Y12 D52 · ~21 Feb** |
+| 3570 | [day-3570.md](days/year-010/week-510/day-3570.md) | ✓ **`PALISADE-AUDIT`** · W toe · N lash · S weep shored | **Cal-Y12 D51 · ~20 Feb** |
+| 3569 | [day-3569.md](days/year-010/week-510/day-3569.md) | ✓ **`FARM-WALK`** · **`BED-EXPANSION-SLATE-Y12-1`** · ~58–62 m² | **Cal-Y12 D50 · ~19 Feb** |
+| 3568 | [day-3568.md](days/year-010/week-510/day-3568.md) | ✓ **`WOOD-HAUL-3568`** · **~20 kg** @ pile 5 | **Cal-Y12 D49 · ~18 Feb** |
+| 3567 | [day-3567.md](days/year-010/week-510/day-3567.md) | ✓ **`WAGON-V2-TUNE-3567`** · Norima **wear 19** | **Cal-Y12 D48 · ~17 Feb** |
+| 3566 | [day-3566.md](days/year-010/week-510/day-3566.md) | ✓ **`HARDEN-TEMPER-3566`** · **`CS-BAR-Y12-1` ~865 g** · straw draw | **Cal-Y12 D47 · ~16 Feb** |
+| 3565 | [day-3565.md](days/year-010/week-510/day-3565.md) | ✓ **`CARBURIZE-1` PASS** · **`CS-BAR-Y12-1` ~870 g** · retort ×1 | **Cal-Y12 D46 · ~15 Feb** |
+| 3564 | [day-3564.md](days/year-010/week-510/day-3564.md) | ✓ **`WOOD-HAUL-3564` · W510 OPEN** · **~20 kg** @ pile 5 | **Cal-Y12 D45 · ~14 Feb** |
+| 3563 | [day-3563.md](days/year-010/week-509/day-3563.md) | ✓ **`ICE-HAUL-Y12` lap 3 CLOSED** · vault **~125.8 kg** | **Cal-Y12 D44 · ~13 Feb** |
+| 3562 | [day-3562.md](days/year-010/week-509/day-3562.md) | ✓ **`WI-BAR-DRAW-3562`** · **`WI-BAR-Y12-1` ~900 g** | **Cal-Y12 D43 · ~12 Feb** |
 | 3561 | [day-3561.md](days/year-010/week-509/day-3561.md) | ✓ **`CHAR-REFILL-3561`** · lane **~30.2 kg** · ×2 retort | **Cal-Y12 D42 · ~11 Feb** |
 | 3560 | [day-3560.md](days/year-010/week-509/day-3560.md) | ✓ **`WOOD-HAUL-3560`** · **~20 kg** @ pile 5 | **Cal-Y12 D41 · ~10 Feb** |
 | 3559 | [day-3559.md](days/year-010/week-509/day-3559.md) | ✓ **`STEEL-PATH-SLATE`** · bloom **~980 g** · fold≠carburize | **Cal-Y12 D40 · ~9 Feb** |
