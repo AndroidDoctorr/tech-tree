@@ -85,8 +85,8 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **21** | Haul d3575 20→21 · overhaul d3442 → 15 · doctrine d3463 |
-| **mishap_pool** | **1** | **+1 qualifying exped d3415 · pop only if pool ≥ 8** |
+| **Norima wear** | **23** | M31 scout travel d3592/93/96/97 19→23 · routine tune d3589 24→18 · overhaul d3442 → 15 |
+| **mishap_pool** | **8** | M31 expedition d3592–3597 · POP MISS d3597 · next qualifying hero rolls again |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
 ### Mishap pool doctrine *(player @ d3118)*
@@ -120,7 +120,7 @@ Cap **rut_tension** at **95**.
 
 | When | Read | Roll if |
 |------|------|---------|
-| **Day open** | [player-calendar.md](checklists/calendar.md) month | **WEATHER-*** seasonal row |
+| **Day open** | [player-calendar.md](checklists/calendar.md) month | `WEATHER-*` seasonal row |
 | **FARM-CARE / scare** | Farm + Animals | **GOAT-RUT-BREED** *(Sep–Dec · shared pen)* · **GOAT-ILLNESS-PASS** *(quarterly index 0)* |
 | **Team pull / loaded roll** | Cart/wagon row | **CART-WHEEL-MISHAP** · **WAGON-HUB-BIND** |
 | **Forge hero** | Tool condition | **FORGE-SCALD** · **FORGE-TONGS-SLIP** |

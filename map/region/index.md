@@ -68,13 +68,14 @@ Where this valley is, in the world the player came from. The settlements do not 
 | Player name | Modern form | Classical | Role here |
 |---|---|---|---|
 | **Antakya** | Antakya | *Antioch* | The valley's future city · circus stake at 520 m NW |
-| ★★★ **Kisecik** | Kisecik | — | **~16 km NW** *(⚠ ~9 km if the Orontes island site is ever bridged)* · ★★★ **`KISECIK-DISTRICT-1` — nine metals, the acid heap, and the best day trip on the map** |
+| ★★★ **Kisecik** | Kisecik | — | **~16 km NW** · gravel shortcut needs bedrock probe · ★★★ **`KISECIK-DISTRICT-1` — nine metals, the acid heap, and the best day trip on the map** |
 | **Samandag** | Samandağ | *Seleucia Pieria* | Orontes mouth · coast SW |
 | **Kirikhan** | Kırıkhan | — | **~53 km** · ★ **the split** — Route A west vs Aleppo Road east |
 | **Belen** | Belen | — | **~65 km** · the pass · first waystation |
 | **Iskenderun** | İskenderun | *Alexandria ad Issum* | **~80 km** · called **Alexandria** on the route |
 | **Dortyol** | Dörtyol | *Issus* | **~117 km** · called **Issus** · `SC-DORTYOL-B` |
 | **Erzin** | Erzin | — | **~132 km** · waystation |
+| ★ **Dokuztekne / Fakiye** | Dokuztekne / Fakiye | — | **~155 km** · `MN-TURN-1` off L13 + `MN-SPUR-1` 5.8 km west · **manganese `M-31-A` found d3595** |
 | **Ceyhan** | Ceyhan | — | **~170 km** · river crossing · the Phrygian / Cappadocian split |
 | **Kozan** | Kozan | *Cataonia* class | **~220 km** · tin scout camp · furthest routine stop |
 | **Adana** | Adana | — | Phrygian Road · deferred behind the Seyhan crossing |

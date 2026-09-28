@@ -6,7 +6,7 @@ Continuing work that interleaves between heroes. None of these ever "close."
 
 - **Flood management** · **gravel** · **asphalt** · **bridge strength** · **blasting**
 - **Where the gain is:** `L9` at ~2.4 and `L6` at ~2.25 are what hold the west composite at ~2.9. ★ **A composite is dragged by its worst legs, not lifted by its best** — six legs improved since d2562 and the number did not move
-- ⚠ `L6` has had **no re-read since d2562**
+- ✓ `L6` drainage **4/4 drains + 4/4 outlets closed d3597** · ⚠ steep-third running surface still needs gravel and crown
 - **Coast corridor** — the km ~9–14 band was improved d2596 and d2599; M-spikes every ~8 km
 - Doctrine: [trail-longevity.md](../government/procedures/trail-longevity.md)
 
@@ -23,7 +23,8 @@ Ring closed at **97/97 m, d2836**. Stage-3 work and gate caps were queued after 
 ## Waystation upkeep
 
 - **Touch each cache on every infra lap**, log the draws at day close
-- ☠ **Food is the failure mode.** Rope, wedges and planks have held for a decade in these boxes; the food went RED at d2664 and is still RED. Hard kit keeps, soft kit is a clock
+- ☠ **Food is the failure mode.** Rope, wedges and planks hold; soft kit is a clock
+- ✓ **Belen food refreshed d3592 · Erzin food refreshed d3593** — sealed jerky / pistachio / acorn packets
 
 ## Seed bank
 
@@ -33,6 +34,15 @@ Ring closed at **97/97 m, d2836**. Stage-3 work and gate caps were queued after 
 ## Gypsum
 
 `M-21`, the gorge wall face below the cave line. ★ **A bed, not a pocket — supply is unconstrained.** ~48 kg came out d3224 and there has been **no return trip since**. Plaster, selenite panes, field sulfur.
+
+## Vitriol heap
+
+`VITRIOL-HEAP-1` @ `M-23` Kisecik. First harvest **~7.4 L d3590** · containment PASS · heap forked loose and recharged with ~10 kg pyrite-rich feed.
+
+- Heap stays at the ore; only liquor travels
+- Liquor is **arsenic-bearing until proved otherwise**
+- Next productive read is after **~90 wet days**, not 90 dry-season calendar days
+- On every Kisecik pass: containment · sump level · crust · core conversion
 
 ## Precision chain — live
 

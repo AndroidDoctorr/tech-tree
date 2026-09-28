@@ -240,12 +240,12 @@ Local campus trails `T-1`–`T-5` are in [campus/index.md](../campus/index.md). 
 | `KIRIKHAN-APPROACH-1` | **~2.0** | ~46 km | Pozzolan wings d2319 · `POZZ-KIT-11` d2896 · ~2 mm |
 | `ISK-APPROACH-1` | **~3.5** | ~80 km · ~13 m span | Built d1406 · reinforced · listen PASS d2320 |
 | `PINARUS-1` | **~3.5** | ~93 km · ~12 m span | Reinforced d1551 · wings d2679, d3025 · **asphalt trial strip d3027** |
-| `PAYAS-APPROACH-1` | **~2.0** | ~105 km | `POZZ-KIT-8` wing d2611 · ~2 mm |
+| `PAYAS-APPROACH-1` | **~2.0 provisional** | ~105 km | East/downstream approach shoulder repaired d3596: oak sister cleat · ×4 nails · lash · bitumen · full scout load PASS. ⚑ **Permanent stone cheek owed** |
 | `DORTYOL-APPROACH-1` | **~3.5** | ~117 km | Reinforced d1564 · listen PASS d2329 |
 | `ERZIN-APPROACH-1` | **~3.5** | ~132 km | Reinforced d1544 · cheeks d2908, d3027 · ~2 mm |
 | `CEYHAN-APPROACH-1` | **~3.5** | ~170 km · ~13 m span | Reinforced d1462 |
 | `TRIB-FT-N02` | **~3.0** | `CAP-0` · ~8 m span | Built d1473 |
-| ⚑ `SC-ORONTES-ISLAND-B` | **0** *(ghost)* | Orontes, on the Kisecik line | ★★★ **Surveyed d3290. A shallow gravel island mid-channel — two short spans and a pier the river already founded. 16 km becomes ~9, both ways, forever.** ☠ *But an island is where the river is dropping its load TODAY.* ⧗ **Block-gated · read across a flood season against a bank benchmark · the apron goes in the first drawing** |
+| ⚠ `SC-ORONTES-ISLAND-B` | **SURFACE PIER STRUCK · BEDROCK PROBE OPEN** | Orontes, on the Kisecik line | Flood-season benchmark read: upstream nose cut back ~5–6 m · crest ~0.3–0.4 m lower · main channel shifted. **The gravel cannot found a pier.** `ORONTES-BEDROCK-PROBE-1` may reopen a deep-founded crossing only if repeated adjacent probes find one consistent bedrock plane |
 
 ### ☠ `CAMPUS-BRIDGE` — the scour clock
 
@@ -290,13 +290,13 @@ Every timber and every concrete face **probed sound** d3270. And then:
 | `L3` | `ASI-B` → `AFRIN-B` | ~8 | ✓ bridge | Flat | **`W90` 33 paces d3319** · `S` 61 d3308 | ✓ **SHED** d3292 | d3319 | ✓ **~d5117** |
 | `L4` | `AFRIN-B` → `KTRUNK` | ~2 | ◐ ford + shore | Flat | ★ **`W90` 46 paces d3319** · `S` 66 d3308 | ★★ **SHED, best on the road** d3292 | d3319 | ✓ **~d5117** · ★ *the concrete shore throws water hard* |
 | `L5` | `KTRUNK` → `KIRIKHAN-APPR-B` | ~18 | ✓ bridge | Terrace | **~3.1** | ✓ **SHED** d3292 | d3292 | **~d4024** |
-| ☠ `L6` | `KIRIKHAN-APPR` → **the split** | ~7 | — **pass** | ☠ **Pass, cross-drained** | **~2.375** | ⚠ **was CHANNEL · arrested d3293** | **d3293** | ✓ **~d3658.** ☠ **ARRESTED, NOT RECOVERED** — see below |
+| ☠ `L6` | `KIRIKHAN-APPR` → **the split** | ~7 | — **pass** | ☠ **Pass, cross-drained** | **~2.375** | ✓ **4/4 top drains + 4/4 lower outlets open/lipped d3597** | **d3597** | ☠ **Drainage recovered; steep-third surface still lost** |
 | `L7` | Split → `BELEN-APPR-B` | ~12 | ✓ bridge | Terrace | **~3.4** | ☠ **never read wet** | d2609 · 1.9 yr | ⚠ **Due now** |
-| `L8` | `BELEN-APPR` → `ISK-APPR` | ~15 | ✓ bridge ~13 m | Terrace | **~3.5** | ☠ **never read wet** | d2907 · 1.0 yr | **~d3637** · ★ **fastest mature leg** |
-| `L9` | ISK pass → `PINARUS-B` | ~13 | ✓ bridge ~12 m | ☠ **Pass** | **~2.4** | ☠ **never read wet** | d2998 · 0.8 yr | ⚠ **~d3363.** ★ **Worst mature west leg but climbing** — ~2.0 → ~2.5 d2610 → ~2.4 d2998. ☠ *The d2680 ~2.85 is struck from the trend: taken empty and downhill* |
-| `L10` | `PINARUS` → `PAYAS-B` | ~12 | ✓ bridge ~14 m | Rolling | **~2.5** | ☠ **never read wet** | d2994 · 0.8 yr | **~d4089** |
-| `L11` | `PAYAS` → `DORTYOL-B` | ~12 | ✓ bridge ~10 m | Flat | **~2.5** | ☠ **never read wet** | d2994 · 0.8 yr | **~d4819.** Long flat stretches read ~3.2 — upgrade skipped as not worth it |
-| `L12` | `DORTYOL` → `ERZIN` | ~15 | ✓ bridge ~9 m | Flat | **~2.5** | ☠ **never read wet** | d2995 · 0.8 yr | **~d4820** |
+| `L8` | `BELEN-APPR` → `ISK-APPR` | ~15 | ✓ bridge ~13 m | Terrace | **~3.5** | ✓ **SHED d3593 wet read** | d3593 | ★ **fastest mature leg** |
+| `L9` | ISK pass → `PINARUS-B` | ~13 | ✓ bridge ~12 m | ☠ **Pass** | **~2.4** | **CHANNEL inner bend · apron catches · outlet cleared d3593 wet read** | d3593 | ★ **Worst mature west leg but climbing** — ~2.0 → ~2.5 d2610 → ~2.4 d2998 |
+| `L10` | `PINARUS` → `PAYAS-B` | ~12 | ✓ bridge ~14 m | Rolling | **~2.5** | ✓ **SHED d3593 wet read** | d3593 | **~d4688** |
+| `L11` | `PAYAS` → `DORTYOL-B` | ~12 | ✓ bridge ~10 m | Flat | **~2.5** | ✓ **SHED d3593 wet read** | d3593 | Long flat stretches read ~3.2 — upgrade skipped as not worth it |
+| `L12` | `DORTYOL` → `ERZIN` | ~15 | ✓ bridge ~9 m | Flat | **~2.5** | ✓ **SHED d3593 wet read** | d3593 | **~d4688** |
 | `L13` | Erzin → The Castle → `CEYHAN-B` | ~38 | ✓ + boot fords | Plain string | **~2.3** | ☠ **never read wet** | d2921 · 1.0 yr | **~d4746** |
 | `CAP-0` | Ceyhan → Kozan north gate | ~50 | ✓ + boot fords | ⚠ String | **~1.5** | ☠ **never read wet** | d2990 · 0.8 yr | ⚠ **Sacrificial frontier — decay accepted** |
 | `EAST-L0` | `ASI-B` → `AM-EAST-01` | ~2 | — crown | Flat | **~3.2** | ☠ **never read wet** | d2561 · 2.0 yr | ✓ **~d3639** |
@@ -305,19 +305,19 @@ Every timber and every concrete face **probed sound** d3270. And then:
 
 ### ☠ ★★★ What the DUE column says right now
 
-✓ **`L0`–`L6` cleared on the d3291–d3294 lap.** ⚠ **`L7` is the oldest read left on the west road** at 1.9 yr on terrace character, and **`L9` comes due ~d3363.** ★ **The east string is flat and has years in hand.**
+✓ **`L6` drainage closed d3597: 4/4 top drains + 4/4 lower outlets.** ⚠ **`L7` is the oldest wet read left on the west road.** `L9` received its first wet read d3593; inner-bend channel is contained by the apron. ★ **The east string is flat and has years in hand.**
 
 > ★★★ **`L6` IS THE ONLY LEG ON THE ROUTE WITH NO BRIDGE, FORD OR SHORE AT ITS END.** *A structure is an appointment — something to listen to, re-bed, re-read — and the road around it gets maintained as a side effect of the visit.* ☠ **A plain stretch has no appointment with anybody, which is exactly why it is the one that slipped.**
 
 ⚑ **This column is the fix: a leg is due when its date is old, not when something standing on it wants attention.**
 
-### ☠ `L6-RECOVER` — partial d3328 · build lap continues
+### ☠ `L6-RECOVER` — drainage closed d3597 · surface continues
 
-**Arrested d3293.** ✓ **d3328:** top **4/4 drains desilted** · steep third **2/4 outlets re-lipped with stone** · **~60 m gravel band** on worst ruts. ⚠ **Lower two outlets re-cut only — stone short on the wagon.** Camp **split** · **`M-26` kaolin next (~12 km trail).**
+**Arrested d3293.** ✓ **d3597:** top **4/4 drains open** · steep third **4/4 outlets lipped**. The remaining work is the lost running surface on the steep third; one ~60 m gravel band exists but is not crowned.
 
 | Item | Needs | d3328 |
 |---|---|---|
-| ☠ **4 washed-out drain outlets**, steep third | **Stone lip on each** | ✓ **2/4 lipped** · ⚠ **2/4 awaiting stone** |
+| ✓ **4 washed-out drain outlets**, steep third | **Stone lip on each** | ✓ **4/4 lipped d3597** |
 | ⚠ **4 silted drains**, top of leg | **Shovel morning** | ✓ **4/4 open d3328** |
 | ☠ **Lost surface**, steep third | **Gravel bar trains** | ◐ **One band · not crowned** |
 
@@ -398,7 +398,7 @@ Not crossings — **places on a leg where the road itself was made.** Blast pinc
 
 | Leg | Segment | State |
 |---|---|---|
-| ⚑ **Kisecik direct** | HOME → `SC-ORONTES-ISLAND-B` → Kisecik | ★★★ **Halves the best resource trip on the map.** Block-gated |
+| ⚠ **Kisecik direct** | HOME → `SC-ORONTES-ISLAND-B` → Kisecik | Gravel-founded shortcut struck d3590 · deep-foundation probe open · established ~16 km road remains |
 | ⚑ **Koruhöyük trail** | Kırıkhan split → Koruhöyük | ⚠ **Mostly trail.** ★ Pozzolan and kaolin both sit on it |
 | **Islahiye push** | Koruhöyük → Islahiye ~30–35 km | ✓ **First transit d3338** · camp **`M-24-FOOT-1`** · nickel ◐ suspect |
 | `EAST-L2`+ | `AM-EAST-02` → Afrin and Aleppo | String open · push when the calendar allows |

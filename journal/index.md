@@ -6,10 +6,28 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3580)*
+## Recent days *(append here · @ Day 3598)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3598 | [day-3598.md](days/year-010/week-514/day-3598.md) | ✓ **wood haul** · Silas three-lap · pile 5 ~21.7 kg | **Cal-Y12 D79 · ~20 Mar** |
+| 3597 | [day-3597.md](days/year-010/week-514/day-3597.md) | ✓ **M31 SCOUT CLOSED** · samples HOME · L6 outlets 4/4 | **Cal-Y12 D78 · ~19 Mar** |
+| 3596 | [day-3596.md](days/year-010/week-514/day-3596.md) | ⚠ Payas approach repaired · provisional BQ ~2.0 | **Cal-Y12 D77 · ~18 Mar** |
+| 3595 | [day-3595.md](days/year-010/week-514/day-3595.md) | ✓ **`M-31-A` FOUND** · ~85 m trace · ~11.8 kg samples | **Cal-Y12 D76 · ~17 Mar** |
+| 3594 | [day-3594.md](days/year-010/week-514/day-3594.md) | `MN-SPUR-1` opened · manganese-class float | **Cal-Y12 D75 · ~16 Mar** |
+| 3593 | [day-3593.md](days/year-010/week-514/day-3593.md) | ⚠ rain · wet reads L8–L12 · Erzin reached | **Cal-Y12 D74 · ~15 Mar** |
+| 3592 | [day-3592.md](days/year-010/week-514/day-3592.md) | HOME → Belen · L6 outlet 3/4 | **Cal-Y12 D73 · ~14 Mar** |
+| 3591 | [day-3591.md](days/year-010/week-513/day-3591.md) | ✓ M31 six-day prep · food / crossing / survey kits · **W513 CLOSED** | **Cal-Y12 D72 · ~13 Mar** |
+| 3590 | [day-3590.md](days/year-010/week-513/day-3590.md) | ✓ **KISECIK** · vitriol liquor ~7.4 L · gravel pier struck, depth probe open | **Cal-Y12 D71 · ~12 Mar** |
+| 3589 | [day-3589.md](days/year-010/week-513/day-3589.md) | ✓ **EXPEDITIONS OPEN** · Norima tuned 24→18 · light trail kit | **Cal-Y12 D70 · ~11 Mar** |
+| 3588 | [day-3588.md](days/year-010/week-513/day-3588.md) | ✓ **`NI-REDUCTION-STD-Y12-1`** · ×3 charges staged · prisms bone-dry | **Cal-Y12 D69 · ~10 Mar** |
+| 3587 | [day-3587.md](days/year-010/week-513/day-3587.md) | ⚠ sleeve split → ✓ segmented revision · terminals + matched leads | **Cal-Y12 D68 · ~9 Mar** |
+| 3586 | [day-3586.md](days/year-010/week-513/day-3586.md) | ✓ **`FURNACE-2` + `MUFFLE-1` dimensioned** | **Cal-Y12 D67 · ~8 Mar** |
+| 3585 | [day-3585.md](days/year-010/week-513/day-3585.md) | ✓ **`FORSTERITE-BRICK-BINDER-1`** · ×8 green prisms · **W513 OPEN** | **Cal-Y12 D66 · ~7 Mar** |
+| 3584 | [day-3584.md](days/year-010/week-512/day-3584.md) | ✓ **`CHAR-RETORT-3584`** · one-lap wood haul · **W512 CLOSED** | **Cal-Y12 D65 · ~6 Mar** |
+| 3583 | [day-3583.md](days/year-010/week-512/day-3583.md) | ✓ **`FORSTERITE-TRIAL-1` PASS** · grog ~5.23 kg · ~12.8% loss | **Cal-Y12 D64 · ~5 Mar** |
+| 3582 | [day-3582.md](days/year-010/week-512/day-3582.md) | ⚠ RAIN · ✓ **`GARNIERITE-DRESS`** 18% · ✓ **first nickel button** | **Cal-Y12 D63 · ~4 Mar** |
+| 3581 | [day-3581.md](days/year-010/week-512/day-3581.md) | ✓ **`WOOD-HAUL-3581`** ~22.5 kg · ✓ **`GRAIN-MARK-Y12-1`** | **Cal-Y12 D62 · ~3 Mar** |
 | 3580 | [day-3580.md](days/year-010/week-512/day-3580.md) | ✓ **`HERB-DRILL-3580`** · parsley + allium · gap closed | **Cal-Y12 D61 · ~2 Mar** |
 | 3579 | [day-3579.md](days/year-010/week-512/day-3579.md) | ✓ **`GRAPE-PRUNE-Y12-1`** · cordon · cuttings ×4 | **Cal-Y12 D60 · ~1 Mar** |
 | 3578 | [day-3578.md](days/year-010/week-512/day-3578.md) | ✓ **`GRAPE-SEL-REGEN` · W512 OPEN** · Y8 bank sown | **Cal-Y12 D59 · ~28 Feb** |
@@ -1028,7 +1046,7 @@ Rollups: **[journal/weeks/](weeks/)** · week *N* = days *(N−1)×7+1* through 
 
 ## Years
 
-**Two clocks:** **Folder years** = absolute timeline by **52-week blocks** (presence here). **Cal-Y*n*** = solar calendar (feast/Yule) — see [sun-calendar.md](../checklists/calendar.md). They diverge; both belong in day headers.
+**Two clocks:** **Folder years** = absolute timeline by **52-week blocks** (presence here). `Cal-Yn` = solar calendar (feast/Yule) — see [sun-calendar.md](../checklists/calendar.md). They diverge; both belong in day headers.
 
 | Folder | Weeks | Absolute year |
 |--------|-------|-----------------|

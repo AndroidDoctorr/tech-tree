@@ -60,8 +60,6 @@ The next year or two.
 
 ## Window-gated
 
-- ⚠ **Oak transplant `SC-OAK-01`–`06`** — **Y11 spring, alongside the 26 Feb – 16 Mar sow band.** Six slots, ~18 × 4 m, staked d949. Missed every year since. **Needs a calendar row, not a plan line**
-
 ## `COAST-VACATION-1` — the fun one
 
 Filed d753 and still unspent. The proven ~20 km west loop, run as **pleasure grammar rather than ore recon**. Beach umbrella, wide-loom striped towel, linen swimsuit, picnic kit, sun hat, reed mat, nap.

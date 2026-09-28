@@ -37,7 +37,7 @@ Lab glass is here rather than in resources because each piece is individually bl
 | `BN-MASTER-06-L-1` | BN-06 length master · L-grade ~36 mm | `BN-TRAY-Y12-1` lip | ✓ REF d3537 |
 | `BN-STUD-06-M-1` | BN stud PoC · M-grade · double-ended · RC-06 | Craft peg | ✓ PoC d3539 |
 | `BN-GRUB-06-1` | BN set screw PoC · cup point · RC-06 | Craft peg | ✓ PoC d3539 |
-| `BRIDGE-PROBE-KIT-1` | Spike probe · plumb cord *(scour depth)* · straightedge *(sag)* · notebook | — | Live |
+| `BRIDGE-PROBE-KIT-1` | Spike probe · plumb cord *(scour depth)* · straightedge *(sag)* · notebook | — | Live · **surface inspection only; cannot identify bedrock under gravel** |
 | `WOOD-PLANE-1` | Wood plane, forged d1886 | Bench peg | Live |
 | `SAND-SMOOTH-1` | Sanding roll | Bench roll | Live |
 
@@ -122,7 +122,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles ×5 | Fire-table | ×4 clean · ×1 marginal foot |
+| `P-LAB-CRUC-2` | Crucibles ×5 | Fire-table | ×3 assigned `NI-STD-A/B/C` · ×1 clean · ×1 marginal foot |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |

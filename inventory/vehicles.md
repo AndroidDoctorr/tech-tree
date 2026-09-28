@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME** · Wear: **20** · Last out: **d3568 wood haul** · Last tune: **d3567 routine**
+Map: `CART-YARD` south · Status: **default hauler · HOME · team GO** · Wear: **23** · Last out: **d3597 M31 scout** · Last tune: **d3589 routine**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
 
@@ -38,7 +38,7 @@ Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resou
 ---
 
 ## `COVERED-WAGON-1` *(v1 covered cart)*
-Map: `CART-YARD` south · Status: live, roadworthy · Last: d3093
+Map: `CART-YARD` south · Status: live, roadworthy · Last: **d3598 wood haul (Silas)**
 
 **One axle · two wheels** — the v1 **covered cart**, never named. ID says “wagon” from habit; **cart** is the correct class. ★ **Museum / train lane behind Norima — not to be cannibalised.**
 
@@ -52,11 +52,11 @@ Stowed on a vehicle rather than at a bench, so it travels whether or not anyone 
 
 | ID | Item | Qty | Where |
 |---|---|---|---|
-| `TRAIL-MAINT-SLICE` | Trail maintenance stock | ~1.9 kg at wagon · ~2 kg at bench | Wagon |
+| `TRAIL-MAINT-SLICE` | Trail maintenance stock | **~0.5 kg at wagon · ×0 bench** | Wagon |
 | `EXPED-ROPE-WAGON` | Hemp rope | ~6 m | Wagon |
 | `WAGON-V2-COVER-THATCH-TEMP-1` | Temporary thatch cover · M-08 removable | — | Cart yard peg — **pulled for the ice band** |
 | `CART-POWDER-SAFE-1` | Powder safe | ☠ **×0 caps** — empty at cart and at HOME safe | Cart |
-| `BRIDGE-SPARE-KIT` | Bridge spare kit | ×0 · caps ×6 at safe | Cart |
+| `BRIDGE-SPARE-KIT` | Crossing repair remainder | **×1 oak cleat · ×4 nails · ~8 m lash · ~0.3 kg bitumen** | Wagon |
 
 ⚠ **Both powder stores read zero.** `BLAST-CAP` ×4 are in the HOME powder safe ([resources.md](resources.md)) but the cart safe is empty, so nothing is travelling. That is fine until a trip needs a blast and finds out at distance.
 

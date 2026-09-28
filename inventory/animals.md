@@ -22,9 +22,13 @@ All three carry colour-coded `ANIMAL-BLANKET-SET-1` and run on `TEAM-ROTATION-3`
 `HOLDING-1 B`
 
 ### Silas
-`HOLDING-1 C` · trace-rest
+`HOLDING-1 C`
 
 Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal takes consecutive loaded hauls — a team worked in fixed order wears unevenly.
+
+**d3597 M31 return:** Mabel + Humphrey sound but tired after six days · no heat, swelling or shortened stride · **trace-rest through d3598**. ~2 kg emergency fodder returned to holding.
+
+**d3598:** Silas **three-lap light wood haul** @ T-1 while M+H rested · sound · **team GO d3599**.
 
 ## Goats
 

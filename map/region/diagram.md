@@ -73,6 +73,8 @@ Canonical numbers live in [trails-and-bridges.md](trails-and-bridges.md) and [re
      |
      |   L13  38 km   TQ 2.30 / 2.5   -0.20   ~
      |   . The Castle ~142 -- navigation mark, 10 km foot detour, NOT a stop
+     |   + MN-TURN-1 ~150 -- paired gates
+     |       \-- MN-SPUR-1 5.8 km W --> M-31-A manganese · markers A1/A2/A3
 170  [W] CEYHAN ..................................... waystation · Seyhan split
      |
      |   CAP-0  50 km  TQ 1.50 / 1.5   0.00   ok, sacrificial
@@ -129,7 +131,7 @@ Canonical numbers live in [trails-and-bridges.md](trails-and-bridges.md) and [re
      +-- 16  km ... KISECIK  [own road K-R0..K-R3]
      |              nine metals · native sulfur M-14 · galena M-15
      |              VITRIOL-HEAP-1 acid · ARSENIC hazard · gold placer
-     |              ~9 km if SC-ORONTES-ISLAND-B is ever bridged
+     |              gravel pier STRUCK · bedrock probe OPEN
      |
      +-- 19  km ... donkeys D-27
      +-- 20  km ... COAST: alum M-11 · kelp M-13 · sea salt

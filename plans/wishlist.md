@@ -1,7 +1,6 @@
 Things I want eventually:
 - Spyglass
 - Standard parts of various sizes/specs
-    - Pipes
     - Bevel gears
 - Standard electronic components of various specs
     - Potentiometers
