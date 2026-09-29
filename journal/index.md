@@ -6,10 +6,86 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3598)*
+## Recent days *(append here · @ Day 3680)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3680 | [day-3680.md](days/year-011/week-526/day-3680.md) | ✓ **`FURNACE-2` shell D4** | **Cal-Y12 D161 · ~11 Jun** |
+| 3679 | [day-3679.md](days/year-011/week-526/day-3679.md) | ✓ **`GRAPE-CLUSTER-THIN-Y12-1`** | **Cal-Y12 D160 · ~10 Jun** |
+| 3678 | [day-3678.md](days/year-011/week-526/day-3678.md) | ✓ **`HERB-SEED-CUT-Y12-1`** | **Cal-Y12 D159 · ~9 Jun** |
+| 3677 | [day-3677.md](days/year-011/week-526/day-3677.md) | ✓ **`FURNACE-2` shell D3 · grate · hot-face** | **Cal-Y12 D158 · ~8 Jun** |
+| 3676 | [day-3676.md](days/year-011/week-526/day-3676.md) | ✓ **`FURNACE-2` shell D2 · ×21 brick** | **Cal-Y12 D157 · ~7 Jun** |
+| 3675 | [day-3675.md](days/year-011/week-525/day-3675.md) | ✓ **Wood haul · W525 close** | **Cal-Y12 D156 · ~6 Jun** |
+| 3674 | [day-3674.md](days/year-011/week-525/day-3674.md) | ✓ **Char retort · lime burn** | **Cal-Y12 D155 · ~5 Jun** |
+| 3673 | [day-3673.md](days/year-011/week-525/day-3673.md) | ✓ **`FURNACE-2` shell D1** | **Cal-Y12 D154 · ~4 Jun** |
+| 3672 | [day-3672.md](days/year-011/week-525/day-3672.md) | ✓ **Norima tune · wear 16** | **Cal-Y12 D153 · ~3 Jun** |
+| 3671 | [day-3671.md](days/year-011/week-525/day-3671.md) | ✓ **T-1 wood ~16.9 kg · wear 22** | **Cal-Y12 D152 · ~2 Jun** |
+| 3670 | [day-3670.md](days/year-011/week-525/day-3670.md) | ✓ **Retort · fava pass 2** | **Cal-Y12 D151 · ~1 Jun** |
+| 3669 | [day-3669.md](days/year-011/week-525/day-3669.md) | ✓ **T-1 wood ~16.9 kg · W525 open** | **Cal-Y12 D150 · ~31 May** |
+| 3668 | [day-3668.md](days/year-011/week-524/day-3668.md) | ✓ **`FAVA-PICK` · W524 close** | **Cal-Y12 D149 · ~30 May** |
+| 3667 | [day-3667.md](days/year-011/week-524/day-3667.md) | ✓ **Retort · furnace pad PASS** | **Cal-Y12 D148 · ~29 May** |
+| 3666 | [day-3666.md](days/year-011/week-524/day-3666.md) | ✓ **T-1 wood ~16.9 kg · wear 20** | **Cal-Y12 D147 · ~28 May** |
+| 3665 | [day-3665.md](days/year-011/week-524/day-3665.md) | ✓ **Retort · lime burn · quicklime ~6.7 kg** | **Cal-Y12 D146 · ~27 May** |
+| 3664 | [day-3664.md](days/year-011/week-524/day-3664.md) | ✓ **Pile-7 limestone ~14.2 kg** | **Cal-Y12 D145 · ~26 May** |
+| 3663 | [day-3663.md](days/year-011/week-524/day-3663.md) | ✓ **Lime · sand · char lane empty** | **Cal-Y12 D144 · ~25 May** |
+| 3662 | [day-3662.md](days/year-011/week-524/day-3662.md) | ✓ **`BLOCK-Y10` ×4 · W524 open** | **Cal-Y12 D143 · ~24 May** |
+| 3661 | [day-3661.md](days/year-010/week-523/day-3661.md) | ✓ **Lime burn · sand · W523 close** | **Cal-Y12 D142 · ~23 May** |
+| 3660 | [day-3660.md](days/year-010/week-523/day-3660.md) | ✓ **`FURNACE-2` foundation fill · W523 close** | **Cal-Y12 D141 · ~22 May** |
+| 3659 | [day-3659.md](days/year-010/week-523/day-3659.md) | ✓ **Pozz trib haul ~17.2 kg** | **Cal-Y12 D140 · ~21 May** |
+| 3658 | [day-3658.md](days/year-010/week-523/day-3658.md) | ✓ **`FURNACE-2` foundation D1** | **Cal-Y12 D139 · ~20 May** |
+| 3657 | [day-3657.md](days/year-010/week-523/day-3657.md) | ✓ **×20 fire · socks ×4** | **Cal-Y12 D138 · ~19 May** |
+| 3656 | [day-3656.md](days/year-010/week-523/day-3656.md) | ✓ **`WAGON-V2-TUNE-3656` · wear 15** | **Cal-Y12 D137 · ~18 May** |
+| 3655 | [day-3655.md](days/year-010/week-523/day-3655.md) | ✓ **`BOOT-5` tread refresh ~95%** | **Cal-Y12 D136 · ~17 May** |
+| 3654 | [day-3654.md](days/year-010/week-522/day-3654.md) | ✓ **`WOOD-HAUL-3654` · W522 close** | **Cal-Y12 D135 · ~16 May** |
+| 3653 | [day-3653.md](days/year-010/week-522/day-3653.md) | ✓ **Retort · b7 fire · ×70 FIRED** | **Cal-Y12 D134 · ~15 May** |
+| 3652 | [day-3652.md](days/year-010/week-522/day-3652.md) | ✓ **`WOOD-HAUL-3652` ~16.9 kg** | **Cal-Y12 D133 · ~14 May** |
+| 3651 | [day-3651.md](days/year-010/week-522/day-3651.md) | ✓ **Retort · batch 9 GREEN** | **Cal-Y12 D132 · ~13 May** |
+| 3650 | [day-3650.md](days/year-010/week-522/day-3650.md) | ✓ **`WOOD-HAUL-3650` ~16.9 kg** | **Cal-Y12 D131 · ~12 May** |
+| 3649 | [day-3649.md](days/year-010/week-522/day-3649.md) | ✓ **Calcine · batch 8 · b7 bone-dry** | **Cal-Y12 D130 · ~11 May** |
+| 3648 | [day-3648.md](days/year-010/week-522/day-3648.md) | ✓ **Kisecik serp ~+28.4 kg · ~47.6 @ kerb** | **Cal-Y12 D129 · ~10 May** |
+| 3647 | [day-3647.md](days/year-010/week-521/day-3647.md) | ✓ **b6 fire · ×60 FIRED · Kisecik prep · tune** | **Cal-Y12 D128 · ~9 May** |
+| 3646 | [day-3646.md](days/year-010/week-521/day-3646.md) | ✓ **Retort · PPE audit · b6 bone-dry** | **Cal-Y12 D127 · ~8 May** |
+| 3645 | [day-3645.md](days/year-010/week-521/day-3645.md) | ✓ **`WOOD-HAUL-3645` ~16.9 kg** | **Cal-Y12 D126 · ~7 May** |
+| 3644 | [day-3644.md](days/year-010/week-521/day-3644.md) | ✓ **Retort · batch 5 fire · ×50 FIRED** | **Cal-Y12 D125 · ~6 May** |
+| 3643 | [day-3643.md](days/year-010/week-521/day-3643.md) | ✓ **`WOOD-HAUL-3643` ~16.9 kg** | **Cal-Y12 D124 · ~5 May** |
+| 3642 | [day-3642.md](days/year-010/week-521/day-3642.md) | ✓ **Calcine · batch 7 · char thin** | **Cal-Y12 D123 · ~4 May** |
+| 3641 | [day-3641.md](days/year-010/week-521/day-3641.md) | ✓ **Kisecik calcine · batch 6 ×10 GREEN** | **Cal-Y12 D122 · ~3 May** |
+| 3640 | [day-3640.md](days/year-010/week-520/day-3640.md) | ✓ **Retort · batch 5 bone-dry · W520 close** | **Cal-Y12 D121 · ~2 May** |
+| 3639 | [day-3639.md](days/year-010/week-520/day-3639.md) | ✓ **`WOOD-HAUL-3639` ~17.0 kg** | **Cal-Y12 D120 · ~1 May** |
+| 3638 | [day-3638.md](days/year-010/week-520/day-3638.md) | ✓ **Kisecik serp ~31 kg @ kerb** | **Cal-Y12 D119 · ~30 Apr** |
+| 3637 | [day-3637.md](days/year-010/week-520/day-3637.md) | ✓ **Norima tune · wear 19** | **Cal-Y12 D118 · ~29 Apr** |
+| 3636 | [day-3636.md](days/year-010/week-520/day-3636.md) | ✓ **Batch 5 ×10 GREEN · grog tail** | **Cal-Y12 D117 · ~28 Apr** |
+| 3635 | [day-3635.md](days/year-010/week-520/day-3635.md) | ✓ **`WOOD-HAUL-3635` ~17.0 kg** | **Cal-Y12 D116 · ~27 Apr** |
+| 3634 | [day-3634.md](days/year-010/week-520/day-3634.md) | ✓ **Retort · grog ~6.4 kg · serp ×0** | **Cal-Y12 D115 · ~26 Apr** |
+| 3633 | [day-3633.md](days/year-010/week-519/day-3633.md) | ✓ **`WOOD-HAUL-3633` ~17.2 kg** · **W519 d7** | **Cal-Y12 D114 · ~25 Apr** |
+| 3631 | [day-3631.md](days/year-010/week-519/day-3631.md) | ✓ **`CHAR-RETORT` · lane ~18.6 kg** | **Cal-Y12 D112 · ~23 Apr** |
+| 3630 | [day-3630.md](days/year-010/week-519/day-3630.md) | ✓ **`WOOD-HAUL-3630` ~17.1 kg** | **Cal-Y12 D111 · ~22 Apr** |
+| 3629 | [day-3629.md](days/year-010/week-519/day-3629.md) | ✓ **Retort · batch 3–4 · ×20 GREEN** | **Cal-Y12 D110 · ~21 Apr** |
+| 3628 | [day-3628.md](days/year-010/week-519/day-3628.md) | ✓ **Grog calcine ~5.2 kg** · swarm band close | **Cal-Y12 D109 · ~20 Apr** |
+| 3627 | [day-3627.md](days/year-010/week-519/day-3627.md) | ✓ **×20 brick FIRED · batch 3 ×8 GREEN** | **Cal-Y12 D108 · ~19 Apr** |
+| 3625 | [day-3625.md](days/year-010/week-518/day-3625.md) | ✓ **`WOOD-HAUL-3625` · batch 1 bone-dry** | **Cal-Y12 D106 · ~17 Apr** |
+| 3624 | [day-3624.md](days/year-010/week-518/day-3624.md) | ✓ **`CHAR-RETORT` · `CHAR-LANE` ~17 kg** | **Cal-Y12 D105 · ~16 Apr** |
+| 3623 | [day-3623.md](days/year-010/week-518/day-3623.md) | ✓ **`WOOD-HAUL-3623` ~17.4 kg** · pile **~18 kg** | **Cal-Y12 D104 · ~15 Apr** |
+| 3622 | [day-3622.md](days/year-010/week-518/day-3622.md) | ✓ **Grog calcine · batch 2 · ×20 GREEN** | **Cal-Y12 D103 · ~14 Apr** |
+| 3621 | [day-3621.md](days/year-010/week-518/day-3621.md) | ✓ **`HIVE-3` cups dry** · **`FORSTERITE-BRICK` ×10 GREEN** | **Cal-Y12 D102 · ~13 Apr** |
+| 3620 | [day-3620.md](days/year-010/week-518/day-3620.md) | ✓ **`FORSTERITE-BRICK-BINDER-1` CLOSED · F10 wins** | **Cal-Y12 D101 · ~12 Apr** |
+| 3619 | [day-3619.md](days/year-010/week-517/day-3619.md) | ✓ **`FORSTERITE-BRICK` ×8 common fire** | **Cal-Y12 D100 · ~11 Apr** |
+| 3618 | [day-3618.md](days/year-010/week-517/day-3618.md) | ✓ **`M-22` ~9.6 kg** · **`BAIT-BOX` empty read** | **Cal-Y12 D99 · ~10 Apr** |
+| 3617 | [day-3617.md](days/year-010/week-517/day-3617.md) | ✓ **`H-11` ~11.2 kg** · inbreeding re-map · **`HIVE-3` dry** | **Cal-Y12 D98 · ~9 Apr** |
+| 3616 | [day-3616.md](days/year-010/week-517/day-3616.md) | ✓ **`NI-REDUCTION-STD` common fire · ×3 buttons** | **Cal-Y12 D97 · ~8 Apr** |
+| 3613 | [day-3613.md](days/year-010/week-517/day-3613.md) | **`ORE-HAUL-M31` D4/5 · loaded · Belen** | **Cal-Y12 D94 · ~5 Apr** |
+| 3612 | [day-3612.md](days/year-010/week-516/day-3612.md) | **Collect ~58 kg dressed @ M-31-A** | **Cal-Y12 D93 · ~4 Apr** |
+| 3611 | [day-3611.md](days/year-010/week-516/day-3611.md) | **D2/5 Erzin · rain L8–L12** | **Cal-Y12 D92 · ~3 Apr** |
+| 3610 | [day-3610.md](days/year-010/week-516/day-3610.md) | **`ORE-HAUL-M31` D1/5 · Belen** | **Cal-Y12 D91 · ~2 Apr** |
+| 3609 | [day-3609.md](days/year-010/week-516/day-3609.md) | ✓ **Norima tune · `ORE-HAUL-M31` prep · bait aboard** | **Cal-Y12 D90 · ~1 Apr** |
+| 3606 | [day-3606.md](days/year-010/week-516/day-3606.md) | ✓ **lime haul + Kiln A ×2** · **`QUICKLIME-1` ~5.2 kg** | **Cal-Y12 D87 · ~28 Mar** |
+| 3605 | [day-3605.md](days/year-010/week-515/day-3605.md) | ✓ **`BLOCK-Y10` ×4** · pit ×60 · lime tail | **Cal-Y12 D86 · ~27 Mar** |
+| 3604 | [day-3604.md](days/year-010/week-515/day-3604.md) | ✓ **hematite bloom ~705 g** · **`H-11` bench empty** | **Cal-Y12 D85 · ~26 Mar** |
+| 3603 | [day-3603.md](days/year-010/week-515/day-3603.md) | ✓ **`M31-ASSAY-Y12-1` CLOSED** · A1 production head | **Cal-Y12 D84 · ~25 Mar** |
+| 3602 | [day-3602.md](days/year-010/week-515/day-3602.md) | ✓ **`INBREEDING-METER` egg map** · **`HIVE-3` cups dry** | **Cal-Y12 D83 · ~24 Mar** |
+| 3601 | [day-3601.md](days/year-010/week-515/day-3601.md) | ✓ **herb designate** · ✓ **grape shoot thin** · bird reset | **Cal-Y12 D82 · ~23 Mar** |
+| 3600 | [day-3600.md](days/year-010/week-515/day-3600.md) | ✓ **`HIVE-3` space bar** · wax render ~62 g · roof panel rain read | **Cal-Y12 D81 · ~22 Mar** |
+| 3599 | [day-3599.md](days/year-010/week-515/day-3599.md) | ✓ **farm scare** + **apiary assessment** · modern audit PASS · **`HIVE-3` swarm watch** | **Cal-Y12 D80 · ~21 Mar** |
 | 3598 | [day-3598.md](days/year-010/week-514/day-3598.md) | ✓ **wood haul** · Silas three-lap · pile 5 ~21.7 kg | **Cal-Y12 D79 · ~20 Mar** |
 | 3597 | [day-3597.md](days/year-010/week-514/day-3597.md) | ✓ **M31 SCOUT CLOSED** · samples HOME · L6 outlets 4/4 | **Cal-Y12 D78 · ~19 Mar** |
 | 3596 | [day-3596.md](days/year-010/week-514/day-3596.md) | ⚠ Payas approach repaired · provisional BQ ~2.0 | **Cal-Y12 D77 · ~18 Mar** |

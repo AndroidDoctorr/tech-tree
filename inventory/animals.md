@@ -19,10 +19,10 @@ All three carry colour-coded `ANIMAL-BLANKET-SET-1` and run on `TEAM-ROTATION-3`
 `HOLDING-1 A`
 
 ### Humphrey — jack
-`HOLDING-1 B`
+`HOLDING-1 B` · **partitioned from jenny** — breed only if named
 
 ### Silas
-`HOLDING-1 C`
+`HOLDING-1 C` · **trace / rotation slot** — not breeding stock
 
 Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal takes consecutive loaded hauls — a team worked in fixed order wears unevenly.
 
@@ -38,7 +38,7 @@ Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal t
 |---|---|---|
 | 1 | Doe | **In milk, ~0.45 L/d** |
 | 2 | Billie | West rail |
-| 3 | Buckling kid | ★ **Horns kept** · wether by weaning |
+| 3 | Buckling kid | ★ **Horns kept** · **~14 mo** · growing · ⚑ **wether before Sep rut** |
 
 Milk goes to `GOAT-MILK-CROCK` — ~0.20 L held at the ice vault niche. Cheese and ricotta now run **together** as one routine rather than as separate jobs.
 
@@ -58,11 +58,15 @@ Browse at home reads **~10 days** as of d3483 — `HOLDING-WALK`. That is the nu
 | `TOP-BAR-HIVE-4` / `HIVE-6` | Top-bar | Apiary | Opened d3251 · five bars drawn straight · ⚠ virgin queen, was a cast |
 | `TOP-BAR-HIVE-5` | Top-bar | Apiary | Laying d3252 · +1 comb sealed brood in from `TOP-BAR-HIVE-3` |
 | `TOP-BAR-HIVE-7` | Top-bar | `AG-AP` | `HIVE-2`'s colony driven in d3253, queen crossed · furnished before arrival |
-| `SKEP-1` | Skep, emptied | Beside `TOP-BAR-HIVE-5` | Entrance open, brood hatching out · rendered d3265 |
-| `SKEP-2` | Skep, emptied | Beside `TOP-BAR-HIVE-7` | Entrance open, brood hatching out · rendered d3274 |
+| `SKEP-1` | Skep, bait | Beside `TOP-BAR-HIVE-5` | Rendered d3265 · light-draft comb · bait service |
+| `SKEP-2` | Skep, bait | Beside `TOP-BAR-HIVE-7` | Rendered d3274 · scalded basket · bait service |
 | `SPARE-HIVE-1` | Top-bar, spare body | Row end | Built d3259 · baited with old comb, shaded, off the ground · bait box now, artificial-swarm box on demand |
 | `TOP-BAR-SET-SPARE` | Bar sets ×2, jig kept | Craft wing | Live |
 
 `HIVE-SCALE-1` is plant, not an animal — [infrastructure.md](infrastructure.md).
 
-⚠ `BAIT-BOX` is **not built** and is required before Dörtyol. Every expedition is a genetic import, and the inbreeding meter opened at ~15% brood loss on d3275. That is a task, so it lives in [now.md](../now.md), not here.
+### `BAIT-BOX` *(portable · d3285)*
+
+**@ wagon garage / stowed d3628** when swarm band closed · set out again next **21 Mar** band · old-comb lure · **not `SPARE-HIVE-1`**
+
+Wagon grammar: strap for exped · **set back out @ row after return** *(d3617)* · read for occupancy through **20 Apr**.

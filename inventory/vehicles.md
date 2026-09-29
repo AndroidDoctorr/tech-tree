@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **default hauler · HOME · team GO** · Wear: **23** · Last out: **d3597 M31 scout** · Last tune: **d3589 routine**
+Map: `CART-YARD` south · Status: **HOME · under cover** · Wear: **26** · Last out: **d3618 `M-22` haul** · Last tune: **d3609**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
 
@@ -52,7 +52,7 @@ Stowed on a vehicle rather than at a bench, so it travels whether or not anyone 
 
 | ID | Item | Qty | Where |
 |---|---|---|---|
-| `TRAIL-MAINT-SLICE` | Trail maintenance stock | **~0.5 kg at wagon · ×0 bench** | Wagon |
+| `TRAIL-MAINT-SLICE` | Trail maintenance stock | **~1.4 kg aboard · bench tail spent** | Wagon |
 | `EXPED-ROPE-WAGON` | Hemp rope | ~6 m | Wagon |
 | `WAGON-V2-COVER-THATCH-TEMP-1` | Temporary thatch cover · M-08 removable | — | Cart yard peg — **pulled for the ice band** |
 | `CART-POWDER-SAFE-1` | Powder safe | ☠ **×0 caps** — empty at cart and at HOME safe | Cart |

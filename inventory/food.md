@@ -26,7 +26,9 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `FAVA-GREEN-Y10-FINAL` | Fava, tender shelled · **eat / short brine** | ~0.50 kg | Cool shelf | d3325 | d3325 |
+| `FAVA-GREEN-Y12-1` | Fava, green shelled · **`FAVA-PICK-3668` + pass 2 d3670** | **~3.5 kg** | Cool step | d3668 | d3670 |
 | `FAVA-DRYING-Y10-FOOD` | Fava, mature food beans · drying, not seed | ~0.25 kg wet-sort | Drying rack | d3325 | d3325 |
+| `FAVA-DRYING-Y12-FOOD-1` | Fava, mature food · drying rack | **~0.35 kg** | Drying rack | d3668 | d3668 |
 | `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | ~170 g | Cool cellar step crock | d3492 | d3509 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
 | `P-17-LENTIL-Y10` | Lentil · Y10 harvest | ~126 g | Horreum A pulse bay | d3486 | d3498 |
@@ -114,7 +116,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.435 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3598 |
-| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | ~0.45 kg | Lamp jar · culina | d3251 | d3539 |
+| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.43 kg** | Lamp jar · culina | d3251 | d3672 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

@@ -50,7 +50,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `CULINA-HERB-BED` | Coriander · rosemary trace · parsley · allium | Culina herb bed | d3576 / d3580 | **Emerging band** |
+| `CULINA-HERB-BED` | Coriander · rosemary · parsley · allium | Culina herb bed | d3576 / d3580 | **Seed plants cut d3678** · kitchen from remainder · **parsley Y13 ×3 standing** |
 | `HERB-LAYER-2` | ×4 rosemary · ×4 thyme re-pegged | Herb margin | d3576 | Layering · sever autumn |
 | `MINT-CROCK-2` | Mint ×2 divisions | Culina bed | d3576 | Sunk crock |
 
@@ -58,7 +58,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Planted | State |
 |---|---|---|---|---|
-| `P-03-TRELLIS` | Grape, cordon-trained | P-03 trellis @ T-2 | — | ✓ **`GRAPE-PRUNE-Y12-1` d3579** · cluster thin Mar–Apr |
+| `P-03-TRELLIS` | Grape, cordon-trained | P-03 trellis @ T-2 | — | ✓ **`GRAPE-CLUSTER-THIN-Y12-1` d3679** · **~32 clusters** · pick Aug–Oct |
 | `P-03-REGEN-Y12-1` | Grape select regen · Y8 bank grow-out | T-2 north lip · ~2 m strip | d3578 | **Sown thick** · seed pick Aug–Oct |
 | `P-03-CUT-Y12-1` | Grape hardwood cuttings ×4 | T-2 north lip sand-mulch | d3579 | Buried heel · spring strike read |
 | `P-02-OLIVE` | Olive terrace | P-02 | — | Standing · Nov pick and press band |

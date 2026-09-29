@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHAR-LANE` | Charcoal, oak · green | **~29.7 kg** | Char lane | | d3588 |
-| `CHAR-RESERVE-C` | Charcoal reserve | **~15 kg** | Store C vault | | d3510 |
-| `WOOD-OAK-P5` | Oak, green | **~21.7 kg @ pile 5** | Pile 5 | | d3598 |
+| `CHAR-LANE` | Charcoal, oak · green | **~22.55 kg** | Char lane | | d3677 |
+| `CHAR-RESERVE-C` | Charcoal reserve | **~9.7 kg** | Store C vault | | d3665 |
+| `WOOD-OAK-P5` | Oak, green | **~11.2 kg** @ pile 5 | Pile 5 | | d3680 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | ~8.08 kg | Berm | | d3472 |
@@ -28,21 +28,31 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
-| `GRAVEL-1` | Gravel aggregate | ~19.2 kg | Pile 4 south band | | d3374 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | ~15.4 kg | Pile 4 apron | | d3472 |
-| `SAND-RIVER-GROG` | River sand / grog | ~1.2 kg | Fabrica SW margin | | d3461 |
-| `POZZ-TUFF-1` | Pozzolan / tuff | ☠ **×0** — spent on the seventh block d3280 | Pile 4 north band | | d3280 |
+| `GRAVEL-1` | Gravel aggregate | **~6.8 kg** | Pile 4 south band | | d3662 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~8.03 kg** | Pile 4 apron | | d3680 |
+| `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
+| `POZZ-TUFF-1` | Pozzolan / tuff | **~11.4 kg** @ pile 4 north · **~4 kg stage tail** | Pile 4 north band | | d3660 |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | ~1.6 kg | Pile 7, camp north face | d3374 | d3464 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~4.62 kg** | Lime trough | d3390 | d3588 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **×0 class** | Pile 7, camp north face | d3374 | d3674 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~7.8 kg** | Lime trough | d3390 | d3680 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
-| `LIME-PUTTY-1` | Lime putty | ~0.10 kg | Lime trough | | — |
+| `LIME-PUTTY-1` | Lime putty | **~0.12 kg** | Lime trough | | d3680 |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
+
+## Herb seed — dry queue *(not vault)*
+
+| ID | Item | Qty | Where | Made | Last |
+|---|---|---|---|---|---|
+| `HERB-SEED-CORI-Y12-1` | Coriander seed crop · designated ×6 · wet cut | **~220 g wet** | Culina porch bag | d3678 | d3678 |
+| `HERB-SEED-ALLIUM-Y12-1` | Allium seed crop · designated ×4 · wet cut | **~95 g wet** | Culina porch bag | d3678 | d3678 |
+| `HERB-SEED-THYME-Y12-1` | Thyme seed · mother-row tops · wet | **~35 g wet** | `EVAP-RACK-1` hang | d3678 | d3678 |
+
+Thresh and winnow move clean seed to [seed-vault.md](seed-vault.md); until then **no ark**.
 
 ## Clay bodies and slips
 
@@ -50,7 +60,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash d3331** | **~11.2 kg** | Chem porch jar | d3331 | d3587 |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash d3331** | **~2.52 kg** | Chem porch jar | d3331 | d3651 |
 | `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | ~0.15 kg | Chem porch jar | d3331 | d3332 |
 | `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | ~0.35 kg wet | Chem porch separate peg | d3331 | d3331 |
 | `KAOLIN-SLIP-4` | Kaolin slip · ★ **best** — CAND-4 wash | ~0.42 kg | Chem porch jar | | d3332 |
@@ -72,7 +82,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CRUCIBLE-GROG` | Crucible grog, reclaim | ×0 | Berm | | d2504 |
 | `FT-Y8-FLOOR-TILE` | FT-Y8 floor tile, fired PASS · ⚠ FT-Y8-4 and FT-Y8-12 marginal | ×25 *(−×16 laid, culina backsplash checker)* | Bench stack | | d2723 |
 | `PORCELAIN-CHIP-SET-1` | Porcelain chip reference set · stoneware rank | ×10 | `CRAFT-CABINET-2` archive drawer | | d3073 |
-| `FORSTERITE-BRICK-TRIAL-Y12-1` | Bone-dry refractory prisms · **F05 / F10 / F15 / R10 ×2 each** · A thermal shock · B section/crush | **×8 BONE-DRY** | Covered firing queue | d3585 | d3588 |
+| `FORSTERITE-BRICK-TRIAL-Y12-1` | Fired binder ladder · F05 / F10 / F15 / R10 · tested d3620 | **×8 archive** | `CRAFT-CABINET-2` drawer | d3585 | d3620 |
+| `FORSTERITE-BRICK-STD-Y12-1` | Production recipe · **90% graded forsterite grog · 10% dry kaolin** · F10 winner | **×90 FIRED** | Sand bank + stack | d3620 | d3657 |
 | `TC-SLEEVE-SET-1` | Thermocouple electrical ceramic · **18 × 11 mm segments · twin 2 mm bore · 3 mm web** · final set ×17 working + ×3 spare | **×12 GREEN · ×8 owed** | Slatted drying board | d3587 | d3587 |
 | `TC-COLD-BLOCK-1` | Thermocouple isothermal terminal block · **60 × 35 × 12 mm** | **×1 GREEN** | Slatted drying board | d3587 | d3587 |
 
@@ -83,7 +94,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | ~34.75 kg | v1 chem, isolated | | d3008 |
 | `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
-| `H-11-HEMATITE` | Hematite | **~2.85 kg @ pile 4** | Pile 4 | | d3572 |
+| `H-11-HEMATITE` | Hematite | **~11.2 kg @ pile 4** | Pile 4 | | d3617 |
+| `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~9.6 kg** | Pile 4 tray | d3618 | d3618 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -94,14 +106,23 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ★ `GARNIERITE-DRESS-M24-1` | Garnierite, **dressed green fraction** · waxy fracture-fill · **~4.6% metal won** | **~5.05 kg** | `ORE-BAY-1` | d3582 | d3588 |
 | `GARNIERITE-FEED-REF-Y12-1` | Homogenized garnierite composite reference · sealed fourth quarter | **75.00 g** | Assay shelf | d3588 | d3588 |
 | `NI-REDUCTION-STD-Y12-1` | Standard nickel reduction charges A/B/C · each **75 ore / 15 Cu / 54 char / 12 lime g** | **×3 STAGED** | Chem porch dry jars + collector bags | d3588 | d3588 |
-| ★ `M31-A1` | Manganese-class sample · cleanest dense black seam | **~4.2 kg** | Ore bay, separate sack | d3595 | d3597 |
-| `M31-A2` | Manganese-class sample · banded black-brown ore | **~3.6 kg** | Ore bay, separate sack | d3595 | d3597 |
-| `M31-A3` | Manganese-class sample · wall / lower-grade boundary | **~2.8 kg** | Ore bay, separate sack | d3595 | d3597 |
-| `M31-FLOAT-1` | Manganese-class float sequence · fan to source | **~1.2 kg** | Ore bay, separate sack | d3595 | d3597 |
-| ★ `SERPENTINITE-REJECT-M24-1` | Host serpentinite, raw · **forsterite feedstock** · ☠ **must be dead-burned before use — ~12.8% bound water** | **~17.9 kg** | `ORE-BAY-1` kerb | d3582 | d3585 |
-| ★★ `FORSTERITE-GROG-1` | **Dead-burned serpentinite** · buff-grey · rings · no slake · ★ **refractory grog for `FURNACE-2` + crucibles** | **~3.59 kg** | Kiln yard, covered | d3583 | d3587 |
+| ★ `M31-A1` | Manganese-class sample · cleanest dense black seam | **~4.15 kg** | Ore bay, separate sack | d3595 | d3603 |
+| `M31-A2` | Manganese-class sample · banded black-brown ore | **~3.55 kg** | Ore bay, separate sack | d3595 | d3603 |
+| `M31-A3` | Manganese-class sample · wall / lower-grade boundary | **~2.75 kg** | Ore bay, separate sack | d3595 | d3603 |
+| `M31-FLOAT-1` | Manganese-class float sequence · fan to source | **~1.15 kg** | Ore bay, separate sack | d3595 | d3603 |
+| ★ **`M31-A1-DRESS-Y12-1`** | Manganese ore · dressed production head @ `M-31-A` | **~37 kg** | `ORE-BAY-1` kerb | d3612 | d3615 |
+| **`M31-A2-DRESS-Y12-1`** | Manganese ore · dressed blend sack | **~17 kg** | `ORE-BAY-1` kerb | d3612 | d3614 |
+| **`M31-FEED-COMPOSITE-Y12-1`** | Roasted Mn feed · homogenized · sealed reference | **~100 g** | Chem porch | d3615 | d3615 |
+| **`FMN-STD-A/B/C`** | Ferromanganese trial charges · sealed jars | **×3 @ 191 g staged** | Chem porch | d3615 | d3615 |
+| ★ `SERPENTINITE-REJECT-M24-1` | Host serpentinite, raw · **M24 dress reject** · forsterite feedstock | **×0** | `ORE-BAY-1` kerb empty | d3582 | d3634 |
+| `SERPENTINITE-RAW-KISECIK-Y12-1` | Kisecik ophiolite serpentinite · raw · **forsterite feed** · dressed **`K-SERP-RIDGE-1` d3638 · d3648** | **~41.6 kg** | `ORE-BAY-1` kerb | d3638 | d3649 |
+| ★★ `FORSTERITE-GROG-1` | **Dead-burned serpentinite** · buff-grey · rings · no slake | **~3.7 kg** | Kiln yard, covered | d3583 | d3680 |
+| `FORSTERITE-BRICK-Y12-1` | Production forsterite brick · **`FORSTERITE-BRICK-STD-Y12-1`** · **~230×115×45 mm** | **×26 FIRED** *(×53 @ shell)* | Kiln yard stack | d3621 | d3680 |
 | `SERPENTINITE-RAW-CONTROL-1` | Raw serpentinite, unfired · **comparison control — do not use** | ~0.40 kg | Bench shelf, labelled | d3583 | d3583 |
 | ★ `NI-CU-BUTTON-Y12-1` | Cu-Ni-**Fe** button · first nickel won · ⚠ **magnetic — iron came with it** | **~61.4 g** | Bench vial | d3582 | d3582 |
+| ★ **`NI-STD-A`** | Ni reduction std charge A · **`NI-REDUCTION-STD-Y12-1-3616`** | **~18.51 g** | Chem vial A | d3616 | d3616 |
+| **`NI-STD-B`** | Ni reduction std charge B | **~18.38 g** | Chem vial B | d3616 | d3616 |
+| **`NI-STD-C`** | Ni reduction std charge C | **~18.62 g** | Chem vial C | d3616 | d3616 |
 | `NICKEL-HYPERACCUM-ASH-M24-1` | Ni-indicator plant ash · burned · archive only | ~16 g | Chem porch sealed shelf | d3339 | d3510 |
 | `CACHE-MG1-1` | Ore, dressed and cairned **at the face** — head start on the next run | ~15 kg | MG-1 face | | d3227 |
 
@@ -110,6 +131,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **~71 g** | — | | d3588 |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~80 g @ mount** | `FORGE-D` | Y12 | d3677 |
 | `CS-BAR-Y12-1` | Carbon steel bar · hardened + tempered | **~847 g** | Forge peg | Y12 | d3571 |
 | `CS-BAR-Y12-2` | Carbon steel bar · hardened + tempered | **~848 g** | Forge peg | Y12 | d3573 |
 | `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
@@ -163,7 +185,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `GLASS-TINT-LENS-Y10-D` | Tint lens spare | **`SUNGLASS-LENS-Y10-3` lapped · tint D matched · spare peg** | Spare peg | d3430 | d3517 |
 | `PAPER-SHEET-Y9` | Paper, flax · `SHEET-Y9-FLAX-29…32` · coil interleaving stock | ~9 sheets | Chem-lab rack | | d3503 |
 | `PAPER-SHEET-Y10-FLAX-1…3` | Paper, flax · roof R&D pulls | ×2 drying @ rack · ×1 on panel | Chem-lab rack | d3472 | d3472 |
-| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F1** | **10 coupons** @ chem porch south lean · **rain read d3523** | Chem porch | d3472 | d3523 |
+| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F1** | **10 coupons** @ chem porch south lean · **rain read d3600** | Chem porch | d3472 | d3600 |
 | `BITUMEN-ROOF-TRIAL-1` | Bitumen · roof-grade trial crock · skimmed bulk | **~0.78 kg** | Chem porch | d3472 | d3507 |
 | `SAND-ROOF-FINE-1` | Sand, screened fine · roof surfacing | ~325 g | Chem porch jar | d3472 | d3506 |
 
@@ -173,7 +195,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 |---|---|---|---|---|---|
 | `FLAX-TOW-BANK` | Flax tow | ~103 g | Wing shelf | | d3505 |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
-| `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~475 m** | Craft wing peg | d3505 | d3587 |
+| `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~461 m** | Craft wing peg | d3505 | d3657 |
 | `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
 | `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-THREAD-Y10-1` | Hemp thread · cover weft | ~75 m | Craft wing peg | d3382 | d3400 |
@@ -200,8 +222,8 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `DEER-HIDE-1` | Deer hide, **tanned** | ~0.52 m² | Horreum B `LEATHER-STOCK-PEG-1` | | d3436 |
-| `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | ~0.09 m² | Horreum B | | d3169 |
-| `HIDE-SCRAP` | Hide scrap, tail | ~0.14 m² | — | | d3436 |
+| `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | **~0.07 m²** | Horreum B | | d3655 |
+| `HIDE-SCRAP` | Hide scrap, tail | **~0.09 m²** | — | | d3655 |
 | `WEATHER-STRIP-LEATHER-1` | Weather strip, ~25 mm | ~4.6 m | — | | d3167 |
 | `MACHINE-BELT-LEATHER-KIT-1` | Machine belt stock — WW · drill · trip tail | — | `BELT` peg | | d3052 |
 | `TRAIL-GEAR-LEATHER-1` | Belt v2 blank · waterskin patch · lash tabs ×4 | — | Vestiarium trail peg | | d2964 |
@@ -349,8 +371,8 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `WAX-Y10-RENDER-1` | Beeswax, clean cake — ~850 g `SKEP-1` + ~190 g `SKEP-2` | ~0.62 kg | Wax store | | d3408 |
-| `COMB-TO-RENDER` | Comb awaiting render · the two torn on the cut-out, plus `SKEP-2`'s | ~90 g | Wax queue | | d3265 |
+| `WAX-Y10-RENDER-1` | Beeswax, clean cake — render stock | **~682 g** | Wax store | | d3600 |
+| `COMB-TO-RENDER` | Comb awaiting render | **×0** — consumed d3600 | — | | d3600 |
 
 Y10's binding constraint, closed. Yield per kg of comb is low because old brood comb is mostly cocoon and propolis — honey comb off top bars is the rich fraction. See [bees.md](../government/procedures/bees.md).
 
@@ -367,7 +389,7 @@ Rows that sat in the v1 sections ported so far but are not resources. Recorded s
 | [food.md](food.md) | Honey · smoked meat and fish · stew jars · oil · vinegar · brined olives · salt · ice · grain and pulse eating stock |
 | [seed-vault.md](seed-vault.md) | All elite and select banks · `EMMER-SOW-Y9` · `P-FAVA-Y9` · `HEMP-SEL-Y10` · herb reserves |
 | [processing.md](../government/procedures/processing.md) | `MELT-PROTOCOL-2` — a method, never stock |
-| [now.md](../now.md) | `BAIT-BOX` **not built** — a task, not an item |
+| [bees.md](../government/procedures/bees.md) | Apiary roster · **`BAIT-BOX` @ row when band open** |
 
 **Dropped, not lost.** Closed batches and spent kits — `ACORN-LEACH-Y6-1` through `Y8-6`, `TRAIL-GRAVEL-KIT-1/4/7`, `KAOLIN-CAND-1/2/4-EAST`, `PORCELAIN-BODY-MIX-3/4/5`, `FELDSPAR-CHIP-SET-1`, `KELP-DRY-STAGING`, `CU-WIRE-STOCK-1`, `WIRE-CU-3`, `EM-COIL-2`, the Y6–Y9 bread bakes, and the d2818–d2830 construction read rows — are journal records, not stock. See the retirement rule in [index.md](index.md).
 

@@ -40,9 +40,14 @@ Live as of **d3582 · Cal-Y12 D63 · ~4 Mar**. *Swept d3582 — the file had sto
 
 - ✓ **Nickel opened d3582** — `GARNIERITE-DRESS-M24-1` ~5.35 kg · first button `NI-CU-BUTTON-Y12-1` ~61.4 g at ~4.6% metal won
 - ✓ ★★ **`FORSTERITE-TRIAL-1` PASS d3583** — ~5.23 kg dead-burned grog · ~12.8% loss · ring + water shock PASS
-- ⚑ **`FORSTERITE-BRICK-BINDER-1`** — ✓ ×8 bone-dry d3588: F05 / F10 / F15 / R10 pairs · **one common firing next**
+- ✓ **`FORSTERITE-BRICK-BINDER-1` CLOSED d3620** · **F10 → `FORSTERITE-BRICK-STD-Y12-1`**
+- ⚑ **`FORSTERITE-BRICK`** — **×40 FIRED** · plan **~4–6 more ×10 batches** for **`FURNACE-2` + `MUFFLE-1` hot faces**
+- ⚑ **`FORSTERITE-GROG-1` ~6.4 kg** — **~one ×10 batch** · **serpentinite kerb ×0 — haul feed next**
+- ⚠ **`WOOD-OAK-P5` ~0.7 kg** · **`CHAR-LANE` ~11 kg**
+- ⚠ **`WOOD-OAK-P5` ~16 kg** — runway OK for hearth + retort band
+- ⧗ **Apiary daily through ~20 Apr** — **`HIVE-3` cups** · **`BAIT-BOX`**
 - ✓ **`NI-REDUCTION-STD-Y12-1` staged d3588** — ×3 identical charges, each **75 ore / 15 Cu / 54 char / 12 lime g** · composite feed reference sealed · next: common fire and button-gain comparison
-- ⚒ **`M31-ASSAY-Y12-1`** — A1 / A2 / A3 / float remain separate · rank manganese response and gangue before any production haul
+- ✓ **`M31-ASSAY-Y12-1`** — closed d3603 · **A1 head** · ⚑ **`ORE-HAUL-M31` + bait box ~1 Apr**
 - ⚒ **Cu-Ni stepped series → `CONSTANTAN`** — d3242 method: cast the ladder, take the one that moves least on the bridge
 - ⧗ ★★★ **`THERMOCOUPLE-1`** — cold hardware d3587: **×12 of ×20 sleeve segments GREEN; ×8 owed** · block GREEN · brass posts + matched Cu lead pair complete · hot pair waits on iron + constantan · read by `POTENTIOMETER-1`, galvanometer as null detector · calibration: ice / boil / Sn 232 / Zn 420, then upper-range cone cross-check
 - ✓ **`FURNACE-2` + `MUFFLE-1` dimensioned d3586** — see [plan](furnace-2-muffle-1.md) and the two-furnace note below
@@ -93,6 +98,12 @@ Live as of **d3582 · Cal-Y12 D63 · ~4 Mar**. *Swept d3582 — the file had sto
 **Acid** `ACID-VITRIOL-1/2` d3317/d3335 · retorts `A`–`H` · **`CUPEL-HEARTH-1`** commissioned d3300 · **`KILN-D-STACK-2`** d3324 · **`GEN-WW-2`** live d3310, load line d3336 · **`ARK-JAR` ×4 certified** d3457 · **`BASALT-DATUM` triplet** + fine lap d3498 · **`METROLOGY-CELLAR-1`** d3502 · **`GEAR-SPRINT-1`** d3524 · **`SCREW-LATHE-1`** d3529 · **`BORING-MILL-1`** + both torque boxes d3553 · **`STANDARDS-CODE-FILING-Y12-1`** d3558 · **`PALISADE-2`** d3570 · **`STEEL-PATH-SLATE-Y12-1`** d3573 · **`SPRING-SOW-Y12`** d3576–3580 · **`GRAPE-PRUNE-Y12-1`** d3579 · **`WOOD-HAUL-3581`** · **`GRAIN-MARK-Y12-1`** d3581 · **`GARNIERITE-DRESS-Y12-1`** d3582
 
 ✓ ☠ **`BAIT-BOX` is no longer homeless** — *it was filed unsolved from d3285 to d3582.* **`MN-RUN-ERZIN` is where it goes.**
+
+---
+
+## ⟳ Campus comfort — not urgent
+
+- ✓ **Daily sock rotation** — **`CL-SOCK-Y12 ×4` d3657** · one pair/day + wash cycle · **`BOOT-5`** less clammy
 
 ---
 

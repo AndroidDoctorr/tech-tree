@@ -8,13 +8,13 @@
 
 | Hive | Type | State |
 |---|---|---|
-| **HIVE-3** | **TOP BAR** | ★ **CUT-OVER COMPLETE d3259** — all ties out, every comb welded, **linen came away just ahead of the propolis** · ★ **THE BROOD BANK** · **the bar opened into the nest is HALF DRAWN — building, not packing to leave** · **cups all dry on both passes** · ⚠ **still the swarm risk of the row; impulse runs to midsummer** |
+| **`HIVE-3`** | **TOP BAR** | ★ **brood bank** · **d3600:** empty bar **into brood edge** · **cups dry** · ⚠ **split on charge only** · scale **climbing** @ **`HIVE-SCALE-1`** |
 | **SPARE-HIVE-1** | **TOP BAR** | ✓ **BUILT d3259** — baited with old comb, shaded, off the ground at the row end · **bait box now; the artificial-swarm box the hour HIVE-3 charges a cup** |
-| **HIVE-5** | **TOP BAR** | **HIVE-1's colony, **driven** d3243 · **LAYING d3252** · **+1 comb emerging brood from HIVE-3 — now out |
-| **HIVE-6** | **TOP BAR** | A cast took the bait box d3244 · ★★ **LAYING d3262 — the EGG POSTURE dated her mating flight to d3257, the afternoon I called it from the doorstep** · ✓ ★★★ **MARKED-COMB TEST CLOSED d3275: 412 eggs → 351 sealed, ~15% loss, skipped cells filled in evenly** → **KEEP HER.** *~1 mate in 5 was kin* |
-| **HIVE-7** | **TOP BAR** | **HIVE-2's colony, **driven** d3253 · ★★ **POLLEN IN AT 4 DAYS — vs HIVE-5's FORTNIGHT. One variable: the box was FURNISHED before they arrived. The doctrine is now measured |
-| **SKEP-1** | **Emptied basket | **Beside HIVE-5, entrance open, brood hatching · **RENDER ~d3265** |
-| **SKEP-2** | ✓ **RENDERED d3274** | ☠ **~190 g only — WAX MOTH.** *Nine days longer and warmer than SKEP-1* · **basket scalded, back in service as a bait skep** |
+| **HIVE-5** | **TOP BAR** | **HIVE-1's colony, **driven** d3243 · **LAYING d3252** · **d3599:** even pattern · stores OK · no charged cups |
+| **HIVE-6** | **TOP BAR** | A cast took the bait box d3244 · ★★ **LAYING d3262** · ✓ **KEEP HER** *(marked-comb test d3275)* · **d3599:** queenright · strong enough for full entrance |
+| **HIVE-7** | **TOP BAR** | **HIVE-2's colony, **driven** d3253 · ★★ **POLLEN IN AT 4 DAYS** doctrine · **d3599 @ `AG-AP`:** brood widening · entrance **reduced** |
+| **SKEP-1** | **Emptied basket** | Beside **`HIVE-5`** · rendered d3265 · **bait skep** · comb in light draft |
+| **SKEP-2** | **Bait skep** | Beside **`HIVE-7`** · rendered d3274 · basket scalded · **bait service only** |
 
 > ★★ **EVERY COLONY IS ON MOVABLE COMB. Aim stated 22 Mar, closed 9 Apr.**
 >
@@ -361,8 +361,9 @@
 
 ## Open
 
-- ✓ **HIVE-3 ties out — DONE d3259.** ★ **A WEEK IS THE RIGHT NUMBER: welded to the bar, and the linen came out just ahead of the propolis. Three or four days more and it is glued into brood comb**
-- ✓ ★★ **HIVE-6 LAYING d3262 — ALL FIVE COLONIES QUEENRIGHT.** ⚠ **Pattern read ~d3269** · ⚠ **hefted LIGHT d3263 — fed, entrance reduced, RE-HEFT d3265**
+- ✓ **`APIARY-ASSESSMENT-Y12-1` d3599** — kit · doorstep · four opens · modern-design audit **PASS**
+- ✓ **`INBREEDING-METER-Y12-1` re-map d3617** — **348/403 sealed · ~13% excess stable**
+- ✓ **Genetic import band d3628** — **no swarm in `BAIT-BOX`** · **`BAIT-BOX` stowed** · exped bait next year / if re-map worsens
 - ★★ **HIVE-SCALE-1 — platform under HIVE-3, same hour daily.** *Three years overdue*
 - ⚠ ★★ **CARRYING CAPACITY + THE JUNE–AUGUST DEARTH.** *The apiary is a POPULATION and the real constraint is FORAGE, not boxes — bees fly a couple of miles, so past some point another hive only divides the same nectar.* **Spring here is a flood and midsummer a desert.** **Plant forage** *(lemon balm, and anything that blooms in the gap)*
 - ✓ **SPARE-HIVE-1 built d3259** — the gap is closed

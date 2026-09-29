@@ -478,6 +478,11 @@ Map: ditch W · Live
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 
+### `FURNACE-2` — melt furnace *(build)*
+Map: Fabrica **south court** · **`FORGE-D`** lean-to margin · Opened **d3658**
+
+**Common datum:** **900 × 900 × 150 mm** @ plan d3586 · south service · pad **PASS d3667** · **`FURNACE-2-SHELL-D4-3680`** — **hot-face 3 lifts · backup annulus pack · exhaust ghost** · **`×26 FIRED` bank** · ⚑ **crown · throat cut · hearth face**
+
 ### `WAGON-GARAGE-1` — wagon garage
 Map: `CART-YARD` south · Built: **stem d3375 · frame d3376–3378 · roof d3379** · Pad/drain: d3283
 

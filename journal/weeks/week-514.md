@@ -1,6 +1,6 @@
 # Week 514
 
-**Status:** **OPEN @ Day 3598** · **Days 3592–** · **Cal-Y12 D73+** · **~14 Mar+**
+**Status:** **CLOSED @ Day 3598** · **Days 3592–3598** · **Cal-Y12 D73–D79** · **~14–20 Mar**
 
 **Theme:** **Manganese scout · west-road wet reads · prepared crossing repair**
 

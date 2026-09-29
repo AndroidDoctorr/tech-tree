@@ -66,9 +66,10 @@ Individuated and condition-bearing, so they follow the tool schema rather than e
 | ID | Item | Where | State |
 |---|---|---|---|
 | `MK-0` | Field kit v2 · ditty bag carries `GLASS-BOTTLE-MED-1`, ~45 ml vinegar wash, `FIELD-MED-2` | Worn | Live · d3129 |
-| `BOOT-5` | ★ **Primary boot** — hardened/soft, steel toe, tread sandwich, fur lip, hemp 4-strand with aglets | Worn | Live |
+| `BOOT-5` | ★ **Primary boot** — hardened/soft, steel toe, tread sandwich, fur lip, hemp 4-strand with aglets · **tread refresh d3655** | Worn | Live |
 | `BOOT-4` | Backup boot | Vestiarium peg | Live |
 | `CL-BOXER-Y9-1` · `CL-TUNIC-5` · `CL-TABARD-2` | Clothing | Worn | Live |
+| `CL-SOCK-Y12-1` … **`CL-SOCK-Y12-4`** | Linen foot-wrap pairs · MK-ribbon tie · rotation peg + wash pair | Vestiarium · C-0 | Live · d3657 |
 | `SLIPPER-1` | Pair · purple madder + woad hair-on goat, soft scrap sole | Domus `SLIPPER-PEG-1` | Live |
 | — | Waterskin · trail staff when marching | Worn | Live |
 
