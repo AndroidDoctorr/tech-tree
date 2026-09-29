@@ -6,10 +6,56 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3728)*
+## Recent days *(append here · @ Day 3787)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3787 | [day-3787.md](days/year-011/week-541/day-3787.md) | ✓ **Acorn roast · hemp spin** | **Cal-Y12 D268 · ~26 Sep · W541 close** |
+| 3786 | [day-3786.md](days/year-011/week-541/day-3786.md) | ✓ **Soak 4 · heckle** | **Cal-Y12 D267 · ~25 Sep** |
+| 3784 | [day-3784.md](days/year-011/week-541/day-3784.md) | ✓ **L6 crown finish** | **Cal-Y12 D265 · ~23 Sep** |
+| 3783 | [day-3783.md](days/year-011/week-541/day-3783.md) | ✓ **Trail OUT · L6 camp** | **Cal-Y12 D264 · ~22 Sep** |
+| 3782 | [day-3782.md](days/year-011/week-541/day-3782.md) | ✓ **Soak 3 · hemp pull + break** | **Cal-Y12 D263 · ~21 Sep** |
+| 3781 | [day-3781.md](days/year-011/week-541/day-3781.md) | ✓ **Soak 2 · char retort** | **Cal-Y12 D262 · ~20 Sep** |
+| 3780 | [day-3780.md](days/year-011/week-540/day-3780.md) | ✓ **T-1 wood haul** | **Cal-Y12 D261 · ~19 Sep** |
+| 3770 | [day-3770.md](days/year-011/week-539/day-3770.md) | ✓ **Rett load · muffle D2** | **Cal-Y12 D251 · ~9 Sep** |
+| 3769 | [day-3769.md](days/year-011/week-539/day-3769.md) | ◐ **Muffle pad · shell D1** | **Cal-Y12 D250 · ~8 Sep** |
+| 3768 | [day-3768.md](days/year-011/week-539/day-3768.md) | ✓ **Retort · batch 5 fire** | **Cal-Y12 D249 · ~7 Sep** |
+| 3767 | [day-3767.md](days/year-011/week-539/day-3767.md) | ✓ **T-1 wood haul** | **Cal-Y12 D248 · ~6 Sep** |
+| 3766 | [day-3766.md](days/year-011/week-538/day-3766.md) | ✓ **M-26 wash and rank** | **Cal-Y12 D247 · ~5 Sep** |
+| 3765 | [day-3765.md](days/year-011/week-538/day-3765.md) | ✓ **Brick fire · campus tidy** | **Cal-Y12 D246 · ~4 Sep** |
+| 3764 | [day-3764.md](days/year-011/week-538/day-3764.md) | ✓ **P-01 pistachio pick** | **Cal-Y12 D245 · ~3 Sep** |
+| 3763 | [day-3763.md](days/year-011/week-538/day-3763.md) | ✓ **HEMP-CUT Bed A** | **Cal-Y12 D244 · ~2 Sep** |
+| 3762 | [day-3762.md](days/year-011/week-538/day-3762.md) | ✓ **M-26 kaolin · campus hold** | **Cal-Y12 D243 · ~1 Sep** |
+| 3761 | [day-3761.md](days/year-011/week-538/day-3761.md) | ✓ **Grog · batch 5 green** | **Cal-Y12 D242 · ~31 Aug** |
+| 3760 | [day-3760.md](days/year-011/week-538/day-3760.md) | ✓ **Char retort ×3 · W538 open** | **Cal-Y12 D241 · ~30 Aug** |
+| 3759 | [day-3759.md](days/year-011/week-537/day-3759.md) | ✓ **M-22 magnetite haul** | **Cal-Y12 D240 · ~29 Aug** |
+| 3758 | [day-3758.md](days/year-011/week-537/day-3758.md) | ✓ **Wagon tune · wear 11** | **Cal-Y12 D239 · ~28 Aug** |
+| 3757 | [day-3757.md](days/year-011/week-537/day-3757.md) | ✓ **Wood haul T-1** | **Cal-Y12 D238 · ~27 Aug** |
+| 3756 | [day-3756.md](days/year-011/week-537/day-3756.md) | ✓ **×20 green batch 4** | **Cal-Y12 D237 · ~26 Aug** |
+| 3755 | [day-3755.md](days/year-011/week-537/day-3755.md) | ✓ **Calcine · batch 3 fire** | **Cal-Y12 D236 · ~25 Aug** |
+| 3754 | [day-3754.md](days/year-011/week-537/day-3754.md) | ✓ **Kisecik CLOSE** | **Cal-Y12 D235 · W537 d2** |
+| 3753 | [day-3753.md](days/year-011/week-537/day-3753.md) | ✓ **Kisecik D3 · HOME** | **Cal-Y12 D234 · W537 d1** |
+| 3750 | [day-3750.md](days/year-011/week-536/day-3750.md) | ✓ **Kisecik prep staged** | **Cal-Y12 D231 · ~20 Aug** |
+| 3749 | [day-3749.md](days/year-011/week-536/day-3749.md) | ✓ **×20 green batch 3** | **Cal-Y12 D230 · ~19 Aug** |
+| 3748 | [day-3748.md](days/year-011/week-536/day-3748.md) | ✓ **Grog · muffle stake** | **Cal-Y12 D229 · ~18 Aug** |
+| 3747 | [day-3747.md](days/year-011/week-536/day-3747.md) | ✓ **Wagon tune · wear 13** | **Cal-Y12 D228 · ~17 Aug** |
+| 3746 | [day-3746.md](days/year-011/week-536/day-3746.md) | ✓ **Browse trim · W536 open** | **Cal-Y12 D227 · ~16 Aug** |
+| 3745 | [day-3745.md](days/year-011/week-535/day-3745.md) | ✓ **Bed D fig · W535 close** | **Cal-Y12 D226 · ~15 Aug** |
+| 3744 | [day-3744.md](days/year-011/week-535/day-3744.md) | ✓ **Combustion carbon assay** | **Cal-Y12 D225 · ~14 Aug** |
+| 3742 | [day-3742.md](days/year-011/week-535/day-3742.md) | ✓ **MFGC-2 · crucible fire** | **Cal-Y12 D223 · ~12 Aug** |
+| 3741 | [day-3741.md](days/year-011/week-535/day-3741.md) | ✓ **Char retort ×3** | **Cal-Y12 D222 · ~11 Aug** |
+| 3740 | [day-3740.md](days/year-011/week-535/day-3740.md) | ✓ **Wood haul d2** | **Cal-Y12 D221 · ~10 Aug** |
+| 3739 | [day-3739.md](days/year-011/week-535/day-3739.md) | ✓ **Wood haul · W535 open** | **Cal-Y12 D220 · ~9 Aug** |
+| 3738 | [day-3738.md](days/year-011/week-534/day-3738.md) | ✓ **TC `KILN-D` fire · W534 close** | **Cal-Y12 D219 · ~8 Aug** |
+| 3737 | [day-3737.md](days/year-011/week-534/day-3737.md) | ✓ **P-LAB-CRUC D/E/F green** | **Cal-Y12 D218 · ~7 Aug** |
+| 3736 | [day-3736.md](days/year-011/week-534/day-3736.md) | ✓ **Iron leg draw · TC dry read** | **Cal-Y12 D217 · ~6 Aug** |
+| 3735 | [day-3735.md](days/year-011/week-534/day-3735.md) | ✓ **Constantan leg draw** | **Cal-Y12 D216 · ~5 Aug** |
+| 3734 | [day-3734.md](days/year-011/week-534/day-3734.md) | ✓ **Constantan ladder run D** | **Cal-Y12 D215 · ~4 Aug** |
+| 3733 | [day-3733.md](days/year-011/week-534/day-3733.md) | ✓ **TC sleeves ×8 · set complete** | **Cal-Y12 D214 · ~3 Aug** |
+| 3732 | [day-3732.md](days/year-011/week-534/day-3732.md) | ✓ **Char retort ×3 · W534 open** | **Cal-Y12 D213 · ~2 Aug** |
+| 3731 | [day-3731.md](days/year-011/week-533/day-3731.md) | ✓ **Wood haul · W533 close** | **Cal-Y12 D212 · ~1 Aug** |
+| 3730 | [day-3730.md](days/year-011/week-533/day-3730.md) | ✓ **Char retort ×3** | **Cal-Y12 D211 · ~31 Jul** |
+| 3729 | [day-3729.md](days/year-011/week-533/day-3729.md) | ✓ **Wood haul · char queue** | **Cal-Y12 D210 · ~30 Jul** |
 | 3728 | [day-3728.md](days/year-011/week-533/day-3728.md) | ✓ **Plugs + cast iron trial 1** | **Cal-Y12 D209 · ~29 Jul** |
 | 3727 | [day-3727.md](days/year-011/week-533/day-3727.md) | ✓ **Stack full rise** | **Cal-Y12 D208 · ~28 Jul** |
 | 3726 | [day-3726.md](days/year-011/week-533/day-3726.md) | ✓ **Hot-blast proof PASS** | **Cal-Y12 D207 · ~27 Jul** |

@@ -11,6 +11,7 @@ Rules and standards
 - [electrical-code-1.md](regulations/electrical-code-1.md) - Electrical definitions, resistance standards, and bench measurement (EC-1)
 - [furniture-code-1.md](regulations/furniture-code-1.md) - Furniture quality standards and aesthetic preferences
 - [manufacturing-code-1.md](regulations/manufacturing-code-1.md) - Fasteners, pipe series, fittings classes, and workshop mechanical stock (MFGC-1)
+- [manufacturing-code-2.md](regulations/manufacturing-code-2.md) - Alloy heats, master-alloy table, charge sheets, assay linkage (MFGC-2); live log: [heat-register-y12.md](regulations/heat-register-y12.md)
 - [measurement-code-1.md](regulations/measurement-code-1.md) - Dimensional, mass, and bore reference standards (MC-1)
 - [storage-code-1.md](regulations/storage-code-1.md) - Rules for storage management - organization, archiving, backups, etc.
 - [waste-management-drainage-code-1.md](regulations/waste-management-drainage-code-1.md) - Regulations for waste and water management - rainfall/runoff, slag, grey water, black water, grease, etc.
@@ -21,6 +22,7 @@ Established routines and procedures for production, maintenance, R&D, etc.
 
 - [bees.md](procedures/bees.md) - Apiary care
 - [campus-operations.md](procedures/campus-operations.md) - Campus routine defaults - fuel, rett, tools and metal, fasteners
+- [combustion-c-assay-1.md](procedures/combustion-c-assay-1.md) - O₂ combustion train, caustic CO₂ trap, carbon percent from trap gain (d3744)
 - [construction.md](procedures/construction.md) - Building construction phases, in order - companion to the building code
 - [harvest.md](procedures/harvest.md) - Harvest/collection procedures - how to pick, pull, cut, dig
 - [processing.md](procedures/processing.md) - Post-harvest conversion - leaching, retting, pressing, drying, curing

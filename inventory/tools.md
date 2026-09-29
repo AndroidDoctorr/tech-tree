@@ -123,7 +123,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles ×5 | Fire-table | ×3 assigned `NI-STD-A/B/C` · ×1 clean · ×1 marginal foot |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg | **×3 NI-assigned · ×1 marginal · C spent d3728** · **×3 FIRED D/E/F d3742** *(F foot hairline)* |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |
@@ -206,6 +206,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `TUNING-FORK-1` | Brass fork · **A ~440** · frequency artifact | Reference shelf | ✓ LIVE d3501 · ☠ **do not borrow** |
 | `MONOCHORD-1` | Single-string pitch bench · mechanical A from length + tension | Reference shelf | ✓ LIVE d3501 |
 | `POTENTIOMETER-1` | ~1.15 m iron slide wire · knife-edge jockey · voltage null | Reference shelf | ✓ LIVE d3499 · **tap, never drag** |
+| **`COMBUSTION-C-TRAIN-Y12-1`** | O₂ combustion · caustic CO₂ trap · **`GASHOLDER-2` Bell B`** | Chem outdoor peg | ✓ LIVE d3744 |
+| **`TC-PROBE-1`** | Iron–constantan · **`TC-CAL-LADDER-Y12-1`** · ice jar cold end | Instrument tray | ✓ LIVE d3743 |
 | `VOLTMETER-1` | Fine multi-turn coil with `R-BIG-1` in series · scale in GB · linear ×1→×4 cells | Chem bench | Live |
 | `AMMETER-1` | Few fat turns · ×2 shunt ranges | Chem bench | Live |
 | `R-BIG-1` | ~106 m of 0.3 mm iron, non-inductive · ~500 R | Chem bench | Live · ⚠ **drifts with heat — keep cool, read at one temperature** |

@@ -275,7 +275,7 @@ Map: `WW-YARD` west of the forge · Built: **d3291**
 ### `ACORN-LEACH-TROUGH-1`
 Map: pool margin · Built: d2689
 
-Idle. Rinse grammar live.
+**`ACORN-LEACH-TROUGH-1` empty** · **`ACORN-ROAST-Y12-1` ~615 g @ Horreum A nut tray** *(d3787)*.
 
 ### `ACORN-LEACH-TROUGH-2`
 Map: pool margin N · Built: d2718
@@ -469,7 +469,7 @@ Split-reed frame, sooted cloth, hung on cord under a bowed sapling. Keel and tai
 ### `RETT-TROUGH-HEMP-1`
 Map: ditch W · Live
 
-**`P-RETT-31` pulled d3393** — pool rinsed · bars reset · **empty** *(Bed A cut rett complete)*.
+✓ **`P-RETT-33` FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** · **`W-1` north cleared** · trough **empty**.
 
 ### `RETT-TROUGH-FLAX-1`
 Map: ditch W · Live
@@ -481,7 +481,7 @@ The old mud pool is **retired**. The dual trough plus rinse branch runs the two 
 ### `FURNACE-2` — melt furnace *(build)*
 Map: Fabrica **south court** · **`FORGE-D`** lean-to margin · Opened **d3658**
 
-**Common datum:** **900 × 900 × 150 mm** @ plan d3586 · **cert ladder through plan step 5 d3728** · half-plugs LIVE · **`CAST-IRON-BUTTON-Y12-1`** · ⚑ **`MUFFLE-1` · alloy production gate**
+**Common datum:** **900 × 900 × 150 mm** @ plan d3586 · **✓ `MUFFLE-1` LIVE d3777** — empty heat PASS · TC seated · **`FURNACE-2`** shell separate · **`CAST-IRON-BUTTON-Y12-1`**
 
 ### `FURNACE-2-STACK-1` — melt-furnace exhaust stack
 Map: Fabrica **south court** @ **`FURNACE-2`** · Live **d3727**

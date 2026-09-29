@@ -1,6 +1,6 @@
 # `THERMOCOUPLE-1`
 
-**Filed:** d3587 · **Status:** protection and cold-end hardware in work; iron / constantan hot pair not yet made.
+**Filed:** d3587 · **Status:** **`TC-PROBE-1` LIVE d3743** · cal **`TC-CAL-LADDER-Y12-1`** (ice · boil · Sn · Zn) · ⚑ **`MUFFLE-1` cone cross-check**
 
 ## Scope
 

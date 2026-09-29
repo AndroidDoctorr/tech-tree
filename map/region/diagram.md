@@ -48,9 +48,9 @@ Canonical numbers live in [trails-and-bridges.md](trails-and-bridges.md) and [re
      |   L5   18 km   TQ 3.10 / 3.0   +0.10   ok
  46  (b) KIRIKHAN-APPR .............................. BQ 2.0
      |
-     |   L6    7 km   TQ 2.38 / 3.0   -0.63  ****
- 53  (X) THE SPLIT .................................. no structure · arrested d3293
-     |\                                               RECOVER still outstanding
+     |   L6    7 km   TQ 2.85 / 3.0   -0.15   *
+ 53  (X) THE SPLIT .................................. no structure · ✓ RECOVER closed d3785
+     |\
      | \--> NORTH SPUR .............................. strip 3
      |
      |   L7   12 km   TQ 3.40 / 3.0   +0.40   ok

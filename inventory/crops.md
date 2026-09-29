@@ -12,7 +12,7 @@ Y12 sow **d3576**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-SEL-Y12` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **~18 m²** | d3576 | **Sown dense** · **15 Aug cut grammar** |
+| `HEMP-SEL-Y12` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **cut d3763 · stubble** | d3576 | **✓ `HEMP-CUT-Y12-3763` · ~12 g seed hold** |
 | `HEMP-GHAB-RESERVE-Y12` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3576 | **Sown thin** · pegged **RESERVE** |
 | `FAVA-Y12` | Fava | Bed A west · **~6 m²** | d3576 | **Dibbed** · nodule ground |
 | `P-18-CHICKPEA-Y12` | Chickpea | Bed A south · **~6 m²** | d3576 | **Row drill** |
@@ -43,7 +43,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FIG-C1…C4` | Fig ×4 | Bed D | d3368 | Dormant crowns · **Aug pick band** |
+| `FIG-C1…C4` | Fig ×4 | Bed D | d3368 | **✓ pick d3745 · leather drying** |
 | `WOAD-BED-D` | Woad, rosette | Bed D | Y9 | Crown intact · window to 18 Aug |
 
 ## Herbs
@@ -78,6 +78,5 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Load | Where | Loaded | State |
 |---|---|---|---|---|
+| `P-RETT-33` | Hemp Bed A Y12 · **×6 sheaves** | — | d3770 | **✓ FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** |
 | `P-RETT-32` | Flax field Y10 | — | d3487 | ✓ **CLOSED d3505** |
-
-**Pool empty** · bars reset · no submerged bundle.

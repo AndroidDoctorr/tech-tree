@@ -5,8 +5,8 @@ Continuing work that interleaves between heroes. None of these ever "close."
 ## Trail improvement
 
 - **Flood management** · **gravel** · **asphalt** · **bridge strength** · **blasting**
-- **Where the gain is:** `L9` at ~2.4 and `L6` at ~2.25 are what hold the west composite at ~2.9. ★ **A composite is dragged by its worst legs, not lifted by its best** — six legs improved since d2562 and the number did not move
-- ✓ `L6` drainage **4/4 drains + 4/4 outlets closed d3597** · ✓ **steep-third crown d3690–3695** *(leg ~2.25 → ~2.6 class)*
+- **Where the gain is:** **`L9` ~2.4** still drags the west composite (~**2.9**); **`L6` ~2.85** after d3785 *(was ~2.25)*. ★ **A composite is dragged by its worst legs, not lifted by its best**
+- ✓ `L6` drainage **4/4 drains + 4/4 outlets closed d3597** · ✓ **steep-third crown Trip 1 d3690–3695** · ✓ **`L6-RECOVER` CLOSED d3785** *(uncrowned band finished · listen ~2.5 mm)*
 - **Coast corridor** — the km ~9–14 band was improved d2596 and d2599; M-spikes every ~8 km
 - Doctrine: [trail-longevity.md](../government/procedures/trail-longevity.md)
 
@@ -24,7 +24,7 @@ Ring closed at **97/97 m, d2836**. Stage-3 work and gate caps were queued after 
 
 - **Touch each cache on every infra lap**, log the draws at day close
 - ☠ **Food is the failure mode.** Rope, wedges and planks hold; soft kit is a clock
-- ✓ **Belen food refreshed d3592 · Erzin food refreshed d3593** — sealed jerky / pistachio / acorn packets
+- ✓ **Belen food refreshed d3592 · Erzin food refreshed d3593** — sealed jerky / pistachio / acorn packets · **Erzin cache touch deferred Y12** *(player d3785)*
 
 ## Seed bank
 

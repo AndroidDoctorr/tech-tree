@@ -290,7 +290,7 @@ Every timber and every concrete face **probed sound** d3270. And then:
 | `L3` | `ASI-B` → `AFRIN-B` | ~8 | ✓ bridge | Flat | **`W90` 33 paces d3319** · `S` 61 d3308 | ✓ **SHED** d3292 | d3319 | ✓ **~d5117** |
 | `L4` | `AFRIN-B` → `KTRUNK` | ~2 | ◐ ford + shore | Flat | ★ **`W90` 46 paces d3319** · `S` 66 d3308 | ★★ **SHED, best on the road** d3292 | d3319 | ✓ **~d5117** · ★ *the concrete shore throws water hard* |
 | `L5` | `KTRUNK` → `KIRIKHAN-APPR-B` | ~18 | ✓ bridge | Terrace | **~3.1** | ✓ **SHED** d3292 | d3292 | **~d4024** |
-| ☠ `L6` | `KIRIKHAN-APPR` → **the split** | ~7 | — **pass** | ☠ **Pass, cross-drained** | **~2.375** | ✓ **4/4 top drains + 4/4 lower outlets open/lipped d3597** | **d3597** | ☠ **Drainage recovered; steep-third surface still lost** |
+| ☠ `L6` | `KIRIKHAN-APPR` → **the split** | ~7 | — **pass** | ☠ **Pass, cross-drained** | **~2.85** | ✓ **4/4 top drains + 4/4 lower outlets open/lipped d3597** | **d3785** | ✓ **`L6-RECOVER` CLOSED d3785** |
 | `L7` | Split → `BELEN-APPR-B` | ~12 | ✓ bridge | Terrace | **~3.4** | ☠ **never read wet** | d2609 · 1.9 yr | ⚠ **Due now** |
 | `L8` | `BELEN-APPR` → `ISK-APPR` | ~15 | ✓ bridge ~13 m | Terrace | **~3.5** | ✓ **SHED d3593 wet read** | d3593 | ★ **fastest mature leg** |
 | `L9` | ISK pass → `PINARUS-B` | ~13 | ✓ bridge ~12 m | ☠ **Pass** | **~2.4** | **CHANNEL inner bend · apron catches · outlet cleared d3593 wet read** | d3593 | ★ **Worst mature west leg but climbing** — ~2.0 → ~2.5 d2610 → ~2.4 d2998 |
@@ -305,21 +305,21 @@ Every timber and every concrete face **probed sound** d3270. And then:
 
 ### ☠ ★★★ What the DUE column says right now
 
-✓ **`L6` drainage closed d3597: 4/4 top drains + 4/4 lower outlets.** ⚠ **`L7` is the oldest wet read left on the west road.** `L9` received its first wet read d3593; inner-bend channel is contained by the apron. ★ **The east string is flat and has years in hand.**
+✓ **`L6` drainage + RECOVER closed d3785.** ⚠ **`L7` is the oldest wet read left on the west road.** `L9` received its first wet read d3593; inner-bend channel is contained by the apron. ★ **The east string is flat and has years in hand.**
 
 > ★★★ **`L6` IS THE ONLY LEG ON THE ROUTE WITH NO BRIDGE, FORD OR SHORE AT ITS END.** *A structure is an appointment — something to listen to, re-bed, re-read — and the road around it gets maintained as a side effect of the visit.* ☠ **A plain stretch has no appointment with anybody, which is exactly why it is the one that slipped.**
 
 ⚑ **This column is the fix: a leg is due when its date is old, not when something standing on it wants attention.**
 
-### ☠ `L6-RECOVER` — drainage closed d3597 · surface continues
+### ☠ `L6-RECOVER` — ✓ **CLOSED d3785**
 
-**Arrested d3293.** ✓ **d3597:** top **4/4 drains open** · steep third **4/4 outlets lipped**. The remaining work is the lost running surface on the steep third; one ~60 m gravel band exists but is not crowned.
+**Arrested d3293 · surface closed d3783–3785.** Steep-third **~60 m band crowned** · loaded listen **~2.5 mm** · **`TQ` ~2.85 class**.
 
-| Item | Needs | d3328 |
+| Item | Needs | Status |
 |---|---|---|
 | ✓ **4 washed-out drain outlets**, steep third | **Stone lip on each** | ✓ **4/4 lipped d3597** |
-| ⚠ **4 silted drains**, top of leg | **Shovel morning** | ✓ **4/4 open d3328** |
-| ☠ **Lost surface**, steep third | **Gravel bar trains** | ◐ **One band · not crowned** |
+| ✓ **4 silted drains**, top of leg | **Shovel morning** | ✓ **4/4 open d3328** |
+| ✓ **Lost surface**, steep third | **Gravel bar trains + crown** | ✓ **d3784–3785** |
 
 ⚑ **Islahiye garnierite haul CLOSED d3352** — **`GARNIERITE-BULK-M24-1` ~31 kg HOME.**
 
@@ -336,7 +336,7 @@ Every timber and every concrete face **probed sound** d3270. And then:
 | **East string** | ~32 km E | **~3.45** | d2652 · spur ~3.47 d2937 |
 | **Furthest routine stop** | **Kozan north gate ~220 km** | — | Boot ford grammar |
 
-⚠ **The west composite has not moved since d2562 even though six legs improved.** `L9` at ~2.4 and `L6` at ~2.25 are what hold it down — **a composite is dragged by its worst legs, not lifted by its best.**
+⚠ **The west composite has not moved since d2562 even though six legs improved.** **`L9` at ~2.4** is now the main drag on the mature west string — **`L6` ~2.85** after d3785.
 
 ## Road work points
 

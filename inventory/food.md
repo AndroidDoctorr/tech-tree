@@ -43,12 +43,14 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `PISTACHIO-1` | Pistachio kernels | **~2.14 kg** | Horreum A nut tray | Y10 | d3591 |
+| `PISTACHIO-HULL-Y12-1` | Pistachio · hull-on fresh · **`P-01` primary d3764** · dry then shell | **~4.8 kg** | v1 porch mat + lean rack | d3764 | d3764 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | **~0.66 kg** | Nut tray | Y9 | d3591 |
 | `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~575 g | Nut tray | d3423 | d3508 |
 | `ACORN-ROAST-Y10-2` | Acorn roast · **`ACORN-LEACH-Y10-2` batch** | ~610 g | Nut tray | d3465 | d3465 |
 | `ACORN-ROAST-Y10-3` | Acorn roast · **`ACORN-LEACH-Y10-3` batch** | ~605 g | Nut tray | d3471 | d3471 |
 | `ACORN-ROAST-Y10-4` | Acorn roast · **`ACORN-LEACH-Y10-4` batch** | ~600 g | Nut tray | d3478 | d3478 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | ~1.15 kg | v1 mat · `WOOD-CRATE-4` | Y10 | d3469 |
+| **`ACORN-ROAST-Y12-1`** | Acorn roast · **`ACORN-LEACH-Y12-1` batch** | **~615 g** | Nut tray | d3787 | d3787 |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~5.3 kg** | v1 mat · `WOOD-CRATE-4` | Y10 carry + **Y12 d3778** | d3779 |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -60,7 +62,8 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `FIG-LEATHER-TRAY-Y10-1` | Fig leather, tray drying | ~0.65 kg wet | Sun rack / horreum porch | d3368 | d3380 |
 | `FIG-FRESH-Y10-1` | Fig, fresh hold · Bed D first pass | ~1.25 kg | Cool step | d3368 | d3368 |
 | `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
-| `FIG-FRESH-Y10-4` | Fig, fresh · Bed D strip | ~0.4 kg | Cool step | d3389 | d3389 |
+| `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | **~750 g** | Cool step | d3745 | d3745 |
+| `FIG-LEATHER-Y12-1` | Fig leather tray · sun dry | **~750 g gross wet** | Horreum east rack | d3745 | d3745 |
 | `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ~0.87 kg | Cool step | d3375 | d3579 |
 | `GRAPE-FRESH-1` | Grape, fresh hold | ~1.15 kg | Cool step | Y9 | d3145 |
 
