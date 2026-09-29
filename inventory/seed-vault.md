@@ -33,6 +33,16 @@ Last full audit **d3175**.
 | ☠ `EMMER-ELITE-Y5` | Emmer elite · ☠ **rescue block sown d3576** · **~4 g hold** | ~4 g | Vault | Y5 | **d3574** |
 | ✓ `EMMER-SOW-Y9` | Emmer sow bank · reserve · ★ **~82%** | ~5 g | Vault | Y9 | **d3574** |
 
+## Wild plain *(margin stands · not elite · not ark)*
+
+| ID | Line | Qty | Where | Harvest | Tested |
+|---|---|---|---|---|---|
+| `GRAIN-WILD-A1` | Wild emmer · **`P-04` ghost / prior laps** | ~37 g class | Vault wild shelf | Y9 top-up | — |
+| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~17 g** | Vault wild shelf | **Y12 d3687** | — |
+| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~32 g** | Vault wild shelf | **Y12 d3687** | — |
+
+> **Y12 seed lap d3687** — **`P-05` + `P-06` only** *(March mark row · no `P-04` wild stand)*.
+
 > ☠ ★★★ **READ d3285 AND IT WAS WORSE THAN THE GUESS. `EMMER-ELITE-Y5` is ~25% — five years counted as insurance, dying on the shelf the whole time, and seven days from being sealed into a `CAVE-3` jar.** ★★ **The d3278 "test before you ark" gate paid for itself in a week.**
 
 ### ☠ ★★★ A bank is a stock TIMES A RATE, and the rate falls
@@ -109,9 +119,12 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | ⚠ `P-CORIANDER-SEL-Y9` | Coriander · ⚠ **~35%** · tail | ~0.2 g | Vault | Y9 | d3574 |
+| `P-CORIANDER-SEL-Y12` | Coriander · designated ×6 · winnow | **~14 g** | Vault | **Y12 d3688** | — |
 | ⚠ `P-ROSEMARY-SEL-Y9` | Rosemary · ⚠ **~55%** · trace tail | ~0.6 g | Vault | Y9 | d3574 |
 | `P-PARSLEY-SEL-Y12` | Parsley · **~1 g reserve hold** | **~1 g** | Vault | Y12 scout | d3577 |
 | `P-ALLIUM-SEL-Y12` | Allium · **~1.5 g reserve hold** | **~1.5 g** | Vault | Y12 scout | d3577 |
+| `P-ALLIUM-HARVEST-Y12-1` | Allium · designated ×4 · winnow | **~7 g** | Vault | **Y12 d3688** | — |
+| `P-THYME-SEL-Y12` | Thyme · mother-row tops · winnow | **~4 g** | Vault | **Y12 d3688** | — |
 | ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-ALLIUM-SEL-Y9` | Allium · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3574 DEAD |

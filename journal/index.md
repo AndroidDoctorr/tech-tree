@@ -6,10 +6,53 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3680)*
+## Recent days *(append here · @ Day 3728)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3728 | [day-3728.md](days/year-011/week-533/day-3728.md) | ✓ **Plugs + cast iron trial 1** | **Cal-Y12 D209 · ~29 Jul** |
+| 3727 | [day-3727.md](days/year-011/week-533/day-3727.md) | ✓ **Stack full rise** | **Cal-Y12 D208 · ~28 Jul** |
+| 3726 | [day-3726.md](days/year-011/week-533/day-3726.md) | ✓ **Hot-blast proof PASS** | **Cal-Y12 D207 · ~27 Jul** |
+| 3725 | [day-3725.md](days/year-011/week-533/day-3725.md) | ✓ **Duct 2 fire + lay · W533 open** | **Cal-Y12 D206 · ~26 Jul** |
+| 3724 | [day-3724.md](days/year-011/week-532/day-3724.md) | ✓ **Char retort · duct dry GO** | **Cal-Y12 D205 · ~25 Jul** |
+| 3723 | [day-3723.md](days/year-011/week-532/day-3723.md) | ✓ **Duct dry NO-GO · wood haul** | **Cal-Y12 D204 · ~24 Jul** |
+| 3722 | [day-3722.md](days/year-011/week-532/day-3722.md) | ✓ **Wagon tune · wear 14** | **Cal-Y12 D203 · ~23 Jul** |
+| 3721 | [day-3721.md](days/year-011/week-532/day-3721.md) | ✓ **Duct 2 green · blower tie** | **Cal-Y12 D202 · ~22 Jul** |
+| 3720 | [day-3720.md](days/year-011/week-532/day-3720.md) | ✓ **Wood haul · slake** | **Cal-Y12 D201 · ~21 Jul** |
+| 3719 | [day-3719.md](days/year-011/week-532/day-3719.md) | ✓ **Hot-blast duct 1 lay** | **Cal-Y12 D200 · ~20 Jul** |
+| 3718 | [day-3718.md](days/year-011/week-532/day-3718.md) | ✓ **Duct fire · W532 open** | **Cal-Y12 D199 · ~19 Jul** |
+| 3717 | [day-3717.md](days/year-011/week-531/day-3717.md) | ✓ **Aleppo Trip 2 HOME · W531 close** | **Cal-Y12 D198 · ~18 Jul** |
+| 3716 | [day-3716.md](days/year-011/week-531/day-3716.md) | ✓ **Blast · AM-EAST-06 D3** | **Cal-Y12 D197 · ~17 Jul** |
+| 3715 | [day-3715.md](days/year-011/week-531/day-3715.md) | ✓ **Gravel dress D2** | **Cal-Y12 D196 · ~16 Jul** |
+| 3714 | [day-3714.md](days/year-011/week-531/day-3714.md) | ✓ **Aleppo east OUT** | **Cal-Y12 D195 · ~15 Jul** |
+| 3712 | [day-3712.md](days/year-011/week-531/day-3712.md) | ✓ **Bands ×4 · hot-blast D1** | **Cal-Y12 D193 · ~13 Jul** |
+| 3711 | [day-3711.md](days/year-011/week-531/day-3711.md) | ✓ **Empty heat · bands ×2/4 · W531 open** | **Cal-Y12 D192 · ~12 Jul** |
+| 3710 | [day-3710.md](days/year-011/week-530/day-3710.md) | ✓ **`FURNACE-2` D9 · W530 close** | **Cal-Y12 D191 · ~11 Jul** |
+| 3709 | [day-3709.md](days/year-011/week-530/day-3709.md) | ✓ **Retort · brick fire b2** | **Cal-Y12 D190 · ~10 Jul** |
+| 3708 | [day-3708.md](days/year-011/week-530/day-3708.md) | ✓ **`WAGON-V2-TUNE-3708` · wear 16** | **Cal-Y12 D189 · ~9 Jul** |
+| 3707 | [day-3707.md](days/year-011/week-530/day-3707.md) | ✓ **Wood haul ×2 d2** | **Cal-Y12 D188 · ~8 Jul** |
+| 3706 | [day-3706.md](days/year-011/week-530/day-3706.md) | ✓ **Wood haul ×2 d1** | **Cal-Y12 D187 · ~7 Jul** |
+| 3705 | [day-3705.md](days/year-011/week-530/day-3705.md) | ✓ **Calcine · brick batch 2 green** | **Cal-Y12 D186 · ~6 Jul** |
+| 3704 | [day-3704.md](days/year-011/week-530/day-3704.md) | ✓ **Fava dry/process · W530 open** | **Cal-Y12 D185 · ~5 Jul** |
+| 3703 | [day-3703.md](days/year-011/week-529/day-3703.md) | ✓ **`FURNACE-2` D8 · tuyère set** | **Cal-Y12 D184 · ~4 Jul** |
+| 3696 | [day-3696.md](days/year-011/week-528/day-3696.md) | ✓ **`HAUL-LIME-3696` · W528 close** | **Cal-Y12 D177 · ~27 Jun** |
+| 3702 | [day-3702.md](days/year-011/week-529/day-3702.md) | ✓ **Lime haul · putty slake** | **Cal-Y12 D183 · ~3 Jul** |
+| 3701 | [day-3701.md](days/year-011/week-529/day-3701.md) | ✓ **Retort · quicklime burn** | **Cal-Y12 D182 · ~2 Jul** |
+| 3700 | [day-3700.md](days/year-011/week-529/day-3700.md) | ✓ **Wood haul** | **Cal-Y12 D181 · ~1 Jul** |
+| 3699 | [day-3699.md](days/year-011/week-529/day-3699.md) | ✓ **`FURNACE-2` shell D7 · tuyère fire** | **Cal-Y12 D180 · ~30 Jun** |
+| 3698 | [day-3698.md](days/year-011/week-529/day-3698.md) | ✓ **Retort · lime · flax defer** | **Cal-Y12 D179 · ~29 Jun** |
+| 3697 | [day-3697.md](days/year-011/week-529/day-3697.md) | ✓ **Wood haul · pile 5** | **Cal-Y12 D178 · ~28 Jun** |
+| 3695 | [day-3695.md](days/year-011/week-528/day-3695.md) | ✓ **`TRAIL-MAINT-Y12-1` CLOSE · HOME** | **Cal-Y12 D176 · ~26 Jun** |
+| 3690 | [day-3690.md](days/year-011/week-528/day-3690.md) | ✓ **Trail maint OUT · Belen** | **Cal-Y12 D171 · ~21 Jun · W528 open** |
+| 3689 | [day-3689.md](days/year-011/week-527/day-3689.md) | ✓ **Char retort · Norima tune** | **Cal-Y12 D170 · ~20 Jun** |
+| 3688 | [day-3688.md](days/year-011/week-527/day-3688.md) | ✓ **Herb winnow · brick fire ×20** | **Cal-Y12 D169 · ~19 Jun** |
+| 3687 | [day-3687.md](days/year-011/week-527/day-3687.md) | ✓ **Wild grain seed · vault** | **Cal-Y12 D168 · ~18 Jun** |
+| 3686 | [day-3686.md](days/year-011/week-527/day-3686.md) | ✓ **Wood haul · pile 5** | **Cal-Y12 D167 · ~17 Jun** |
+| 3685 | [day-3685.md](days/year-011/week-527/day-3685.md) | ✓ **Wild grain food · parched** | **Cal-Y12 D166 · ~16 Jun** |
+| 3684 | [day-3684.md](days/year-011/week-527/day-3684.md) | ✓ **Forsterite ×20 green** | **Cal-Y12 D165 · ~15 Jun** |
+| 3683 | [day-3683.md](days/year-011/week-527/day-3683.md) | ✓ **Calcine · fava pass 3** | **Cal-Y12 D164 · ~14 Jun** |
+| 3682 | [day-3682.md](days/year-011/week-526/day-3682.md) | ✓ **`FURNACE-2` D6 · W526 close** | **Cal-Y12 D163 · ~13 Jun** |
+| 3681 | [day-3681.md](days/year-011/week-526/day-3681.md) | ✓ **`FURNACE-2` shell D5 · throat cut** | **Cal-Y12 D162 · ~12 Jun** |
 | 3680 | [day-3680.md](days/year-011/week-526/day-3680.md) | ✓ **`FURNACE-2` shell D4** | **Cal-Y12 D161 · ~11 Jun** |
 | 3679 | [day-3679.md](days/year-011/week-526/day-3679.md) | ✓ **`GRAPE-CLUSTER-THIN-Y12-1`** | **Cal-Y12 D160 · ~10 Jun** |
 | 3678 | [day-3678.md](days/year-011/week-526/day-3678.md) | ✓ **`HERB-SEED-CUT-Y12-1`** | **Cal-Y12 D159 · ~9 Jun** |

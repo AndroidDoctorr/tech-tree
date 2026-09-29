@@ -6,7 +6,7 @@ Continuing work that interleaves between heroes. None of these ever "close."
 
 - **Flood management** · **gravel** · **asphalt** · **bridge strength** · **blasting**
 - **Where the gain is:** `L9` at ~2.4 and `L6` at ~2.25 are what hold the west composite at ~2.9. ★ **A composite is dragged by its worst legs, not lifted by its best** — six legs improved since d2562 and the number did not move
-- ✓ `L6` drainage **4/4 drains + 4/4 outlets closed d3597** · ⚠ steep-third running surface still needs gravel and crown
+- ✓ `L6` drainage **4/4 drains + 4/4 outlets closed d3597** · ✓ **steep-third crown d3690–3695** *(leg ~2.25 → ~2.6 class)*
 - **Coast corridor** — the km ~9–14 band was improved d2596 and d2599; M-spikes every ~8 km
 - Doctrine: [trail-longevity.md](../government/procedures/trail-longevity.md)
 

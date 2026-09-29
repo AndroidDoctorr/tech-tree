@@ -85,8 +85,8 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **17** | **tune d3672 · haul d3675** |
-| **mishap_pool** | **13** | **`ORE-HAUL-M31` d3610–14** · POP MISS d3614 · pool holds |
+| **Norima wear** | **15** | **wood haul d3723** |
+| **mishap_pool** | **14** | **Trip 1 close d3695 · POP MISS** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
 ### Mishap pool doctrine *(player @ d3118)*

@@ -52,7 +52,7 @@ Stowed on a vehicle rather than at a bench, so it travels whether or not anyone 
 
 | ID | Item | Qty | Where |
 |---|---|---|---|
-| `TRAIL-MAINT-SLICE` | Trail maintenance stock | **~1.4 kg aboard · bench tail spent** | Wagon |
+| `TRAIL-MAINT-SLICE` | Trail maintenance stock | **~0.48 kg aboard** | Wagon | d3717 |
 | `EXPED-ROPE-WAGON` | Hemp rope | ~6 m | Wagon |
 | `WAGON-V2-COVER-THATCH-TEMP-1` | Temporary thatch cover · M-08 removable | — | Cart yard peg — **pulled for the ice band** |
 | `CART-POWDER-SAFE-1` | Powder safe | ☠ **×0 caps** — empty at cart and at HOME safe | Cart |

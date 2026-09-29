@@ -16,6 +16,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~1.11 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3576 |
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
+| `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · food lap | **~0.95 kg** | Horreum snack jar | d3685 | d3685 |
 | `BARREL-4-GRAIN` | Cracked grain, working · Y10 top-up | ~0.46 kg | `BARREL-4`, v1 | d3488 | d3504 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 
@@ -25,10 +26,9 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FAVA-GREEN-Y10-FINAL` | Fava, tender shelled · **eat / short brine** | ~0.50 kg | Cool shelf | d3325 | d3325 |
-| `FAVA-GREEN-Y12-1` | Fava, green shelled · **`FAVA-PICK-3668` + pass 2 d3670** | **~3.5 kg** | Cool step | d3668 | d3670 |
-| `FAVA-DRYING-Y10-FOOD` | Fava, mature food beans · drying, not seed | ~0.25 kg wet-sort | Drying rack | d3325 | d3325 |
-| `FAVA-DRYING-Y12-FOOD-1` | Fava, mature food · drying rack | **~0.35 kg** | Drying rack | d3668 | d3668 |
+| `FAVA-BRINE-Y12-1` | Fava, short brine · tender tail | **~0.72 kg** | Crock #3 cool step | d3704 | d3704 |
+| `FAVA-DRY-Y12-FOOD-1` | Fava, dry food · blanch + rack finish · **not seed bank** | **~3.18 kg** | Horreum A pulse bay | d3704 | d3704 |
+| `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |
 | `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | ~170 g | Cool cellar step crock | d3492 | d3509 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
 | `P-17-LENTIL-Y10` | Lentil · Y10 harvest | ~126 g | Horreum A pulse bay | d3486 | d3498 |
@@ -111,12 +111,12 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `JERKY-Y10` | ★ Jerky · **dry, cool, in cloth, not sealed** | **~2.09 kg @ horreum** · ~0.6 kg recovery pouch @ cave | Horreum A / cave | d3253 | d3591 |
-| `EXPED-RATION-M31-Y12-RESERVE` | Returned dry scout ration · jerky · pistachio · fig leather · acorn | **~1.45 kg** | Wagon food chest | d3591 | d3597 |
+| `EXPED-RATION-M31-Y12-RESERVE` | Returned dry scout ration · **spent Trip 1 d3690–3695** | **×0** | Wagon food chest | d3591 | d3695 |
 | `GOAT-SMOKE-1` | Smoked goat | ~0.60 kg | v1 cool shelf | ? | d3508 |
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.435 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3598 |
-| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.43 kg** | Lamp jar · culina | d3251 | d3672 |
+| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.41 kg** | Lamp jar · culina | d3251 | d3708 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

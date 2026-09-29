@@ -481,7 +481,17 @@ The old mud pool is **retired**. The dual trough plus rinse branch runs the two 
 ### `FURNACE-2` — melt furnace *(build)*
 Map: Fabrica **south court** · **`FORGE-D`** lean-to margin · Opened **d3658**
 
-**Common datum:** **900 × 900 × 150 mm** @ plan d3586 · south service · pad **PASS d3667** · **`FURNACE-2-SHELL-D4-3680`** — **hot-face 3 lifts · backup annulus pack · exhaust ghost** · **`×26 FIRED` bank** · ⚑ **crown · throat cut · hearth face**
+**Common datum:** **900 × 900 × 150 mm** @ plan d3586 · **cert ladder through plan step 5 d3728** · half-plugs LIVE · **`CAST-IRON-BUTTON-Y12-1`** · ⚑ **`MUFFLE-1` · alloy production gate**
+
+### `FURNACE-2-STACK-1` — melt-furnace exhaust stack
+Map: Fabrica **south court** @ **`FURNACE-2`** · Live **d3727**
+
+**Ø120 mm** clear bore · **≥3.5 m** above hearth datum · inner **`BRICK-FIRED-B` stackable** liner · outer forsterite split wrap · tied weather hood. Jacket **Ø90** throat collar · cold draw cert **PASS** d3727 · **`SMOKE-SPOT`** station paired.
+
+### `BLAST-BLOWER-1` — melt-furnace blast
+Map: Fabrica **south court** @ **`FURNACE-2`** service · Live **d3721**
+
+Twin alternating box bellows off **`WW-2`** **`MF-1`** south stub (~12 rpm class). Discharge → **`KILN-D-PLENUM-1`** (~4.5 L trial buffer) → tuyère service hose. Bleed sets blast; hand bellows path retired d3721. Cold spin @ tuyère **PASS** *(no stoke)*.
 
 ### `WAGON-GARAGE-1` — wagon garage
 Map: `CART-YARD` south · Built: **stem d3375 · frame d3376–3378 · roof d3379** · Pad/drain: d3283
