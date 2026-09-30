@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3787** · Cal-Y12 D268 · ~26 Sep · **Week 541 day 7**
+> **Day 3824** · Cal-Y12 D305 · ~2 Nov · **Week 547 day 2**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **15** · **Norima wear 19**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **15** · **Norima wear 15**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -41,7 +41,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `GRAIN-GATHER-WILD` seed | **Jun late** | ✓ **d3687** · **`GRAIN-WILD-A2` ~17 g · `GRAIN-WILD-A3` ~32 g** |
 | `OAK-ORCHARD-READ` | to **16 Mar** | ✓ **PASS d3584** — all six alive · leaders sound · #2 guard retied |
 | `VITRIOL-HEAP-1` | ✓ **Read d3752** | **~13.6 L total** · containment PASS · heap turned + recharged · **next ~90 wet days** |
-| Exped / cart trips | **11 Mar – 27 Sep** | **OPEN d3589** |
+| Exped / cart trips | **11 Mar – 27 Sep** | **✓ CLOSED d3788** |
 | `GRAPE-SHOOT-THIN` | **Mar–Apr**, at budbreak | ✓ **d3601** |
 | **`HIVE-SPLIT` · `WAX-RENDER`** | **21 Mar – 20 Apr** | ✓ **Band closed d3628** · no catch · **`BAIT-BOX` stowed** |
 | ⧗ **`FORSTERITE-BRICK-Y12-1`** | **×90 FIRED** @ stack | **`FURNACE-2` / `MUFFLE-1` bank · optional margin batches** |
@@ -51,9 +51,9 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`GRAPE-CLUSTER-THIN`** | **Jun–Jul** | ✓ **d3679 primary** · Jul touch-up if needed |
 | **`FAVA-PICK`** | **15 May – 30 Jun** | ✓ **passes 1–3 d3668–3683** · ✓ **dry/process d3704** |
 | **`FIG-PICK` · `BROWSE-TRIM`** | **1 Aug – 15 Sep** | **✓ Bed D pick d3745 · browse d3746** |
-| **`HEMP-CUT` Bed A north** | **15 Aug – 30 Sep** | **✓ **`HEMP-THREAD-Y12-1` ~555 m d3787** · line bank spun out** |
+| **`HEMP-CUT` Bed A north** | **15 Aug – 30 Sep** | **✓ thread **`HEMP-THREAD-Y12-1` ~315 m** · **`ROPE-HEMP-Y12-1` ~48 m** |
 | **`PISTACHIO-PICK` · `P-01`** | **1 Sep – 15 Oct** | **✓ primary d3764 · hull dry · shell defer** |
-| ⚑ **`ACORN-GATHER`** | **15 Sep – 30 Nov** | **✓ leach+roast **`ACORN-ROAST-Y12-1` ~615 g d3787** · tail laps · batch 2 optional** |
+| ⚑ **`ACORN-GATHER`** | **15 Sep – 30 Nov** | **✓ batch 1 **`ACORN-ROAST-Y12-1` ~615 g d3787** · **batch 2 defer player d3788** |
 | **`FLAX-PULL-WILD`** | **26 Jun – 26 Jul** | ✓ **DEFER Y12 d3698** — field line sufficient |
 | `BIRD-WATCH` · device reset | fine-seed tail | Six-day absence PASS · devices reset d3597 · field rows rooted |
 | `GOAT-KID` freshen | **Feb–Apr** | `GOAT-KIDDING-STALL-1` clean |
@@ -65,13 +65,13 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~11.95 kg** | d3787 |
-| **`WOOD-OAK-P5`** | **~8.6 kg** @ pile 5 | d3781 |
-| **`FORSTERITE-GROG-1`** | **~6.1 kg** | d3776 |
+| **`CHAR-LANE`** | **~13.0 kg** | d3819 |
+| **`WOOD-OAK-P5`** | **~12.7 kg** @ pile 5 | d3824 |
+| **`H-11-HEMATITE`** | **~4.95 kg @ pile 4** | d3814 |
+| **`FORSTERITE-GROG-1`** | **~4.45 kg** | d3821 |
 | `SERPENTINITE-RAW-KISECIK-Y12-1` | **~31.4 kg** @ kerb | d3761 |
 | `FORSTERITE-BRICK-Y12-1` | **×0 bank** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d3776 |
 | **`M-22-MAGNETITE-1`** | **~18.0 kg** @ pile 4 tray | d3759 |
-| **`H-11-HEMATITE`** | **~10.2 kg @ pile 4** | d3728 |
 | **`LIME-PUTTY-1`** | **~0.46 kg** | d3776 |
 | **`QUICKLIME-1`** | **~11.1 kg** | d3774 |
 | **`CACO3-P7`** | **~14.2 kg** @ pile 7 | d3702 |
@@ -84,13 +84,13 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
 | **`M-22-MAGNETITE-1`** | **~18.0 kg @ pile 4 tray** | d3759 |
-| `BRASS-STOCK` | ~38 g @ chill tray | d3587 |
+| `BRASS-STOCK` | **~23 g** @ chill tray | d3801 |
 | `CU-BAR-Y10-1` | ~71 g | d3588 |
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~13.6 L** · arsenic-bearing | d3754 · isolated · no processing yet |
 | ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay · **`FMN-STD ×3 staged`** · ref **`M31-FEED-COMPOSITE-Y12-1`** | d3615 |
 | ☠ **`BRONZE-STOCK`** | **×0** — feed-nut pad spent | d3545 |
 | `NAIL-IRON` | **×2 @ bench** · **×18 @ cave crate** | d3777 |
-| `FLAX-THREAD-SHINGLE-Y10-1` | ~475 m @ peg | d3587 |
+| `FLAX-THREAD-SHINGLE-Y10-1` | **~455 m** @ peg | d3800 |
 | Ice vault | ~125.8 kg · ~4 kg headroom · **cap-bound** | d3563 |
 | `SOAP-Y10-1` | ×22 bar batch, cured | d3452 |
 
@@ -112,7 +112,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `METROLOGY-CELLAR-1` | @ `CAVE-1` upslope · ~9 °C stable · ☠ references only, not food or seed |
 | Mass · length | `MASS-REF-100/1000-1` @ 14 °C · `CALIPER-1` gen-3 cert · ☠ length refs are steel/oak, not invar |
 | `PARTS-PEG-BOARD-1` | Bench peg board + `ELEC-COMPONENT-BOX-Y10-1` 4-row spare drawer |
-| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~1.9 L O₂ remain** · ☠ **bath daily read · purge first draw** |
+| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~3.0 L O₂ remain** · ☠ **bath daily read · purge first draw** |
 
 ## Standards
 
@@ -123,12 +123,12 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | Arc | State | Gate |
 |---|---|---|
 | ⚑ **`TRAIL-MAINT-Y12-SUMMER`** | **Trip 1 ✓ `L6` d3690–3695** · **Trip 2 ✓ Aleppo east d3714–3717** · **Trip 3 ✓ `L6-RECOVER` finish d3783–3785** · **`K-R0`–`K-R3` Kisecik d3751–3754** | **Erzin cache touch deferred Y12** |
-| ★ ⚑ **`ALLOY-PROGRAMME-Y12`** | **MFGC-2 d3742 · `TC-PROBE-1` d3743 · combustion C LIVE d3744** | **Coupon ladder · O₂ refill · HEAT-Y12-001** |
+| ★ ⚑ **`ALLOY-PROGRAMME-Y12`** | **CI practice closed · `FMN-STD-A` PASS d3815** | **⚑ `FMN-STD-B/C` · Cu-Ni · expendable crucible fire** |
 | ✓ **`NI-REDUCTION-STD-Y12-1`** | **`CONSTANTAN-STD-Y12-1` stub ~3.1 g** | ⚑ **Reproduce constantan when probe consumed** |
 | ✓ **`M31-ASSAY-Y12-1`** | **CLOSED d3603** · ✓ **`ORE-HAUL-M31-Y12-1` d3614** · ⚑ **ferromanganese charge** |
 | ✓ **`FORSTERITE-BRICK-BINDER-1`** | **CLOSED d3620** · **F10 → `FORSTERITE-BRICK-STD-Y12-1`** | — |
 | ⚑ **`FORSTERITE-BRICK-PROD-Y12-1`** | **Batch 5 ✓ fired d3768 · ×62 bank** | **Margin batches optional · muffle install**
-| ⚑ **`CAMPUS-BLOCK-Y12`** | **Hold from d3762** · farm · kiln · bricks · acorn · muffle pad | **No miles-out until named** |
+| ⚑ **`CAMPUS-BLOCK-Y12`** | **Hold from d3762** · rope · alloy · winter prep | **No miles-out until named** *(genetic import = multi-day · defer d3788)* |
 | **`FURNACE-2` + `MUFFLE-1` drawings** | **✓ `MUFFLE-1` BUILD CLOSED d3777** · empty heat + TC cone PASS | **atmosphere manifold · production alloy when named**
 | ✓ **`THERMOCOUPLE-1`** | **`TC-PROBE-1` @ muffle port d3777** · **`TC-CAL-LADDER-Y12-1`** | **Production holds · optional upper cone repeat** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | Steel · musket · invar/constantan refs | Pipe table in MFGC-1 — **production waits on `PIPE-TEST`** |

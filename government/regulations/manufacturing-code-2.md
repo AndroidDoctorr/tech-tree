@@ -52,7 +52,11 @@ File one charge sheet per heat before pour (copy → [heat-register-y12.md](heat
 | **`FMN-STD-Y12-1`** | Ferromanganese charge reference | ×3 staged d3615 | From **`M31-ASSAY-Y12-1`** composite |
 | **`NI-STD-A/B/C`** | Nickel reduction standard | ~13 / ~9 / ~13 g remain d3734 | **`NI-REDUCTION-STD-Y12-1`** |
 | **`CONSTANTAN-STD-Y12-1`** | Cu–Ni drift-minimum alloy | stub ~3.1 g + **`TC-CONST-LEG-1`** | Run D recipe on bridge label |
-| **`CAST-IRON-BUTTON-Y12-1`** | Cast iron trial button | ~168 g | **`HEAT-Y12-000-1`** exploratory only |
+| **`CAST-IRON-BUTTON-Y12-1`** | Cast iron trial button | ~167 g | **`HEAT-Y12-000-1`** exploratory · **~3.6 % C** |
+| **`CAST-IRON-BUTTON-Y12-2`** | Cast iron practice button | ~163 g | **`HEAT-Y12-001` PASS** |
+| **`CAST-IRON-BUTTON-Y12-3`** | Cast iron practice button | ~165 g | **`HEAT-Y12-002` PASS** |
+| **`CAST-IRON-BUTTON-Y12-4`** | Cast iron practice button | ~164 g *(chip)* | **`HEAT-Y12-003` PASS** |
+| **`CAST-IRON-BUTTON-Y12-5`** | Cast iron practice button | ~163 g *(chip)* | **`HEAT-Y12-004` PASS** |
 
 ⚑ **Ferronickel · ferrochrome · registered steel heats** — add rows when first melt certifies.
 
@@ -77,6 +81,36 @@ Assay events that **close or reopen** a heat verdict get a row in [heat-register
 | **One heat → one primary pour ID** | Split pours share heat ID · note split in register |
 | **Remelt** | New heat ID · parent heat noted in charge sheet |
 | **Expendable crucible melts** | Heat ID on **coupon/button only** if stock is not inventory-grade |
+
+---
+
+---
+
+## MFGC-2-CI — cast iron rhythm *(opened d3802)*
+
+**Vessel:** **`FURNACE-2`** · half-plugs **LIVE** · hot blast **bleed ~½** · reducing **crucible only** *(plan d3586)*.
+
+| Step | Rule |
+|---|---|
+| **1 · Gate** | Stack draw · duct joints · **`SMOKE-SPOT`** · **`FORGE-PPE-1`** before lit |
+| **2 · Grate** | **`CHAR-LANE` ~2.8–3.2 kg** even bed · ash pit weep |
+| **3 · Crucible** | **`H-11-HEMATITE` ~1.05 kg** crumbs + char pack **~1.0–1.1 kg** · lid · sand lute · expendable **`P-LAB-CRUC-2`** |
+| **4 · Soak** | Hot blast on · vent via cracked half-plugs · **~50–55 min** class to even pool |
+| **5 · Bank** | Fire out · freeze in place · eve chill |
+| **6 · Coupon** | Grey fracture · speckle class · spark vs **`CAST-IRON-BUTTON-Y12-1`** reference |
+| **7 · Register** | New **`HEAT-Y12-{seq}`** · charge sheet fields per **MFGC-2-CHARGE** · combustion C before **PASS** production |
+
+**Exploratory:** **`HEAT-Y12-000-1`** · **`CAST-IRON-BUTTON-Y12-1`** ~3.6 % C (**`ASSAY-Y12-002`**).
+
+**Practice / production row 1:** **`HEAT-Y12-001`** · **`CAST-IRON-BUTTON-Y12-2`** · **PASS** (**`ASSAY-Y12-003`** ~3.5 % C).
+
+**Row 2:** **`HEAT-Y12-002`** · **`CAST-IRON-BUTTON-Y12-3`** · **PASS** (**`ASSAY-Y12-004`**).
+
+**Row 3:** **`HEAT-Y12-003`** · **`CAST-IRON-BUTTON-Y12-4`** · **PASS** (**`ASSAY-Y12-005`**).
+
+**Row 4:** **`HEAT-Y12-004`** · **`CAST-IRON-BUTTON-Y12-5`** · **PASS** (**`ASSAY-Y12-006`**).
+
+> ★ **`MFGC-2-CI` cast-iron rhythm certified d3812** — **`001`–`003` fracture + ~3.5 % C repeat.**
 
 ---
 

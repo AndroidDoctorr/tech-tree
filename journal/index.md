@@ -6,10 +6,47 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3787)*
+## Recent days *(append here · @ Day 3824)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3824 | [day-3824.md](days/year-011/week-547/day-3824.md) | ✓ **Glove repair · kaolin wash** | **Cal-Y12 D305 · ~2 Nov · W547 d2** |
+| 3823 | [day-3823.md](days/year-011/week-547/day-3823.md) | ✓ **`M-26` kaolin haul** | **Cal-Y12 D304 · ~1 Nov · W547 d1** |
+| 3822 | [day-3822.md](days/year-011/week-546/day-3822.md) | ✓ **Yule strap · W546 close** | **Cal-Y12 D303 · ~31 Oct · W546 d7** |
+| 3821 | [day-3821.md](days/year-011/week-546/day-3821.md) | ✓ **Crucibles M/N/O throw** | **Cal-Y12 D302 · ~30 Oct** |
+| 3820 | [day-3820.md](days/year-011/week-546/day-3820.md) | ✓ **Norima tune · wear 14** | **Cal-Y12 D301 · ~29 Oct** |
+| 3819 | [day-3819.md](days/year-011/week-546/day-3819.md) | ✓ **Char retort ×3** | **Cal-Y12 D300 · ~28 Oct** |
+| 3818 | [day-3818.md](days/year-011/week-546/day-3818.md) | ✓ **Wood haul ~17 kg** | **Cal-Y12 D299 · ~27 Oct** |
+| 3817 | [day-3817.md](days/year-011/week-546/day-3817.md) | ✓ **Wood haul ~17 kg** | **Cal-Y12 D298 · ~26 Oct** |
+| 3816 | [day-3816.md](days/year-011/week-546/day-3816.md) | ✓ **Retort · crucible throw J/K/L** | **Cal-Y12 D297 · ~25 Oct** |
+| 3815 | [day-3815.md](days/year-011/week-545/day-3815.md) | ✓ **`FMN-STD-A` · heat 006** | **Cal-Y12 D296 · ~24 Oct** |
+| 3814 | [day-3814.md](days/year-011/week-545/day-3814.md) | ✓ **`HEAT-Y12-005`** | **Cal-Y12 D295 · ~23 Oct** |
+| 3813 | [day-3813.md](days/year-011/week-545/day-3813.md) | ✓ **O₂ fill · C on 004** | **Cal-Y12 D294 · ~22 Oct** |
+| 3812 | [day-3812.md](days/year-011/week-545/day-3812.md) | ✓ **CI C on 003 · heat 004** | **Cal-Y12 D293 · ~21 Oct** |
+| 3811 | [day-3811.md](days/year-011/week-545/day-3811.md) | ✓ **Crucibles fired · tan rung 3** | **Cal-Y12 D292 · ~20 Oct** |
+| 3810 | [day-3810.md](days/year-011/week-545/day-3810.md) | ✓ **Char retort ×3** | **Cal-Y12 D291 · ~19 Oct** |
+| 3809 | [day-3809.md](days/year-011/week-545/day-3809.md) | ✓ **Wood haul · W545 open** | **Cal-Y12 D290 · ~18 Oct** |
+| 3808 | [day-3808.md](days/year-011/week-544/day-3808.md) | ✓ **Char retort ×3 · W544 close** | **Cal-Y12 D289 · ~17 Oct** |
+| 3807 | [day-3807.md](days/year-011/week-544/day-3807.md) | ✓ **Char retort ×3** | **Cal-Y12 D288 · ~16 Oct** |
+| 3806 | [day-3806.md](days/year-011/week-544/day-3806.md) | ✓ **Wood haul ~17 kg** | **Cal-Y12 D287 · ~15 Oct** |
+| 3805 | [day-3805.md](days/year-011/week-544/day-3805.md) | ✓ **Crucible batch throw G/H/I** | **Cal-Y12 D286 · ~14 Oct** |
+| 3804 | [day-3804.md](days/year-011/week-544/day-3804.md) | ✓ **Leather · retort · O₂ · C · CI heat** | **Cal-Y12 D285 · ~13 Oct** |
+| 3803 | [day-3803.md](days/year-011/week-544/day-3803.md) | ✓ **C on 001 · third heat 002** | **Cal-Y12 D284 · ~12 Oct** |
+| 3802 | [day-3802.md](days/year-011/week-544/day-3802.md) | ✓ **`HEAT-Y12-001` · W544 open** | **Cal-Y12 D283 · ~11 Oct · cast iron practice** |
+| 3801 | [day-3801.md](days/year-011/week-543/day-3801.md) | ✓ **22 mm std · buckle · tan rung 2** | **Cal-Y12 D282 · ~10 Oct · light rain** |
+| 3800 | [day-3800.md](days/year-011/week-543/day-3800.md) | ✓ **Jeans mods close · tan read** | **Cal-Y12 D281 · ~9 Oct** |
+| 3799 | [day-3799.md](days/year-011/week-543/day-3799.md) | ✓ **Jeans loops/pockets start · tan read** | **Cal-Y12 D280 · ~8 Oct** |
+| 3798 | [day-3798.md](days/year-011/week-543/day-3798.md) | ✓ **Jerky + smoke close · tan read** | **Cal-Y12 D279 · ~7 Oct** |
+| 3797 | [day-3797.md](days/year-011/week-543/day-3797.md) | ✓ **Smoke · jerky · tan read** | **Cal-Y12 D278 · ~6 Oct** |
+| 3796 | [day-3796.md](days/year-011/week-543/day-3796.md) | ✓ **Deer butcher · tan pit** | **Cal-Y12 D277 · ~5 Oct · TAN-Y12 rung 1** |
+| 3795 | [day-3795.md](days/year-011/week-543/day-3795.md) | ✓ **T-2 deer hunt** | **Cal-Y12 D276 · ~4 Oct · W543 open · ~72 kg + hide** |
+| 3794 | [day-3794.md](days/year-011/week-542/day-3794.md) | ✓ **Norima tune** | **Cal-Y12 D275 · W542 close** |
+| 3793 | [day-3793.md](days/year-011/week-542/day-3793.md) | ✓ **Char retort ×3** | **Cal-Y12 D274 · ~2 Oct · lane ~20.2 kg** |
+| 3792 | [day-3792.md](days/year-011/week-542/day-3792.md) | ✓ **Wood haul** | **Cal-Y12 D273 · ~1 Oct** |
+| 3791 | [day-3791.md](days/year-011/week-542/day-3791.md) | ✓ **Wood haul** | **Cal-Y12 D272 · ~30 Sep** |
+| 3790 | [day-3790.md](days/year-011/week-542/day-3790.md) | ✓ **T-1 wood haul** | **Cal-Y12 D271 · ~29 Sep · pile ~21.7 kg** |
+| 3789 | [day-3789.md](days/year-011/week-542/day-3789.md) | ✓ **Rope lay D2** | **Cal-Y12 D270 · ~28 Sep · ~48 m rope** |
+| 3788 | [day-3788.md](days/year-011/week-542/day-3788.md) | ✓ **Rope lay · bee import NO-GO** | **Cal-Y12 D269 · ~27 Sep · exped close** |
 | 3787 | [day-3787.md](days/year-011/week-541/day-3787.md) | ✓ **Acorn roast · hemp spin** | **Cal-Y12 D268 · ~26 Sep · W541 close** |
 | 3786 | [day-3786.md](days/year-011/week-541/day-3786.md) | ✓ **Soak 4 · heckle** | **Cal-Y12 D267 · ~25 Sep** |
 | 3784 | [day-3784.md](days/year-011/week-541/day-3784.md) | ✓ **L6 crown finish** | **Cal-Y12 D265 · ~23 Sep** |

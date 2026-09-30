@@ -80,6 +80,9 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `STEW-Y9-JAR` | Stew jar, Y9 | ~0.80 kg | Cool cellar step | Y9 | d3145 |
 | `STEW-Y8-JAR` | Stew jar, Y8 · tail | ~0.06 kg | Cool cellar step | Y8 | d2903 |
 | `RED-STAG-Y10-1` | Red stag carcass · hide to tan queue · sinew · bone | ~95 kg | Racks and larder | d3269 | d3269 |
+| **`DEER-FRESH-Y12-1`** | Red deer · eat-first cuts | **~4.3 kg** | Ice-vault step | d3796 | d3798 |
+| **`DEER-JERKY-Y12-1`** | Red deer jerky · scale-dried batch | **~4.8 kg** | Horreum snack jar | d3798 | d3798 |
+| **`DEER-SMOKE-Y12-1`** | Red deer · cold-smoke Y12 | **~14.8 kg** | Horreum A smoke shelf | d3797 | d3798 |
 
 ★ `DEER-SMOKE-Y10-1` is the largest single food row on the campus and the reason Y10 protein is not a worry.
 
@@ -120,6 +123,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.435 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3598 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.41 kg** | Lamp jar · culina | d3251 | d3708 |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.8 kg** | Horreum cool step jar | d3795 | d3795 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

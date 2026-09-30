@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~12.3 kg** | Char lane | | d3781 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~13.0 kg** | Char lane | | d3819 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.7 kg** | Store C vault | | d3665 |
-| `WOOD-OAK-P5` | Oak, green | **~8.6 kg** @ pile 5 | Pile 5 | | d3781 |
+| `WOOD-OAK-P5` | Oak, green | **~12.7 kg** @ pile 5 | Pile 5 | | d3824 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~9.0 kg** | Berm | | d3786 |
@@ -23,7 +23,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CLAY-P1` | Clay, raw · green | **~9.6 kg** | Pile 1 | | d3572 |
-| `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | **×0** — consumed d3766 wash | d3329 | d3766 |
+| `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | **×0** — consumed d3824 wash | d3329 | d3824 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | ~53.85 kg | `STORE-4` | | d3332 |
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
@@ -68,10 +68,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~12.4 kg** | Chem porch jar | d3331 | d3766 |
-| `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.55 kg** | Chem porch jar | d3331 | d3766 |
-| `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.35 kg wet** | Chem porch separate peg | d3331 | d3766 |
-| `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | **~2.08 kg** | Chem porch jar | | d3761 |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~12.4 kg** | Chem porch jar | d3331 | d3824 |
+| `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.55 kg** | Chem porch jar | d3331 | d3824 |
+| `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.35 kg wet** | Chem porch separate peg | d3331 | d3824 |
+| `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | **~0.03 kg** | Chem porch jar | | d3821 |
 | `KAOLIN-SLIP-4` | Kaolin slip · ★ **best** — CAND-4 wash | **×0 class** | Chem porch jar | | d3761 |
 | `KAOLIN-SLIP-2` | Kaolin slip · rank #2 · **lane primary** | **~0.02 kg** | Chem porch jar | | d3721 |
 | `KAOLIN-SLIP-1` | Kaolin slip · #2-class bulk — CAND-1 wash | **×0 class** | Chem porch jar | | d3761 |
@@ -103,7 +103,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
-| `H-11-HEMATITE` | Hematite | **~10.2 kg @ pile 4** | Pile 4 | | d3728 |
+| `H-11-HEMATITE` | Hematite | **~4.95 kg @ pile 4** | Pile 4 | | d3814 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~18.0 kg** | Pile 4 tray | d3618 | d3759 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
@@ -122,10 +122,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ★ **`M31-A1-DRESS-Y12-1`** | Manganese ore · dressed production head @ `M-31-A` | **~37 kg** | `ORE-BAY-1` kerb | d3612 | d3615 |
 | **`M31-A2-DRESS-Y12-1`** | Manganese ore · dressed blend sack | **~17 kg** | `ORE-BAY-1` kerb | d3612 | d3614 |
 | **`M31-FEED-COMPOSITE-Y12-1`** | Roasted Mn feed · homogenized · sealed reference | **~100 g** | Chem porch | d3615 | d3615 |
-| **`FMN-STD-A/B/C`** | Ferromanganese trial charges · sealed jars | **×3 @ 191 g staged** | Chem porch | d3615 | d3615 |
+| **`FMN-STD-A/B/C`** | Ferromanganese trial charges · sealed jars | **×2 @ 191 g** *(A spent d3815)* | Chem porch | d3615 | d3815 |
 | ★ `SERPENTINITE-REJECT-M24-1` | Host serpentinite, raw · **M24 dress reject** · forsterite feedstock | **×0** | `ORE-BAY-1` kerb empty | d3582 | d3634 |
 | `SERPENTINITE-RAW-KISECIK-Y12-1` | Kisecik ophiolite serpentinite · raw · **forsterite feed** · dressed **`K-SERP-RIDGE-1` d3638 · d3648 · d3754** | **~31.4 kg** | `ORE-BAY-1` kerb | d3638 | d3761 |
-| ★★ `FORSTERITE-GROG-1` | **Dead-burned serpentinite** · buff-grey · rings · no slake | **~6.1 kg** | Kiln yard, covered | d3583 | d3776 |
+| ★★ `FORSTERITE-GROG-1` | **Dead-burned serpentinite** · buff-grey · rings · no slake | **~4.45 kg** | Kiln yard, covered | d3583 | d3821 |
 | `FORSTERITE-BRICK-Y12-1` | Production forsterite brick · **`FORSTERITE-BRICK-STD-Y12-1`** · **~230×115×45 mm** | **×0 bank** · **×62 @ `MUFFLE-1-SHELL-1`** *(×107 @ `FURNACE-2` shell · ×2 @ lift plugs)* | South court | d3621 | d3775 |
 | `SERPENTINITE-RAW-CONTROL-1` | Raw serpentinite, unfired · **comparison control — do not use** | ~0.40 kg | Bench shelf, labelled | d3583 | d3583 |
 | ★ `NI-CU-BUTTON-Y12-1` | Cu-Ni-**Fe** button · first nickel won · ⚠ **magnetic — iron came with it** | **~61.4 g** | Bench vial | d3582 | d3582 |
@@ -144,6 +144,12 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CS-BAR-Y12-1` | Carbon steel bar · hardened + tempered | **~847 g** | Forge peg | Y12 | d3571 |
 | `CS-BAR-Y12-2` | Carbon steel bar · hardened + tempered | **~848 g** | Forge peg | Y12 | d3573 |
 | `CAST-IRON-BUTTON-Y12-1` | Cast iron button · **`FURNACE-2` trial 1** · combustion ref d3744 | **~167 g** | Chill tray | d3728 | d3744 |
+| `CAST-IRON-BUTTON-Y12-2` | Cast iron button · **`HEAT-Y12-001`** · **~3.5 % C** | **~163 g** *(chip)* | Chill tray | d3802 | d3803 |
+| `CAST-IRON-BUTTON-Y12-3` | Cast iron button · **`HEAT-Y12-002`** · **~3.5 % C** | **~165 g** *(chip)* | Chill tray | d3803 | d3804 |
+| `CAST-IRON-BUTTON-Y12-4` | Cast iron button · **`HEAT-Y12-003`** · **~3.5 % C PASS** | **~164 g** *(chip)* | Chill tray | d3804 | d3812 |
+| `CAST-IRON-BUTTON-Y12-5` | Cast iron button · **`HEAT-Y12-004`** · **~3.5 % C PASS** | **~163 g** *(chip)* | Chill tray | d3812 | d3813 |
+| `CAST-IRON-BUTTON-Y12-6` | Cast iron button · **`HEAT-Y12-005`** · coupon only | **~164 g** *(chip)* | Chill tray | d3814 | d3815 |
+| **`FMN-BUTTON-Y12-1`** | Ferromanganese trial button · **`HEAT-Y12-006` · `FMN-STD-A`** | **~79 g** | Chill tray | d3815 | d3815 |
 | **`CONSTANTAN-STD-Y12-1`** | Constantan std stub · run D tail · reproduce from bridge label | **~3.1 g** | Instrument tray | d3734 | d3735 |
 | **`TC-CONST-LEG-1`** | *(integrated **`TC-PROBE-1` d3743)* | — | — | d3735 | d3743 |
 | **`TC-IRON-LEG-1`** | *(integrated **`TC-PROBE-1` d3743)* | — | — | d3736 | d3743 |
@@ -155,7 +161,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | ~118 g | Purple lidded jar, v1 chem | | d3013 |
 | `BRONZE-STOCK` | Bronze, sprue tail · red | **×0** | Chill tray | | d3545 |
 | `PB-METAL` | Lead, tail · red · galena restock queued | **×0** | Forge jar | | d3497 |
-| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~38 g** | Chill tray | d3500 | d3587 |
+| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~23 g** | Chill tray | d3500 | d3801 |
+| `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** · Yule gift | **~15 g** | Vestiarium gift peg | d3801 | d3801 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
 | `NAIL-IRON` | Iron nails | **×2 @ bench** · **×18 @ `CAVE-RECOVERY-CRATE-1`** | Bench / cave | d3514 | d3777 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
@@ -208,11 +215,12 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 |---|---|---|---|---|---|
 | `FLAX-TOW-BANK` | Flax tow | ~103 g | Wing shelf | | d3505 |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
-| `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~461 m** | Craft wing peg | d3505 | d3657 |
+| `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~455 m** | Craft wing peg | d3505 | d3800 |
 | `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
 | `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-LINE-Y12-1` | Hemp line · Bed A Y12 · **`P-RETT-33`** | **×0** *(spun d3787)* | — | d3786 | d3787 |
-| `HEMP-THREAD-Y12-1` | Hemp thread · Bed A Y12 spin | **~555 m** | Craft wing peg | d3787 | d3787 |
+| **`HEMP-THREAD-Y12-1`** | Hemp thread · Bed A Y12 spin | **~315 m** | Craft wing peg | d3787 | d3789 |
+| `ROPE-HEMP-Y12-1` | Hemp rope · 3-strand · Y12 yarn · even lay · ⚑ break test + ÷6 cert defer | **~48 m** | WW peg | d3788 | d3789 |
 | `HEMP-THREAD-Y10-1` | Hemp thread · cover weft | ~75 m | Craft wing peg | d3382 | d3400 |
 | `WAGON-V2-COVER-HEMP-FLAX-1` | Wagon cover · hemp shell + flax liner · air gap · **outer oilcloth d3408** · mounted Norima | ✓ CLOSED d3407 | `WAGON-V2-COVER-ARCH-1` | d3400 | d3408 |
 | `HEMP-TOW-BANK` | Hemp tow | **~219 g** | Storage wing tow bag | | d3786 |
@@ -237,12 +245,17 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `DEER-HIDE-1` | Deer hide, **tanned** | ~0.52 m² | Horreum B `LEATHER-STOCK-PEG-1` | | d3436 |
+| **`LEATHER-BELT-STRAP-Y12-1`** | Deer belt strap · **`BELT-WIDTH-STD-Y12-1` 22.0 mm** · Yule · unstitched | **~1.05 m** | Vestiarium gift peg | d3822 | d3822 |
+| **`DEER-HIDE-TANNED-Y12-1`** | Deer hide tail · **`TAN-DEER-Y12-1` remainder** · PPE + **`CL-GLOVE-H-Y12-2` queue** | **~0.29 m²** | Horreum B `LEATHER-STOCK-PEG-1` | d3822 | d3824 |
+| `SINEW-DRY` | Sinew, dry | **~40 g** | Bench | | d3824 |
+| **`DEER-HIDE-RAW-Y12-1`** | Red deer hide · salted · **Yule belt / tan queue** | **×0 → pit** | — | d3795 | d3796 |
 | `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | **~0.07 m²** | Horreum B | | d3655 |
 | `HIDE-SCRAP` | Hide scrap, tail | **~0.09 m²** | — | | d3655 |
 | `WEATHER-STRIP-LEATHER-1` | Weather strip, ~25 mm | ~4.6 m | — | | d3167 |
 | `MACHINE-BELT-LEATHER-KIT-1` | Machine belt stock — WW · drill · trip tail | — | `BELT` peg | | d3052 |
 | `TRAIL-GEAR-LEATHER-1` | Belt v2 blank · waterskin patch · lash tabs ×4 | — | Vestiarium trail peg | | d2964 |
 | `DEER-BONES` | Deer bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
+| **`DEER-BONE-Y12-1`** | Red deer bone · **`DEER-BUTCHER-Y12-3796`** | **~11 kg** | **`BONE-BANK-1`** peg | d3796 | d3796 |
 | `GOAT-BONES` | Goat bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
 | ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~40 cupels · ~2 passes through `GALENA-1`** | ~5.6 kg @ porch · **~0.5 kg @ cave** | Chem porch / cave | d3309 | d3458 |
 
@@ -253,15 +266,16 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 > ☠ ★★★ **`BONE-BANK-1` opened d3297 — bone is the rate limit on SILVER, not the hearth.** *A cupel is a reagent consumed every run; ~4.7 kg of bone is ~3 kg of ash is ~20 cupels is ONE pass through `GALENA-1`.* ⚑ **Retain every bone from every butchery and every kitchen pot, dried, on the Horreum peg** — ☠ *nine years of it went on the midden.*
 > ✓ ★★ **Used cupels are BANKED ORE, not waste** — *lead-soaked, richer than anything dug.* **They go in the kerbed galena bay at `ORE-BAY-1`.**
 | `GOAT-HORN-BILLIE` | Goat horn, remnant | ~65 g | `WORKBENCH` peg | | d3015 |
-| `SINEW-DRY` | Sinew, dry | ~32 g | Bench | | d3090 |
 
-### `TAN-DEER-Y10-1` — in the pit
+### `TAN-DEER-Y12-1`
 
-In the **weak** oak-bark pit since d3254. Weeks to run, liquor ladder logged, **weak to strong**.
+**✓ CLOSED d3822** — strap cut **`LEATHER-BELT-STRAP-Y12-1`** · hide tail **`DEER-HIDE-TANNED-Y12-1`**.
 
-☠ **Strong liquor on a raw hide case-hardens it.** Tannin seals the surface, the middle never tans, and the hide rots from the inside where it cannot be seen. The ladder is the procedure, not a refinement of it.
+### `TAN-DEER-Y10-1` — frame hold
 
-Destined for **belt leather** — butt cut, along the backbone, tallow-stuffed, pre-stretched.
+**Pulled d3796** for single-pit priority · **rung 2 hold** @ Horreum B frame · defer *(backup leather · not Yule strap)*.
+
+☠ **Strong liquor on a raw hide case-hardens it.** The ladder is the procedure, not a refinement of it.
 
 Rope is here rather than in tools because it is measured and consumed. A rope rigged into a fixed installation belongs to that installation's entry — `CAVE-3-FIXED-LINE-1` is in [infrastructure.md](infrastructure.md), not this table.
 
