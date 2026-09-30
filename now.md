@@ -2,7 +2,7 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3824** · Cal-Y12 D305 · ~2 Nov · **Week 547 day 2**
+> **Day 3825** · Cal-Y12 D306 · ~3 Nov · **Week 547 day 3**
 >
 > **Hazard:** volatility normal · rut_tension 20 · mishap_pool **15** · **Norima wear 15**
 
@@ -65,8 +65,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~13.0 kg** | d3819 |
-| **`WOOD-OAK-P5`** | **~12.7 kg** @ pile 5 | d3824 |
+| **`CHAR-LANE`** | **~12.9 kg** | d3825 |
+| **`WOOD-OAK-P5`** | **~11.7 kg** @ pile 5 | d3825 |
 | **`H-11-HEMATITE`** | **~4.95 kg @ pile 4** | d3814 |
 | **`FORSTERITE-GROG-1`** | **~4.45 kg** | d3821 |
 | `SERPENTINITE-RAW-KISECIK-Y12-1` | **~31.4 kg** @ kerb | d3761 |

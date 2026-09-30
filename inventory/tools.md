@@ -81,9 +81,18 @@ Individuated and condition-bearing, so they follow the tool schema rather than e
 |---|---|---|
 | `BOOT-5-LAST-SET-1` | Oak lasts ×2 | `W-1 BOOT-5-LAST-PEG-1` |
 | `BOOT-5-PATTERN-SET-1` | Linen and kraft templates | `W-1 BOOT-5-PATTERN-PEG-1` |
+| **`CL-GLOVE-H-PATTERN-Y12-1`** | Forge heat-glove · palm · back · thumb · cuff · nested kraft + linen | **`W-1 CL-GLOVE-H-PATTERN-PEG-1`** |
 | `SLIPPER-1-PATTERN` | Trace, with the boot patterns | `W-1` |
 
 The lasts and patterns are the reason a replacement boot is a day's work rather than a week's. They are kept indefinitely regardless of whether a boot is in progress.
+
+### Forge PPE — heat gloves
+
+| ID | Item | Where | State |
+|---|---|---|---|
+| **`CL-GLOVE-H-Y12-2`** | Forge heat gloves · pair · long cuff · ash pocket · **cert d3825** | **`FORGE-PPE-1` hook** | **LIVE primary** |
+| **`CL-GLOVE-H-BACKUP-1`** | Former **`CL-GLOVE-H`** primary · d3824 left repair | PPE backup peg | Backup |
+| **`CL-GLOVE-H-PATTERN-Y12-1`** | *(see Patterns)* | `W-1` | Live |
 
 ## Containers and bags
 

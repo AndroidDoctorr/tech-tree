@@ -6,10 +6,11 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3824)*
+## Recent days *(append here · @ Day 3825)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3825 | [day-3825.md](days/year-011/week-547/day-3825.md) | ✓ **Forge gloves Y12-2 · pattern** | **Cal-Y12 D306 · ~3 Nov · W547 d3** |
 | 3824 | [day-3824.md](days/year-011/week-547/day-3824.md) | ✓ **Glove repair · kaolin wash** | **Cal-Y12 D305 · ~2 Nov · W547 d2** |
 | 3823 | [day-3823.md](days/year-011/week-547/day-3823.md) | ✓ **`M-26` kaolin haul** | **Cal-Y12 D304 · ~1 Nov · W547 d1** |
 | 3822 | [day-3822.md](days/year-011/week-546/day-3822.md) | ✓ **Yule strap · W546 close** | **Cal-Y12 D303 · ~31 Oct · W546 d7** |

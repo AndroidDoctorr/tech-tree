@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~13.0 kg** | Char lane | | d3819 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~12.9 kg** | Char lane | | d3825 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.7 kg** | Store C vault | | d3665 |
-| `WOOD-OAK-P5` | Oak, green | **~12.7 kg** @ pile 5 | Pile 5 | | d3824 |
+| `WOOD-OAK-P5` | Oak, green | **~11.7 kg** @ pile 5 | Pile 5 | | d3825 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | ~9.0 kg | Storage wing | | d3505 |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~9.0 kg** | Berm | | d3786 |
@@ -244,10 +244,9 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `DEER-HIDE-1` | Deer hide, **tanned** | ~0.52 m² | Horreum B `LEATHER-STOCK-PEG-1` | | d3436 |
+| `DEER-HIDE-1` | Deer hide, **tanned** | **~0.38 m²** | Horreum B `LEATHER-STOCK-PEG-1` | | d3825 |
 | **`LEATHER-BELT-STRAP-Y12-1`** | Deer belt strap · **`BELT-WIDTH-STD-Y12-1` 22.0 mm** · Yule · unstitched | **~1.05 m** | Vestiarium gift peg | d3822 | d3822 |
-| **`DEER-HIDE-TANNED-Y12-1`** | Deer hide tail · **`TAN-DEER-Y12-1` remainder** · PPE + **`CL-GLOVE-H-Y12-2` queue** | **~0.29 m²** | Horreum B `LEATHER-STOCK-PEG-1` | d3822 | d3824 |
-| `SINEW-DRY` | Sinew, dry | **~40 g** | Bench | | d3824 |
+| `SINEW-DRY` | Sinew, dry | **~26 g** | Bench | | d3825 |
 | **`DEER-HIDE-RAW-Y12-1`** | Red deer hide · salted · **Yule belt / tan queue** | **×0 → pit** | — | d3795 | d3796 |
 | `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | **~0.07 m²** | Horreum B | | d3655 |
 | `HIDE-SCRAP` | Hide scrap, tail | **~0.09 m²** | — | | d3655 |
