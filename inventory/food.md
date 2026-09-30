@@ -12,12 +12,15 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| **`BARLEY-BULK-Y12`** | Barley, bulk · Y12 trial harvest | **~0.51 kg** | Horreum A barley bay | d3849 | d3849 |
 | `BARLEY-BULK-Y10` | Barley, bulk · Y10 trial harvest | ~0.48 kg | Horreum A barley bay | d3491 | d3491 |
+| **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~2.59 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d3854 |
 | `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~1.11 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3576 |
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
+| **`PARCHED-MU-12-Y12-1`** | Parched emmer · green · Y12 refresh | **~0.52 kg** | Horreum snack jar `P-μ-12` | d3854 | d3854 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
 | `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · food lap | **~0.95 kg** | Horreum snack jar | d3685 | d3685 |
-| `BARREL-4-GRAIN` | Cracked grain, working · Y10 top-up | ~0.46 kg | `BARREL-4`, v1 | d3488 | d3504 |
+| `BARREL-4-GRAIN` | Cracked grain, working · Y12 top-up | **~0.96 kg** | `BARREL-4`, v1 | d3853 | d3854 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 
 `STARTER-Y6-1` is the only row in the inventory that dies if ignored for a week. Feeding it is a [daily.md](../checklists/daily.md) concern, not a stock concern.
@@ -31,6 +34,8 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |
 | `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | ~170 g | Cool cellar step crock | d3492 | d3509 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
+| **`P-18-CHICKPEA-Y12`** | Chickpea · Y12 harvest | **~201 g** | Horreum A pulse bay | d3851 | d3854 |
+| **`P-17-LENTIL-Y12`** | Lentil · Y12 harvest | **~153 g** | Horreum A pulse bay | d3850 | d3854 |
 | `P-17-LENTIL-Y10` | Lentil · Y10 harvest | ~126 g | Horreum A pulse bay | d3486 | d3498 |
 | `P-17-LENTIL-Y6` | Lentil | ~91 g | Horreum A pulse bay `P-17-Y6` | Y6 | d2892 |
 | `P-17-LENTIL-Y5` | Lentil | ~178 g | Pulse bay | Y5 | — |
@@ -42,15 +47,14 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `PISTACHIO-1` | Pistachio kernels | **~2.14 kg** | Horreum A nut tray | Y10 | d3591 |
-| `PISTACHIO-HULL-Y12-1` | Pistachio · hull-on fresh · **`P-01` primary d3764** · dry then shell | **~4.8 kg** | v1 porch mat + lean rack | d3764 | d3764 |
+| `PISTACHIO-1` | Pistachio kernels · Y10 + **Y12 `P-01` shell d3837** | **~4.19 kg** | Horreum A nut tray | Y10 + Y12 | d3837 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | **~0.66 kg** | Nut tray | Y9 | d3591 |
 | `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~575 g | Nut tray | d3423 | d3508 |
 | `ACORN-ROAST-Y10-2` | Acorn roast · **`ACORN-LEACH-Y10-2` batch** | ~610 g | Nut tray | d3465 | d3465 |
 | `ACORN-ROAST-Y10-3` | Acorn roast · **`ACORN-LEACH-Y10-3` batch** | ~605 g | Nut tray | d3471 | d3471 |
 | `ACORN-ROAST-Y10-4` | Acorn roast · **`ACORN-LEACH-Y10-4` batch** | ~600 g | Nut tray | d3478 | d3478 |
 | **`ACORN-ROAST-Y12-1`** | Acorn roast · **`ACORN-LEACH-Y12-1` batch** | **~615 g** | Nut tray | d3787 | d3787 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~5.3 kg** | v1 mat · `WOOD-CRATE-4` | Y10 carry + **Y12 d3778** | d3779 |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~5.3 kg** | **`NUT-SHELF-EXT-1` west lip** | Y10 carry + **Y12 d3778** | d3837 |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -72,10 +76,11 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `DEER-SMOKE-Y10-1` | Smoked deer | ~10.6 kg | Horreum A smoke shelf | d3253 | d3253 |
-| `FISH-SMOKE-1` | Smoked fish | ~1.57 kg | Smoke rack, pool | ? | d3508 |
+| `FISH-SMOKE-1` | Smoked fish | **~2.15 kg** | Smoke rack, pool | ? | d3854 |
 | `GOOSE-SMOKE-Y10-1` | Smoked goose · Y10 Yule hunt remainder | **~0.95 kg** | Horreum A smoke shelf | d3509 | d3509 |
 | `GOOSE-SMOKE-1` | Smoked goose · Y9 tail | ~0.79 kg | Horreum A smoke shelf | ? | d3146 |
 | `GOOSE-GIBLET-JAR` | Goose giblets, jarred | ~280 g | — | ? | d2426 |
+| **`STEW-Y12-JAR-3854`** | Stew jar, Y12 · lentil–chickpea–emmer | **~1.02 kg** | Cool cellar step | d3854 | d3854 |
 | `STEW-Y10-JAR` | Stew jar, Y10 · lentil–emmer | ~0.80 kg | Cool cellar step | d3489 | d3508 |
 | `STEW-Y9-JAR` | Stew jar, Y9 | ~0.80 kg | Cool cellar step | Y9 | d3145 |
 | `STEW-Y8-JAR` | Stew jar, Y8 · tail | ~0.06 kg | Cool cellar step | Y8 | d2903 |
@@ -123,7 +128,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.435 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3598 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.41 kg** | Lamp jar · culina | d3251 | d3708 |
-| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.8 kg** | Horreum cool step jar | d3795 | d3795 |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.8 kg** | Horreum cool step jar | d3795 | d3828 |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 
@@ -133,6 +138,8 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| **`OIL-Y12-1`** | Olive oil, clear · **cook live** | **~1.06 L** | Glass bottles · working draw ~280 ml @ `P-ξ-5` | d3850 | d3854 |
+| **`OIL-SEDIMENT-Y12-1`** | Olive oil sediment, sealed | **~150 ml** | `AMPHORA-6` foot | d3854 | d3854 |
 | `OIL-Y10-1` | Olive oil, clear · **cook live** | ~1.12 L | Glass bottles · working draw ~320 ml at `P-ξ-5` | d3479 | d3509 |
 | `OIL-Y9-1` | Olive oil, clear · **cook live** | ~1.03 L | Glass bottles · working draw ~390 ml at `P-ξ-5` | d3117 | d3452 |
 | `OIL-Y8-1` | Olive oil, clear · bulk settle | ~1.27 L | Glass bottles · `P-ξ-5` | d2749 | d3100 |
@@ -162,6 +169,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `OLIVE-BRINE-Y7-1` | Olive, brined · 6–18 mo band | ~1.9 kg fruit | Crock #2, v1 porch | d2397 | d2397 |
 | `OLIVE-BRINE-Y6-1` | Olive, brined · 6–18 mo band | ~910 g fruit | Crock #2, v1 porch | d2056 | d2056 |
 | `OLIVE-BRINE-LEGACY` | Olive brine, P-02 legacy | ~2.0 kg | P-02 crock | ? | — |
+| **`OLIVE-FRUIT-P-02-Y12-1`** | Olive fruit · P-02 laps 1–2 · **processed d3850** | **×0** | — | d3847 | d3850 |
 
 The 6–18 month band is the one real keep window in this file. Y6 is well past it and should be read before it is relied on.
 

@@ -39,6 +39,11 @@ Map: chem porch east cheek · Built: d2742
 
 Slip jars ranked; fire-table pegs cleared.
 
+### `LAB-FUME-CABINET-1` — bench fume hood
+Map: **`CHEM-LAB-WING-1` south bench west bay** · Slated **d3840** · Live **d3843** · ⚑ **SO₂ proof on first roast**
+
+**~1.20 × 0.72 × ~0.92 m** oak frame · **tile-lined interior** · **fire-table tile floor inherited** · rear plenum throat **~118 × 96 mm**. **Duct** — **×8 `TILE-TF` flat liner** *(kaolin floor tile class · not brick · not **`TILE-TR` roof)* · N-wall run ~2.1 m + riser ~0.9 m → chase **LIVE**. **Interior walls** — **×14 `TILE-TF` cut** *(retcon [TILE-TR-TF-FUME-CABINET-Y12.md](../journal/retcons/TILE-TR-TF-FUME-CABINET-Y12.md))*. **Make-up inlet** @ east-door toe **LIVE** · **three-stop blast gate** @ plenum *(slide forged **`NAIL-IRON` ×8**)*. **Glass sash** — marver-blown lite ~1.16 × 0.45 m · ~12 cm working gap. **Smoke proof PASS** empty + **`FORGE-D` load** d3843 · **SO₂ band defer**.
+
 ### `VOLTAIC-BATTERY-TRAY-1` — voltaic battery tray
 Map: chem-lab · Built: d3000
 
@@ -475,6 +480,8 @@ Map: ditch W · Live
 Map: ditch W · Live
 
 ✓ **`P-RETT-32` CLOSED d3505** — break/heckle/spin · **`FLAX-THREAD-SHINGLE-Y10-1` ~760 m** @ craft peg.
+
+✓ **`P-RETT-34` FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg line @ `WOOD-CRATE-6`** · spin defer · **`W-1` cleared** · **`RETT-TROUGH-FLAX-1` empty**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

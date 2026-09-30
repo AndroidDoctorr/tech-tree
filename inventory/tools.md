@@ -99,8 +99,8 @@ The lasts and patterns are the reason a replacement boot is a day's work rather 
 | ID | Item | Where | State |
 |---|---|---|---|
 | `COLLECT-BAG-1…7` | Tow-body collecting bags — OLIVE · MADDER · SPARE · FIG · GRAPE · **WINNOW-PICK** · **GRAIN-PICK** | Barn peg | Live |
-| `WOOD-CRATE-3` | Fibre / tool · ×14 nails | Horreum overflow slot 2 | Live |
-| `WOOD-CRATE-4` | `ACORN-STAGING` · ×12 nails | v1 porch | Live |
+| `WOOD-CRATE-3` | **`GRAIN-WINNOW-OVERFLOW`** · ×14 nails | Horreum overflow slot 2 | Live · d3837 |
+| `WOOD-CRATE-4` | **`HARVEST-STAGING`** · ×12 nails | v1 porch | Live · d3837 |
 | `WOOD-CRATE-5` | `FORGE-FASTENER` — brass ×14 · tools · **iron → cave cache** | Storage wing E lower | Live · iron drawn d3458 |
 | `CAVE-RECOVERY-CRATE-1` | Recovery cache · salt · niter · jerky · ash · wire · nails · records | `CAVE-3` @ `CAVE-3-SHELF-1` | ✓ LIVE d3458 |
 | `WOOD-CRATE-6` | `FIBER` — hemp · flax · tow tail | Storage wing N lower | Live |
@@ -132,7 +132,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×3 NI-assigned · ×1 marginal · C–I spent** · **×6 GREEN J–O d3816/3821** |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×3 NI-assigned · ×1 marginal · C–K spent** · **×4 FIRED L/M/N/O d3827/3832** · **×3 GREEN P/Q/R d3838 @ sun rack** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |

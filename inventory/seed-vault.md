@@ -27,6 +27,7 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| **`EMMER-ELITE-Y12`** | Emmer elite · Y12 harvest · field + increase + Y5 rescue | **~560 g** | Vault | Y12 | d3849 |
 | `EMMER-ELITE-Y10` | Emmer elite · Y10 harvest · **~82 g reserve hold** | ~239 g | Vault | Y10 | d3574 |
 | `EMMER-ELITE-Y9` | Emmer elite · ✓ **~88%** · tail after increase sow | ~18 g | Vault | Y9 | **d3574** |
 | ⚠ `EMMER-ELITE-Y6` | Emmer elite · **~38%** — sowable at double rate, not bankable | ~17 g | Vault | Y6 | **d3574** |
@@ -80,7 +81,10 @@ Last full audit **d3175**.
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| **`P-18-ELITE-Y12`** | Chickpea elite · Y12 harvest | **~52 g** | Vault | Y12 | d3851 |
 | `P-18-ELITE-Y10` | Chickpea elite · Y10 harvest · **~15 g reserve hold** | ~15 g | Vault | Y10 | d3574 |
+| **`P-17-ELITE-Y12`** | Lentil elite · Y12 harvest | **~51 g** | Vault | Y12 | d3850 |
+| **`BARLEY-ELITE-Y12`** | Barley elite · Y12 trial harvest | **~44 g** | Vault | Y12 | d3849 |
 | `BARLEY-ELITE-Y10` | Barley elite · Y10 trial harvest · fresh | ~48 g | Vault | Y10 | d3574 |
 | `P-17-ELITE-Y10` | Lentil elite · Y10 harvest · **~11 g reserve hold** | ~11 g | Vault | Y10 | d3574 |
 | ⚠ `P-17-ELITE-Y9` | Lentil elite · **sown disaster block d3576** | ~6 g | Vault | Y9 | **d3574** |
@@ -99,6 +103,7 @@ Last full audit **d3175**.
 | `HEMP-SEL-Y10` | Hemp select · ★ **Ghab line · ~4 g reserve hold** | **~4 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d3574 ~90%** |
 | `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` genetics reserve · ~36 g hold** | **~36 g** | SEED-VAULT · linen jar | d3413 gather | **d3574 ~85%** |
 | `FLAX-SOW-Y10` | Flax sow tray | **→ field d3576** | Vault | Y10 | d3574 |
+| **`P-07-ELITE-Y12`** | Flax elite · Y12 field pull | **~11 g** | Vault | Y12 | d3852 |
 | `P-07-ELITE-Y10` | Flax elite · **~8 g reserve hold** | ~8 g | Vault | Y10 | d3574 |
 
 ☠ **`HEMP-SEL-Y7` Ghab spare tail ~17 g — DEAD, written off d3218.** **`HEMP-SEL-Y10` ~15 g @ vault** · **`HEMP-GHAB-RESERVE-Y10` ~108 g @ vault d3415** — reserve rebuilt; rag test before arking.

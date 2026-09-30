@@ -15,7 +15,7 @@ Y12 sow **d3576**. Bed geometry is [map](../map/index.md); what to select for is
 | `HEMP-SEL-Y12` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **cut d3763 · stubble** | d3576 | **✓ `HEMP-CUT-Y12-3763` · ~12 g seed hold** |
 | `HEMP-GHAB-RESERVE-Y12` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3576 | **Sown thin** · pegged **RESERVE** |
 | `FAVA-Y12` | Fava | Bed A west · **~6 m²** | d3576 | **Dibbed** · nodule ground |
-| `P-18-CHICKPEA-Y12` | Chickpea | Bed A south · **~6 m²** | d3576 | **Row drill** |
+| `P-18-CHICKPEA-Y12` | Chickpea | Bed A south · **~6 m²** | d3576 | **✓ cut d3851 · stubble** |
 
 ☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before seed block flowers). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 
@@ -23,19 +23,20 @@ Y12 sow **d3576**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y12` | Flax, field · fibre | Bed B centre · **~16 m²** | d3576 | **Dense drill** · brush-covered |
-| `EMMER-Y12` | Emmer | Bed B south + centre · **~10 m²** | d3576 | **Broadcast** |
-| `P-17-LENTIL-Y12` | Lentil | Bed B north + margin · **~6 m²** | d3576 | **Row drill** |
+| `FLAX-FIELD-Y12` | Flax, field · fibre | Bed B centre · **~16 m²** | d3576 | **✓ pulled d3852 · roots cleared** |
+| `EMMER-Y12` | Emmer | Bed B south + centre · **~10 m²** | d3576 | **✓ cut d3849 · stubble** |
+| `BARLEY-TRIAL-Y12` | Barley trial | Bed B east margin · **~2.5 m²** | d3576 | **✓ cut d3849 · stubble** |
+| `P-17-LENTIL-Y12` | Lentil | Bed B north + margin · **~6 m²** | d3576 | **✓ cut d3850 · stubble** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
-| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3576 | **Staked** · weigh by block at harvest |
+| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3576 | **✓ weighed d3850 · analysis defer** |
 
 ## Bed C
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y12` | Emmer elite increase | Bed C south corner · **~3 m²** | d3576 | **Wide drill** · pegged **RESERVE** |
+| `SEED-INCREASE-BLOCK-Y12` | Emmer elite increase | Bed C south corner · **~3 m²** | d3576 | **✓ cut d3849 · elite to vault** |
 | `PULSE-DISASTER-Y12` | Lentil + chickpea disaster/regen | Bed C SW · **~8 m²** | d3576 | **`SEED-REGEN` blocks** |
-| `EMMER-Y5-RESCUE-Y12` | Emmer elite Y5 rescue | Dedicated block · **~4 m²** | d3576 | **Thick sow** · harvest-as-seed |
+| `EMMER-Y5-RESCUE-Y12` | Emmer elite Y5 rescue | Dedicated block · **~4 m²** | d3576 | **✓ cut d3849 · ~236 g elite to vault** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -80,3 +81,4 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 |---|---|---|---|---|
 | `P-RETT-33` | Hemp Bed A Y12 · **×6 sheaves** | — | d3770 | **✓ FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** |
 | `P-RETT-32` | Flax field Y10 | — | d3487 | ✓ **CLOSED d3505** |
+| **`P-RETT-34`** | Flax field Y12 | — | d3852 | **✓ FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg · spin defer** |

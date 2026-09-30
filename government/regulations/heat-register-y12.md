@@ -19,6 +19,8 @@
 
 | **HEAT-Y12-005** | d3814 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`MFGC-2-CI`** · **`H-11-HEMATITE` ~1.05 kg** | **`CAST-IRON-BUTTON-Y12-6`** ~165 g | grey fracture · spark | soak ~53 min | — | **PASS coupon-only** | Crucible **H** spent · **C assay waived d3815** |
 | **HEAT-Y12-006** | d3815 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`FMN-STD-Y12-1` · `FMN-STD-A` ~191 g** | **`FMN-BUTTON-Y12-1`** ~79 g | dark grey fracture · magnet | soak ~38 min · TC witness | — | **PASS exploratory** | Crucible **I** spent · **Mn assay defer** |
+| **HEAT-Y12-007** | d3829 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`FMN-STD-Y12-1` · `FMN-STD-B` ~191 g** | **`FMN-BUTTON-Y12-2`** ~78 g | dark grey fracture · magnet | soak ~37 min · TC witness | — | **PASS replicate** | Crucible **J** spent · matches **A** class |
+| **HEAT-Y12-008** | d3833 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`FMN-STD-Y12-1` · `FMN-STD-C` ~191 g** | **`FMN-BUTTON-Y12-3`** ~79 g | dark grey fracture · magnet | soak ~38 min · TC witness | — | **PASS replicate** | Crucible **K** spent · **triplicate closed** |
 
 ---
 
@@ -43,5 +45,7 @@
 | **HEAT-Y12-001** | [day-3802.md](../../journal/days/year-011/week-544/day-3802.md) · **MFGC-2-CI** template |
 | **HEAT-Y12-004** | [day-3812.md](../../journal/days/year-011/week-545/day-3812.md) |
 | **HEAT-Y12-006** | [day-3815.md](../../journal/days/year-011/week-545/day-3815.md) · **`FMN-STD-Y12-1`** |
+| **HEAT-Y12-007** | [day-3829.md](../../journal/days/year-011/week-547/day-3829.md) · **`FMN-STD-Y12-1`** |
+| **HEAT-Y12-008** | [day-3833.md](../../journal/days/year-011/week-548/day-3833.md) · **`FMN-STD-Y12-1`** |
 
 *(Bind charge sheets to **`RECORDS-DESK-1`** as heats accumulate.)*

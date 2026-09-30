@@ -6,10 +6,56 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3825)*
+## Recent days *(append here · @ Day 3871)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3871 | [day-3871.md](days/year-011/week-553/day-3871.md) | ✓ **Yule feast prep · BC-2 roof · W553 CLOSE** | **Cal-Y12 D352 · ~19 Dec · W554 open** |
+| 3870 | [day-3870.md](days/year-011/week-553/day-3870.md) | ✓ **Kaolin wash · TF fire 16/16** | **Cal-Y12 D351 · ~18 Dec · W553 d6** |
+| 3869 | [day-3869.md](days/year-011/week-553/day-3869.md) | ✓ **Shingle F2 lap · scale CLOSE** | **Cal-Y12 D350 · ~17 Dec · W553 d5** |
+| 3868 | [day-3868.md](days/year-011/week-553/day-3868.md) | ✓ **Shingle weave ×12 green strips** | **Cal-Y12 D349 · ~16 Dec · W553 d4** |
+| 3867 | [day-3867.md](days/year-011/week-553/day-3867.md) | ✓ **Shingle prep — bitumen · roof sand** | **Cal-Y12 D348 · ~15 Dec · W553 d3** |
+| 3866 | [day-3866.md](days/year-011/week-553/day-3866.md) | ✓ **M-26 kaolin haul ~22 kg wet** | **Cal-Y12 D347 · ~14 Dec · W553 d2** |
+| 3865 | [day-3865.md](days/year-011/week-553/day-3865.md) | ✓ **Flax heckle · TF HOLD dry · W553 open** | **Cal-Y12 D346 · ~13 Dec · W553 d1** |
+| 3864 | [day-3864.md](days/year-011/week-552/day-3864.md) | ✓ **Wood haul ~17.1 kg** | **Cal-Y12 D345 · ~12 Dec · W552 d7** |
+| 3863 | [day-3863.md](days/year-011/week-552/day-3863.md) | ✓ **Char retort ×3 · flax break ~8.2 kg dry** | **Cal-Y12 D344 · ~11 Dec · W552 d6** |
+| 3862 | [day-3862.md](days/year-011/week-552/day-3862.md) | ✓ **Wood haul ~17.1 kg · `P-RETT-34` pull** | **Cal-Y12 D343 · ~10 Dec · W552 d5** |
+| 3861 | [day-3861.md](days/year-011/week-552/day-3861.md) | ✓ **Char retort ×3 · lane ~6.5 kg** | **Cal-Y12 D342 · ~9 Dec · W552 d4** |
+| 3860 | [day-3860.md](days/year-011/week-552/day-3860.md) | ✓ **Wood haul ~17.1 kg** | **Cal-Y12 D341 · ~8 Dec · W552 d3** |
+| 3859 | [day-3859.md](days/year-011/week-552/day-3859.md) | ✓ **TF press ×16 kaolin · fire ×32 → ×31 TF bank** | **Cal-Y12 D340 · ~7 Dec · W552 d2** |
+| 3858 | [day-3858.md](days/year-011/week-552/day-3858.md) | ✓ **Char retort ×3 · lane ~8.3 kg** | **Cal-Y12 D339 · ~6 Dec · W552 open** |
+| 3857 | [day-3857.md](days/year-011/week-551/day-3857.md) | ✓ **Norima tune · W551 CLOSE** | **Cal-Y12 D338 · ~5 Dec · W551 d7** |
+| 3856 | [day-3856.md](days/year-011/week-551/day-3856.md) | ✓ **Clay haul ~28.6 kg** | **Cal-Y12 D337 · ~4 Dec · W551 d6** |
+| 3855 | [day-3855.md](days/year-011/week-551/day-3855.md) | ✓ **Wood haul ~17.1 kg** | **Cal-Y12 D336 · ~3 Dec · W551 d5** |
+| 3854 | [day-3854.md](days/year-011/week-551/day-3854.md) | ✓ **Shelf-life CLOSE · oil decant** | **Cal-Y12 D335 · ~2 Dec · W551 d4** |
+| 3853 | [day-3853.md](days/year-011/week-551/day-3853.md) | ✓ **Shelf-life D1 · oil decant start** | **Cal-Y12 D334 · ~1 Dec · W551 d3** |
+| 3852 | [day-3852.md](days/year-011/week-551/day-3852.md) | ✓ **Field flax pull · `P-RETT-34`** | **Cal-Y12 D333 · ~30 Nov · W551 d2** |
+| 3851 | [day-3851.md](days/year-011/week-551/day-3851.md) | ✓ **Chickpea · harvest block CLOSE** | **Cal-Y12 D332 · ~29 Nov · W551 open** |
+| 3850 | [day-3850.md](days/year-011/week-550/day-3850.md) | ✓ **Lentil · olive press ~1.6 L** | **Cal-Y12 D331 · ~28 Nov · W550 d7** |
+| 3849 | [day-3849.md](days/year-011/week-550/day-3849.md) | ✓ **Emmer + barley harvest** | **Cal-Y12 D330 · ~27 Nov · W550 d6** |
+| 3848 | [day-3848.md](days/year-011/week-550/day-3848.md) | ✓ **Olive lap 2 · farm scare** | **Cal-Y12 D329 · ~26 Nov · W550 d5** |
+| 3847 | [day-3847.md](days/year-011/week-550/day-3847.md) | ✓ **Olive pick · emmer GO read** | **Cal-Y12 D328 · ~25 Nov · W550 d4** |
+| 3846 | [day-3846.md](days/year-011/week-550/day-3846.md) | ✓ **Glass replen · ×4 @ anneal** | **Cal-Y12 D327 · ~24 Nov · W550 d3** |
+| 3845 | [day-3845.md](days/year-011/week-550/day-3845.md) | ✓ **TF press ×16 kaolin · farm read** | **Cal-Y12 D326 · ~23 Nov · W550 d2** |
+| 3844 | [day-3844.md](days/year-011/week-550/day-3844.md) | ✓ **TF press ×16 kaolin · farm read** | **Cal-Y12 D325 · ~22 Nov · W550 open** |
+| 3843 | [day-3843.md](days/year-011/week-549/day-3843.md) | ✓ **Fume cabinet Phase 3 · proof** | **Cal-Y12 D324 · ~21 Nov · W549 close** |
+| 3842 | [day-3842.md](days/year-011/week-549/day-3842.md) | ✓ **Wood haul · lime slake** | **Cal-Y12 D323 · ~20 Nov · W549 d6** |
+| 3841 | [day-3841.md](days/year-011/week-549/day-3841.md) | ✓ **Fume cabinet carcase · tile** | **Cal-Y12 D322 · ~19 Nov · W549 d5** |
+| 3840 | [day-3840.md](days/year-011/week-549/day-3840.md) | ✓ **Fume cabinet slate · measure** | **Cal-Y12 D321 · ~18 Nov · W549 d4** |
+| 3839 | [day-3839.md](days/year-011/week-549/day-3839.md) | ✓ **TC-PROBE-2 prep · iron leg** | **Cal-Y12 D320 · ~17 Nov · W549 d3** |
+| 3838 | [day-3838.md](days/year-011/week-549/day-3838.md) | ✓ **Crucibles P/Q/R throw** | **Cal-Y12 D319 · ~16 Nov · W549 d2** |
+| 3837 | [day-3837.md](days/year-011/week-549/day-3837.md) | ✓ **Harvest prep · nuts · labels · sickle** | **Cal-Y12 D318 · ~15 Nov · W549 d1** |
+| 3836 | [day-3836.md](days/year-011/week-548/day-3836.md) | ✓ **Wood haul 3 · W548 close** | **Cal-Y12 D317 · ~14 Nov · W548 d7** |
+| 3835 | [day-3835.md](days/year-011/week-548/day-3835.md) | ✓ **Constantan run 3 · leg draw** | **Cal-Y12 D316 · ~13 Nov · W548 d6** |
+| 3834 | [day-3834.md](days/year-011/week-548/day-3834.md) | ✓ **Char · constantan repro ×2** | **Cal-Y12 D315 · ~12 Nov · W548 d5** |
+| 3833 | [day-3833.md](days/year-011/week-548/day-3833.md) | ✓ **`FMN-STD-C` · heat 008** | **Cal-Y12 D314 · ~11 Nov · W548 d4** |
+| 3832 | [day-3832.md](days/year-011/week-548/day-3832.md) | ✓ **Char ×3 · crucibles M/N/O** | **Cal-Y12 D313 · ~10 Nov · W548 d3** |
+| 3831 | [day-3831.md](days/year-011/week-548/day-3831.md) | ✓ **Wood haul 2** | **Cal-Y12 D312 · ~9 Nov · W548 d2** |
+| 3830 | [day-3830.md](days/year-011/week-548/day-3830.md) | ✓ **Wood haul 1** | **Cal-Y12 D311 · ~8 Nov · W548 d1** |
+| 3829 | [day-3829.md](days/year-011/week-547/day-3829.md) | ✓ **`FMN-STD-B` · heat 007** | **Cal-Y12 D310 · ~7 Nov · W547 d7** |
+| 3828 | [day-3828.md](days/year-011/week-547/day-3828.md) | ✓ **Apron panel · Yule belt** | **Cal-Y12 D309 · ~6 Nov · W547 d6** |
+| 3827 | [day-3827.md](days/year-011/week-547/day-3827.md) | ✓ **Crucibles ×3 fire · grape prune** | **Cal-Y12 D308 · ~5 Nov · W547 d5** |
+| 3826 | [day-3826.md](days/year-011/week-547/day-3826.md) | ✓ **Apiary PPE · veil + smoker** | **Cal-Y12 D307 · ~4 Nov · W547 d4** |
 | 3825 | [day-3825.md](days/year-011/week-547/day-3825.md) | ✓ **Forge gloves Y12-2 · pattern** | **Cal-Y12 D306 · ~3 Nov · W547 d3** |
 | 3824 | [day-3824.md](days/year-011/week-547/day-3824.md) | ✓ **Glove repair · kaolin wash** | **Cal-Y12 D305 · ~2 Nov · W547 d2** |
 | 3823 | [day-3823.md](days/year-011/week-547/day-3823.md) | ✓ **`M-26` kaolin haul** | **Cal-Y12 D304 · ~1 Nov · W547 d1** |

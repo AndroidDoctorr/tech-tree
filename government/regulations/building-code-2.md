@@ -377,7 +377,9 @@ Carrying forward from BC-1 and extended. **There is no rolled mild-steel stock o
 | ★★★ **Light up high, stiff in plane** | **Minimise mass on the diaphragm; maximise bracing in the diaphragm.** *Earthquake force scales with what moves — a heavy roof is a weapon aimed at the ring beam* |
 | **Structure** | **Triangulated frame** — rafters, collar ties, wind braces, gable bracing. ☠ **A rectangle of timbers is a parallelogram waiting to happen** |
 | **Sheathing** | **Continuous deck** — board or split shake on the frame before any finish. The deck is the diaphragm; the finish is weather |
-| **Finish** | ★ **Light first:** shake, thin tile, or mixed — **full heavy tile only where the ring and ties are already proven** on that building. Existing tile stock is not a reason to overload a new light frame |
+| **Finish** | ★ **Curved terracotta (`TILE-TR`) is the habitable-roof standard** until a lighter finish proves equal on a **full-roof soak + freeze/thaw band** — not on coupon panels alone. **`TILE-TR` ×54 hold + press/fire grammar @ `TILE-FORM-1`** is the production path for new wings |
+| **Bitumen mat / flax shingle R&D** | ◌ **Research only — not BC-2 spec.** `ROOF-R&D-PANEL-1` coupons **F1/F2 PASS** @ mount; **scale economics and full-roof durability unproven** *(player d3871 · lap-strip track deferred)*. Membrane variants (C1/D1/A2 class) may return to panel when named — **do not spec for habitable finish until R&D closes the cost and life gap** |
+| **Light finish rule** | ★ **Light first on the diaphragm:** shake or thin tile where the ring and ties are proven — **full heavy tile only where the frame and ring are already proven** on that building. Existing tile stock is not a reason to overload a new light frame |
 | ☠ **Tie-down** | **Every rafter or truss heel to the ring beam** — strap, bolt, or hooked bar in a grouted pocket. *An untied roof does not stay; it departs* |
 | **Chimneys and stacks** | ★ **Shorten leverage:** brace to the frame, keep mass low, separate from sleeping wings where possible |
 
@@ -487,3 +489,5 @@ Carrying forward from BC-1 and extended. **There is no rolled mild-steel stock o
 *BC-2 filed Day 3275 · supersedes BC-1 · concrete, block, services and plaster brought into the code · procedure in [construction.md](../procedures/construction.md).*
 
 *Amended Day 3378 · Cal-Y10 D233 · hollow block named cinder-class · [BC-2-REBAR](#rebar--wrought-iron-bc-2-rebar) · seismic interlink · light rigid roof · energy-management table (pendulum dampers explicitly not standard).*
+
+*Amended Day 3871 · Cal-Y12 D352 · **roof finish:** `TILE-TR` remains habitable standard · bitumen/flax shingle track **R&D hold** until full-roof proof and acceptable m² economics *(player directive — effective lap-strip scale deferred).*
