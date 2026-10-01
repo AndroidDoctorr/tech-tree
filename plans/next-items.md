@@ -56,21 +56,23 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 - ⧗ **Pit blocks** — **×52 submerged** · lime putty thin · **`QUICKLIME-1` ~11.1 kg**
 - ⧗ **`P-03-REGEN-Y12-1`** @ T-2 — seed pick **Aug–Oct** band; **`P-03-SEL-Y9` ~13 g hold**
 
-## ★★★ `ALLOY-PROGRAMME-Y12` — owns the bench
+## ★★★ `STEEL-STANDARDS-SPRINT-Y13-1` — owns the bench
 
-☠ **`CS-BAR-Y12-1/2` are case-hardened wrought iron, not steel.** ★★★ **A blend needs a melt you have not registered yet.**
+☠ **`CS-BAR-Y12-1/2` are case-hardened wrought iron, not steel.** ★★★ **Homogeneous steel = registered MFGC-2 melt.**
+
+**Plan:** [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md) · slate **d3897**
 
 | Step | State |
 |---|---|
-| Nickel + reduction std | ✓ |
-| Constantan | ✓ **stub** · ⚑ **reproduce when probe consumed** |
-| Thermocouple | ✓ **`TC-PROBE-1` @ muffle · ice/boil/Sn/Zn ladder filed** |
-| Muffle + furnace | ✓ **empty heat PASS** · ⚑ **atmosphere manifold · `FURNACE-2` lining when named** |
-| **`HEAT-Y12-001`** | ⚒ **First MFGC-2 registered production melt** — charge sheet in, coupon out |
-| **Cast iron rhythm** | **`MFGC-2-CI`** · **`FURNACE-2`** | **`001`–`004` PASS** · ⚑ **`HEAT-Y12-005`** · crucible **H** |
-| **Combustion C assay** | ⚒ **Train built** · ⚠ **`GASHOLDER-2` Bell B ~1.9 L O₂** — budget fills before a serious ladder |
-| **Ferromanganese charge** | ✓ **`FMN-STD-A` fired d3815 · `FMN-BUTTON-Y12-1` ~79 g** · **`B/C` remain** |
-| **Cast iron / hot blast path** | ⚒ **After** readable heat + carbon assay — see two-furnace note |
+| CI rhythm + C assay | ✓ **`HEAT-Y12-001`–`004` PASS** |
+| **`FMN-STD` triplicate** | ✓ **`HEAT-Y12-006`–`008` PASS** |
+| Thermocouple + muffle | ✓ **`TC-PROBE-1` · empty heat PASS** |
+| **`ST-MAG-1` magnet steel** | ✓ **triplicate d3903 · `MAG-STEEL-Y13-ROD-1/2/3`** |
+| **`ST-STR-1` structural** | ✓ **`ST-STR-BAR-Y13-1` d3911 · `ASSAY-Y13-002` ~0.24 % C PASS** |
+| **`ST-SPR-1` spring** | ✓ **`ST-SPR-STRIP-Y13-1` d3914 · `ASSAY-Y13-003` ~0.64 % C PASS** |
+| **`MFGC-2-ST` table** | ⚑ **migrate live `ST-*` rows when player names** |
+| **`ST-SPR-1` spring** | ⚑ after structural |
+| **Motor build hero** | ⚑ after **`ST-MAG-1` + frame grammar** |
 | **`PIPE-TEST`** | ⚒ Gates every production **`PT-*`** run |
 
 ## ⚑ `YULE-GIFT-Y12-1` — player present (~21 Dec)
@@ -110,6 +112,11 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 - ✓ **Vitriol liquor — arsenic + acid separation** · **acid lane + immobilization FILED d3879**
 - ✓ **`LEAD-ACID-PILOT-1`** · **cycled ×1 d3884 · pilot PASS** · ⚑ **formation charge #2**
 - ✓ **`LEAD-ACID-BANK-Y13-1`** · **parallel ×2 d3887 · matched pair PASS** · ⚑ **formation continue · storage read**
+- ⧗ **`GRAIN-FERMENT-Y13-1`** · **day 0 d3888 @ `AMPHORA-9`** · foam read ~d3890+ · distill defer
+- ⚑ **`BED-EXPANSION-SPRINT-Y13-1`** · **slate d3889 · stake/scratch before 26 Feb** · [plan](bed-expansion-sprint-y13.md)
+- ⚑ **`FERMENT-BARREL-BUILD-Y13-1`** · **`BARREL-5-FERMENT` before sow open** · [plan](ferment-barrel-build-y13.md)
+- ✓ **`EC-1-GRID-FEEDER-1`** · **LIVE d3890 · `GRID-TAP-CHEM-1` ~7.6 GB open**
+- ⚑ **`LEAD-ACID-BANK` bus tie-in** · **`GRID-TAP-CHEM-1` first named load**
 - ⚑ **`LA-SEP-RESERVE-Y13-1` ×3** · swap on storage read
 - ☠ ★★★ **Registered alloy melt at production temperature — preparation done; the fire is not**
 

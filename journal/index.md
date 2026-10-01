@@ -6,10 +6,39 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3887)*
+## Recent days *(append here · @ Day 3916)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3916 | [day-3916.md](days/year-011/week-560/day-3916.md) | ✓ **`H-11-HAUL-3916` · ~17 kg @ pile 4** | **Cal-Y13 D44 · ~2 Feb · W560 d3** |
+| 3915 | [day-3915.md](days/year-011/week-560/day-3915.md) | ✓ **Norima tune · wear 25→19** | **Cal-Y13 D43 · ~1 Feb · W560 d2** |
+| 3914 | [day-3914.md](days/year-011/week-560/day-3914.md) | ✓ **`ASSAY-Y13-003` · `ST-SPR-STRIP-Y13-1`** | **Cal-Y13 D42 · ~31 Jan · W560 d1** |
+| 3913 | [day-3913.md](days/year-011/week-559/day-3913.md) | ✓ **`ST-SPR-HEAT-1` · `HEAT-Y13-013`** | **Cal-Y13 D41 · ~30 Jan · W559 CLOSE** |
+| 3912 | [day-3912.md](days/year-011/week-559/day-3912.md) | ✓ **Crucible fire P/Q/R · O₂ fill** | **Cal-Y13 D40 · ~29 Jan · W559 d6** |
+| 3911 | [day-3911.md](days/year-011/week-559/day-3911.md) | ✓ **`ASSAY-Y13-002` · `ST-STR-BAR-Y13-1`** | **Cal-Y13 D39 · ~28 Jan · W559 d5** |
+| 3910 | [day-3910.md](days/year-011/week-559/day-3910.md) | ✓ **Char retort lap 2 · lane ~20 kg** | **Cal-Y13 D38 · ~27 Jan · W559 d4** |
+| 3909 | [day-3909.md](days/year-011/week-559/day-3909.md) | ✓ **Char retort lap 1** | **Cal-Y13 D37 · ~26 Jan · W559 d3** |
+| 3908 | [day-3908.md](days/year-011/week-559/day-3908.md) | ✓ **Wood haul lap 2** | **Cal-Y13 D36 · ~25 Jan · W559 d2** |
+| 3907 | [day-3907.md](days/year-011/week-559/day-3907.md) | ✓ **Wood haul lap 1 · W559 open** | **Cal-Y13 D35 · ~24 Jan · W559 d1** |
+| 3906 | [day-3906.md](days/year-011/week-558/day-3906.md) | ✓ **Retort + `ST-STR-HEAT-1` combo** | **Cal-Y13 D34 · ~23 Jan · W558 CLOSE** |
+| 3905 | [day-3905.md](days/year-011/week-558/day-3905.md) | ✓ **Char retort refill** | **Cal-Y13 D33 · ~22 Jan · W558 d6** |
+| 3904 | [day-3904.md](days/year-011/week-558/day-3904.md) | ✓ **Wood haul lap** | **Cal-Y13 D32 · ~21 Jan · W558 d5** |
+| 3903 | [day-3903.md](days/year-011/week-558/day-3903.md) | ✓ **`ST-MAG-1` triplicate · ×3 rods** | **Cal-Y13 D31 · ~20 Jan · W558 d4** |
+| 3902 | [day-3902.md](days/year-011/week-558/day-3902.md) | ✓ **Wood haul lap** | **Cal-Y13 D30 · ~19 Jan · W558 d3** |
+| 3901 | [day-3901.md](days/year-011/week-558/day-3901.md) | ✓ **Char retort · C assay ~1.0 % PASS** | **Cal-Y13 D29 · ~18 Jan · W558 d2** |
+| 3900 | [day-3900.md](days/year-011/week-558/day-3900.md) | ✓ **`MAG-STEEL-Y13-ROD-1` · lift gain PASS** | **Cal-Y13 D28 · ~17 Jan · W558 d1** |
+| 3899 | [day-3899.md](days/year-011/week-557/day-3899.md) | ✓ **Char retort · reserve ~10 kg** | **Cal-Y13 D27 · ~16 Jan · W557 CLOSE** |
+| 3898 | [day-3898.md](days/year-011/week-557/day-3898.md) | ✓ **`HEAT-Y13-009` magnet steel heat 1** | **Cal-Y13 D26 · ~15 Jan · W557 d6** |
+| 3897 | [day-3897.md](days/year-011/week-557/day-3897.md) | ✓ **Steel standards slate · magnet steel first** | **Cal-Y13 D25 · ~14 Jan · W557 d5** |
+| 3896 | [day-3896.md](days/year-011/week-557/day-3896.md) | ✓ **`BARREL-5-FERMENT` finish · LIVE** | **Cal-Y13 D24 · ~13 Jan · W557 d4** |
+| 3895 | [day-3895.md](days/year-011/week-557/day-3895.md) | ✓ **Char retort · `BARREL-5` swell** | **Cal-Y13 D23 · ~12 Jan · W557 d3** |
+| 3894 | [day-3894.md](days/year-011/week-557/day-3894.md) | ✓ **Wood haul lap 2** | **Cal-Y13 D22 · ~11 Jan · W557 d2** |
+| 3893 | [day-3893.md](days/year-011/week-557/day-3893.md) | ✓ **Wood haul lap 1 · W556 close** | **Cal-Y13 D21 · ~10 Jan · W557 d1** |
+| 3892 | [day-3892.md](days/year-011/week-556/day-3892.md) | ✓ **`BARREL-5` hoop forge · ×4 bands** | **Cal-Y13 D20 · ~9 Jan · W556 d7** |
+| 3891 | [day-3891.md](days/year-011/week-556/day-3891.md) | ✓ **`BARREL-5` stave set prep** | **Cal-Y13 D19 · ~8 Jan · W556 d6** |
+| 3890 | [day-3890.md](days/year-011/week-556/day-3890.md) | ✓ **First grid feeder LIVE · chem porch tap** | **Cal-Y13 D18 · ~7 Jan · W556 d5** |
+| 3889 | [day-3889.md](days/year-011/week-556/day-3889.md) | ✓ **EC-1 gauge/grid · wire samples · slates** | **Cal-Y13 D17 · ~6 Jan · W556 d4** |
+| 3888 | [day-3888.md](days/year-011/week-556/day-3888.md) | ✓ **Grain ferment day 0 · `AMPHORA-9`** | **Cal-Y13 D16 · ~5 Jan · W556 d3** |
 | 3887 | [day-3887.md](days/year-011/week-556/day-3887.md) | ✓ **Jar #2 · parallel bank test PASS** | **Cal-Y13 D15 · ~4 Jan · W556 d2** |
 | 3886 | [day-3886.md](days/year-011/week-556/day-3886.md) | ✓ **Lead-acid electrolyte prep jar #2** | **Cal-Y13 D14 · ~3 Jan · W556 d1** |
 | 3885 | [day-3885.md](days/year-011/week-555/day-3885.md) | ✓ **Lead plates set 2 · separator reserve** | **Cal-Y13 D13 · ~2 Jan · W555 CLOSE** |

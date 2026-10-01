@@ -22,6 +22,16 @@
 | **HEAT-Y12-007** | d3829 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`FMN-STD-Y12-1` · `FMN-STD-B` ~191 g** | **`FMN-BUTTON-Y12-2`** ~78 g | dark grey fracture · magnet | soak ~37 min · TC witness | — | **PASS replicate** | Crucible **J** spent · matches **A** class |
 | **HEAT-Y12-008** | d3833 | **`FURNACE-2`** | reducing crucible · char pack · hot blast ~½ | **`FMN-STD-Y12-1` · `FMN-STD-C` ~191 g** | **`FMN-BUTTON-Y12-3`** ~79 g | dark grey fracture · magnet | soak ~38 min · TC witness | — | **PASS replicate** | Crucible **K** spent · **triplicate closed** |
 
+### Y13 · steel
+
+| Heat ID | Day | Furnace | Atmosphere | Charge ref | Pour / stock ID | Coupon | Temp evidence | Assay ID | Verdict | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **HEAT-Y13-009** | d3898 | **`FURNACE-2`** | reducing crucible · lighter char pack · hot blast ~½ | **`ST-MAG-1` exploratory** · **`H-11` ~0.75 kg · `M-22` ~0.25 kg · `FMN-BUTTON-Y12-1` chip ~14 g** | **`MAG-STEEL-Y13-ROD-1`** *(from button)* | bright grain · strong magnet · spark ≠ CI | soak ~48 min · TC witness | **ASSAY-Y13-001** | **PASS · ~1.0 % C d3901** | Crucible **L** spent · **first MFGC-2-ST heat** |
+| **HEAT-Y13-010** | d3903 | **`FURNACE-2`** | reducing crucible · lighter char pack · hot blast ~½ | **`ST-MAG-1` replicate · `009` charge sheet** | **`MAG-STEEL-Y13-ROD-2`** *(from button)* | matches **009** coupon class | soak ~48 min · TC witness | — | **PASS replicate** | Crucible **M** spent |
+| **HEAT-Y13-011** | d3903 | **`FURNACE-2`** | reducing crucible · lighter char pack · hot blast ~½ | **`ST-MAG-1` replicate · `009` charge sheet** | **`MAG-STEEL-Y13-ROD-3`** *(from button)* | matches **009** coupon class | soak ~48 min · TC witness | — | **PASS replicate · triplicate closed d3903** | Crucible **N** spent |
+| **HEAT-Y13-012** | d3906 | **`FURNACE-2`** | reducing crucible · lighter char pack · hot blast ~½ | **`ST-STR-1` exploratory** · **`H-11` ~0.90 kg · `FMN-BUTTON-Y12-1` chip ~12 g · no `M-22`** | **`ST-STR-BAR-Y13-1`** ~71 g | bright grain · weak magnet stick | soak ~50 min · TC witness | **ASSAY-Y13-002** | **PASS · ~0.24 % C d3911** | Crucible **O** spent · **first `ST-STR-1` cert bar** |
+| **HEAT-Y13-013** | d3913 | **`FURNACE-2`** | reducing crucible · mid char pack · hot blast ~½ | **`ST-SPR-1` exploratory** · **`H-11` ~0.82 kg · `FMN-BUTTON-Y12-1` chip ~13 g · no `M-22`** | **`ST-SPR-STRIP-Y13-1`** ~70 g | bright grain · moderate magnet stick | soak ~49 min · TC witness | **ASSAY-Y13-003** | **PASS · ~0.64 % C d3914** | Crucible **P** spent · **first `ST-SPR-1` cert strip** |
+
 ---
 
 ## Assay log
@@ -34,6 +44,9 @@
 | **ASSAY-Y12-004** | d3804 | **HEAT-Y12-002** | **Combustion C** | **`CAST-IRON-BUTTON-Y12-3` ~1.006 g** | **~3.5 % C class** | **PASS** | Post **`GAS-O2-FILL-3804`** |
 | **ASSAY-Y12-005** | d3812 | **HEAT-Y12-003** | **Combustion C** | **`CAST-IRON-BUTTON-Y12-4` ~1.009 g** | **~3.5 % C class** | **PASS** | **`001`–`003` C band closed** |
 | **ASSAY-Y12-006** | d3813 | **HEAT-Y12-004** | **Combustion C** | **`CAST-IRON-BUTTON-Y12-5` ~1.007 g** | **~3.5 % C class** | **PASS** | Post **`GAS-O2-FILL-3813`** |
+| **ASSAY-Y13-001** | d3901 | **HEAT-Y13-009** | **Combustion C · `COMBUSTION-C-TRAIN-Y12-1`** | **`MAG-STEEL-Y13-ROD-1` heel ~1.006 g** | **~1.0 % C class** | **PASS** | **`ST-MAG-1` C band closed** · ✓ **triplicate d3903** |
+| **ASSAY-Y13-002** | d3911 | **HEAT-Y13-012** | **Combustion C · `COMBUSTION-C-TRAIN-Y12-1`** | **`ST-STR-BUTTON-Y13-1` chip ~1.004 g** | **~0.24 % C class** | **PASS** | **`ST-STR-1` C band closed · `ST-STR-BAR-Y13-1` forged** |
+| **ASSAY-Y13-003** | d3914 | **HEAT-Y13-013** | **Combustion C · `COMBUSTION-C-TRAIN-Y12-1`** | **`ST-SPR-BUTTON-Y13-1` chip ~1.005 g** | **~0.64 % C class** | **PASS** | **`ST-SPR-1` C band closed · `ST-SPR-STRIP-Y13-1` hardened** |
 
 ---
 

@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3887** · Cal-Y13 D15 · ~4 Jan · **Week 556 day 2**
+> **Day 3916** · Cal-Y13 D44 · ~2 Feb · **Week 560 day 3**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 19**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 20**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -70,6 +70,15 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`LEAD-ACID-PILOT-1`** | **Formation #2 partial · ~45% SOC** | On parallel tray |
 | ✓ **`LEAD-ACID-PILOT-2`** | **First charge partial · ~45% SOC** | On parallel tray |
 | ⚑ **`LA-SEP-RESERVE-Y13-1`** | **×3 linen separators @ chem spill peg** | **Swap on read · not on calendar** |
+| ⧗ **`GRAIN-FERMENT-Y13-1`** | **Day ~28 @ `AMPHORA-9` · steady cap · spirit lane** | **Distill defer · pilot read before barrel scale** |
+| ⚑ **`BED-EXPANSION-SPRINT-Y13-1`** | **Slate filed d3889 · ~62–66 m² · stake/scratch before 26 Feb** | [plan](../plans/bed-expansion-sprint-y13.md) |
+| ✓ **`FERMENT-BARREL-BUILD-Y13-1`** | **`BARREL-5-FERMENT` ✓ LIVE d3896 @ horreum A margin · empty · first load defer** | [plan](../plans/ferment-barrel-build-y13.md) |
+| ✓ **`ST-MAG-1`** | **`MAG-STEEL-Y13-ROD-1/2/3` triplicate d3903 · ~43–44 mm lift · ~1.0 % C class** | [plan](../plans/steel-standards-sprint-y13.md) |
+| ✓ **`ST-STR-1`** | **`ST-STR-BAR-Y13-1` d3911 · `ASSAY-Y13-002` ~0.24 % C PASS · first cert bar** | [plan](../plans/steel-standards-sprint-y13.md) |
+| ✓ **`ST-SPR-1`** | **`ST-SPR-STRIP-Y13-1` d3914 · `ASSAY-Y13-003` ~0.64 % C PASS · snap PASS** | [plan](../plans/steel-standards-sprint-y13.md) |
+| ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`MFGC-2-ST` table row · triplicate defer** | [plan](../plans/steel-standards-sprint-y13.md) |
+| ✓ **`EC-1-AMEND-3889`** | **Gauge table + grid rules · sample set @ `REF-SHELF-1`** | [electrical-code-1.md](../government/regulations/electrical-code-1.md) |
+| ✓ **`EC-1-GRID-FEEDER-1`** | **LIVE d3890 · wheelhouse → chem porch · `SW-CHEM-FEEDER-1`** | **`GRID-TAP-CHEM-1` · ~7.6 GB open class** |
 | **`FLAX-PULL-WILD`** | **26 Jun – 26 Jul** | ✓ **DEFER Y12 d3698** · ⚑ **shingle thread boost Y13 if F2 rain PASS** *(player d3869)* |
 | `BIRD-WATCH` · device reset | fine-seed tail | Six-day absence PASS · devices reset d3597 · field rows rooted |
 | `GOAT-KID` freshen | **Feb–Apr** | `GOAT-KIDDING-STALL-1` clean |
@@ -81,31 +90,33 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~0.56 kg** | d3885 · **runway thin** |
+| **`CHAR-LANE`** | **~9.5 kg** | d3916 |
+| **`CHAR-RESERVE-C`** | **~7.3 kg** | d3903 |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×47** @ rack north | d3870 |
 | **`KAOLIN-SLIP-M26-1`** | **~12.4 kg** @ chem porch | d3870 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
 | **`P-17-LENTIL-Y12`** | **~153 g** @ horreum pulse bay | d3854 |
-| **`OIL-Y12-1`** | **~1.03 L clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d3872 |
+| **`OIL-Y12-1`** | **~920 ml clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d3914 |
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~10.0 kg** @ pile 5 | d3881 |
+| **`WOOD-OAK-P5`** | **~11.0 kg** @ pile 5 | d3916 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
-| **`EMMER-BULK-Y12`** | **~2.59 kg** @ horreum incoming | d3854 |
-| **`BARREL-4-GRAIN`** | **~0.96 kg** @ v1 | d3854 |
+| **`EMMER-BULK-Y12`** | **~2.50 kg** @ horreum incoming | d3888 |
+| **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`BARLEY-BULK-Y12`** | **~0.51 kg** @ horreum barley bay | d3849 |
-| **`H-11-HEMATITE`** | **~4.95 kg @ pile 4** | d3814 |
+| **`H-11-HEMATITE`** | **~17.0 kg @ pile 4** | d3916 |
+| **`ST-SPR-STRIP-Y13-1`** | **~70 g @ dry tray · `HEAT-Y13-013` · `ASSAY-Y13-003` ~0.64 % C** | d3914 |
+| **`ST-STR-BAR-Y13-1`** | **~71 g @ dry tray · `HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C** | d3911 |
+| **`M-22-MAGNETITE-1`** | **~17.25 kg @ pile 4 tray** | d3903 |
+| **`MAG-STEEL-Y13-ROD-1/2/3`** | **×3 @ dry tray · ~43–44 mm lift · `ST-MAG-1` cert** | d3903 |
 | **`FORSTERITE-GROG-1`** | **~3.2 kg** | d3838 |
 | `SERPENTINITE-RAW-KISECIK-Y12-1` | **~31.4 kg** @ kerb | d3761 |
 | `FORSTERITE-BRICK-Y12-1` | **×0 bank** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d3776 |
-| **`M-22-MAGNETITE-1`** | **~18.0 kg** @ pile 4 tray | d3759 |
 | **`LIME-PUTTY-1`** | **~1.13 kg** | d3843 |
-| **`QUICKLIME-1`** | **~9.51 kg** | d3879 |
+| **`QUICKLIME-1`** | **~9.45 kg** | d3914 |
 | **`CACO3-P7`** | **~14.2 kg** @ pile 7 | d3702 |
-| **`CHAR-RESERVE-C`** | **~9.7 kg** | d3665 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~11.4 kg** @ pile 4 · **~4 kg stage tail** | d3660 |
 | **`SAND-FILTER-1`** | **~3.45 kg** @ pile 4 apron | d3867 |
@@ -113,13 +124,12 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
-| **`M-22-MAGNETITE-1`** | **~18.0 kg @ pile 4 tray** | d3759 |
 | `BRASS-STOCK` | **~23 g** @ chill tray | d3801 |
-| `CU-BAR-Y10-1` | **~31 g** | d3835 |
+| `CU-BAR-Y10-1` | **~3 g tail** | d3889 |
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
 | ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay · **`FMN-STD ×3 staged`** · ref **`M31-FEED-COMPOSITE-Y12-1`** | d3615 |
 | ☠ **`BRONZE-STOCK`** | **×0** — feed-nut pad spent | d3545 |
-| `NAIL-IRON` | **×2 @ bench** · **×4 @ cave crate** | d3843 |
+| `NAIL-IRON` | **×4 @ cave crate** | d3892 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~13 m tail** @ peg | d3868 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
 | Ice vault | ~125.8 kg · ~4 kg headroom · **cap-bound** | d3563 |
@@ -143,7 +153,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `METROLOGY-CELLAR-1` | @ `CAVE-1` upslope · ~9 °C stable · ☠ references only, not food or seed |
 | Mass · length | `MASS-REF-100/1000-1` @ 14 °C · `CALIPER-1` gen-3 cert · ☠ length refs are steel/oak, not invar |
 | `PARTS-PEG-BOARD-1` | Bench peg board + `ELEC-COMPONENT-BOX-Y10-1` 4-row spare drawer |
-| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~4.8 L O₂** · ☠ **bath daily read · purge first draw** |
+| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~3.2 L O₂** · ☠ **bath daily read · purge first draw** |
 
 ## Standards
 

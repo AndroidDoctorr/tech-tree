@@ -58,7 +58,10 @@ File one charge sheet per heat before pour (copy → [heat-register-y12.md](heat
 | **`CAST-IRON-BUTTON-Y12-4`** | Cast iron practice button | ~164 g *(chip)* | **`HEAT-Y12-003` PASS** |
 | **`CAST-IRON-BUTTON-Y12-5`** | Cast iron practice button | ~163 g *(chip)* | **`HEAT-Y12-004` PASS** |
 
-⚑ **Ferronickel · ferrochrome · registered steel heats** — add rows when first melt certifies.
+| **`MAG-STEEL-Y13-ROD-1/2/3`** | Magnet steel pole rod set · **`ST-MAG-1` certified triplicate** | **~71–72 g each** | **`HEAT-Y13-009`–`011` · ~1.0 % C on 009 · lift ~43–44 mm d3903** |
+| **`FMN-BUTTON-Y12-1`** | Ferromanganese master · **`FMN-STD-A`** | **~65 g** *(chip drawn d3898)* | **`HEAT-Y12-006`** |
+
+⚑ **Ferronickel · ferrochrome · `ST-STR-1` · `ST-SPR-1`** — add rows when melts certify.
 
 ---
 

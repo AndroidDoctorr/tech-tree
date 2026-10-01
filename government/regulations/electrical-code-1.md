@@ -1,7 +1,8 @@
 # Electrical Code 1 *(EC-1)*
 
 **Filed:** Day 3558 · **Cal-Y12 D39** · **~8 Feb Y12**
-**Scope:** wire, resistance standards, cells, generator interface, and bench measurement @ HOME campus
+**Amended:** Day 3889 · **Cal-Y13 D17** · **~6 Jan Y13** — **EC-1-GAUGE · EC-1-GRID · `EC-1-WIRE-SAMPLE-SET-Y13-1`**
+**Scope:** wire, resistance standards, cells, generator interface, campus distribution, and bench measurement @ HOME campus
 **Related:** [measurement-code-1.md](measurement-code-1.md) · [manufacturing-code-1.md](manufacturing-code-1.md) · [building-code-2.md](building-code-2.md) BC-2-SERVICES
 
 ---
@@ -64,6 +65,85 @@ Codify what the **`GEN-WW-2`** era already proved on the bench — **load lines,
 | **Scarcity** | ★ **Copper is conductor stock** — drain lines defer per BC-3 |
 
 **Bench draw:** anneal between passes · wax in die · iron work-hardens and snaps.
+
+---
+
+## EC-1-GAUGE — campus copper wire series *(14 °C bench · vs `R-STD-1`)*
+
+**Rule:** ★ **Gauge is mm diameter. Resistance is measured, not calculated — but must track area scaling within stated band.**
+
+| Gauge (mm) | R per 10 m | R per 1 m | Use class | Campus stock |
+|---|---|---|---|---|
+| **0.9** | **1.00 R** | **0.100 R** | **Standard · shunt · feeder trunk** | **`R-STD-1` · `CU-WIRE-Y10-COATED`** |
+| **0.65** | **~1.95 R** | **~0.195 R** | **Armature · motor windings** | **`ARMATURE-2` grammar** |
+| **0.5** | **~3.25 R** | **~0.325 R** | **Field coil · branch feeder** | **`EC-1-WIRE-SAMPLE-Y13-0.5`** |
+| **0.3** | **~9.0 R** | **~0.900 R** | **Instrument · fine lead · tap** | **`CU-WIRE-Y10-3` rack** |
+
+**Sample set `EC-1-WIRE-SAMPLE-SET-Y13-1`:** ×4 trimmed lengths @ **10.00 m each** · four-terminal read @ **14 °C** · tagged @ **`REF-SHELF-1`**.
+
+| Sample ID | Gauge | Measured R (10 m) | vs theory |
+|---|---|---|---|
+| **`EC-1-WIRE-SAMPLE-Y13-0.9`** | 0.9 mm | **1.00 R** | **`R-STD-1` confirm** |
+| **`EC-1-WIRE-SAMPLE-Y13-0.65`** | 0.65 mm | **~1.97 R** | **PASS** |
+| **`EC-1-WIRE-SAMPLE-Y13-0.5`** | 0.5 mm | **~3.28 R** | **PASS** |
+| **`EC-1-WIRE-SAMPLE-Y13-0.3`** | 0.3 mm | **~8.95 R** | **PASS** |
+
+**QC band:** measured R within **±5%** of gauge-table expectation at same length · else reject length or downgrade to scrap anode.
+
+**Draw order for new stock:** anneal · die wax · **one gauge per pass** · measure before coat · log on kitchen slate.
+
+---
+
+## EC-1-GRID — campus distribution *(GEN-WW-2 era)*
+
+### Source hierarchy
+
+| Priority | Source | Role |
+|---|---|---|
+| **1** | **`GEN-WW-2` @ wheelhouse** | Primary · runs while water flows |
+| **2** | **`LEAD-ACID-BANK-Y13-1`** | Storage · overnight sink · bench peak loads |
+| **3** | **`DANIELL-CELL-1` · voltaic bench** | Reference · measurement · flash/bootstrap only |
+| **4** | **`PEDAL-GEN-1`** | Portable bench · tuning · emergency |
+
+☠ **Never parallel mismatched sources without a knife switch — two generators on one bus fight.**
+
+### Bus grammar
+
+| Element | Rule |
+|---|---|
+| **Generation bus** | **`GEN-WW-2` + terminal · frame ground = −** · **`CU-CELL` may stay on parallel gen bus** |
+| **Storage bus** | **`LEAD-ACID-BANK` + to gen + · common − to frame** · isolate when servicing |
+| **Campus feeder** | **Single trunk from wheelhouse · polarity marked @ every splice** |
+| **Building tap** | **Knife switch @ entry · fuse link = thin wire tail or belt-slip class** |
+| **Return path** | **Frame ground + dedicated copper strap — not water pipe · not char retort** |
+
+### Feeder sizing *(first pass)*
+
+| Run | Max length | Min gauge | Notes |
+|---|---|---|---|
+| **Wheelhouse → chem porch** | **~25 m class** | **0.9 mm trunk · 0.5 mm branch** | First live feeder target |
+| **Bench tap** | **~3 m** | **0.5 mm** | Motor · stirrer · lamp class |
+| **Instrument tap** | **~1 m** | **0.3 mm** | Meter · bridge · potentiometer only |
+
+★ **Voltage drop is real even at GB scale — size feeders from measured R, not hope.**
+
+### Switches and isolation
+
+| Rule | Standard |
+|---|---|
+| **Knife switch** | **Break + only · never load-break under motor spin-down** |
+| **Polarity mark** | **Chisel or tag @ bus · + toward source** |
+| **Chem isolation** | **Separate tray from food wing · acid bench on own tap** |
+| **Gas isolation** | **`WATER-CELL-1` · `GASHOLDER-*` never on indoor bus** |
+| **Storage read** | **Battery bank daily when on bus · separator + electrolyte level** |
+
+### Building entry targets *(queued)*
+
+1. ✓ **Chem porch / `CHEM-LAB-WING-1`** — **`EC-1-GRID-FEEDER-1` LIVE d3890** · **`GRID-TAP-CHEM-1`** · cells · bench · future hood fan
+2. **Craft wing** — **`GASHOLDER-2` gas pad adjacent · not same breaker as chem**
+3. **Horreum margin** — defer · no gas · no heat loads until conduit chase proven
+
+Chases: [building-code-2.md](building-code-2.md) BC-2-SERVICES — **leave route · minimal install.**
 
 ---
 

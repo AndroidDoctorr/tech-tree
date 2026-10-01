@@ -20,7 +20,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · green · Y12 refresh | **~0.38 kg** | Horreum snack jar `P-μ-12` | d3854 | d3872 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
 | `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · food lap | **~0.95 kg** | Horreum snack jar | d3685 | d3685 |
-| `BARREL-4-GRAIN` | Cracked grain, working · Y12 top-up | **~0.96 kg** | `BARREL-4`, v1 | d3853 | d3854 |
+| `BARREL-4-GRAIN` | Cracked grain, working · Y12 top-up | **×0 · spent → `GRAIN-FERMENT-Y13-1`** | `BARREL-4`, v1 | d3853 | d3888 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 
 `STARTER-Y6-1` is the only row in the inventory that dies if ignored for a week. Feeding it is a [daily.md](../checklists/daily.md) concern, not a stock concern.
@@ -139,7 +139,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`OIL-Y12-1`** | Olive oil, clear · **cook live** | **~1.00 L** | Glass bottles · working draw ~280 ml @ `P-ξ-5` | d3850 | d3873 |
+| **`OIL-Y12-1`** | Olive oil, clear · **cook live** | **~920 ml** | Glass bottles · working draw ~280 ml @ `P-ξ-5` | d3850 | d3914 |
 | **`OIL-SEDIMENT-Y12-1`** | Olive oil sediment, sealed | **~150 ml** | `AMPHORA-6` foot | d3854 | d3854 |
 | `OIL-Y10-1` | Olive oil, clear · **cook live** | ~1.12 L | Glass bottles · working draw ~320 ml at `P-ξ-5` | d3479 | d3509 |
 | `OIL-Y9-1` | Olive oil, clear · **cook live** | ~1.03 L | Glass bottles · working draw ~390 ml at `P-ξ-5` | d3117 | d3452 |
@@ -160,6 +160,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.36 L** | Horreum | Y7 | d3873 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
+| **`GRAIN-FERMENT-Y13-1`** | Grain mash · spirit lane · **day ~28** · steady cap · emmer/barley · **`STARTER-Y6-1` pitch** | **~9.2 L class @ `AMPHORA-9`** | Horreum A margin | d3888 | d3916 |
 
 ## Olives in brine
 

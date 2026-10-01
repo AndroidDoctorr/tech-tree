@@ -132,7 +132,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×3 NI-assigned · ×1 marginal · C–K spent** · **×4 FIRED L/M/N/O d3827/3832** · **×3 GREEN P/Q/R d3838 @ sun rack** |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×2 FIRED Q/R d3912 · Q clean · R marginal** · **P spent d3913** · **×0 GREEN** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |
@@ -246,7 +246,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `C-SPARE-1` · `C-SPARE-2` | Waxed-paper cap pair | Row C | ✓ LIVE d3511 |
 | `BN-PAIR-G3-06-5/6` | Bolt/nut pairs · RC-06 · box stock | Row SW | ✓ LIVE d3511 |
 | `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
-| `SW-KNIFE-BLANK-1` | Knife-switch blanks ×2 | Row SW | ✓ LIVE d3511 |
+| `SW-CHEM-FEEDER-1` | Knife switch · chem porch feeder isolate | Chem porch east jamb | ✓ LIVE d3890 |
+| `SW-KNIFE-BLANK-1` | Knife-switch blank ×1 spare | Row SW | ✓ LIVE d3511 |
 
 ## Glass and forge working
 

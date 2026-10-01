@@ -10,9 +10,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~0.56 kg** | Char lane | | d3885 |
-| `CHAR-RESERVE-C` | Charcoal reserve | **~9.7 kg** | Store C vault | | d3665 |
-| `WOOD-OAK-P5` | Oak, green | **~24.7 kg** @ pile 5 | Pile 5 | | d3866 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~9.5 kg** | Char lane | | d3916 |
+| `CHAR-RESERVE-C` | Charcoal reserve | **~7.3 kg** | Store C vault | | d3903 |
+| `WOOD-OAK-P5` | Oak, green | **~11.0 kg** @ pile 5 | Pile 5 | | d3916 |
+| **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d3896 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~10.4 kg** | Storage wing | | d3865 |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~9.0 kg** | Berm | | d3786 |
@@ -38,7 +39,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `CACO3-P7` | Limestone, raw · plus underburnt returns | **~14.2 kg** | Pile 7, camp north face | d3374 | d3702 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~9.33 kg** | Lime trough | d3390 | d3846 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~9.47 kg** | Lime trough | d3390 | d3911 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | `LIME-PUTTY-1` | Lime putty | **~1.13 kg** | Lime trough | | d3843 |
 
@@ -108,8 +109,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | **~10.6 kg** | Forge staging | | d3885 |
-| `H-11-HEMATITE` | Hematite | **~4.95 kg @ pile 4** | Pile 4 | | d3814 |
-| `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~18.0 kg** | Pile 4 tray | d3618 | d3759 |
+| `H-11-HEMATITE` | Hematite | **~17.0 kg @ pile 4** | Pile 4 | | d3916 |
+| **`ST-SPR-STRIP-Y13-1`** | Spring steel strip · **`HEAT-Y13-013` · `ASSAY-Y13-003` ~0.64 % C · oil quench + draw · snap PASS** | **~70 g** | Dry tray | d3914 | d3914 |
+| **`ST-STR-BAR-Y13-1`** | Structural steel bar · **`HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C · `ST-STR-1` cert** | **~71 g** | Dry tray | d3911 | d3911 |
+| `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~17.25 kg** | Pile 4 tray | d3618 | d3903 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -144,7 +147,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **~31 g** | — | | d3835 |
+| `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **~3 g tail** | Chill tray | | d3889 |
+| **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
 | `IRON-BLOOM-1` | Bloomery sponge · GREEN | **×0 @ mount** — spent d3776 bands | `FORGE-D` | Y12 | d3776 |
 | `CS-BAR-Y12-1` | Carbon steel bar · hardened + tempered | **~847 g** | Forge peg | Y12 | d3571 |
 | `CS-BAR-Y12-2` | Carbon steel bar · hardened + tempered | **~848 g** | Forge peg | Y12 | d3573 |
@@ -154,7 +158,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CAST-IRON-BUTTON-Y12-4` | Cast iron button · **`HEAT-Y12-003`** · **~3.5 % C PASS** | **~164 g** *(chip)* | Chill tray | d3804 | d3812 |
 | `CAST-IRON-BUTTON-Y12-5` | Cast iron button · **`HEAT-Y12-004`** · **~3.5 % C PASS** | **~163 g** *(chip)* | Chill tray | d3812 | d3813 |
 | `CAST-IRON-BUTTON-Y12-6` | Cast iron button · **`HEAT-Y12-005`** · coupon only | **~164 g** *(chip)* | Chill tray | d3814 | d3815 |
-| **`FMN-BUTTON-Y12-1`** | Ferromanganese trial button · **`HEAT-Y12-006` · `FMN-STD-A`** | **~79 g** | Chill tray | d3815 | d3815 |
+| **`MAG-STEEL-Y13-ROD-1`** | Magnet steel pole rod · **`HEAT-Y13-009` · ~1.0 % C · lift ~44 mm** | **~71 g** | Dry tray · chem porch | d3900 | d3901 |
+| **`MAG-STEEL-Y13-ROD-2`** | Magnet steel pole rod · **`HEAT-Y13-010` · lift ~43 mm** | **~71 g** | Dry tray · chem porch | d3903 | d3903 |
+| **`MAG-STEEL-Y13-ROD-3`** | Magnet steel pole rod · **`HEAT-Y13-011` · lift ~44 mm** | **~72 g** | Dry tray · chem porch | d3903 | d3903 |
+| **`FMN-BUTTON-Y12-1`** | Ferromanganese trial button · **`HEAT-Y12-006` · `FMN-STD-A`** | **~12 g** *(chips to d3898 · d3903 · d3906 · d3913)* | Chill tray | d3815 | d3913 |
 | **`FMN-BUTTON-Y12-2`** | Ferromanganese trial button · **`HEAT-Y12-007` · `FMN-STD-B`** | **~78 g** | Chill tray | d3829 | d3829 |
 | **`FMN-BUTTON-Y12-3`** | Ferromanganese trial button · **`HEAT-Y12-008` · `FMN-STD-C`** | **~79 g** | Chill tray | d3833 | d3833 |
 | **`CONSTANTAN-STD-Y12-1`** | Constantan std stub · run D tail · reproduce from bridge label | **~3.1 g** | Instrument tray | d3734 | d3735 |
@@ -190,8 +197,8 @@ The wire bank is tracked by **gauge**, because gauge is what decides whether a l
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | **~51.1 m @ rack** · **~8 m @ cave spool** *(−~5 m → `TC-GALV-LEAD-PAIR-2`)* | Wire rack / cave | d3261 | d3887 |
-| `WIRE-CU-GEN2-1` | 0.9 mm gen-2 | ~48.0 m | Chem peg | | d3501 |
+| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | **~50.4 m @ rack** · **~8 m @ cave spool** *(−~5 m → `TC-GALV-LEAD-PAIR-2`)* | Wire rack / cave | d3261 | d3890 |
+| `WIRE-CU-GEN2-1` | 0.9 mm gen-2 | **~2 m tail @ chem peg** | Chem peg | | d3890 |
 | `WIRE-CU-4` | 1.6 mm · lane B coil, hold | ~14 m | Chem porch | | d1982 |
 | `CU-WIRE-Y10-COATED` | 0.9 mm coated · leads and tails only | ~9 m | — | d3245 | d3267 |
 | `CU-WIRE-Y10-4` | ★ **best conductivity drawn to date** — off the glass-cover melt | — | Wire rack | d3266 | d3266 |

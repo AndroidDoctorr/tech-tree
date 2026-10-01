@@ -152,6 +152,19 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 
 Sub-assemblies: `GEN-WW-1-FRAME-1` (oak, sill-bolted, clear of splash, quick-release collar on WW-2 output) · `GEN-WW-1-BELT-TRAIN-1` (two ~4:1 stages = ~16:1, **crowned** pulleys, idler on stage 2, slack side up, ~12 rpm → ~190 rpm) · `GEN-WW-1-CORE-1` (laminations cut, **annealed after cutting**, deburred both faces, rosin-varnished) · `COMMUTATOR-2` (hardwood hub, 5 segments, plaster-jig seated, end-only ramps, adjustable brush gear, wire-bundle brushes).
 
+### ✓ **`EC-1-GRID-FEEDER-1`** — campus trunk *(d3890)*
+Map: **`WW-2` wheelhouse → chem porch east** · Built: d3890
+
+**~22 m class** paired **0.9 mm** copper · **`SW-CHEM-FEEDER-1` @ porch entry** · **`GRID-TAP-CHEM-1`** bench-east bus.
+
+| Read @ d3890 | Wheelhouse | Chem porch tap |
+|---|---|---|
+| **Open** | **~8.5 GB** | **~7.6 GB** |
+| **Loaded · `CU-CELL` on tap** | **~8.4 GB** | **~7.2 GB · cell runs** |
+| **Run R** | — | **~2.3 R · ~46 m paired 0.9 mm** |
+
+★ **Default: switch OPEN until load named.** ⚑ **Craft wing · horreum feeders defer.**
+
 ### ★★★ `ARMATURE-2`
 In service in `GEN-WW-1` · Wound: d3267
 
@@ -324,7 +337,12 @@ Brackish and general. M-08 foot ring. Brackish haul staging runs through here an
 ### `AMPHORA-9`
 Map: horreum A margin ghost · Built: d2744
 
-**EMPTY harvest buffer @ d3475** — rinsed · M-08 foot · vinegar fork reclaimed vessel.
+**`GRAIN-FERMENT-Y13-1` @ d3888** — spirit lane · **~9.2 L mash · day ~8** · steady cap · breath bung · M-08 foot.
+
+### `BARREL-5-FERMENT`
+Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
+
+**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **empty · first load defer**.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
