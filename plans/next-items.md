@@ -107,7 +107,10 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 
 ## ☠ Unsolved
 
-- ☠ **Vitriol liquor — arsenic + acid separation**
+- ✓ **Vitriol liquor — arsenic + acid separation** · **acid lane + immobilization FILED d3879**
+- ✓ **`LEAD-ACID-PILOT-1`** · **cycled ×1 d3884 · pilot PASS** · ⚑ **formation charge #2**
+- ✓ **`LEAD-ACID-BANK-Y13-1`** · **parallel ×2 d3887 · matched pair PASS** · ⚑ **formation continue · storage read**
+- ⚑ **`LA-SEP-RESERVE-Y13-1` ×3** · swap on storage read
 - ☠ ★★★ **Registered alloy melt at production temperature — preparation done; the fire is not**
 
 ## Survey, when passing

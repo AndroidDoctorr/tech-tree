@@ -40,9 +40,9 @@ Map: chem porch east cheek · Built: d2742
 Slip jars ranked; fire-table pegs cleared.
 
 ### `LAB-FUME-CABINET-1` — bench fume hood
-Map: **`CHEM-LAB-WING-1` south bench west bay** · Slated **d3840** · Live **d3843** · ⚑ **SO₂ proof on first roast**
+Map: **`CHEM-LAB-WING-1` south bench west bay** · Slated **d3840** · Live **d3843** · Proof **CLOSED d3876**
 
-**~1.20 × 0.72 × ~0.92 m** oak frame · **tile-lined interior** · **fire-table tile floor inherited** · rear plenum throat **~118 × 96 mm**. **Duct** — **×8 `TILE-TF` flat liner** *(kaolin floor tile class · not brick · not **`TILE-TR` roof)* · N-wall run ~2.1 m + riser ~0.9 m → chase **LIVE**. **Interior walls** — **×14 `TILE-TF` cut** *(retcon [TILE-TR-TF-FUME-CABINET-Y12.md](../journal/retcons/TILE-TR-TF-FUME-CABINET-Y12.md))*. **Make-up inlet** @ east-door toe **LIVE** · **three-stop blast gate** @ plenum *(slide forged **`NAIL-IRON` ×8**)*. **Glass sash** — marver-blown lite ~1.16 × 0.45 m · ~12 cm working gap. **Smoke proof PASS** empty + **`FORGE-D` load** d3843 · **SO₂ band defer**.
+**~1.20 × 0.72 × ~0.92 m** oak frame · **tile-lined interior** · **fire-table tile floor inherited** · rear plenum throat **~118 × 96 mm**. **Duct** — **×8 `TILE-TF` flat liner** *(kaolin floor tile class · not brick · not **`TILE-TR` roof)* · N-wall run ~2.1 m + riser ~0.9 m → chase **LIVE**. **Interior walls** — **×14 `TILE-TF` cut** *(retcon [TILE-TR-TF-FUME-CABINET-Y12.md](../journal/retcons/TILE-TR-TF-FUME-CABINET-Y12.md))*. **Make-up inlet** @ east-door toe **LIVE** · **three-stop blast gate** @ plenum *(slide forged **`NAIL-IRON` ×8**)*. **Glass sash** — marver-blown lite ~1.16 × 0.45 m · ~12 cm working gap. **Smoke proof PASS** d3843 · **SO₂ roast PASS** d3875 · **iron tarnish PASS** d3876 · **distill lane LIVE** · **separation + arsenic immobilization FILED** d3876–3879.
 
 ### `VOLTAIC-BATTERY-TRAY-1` — voltaic battery tray
 Map: chem-lab · Built: d3000

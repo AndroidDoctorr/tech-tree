@@ -6,10 +6,26 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3871)*
+## Recent days *(append here · @ Day 3887)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3887 | [day-3887.md](days/year-011/week-556/day-3887.md) | ✓ **Jar #2 · parallel bank test PASS** | **Cal-Y13 D15 · ~4 Jan · W556 d2** |
+| 3886 | [day-3886.md](days/year-011/week-556/day-3886.md) | ✓ **Lead-acid electrolyte prep jar #2** | **Cal-Y13 D14 · ~3 Jan · W556 d1** |
+| 3885 | [day-3885.md](days/year-011/week-555/day-3885.md) | ✓ **Lead plates set 2 · separator reserve** | **Cal-Y13 D13 · ~2 Jan · W555 CLOSE** |
+| 3884 | [day-3884.md](days/year-011/week-555/day-3884.md) | ✓ **Lead-acid cycle ×1 · O₂ fill · pilot PASS** | **Cal-Y13 D12 · ~1 Jan · W555 d6** |
+| 3883 | [day-3883.md](days/year-011/week-555/day-3883.md) | ✓ **Lead-acid jar assembled · uncharged** | **Cal-Y13 D11 · ~31 Dec · W555 d5** |
+| 3882 | [day-3882.md](days/year-011/week-555/day-3882.md) | ✓ **Lead-acid electrolyte prep · ~283 ml** | **Cal-Y13 D10 · ~30 Dec · W555 d4** |
+| 3881 | [day-3881.md](days/year-011/week-555/day-3881.md) | ✓ **Lead plates cast + roll · pilot blanks** | **Cal-Y13 D9 · ~29 Dec · W555 d3** |
+| 3880 | [day-3880.md](days/year-011/week-555/day-3880.md) | ✓ **Lead-acid slate · plate stock prep** | **Cal-Y13 D8 · ~28 Dec · W555 d2** |
+| 3879 | [day-3879.md](days/year-011/week-555/day-3879.md) | ✓ **Arsenic mother/residue work-up · immobilized** | **Cal-Y13 D7 · ~27 Dec · W555 d1** |
+| 3878 | [day-3878.md](days/year-011/week-554/day-3878.md) | ✓ **Vitriol/arsenic trial-3 · ~400 ml scale PASS** | **Cal-Y13 D6 · ~26 Dec · W554 CLOSE** |
+| 3877 | [day-3877.md](days/year-011/week-554/day-3877.md) | ✓ **Vitriol/arsenic trial-2 · routine ×2 PASS** | **Cal-Y13 D5 · ~25 Dec · W554 CLOSE** |
+| 3876 | [day-3876.md](days/year-011/week-554/day-3876.md) | ✓ **Hood proof CLOSED · vitriol/arsenic trial-1** | **Cal-Y13 D4 · ~24 Dec · W554 d6** |
+| 3875 | [day-3875.md](days/year-011/week-554/day-3875.md) | ✓ **Fume hood SO₂ roast · proof ~95%** | **Cal-Y13 D3 · ~23 Dec · W554 d5** |
+| 3874 | [day-3874.md](days/year-011/week-554/day-3874.md) | ✓ **Post-Yule chill · tidy** | **Cal-Y13 D2 · ~22 Dec · W554 d4** |
+| 3873 | [day-3873.md](days/year-011/week-554/day-3873.md) | ✓ **Yule feast · SUN mark · Cal-Y13 open** | **Cal-Y13 D1 · ~21 Dec · W554 d3** |
+| 3872 | [day-3872.md](days/year-011/week-554/day-3872.md) | ✓ **Yule eve cook · plate locked** | **Cal-Y12 D353 · ~20 Dec · W554 d2** |
 | 3871 | [day-3871.md](days/year-011/week-553/day-3871.md) | ✓ **Yule feast prep · BC-2 roof · W553 CLOSE** | **Cal-Y12 D352 · ~19 Dec · W554 open** |
 | 3870 | [day-3870.md](days/year-011/week-553/day-3870.md) | ✓ **Kaolin wash · TF fire 16/16** | **Cal-Y12 D351 · ~18 Dec · W553 d6** |
 | 3869 | [day-3869.md](days/year-011/week-553/day-3869.md) | ✓ **Shingle F2 lap · scale CLOSE** | **Cal-Y12 D350 · ~17 Dec · W553 d5** |

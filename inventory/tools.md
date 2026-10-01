@@ -147,7 +147,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | ID | Tool | Where | State |
 |---|---|---|---|
 | `RETORT-A` | Thin stoneware acid retort · ~¼ grog | Chem fire-table | **Batch 1 d3317 · etched · spent-rate witness** · foot **1** |
-| `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Chem fire-table | ✓ **Batch 1 d3335 · lighter etch than `A` · acid reference** · foot **1** |
+| `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Chem fire-table | ✓ **Batch 4 d3878 · ordinary etch · acid reference** · foot **4** |
 | `RETORT-C` · `D` | Thick-wall design trials | Reject stack | ×0 · cracked in stoneware fire d3311 |
 | `RECEIVER-1` | Thin stoneware receiver · loose-neck sand-seal seat | Chem fire-table | Live · rings clean |
 | `RETORT-E` · `F` | Production retorts · ~7 mm · ~¼ grog | Chem fire-table | ✓ **Stoneware sound d3332** · ✓ **acid recipe locked to ~⅓ grog thin (`B` class) d3335** |

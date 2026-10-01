@@ -10,7 +10,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~8.9 kg** | Char lane | | d3870 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~0.56 kg** | Char lane | | d3885 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.7 kg** | Store C vault | | d3665 |
 | `WOOD-OAK-P5` | Oak, green | **~24.7 kg** @ pile 5 | Pile 5 | | d3866 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
@@ -107,14 +107,14 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `O-1-MALACHITE` | Malachite, Y10 · *(+~0.48 kg tail at slag dish)* | ~17.55 kg | Pile 4 | | d3230 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
-| `GALENA-1` | Galena-class lead ore | ~12.2 kg | Forge staging | | — |
+| `GALENA-1` | Galena-class lead ore | **~10.6 kg** | Forge staging | | d3885 |
 | `H-11-HEMATITE` | Hematite | **~4.95 kg @ pile 4** | Pile 4 | | d3814 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~18.0 kg** | Pile 4 tray | d3618 | d3759 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | ~1.36 kg | Chem porch | | d3258 |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
 | `CASSITERITE-CONC` | Cassiterite concentrate · fines-heavy, deferred | ~0.5 kg | Forge staging tray | | d2933 |
-| `PYRITE-KISECIK` | Pyrite, Kisecik fringe · *(+`PYRITE-SPARK-TIN-1` ~22 g at `FK-1`)* | ~0.38 kg | Ore shelf | | d3127 |
+| `PYRITE-KISECIK` | Pyrite, Kisecik fringe · *(+`PYRITE-SPARK-TIN-1` ~22 g at `FK-1`)* | **~0.20 kg** | Ore shelf | | d3875 |
 | `CHROMITE-POD-M24-1` | Chromite pod fragment · podiform | ~190 g | Chem porch dry queue | d3338 | d3344 |
 | `GARNIERITE-BULK-M24-1` | Garnierite · **ribbon haul `M24-2`** · ☠ **dressed out d3582 — 18% green** | ×0 → split below | — | d3350 | d3582 |
 | ★ `GARNIERITE-DRESS-M24-1` | Garnierite, **dressed green fraction** · waxy fracture-fill · **~4.6% metal won** | **~5.05 kg** | `ORE-BAY-1` | d3582 | d3588 |
@@ -172,7 +172,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `ZN-METAL-1` | Zinc, prill tail | **~78 g** | Chem-lab lidded tray | | d3743 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | ~118 g | Purple lidded jar, v1 chem | | d3013 |
 | `BRONZE-STOCK` | Bronze, sprue tail · red | **×0** | Chill tray | | d3545 |
-| `PB-METAL` | Lead, tail · red · galena restock queued | **×0** | Forge jar | | d3497 |
+| **`LEAD-ACID-PILOT-1`** | Lead-acid pilot cell · **formation #2 partial · ~45% SOC** · **`LEAD-ACID-JAR-Y13-1`** | **1 jar** | Parallel chem tray · **`GEN-WW-2` charge** | d3883 | d3887 |
+| **`LEAD-ACID-PILOT-2`** | Lead-acid pilot cell · **first charge partial · ~45% SOC** · **`LEAD-ACID-JAR-Y13-2`** | **1 jar** | Parallel chem tray · **`GEN-WW-2` charge** | d3887 | d3887 |
+| **`PB-TRIM-Y13-2`** | Lead trim / slug · remelt reserve | **~68 g** | Forge jar | d3885 | d3885 |
+| `PB-METAL` | Lead, general tail | **×0** | Forge jar | | d3497 |
 | `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~12 g** | Chill tray | d3500 | d3839 |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
@@ -187,7 +190,7 @@ The wire bank is tracked by **gauge**, because gauge is what decides whether a l
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | **~52.3 m @ rack** · **~8 m @ cave spool** *(−~5 m → `TC-GALV-LEAD-PAIR-2`)* | Wire rack / cave | d3261 | d3839 |
+| `CU-WIRE-Y10-3` | 0.3 mm · electrowon, tough-pitch, poled — **drew without a break** | **~51.1 m @ rack** · **~8 m @ cave spool** *(−~5 m → `TC-GALV-LEAD-PAIR-2`)* | Wire rack / cave | d3261 | d3887 |
 | `WIRE-CU-GEN2-1` | 0.9 mm gen-2 | ~48.0 m | Chem peg | | d3501 |
 | `WIRE-CU-4` | 1.6 mm · lane B coil, hold | ~14 m | Chem porch | | d1982 |
 | `CU-WIRE-Y10-COATED` | 0.9 mm coated · leads and tails only | ~9 m | — | d3245 | d3267 |
@@ -220,7 +223,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `GLASS-TINT-LENS-Y10-D` | Tint lens spare | **`SUNGLASS-LENS-Y10-3` lapped · tint D matched · spare peg** | Spare peg | d3430 | d3517 |
 | `PAPER-SHEET-Y9` | Paper, flax · `SHEET-Y9-FLAX-29…32` · coil interleaving stock | ~9 sheets | Chem-lab rack | | d3503 |
 | `PAPER-SHEET-Y10-FLAX-1…3` | Paper, flax · roof R&D pulls | ×2 drying @ rack · ×1 on panel | Chem-lab rack | d3472 | d3472 |
-| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F2** | **11 coupons** @ chem porch south lean · **rain read defer F2** | Chem porch | d3472 | d3869 |
+| `ROOF-R&D-PANEL-1` | Roof coupon deck · coupons **A0–F2** | **11 coupons** @ chem porch south lean · **rain read d3873 F2 PASS** | Chem porch | d3472 | d3873 |
 | `BITUMEN-ROOF-TRIAL-1` | Bitumen · roof-grade trial crock · skimmed bulk | **~0.95 kg** | Chem porch | d3472 | d3869 |
 | `SAND-ROOF-FINE-1` | Sand, screened fine · roof surfacing | **~700 g** | Chem porch jar | d3472 | d3869 |
 
@@ -254,7 +257,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `EXPED-ROPE` | Hemp rope · D-27 salvage | ~72 m | Cart peg | | d2945 |
 | `FLAX-SHIVE-Y8-21` | Flax shive · **paper grade** | ~1.68 kg | Storage wing | Y8 | d3472 |
 | `FEATHER-BAG` | Feather, bag | ~71 g | — | | d3509 |
-| `LAB-LINEN-STOCK-1` | Lab linen — filters ×10 · jar wraps ×4 · voltaic separators ×24 · wipes ×9 · spill reserve ×4 | — | `CHEM-SPILL-PEG-1` | | d3054 |
+| `LAB-LINEN-STOCK-1` | Lab linen — filters ×8 · jar wraps ×4 · voltaic separators ×19 · **`LA-SEP-RESERVE-Y13-1` ×3** · wipes ×9 · spill reserve ×4 | — | `CHEM-SPILL-PEG-1` | | d3887 |
 | `P-FLAX-LINE-Y8-1` | Flax line, Y8 · `P-RETT-23` break/heckle | ~1.03 kg | WW peg | Y8 | d3135 |
 
 ## Hide, leather and bone
@@ -273,7 +276,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `DEER-BONES` | Deer bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
 | **`DEER-BONE-Y12-1`** | Red deer bone · **`DEER-BUTCHER-Y12-3796`** | **~11 kg** | **`BONE-BANK-1`** peg | d3796 | d3796 |
 | `GOAT-BONES` | Goat bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
-| ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~40 cupels · ~2 passes through `GALENA-1`** | ~5.6 kg @ porch · **~0.5 kg @ cave** | Chem porch / cave | d3309 | d3458 |
+| ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~38 cupels · ~2 passes through `GALENA-1`** | **~4.76 kg @ porch** · **~0.5 kg @ cave** | Chem porch / cave | d3309 | d3885 |
 
 > ☠ ★★★ **THE MIDDEN DOES NOT GIVE IT BACK** *(d3309)*. *Nine years of it forked over for ~2.8 kg of usable fragment — weathered soft, gnawed, trodden into the ash, the small bones gone entirely.* ★★★ **It is not lost the way a mislaid tool is lost. It is GONE.** ★★ *The other half of d3303: the clocks ran while I was not reading them, and they do not run backwards.*
 
@@ -326,9 +329,9 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~116 g flour | ~15.7 kg | — | | d2911 |
+| `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~88 g flour | **~15.67 kg** | — | | d3875 |
 | `M-11-ALUM` | Alum, crude | **~1.38 kg** | — | | d3869 |
-| `M-12-NITER` | Niter crystal | ~395 g @ chem · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d3458 |
+| `M-12-NITER` | Niter crystal | **~360 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d3875 |
 | `BLEACH-CLEAN-Y10-1` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-1` | d3454 | d3456 |
 | `BLEACH-CLEAN-Y10-2` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-2` | d3456 | d3456 |
 | `BLEACH-CLEAN-Y10-3` | Hypochlorite bleach · dilute cleaning stock · spare | ~220 ml | `P-LAB-BLEACH-BOTTLE-5` | d3456 | d3456 |
@@ -345,10 +348,14 @@ The Samandağ face turned a one-off haul into a bank. Grades are not interchange
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| ✓ ★★★ `ACID-VITRIOL-1` | **OIL OF VITRIOL, strong** · ★★ **~1.8× the weight of water** · ⚠ **chars on contact** | small bottle | `ACID-BOTTLE-1`, grooved glass stopper · chem porch | d3317 | d3317 |
-| `ACID-VITRIOL-2` | Oil of vitriol, strong · batch 2 · `RETORT-B` compare run | small bottle | Spare narrow-neck + grooved stopper · chem porch | d3335 | d3335 |
+| ✓ ★★★ `ACID-VITRIOL-1` | **OIL OF VITRIOL, strong** · ★★ **~1.8× the weight of water** · ⚠ **chars on contact** | **×0 · empty** | `ACID-BOTTLE-1` · chem porch | d3317 | d3886 |
+| `ACID-VITRIOL-2` | Oil of vitriol, strong · batch 2 · `RETORT-B` compare run | **×0 · empty** | Spare narrow-neck · chem porch | d3335 | d3886 |
+| `ACID-VITRIOL-3` | Oil of vitriol, strong · **Kisecik middle-cut class** | **~24 ml** | `P-LAB-ACID-BOTTLE-7` · isolated chem shelf | d3876 | d3886 |
 | `VITRIOL-FEED-CROCK-1` | Copperas feed · Kisecik-class green · calcined as needed | ~4.2 kg | Chem porch feed crock | d3317 | d3335 |
-| **`VITRIOL-LIQUOR-KISECIK-Y12-1`** | Green-vitriol heap liquor · **ARSENIC ASSUMED PRESENT · do not boil / crystallize / distil** | **~13.6 L** | Isolated chem bay · ×2 lidded stoneware crocks in secondary tray | d3590 | d3754 |
+| **`VITRIOL-LIQUOR-KISECIK-Y12-1`** | Green-vitriol heap liquor · **ARSENIC ASSUMED PRESENT** · ☠ **hood-only · ~400 ml scale PASS d3878** | **~12.8 L** | Isolated chem bay · ×2 lidded stoneware crocks in secondary tray | d3590 | d3878 |
+| **`ARS-IMMOBILIZED-LIME-3879`** | Arsenic immobilized · lime precipitate · scorodite-class · ☠ **handle as poison stock** | **~18 g wet cake** | Lidded jar · isolated chem tray · tagged | d3879 | d3879 |
+| **`ARS-WASHED-TAIL-3879`** | Iron-rich tail post arsenic wash · colcothar-class · low-As | **~34 g** | Isolated dish · tagged | d3879 | d3879 |
+| **`ARS-WORKUP-FILTRATE-3879`** | Spent work-up filtrate · arsenic depleted · weak iron/sulfate | **~395 ml** | `ACID-DREG` crock · tagged | d3879 | d3879 |
 | `COLCOTHAR-2` | Raw red ferric residue · `RETORT-B` batch 1 | small dish | Chem porch · unwashed | d3335 | d3335 |
 | `COLCOTHAR-1` | Raw red ferric-oxide residue · ✓ **washed and levigated d3318** | ×0 → `ROUGE-FINE-1` + `IRON-OXIDE-PIGMENT-1` | — | d3317 | d3318 |
 | ✓ ★★★ `ROUGE-FINE-1` | **Washed, levigated hematite finishing polish** · ★★ **clears final glass haze; does not remove deeper scratches** | small crock | Lap bench | d3318 | d3498 |

@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3871** · Cal-Y12 D352 · ~19 Dec · **Week 554 day 1** *(W553 closed)*
+> **Day 3887** · Cal-Y13 D15 · ~4 Jan · **Week 556 day 2**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **15** · **Norima wear 19**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 19**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -62,10 +62,14 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`OLIVE-PICK-Y12`** | **Pressed d3850 · decanted d3853–3854** | **Lap 3 tail optional · `OIL-Y12-1` cook live** |
 | ✓ **`SHELF-LIFE-SPRINT-Y12`** | **Closed d3854** | **Parched · barrel · stew · smoke · flat** |
 | ⚑ **`TF-FUME-TILE-Y12`** | **×47 fired spares @ rack north** | **`KAOLIN-SLIP-M26-1` ~12.4 kg · press when named** |
-| ◌ **`ROOF-R&D-HEMP-BITUMEN-1`** | **Panel F1/F2 PASS · scale deferred** | **BC-2: TR standard · membrane R&D optional · player d3871** |
-| ⚑ **`YULE-FEAST-Y12`** | **Prep d3871 · serve ~21 Dec d3873** | **Eve cook d3872 · bow hunt tradition** |
+| ◌ **`ROOF-R&D-HEMP-BITUMEN-1`** | **F1/F2 rain PASS d3873 · scale deferred** | **BC-2: TR standard · membrane trials when named** |
+| ✓ **`YULE-FEAST-Y12`** | **Closed d3873 · twelfth feast glyph** | **`GOOSE-SMOKE-Y12-1` ~0.98 kg · Cal-Y13 open** |
 | ⚑ **`GLASS-CULLET-REPLEN-3846`** | **×4 @ anneal · cullet bin ~1.2 kg** | **Tap defer · char margin thin for full glass reheat** |
-| ⚑ **`LAB-FUME-CABINET-1`** | **~90% d3843 · operational** | **SO₂ proof on first hood roast · distill GO after** |
+| ✓ **`LAB-FUME-CABINET-1`** | **~100% · proof CLOSED d3876** | **Arsenic immobilized d3879 · liquor scale ~800 ml gated** |
+| ✓ **`LEAD-ACID-BANK-Y13-1`** | **Parallel ×2 · formation partial both · ~45% SOC · matched pair PASS d3887** | **Wheel formation continue · daily storage read** |
+| ✓ **`LEAD-ACID-PILOT-1`** | **Formation #2 partial · ~45% SOC** | On parallel tray |
+| ✓ **`LEAD-ACID-PILOT-2`** | **First charge partial · ~45% SOC** | On parallel tray |
+| ⚑ **`LA-SEP-RESERVE-Y13-1`** | **×3 linen separators @ chem spill peg** | **Swap on read · not on calendar** |
 | **`FLAX-PULL-WILD`** | **26 Jun – 26 Jul** | ✓ **DEFER Y12 d3698** · ⚑ **shingle thread boost Y13 if F2 rain PASS** *(player d3869)* |
 | `BIRD-WATCH` · device reset | fine-seed tail | Six-day absence PASS · devices reset d3597 · field rows rooted |
 | `GOAT-KID` freshen | **Feb–Apr** | `GOAT-KIDDING-STALL-1` clean |
@@ -77,21 +81,21 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~8.9 kg** | d3870 |
+| **`CHAR-LANE`** | **~0.56 kg** | d3885 · **runway thin** |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×47** @ rack north | d3870 |
 | **`KAOLIN-SLIP-M26-1`** | **~12.4 kg** @ chem porch | d3870 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
 | **`P-17-LENTIL-Y12`** | **~153 g** @ horreum pulse bay | d3854 |
-| **`OIL-Y12-1`** | **~1.06 L clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d3854 |
-| **`PARCHED-MU-12-Y12-1`** | **~0.52 kg** @ snack jar | d3854 |
-| **`STEW-Y12-JAR-3854`** | **~1.02 kg** @ cool step | d3854 |
+| **`OIL-Y12-1`** | **~1.03 L clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d3872 |
+| **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
+| **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~20.7 kg** @ pile 5 | d3870 |
+| **`WOOD-OAK-P5`** | **~10.0 kg** @ pile 5 | d3881 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~2.59 kg** @ horreum incoming | d3854 |
 | **`BARREL-4-GRAIN`** | **~0.96 kg** @ v1 | d3854 |
-| **`FISH-SMOKE-1`** | **~2.15 kg** @ smoke rack | d3854 |
+| **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
 | **`BARLEY-BULK-Y12`** | **~0.51 kg** @ horreum barley bay | d3849 |
 | **`H-11-HEMATITE`** | **~4.95 kg @ pile 4** | d3814 |
 | **`FORSTERITE-GROG-1`** | **~3.2 kg** | d3838 |
@@ -99,7 +103,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `FORSTERITE-BRICK-Y12-1` | **×0 bank** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d3776 |
 | **`M-22-MAGNETITE-1`** | **~18.0 kg** @ pile 4 tray | d3759 |
 | **`LIME-PUTTY-1`** | **~1.13 kg** | d3843 |
-| **`QUICKLIME-1`** | **~9.55 kg** | d3843 |
+| **`QUICKLIME-1`** | **~9.51 kg** | d3879 |
 | **`CACO3-P7`** | **~14.2 kg** @ pile 7 | d3702 |
 | **`CHAR-RESERVE-C`** | **~9.7 kg** | d3665 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
@@ -112,7 +116,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`M-22-MAGNETITE-1`** | **~18.0 kg @ pile 4 tray** | d3759 |
 | `BRASS-STOCK` | **~23 g** @ chill tray | d3801 |
 | `CU-BAR-Y10-1` | **~31 g** | d3835 |
-| ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~13.6 L** · arsenic-bearing | d3754 · isolated · no processing yet |
+| ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
 | ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay · **`FMN-STD ×3 staged`** · ref **`M31-FEED-COMPOSITE-Y12-1`** | d3615 |
 | ☠ **`BRONZE-STOCK`** | **×0** — feed-nut pad spent | d3545 |
 | `NAIL-IRON` | **×2 @ bench** · **×4 @ cave crate** | d3843 |
@@ -139,7 +143,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `METROLOGY-CELLAR-1` | @ `CAVE-1` upslope · ~9 °C stable · ☠ references only, not food or seed |
 | Mass · length | `MASS-REF-100/1000-1` @ 14 °C · `CALIPER-1` gen-3 cert · ☠ length refs are steel/oak, not invar |
 | `PARTS-PEG-BOARD-1` | Bench peg board + `ELEC-COMPONENT-BOX-Y10-1` 4-row spare drawer |
-| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~3.0 L O₂ remain** · ☠ **bath daily read · purge first draw** |
+| `GASHOLDER-2` | H₂ + O₂ · **Bell B ~4.8 L O₂** · ☠ **bath daily read · purge first draw** |
 
 ## Standards
 

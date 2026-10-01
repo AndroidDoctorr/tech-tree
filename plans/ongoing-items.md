@@ -40,7 +40,7 @@ Ring closed at **97/97 m, d2836**. Stage-3 work and gate caps were queued after 
 `VITRIOL-HEAP-1` @ `M-23` Kisecik. First harvest **~7.4 L d3590** · containment PASS · heap forked loose and recharged with ~10 kg pyrite-rich feed.
 
 - Heap stays at the ore; only liquor travels
-- Liquor is **arsenic-bearing until proved otherwise**
+- Liquor is **arsenic-bearing until proved otherwise** · **partition + lime immobilization FILED d3879** · **~800 ml liquor scale gated**
 - Next productive read is after **~90 wet days**, not 90 dry-season calendar days
 - On every Kisecik pass: containment · sump level · crust · core conversion
 

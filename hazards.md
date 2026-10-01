@@ -86,7 +86,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
 | **Norima wear** | **19** | **`KAOLIN-HAUL-M26-3866 d3866`** |
-| **mishap_pool** | **15** | **vitriol read d3752 · POP MISS d3754** |
+| **mishap_pool** | **0** | **POP HIT d3883 · jar pour slip · spill kit PASS · pool reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
 ### Mishap pool doctrine *(player @ d3118)*
