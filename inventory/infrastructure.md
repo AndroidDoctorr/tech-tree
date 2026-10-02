@@ -413,6 +413,11 @@ Map: wagon liquid-insert pump peg · Built: d3170
 
 Copper barrel, brass checks, hose paired.
 
+### `AIR-PUMP-1` — bench air pump
+Map: craft peg / **`WORKBENCH-1`** clamp · Built: d3930
+
+**`PT-10-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~14 ml/stroke class** · hand trial **PASS** d3930. ✓ **`PIPE-TEST-PT-22-A` d3946** · ⚑ **`PT-22-A-PROD-1` · `AIR-PUMP-2`** · vac-specialized duplicate after scale trial · compressor duplicate when refrigeration arc names loop. **`AIR-PUMP-CRANK-1`** defer. Not **`LIQUID-PUMP-2`** *(wagon liquid only)*.
+
 ## Sanitary
 
 ### `PORC-TOILET-1`

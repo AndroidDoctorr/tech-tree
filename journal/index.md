@@ -6,10 +6,40 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3916)*
+## Recent days *(append here · @ Day 3946)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3946 | [day-3946.md](days/year-011/week-564/day-3946.md) | ✓ **`PIPE-TEST-PT-22-A` · MFGC PASS · production GO** | **Cal-Y13 D74 · ~4 Mar · W564 d5** |
+| 3945 | [day-3945.md](days/year-011/week-564/day-3945.md) | ✓ **Wood haul · pile 5 ~18.0 kg · freshen watch** | **Cal-Y13 D73 · ~3 Mar · W564 d4** |
+| 3944 | [day-3944.md](days/year-011/week-564/day-3944.md) | ✓ **`CHAR-RETORT-3944` · lane ~13.3 kg · wood thin** | **Cal-Y13 D72 · ~2 Mar · W564 d3** |
+| 3943 | [day-3943.md](days/year-011/week-564/day-3943.md) | ✓ **`P-LAB-CRUC-REPLEN-Y13` lap 2 · V/W/X · ×6 GREEN** | **Cal-Y13 D71 · ~1 Mar · W564 d2** |
+| 3942 | [day-3942.md](days/year-011/week-564/day-3942.md) | ✓ **`P-LAB-CRUC-REPLEN-Y13` · S/T/U throw · ×3 GREEN** | **Cal-Y13 D70 · ~28 Feb · W564 d1** |
+| 3941 | [day-3941.md](days/year-011/week-563/day-3941.md) | ✓ **`KAOLIN-HAUL-M26` + wash · slip ~22.6 kg** | **Cal-Y13 D69 · ~27 Feb · W563 d7 CLOSE** |
+| 3940 | [day-3940.md](days/year-011/week-563/day-3940.md) | ✓ **`SPRING-SOW-Y13` · ~62–66 m² single day** | **Cal-Y13 D68 · ~26 Feb · W563 d6** |
+| 3939 | [day-3939.md](days/year-011/week-563/day-3939.md) | ✓ **Farm scare · Norima tune · wear 20→14** | **Cal-Y13 D67 · ~25 Feb · W563 d5** |
+| 3938 | [day-3938.md](days/year-011/week-563/day-3938.md) | ✓ **`SEED-RAG-TEST-Y13` · regen · sow gate GO** | **Cal-Y13 D66 · ~24 Feb · W563 d4** |
+| 3937 | [day-3937.md](days/year-011/week-563/day-3937.md) | ✓ **Goat checkup · pen maint · freshen imminent** | **Cal-Y13 D65 · ~23 Feb · W563 d3** |
+| 3936 | [day-3936.md](days/year-011/week-563/day-3936.md) | ✓ **`BED-EXPANSION-SPRINT-Y13-1` · stake + scratch** | **Cal-Y13 D64 · ~22 Feb · W563 d2** |
+| 3935 | [day-3935.md](days/year-011/week-563/day-3935.md) | ✓ **Wood haul · pile 5 ~23.0 kg · freshen watch** | **Cal-Y13 D63 · ~21 Feb · W563 d1** |
+| 3934 | [day-3934.md](days/year-011/week-562/day-3934.md) | ✓ **`IRON-BLOOM-SMELT-Y13-3` · WEEK 562 CLOSE** | **Cal-Y13 D62 · ~20 Feb · W562 d7** |
+| 3933 | [day-3933.md](days/year-011/week-562/day-3933.md) | ✓ **`IRON-BLOOM-SMELT-Y13-2` · bloom ~865 g** | **Cal-Y13 D61 · ~19 Feb · W562 d6** |
+| 3932 | [day-3932.md](days/year-011/week-562/day-3932.md) | ✓ **`CHAR-RETORT-3932` · lane ~17.0 kg** | **Cal-Y13 D60 · ~18 Feb · W562 d5** |
+| 3931 | [day-3931.md](days/year-011/week-562/day-3931.md) | ✓ **`BRASS-POUR-4` · azurite Cu snip · brass restock** | **Cal-Y13 D59 · ~17 Feb · W562 d4** |
+| 3930 | [day-3930.md](days/year-011/week-562/day-3930.md) | ✓ **`AIR-PUMP-1` CLOSE · air trial · crank slate** | **Cal-Y13 D58 · ~16 Feb · W562 d3** |
+| 3929 | [day-3929.md](days/year-011/week-562/day-3929.md) | ✓ **`AIR-PUMP-1-HEAD` · brass checks mounted** | **Cal-Y13 D57 · ~15 Feb · W562 d2** |
+| 3928 | [day-3928.md](days/year-011/week-562/day-3928.md) | ✓ **`AIR-PUMP-1` cylinder · `PT-10-A-PROD-1`** | **Cal-Y13 D56 · ~14 Feb · W562 d1** |
+| 3927 | [day-3927.md](days/year-011/week-561/day-3927.md) | ✓ **`PIPE-TEST-PT-10-A` · MFGC-1 three-gate PASS** | **Cal-Y13 D55 · ~13 Feb · W561 d7** |
+| 3926 | [day-3926.md](days/year-011/week-561/day-3926.md) | ✓ **`GRAIN-DISTILL-Y13-1` · spirit ~1.35 L** | **Cal-Y13 D54 · ~12 Feb · W561 d6** |
+| 3925 | [day-3925.md](days/year-011/week-561/day-3925.md) | ✓ **Wood haul · pile 5 ~27.9 kg** | **Cal-Y13 D53 · ~11 Feb · W561 d5** |
+| 3924 | [day-3924.md](days/year-011/week-561/day-3924.md) | ✓ **Char retort · `WOOD-OAK-P5` thin** | **Cal-Y13 D52 · ~10 Feb · W561 d4** |
+| 3923 | [day-3923.md](days/year-011/week-561/day-3923.md) | ✓ **`ICE-HAUL-Y13` lap 2 · vault ~128.5 kg · CLOSE** | **Cal-Y13 D51 · ~9 Feb · W561 d3** |
+| 3922 | [day-3922.md](days/year-011/week-561/day-3922.md) | ✓ **`ICE-HAUL-Y13-PEAK` lap 1 · vault ~114 kg** | **Cal-Y13 D50 · ~8 Feb · W561 d2** |
+| 3921 | [day-3921.md](days/year-011/week-561/day-3921.md) | ✓ **Norima tune · `ICE-HAUL-Y13-PREP` · vault retcon** | **Cal-Y13 D49 · ~7 Feb · W561 d1** |
+| 3920 | [day-3920.md](days/year-011/week-560/day-3920.md) | ✓ **Char retort · W560 CLOSE · ice break** | **Cal-Y13 D48 · ~6 Feb · W560 d7** |
+| 3919 | [day-3919.md](days/year-011/week-560/day-3919.md) | ✓ **Wood haul lap 2** | **Cal-Y13 D47 · ~5 Feb · W560 d6** |
+| 3918 | [day-3918.md](days/year-011/week-560/day-3918.md) | ✓ **Wood haul lap 1** | **Cal-Y13 D46 · ~4 Feb · W560 d5** |
+| 3917 | [day-3917.md](days/year-011/week-560/day-3917.md) | ✓ **Bloom smelt · ~620 g @ mount** | **Cal-Y13 D45 · ~3 Feb · W560 d4** |
 | 3916 | [day-3916.md](days/year-011/week-560/day-3916.md) | ✓ **`H-11-HAUL-3916` · ~17 kg @ pile 4** | **Cal-Y13 D44 · ~2 Feb · W560 d3** |
 | 3915 | [day-3915.md](days/year-011/week-560/day-3915.md) | ✓ **Norima tune · wear 25→19** | **Cal-Y13 D43 · ~1 Feb · W560 d2** |
 | 3914 | [day-3914.md](days/year-011/week-560/day-3914.md) | ✓ **`ASSAY-Y13-003` · `ST-SPR-STRIP-Y13-1`** | **Cal-Y13 D42 · ~31 Jan · W560 d1** |

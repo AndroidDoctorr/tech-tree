@@ -14,7 +14,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 |---|---|---|---|---|---|
 | **`BARLEY-BULK-Y12`** | Barley, bulk · Y12 trial harvest | **~0.51 kg** | Horreum A barley bay | d3849 | d3849 |
 | `BARLEY-BULK-Y10` | Barley, bulk · Y10 trial harvest | ~0.48 kg | Horreum A barley bay | d3491 | d3491 |
-| **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~2.59 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d3854 |
+| **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~1.09 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d3940 |
 | `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~1.11 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3576 |
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · green · Y12 refresh | **~0.38 kg** | Horreum snack jar `P-μ-12` | d3854 | d3872 |
@@ -160,7 +160,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.36 L** | Horreum | Y7 | d3873 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`GRAIN-FERMENT-Y13-1`** | Grain mash · spirit lane · **day ~28** · steady cap · emmer/barley · **`STARTER-Y6-1` pitch** | **~9.2 L class @ `AMPHORA-9`** | Horreum A margin | d3888 | d3916 |
+| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.35 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d3926 |
 
 ## Olives in brine
 
@@ -189,7 +189,7 @@ Salt is the one indefinite row. **Y10 evap band OPEN** (6 Nov – 26 Nov) — cy
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~125.8 kg** | Ice vault | Y12 | d3563 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~128.5 kg** | Ice vault | Y12+Y13 | d3923 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

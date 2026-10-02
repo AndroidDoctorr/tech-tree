@@ -132,7 +132,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×2 FIRED Q/R d3912 · Q clean · R marginal** · **P spent d3913** · **×0 GREEN** · **C–P spent** |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×2 FIRED Q/R d3912 · Q clean · R marginal** · **P spent d3913** · **×6 GREEN S/T/U/V/W/X d3942–3943 @ sun rack** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |

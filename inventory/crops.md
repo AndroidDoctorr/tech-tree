@@ -6,16 +6,17 @@ What is standing in the ground right now. Harvested stock moves to [food.md](foo
 
 `Sown` rather than `Made`, and it is a schedule input rather than a keep window — everything downstream is read against [calendar.md](../checklists/calendar.md). This is the one inventory file where the date tells you what to *do* rather than what is still good.
 
-Y12 sow **d3576**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
+Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
 
 ## Bed A
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-SEL-Y12` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **cut d3763 · stubble** | d3576 | **✓ `HEMP-CUT-Y12-3763` · ~12 g seed hold** |
-| `HEMP-GHAB-RESERVE-Y12` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3576 | **Sown thin** · pegged **RESERVE** |
-| `FAVA-Y12` | Fava | Bed A west · **~6 m²** | d3576 | **Dibbed** · nodule ground |
-| `P-18-CHICKPEA-Y12` | Chickpea | Bed A south · **~6 m²** | d3576 | **✓ cut d3851 · stubble** |
+| `HEMP-SEL-Y13` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **~18 m²** | d3940 | **Sown dense · fibre-first clock** |
+| `HEMP-GHAB-RESERVE-Y13` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3940 | **Sown thin** · pegged **RESERVE** |
+| `FAVA-Y13` | Fava · elite + working | Bed A west · **~8 m²** | d3940 | **Dibbed deep** · nodule ground |
+| `BARLEY-TRIAL-Y13` | Barley trial lip | Bed A west margin · shared w/ fava foot | d3940 | **Row drill** |
+| `P-18-CHICKPEA-Y13` | Chickpea | Bed A south · **~6 m²** | d3940 | **Row drill** |
 
 ☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before seed block flowers). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 
@@ -23,20 +24,19 @@ Y12 sow **d3576**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y12` | Flax, field · fibre | Bed B centre · **~16 m²** | d3576 | **✓ pulled d3852 · roots cleared** |
-| `EMMER-Y12` | Emmer | Bed B south + centre · **~10 m²** | d3576 | **✓ cut d3849 · stubble** |
-| `BARLEY-TRIAL-Y12` | Barley trial | Bed B east margin · **~2.5 m²** | d3576 | **✓ cut d3849 · stubble** |
-| `P-17-LENTIL-Y12` | Lentil | Bed B north + margin · **~6 m²** | d3576 | **✓ cut d3850 · stubble** |
+| `FLAX-FIELD-Y13` | Flax, field · fibre | Bed B centre · **~16 m²** | d3940 | **Dense drill · brushed** |
+| `EMMER-Y13` | Emmer | Bed B south + centre · **~10 m²** | d3940 | **Broadcast · rolled** |
+| `BARLEY-TRIAL-Y13` | Barley trial | Bed B east margin · **~2.5 m²** | d3940 | **Row drill** |
+| `P-17-LENTIL-Y13` | Lentil | Bed B north + margin · **~6 m²** | d3940 | **Row drill** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
-| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3576 | **✓ weighed d3850 · analysis defer** |
+| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3940 | **Staked · in crop** |
 
 ## Bed C
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y12` | Emmer elite increase | Bed C south corner · **~3 m²** | d3576 | **✓ cut d3849 · elite to vault** |
-| `PULSE-DISASTER-Y12` | Lentil + chickpea disaster/regen | Bed C SW · **~8 m²** | d3576 | **`SEED-REGEN` blocks** |
-| `EMMER-Y5-RESCUE-Y12` | Emmer elite Y5 rescue | Dedicated block · **~4 m²** | d3576 | **✓ cut d3849 · ~236 g elite to vault** |
+| `SEED-INCREASE-BLOCK-Y13` | Emmer elite increase | Bed C south corner · **~3 m²** | d3940 | **Wide drill · RESERVE peg** |
+| `PULSE-DISASTER-Y13` | Lentil regen · **`P-17-ELITE-Y10`** | Bed C SW · **~8 m²** | d3940 | **`SEED-REGEN-Y13` block** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -44,41 +44,33 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FIG-C1…C4` | Fig ×4 | Bed D | d3368 | **✓ pick d3745 · leather drying** |
+| `FIG-C1…C4` | Fig ×4 | Bed D | d3368 | **Dormant · leather tail dry** |
 | `WOAD-BED-D` | Woad, rosette | Bed D | Y9 | Crown intact · window to 18 Aug |
 
 ## Herbs
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `CULINA-HERB-BED` | Coriander · rosemary · parsley · allium | Culina herb bed | d3576 / d3580 | **Seed plants cut d3678** · kitchen from remainder · **parsley Y13 ×3 standing** |
-| `HERB-LAYER-2` | ×4 rosemary · ×4 thyme re-pegged | Herb margin | d3576 | Layering · sever autumn |
-| `MINT-CROCK-2` | Mint ×2 divisions | Culina bed | d3576 | Sunk crock |
+| `CULINA-CORIANDER-Y13` | Coriander | Culina margin | d3940 | **Shallow drill** |
+| `CULINA-ROSEMARY-Y13` | Rosemary | Culina · layers ×4 | d3940 | **Layer route** |
+| `CULINA-THYME-Y13` | Thyme | Culina · layers ×4 | d3940 | **Mother-row layers** |
+| `CULINA-MINT-Y13` | Mint | Culina · crock ×2 | d3940 | **Divisions sunk** |
+| `CULINA-PARSLEY-Y13` | Parsley | Culina S band | d3940 | **Direct drill** |
+| `CULINA-ALLIUM-Y13` | Allium | Culina N edge | d3940 | **Row drill** |
 
-## Perennials — vine and tree
+## Perennials · vine
 
-| ID | Crop | Where | Planted | State |
+| ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `P-03-TRELLIS` | Grape, cordon-trained | P-03 trellis @ T-2 | — | ✓ **`GRAPE-CLUSTER-THIN-Y12-1` d3679** · **~32 clusters** · pick Aug–Oct |
-| `P-03-REGEN-Y12-1` | Grape select regen · Y8 bank grow-out | T-2 north lip · ~2 m strip | d3578 | **Sown thick** · seed pick Aug–Oct |
-| `P-03-CUT-Y12-1` | Grape hardwood cuttings ×4 | T-2 north lip sand-mulch | d3579 | Buried heel · spring strike read |
-| `P-02-OLIVE` | Olive terrace | P-02 | — | Standing · Nov pick and press band |
+| `P-03-CORDON` | Grape cordon | Bed B west trellis | d3368 | **Winter tidy d3827 · renewal tied** |
+| `P-03-REGEN-Y12-1` | Grape regen lip | T-2 | d3578 | **Hold · pick replaces bank Aug–Oct** |
 
-## Wild patches
+## Retting · fibre queue
 
-| ID | Stand | Where | State |
-|---|---|---|---|
-| `P-04` · `P-05-A/B` · `P-06-A/B/C` | Wild grain | — | Standing |
-| `FLAX-PATCH-1` | Wild flax band | Ditch W · T-1 lip | Window to 26 Jul |
-| `P-01` | Pistachio | T-2, ~160 m | Standing |
-| `P-22` | Wild hemp | Ghab plain | Patch standing |
-| `P-12` | Fig | 650 m | Standing |
-| `PINE-TAP-CUPS` | Pine, ×8 cupped | Pine stand | Collect on pass |
-
-## Retting
-
-| ID | Load | Where | Loaded | State |
+| ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `P-RETT-33` | Hemp Bed A Y12 · **×6 sheaves** | — | d3770 | **✓ FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** |
-| `P-RETT-32` | Flax field Y10 | — | d3487 | ✓ **CLOSED d3505** |
-| **`P-RETT-34`** | Flax field Y12 | — | d3852 | **✓ FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg · spin defer** |
+| `P-RETT-33` | Hemp Bed A Y12 | — | d3770 | **✓ CLOSED d3786** |
+| `P-RETT-32` | Flax field Y10 | — | d3487 | **✓ CLOSED d3505** |
+| `P-RETT-34` | Flax field Y12 | — | d3852 | **✓ CLOSED d3865** — line @ crate · spin defer |
+
+Troughs **empty** @ ditch W.
