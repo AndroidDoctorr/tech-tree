@@ -14,7 +14,7 @@ Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is
 |---|---|---|---|---|
 | `HEMP-SEL-Y13` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north · **~18 m²** | d3940 | **Sown dense · fibre-first clock** |
 | `HEMP-GHAB-RESERVE-Y13` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3940 | **Sown thin** · pegged **RESERVE** |
-| `FAVA-Y13` | Fava · elite + working | Bed A west · **~8 m²** | d3940 | **Dibbed deep** · nodule ground |
+| `FAVA-Y13` | Fava · elite + working | Bed A west · **~8 m²** | d3940 | **First breaks d3952** |
 | `BARLEY-TRIAL-Y13` | Barley trial lip | Bed A west margin · shared w/ fava foot | d3940 | **Row drill** |
 | `P-18-CHICKPEA-Y13` | Chickpea | Bed A south · **~6 m²** | d3940 | **Row drill** |
 
@@ -25,9 +25,9 @@ Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
 | `FLAX-FIELD-Y13` | Flax, field · fibre | Bed B centre · **~16 m²** | d3940 | **Dense drill · brushed** |
-| `EMMER-Y13` | Emmer | Bed B south + centre · **~10 m²** | d3940 | **Broadcast · rolled** |
+| `EMMER-Y13` | Emmer | Bed B south + centre · **~10 m²** | d3940 | **Cotyledon break @ scattered patches d3950** |
 | `BARLEY-TRIAL-Y13` | Barley trial | Bed B east margin · **~2.5 m²** | d3940 | **Row drill** |
-| `P-17-LENTIL-Y13` | Lentil | Bed B north + margin · **~6 m²** | d3940 | **Row drill** |
+| `P-17-LENTIL-Y13` | Lentil | Bed B north + margin · **~6 m²** | d3940 | **Cotyledon break @ row d3950** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
 | `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3940 | **Staked · in crop** |
 
@@ -51,12 +51,12 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `CULINA-CORIANDER-Y13` | Coriander | Culina margin | d3940 | **Shallow drill** |
-| `CULINA-ROSEMARY-Y13` | Rosemary | Culina · layers ×4 | d3940 | **Layer route** |
-| `CULINA-THYME-Y13` | Thyme | Culina · layers ×4 | d3940 | **Mother-row layers** |
-| `CULINA-MINT-Y13` | Mint | Culina · crock ×2 | d3940 | **Divisions sunk** |
-| `CULINA-PARSLEY-Y13` | Parsley | Culina S band | d3940 | **Direct drill** |
-| `CULINA-ALLIUM-Y13` | Allium | Culina N edge | d3940 | **Row drill** |
+| `CULINA-CORIANDER-Y13` | Coriander | Culina margin | d3940 | **×6 designated d3970 · `HERB-DES-CORI-Y13-1…6`** |
+| `CULINA-ROSEMARY-Y13` | Rosemary | Culina · layers ×4 | d3940 | **Mother rows flagged d3970 · layer route** |
+| `CULINA-THYME-Y13` | Thyme | Culina · layers ×4 | d3940 | **Mother rows flagged d3970** |
+| `CULINA-MINT-Y13` | Mint | Culina · crock ×2 | d3940 | **`MINT-CROCK-1` divide queued** |
+| `CULINA-PARSLEY-Y13` | Parsley | Culina S band | d3940 | **×3 designated d3970 · `HERB-DES-PARSLEY-Y14-1…3` · Y14 seed cut** |
+| `CULINA-ALLIUM-Y13` | Allium | Culina N edge | d3940 | **×4 designated d3970 · `HERB-DES-ALLIUM-Y13-1…4`** |
 
 ## Perennials · vine
 

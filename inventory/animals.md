@@ -36,9 +36,10 @@ Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal t
 
 | # | Who | State |
 |---|---|---|
-| 1 | Doe | **In milk, ~0.45 L/d** |
+| 1 | Doe | **Freshened d3978 · colostrum → milk · kid #4 nursing** |
 | 2 | Billie | West rail |
 | 3 | Buckling kid | ★ **Horns kept** · **~14 mo** · growing · ⚑ **wether before Sep rut** |
+| 4 | Doeling kid | **Born d3978 · ~2.7 kg · strong latch · `GOAT-KIDDING-STALL-1`** |
 
 Milk goes to `GOAT-MILK-CROCK` — ~0.20 L held at the ice vault niche. Cheese and ricotta now run **together** as one routine rather than as separate jobs.
 

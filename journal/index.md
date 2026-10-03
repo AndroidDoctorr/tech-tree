@@ -6,10 +6,50 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3946)*
+## Recent days *(append here · @ Day 3986)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 3986 | [day-3986.md](days/year-011/week-570/day-3986.md) | **Wood haul + campus pine rosin combo** | **Cal-Y13 D114 · ~13 Apr · W570 d3** |
+| 3985 | [day-3985.md](days/year-011/week-570/day-3985.md) | **✓ `FEEDER-2` wrap CLOSED · both feeders done** | **Cal-Y13 D113 · ~12 Apr · W570 d2** |
+| 3984 | [day-3984.md](days/year-011/week-570/day-3984.md) | **✓ Farm cleanup · `HIVE-3` split CLOSED** | **Cal-Y13 D112 · ~11 Apr · W570 d1** |
+| 3983 | [day-3983.md](days/year-011/week-569/day-3983.md) | **✓ Kisecik return · rosin · ore · Week 569 CLOSED** | **Cal-Y13 D111 · ~10 Apr · W569 d7** |
+| 3982 | [day-3982.md](days/year-011/week-569/day-3982.md) | **Kisecik D1 · crossing reads · trail · camp** | **Cal-Y13 D110 · ~9 Apr · W569 d6** |
+| 3981 | [day-3981.md](days/year-011/week-569/day-3981.md) | **✓ Kisecik prep · campus block lifted** | **Cal-Y13 D109 · ~8 Apr · W569 d5** |
+| 3980 | [day-3980.md](days/year-011/week-569/day-3980.md) | **✓ Feeder-1 wrap CLOSED · full trunk** | **Cal-Y13 D108 · ~7 Apr · W569 d4** |
+| 3979 | [day-3979.md](days/year-011/week-569/day-3979.md) | **Feeder-1 weather wrap ~36 % · herd cap read** | **Cal-Y13 D107 · ~6 Apr · W569 d3** |
+| 3978 | [day-3978.md](days/year-011/week-569/day-3978.md) | ✓ **Norima tune · kid #4 · freshen CLOSED** | **Cal-Y13 D106 · ~5 Apr · W569 d2** |
+| 3977 | [day-3977.md](days/year-011/week-569/day-3977.md) | ✓ **Grid-powered spin trial · ~22 m thread** | **Cal-Y13 D105 · ~4 Apr · W569 d1** |
+| 3976 | [day-3976.md](days/year-011/week-568/day-3976.md) | ✓ **`EC-1-GRID-FEEDER-2` LIVE · Week 568 CLOSED** | **Cal-Y13 D104 · ~3 Apr · W568 d7** |
+| 3975 | [day-3975.md](days/year-011/week-568/day-3975.md) | ✓ **Char retort · `CHAR-LANE` ~15.1 kg** | **Cal-Y13 D103 · ~2 Apr · W568 d6** |
+| 3974 | [day-3974.md](days/year-011/week-568/day-3974.md) | ✓ **Wood haul · ~17.1 kg** | **Cal-Y13 D102 · ~1 Apr · W568 d5** |
+| 3973 | [day-3973.md](days/year-011/week-568/day-3973.md) | ✓ **Wire bank ~89 m · craft-wing feeder stock** | **Cal-Y13 D101 · ~31 Mar · W568 d4** |
+| 3972 | [day-3972.md](days/year-011/week-568/day-3972.md) | ✓ **Malachite smelt · wire draw · branch stub close** | **Cal-Y13 D100 · ~30 Mar · W568 d3** |
+| 3971 | [day-3971.md](days/year-011/week-568/day-3971.md) | ✓ **Grid bus tie-in · `MOTOR-1` commissioned** | **Cal-Y13 D99 · ~29 Mar · W568 d2** |
+| 3970 | [day-3970.md](days/year-011/week-568/day-3970.md) | ✓ **Farm scare · herb designate · hive space bar** | **Cal-Y13 D98 · ~28 Mar · W568 d1** |
+| 3969 | [day-3969.md](days/year-011/week-567/day-3969.md) | ✓ **Char retort · Week 567 CLOSED** | **Cal-Y13 D97 · ~27 Mar · W567 d7** |
+| 3968 | [day-3968.md](days/year-011/week-567/day-3968.md) | ✓ **Wood haul · ~17.1 kg** | **Cal-Y13 D96 · ~26 Mar · W567 d6** |
+| 3967 | [day-3967.md](days/year-011/week-567/day-3967.md) | ✓ **`LEAD-ACID` formation ✓ CLOSED** | **Cal-Y13 D95 · ~25 Mar · W567 d5** |
+| 3966 | [day-3966.md](days/year-011/week-567/day-3966.md) | ✓ **`LEAD-ACID` formation · ~68% SOC** | **Cal-Y13 D94 · ~24 Mar · W567 d4** |
+| 3965 | [day-3965.md](days/year-011/week-567/day-3965.md) | ✓ **Grape shoot thin · apiary watch** | **Cal-Y13 D93 · ~23 Mar · W567 d3** |
+| 3964 | [day-3964.md](days/year-011/week-567/day-3964.md) | ✓ **`MOTOR-1` LIVE · stall torque read** | **Cal-Y13 D92 · ~22 Mar · W567 d2** |
+| 3963 | [day-3963.md](days/year-011/week-567/day-3963.md) | ✓ **`MOTOR-1-WIND` · ~235 turns · W567 open** | **Cal-Y13 D91 · ~21 Mar · W567 d1** |
+| 3962 | [day-3962.md](days/year-011/week-566/day-3962.md) | ✓ **`CHAR-RETORT` · W566 close** | **Cal-Y13 D90 · ~20 Mar · W566 d7** |
+| 3961 | [day-3961.md](days/year-011/week-566/day-3961.md) | ✓ **Wood haul · pile ~26.9 kg pre-retort** | **Cal-Y13 D89 · ~19 Mar · W566 d6** |
+| 3960 | [day-3960.md](days/year-011/week-566/day-3960.md) | ✓ **`IRON-BLOOM-SMELT-Y13-4` · mount ~1.18 kg** | **Cal-Y13 D88 · ~18 Mar · W566 d5** |
+| 3959 | [day-3959.md](days/year-011/week-566/day-3959.md) | ✓ **`CHAR-RETORT` · lane refill · wood thin** | **Cal-Y13 D87 · ~17 Mar · W566 d4** |
+| 3958 | [day-3958.md](days/year-011/week-566/day-3958.md) | ✓ **`MOTOR-1` core + commutator · sow band close** | **Cal-Y13 D86 · ~16 Mar · W566 d3** |
+| 3957 | [day-3957.md](days/year-011/week-566/day-3957.md) | ✓ **`MOTOR-1-YOKE-D1` · `ST-MAG-1` poles mounted** | **Cal-Y13 D85 · ~15 Mar · W566 d2** |
+| 3956 | [day-3956.md](days/year-011/week-566/day-3956.md) | ✓ **`ETHANOL-DEHYD-POC-1` Phase A · W566 open** | **Cal-Y13 D84 · ~14 Mar · W566 d1** |
+| 3955 | [day-3955.md](days/year-011/week-565/day-3955.md) | ✓ **`CHAR-RETORT` · lane ~11.8 kg · W565 close** | **Cal-Y13 D83 · ~13 Mar · W565 d7** |
+| 3954 | [day-3954.md](days/year-011/week-565/day-3954.md) | ✓ **Wood haul lap 2 · pile ~43.3 kg** | **Cal-Y13 D82 · ~12 Mar · W565 d6** |
+| 3953 | [day-3953.md](days/year-011/week-565/day-3953.md) | ✓ **Wood haul lap 1 · exped opens** | **Cal-Y13 D81 · ~11 Mar · W565 d5** |
+| 3952 | [day-3952.md](days/year-011/week-565/day-3952.md) | ✓ **Farm scare · `MOTOR-1-FRAME-D2` CLOSED · shaft mounted** | **Cal-Y13 D80 · ~10 Mar · W565 d4** |
+| 3951 | [day-3951.md](days/year-011/week-565/day-3951.md) | ✓ **`MOTOR-1-FRAME-D1` · ST-STR cheeks @ bench east** | **Cal-Y13 D79 · ~9 Mar · W565 d3** |
+| 3950 | [day-3950.md](days/year-011/week-565/day-3950.md) | ✓ **Sow audit complete · farm scare · goat check** | **Cal-Y13 D78 · ~8 Mar · W565 d2** |
+| 3949 | [day-3949.md](days/year-011/week-565/day-3949.md) | ✓ **`AIR-PUMP-2` CLOSE · ~68 ml/stroke · trial PASS** | **Cal-Y13 D77 · ~7 Mar · W565 d1** |
+| 3948 | [day-3948.md](days/year-011/week-564/day-3948.md) | ✓ **`AIR-PUMP-2-HEAD` · brass checks mounted** | **Cal-Y13 D76 · ~6 Mar · W564 d7** |
+| 3947 | [day-3947.md](days/year-011/week-564/day-3947.md) | ✓ **`AIR-PUMP-2` cylinder · `PT-22-A-PROD-1`** | **Cal-Y13 D75 · ~5 Mar · W564 d6** |
 | 3946 | [day-3946.md](days/year-011/week-564/day-3946.md) | ✓ **`PIPE-TEST-PT-22-A` · MFGC PASS · production GO** | **Cal-Y13 D74 · ~4 Mar · W564 d5** |
 | 3945 | [day-3945.md](days/year-011/week-564/day-3945.md) | ✓ **Wood haul · pile 5 ~18.0 kg · freshen watch** | **Cal-Y13 D73 · ~3 Mar · W564 d4** |
 | 3944 | [day-3944.md](days/year-011/week-564/day-3944.md) | ✓ **`CHAR-RETORT-3944` · lane ~13.3 kg · wood thin** | **Cal-Y13 D72 · ~2 Mar · W564 d3** |

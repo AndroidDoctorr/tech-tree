@@ -247,7 +247,9 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `BN-PAIR-G3-06-5/6` | Bolt/nut pairs · RC-06 · box stock | Row SW | ✓ LIVE d3511 |
 | `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
 | `SW-CHEM-FEEDER-1` | Knife switch · chem porch feeder isolate | Chem porch east jamb | ✓ LIVE d3890 |
-| `SW-KNIFE-BLANK-1` | Knife-switch blank ×1 spare | Row SW | ✓ LIVE d3511 |
+| **`SW-CRAFT-FEEDER-1`** | Knife switch · Atelier craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
+| **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
+| `SW-KNIFE-BLANK-1` | Knife-switch blank spare | Row SW | d3511 · **×0 @ peg — forge from strip when named** |
 
 ## Glass and forge working
 

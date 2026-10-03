@@ -153,9 +153,20 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 Sub-assemblies: `GEN-WW-1-FRAME-1` (oak, sill-bolted, clear of splash, quick-release collar on WW-2 output) · `GEN-WW-1-BELT-TRAIN-1` (two ~4:1 stages = ~16:1, **crowned** pulleys, idler on stage 2, slack side up, ~12 rpm → ~190 rpm) · `GEN-WW-1-CORE-1` (laminations cut, **annealed after cutting**, deburred both faces, rosin-varnished) · `COMMUTATOR-2` (hardwood hub, 5 segments, plaster-jig seated, end-only ramps, adjustable brush gear, wire-bundle brushes).
 
 ### ✓ **`EC-1-GRID-FEEDER-1`** — campus trunk *(d3890)*
-Map: **`WW-2` wheelhouse → chem porch east** · Built: d3890
+Map: **`WW-2` wheelhouse → craft path → chem porch east** · Built: d3890 · **~5–6 h install class**
 
-**~22 m class** paired **0.9 mm** copper · **`SW-CHEM-FEEDER-1` @ porch entry** · **`GRID-TAP-CHEM-1`** bench-east bus.
+**~22 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CHEM-FEEDER-1` @ porch entry** · **`GRID-TAP-CHEM-1`** bench-east bus.
+
+| Install | Spec |
+|---|---|
+| **Route** | **Pegged aerial run · oak cleats @ ~1.5 m** · **not buried · not in conduit** |
+| **Clearance** | **Away from char retort pad · away from water-race splash · craft-path shoulder** |
+| **Conductor** | **Gen-2 draw** *(d3157 · file-bright)* · **+ and − separated by cleat spacing** · **✓ weather wrap d3979–3980 · wax+rosin×2+paper full trunk** · **~10 cm bare service tails @ wheelhouse splice** |
+| **Branch** | **~3.05 m · 0.5 mm bare stub** to component box · **✓ installed d3972** · **fuse tail ~0.3 mm × ~8 cm @ tap** *(d3890)* |
+| **Polarity** | **Tags @ every splice · + toward source** |
+| **Materials logged d3890** | **`WIRE-CU-GEN2-1` −46 m · `CU-WIRE-Y10-3` −~0.5 m fuse conflation · `SW-KNIFE-BLANK-1` −×1 · `NAIL-IRON` −×2** |
+| **Materials logged d3979–3980** | **Wrap: `WAX-Y10-RENDER-1` −~70 g · `ROSIN-1` −~25 g · `FLAX-SHIVE-Y8-21` −~44 g paper · `WAX-ROSIN-COMPOUND-2` pot spent** |
+| **Materials logged d3972** | **Branch stub close · `O-1-MALACHITE` −3.5 kg → draw → `WIRE-CU-BRANCH-0.5-3972` −3.05 m installed** |
 
 | Read @ d3890 | Wheelhouse | Chem porch tap |
 |---|---|---|
@@ -163,7 +174,49 @@ Map: **`WW-2` wheelhouse → chem porch east** · Built: d3890
 | **Loaded · `CU-CELL` on tap** | **~8.4 GB** | **~7.2 GB · cell runs** |
 | **Run R** | — | **~2.3 R · ~46 m paired 0.9 mm** |
 
-★ **Default: switch OPEN until load named.** ⚑ **Craft wing · horreum feeders defer.**
+★ **Default: `SW-CHEM-FEEDER-1` OPEN when bench idle · closed for named load only.** ✓ **`MOTOR-1` first named load d3971.**
+
+### ✓ **`EC-1-GRID-BUS-TIE-1`** — gen ↔ storage *(d3971)*
+Map: **`WW-2` wheelhouse gen post** · Built: d3971 · **~3.5 h install + test class**
+
+**`LEAD-ACID-BANK-Y13-1` parallel + → `SW-STORAGE-TIE-1` → gen +** · **common − → frame strap** · **~2.4 m · 0.9 mm bare pair · oak cleats @ post · not buried.**
+
+| Materials logged d3971 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~2.0 m · tail → ×0** |
+| **`CU-WIRE-Y10-COATED`** | **−~0.4 m · shortfall after tail spent** |
+| **`CU-WIRE-Y10-3`** | **−~0.08 m · fuse tail refresh** |
+| **`SW-KNIFE-BLANK-1`** | **−×1 → `SW-STORAGE-TIE-1`** |
+| **`NAIL-IRON`** | **−×1 · post cleat** |
+
+| Mode | Read |
+|---|---|
+| **Gen ON · tie ON** | Bank floats · charges from wheel |
+| **Gen OFF · tie ON · feeder ON** | **`GRID-TAP-CHEM-1` ~1.58 GB class @ ~54% SOC** |
+| **Tie OFF** | Bank isolated for service |
+
+### ✓ **`EC-1-GRID-FEEDER-2`** — Atelier craft wing trunk *(d3976)*
+Map: **`WW-2` wheelhouse → campus path → Atelier `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class**
+
+**~40 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CRAFT-FEEDER-1` @ east entry** · **`GRID-TAP-CRAFT-1` north bay**.
+
+| Install | Spec |
+|---|---|
+| **Route** | **Pegged aerial · oak cleats @ ~1.5 m · not buried** |
+| **Clearance** | **Campus path shoulder · away from island hearth smoke lane · separate breaker from chem** |
+| **Conductor** | **Gen-2 draw** *(d3157 · file-bright)* · **+ and − separated by cleat spacing** · **✓ weather wrap d3985 · wax+rosin×2+paper full trunk** · **~10 cm bare service tails @ taps** |
+| **Branch** | **~3 m · 0.5 mm bare stub · fuse tail ~0.3 mm × ~8 cm @ tap** |
+| **Materials logged d3976** | **`WIRE-CU-GEN2-1` −80 m · `CU-WIRE-Y10-3` −~3.5 m · `ST-STR-BAR-Y13-1` −~18 g · `BRASS-STOCK` −~4 g · `NAIL-IRON` −×4** |
+| **Materials logged d3985** | **Wrap: `WAX-Y10-RENDER-1` −~58 g · `ROSIN-1` −~95 g · `FLAX-SHIVE-Y8-21` −~42 g paper** |
+
+| Read @ d3976 | Wheelhouse | Craft tap |
+|---|---|---|
+| **Gen ON** | **~8.5 GB** | **~6.7 GB** |
+| **Loaded · `CU-CELL` on tap** | **~8.4 GB** | **~6.3 GB · cell runs** |
+| **Bank only · gen OFF** | — | **~1.48 GB** |
+| **Run R** | — | **~4.0 R · ~80 m paired 0.9 mm** |
+
+★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle.** ⚑ **Horreum margin feeder defer.**
 
 ### ★★★ `ARMATURE-2`
 In service in `GEN-WW-1` · Wound: d3267
@@ -171,6 +224,11 @@ In service in `GEN-WW-1` · Wound: d3267
 5 × 145 turns at 0.65 mm, ~182 m. Drawn down from `ARMATURE-1` with **no melt** and annealed each pass, which is why the copper survived the redraw.
 
 ⚠ `ARMATURE-3` — a coarse winding for `CU-CELL-1` — is **not built** and needs ~500 g. ★ No longer urgent and no longer a deadlock: the series pair recovers ~25% without it.
+
+### `MOTOR-1` — bench motor *(LIVE)*
+Map: chem porch bench east · **`GRID-TAP-CHEM-1`** · Opened: d3951 · **✓ LIVE d3964**
+
+**PM-field bench motor** · **`ST-MAG-1` field** · **`ST-STR-1` frame** · **first grid-fed campus consumer**. ✓ **`MOTOR-1-FRAME-1` d3952** · **`MOTOR-1-YOKE-1` + `MOTOR-1-MAG-STACK-1` d3957** · **`MOTOR-1-CORE-1` d3958** · **`MOTOR-1-COMMUTATOR-1` d3958** · **`MOTOR-1-ARMATURE-1` d3963** · **`MOTOR-1-BRUSH-1` d3964**. **Measured d3964:** **R ~3.8 · stall torque ~100 mN·m @ 55 mm arm · ~0.13 I @ ~100 g load**. ⚑ **load fixture · pole-gap shave optional**. Reference: **`PEDAL-GEN-1`** · **`GEN-WW-1-CORE-1`** · **`EC-1-GRID-FEEDER-1`**.
 
 ### `PEDAL-GEN-1` — pedal generator
 Map: chem porch · Built: d3198
@@ -416,7 +474,12 @@ Copper barrel, brass checks, hose paired.
 ### `AIR-PUMP-1` — bench air pump
 Map: craft peg / **`WORKBENCH-1`** clamp · Built: d3930
 
-**`PT-10-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~14 ml/stroke class** · hand trial **PASS** d3930. ✓ **`PIPE-TEST-PT-22-A` d3946** · ⚑ **`PT-22-A-PROD-1` · `AIR-PUMP-2`** · vac-specialized duplicate after scale trial · compressor duplicate when refrigeration arc names loop. **`AIR-PUMP-CRANK-1`** defer. Not **`LIQUID-PUMP-2`** *(wagon liquid only)*.
+**`PT-10-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~14 ml/stroke class** · hand trial **PASS** d3930.
+
+### `AIR-PUMP-2` — scale bench air pump
+Map: craft peg / **`WORKBENCH-1`** clamp · Built: d3949
+
+**`PT-22-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~68 ml/stroke class** · delivery + rough inlet vac · hand trial **PASS** d3949. ⚑ **vac-specialized duplicate** · compressor duplicate when refrigeration arc names loop. **`AIR-PUMP-CRANK-1`** defer. Not **`LIQUID-PUMP-2`** *(wagon liquid only)*.
 
 ## Sanitary
 

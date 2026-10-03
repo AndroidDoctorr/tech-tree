@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3946** · Cal-Y13 D74 · ~4 Mar · **Week 564 day 5**
+> **Day 3986** · Cal-Y13 D114 · ~13 Apr · **Week 570 day 3**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 16**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 18**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -12,7 +12,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 ## Farm — Y13
 
-**✓ `SPRING-SOW-Y13` d3940 · ~62–66 m² LIVE.** Band close **16 Mar** · scare-only until then.
+**✓ `SPRING-SOW-Y13` d3940 · ~62–66 m² LIVE · band ✓ CLOSED d3958 · scare-only until harvest.**
 
 | Bed | In | Sown |
 |---|---|---|
@@ -36,18 +36,18 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Band | Window | State |
 |---|---|---|
-| **`SPRING-SOW-Y13`** | **26 Feb – 16 Mar** | **✓ LIVE d3940 · scare-only** |
+| **`SPRING-SOW-Y13`** | **26 Feb – 16 Mar** | **✓ CLOSED d3958 · scare-only until harvest** |
 | `GRAIN-GATHER-WILD` marking | March, while green | ✓ **d3581** |
 | `GRAIN-GATHER-WILD` food | **Jun early** | ✓ **d3685** · **`PARCHED-WILD-GRAIN-Y12-1`** |
 | `GRAIN-GATHER-WILD` seed | **Jun late** | ✓ **d3687** · **`GRAIN-WILD-A2` ~17 g · `GRAIN-WILD-A3` ~32 g** |
 | `OAK-ORCHARD-READ` | to **16 Mar** | ✓ **PASS d3584** — all six alive · leaders sound · #2 guard retied |
 | `VITRIOL-HEAP-1` | ✓ **Read d3752** | **~13.6 L total** · containment PASS · heap turned + recharged · **next ~90 wet days** |
-| Exped / cart trips | **11 Mar – 27 Sep** | **✓ CLOSED d3788** |
-| `GRAPE-SHOOT-THIN` | **Mar–Apr**, at budbreak | ✓ **d3601** |
-| **`HIVE-SPLIT` · `WAX-RENDER`** | **21 Mar – 20 Apr** | ✓ **Band closed d3628** · no catch · **`BAIT-BOX` stowed** |
+| Exped / cart trips | **11 Mar – 27 Sep** | **OPEN · ✓ Kisecik lap d3982–3983** |
+| `GRAPE-SHOOT-THIN` | **Mar–Apr**, at budbreak | ✓ **Y13 touch-up d3965** |
+| ✓ **`HIVE-SPLIT-Y13`** | **21 Mar – 20 Apr** | **✓ `HIVE-3-SPLIT-3984` · queen → `SPARE-HIVE-1` @ old stand · parent queenless raise** |
 | ⧗ **`FORSTERITE-BRICK-Y12-1`** | **×90 FIRED** @ stack | **`FURNACE-2` / `MUFFLE-1` bank · optional margin batches** |
 | ⚑ **`INBREEDING-METER-Y12-1` re-map** | ✓ **d3617** · **~13% excess stable** · genetic import hold |
-| `HERB-SEED-DESIGNATE` | **21 Mar – 20 Apr** | ✓ **d3601** |
+| `HERB-SEED-DESIGNATE` | **21 Mar – 20 Apr** | ✓ **Y13 d3970** |
 | **`HERB-SEED-CUT`** | **Jun** | ✓ **d3678 cut · d3688 winnow** |
 | **`GRAPE-CLUSTER-THIN`** | **Jun–Jul** | ✓ **d3679 primary** · Jul touch-up if needed |
 | **`FAVA-PICK`** | **15 May – 30 Jun** | ✓ **passes 1–3 d3668–3683** · ✓ **dry/process d3704** |
@@ -57,7 +57,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`GRAPE-PRUNE`** | **1 Nov – 28 Feb** | **✓ winter tidy d3827** · full spur pass optional Feb |
 | ⚑ **`ACORN-GATHER`** | **15 Sep – 30 Nov** | **✓ batch 1 **`ACORN-ROAST-Y12-1` ~615 g d3787** · **batch 2 defer player d3788** |
 | ✓ **`HARVEST-BLOCK-Y12`** | **Grain + pulse closed d3851** | **Food prep runway** |
-| ✓ **`FLAX-PULL-FIELD-Y12`** | **✓ pulled · rett · break · heckle d3865** | **`FLAX-LINE-Y12-1` ~1.58 kg · spin defer** |
+| ✓ **`FLAX-PULL-FIELD-Y12`** | **✓ pulled · rett · break · heckle d3865** | **`FLAX-LINE-Y12-1` ~1.55 kg · ✓ motor spin d3977** |
 | ✓ **`OLIVE-PICK-Y12`** | **Pressed d3850 · decanted d3853–3854** | **Lap 3 tail optional · `OIL-Y12-1` cook live** |
 | ✓ **`SHELF-LIFE-SPRINT-Y12`** | **Closed d3854** | **Parched · barrel · stew · smoke · flat** |
 | ⚑ **`TF-FUME-TILE-Y12`** | **×47 fired spares @ rack north** | **`KAOLIN-SLIP-M26-1` ~16.8 kg · press when named** |
@@ -66,11 +66,12 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`YULE-FEAST-Y12`** | **Closed d3873 · twelfth feast glyph** | **`GOOSE-SMOKE-Y12-1` ~0.98 kg · Cal-Y13 open** |
 | ⚑ **`GLASS-CULLET-REPLEN-3846`** | **×4 @ anneal · cullet bin ~1.2 kg** | **Tap defer · char margin thin for full glass reheat** |
 | ✓ **`LAB-FUME-CABINET-1`** | **~100% · proof CLOSED d3876** | **Arsenic immobilized d3879 · liquor scale ~800 ml gated** |
-| ✓ **`LEAD-ACID-BANK-Y13-1`** | **Parallel ×2 · formation partial both · ~45% SOC · matched pair PASS d3887** | **Wheel formation continue · daily storage read** |
-| ✓ **`LEAD-ACID-PILOT-1`** | **Formation #2 partial · ~45% SOC** | On parallel tray |
-| ✓ **`LEAD-ACID-PILOT-2`** | **First charge partial · ~45% SOC** | On parallel tray |
+| ✓ **`LEAD-ACID-BANK-Y13-1`** | **Parallel ×2 · on gen bus d3971 · ~54% SOC · matched pair PASS** | **Daily storage read · `SW-STORAGE-TIE-1` for service** |
+| ✓ **`LEAD-ACID-PILOT-1`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray |
+| ✓ **`LEAD-ACID-PILOT-2`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray |
 | ⚑ **`LA-SEP-RESERVE-Y13-1`** | **×3 linen separators @ chem spill peg** | **Swap on read · not on calendar** |
-| ✓ **`GRAIN-FERMENT-Y13-1`** | **Distilled d3926 · `SPIRIT-GRAIN-Y13-1` ~1.35 L @ ~42 %** | **Y14 scale — `BARREL-5-FERMENT` when grain surplus** |
+| ✓ **`GRAIN-FERMENT-Y13-1`** | **Distilled d3926 · `SPIRIT-GRAIN-Y13-1` ~1.27 L @ ~42 %** | **Y14 scale — `BARREL-5-FERMENT` when grain surplus** |
+| ✓ **`ETHANOL-DEHYD-POC-1`** | **Phase A d3956 · kaolin calcine · ZnO bed · ethylene trace** | **⚑ Phase B — tube reactor + cold trap** |
 | ✓ **`BED-EXPANSION-SPRINT-Y13-1`** | **Stake + scratch CLOSED d3936 · ~62–66 m²** | — |
 | ✓ **`SEED-RAG-TEST-Y13`** | **Full roster d3938 · regen filed** | — |
 | ✓ **`SPRING-SOW-Y13`** | **Full drill d3940 · single day** | **Band close 16 Mar** |
@@ -80,11 +81,12 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`ST-SPR-1`** | **`ST-SPR-STRIP-Y13-1` d3914 · `ASSAY-Y13-003` ~0.64 % C PASS · snap PASS** | [plan](../plans/steel-standards-sprint-y13.md) |
 | ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`MFGC-2-ST` table row · triplicate defer** | [plan](../plans/steel-standards-sprint-y13.md) |
 | ✓ **`EC-1-AMEND-3889`** | **Gauge table + grid rules · sample set @ `REF-SHELF-1`** | [electrical-code-1.md](../government/regulations/electrical-code-1.md) |
-| ✓ **`EC-1-GRID-FEEDER-1`** | **LIVE d3890 · wheelhouse → chem porch · `SW-CHEM-FEEDER-1`** | **`GRID-TAP-CHEM-1` · ~7.6 GB open class** |
+| ✓ **`EC-1-GRID-FEEDER-1`** | **LIVE d3890 · wheelhouse → chem porch · `SW-CHEM-FEEDER-1`** | **`GRID-TAP-CHEM-1` · ~7.6 GB gen · ~1.58 GB bank class** |
+| ✓ **`EC-1-GRID-BUS-TIE-1`** | **LIVE d3971 · `SW-STORAGE-TIE-1` @ wheelhouse** | **Gen ↔ storage · `MOTOR-1` first named load** |
 | **`FLAX-PULL-WILD`** | **26 Jun – 26 Jul** | ✓ **DEFER Y12 d3698** · ⚑ **shingle thread boost Y13 if F2 rain PASS** *(player d3869)* |
 | `BIRD-WATCH` · device reset | fine-seed tail | Six-day absence PASS · devices reset d3597 · field rows rooted |
 | ✓ **`ICE-HAUL-Y13`** | **Laps 1–2 ✓ d3922–3923 · vault ~128.5 kg · cap-bound · CLOSED** | **Tail ~14 Feb satisfied** |
-| `GOAT-KID` freshen | **Feb–Apr** | **⚑ labor imminent d3937** · ligaments gone · kid kit staged · bred d3868 |
+| ✓ **`GOAT-FRESHEN-Y13`** | **Feb–Apr** | **✓ kid #4 doeling d3978 · bred d3868** |
 | Duck habituation | **Mar–May** | `DUCK-POND-1` closed · not a trap in Y1 |
 | ⚑ **`ORE-HAUL-M31`** | ✓ **haul d3614** · ✓ **`FERROMANGANESE-STD-Y12-1` ×3 staged d3615** |
 | `M31-SCOUT-Y12-1` | ✓ **CLOSED d3597** | `M-31-A` found · mapped · marked · ~11.8 kg samples HOME |
@@ -93,11 +95,19 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~11.1 kg** | d3946 |
+| **`CHAR-LANE`** | **~15.1 kg** | d3975 |
+| **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
+| **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
+| **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~49.2 kg @ kerb** | d3983 |
+| **`WIRE-CU-GEN2-1`** | **~9 m tail @ chem peg** | d3976 |
+| ✓ **`EC-1-GRID-FEEDER-2`** | **LIVE d3976 · `GRID-TAP-CRAFT-1` ~6.7 GB gen class** | **`SW-CRAFT-FEEDER-1` default OPEN** |
+| ✓ **`FEEDER-1-INSULATE`** | **Full trunk d3979–3980** | **~22 m · ~70 g wax · ~25 g rosin** |
+| ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
 | **`CHAR-RESERVE-C`** | **~7.3 kg** | d3903 |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×47** @ rack north | d3870 |
-| **`KAOLIN-SLIP-M26-1`** | **~16.8 kg** @ chem porch | d3943 |
+| **`KAOLIN-SLIP-M26-1`** | **~16.4 kg** @ chem porch | d3956 |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~40 g reserve** @ catalyst peg | d3956 |
 | **`KAOLIN-SLIP-M26-BEST-1`** | **~0.72 kg** @ chem porch | d3943 |
 | **`FORSTERITE-GROG-1`** | **~0.70 kg** | d3943 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
@@ -106,18 +116,18 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~17.0 kg** @ pile 5 | d3946 |
+| **`WOOD-OAK-P5`** | **~23.5 kg** @ pile 5 | d3986 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~1.09 kg** @ horreum incoming | d3940 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`H-11-HEMATITE`** | **~9.5 kg @ pile 4** | d3934 |
-| **`IRON-BLOOM-1`** | **~1.19 kg GREEN @ mount** | d3946 |
-| **`ST-SPR-STRIP-Y13-1`** | **~70 g @ dry tray · `HEAT-Y13-013` · `ASSAY-Y13-003` ~0.64 % C** | d3914 |
-| **`ST-STR-BAR-Y13-1`** | **~71 g @ dry tray · `HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C** | d3911 |
+| **`H-11-HEMATITE`** | **~7.0 kg @ pile 4** | d3960 |
+| **`IRON-BLOOM-1`** | **~1.18 kg GREEN @ mount** | d3960 |
+| **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
+| **`ST-STR-BAR-Y13-1`** | **~21 g tail @ dry tray · yoke strap spent d3957** | d3957 |
 | **`M-22-MAGNETITE-1`** | **~17.25 kg @ pile 4 tray** | d3903 |
-| **`MAG-STEEL-Y13-ROD-1/2/3`** | **×3 @ dry tray · ~43–44 mm lift · `ST-MAG-1` cert** | d3903 |
-| `SERPENTINITE-RAW-KISECIK-Y12-1` | **~31.4 kg** @ kerb | d3761 |
+| **`MAG-STEEL-Y13-ROD-1/2`** | **×2 @ `MOTOR-1-MAG-STACK-1` · ~43–44 mm lift · soft-mounted d3957** | d3957 |
+| **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×0 bank** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d3776 |
 | **`LIME-PUTTY-1`** | **~1.13 kg** | d3843 |
 | **`QUICKLIME-1`** | **~9.45 kg** | d3914 |
@@ -129,7 +139,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
-| `BRASS-STOCK` | **~87 g** @ chill tray | d3931 |
+| `BRASS-STOCK` | **~69 g** @ chill tray | d3948 |
 | `CU-BAR-Y10-1` | **~4 g tail** | d3931 |
 | `AZURITE-1` | **~0.21 kg** pigment reserve | d3931 |
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
@@ -143,7 +153,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 ## Animals
 
-**Goats ×3** — doe in milk ~0.45 L/d · **freshen imminent** · **Kid #3** *(Y10 buckling · ~Cal-Y3 · healthy · horns kept · intact)* · billie west. **Donkeys** — Mabel + Humphrey **GO** · Silas home.
+**Goats ×4** — doe freshened d3978 · kid #4 nursing · **Kid #3** *(~14 mo buckling · horns kept)* · billie west tie. **Donkeys** — Mabel + Humphrey **GO** · Silas home.
 
 Bee state lives in [bees.md](government/procedures/bees.md), not here.
 
@@ -175,11 +185,13 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | ✓ **`M31-ASSAY-Y12-1`** | **CLOSED d3603** · ✓ **`ORE-HAUL-M31-Y12-1` d3614** · ⚑ **ferromanganese charge** |
 | ✓ **`FORSTERITE-BRICK-BINDER-1`** | **CLOSED d3620** · **F10 → `FORSTERITE-BRICK-STD-Y12-1`** | — |
 | ⚑ **`FORSTERITE-BRICK-PROD-Y12-1`** | **Batch 5 ✓ fired d3768 · ×62 bank** | **Margin batches optional · muffle install**
-| ⚑ **`CAMPUS-BLOCK-Y12`** | **Hold from d3762** · rope · alloy · winter prep | **No miles-out until named** *(genetic import = multi-day · defer d3788)* |
+| ✓ **`CAMPUS-BLOCK-Y12`** | **Lifted d3981 · Kisecik 2-day lap** | **Miles-out OK when named** |
 | **`FURNACE-2` + `MUFFLE-1` drawings** | **✓ `MUFFLE-1` BUILD CLOSED d3777** · empty heat + TC cone PASS | **atmosphere manifold · production alloy when named**
 | ✓ **`THERMOCOUPLE-1`** | **`TC-PROBE-1` @ muffle port d3777** · **`TC-CAL-LADDER-Y12-1`** | **Production holds · optional upper cone repeat** |
-| ✓ **`AIR-PUMP-1`** | **PoC d3930 · scale before crank** | **Dual-use bench pump LIVE** |
-| ✓ **`PIPE-TEST-PT-22-A`** | **Scrap trial d3946 · MFGC three-gate PASS** | **⚑ `PT-22-A-PROD-1` · `AIR-PUMP-2` · vac duplicate after trial** |
+| ✓ **`AIR-PUMP-1`** | **PoC d3930 · ~14 ml/stroke** | **Dual-use bench pump LIVE** |
+| ✓ **`AIR-PUMP-2`** | **Scale d3949 · ~68 ml/stroke · delivery + rough vac PASS** | **⚑ vac-specialized duplicate · crank defer** |
+| ✓ **`MOTOR-1`** | **✓ LIVE d3964 · grid spin · stall ~100 mN·m · R ~3.8** | **⚑ load fixture · pole-gap shave optional** |
+| ✓ **`PIPE-TEST-PT-22-A`** | **Scrap d3946 · prod d3947** | **Production GO** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | Steel · musket · invar/constantan refs | **Pipe series live · musket defer** |
 | `STEEL-PATH-SLATE-Y12-1` | Closed — `CS-BAR-Y12-1` ~847 g case ~0.6 mm · `CS-BAR-Y12-2` ~848 g case ~1.0 mm · both hardened, tempered, fracture PASS | ⚑ **MFGC-1 ST column when certs exist** |
 | `TORR-FASTENER-STANDARD-1` | BN · WS · stud · grub PoCs live | ⚑ Batch copies when a build names a qty |
@@ -209,6 +221,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 ## Standing doctrine
 
 - **HERD-DOCTRINE-Y10 @ d3193** — keep herd for **milk · manure · schedule** · capture ×1–2 wild does before F2 · **wether kid #3** by weaning · **nitre bed** is the chemistry payoff of penning
+- **GOAT-HERD-CAP @ d3979** — **1 milk doe + 1 billie + 0–1 growing replacement** without pen expansion · **kid #4 → trade/slaughter @ ~8 wk unless 2nd doe named** · **no rebred until kid #4 fate set** · **wether #3 before Sep rut**
 - **SPOILAGE-FIRST @ d3205** — **the daily plate is always drawn from whatever is nearest the turn.** Assume it in daily consumption without being asked · **fresh cheese · milk · soft fruit · cut meat before stores** · flag inline when a short-window stock is entering its last day
 - **PROCESS-FOR-SHELF @ d3685** — **when raw food can become something that keeps longer the same day or the next, do that before opening long stores.** Spoilage-first picks *what to eat*; this picks *what to convert* (parched · dry · brine · jerky · cheese · leach · jar). **Do not let short-window stock sit raw while a one-step preserve is obvious.**
 

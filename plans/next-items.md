@@ -72,7 +72,7 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 | **`ST-SPR-1` spring** | ✓ **`ST-SPR-STRIP-Y13-1` d3914 · `ASSAY-Y13-003` ~0.64 % C PASS** |
 | **`MFGC-2-ST` table** | ⚑ **migrate live `ST-*` rows when player names** |
 | **`ST-SPR-1` spring** | ⚑ after structural |
-| **Motor build hero** | ⚑ after **`ST-MAG-1` + frame grammar** |
+| **Motor build hero** | ⚑ **`MOTOR-1-FRAME-D1` d3951** · pillow bore · yoke · wind |
 | **`PIPE-TEST`** | ⚒ Gates every production **`PT-*`** run |
 
 ## ⚑ `YULE-GIFT-Y12-1` — player present (~21 Dec)
@@ -110,13 +110,17 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 ## ☠ Unsolved
 
 - ✓ **Vitriol liquor — arsenic + acid separation** · **acid lane + immobilization FILED d3879**
-- ✓ **`LEAD-ACID-PILOT-1`** · **cycled ×1 d3884 · pilot PASS** · ⚑ **formation charge #2**
-- ✓ **`LEAD-ACID-BANK-Y13-1`** · **parallel ×2 d3887 · matched pair PASS** · ⚑ **formation continue · storage read**
+- ✓ **`LEAD-ACID-PILOT-1`** · **formation ✓ CLOSED d3967**
+- ✓ **`LEAD-ACID-BANK-Y13-1`** · **parallel ×2 · formation ✓ CLOSED d3967 · matched pair PASS**
 - ⧗ **`GRAIN-FERMENT-Y13-1`** · **day 0 d3888 @ `AMPHORA-9`** · foam read ~d3890+ · distill defer
 - ⚑ **`BED-EXPANSION-SPRINT-Y13-1`** · **slate d3889 · stake/scratch before 26 Feb** · [plan](bed-expansion-sprint-y13.md)
 - ⚑ **`FERMENT-BARREL-BUILD-Y13-1`** · **`BARREL-5-FERMENT` before sow open** · [plan](ferment-barrel-build-y13.md)
 - ✓ **`EC-1-GRID-FEEDER-1`** · **LIVE d3890 · `GRID-TAP-CHEM-1` ~7.6 GB open**
-- ⚑ **`LEAD-ACID-BANK` bus tie-in** · **`GRID-TAP-CHEM-1` first named load**
+- ✓ **`EC-1-GRID-BUS-TIE-1`** · **LIVE d3971 · `MOTOR-1` first named load @ `GRID-TAP-CHEM-1`**
+- ✓ **`EC-1-GRID-FEEDER-2`** · **LIVE d3976 · `GRID-TAP-CRAFT-1` @ Atelier craft wing**
+- ✓ **`FEEDER-1-INSULATE`** · **full trunk d3979–3980**
+- ✓ **`FEEDER-2-INSULATE`** · **full trunk d3985**
+- ⚑ **`TRANSFORMER / AC`** · wishlist · **step-up transmission cuts I²R drop**
 - ⚑ **`LA-SEP-RESERVE-Y13-1` ×3** · swap on storage read
 - ☠ ★★★ **Registered alloy melt at production temperature — preparation done; the fire is not**
 

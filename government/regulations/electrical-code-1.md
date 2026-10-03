@@ -140,7 +140,7 @@ Codify what the **`GEN-WW-2`** era already proved on the bench — **load lines,
 ### Building entry targets *(queued)*
 
 1. ✓ **Chem porch / `CHEM-LAB-WING-1`** — **`EC-1-GRID-FEEDER-1` LIVE d3890** · **`GRID-TAP-CHEM-1`** · cells · bench · future hood fan
-2. **Craft wing** — **`GASHOLDER-2` gas pad adjacent · not same breaker as chem**
+2. ✓ **Craft wing / `CRAFT-WING-1`** — **`EC-1-GRID-FEEDER-2` LIVE d3976** · **`GRID-TAP-CRAFT-1`** · **`SW-CRAFT-FEEDER-1` separate from chem**
 3. **Horreum margin** — defer · no gas · no heat loads until conduit chase proven
 
 Chases: [building-code-2.md](building-code-2.md) BC-2-SERVICES — **leave route · minimal install.**
