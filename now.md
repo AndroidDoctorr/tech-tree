@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4020** · Cal-Y13 D148 · ~17 May · **Week 575 day 2**
+> **Day 4039** · Cal-Y13 D167 · ~5 Jun · **Week 577 day 7**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 18**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 19**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -38,8 +38,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 |---|---|---|
 | **`SPRING-SOW-Y13`** | **26 Feb – 16 Mar** | **✓ CLOSED d3958 · scare-only until harvest** |
 | `GRAIN-GATHER-WILD` marking | March, while green | ✓ **d3581** |
-| `GRAIN-GATHER-WILD` food | **Jun early** | ✓ **d3685** · **`PARCHED-WILD-GRAIN-Y12-1`** |
-| `GRAIN-GATHER-WILD` seed | **Jun late** | ✓ **d3687** · **`GRAIN-WILD-A2` ~17 g · `GRAIN-WILD-A3` ~32 g** |
+| `GRAIN-GATHER-WILD` food | **Jun early** | ✓ **Y13 d4039** · **`PARCHED-WILD-GRAIN` ~1.47 kg** |
+| `GRAIN-GATHER-WILD` seed | **Jun late** | ⚑ **Y13 OUTSTANDING** · Y12 ✓ d3687 |
 | `OAK-ORCHARD-READ` | to **16 Mar** | ✓ **PASS d3584** — all six alive · leaders sound · #2 guard retied |
 | `VITRIOL-HEAP-1` | ✓ **Read d3752** | **~13.6 L total** · containment PASS · heap turned + recharged · **next ~90 wet days** |
 | Exped / cart trips | **11 Mar – 27 Sep** | **OPEN · ✓ Kisecik lap d3982–3983** |
@@ -101,7 +101,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~17.0 kg** | d4018 |
+| **`CHAR-LANE`** | **~10.6 kg** | d4037 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
@@ -122,25 +122,27 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~8.6 kg** @ pile 5 | d4020 |
+| **`WOOD-OAK-P5`** | **~10.7 kg** @ pile 5 | d4039 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~1.09 kg** @ horreum incoming | d3940 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`H-11-HEMATITE`** | **~7.0 kg @ pile 4** | d3960 |
-| **`IRON-BLOOM-1`** | **~1.18 kg GREEN @ mount** | d3960 |
+| **`H-11-HEMATITE`** | **~35.6 kg @ pile 4** | d4035 |
+| **`REBAR-BAR-Y13-1/2/3/4`** | **×4 production twisted · ~1.63 kg @ forge rack** | d4029 |
+| **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
+| **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
 | **`ST-STR-BAR-Y13-1`** | **~5 g tail @ dry tray · knife blank spent d4009** | d4009 |
 | **`M-22-MAGNETITE-1`** | **~17.25 kg @ pile 4 tray** | d3903 |
 | **`MAG-STEEL-Y13-ROD-1/2`** | **×2 @ `MOTOR-1-MAG-STACK-1` · ~43–44 mm lift · soft-mounted d3957** | d3957 |
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d4001 |
-| **`LIME-PUTTY-1`** | **~1.13 kg** | d3843 |
-| **`QUICKLIME-1`** | **~2.4 kg** | d4016 |
-| **`CACO3-P7`** | **~22.8 kg** @ pile 7 | d4015 |
+| **`LIME-PUTTY-1`** | **~0 kg** | d4038 |
+| **`QUICKLIME-1`** | **~0.2 kg** | d4038 |
+| **`CACO3-P7`** | **~12.4 kg** @ pile 7 | d4037 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~11.4 kg** @ pile 4 · **~4 kg stage tail** | d3660 |
-| **`SAND-FILTER-1`** | **~12.2 kg** @ pile 4 apron | d4020 |
+| **`SAND-FILTER-1`** | **~5.4 kg** @ pile 4 apron | d4038 |
 | **`GRAVEL-1`** | **~trace** @ pile 4 | d4013 |
 | `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
@@ -203,7 +205,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `TORR-FASTENER-STANDARD-1` | BN · WS · stud · grub PoCs live | ⚑ Batch copies when a build names a qty |
 | `PALISADE-2` | 97/97 m stage-2 shored — W toe · N gate lash · S weep · TRIB brace | Stage-3 deferred |
 | `WAGON-GARAGE-1` | Utility closed d3515 — no cosmetic lime scratch | `WAGON-GARAGE-2` later |
-| `BLOCK-Y10` | Pit **×60 submerged** · **×16 in foundation block shell** · **`FURNACE-2` forsterite ×79** | d4016 |
+| `BLOCK-Y10` | Pit **×61 submerged** · **×7 @ dry stack** · **×16 in foundation block shell** · **`FURNACE-2` forsterite ×79** | d4038 |
 | `CAVE-RECOVERY-CACHE-1` | Crate · ×8 brick @ mouth · salt · niter · jerky · ash · wire · ×18 nails · records copy | — |
 
 ## Next — Y12

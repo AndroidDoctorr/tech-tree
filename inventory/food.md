@@ -19,7 +19,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · green · Y12 refresh | **~0.38 kg** | Horreum snack jar `P-μ-12` | d3854 | d3872 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
-| `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · food lap | **~0.95 kg** | Horreum snack jar | d3685 | d3685 |
+| `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · Y12+Y13 food laps | **~1.47 kg** | Horreum snack jar | d3685 | d4039 |
 | `BARREL-4-GRAIN` | Cracked grain, working · Y12 top-up | **×0 · spent → `GRAIN-FERMENT-Y13-1`** | `BARREL-4`, v1 | d3853 | d3888 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 

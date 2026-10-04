@@ -6,10 +6,29 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4020)*
+## Recent days *(append here · @ Day 4039)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4039 | [day-4039.md](days/year-011/week-577/day-4039.md) | **✓ Wild grain food lap · W577 CLOSE** | **Cal-Y13 D167 · ~5 Jun · W577 d7** |
+| 4038 | [day-4038.md](days/year-011/week-577/day-4038.md) | **✓ `BLOCK-Y10` ×4 · pit ×61** | **Cal-Y13 D166 · ~4 Jun · W577 d6** |
+| 4037 | [day-4037.md](days/year-011/week-577/day-4037.md) | **✓ Char retort + lime burn** | **Cal-Y13 D165 · ~3 Jun · W577 d5** |
+| 4036 | [day-4036.md](days/year-011/week-577/day-4036.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D164 · ~2 Jun · W577 d4** |
+| 4035 | [day-4035.md](days/year-011/week-577/day-4035.md) | **✓ H-11 ore haul · bank ~35.6 kg** | **Cal-Y13 D163 · ~1 Jun · W577 d3** |
+| 4034 | [day-4034.md](days/year-011/week-577/day-4034.md) | **✓ H-11 ore haul · smelt runway restored** | **Cal-Y13 D162 · ~31 May · W577 d2** |
+| 4033 | [day-4033.md](days/year-011/week-577/day-4033.md) | **✓ Sand haul · runway restored · W577 open** | **Cal-Y13 D161 · ~30 May · W577 d1** |
+| 4032 | [day-4032.md](days/year-011/week-576/day-4032.md) | **✓ Char retort · W576 CLOSE** | **Cal-Y13 D160 · ~29 May · W576 d7** |
+| 4031 | [day-4031.md](days/year-011/week-576/day-4031.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D159 · ~28 May · W576 d6** |
+| 4030 | [day-4030.md](days/year-011/week-576/day-4030.md) | **✓ Lime burn · lift ×7 · press ×4** | **Cal-Y13 D158 · ~27 May · W576 d5** |
+| 4029 | [day-4029.md](days/year-011/week-576/day-4029.md) | **✓ Mock break PASS · smelt · ×2 rebar** | **Cal-Y13 D157 · ~26 May · W576 d4** |
+| 4028 | [day-4028.md](days/year-011/week-576/day-4028.md) | **✓ Norima tune · wear 14** | **Cal-Y13 D156 · ~25 May · W576 d3** |
+| 4027 | [day-4027.md](days/year-011/week-576/day-4027.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D155 · ~24 May · W576 d2** |
+| 4026 | [day-4026.md](days/year-011/week-576/day-4026.md) | **✓ Char retort · lane restored** | **Cal-Y13 D154 · ~23 May · W576 d1** |
+| 4025 | [day-4025.md](days/year-011/week-575/day-4025.md) | **✓ Rebar ×2 · smelt · W575 CLOSE** | **Cal-Y13 D153 · ~22 May · W575 d7** |
+| 4024 | [day-4024.md](days/year-011/week-575/day-4024.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D152 · ~21 May · W575 d6** |
+| 4023 | [day-4023.md](days/year-011/week-575/day-4023.md) | **✓ `REBAR-R&D` D3 · cover/chair · rhythm CLOSED** | **Cal-Y13 D151 · ~20 May · W575 d5** |
+| 4022 | [day-4022.md](days/year-011/week-575/day-4022.md) | **✓ `REBAR-R&D` D2 · hook · lap · cylinders** | **Cal-Y13 D150 · ~19 May · W575 d4** |
+| 4021 | [day-4021.md](days/year-011/week-575/day-4021.md) | **✓ `REBAR-R&D` D1 · twist std** | **Cal-Y13 D149 · ~18 May · W575 d3** |
 | 4020 | [day-4020.md](days/year-011/week-575/day-4020.md) | **✓ T-1 sand haul · runway GO** | **Cal-Y13 D148 · ~17 May · W575 d2** |
 | 4019 | [day-4019.md](days/year-011/week-575/day-4019.md) | **✓ `WAGON-V2-TUNE` · wear 17** | **Cal-Y13 D147 · ~16 May · W575 d1** |
 | 4018 | [day-4018.md](days/year-011/week-574/day-4018.md) | **✓ Char retort · W574 CLOSE** | **Cal-Y13 D146 · ~15 May · W574 d7** |
