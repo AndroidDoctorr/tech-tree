@@ -2,7 +2,7 @@
 
 *Player-maintained · update when you feel like quantifying progress. Not live campaign state — day files + inventory own the numbers.*
 
-**Last snapshot:** d4044 · Cal-Y13 D172
+**Last snapshot:** d4118 · Cal-Y13 D244
 
 ---
 
@@ -11,7 +11,7 @@
 | Material | On hand | Notes |
 |---|---|---|
 | **Cinder blocks** | **×72** | ×65 submerged · ×7 dry stack *(×16 @ `FURNACE-2` shell excluded)* |
-| **Rebar** | **×4** | Production twisted @ forge rack |
+| **Rebar** | **×8** | Production twisted @ forge rack |
 | **Glass panes** | **×28** | `GP-Y8-C-LITE` spare |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
 | **Wire (Cu, useful)** | **~67 m** | Mixed gauges · 0.3–1.6 mm · not all feeder-grade |
@@ -23,9 +23,9 @@
 | **Knife switches** | **×4 live** | Installed · **`SW-KNIFE-BLANK-1` ×0** |
 | **Outlets / receptacles** | **×0** | EC-1 grammar · not tooled for house scale yet |
 | **Structural timber** | **—** | Defer until a build names cut list |
-| **Gravel** | **~trace** | Pile 4 · kit spent |
-| **Filter sand** | **~6.3 kg** | |
-| **Quicklime** | **~0.9 kg** | |
+| **Gravel** | **~10.2 kg** | Pile 4 south band |
+| **Filter sand** | **~8.7 kg** | |
+| **Quicklime** | **~0.05 kg** | |
 | **Lime putty** | **~0 kg** | |
 | **Pozzolan** | **~11.4 kg** | `POZZ-TUFF-1` |
 
@@ -35,7 +35,7 @@
 
 Round numbers for planning. Not bills of materials.
 
-### A · Atelier north work wing *(~5 × 6 m ghost · match hub/wing canon)*
+### A · Officina north work wing *(~5 × 6 m ghost · match hub/wing canon)*
 
 | Material | Est. |
 |---|---|
@@ -54,7 +54,7 @@ Round numbers for planning. Not bills of materials.
 | Structural timber | **~0.4 m³** *(defer)* |
 | Gravel | **~300 kg** |
 
-### B · `WAGON-GARAGE-2` *(big shop · ~6 × 9 m class vs G1 ~3 × 6 m)*
+### B′ · `WAGON-GARAGE-2` *(big shop · ~6 × 9 m class vs G1 ~3 × 6 m)*
 
 | Material | Est. |
 |---|---|
@@ -72,6 +72,20 @@ Round numbers for planning. Not bills of materials.
 | Outlets | **×2–4** |
 | Structural timber | **~0.8 m³** *(defer)* |
 | Gravel | **~500 kg** |
+
+### B · `HYDRO-ELEC-1` forebay + dam *(+3 m crest · ~35 × ~10 m pool · d4112 takeoff)*
+
+| Material | Est. |
+|---|---|
+| Cinder blocks | **~200–350** *(wing cheeks · outlet · spillway berms)* |
+| Rebar | **×12–20** |
+| Quicklime / putty | **~80–120 kg slaked class** *(mortar runway)* |
+| Pozzolan | **~60–100 kg** *(with sand · BC-2 mortar + wear slabs)* |
+| Filter sand | **~80–150 kg** |
+| Gravel | **~400–800 kg** *(graded filter toe · apron)* |
+| Brushwood mattress | **~1 launch class** *(spillway toe in live water)* |
+| Earth-rock fill | **Site cut** *(dam core · forebay excavation)* |
+| Pipe / gate iron | **Defer to outlet-gate drawing** |
 
 ### C · Modest modern house *(reference scale · ~100–110 m² single storey · [next-house.md](next-house.md))*
 

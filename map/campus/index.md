@@ -6,7 +6,7 @@ Spaces only — condition and service history are [infrastructure.md](../../inve
 
 ## Layout
 
-★ **South-bank grammar.** TRIB-1 is the **north boundary** of the precinct. Everything built sits **south of the stream** on the plateau shelf. **East = uphill** (gorge · mountains). **West = downhill** (Amuq · Orontes ~1 km). The old vertical ASCII put Atelier north toward the water — **live layout places mid-campus craft and kilns south of the core**, on the same shelf as Domus.
+★ **South-bank grammar.** TRIB-1 is the **north boundary** of the precinct. Everything built sits **south of the stream** on the plateau shelf. **East = uphill** (gorge · mountains). **West = downhill** (Amuq · Orontes ~1 km). The old vertical ASCII put Officina north toward the water — **live layout places mid-campus craft and kilns south of the core**, on the same shelf as Domus.
 
 ```
   [Gorge E · A-03 ~850 m · pines]                    [St Peter's ~200 m NE · north bank]
@@ -24,7 +24,7 @@ Spaces only — condition and service history are [infrastructure.md](../../inve
               ├─ CAMP 0 · piles · map stone
               ├─ hut v1 · kilns A/B/C/D ~80 m · S of core
               ├─ DOMUS · C-0 ~92 m · inland · terrace above bank drop
-              └─ ATELIER / Turris ~80 m · S–SE · old W-1 pad · off Fabrica plus
+              └─ OFFICINA / Turris ~80 m · S–SE · old W-1 pad · off Fabrica plus
               |
               upslope E ←  plateau shelf  → downslope W
               |
@@ -41,7 +41,7 @@ Spaces only — condition and service history are [infrastructure.md](../../inve
 | **Highest** | Gorge head · SLUICE-2 (S2-0) · weir ~200 m E on T-1 | Aqueduct intake · mill head |
 | **Stream bank** | Fabrica · WW pads · SLUICE-1 | Production on the water · locally lowest on campus |
 | **Retained terrace** | Camp · Domus · TERRACE-UP bench | **Domus sits above the north drop toward TRIB-1** — **higher than Fabrica** |
-| **South shelf** | Atelier · hut v1 · kilns | Same terrace band · further from stream |
+| **South shelf** | Officina · hut v1 · kilns | Same terrace band · further from stream |
 | **SW downslope** | Farm · olive · Orontes floodplain | Lower than Domus terrace · irrigation tier |
 
 > ★ **Fabrica is not uphill from Domus.** Fabrica is **at the stream bank** (north · locally low). Domus is **inland on the retained terrace** (south · locally high). Fabrica **is** further **east** (upstream) on TRIB-1.
@@ -56,8 +56,8 @@ Living quarters. Bed and **respawn anchor**, kitchen, horreum, baths, courtyard 
 ### [Fabrica](fabrica.md) — ~140 m, T-1 fork on TRIB-1
 Production. Forge, chem lab, machine tools, water wheels, related storage.
 
-### [Atelier](atelier.md) — ~80 m, mid-campus on the old W-1 pad
-Clean craft. A four-way complex around the **Turris** tower hub and its island hearth: craft wing east, storage wing west, substantial portico south, work wing north still a ghost. ★ **Deliberately not on the Fabrica plus** — it is kept off the fume and smoke cluster.
+### [Officina](officina.md) — ~80 m, mid-campus on the old W-1 pad
+Clean craft. A four-way complex around the **Turris** tower hub and its island hearth: craft wing east, storage wing west, substantial portico south, work wing north still a ghost. ★ **Deliberately not on the Fabrica plus** — it is kept off the fume and smoke cluster. *(Renamed from *Atelier* d4112 — [retcon](../../journal/retcons/ATELIER-TO-OFFICINA-RENAME-Y13.md).)*
 
 ## [Structures and improvements](structures.md)
 
@@ -70,7 +70,7 @@ Everything else on campus — kilns, apiary, farm plots, pens, storage, terracin
 | **Camp** | — | 0 | — | Piles 1–9 · store C · pits · map stone |
 | `C-0` / `SUN-CAL-1` | S of Domus | ~12 | 1 min | Courtyard · noon track |
 | **Hut v1** | Mid-campus · S of core | 80 | 5 min | Dry store · oven · ☠ **no respawn** |
-| **Atelier** | Mid-campus · S–SE · old W-1 pad | 80 | 5 min | Turris · off Fabrica plus |
+| **Officina** | Mid-campus · S–SE · old W-1 pad | 80 | 5 min | Turris · off Fabrica plus |
 | **Kiln complex** | Hut v1 terrace | ~80 | 5 min | Kilns A · B · C |
 | **Domus** | Plateau · S/inland · above bank drop | ~92 | 6 min | ★ **Respawn** at the west cubiculum |
 | **Clay bank** | T-1 | 90 | 6 min | Primary brick clay |
@@ -205,7 +205,7 @@ Staked d883; strings remain on site.
 | `H-V3-COURTYARD` | ✓ Half-column and beam · east loculus d1124 · west bed |
 | `IMPLUVIUM-DRAIN-1` | ✓ d1105 — sump plus `DR-IM-01`–`03` into D-1 |
 | `APIARY-PAD-1` | ✓ `AG-AP-01` at Bed D SE margin d907 · ~2.5 × 2 m |
-| `CRAFT-WING-1` *(Atelier)* | ✓ Live d1752 |
+| `CRAFT-WING-1` *(Officina)* | ✓ Live d1752 |
 | `WW-2-HEAD` | ✓ `SLUICE-2` complete — stream cheek d1868 · gate d1878 · raceway d1879 |
 | `STONE-WALL` ×2 | ✓ **Built, then rebuilt in stone.** `SR-W1` wood d2124 → stone d2785 · `SR-S1` wood d2133 → stone d2799 · **`PALISADE-2` ring closed 97/97 m d2836** |
 | `H-V3-NORTH-TIE-1` | ✓ Open boot strip d1246 · lean tile cover d1675–d1676 · full colonnade deferred |

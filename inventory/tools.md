@@ -48,7 +48,7 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | ID | Tool | Where | State |
 |---|---|---|---|
 | `STEEL-KITCHEN-KNIFE-1` | Kitchen knife | Carried | Live |
-| `STEEL-WOOD-CHISEL-SET-1` | `SWC-1` straight · skew · gouge · case-hardened edge | Atelier peg | Live |
+| `STEEL-WOOD-CHISEL-SET-1` | `SWC-1` straight · skew · gouge · case-hardened edge | Officina peg | Live |
 | `STEEL-COLD-CHISEL-1` | Cold chisel · soft core, hard bit | M2 forge peg | Live |
 | `STEEL-DRIFT-1` | Drift · case-hardened tip | M2 forge peg | Live |
 | `STEEL-CENTER-PUNCH-1` | Centre punch | M2 forge peg | Live |
@@ -247,7 +247,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `BN-PAIR-G3-06-5/6` | Bolt/nut pairs · RC-06 · box stock | Row SW | ✓ LIVE d3511 |
 | `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
 | `SW-CHEM-FEEDER-1` | Knife switch · chem porch feeder isolate | Chem porch east jamb | ✓ LIVE d3890 |
-| **`SW-CRAFT-FEEDER-1`** | Knife switch · Atelier craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
+| **`SW-CRAFT-FEEDER-1`** | Knife switch · Officina craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
 | **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK-Y13-1` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
 | **`SW-STORAGE-TIE-2`** | Knife switch · **`LEAD-ACID-BANK-Y13-2` ↔ gen bus isolate** | Wheelhouse post tree east | ✓ LIVE d4009 |
 | `SW-KNIFE-BLANK-1` | Knife-switch blank spare | Row SW | d3511 · **×0 @ peg — forge from strip when named** |

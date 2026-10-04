@@ -117,7 +117,7 @@ Live as of **d3813 · Cal-Y12 D294 · ~22 Oct · Week 545**.
 - ⚑ **`FERMENT-BARREL-BUILD-Y13-1`** · **`BARREL-5-FERMENT` before sow open** · [plan](ferment-barrel-build-y13.md)
 - ✓ **`EC-1-GRID-FEEDER-1`** · **LIVE d3890 · `GRID-TAP-CHEM-1` ~7.6 GB open**
 - ✓ **`EC-1-GRID-BUS-TIE-1`** · **LIVE d3971 · `MOTOR-1` first named load @ `GRID-TAP-CHEM-1`**
-- ✓ **`EC-1-GRID-FEEDER-2`** · **LIVE d3976 · `GRID-TAP-CRAFT-1` @ Atelier craft wing**
+- ✓ **`EC-1-GRID-FEEDER-2`** · **LIVE d3976 · `GRID-TAP-CRAFT-1` @ Officina craft wing**
 - ✓ **`FEEDER-1-INSULATE`** · **full trunk d3979–3980**
 - ✓ **`FEEDER-2-INSULATE`** · **full trunk d3985**
 - ⚑ **`TRANSFORMER / AC`** · wishlist · **step-up transmission cuts I²R drop**

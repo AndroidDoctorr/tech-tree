@@ -52,7 +52,7 @@ $map = @{
 # files whose links are correct relative to themselves, not to v2 root
 $local = @{
     'map\index.md'       = @{ 'campus.md' = 'campus/index.md'; 'domus.md' = 'campus/domus.md'; 'region.md' = 'region/index.md' }
-    'inventory\index.md' = @{ 'infrastrucutre.md' = 'infrastructure.md'; 'atelier.mc' = 'atelier.md' }
+    'inventory\index.md' = @{ 'infrastrucutre.md' = 'infrastructure.md'; 'atelier.mc' = 'officina.md' }
 }
 
 $files = Get-ChildItem $v2 -Recurse -File -Filter *.md |

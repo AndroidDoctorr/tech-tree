@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~15.3 kg** | Char lane | | d4097 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~9.6 kg** | Char lane | | d4118 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~5.2 kg** | Store C vault | | d4084 |
-| `WOOD-OAK-P5` | Oak, green | **~13.4 kg** @ pile 5 | Pile 5 | | d4100 |
+| `WOOD-OAK-P5` | Oak, green | **~8.5 kg** @ pile 5 | Pile 5 | | d4118 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d3896 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~10.4 kg** | Storage wing | | d3865 |
@@ -31,8 +31,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
 | **`FLUORITE-RAW-AKKAYA-Y13-1`** | Fluorite · dressed cob · `M-29` Akkaya | **~14.2 kg** @ pile 4 tray | Pile 4 | | d4110 |
-| **`GRAVEL-1`** | Gravel aggregate | **×0 · kit spent** | — | | d4105 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~1.5 kg** | Pile 4 apron | | d4095 |
+| **`GRAVEL-1`** | Gravel aggregate | **~10.2 kg** @ pile 4 south band | Pile 4 | | d4117 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~8.7 kg** | Pile 4 apron | | d4113 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
@@ -113,7 +113,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~9.65 kg** | Pile 4 | | d3983 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | **~9.0 kg** | Forge staging | | d3997 |
-| `H-11-HEMATITE` | Hematite | **~45.0 kg @ pile 4** | Pile 4 | | d4084 |
+| `H-11-HEMATITE` | Hematite | **~41.8 kg @ pile 4** | Pile 4 | | d4118 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **~90 g tail @ chill tray** | Chill tray | d4061 | d4065 |
 | **`ST-SPR-STRIP-Y13-1`** | Spring steel strip · **`HEAT-Y13-013` · cert sample** | **×0 spent → leaf packs d4065** | — | d3914 | d4065 |
 | **`ST-STR-BAR-Y13-1`** | Structural steel bar · **`HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C · `ST-STR-1` cert** | **~3 g tail @ dry tray** | Dry tray | d3911 | d3976 |
@@ -162,6 +162,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`REBAR-BAR-Y13-4`** | Production rebar · twisted · **~10.0 mm · ~550 mm** · hooks @ pour | **~400 g** | Forge peg rack | d4029 | d4029 |
 | **`REBAR-BAR-Y13-5`** | Production rebar · twisted · **~10.0 mm · ~558 mm** · hooks @ pour | **~408 g** | Forge peg rack | d4084 | d4084 |
 | **`REBAR-BAR-Y13-6`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4084 | d4084 |
+| **`REBAR-BAR-Y13-7`** | Production rebar · twisted · **~10.0 mm · ~556 mm** · hooks @ pour | **~406 g** | Forge peg rack | d4118 | d4118 |
+| **`REBAR-BAR-Y13-8`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4118 | d4118 |
 | **`REBAR-SQUARE-CONTROL-Y13-1`** | Wrought square control · **spent on cover mocks** | **×0** | — | d4021 | d4023 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
 | **`REBAR-LAP-MOCK-Y13-1`** | Lap splice mock · break **PASS d4029** | **×0 · spent** | — | d4022 | d4029 |

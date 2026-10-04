@@ -145,7 +145,7 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 > ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
 > ★★★ **NEW CEILING IS THE WHEEL, NOT THE FIELD.** *The race loads now in a way it never did; the magneto was so weak the water never knew it was working.* ★ **The limit was moved, not removed.**
 >
-> ⚑ **`HYDRO-ELEC-1` — +3 m crest chosen @ player *(second intake later)* · forebay **~35 × ~10 m class** @ gorge lip · spillway west · penstock along existing race line · ⚑ **spring high-flow Q before civil · intake gate upgrade**
+> ⚑ **`HYDRO-ELEC-1` — +3 m crest locked d4112 · forebay **~35 × ~10 m staked** @ gorge lip · scour pass 2 PASS · spillway west · penstock along existing race line · ⚑ **block/sand/gravel/lime runway · spring high-flow Q ~Feb–Mar Y14 before pour · outlet gate drawing**
 >
 > *(superseded — original spec)* ⧗ **`GEN-WW-2` — SHUNT-FIELD CONVERSION, opened d3295.** *Replace the ×6 `MAG-BOOT-EM` permanent rods with pole coils fed from the machine's own output.* ★★ **The field stops being a fixed asset that decays and becomes one the machine earns continuously; the ceiling moves from what steel holds to what the iron will take.**
 > **Spec:** ~600 m at ~0.5 mm, **many turns at low current**, air between layers, **not potted** — ⚠ *the wax-rosin coating softens hot and a shunt field is the one winding that never rests.* ★ **Fine wire is simultaneously the thermally safe, electrically correct and cheapest choice.**
@@ -214,8 +214,8 @@ Map: **`WW-2` wheelhouse post tree east · chem tray B** · Built: d4009 · **~3
 | **Tie-2 OFF · tie-1 ON** | Bank B isolated · Bank A on bus |
 | **Both ties ON** | **Independent float · no cross-feed** |
 
-### ✓ **`EC-1-GRID-FEEDER-2`** — Atelier craft wing trunk *(d3976)*
-Map: **`WW-2` wheelhouse → campus path → Atelier `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class**
+### ✓ **`EC-1-GRID-FEEDER-2`** — Officina craft wing trunk *(d3976)*
+Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class**
 
 **~40 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CRAFT-FEEDER-1` @ east entry** · **`GRID-TAP-CRAFT-1` north bay**.
 
@@ -300,7 +300,7 @@ Lead strip ~15 × 60 mm, brown PbO₂ formed, evolves O₂ steadily. Recast from
 ## Gas
 
 ### `GASHOLDER-1`
-Map: atelier · Built: d3203
+Map: officina · Built: d3203
 
 Bitumen oak bath. Bell A H₂ ~0.9 L, Bell B O₂ ~0.45 L — **full, about 85 s of flame**. Guides, hoods, keyed dip-tube lines, pinch clamps, fill line marked.
 
@@ -554,7 +554,7 @@ Map: storage wing E · Built: d2400
 ~1180 × 620 × 880 mm. Lower shelf staging.
 
 ### `WORK-TABLE-ATELIER-1`
-Map: atelier west cheek · Built: d2407
+Map: officina west cheek · Built: d2407
 
 ~900 × 450 × 760 mm. Craft knee.
 

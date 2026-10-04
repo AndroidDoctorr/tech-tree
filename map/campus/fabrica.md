@@ -21,7 +21,7 @@ Also called the **WW-YARD**. One compound in a plus shape around a central hub, 
 >
 > ★★ **Player campus diagrams that show the wheels on the south leg are flipped.** Trust this file and the north-pad journal heroes from d1882 onward.
 
-⚠ **The Atelier is not on this plus.** It is a separate building, mid-campus, and clean-craft work does not come here.
+⚠ **The Officina is not on this plus.** It is a separate building, mid-campus, and clean-craft work does not come here.
 
 ## Yard markers
 
@@ -105,7 +105,7 @@ What the wheels actually drive.
 | `LAB-VENT-FAN-1` | ✓ Built on `WW-1` **d836** · **relocated to the chem hood on the `WW-2` belt d1954** |
 | `KILN-D` | ✓ **Plenum link d2530** · ✓ **`STACK-2` d3324: ~4.15 m, symmetric terminal ~1.6× bore, three-stop damper** · ⧗ *full hot proof at next stoneware fire* |
 | `GEN-WW-1` | ✓ **d3248** · magneto on a `WW-2` collar — **drives `CU-CELL-1` from d3258** |
-| `HYDRO-ELEC-1` | ◌ **+3 m crest chosen** · forebay **~35 × ~10 m class** · spillway + penstock route sketched · **not poured** · second intake defer |
+| `HYDRO-ELEC-1` | ◌ **+3 m crest locked d4112** · forebay **~35 × ~10 m staked** · scour pass 2 PASS · spillway + penstock route sketched · **not poured** · second intake defer |
 
 ★ **The mechanical tree the d765 plan called for is complete, and then some.** Phase 3 was fan, crusher and trip hammer; the wheel now also turns a generator feeding an electrochemical cell.
 

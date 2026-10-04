@@ -89,7 +89,7 @@
 | Bridge and road engineering | — | **4** | Twelve crossings · `TRIB-FT-01` d1938 · trail longevity doctrine d2671 · scour audit d3270 |
 | Machining | — | **4** | `LATHE-1` d1959 · `LATHE-V2` and leadscrew at ~1.0 mm/rev d2856 · table saw d3053 |
 | Dimensional metrology | 2 | **4** | `MEASURE-3` full close d2817 — surface plate, straight edge, caliper to ±0.1 mm · quartz plate d2881 |
-| Framing and roofing | 2 | 4 | Atelier, hub stage, storage wing, barn refurb d3179 |
+| Framing and roofing | 2 | 4 | Officina, hub stage, storage wing, barn refurb d3179 |
 | Furniture and joinery | 3 | 4 | Mortise and tenon is the default · records desk d2435 · bed frame d2466 |
 | Home repair and plumbing | 3 | 4 | Full culina wet line — basin, brass twin tap d2726, traps d2411 · flush stack d2830 |
 | Carving and coopering | 2 | 4 | Barrels, staves, wagon ribs |

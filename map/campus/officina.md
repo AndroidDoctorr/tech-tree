@@ -1,4 +1,6 @@
-# Atelier
+# Officina
+
+> ★ **Renamed from *Atelier* d4112** — see [ATELIER-TO-OFFICINA-RENAME-Y13.md](../../journal/retcons/ATELIER-TO-OFFICINA-RENAME-Y13.md). Old journal entries still say *Atelier*.
 
 Clean craft. **~80 m from camp**, mid-campus **S–SE of the core** on the old `W-1` pad — **south of Domus/Fabrica**, not on the stream bank. ★ **A separate building** — not part of the Fabrica compound *(confirmed d1921)*.
 
@@ -15,7 +17,7 @@ A four-way complex around a central tower hub, built out d2072–d2264. Three of
               [ S · portico · 3 × 5 m ]
 ```
 
-★ **The whole point of this building is that it is somewhere else.** Pigment, canvas, oils and linen cannot share air with the forge or the fume hood, so the Atelier sits off the Fabrica plus and runs on its own clock. Original wing plan: [craft-wing-plan.md](../../government/archive/craft-wing-plan.md).
+★ **The whole point of this building is that it is somewhere else.** Pigment, canvas, oils and linen cannot share air with the forge or the fume hood, so the Officina sits off the Fabrica plus and runs on its own clock. Original wing plan: [craft-wing-plan.md](../../government/archive/craft-wing-plan.md).
 
 ## Turris — the hub
 
@@ -73,7 +75,7 @@ Spinning, weaving and linen work. `SPIN-WHEEL-2` from d3132.
 | `ATELIER-RUG-1` | ✓ d2276 · south entry boot mat |
 | **Sink branch** | ◌ **Not built.** Still the one deferred item from the original plan |
 
-⚠ **`WORKBENCH-1` never moved here.** It was to come across from the Fabrica and did not; it is still at the Fabrica, and the Atelier got `WORK-TABLE-ATELIER-1` instead.
+⚠ **`WORKBENCH-1` never moved here.** It was to come across from the Fabrica and did not; it is still at the Fabrica, and the Officina got `WORK-TABLE-ATELIER-1` instead.
 
 > ★ **Keep the paint bay clean.** Entry weather layer first, then envelope polish, then soft goods — in that order, every time.
 
@@ -150,6 +152,6 @@ Condition and service: [infrastructure.md](../../inventory/infrastructure.md).
 
 ## ⚠ "M2" does not mean Millhouse-2 here
 
-Day files working this complex say things like *"@ M2 hub interior"* and *"`CAMPUS-HUB-CENTER-STAKE-2072` @ M2 east pad."* **`M2` is campus-belt shorthand for the Atelier compound pad**, not `MILLHOUSE-2` at the Fabrica.
+Day files working this complex say things like *"@ M2 hub interior"* and *"`CAMPUS-HUB-CENTER-STAKE-2072` @ M2 east pad."* **`M2` is campus-belt shorthand for the Officina compound pad**, not `MILLHOUSE-2` at the Fabrica.
 
 ★ **Two different hubs exist and they are not the same building.** `CAMPUS-HUB-M2-1` / **Turris** is this one, ~5 × 5 m with the island hearth. `WW-HUB-TOWER-1` is the Fabrica connector between the store and the chem lab. Entries like *"`HUB-S-OIL-GRATE-1` @ M2 forge + hub S pad"* (d2413) mean stock was drawn from the Fabrica forge — **not that the building moved.**

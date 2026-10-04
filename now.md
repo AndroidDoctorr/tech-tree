@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4111** · Cal-Y13 D237 · ~14 Aug · **Week 588 day 4**
+> **Day 4118** · Cal-Y13 D244 · ~21 Aug · **Week 589 day 2**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 25**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 22**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -104,7 +104,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | Row | Qty | Read |
 |---|---|---|
 | **`FLUORITE-RAW-AKKAYA-Y13-1`** | **~14.2 kg @ pile 4 tray** | d4110 |
-| **`CHAR-LANE`** | **~15.3 kg** | d4097 |
+| **`CHAR-LANE`** | **~9.6 kg** | d4118 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
@@ -125,13 +125,13 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~13.4 kg** @ pile 5 | d4100 |
+| **`WOOD-OAK-P5`** | **~8.5 kg** @ pile 5 | d4118 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~1.09 kg** @ horreum incoming | d3940 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`H-11-HEMATITE`** | **~45.0 kg @ pile 4** | d4084 |
-| **`REBAR-BAR-Y13-1/2/3/4`** | **×4 production twisted · ~1.63 kg @ forge rack** | d4029 |
+| **`H-11-HEMATITE`** | **~41.8 kg @ pile 4** | d4118 |
+| **`REBAR-BAR-Y13-1…8`** | **×8 production twisted · ~3.27 kg @ forge rack** | d4118 |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
@@ -145,8 +145,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`CACO3-P7`** | **~4.4 kg** @ pile 7 | d4093 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~22.3 kg** @ pile 4 · **~8 kg @ Fabrica stage** | d4101 |
-| **`SAND-FILTER-1`** | **~1.5 kg** @ pile 4 apron | d4095 |
-| **`GRAVEL-1`** | **×0 · kit spent** | d4105 |
+| **`SAND-FILTER-1`** | **~8.7 kg** @ pile 4 apron | d4113 |
+| **`GRAVEL-1`** | **~10.2 kg** @ pile 4 south band | d4117 |
 | `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
@@ -209,7 +209,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `PALISADE-2` | 97/97 m stage-2 shored — W toe · N gate lash · S weep · TRIB brace | Stage-3 deferred |
 | `WAGON-GARAGE-1` | Utility closed d3515 — no cosmetic lime scratch | `WAGON-GARAGE-2` later |
 | `BLOCK-Y10` | Pit **×77 submerged** · **×7 @ dry stack** · **×16 in foundation block shell** · **`FURNACE-2` forsterite ×79** | d4095 |
-| ⚑ **`HYDRO-ELEC-1`** | **+3 m crest chosen** · forebay **~35 × ~10 m class** · **`SLUICE-2-GATE-2` live d4046** · second intake defer | **Spring Q high-flow · scour read before pour · forebay outlet gate @ dam** |
+| ⚑ **`HYDRO-ELEC-1`** | **+3 m crest locked d4112** · forebay **~35 × ~10 m staked** · scour pass 2 **PASS** · **`SLUICE-2-GATE-2` live d4046** | **Block/sand/gravel/lime runway · spring Q ~Feb–Mar Y14 · outlet gate drawing · pour** |
 | **`WW-2` power log** | **Q d4045 ~17 L/s @ NORMAL · H ~7.2 m** · **`SLUICE-2-GATE-2` three-stop live d4046** — SUMMER **~11** · NORMAL **~17** · FLOOD **~3 L/s** to race | **Spring re-read ~Feb–Mar Y14** |
 | `CAVE-RECOVERY-CACHE-1` | Crate · ×8 brick @ mouth · salt · niter · jerky · ash · wire · ×18 nails · records copy | — |
 

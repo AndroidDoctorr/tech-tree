@@ -45,8 +45,8 @@ The next year or two.
 
 - **Covered cart parking at `CART-YARD`** — `Norima` and `COVERED-WAGON-1` both still park in the open
 - **Cistern or pond at `TIGHT-LAYER-1`** — the impermeable horizon was located d3275 and marked as the probable site. ★ *Where water wants to stand.* There is no cistern anywhere on campus; the atrium one was deferred at d1105
-- **Atelier north work wing** — the last ghost of the four, ~5 × 6 m, deferred d2181 and still deferred at d3138
-- **Atelier sink branch** — the one item never delivered from the original craft-wing plan
+- **Officina north work wing** — the last ghost of the four, ~5 × 6 m, deferred d2181 and still deferred at d3138 *(building renamed from *Atelier* d4112)*
+- **Officina sink branch** — the one item never delivered from the original craft-wing plan
 - **`CRANE-2`** — wheeled carriage, iron-shod, >100 kg lift. Brainstormed d789 and never started; `CRANE-1` at ~50 kg is still the only lift on campus
 - **`APIARY-PAD-3`** — ghosted since d2156
 

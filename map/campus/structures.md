@@ -87,10 +87,10 @@ Charcoal working and stacking run. Stock: [resources.md](../../inventory/resourc
 | **Hut v1** | ~80 m | Food · ore · lime · chemistry |
 | **Horreum** | Domus north range | Grain bays · amphorae · food |
 | `STORE-4` | Fabrica north leg | Materials · chemicals · tools · equipment — **not food** |
-| **Atelier store** | Atelier | Fibre · pigment · cloth — dry and clean |
+| **Officina store** | Officina | Fibre · pigment · cloth — dry and clean |
 | `BARN-1-v1` | Farm, barn pad | Hay loft ~90 kg · fodder |
 | `COOL-CELLAR-1` | Domus north margin | ✓ Dug and closed **d603–d611** · pit, hatch, airlock, racks, evaporation |
-| **Atelier storage wing** | Atelier west | Flax sheaves · rett dry queue · line · tow · hemp · overflow fibre |
+| **Officina storage wing** | Officina west | Flax sheaves · rett dry queue · line · tow · hemp · overflow fibre |
 | **Cave vault** | Off campus, `CAVE-3` | **Seed only** — see [seed-vault.md](../../inventory/seed-vault.md) |
 
 ⚠ **There is only one cool cellar.** `COOL-CELLAR-2` is the name of the **evaporation trough at the cellar's north margin**, not a second excavation — a second cella was floated at d1020 and never dug.

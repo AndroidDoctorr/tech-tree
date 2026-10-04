@@ -6,14 +6,21 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4111 · `year-012/`)*
+## Recent days *(append here · @ Day 4118 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 4111 | [day-4111.md](days/year-012/week-588/day-4111.md) | **✓ Hemp cut Bed A · ~9.4 kg** | **Cal-Y13 D237 · ~14 Aug · W588 d4** |
-| 4110 | [day-4110.md](days/year-012/week-588/day-4110.md) | **✓ D9 HOME · fluorite unload · restart** | **Cal-Y13 D236 · ~13 Aug · W588 d3** |
-| 4109 | [day-4109.md](days/year-012/week-588/day-4109.md) | **✓ D8 · Belen camp** | **Cal-Y13 D237 · ~14 Aug · W588 d2** |
-| 4108 | [day-4108.md](days/year-012/week-588/day-4108.md) | **✓ D7 · Erzin camp · W588 OPEN** | **Cal-Y13 D236 · ~13 Aug · W588 d1** |
+| 4118 | [day-4118.md](days/year-012/week-589/day-4118.md) | **✓ Rebar ×2 · rack ×8** | **Cal-Y13 D244 · ~21 Aug · W589 d2** |
+| 4117 | [day-4117.md](days/year-012/week-589/day-4117.md) | **✓ Gravel haul ~10.2 kg · W589 OPEN** | **Cal-Y13 D243 · ~20 Aug · W589 d1** |
+| 4116 | [day-4116.md](days/year-012/week-588/day-4116.md) | **✓ Norima tune · wear 21 · W588 CLOSE** | **Cal-Y13 D242 · ~19 Aug · W588 d7** |
+| 4115 | [day-4115.md](days/year-012/week-588/day-4115.md) | **✓ Char retort · lane ~23.1 kg** | **Cal-Y13 D241 · ~18 Aug · W588 d6** |
+| 4114 | [day-4114.md](days/year-012/week-588/day-4114.md) | **✓ Wood haul ~26.0 kg** | **Cal-Y13 D240 · ~17 Aug · W588 d5** |
+| 4113 | [day-4113.md](days/year-012/week-588/day-4113.md) | **✓ Sand haul ~8.7 kg** | **Cal-Y13 D239 · ~16 Aug · W588 d4** |
+| 4112 | [day-4112.md](days/year-012/week-588/day-4112.md) | **✓ Officina rename · forebay prep** | **Cal-Y13 D238 · ~15 Aug · W588 d3** |
+| 4111 | [day-4111.md](days/year-012/week-588/day-4111.md) | **✓ Hemp cut Bed A · ~9.4 kg** | **Cal-Y13 D237 · ~14 Aug · W588 d2** |
+| 4110 | [day-4110.md](days/year-012/week-588/day-4110.md) | **✓ HOME · fluorite unload · W588 OPEN** | **Cal-Y13 D236 · ~13 Aug · W588 d1** |
+| 4109 | [day-4109.md](days/year-012/week-587/day-4109.md) | **✓ D8 · Belen camp · W587 CLOSE** | **Cal-Y13 D235 · ~12 Aug · W587 d8** |
+| 4108 | [day-4108.md](days/year-012/week-587/day-4108.md) | **✓ D7 · Erzin camp** | **Cal-Y13 D234 · ~11 Aug · W587 d7** |
 | 4107 | [day-4107.md](days/year-012/week-587/day-4107.md) | **✓ D6 · Ceyhan · W587 CLOSE** | **Cal-Y13 D235 · ~12 Aug · W587 d7** |
 | 4106 | [day-4106.md](days/year-012/week-587/day-4106.md) | **✓ Akkaya fluorite ~14.2 kg** | **Cal-Y13 D234 · ~11 Aug · W587 d6** |
 | 4105 | [day-4105.md](days/year-012/week-587/day-4105.md) | **✓ D4 · Kozan gate** | **Cal-Y13 D233 · ~10 Aug · W587 d5** |
