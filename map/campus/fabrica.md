@@ -84,7 +84,7 @@ On the TRIB-1 bank, below and behind the compound.
 | `WW-1` | Wheel at the T-1 fork · **~8 m fall** toward the weir pool |
 | `WW-2` | ✓ **Live.** Pad d1882 · flywheel `GS-2` d1888 · belt d1890 · **wheel d1894** |
 | `SLUICE-1` | Intake wing · gate · bypass |
-| `SLUICE-2` | ✓ **Complete.** Downhill half d1709–d1710 · **stream cheek poured d1868** · sill skim and gate seat d1870 · **gate live d1878** |
+| `SLUICE-2` | ✓ **Complete.** Downhill half d1709–d1710 · **stream cheek poured d1868** · sill skim and gate seat d1870 · **gate live d1878** · **`SLUICE-2-GATE-2` indexed d4046** |
 | `SLUICE-2-RACEWAY-1` | ✓ **d1879** · ~180 m · read PASS again d3018 |
 
 ★ **`WW-POWER-PLAN` Phase 1 closed d1879 and Phase 2 closed with the second wheel.** Both wheels run, which is what the dual-wheel design was for — `WW-1` can stay on the blower while `WW-2` drives mill, crusher or generator.
@@ -105,7 +105,7 @@ What the wheels actually drive.
 | `LAB-VENT-FAN-1` | ✓ Built on `WW-1` **d836** · **relocated to the chem hood on the `WW-2` belt d1954** |
 | `KILN-D` | ✓ **Plenum link d2530** · ✓ **`STACK-2` d3324: ~4.15 m, symmetric terminal ~1.6× bore, three-stop damper** · ⧗ *full hot proof at next stoneware fire* |
 | `GEN-WW-1` | ✓ **d3248** · magneto on a `WW-2` collar — **drives `CU-CELL-1` from d3258** |
-| `HYDRO-ELEC-1` | ◌ **Never built.** Phase 4 horizon only |
+| `HYDRO-ELEC-1` | ◌ **+3 m crest chosen** · forebay **~35 × ~10 m class** · spillway + penstock route sketched · **not poured** · second intake defer |
 
 ★ **The mechanical tree the d765 plan called for is complete, and then some.** Phase 3 was fan, crusher and trip hammer; the wheel now also turns a generator feeding an electrochemical cell.
 

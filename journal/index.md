@@ -6,24 +6,96 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4039)*
+## Recent days *(append here · @ Day 4111 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 4039 | [day-4039.md](days/year-011/week-577/day-4039.md) | **✓ Wild grain food lap · W577 CLOSE** | **Cal-Y13 D167 · ~5 Jun · W577 d7** |
-| 4038 | [day-4038.md](days/year-011/week-577/day-4038.md) | **✓ `BLOCK-Y10` ×4 · pit ×61** | **Cal-Y13 D166 · ~4 Jun · W577 d6** |
-| 4037 | [day-4037.md](days/year-011/week-577/day-4037.md) | **✓ Char retort + lime burn** | **Cal-Y13 D165 · ~3 Jun · W577 d5** |
-| 4036 | [day-4036.md](days/year-011/week-577/day-4036.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D164 · ~2 Jun · W577 d4** |
-| 4035 | [day-4035.md](days/year-011/week-577/day-4035.md) | **✓ H-11 ore haul · bank ~35.6 kg** | **Cal-Y13 D163 · ~1 Jun · W577 d3** |
-| 4034 | [day-4034.md](days/year-011/week-577/day-4034.md) | **✓ H-11 ore haul · smelt runway restored** | **Cal-Y13 D162 · ~31 May · W577 d2** |
-| 4033 | [day-4033.md](days/year-011/week-577/day-4033.md) | **✓ Sand haul · runway restored · W577 open** | **Cal-Y13 D161 · ~30 May · W577 d1** |
-| 4032 | [day-4032.md](days/year-011/week-576/day-4032.md) | **✓ Char retort · W576 CLOSE** | **Cal-Y13 D160 · ~29 May · W576 d7** |
-| 4031 | [day-4031.md](days/year-011/week-576/day-4031.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D159 · ~28 May · W576 d6** |
-| 4030 | [day-4030.md](days/year-011/week-576/day-4030.md) | **✓ Lime burn · lift ×7 · press ×4** | **Cal-Y13 D158 · ~27 May · W576 d5** |
-| 4029 | [day-4029.md](days/year-011/week-576/day-4029.md) | **✓ Mock break PASS · smelt · ×2 rebar** | **Cal-Y13 D157 · ~26 May · W576 d4** |
-| 4028 | [day-4028.md](days/year-011/week-576/day-4028.md) | **✓ Norima tune · wear 14** | **Cal-Y13 D156 · ~25 May · W576 d3** |
-| 4027 | [day-4027.md](days/year-011/week-576/day-4027.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D155 · ~24 May · W576 d2** |
-| 4026 | [day-4026.md](days/year-011/week-576/day-4026.md) | **✓ Char retort · lane restored** | **Cal-Y13 D154 · ~23 May · W576 d1** |
+| 4111 | [day-4111.md](days/year-012/week-588/day-4111.md) | **✓ Hemp cut Bed A · ~9.4 kg** | **Cal-Y13 D237 · ~14 Aug · W588 d4** |
+| 4110 | [day-4110.md](days/year-012/week-588/day-4110.md) | **✓ D9 HOME · fluorite unload · restart** | **Cal-Y13 D236 · ~13 Aug · W588 d3** |
+| 4109 | [day-4109.md](days/year-012/week-588/day-4109.md) | **✓ D8 · Belen camp** | **Cal-Y13 D237 · ~14 Aug · W588 d2** |
+| 4108 | [day-4108.md](days/year-012/week-588/day-4108.md) | **✓ D7 · Erzin camp · W588 OPEN** | **Cal-Y13 D236 · ~13 Aug · W588 d1** |
+| 4107 | [day-4107.md](days/year-012/week-587/day-4107.md) | **✓ D6 · Ceyhan · W587 CLOSE** | **Cal-Y13 D235 · ~12 Aug · W587 d7** |
+| 4106 | [day-4106.md](days/year-012/week-587/day-4106.md) | **✓ Akkaya fluorite ~14.2 kg** | **Cal-Y13 D234 · ~11 Aug · W587 d6** |
+| 4105 | [day-4105.md](days/year-012/week-587/day-4105.md) | **✓ D4 · Kozan gate** | **Cal-Y13 D233 · ~10 Aug · W587 d5** |
+| 4104 | [day-4104.md](days/year-012/week-587/day-4104.md) | **✓ D3 · Ceyhan camp** | **Cal-Y13 D232 · ~9 Aug · W587 d4** |
+| 4103 | [day-4103.md](days/year-012/week-587/day-4103.md) | **✓ D2 · Erzin camp** | **Cal-Y13 D231 · ~8 Aug · W587 d3** |
+| 4102 | [day-4102.md](days/year-012/week-587/day-4102.md) | **✓ D1 OUT · Belen** | **Cal-Y13 D230 · ~7 Aug · W587 d2** |
+| 4101 | [day-4101.md](days/year-012/week-587/day-4101.md) | **✓ Kozan/fluorite prep · W587 OPEN** | **Cal-Y13 D229 · ~6 Aug · W587 d1** |
+| 4100 | [day-4100.md](days/year-012/week-586/day-4100.md) | **✓ Browse cut · goat checkup · W586 CLOSE** | **Cal-Y13 D228 · ~5 Aug · W586 d5** |
+| 4099 | [day-4099.md](days/year-012/week-586/day-4099.md) | **✓ Grape pick · P-03 strip** | **Cal-Y13 D227 · ~4 Aug · W586 d4** |
+| 4098 | [day-4098.md](days/year-012/week-586/day-4098.md) | **✓ Fig pick Bed D · Y13 pass 1** | **Cal-Y13 D226 · ~3 Aug · W586 d3** |
+| 4097 | [day-4097.md](days/year-012/week-586/day-4097.md) | **✓ Char retort · lane ~15.3 kg** | **Cal-Y13 D225 · ~2 Aug · W586 d2** |
+| 4096 | [day-4096.md](days/year-012/week-586/day-4096.md) | **✓ Wood haul · W586 OPEN** | **Cal-Y13 D224 · ~1 Aug · W586 d1** |
+| 4095 | [day-4095.md](days/year-012/week-585/day-4095.md) | **✓ Block ×4 · pit ×77 · W585 CLOSE** | **Cal-Y13 D223 · ~31 Jul · W585 d7** |
+| 4094 | [day-4094.md](days/year-012/week-585/day-4094.md) | **✓ Sand haul · filter ~7.9 kg** | **Cal-Y13 D222 · ~30 Jul · W585 d6** |
+| 4093 | [day-4093.md](days/year-012/week-585/day-4093.md) | **✓ Char + kiln ×1 · quicklime ~4.9 kg** | **Cal-Y13 D221 · ~29 Jul · W585 d5** |
+| 4092 | [day-4092.md](days/year-012/week-585/day-4092.md) | **✓ Wood haul · char runway prep** | **Cal-Y13 D220 · ~28 Jul · W585 d4** |
+| 4091 | [day-4091.md](days/year-012/week-585/day-4091.md) | **✓ Char retort · lane ~6.7 kg** | **Cal-Y13 D219 · ~27 Jul · W585 d3** |
+| 4090 | [day-4090.md](days/year-012/week-585/day-4090.md) | **✓ Wood haul · post-tune** | **Cal-Y13 D218 · ~26 Jul · W585 d2** |
+| 4089 | [day-4089.md](days/year-012/week-585/day-4089.md) | **✓ Norima tune · wear 20 · W585 OPEN** | **Cal-Y13 D217 · ~25 Jul · W585 d1** |
+| 4088 | [day-4088.md](days/year-012/week-584/day-4088.md) | **✓ Farm scare · rett pull · W584 CLOSE** | **Cal-Y13 D216 · ~24 Jul · W584 d7** |
+| 4087 | [day-4087.md](days/year-012/week-584/day-4087.md) | **✓ Block ×4 · pit ×73** | **Cal-Y13 D215 · ~23 Jul · W584 d6** |
+| 4086 | [day-4086.md](days/year-012/week-584/day-4086.md) | **✓ Pozz trip d2 · ~21 kg net** | **Cal-Y13 D214 · ~22 Jul · W584 d5** |
+| 4085 | [day-4085.md](days/year-012/week-584/day-4085.md) | **✓ Pozz trip d1 · camp @ trib** | **Cal-Y13 D213 · ~21 Jul · W584 d4** |
+| 4084 | [day-4084.md](days/year-012/week-584/day-4084.md) | **✓ Rebar ×2 · reserve char tap** | **Cal-Y13 D212 · ~20 Jul · W584 d3** |
+| 4083 | [day-4083.md](days/year-012/week-584/day-4083.md) | **✓ Char + kiln ×2 · quicklime ~6.8 kg** | **Cal-Y13 D211 · ~19 Jul · W584 d2** |
+| 4082 | [day-4082.md](days/year-012/week-584/day-4082.md) | **✓ Wood haul · W584 OPEN** | **Cal-Y13 D210 · ~18 Jul · W584 d1** |
+| 4081 | [day-4081.md](days/year-012/week-583/day-4081.md) | **✓ Wood haul · W583 CLOSE** | **Cal-Y13 D209 · ~17 Jul · W583 d7** |
+| 4080 | [day-4080.md](days/year-012/week-583/day-4080.md) | **✓ Block ×4 · pit ×69** | **Cal-Y13 D208 · ~16 Jul · W583 d6** |
+| 4079 | [day-4079.md](days/year-012/week-583/day-4079.md) | **✓ `H-11` haul · ~48.2 kg** | **Cal-Y13 D207 · ~15 Jul · W583 d5** |
+| 4078 | [day-4078.md](days/year-012/week-583/day-4078.md) | **✓ Char + kiln ×2 · quicklime ~6.1 kg** | **Cal-Y13 D206 · ~14 Jul · W583 d4** |
+| 4077 | [day-4077.md](days/year-012/week-583/day-4077.md) | **✓ Sand haul · filter ~13.5 kg** | **Cal-Y13 D205 · ~13 Jul · W583 d3** |
+| 4076 | [day-4076.md](days/year-012/week-583/day-4076.md) | **✓ Limestone ×2 · `CACO3-P7` ~30 kg** | **Cal-Y13 D204 · ~12 Jul · W583 d2** |
+| 4075 | [day-4075.md](days/year-012/week-583/day-4075.md) | **✓ Wild flax lap 1 · `P-RETT-35` · W583 OPEN** | **Cal-Y13 D203 · ~11 Jul · W583 d1** |
+| 4074 | [day-4074.md](days/year-012/week-582/day-4074.md) | **✓ Thistle + grape thin · W582 CLOSE** | **Cal-Y13 D202 · ~10 Jul · W582 d7** |
+| 4073 | [day-4073.md](days/year-012/week-582/day-4073.md) | **✓ Wild grain seed lap · Y13 CLOSED** | **Cal-Y13 D201 · ~9 Jul · W582 d6** |
+| 4072 | [day-4072.md](days/year-012/week-582/day-4072.md) | **✓ Wood haul · pile ~25 kg** | **Cal-Y13 D200 · ~8 Jul · W582 d5** |
+| 4071 | [day-4071.md](days/year-012/week-582/day-4071.md) | **✓ Char retort · lane ~12.8 kg** | **Cal-Y13 D199 · ~7 Jul · W582 d4** |
+| 4070 | [day-4070.md](days/year-012/week-582/day-4070.md) | **✓ Wood haul · Norima shake-down PASS** | **Cal-Y13 D198 · ~6 Jul · W582 d3** |
+| 4069 | [day-4069.md](days/year-012/week-582/day-4069.md) | **✓ Rear rims · ×4 iron tyre CLOSED** | **Cal-Y13 D197 · ~5 Jul · W582 d2** |
+| 4068 | [day-4068.md](days/year-012/week-582/day-4068.md) | **✓ Bloom smelt + front rims · W582 OPEN** | **Cal-Y13 D196 · ~4 Jul · W582 d1** |
+| 4067 | [day-4067.md](days/year-012/week-581/day-4067.md) | **✓ Char retort · lane ~17.2 kg · W581 CLOSE** | **Cal-Y13 D195 · ~3 Jul · W581 d7** |
+| 4066 | [day-4066.md](days/year-012/week-581/day-4066.md) | **✓ Wood haul · rim prep** | **Cal-Y13 D194 · ~2 Jul · W581 d6** |
+| 4065 | [day-4065.md](days/year-012/week-581/day-4065.md) | **✓ `ST-SPR` leaf packs mounted · new leaf** | **Cal-Y13 D193 · ~1 Jul · W581 d5** |
+| 4064 | [day-4064.md](days/year-012/week-581/day-4064.md) | **✓ Iron nail batch · ×39 @ peg** | **Cal-Y13 D192 · ~30 Jun · W581 d4** |
+| 4063 | [day-4063.md](days/year-012/week-581/day-4063.md) | **✓ `ST-SPR-HEAT-4` · stock ~1.19 kg · band CLOSED** | **Cal-Y13 D191 · ~29 Jun · W581 d3** |
+| 4062 | [day-4062.md](days/year-012/week-581/day-4062.md) | **✓ `ST-SPR-HEAT-3` · `HEAT-Y13-015`** | **Cal-Y13 D190 · ~28 Jun · W581 d2** |
+| 4061 | [day-4061.md](days/year-012/week-581/day-4061.md) | **✓ `ST-SPR-HEAT-2` · ~380 g · W581 OPEN** | **Cal-Y13 D189 · ~27 Jun · W581 d1** |
+| 4060 | [day-4060.md](days/year-012/week-580/day-4060.md) | **✓ Char retort · W580 CLOSE** | **Cal-Y13 D188 · ~26 Jun · W580 d7** |
+| 4059 | [day-4059.md](days/year-012/week-580/day-4059.md) | **✓ Wood haul · char bank** | **Cal-Y13 D187 · ~25 Jun · W580 d6** |
+| 4058 | [day-4058.md](days/year-012/week-580/day-4058.md) | **✓ Char retort · lane ~33.2 kg** | **Cal-Y13 D186 · ~24 Jun · W580 d5** |
+| 4057 | [day-4057.md](days/year-012/week-580/day-4057.md) | **✓ Wood haul · pile ~31.8 kg** | **Cal-Y13 D185 · ~23 Jun · W580 d4** |
+| 4056 | [day-4056.md](days/year-012/week-580/day-4056.md) | **✓ Norima tune · wear 14** | **Cal-Y13 D184 · ~22 Jun · W580 d3** |
+| 4055 | [day-4055.md](days/year-012/week-580/day-4055.md) | **✓ Char retort · lane ~25.0 kg** | **Cal-Y13 D183 · ~21 Jun · W580 d2** |
+| 4054 | [day-4054.md](days/year-012/week-580/day-4054.md) | **✓ Wood haul · W580 OPEN** | **Cal-Y13 D182 · ~20 Jun · W580 d1** |
+| 4053 | [day-4053.md](days/year-012/week-579/day-4053.md) | **✓ `H-11` haul · W579 CLOSE** | **Cal-Y13 D181 · ~19 Jun · W579 d7** |
+| 4052 | [day-4052.md](days/year-012/week-579/day-4052.md) | **✓ Iron bloom smelt · ~980 g @ mount** | **Cal-Y13 D180 · ~18 Jun · W579 d6** |
+| 4051 | [day-4051.md](days/year-012/week-579/day-4051.md) | **✓ Char retort · lane ~25.3 kg** | **Cal-Y13 D179 · ~17 Jun · W579 d5** |
+| 4050 | [day-4050.md](days/year-012/week-579/day-4050.md) | **✓ Wood haul · pile ~34.6 kg** | **Cal-Y13 D178 · ~16 Jun · W579 d4** |
+| 4049 | [day-4049.md](days/year-012/week-579/day-4049.md) | **✓ Wood haul · pile ~20 kg** | **Cal-Y13 D177 · ~15 Jun · W579 d3** |
+| 4048 | [day-4048.md](days/year-012/week-579/day-4048.md) | **✓ Char retort · lane ~17.1 kg** | **Cal-Y13 D176 · ~14 Jun · W579 d2** |
+| 4047 | [day-4047.md](days/year-012/week-579/day-4047.md) | **✓ Wood haul · W579 OPEN** | **Cal-Y13 D175 · ~13 Jun · W579 d1** |
+| 4046 | [day-4046.md](days/year-012/week-578/day-4046.md) | **✓ `SLUICE-2-GATE-2` three-stop upgrade · W578 CLOSE** | **Cal-Y13 D174 · ~12 Jun · W578 d7** |
+| 4045 | [day-4045.md](days/year-012/week-578/day-4045.md) | **✓ Q survey · `HYDRO-ELEC-1` site read** | **Cal-Y13 D173 · ~11 Jun · W578 d6** |
+| 4044 | [day-4044.md](days/year-012/week-578/day-4044.md) | **✓ `BLOCK-Y10` ×4 · pit ×65** | **Cal-Y13 D172 · ~10 Jun · W578 d5** |
+| 4043 | [day-4043.md](days/year-012/week-578/day-4043.md) | **✓ Char retort + lime ×2** | **Cal-Y13 D171 · ~9 Jun · W578 d4** |
+| 4042 | [day-4042.md](days/year-012/week-578/day-4042.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D170 · ~8 Jun · W578 d3** |
+| 4041 | [day-4041.md](days/year-012/week-578/day-4041.md) | **✓ Norima tune · wear 14** | **Cal-Y13 D169 · ~7 Jun · W578 d2** |
+| 4040 | [day-4040.md](days/year-012/week-578/day-4040.md) | **✓ Sand haul · runway restored · W578 open** | **Cal-Y13 D168 · ~6 Jun · W578 d1** |
+| 4039 | [day-4039.md](days/year-012/week-577/day-4039.md) | **✓ Wild grain food lap · W577 CLOSE** | **Cal-Y13 D167 · ~5 Jun · W577 d7** |
+| 4038 | [day-4038.md](days/year-012/week-577/day-4038.md) | **✓ `BLOCK-Y10` ×4 · pit ×61** | **Cal-Y13 D166 · ~4 Jun · W577 d6** |
+| 4037 | [day-4037.md](days/year-012/week-577/day-4037.md) | **✓ Char retort + lime burn** | **Cal-Y13 D165 · ~3 Jun · W577 d5** |
+| 4036 | [day-4036.md](days/year-012/week-577/day-4036.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D164 · ~2 Jun · W577 d4** |
+| 4035 | [day-4035.md](days/year-012/week-577/day-4035.md) | **✓ H-11 ore haul · bank ~35.6 kg** | **Cal-Y13 D163 · ~1 Jun · W577 d3** |
+| 4034 | [day-4034.md](days/year-012/week-577/day-4034.md) | **✓ H-11 ore haul · smelt runway restored** | **Cal-Y13 D162 · ~31 May · W577 d2** |
+| 4033 | [day-4033.md](days/year-012/week-577/day-4033.md) | **✓ Sand haul · runway restored · W577 open** | **Cal-Y13 D161 · ~30 May · W577 d1** |
+| 4032 | [day-4032.md](days/year-012/week-576/day-4032.md) | **✓ Char retort · W576 CLOSE** | **Cal-Y13 D160 · ~29 May · W576 d7** |
+| 4031 | [day-4031.md](days/year-012/week-576/day-4031.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D159 · ~28 May · W576 d6** |
+| 4030 | [day-4030.md](days/year-012/week-576/day-4030.md) | **✓ Lime burn · lift ×7 · press ×4** | **Cal-Y13 D158 · ~27 May · W576 d5** |
+| 4029 | [day-4029.md](days/year-012/week-576/day-4029.md) | **✓ Mock break PASS · smelt · ×2 rebar** | **Cal-Y13 D157 · ~26 May · W576 d4** |
+| 4028 | [day-4028.md](days/year-012/week-576/day-4028.md) | **✓ Norima tune · wear 14** | **Cal-Y13 D156 · ~25 May · W576 d3** |
+| 4027 | [day-4027.md](days/year-012/week-576/day-4027.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D155 · ~24 May · W576 d2** |
+| 4026 | [day-4026.md](days/year-012/week-576/day-4026.md) | **✓ Char retort · lane restored** | **Cal-Y13 D154 · ~23 May · W576 d1** |
 | 4025 | [day-4025.md](days/year-011/week-575/day-4025.md) | **✓ Rebar ×2 · smelt · W575 CLOSE** | **Cal-Y13 D153 · ~22 May · W575 d7** |
 | 4024 | [day-4024.md](days/year-011/week-575/day-4024.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D152 · ~21 May · W575 d6** |
 | 4023 | [day-4023.md](days/year-011/week-575/day-4023.md) | **✓ `REBAR-R&D` D3 · cover/chair · rhythm CLOSED** | **Cal-Y13 D151 · ~20 May · W575 d5** |

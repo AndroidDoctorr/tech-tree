@@ -39,8 +39,8 @@ Last full audit **d3938** · **`SEED-RAG-TEST-Y13` + `SEED-REGEN-Y13`**
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | `GRAIN-WILD-A1` | Wild emmer · **`P-04` ghost / prior laps** | ~37 g class | Vault wild shelf | Y9 top-up | — |
-| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~17 g** | Vault wild shelf | **Y12 d3687** | **d3938 ~84%** |
-| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~32 g** | Vault wild shelf | **Y12 d3687** | **d3938 ~86%** |
+| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~28 g** | Vault wild shelf | **Y13 d4073 top-up** | **d3938 ~84%** |
+| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~44 g** | Vault wild shelf | **Y13 d4073 top-up** | **d3938 ~86%** |
 
 > **Y12 seed lap d3687** — **`P-05` + `P-06` only** *(March mark row · no `P-04` wild stand)*.
 

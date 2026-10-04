@@ -66,10 +66,13 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `FIG-LEATHER-TRAY-Y10-1` | Fig leather, tray drying | ~0.65 kg wet | Sun rack / horreum porch | d3368 | d3380 |
 | `FIG-FRESH-Y10-1` | Fig, fresh hold · Bed D first pass | ~1.25 kg | Cool step | d3368 | d3368 |
 | `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
-| `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | **~750 g** | Cool step | d3745 | d3745 |
-| `FIG-LEATHER-Y12-1` | Fig leather tray · sun dry | **~700 g gross wet** | Horreum east rack | d3745 | d3872 |
-| `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ~0.87 kg | Cool step | d3375 | d3579 |
-| `GRAPE-FRESH-1` | Grape, fresh hold | **~1.03 kg** | Cool step | Y9 | d3872 |
+| `FIG-FRESH-Y13-1` | Fig fresh · Bed D pick d4098 | **~680 g** | Cool step | d4098 | d4098 |
+| `FIG-LEATHER-Y13-1` | Fig leather tray · sun dry | **~680 g gross wet** | Horreum east rack | d4098 | d4098 |
+| `GRAPE-FRESH-Y13-1` | Grape, fresh · P-03 partial strip d4099 | **~520 g** | Cool step | d4099 | d4099 |
+| `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | ×0 spent | — | d3745 | d3872 |
+| `FIG-LEATHER-Y12-1` | Fig leather tray · sun dry | ×0 dry | Horreum east rack | d3745 | d3872 |
+| `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ×0 spent | — | d3375 | d3579 |
+| `GRAPE-FRESH-1` | Grape, fresh hold | ×0 spent | — | Y9 | d3872 |
 
 ## Meat and fish
 

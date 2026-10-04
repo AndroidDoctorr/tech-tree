@@ -145,6 +145,8 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 > ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
 > ★★★ **NEW CEILING IS THE WHEEL, NOT THE FIELD.** *The race loads now in a way it never did; the magneto was so weak the water never knew it was working.* ★ **The limit was moved, not removed.**
 >
+> ⚑ **`HYDRO-ELEC-1` — +3 m crest chosen @ player *(second intake later)* · forebay **~35 × ~10 m class** @ gorge lip · spillway west · penstock along existing race line · ⚑ **spring high-flow Q before civil · intake gate upgrade**
+>
 > *(superseded — original spec)* ⧗ **`GEN-WW-2` — SHUNT-FIELD CONVERSION, opened d3295.** *Replace the ×6 `MAG-BOOT-EM` permanent rods with pole coils fed from the machine's own output.* ★★ **The field stops being a fixed asset that decays and becomes one the machine earns continuously; the ceiling moves from what steel holds to what the iron will take.**
 > **Spec:** ~600 m at ~0.5 mm, **many turns at low current**, air between layers, **not potted** — ⚠ *the wax-rosin coating softens hot and a shunt field is the one winding that never rests.* ★ **Fine wire is simultaneously the thermally safe, electrically correct and cheapest choice.**
 > ☠ **Polarity is chiselled into the yoke.** *Wired against the residual it does not merely fail to build — it erases the residual and makes the next attempt worse.* ★ **Flash from `DANIELL-CELL-1` if it will not start.**
@@ -312,15 +314,28 @@ Tub ~0.55 × 0.45 m lined and scrimmed. Bell A ~9.5 L done, crown battened and a
 
 ## Water and power
 
-### `SLUICE-2-GATE-1` — sluice 2 gate
-Map: `S2-0` · Built: d1878
+### `SLUICE-2-GATE-2` — sluice 2 gate *(upgraded d4046)*
+Map: `S2-0` · Built: d1878 · **indexed d4046**
 
-Prefab kit mounted, bypass staged. Stream cheek `SLUICE-2-STREAM-CHEEK-1` ~10.2 kg; sill skim `SLUICE-2-SILL-SKIM-1` ~3.8 kg at the gate seat.
+Three-stop intake: **SUMMER · NORMAL · FLOOD** — iron pintle + latch · rack pin stops · **`SLUICE-2-STAFF-GAUGE-1`** @ south cheek *(0 · 10 · 20 cm · ties to `T-1` stain)*. Bypass spill board west cheek · seasonal swap grammar unchanged.
+
+| Stop | Q to race *(June low fork · d4046)* |
+|---|---|
+| **SUMMER** | **~11 L/s** |
+| **NORMAL** | **~17 L/s** |
+| **FLOOD** | **~3 L/s** *(bypass carries rest)* |
+
+Stream cheek `SLUICE-2-STREAM-CHEEK-1` ~10.2 kg; sill skim `SLUICE-2-SILL-SKIM-1` ~3.8 kg at the gate seat.
 
 ### `SLUICE-2-RACEWAY-1` — sluice 2 raceway
 Map: `S2-0` → WW-yard pad · Built: d1879
 
-~180 m.
+~180 m · **~7.2 m head** lip → wheel pad.
+
+| Q read | Date | Flow | Notes |
+|---|---|---|---|
+| d1881 | Cal-Y6 D184 · ~23 Jun | **~16 L/s** | Summer-low baseline · bypass + seep honest |
+| d4045 | Cal-Y13 D173 · ~11 Jun | **~17 L/s** | June class · not spring peak · bypass **~1.2 L/s** |
 
 ### `WW-2-WHEEL-1` — water wheel 2
 Map: north pad · Built: d1894
@@ -584,7 +599,9 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-32` CLOSED d3505** — break/heckle/spin · **`FLAX-THREAD-SHINGLE-Y10-1` ~760 m** @ craft peg.
 
-✓ **`P-RETT-34` FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg line @ `WOOD-CRATE-6`** · spin defer · **`W-1` cleared** · **`RETT-TROUGH-FLAX-1` empty**.
+✓ **`P-RETT-34` FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg line @ `WOOD-CRATE-6`** · spin defer · **`W-1` cleared**.
+
+**`P-RETT-35`** wild flax Y13 lap 1 **PULLED d4088** · **`FLAX-WILD-GREEN-Y13-L1` ~3.7 kg @ W-1 dry queue** · **`RETT-TROUGH-FLAX-1` empty**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

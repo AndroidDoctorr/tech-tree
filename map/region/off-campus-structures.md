@@ -85,6 +85,7 @@ At the north gate, ~220 km. The furthest standing work.
 - `CART-KIT-KOZAN-1`, sealed
 - Hut wythe, partial
 - `KOZAN-ORE-STOCKPILE-1` — **cleared d2925**
+- **`SC-AKKAYA-FLUORITE-1`** — char stake @ best face · **cairn ~9 kg @ lip d4106**
 
 ## North-east corridor
 

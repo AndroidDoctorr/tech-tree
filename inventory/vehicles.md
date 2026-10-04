@@ -7,18 +7,19 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · Wear: **19** · Last out: **d3925 wood haul** · Last tune: **d3921**
+Map: `CART-YARD` south · Status: **HOME · under cover · trace-rest d4110** · Wear: **25** · Last out: **d4110 Kozan fluorite return** · Last tune: **d4089**
 
-**Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md).
+**Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
 Bulk dry aft. Ice kit stowed, wet rig staged.
 
-**Wear is a live 0–100 index** — feeds `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` via `(wear/50)×load×terrain`; see [hazards.md](../hazards.md). Patch this row when it changes.
+**Wear is a live 0–100 index** — feeds `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` via `(wear/50)×load×terrain`; see [hazards.md](../hazards.md). **Routine margin hauls** (T-1 wood/sand) tick **+1 per two trips** with iron rims + **`ST-SPR` leaf** live; heavy manifests still **+1/day**. Patch this row when it changes.
 
 ### Fittings
 
 | ID | Fitting | State |
 |---|---|---|
+| `WAGON-V2-LEAF-SPRING-ST-SPR-1` | Leaf spring packs ×2 · **`ST-SPR-1` · oil quench · mounted d4065** | ✓ **LIVE · replaces wrought `LEAF-SPRING-1`** |
 | `WAGON-V2-COVER-ARCH-1` | Cover arch — chassis · ribs · ridge · hoops · braces | ✓ **cover mounted · outer oilcloth d3408** |
 | `WAGON-REAR-HITCH-1` | Pintle receiver at tail · latch · safety chain | Pod ghost PASS |
 | `WAGON-LANTERN-HOOK-1` | Lantern hook, cover arch fore rib · portable lantern swap | Live |

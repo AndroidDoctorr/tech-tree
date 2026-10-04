@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~10.6 kg** | Char lane | | d4037 |
-| `CHAR-RESERVE-C` | Charcoal reserve | **~7.3 kg** | Store C vault | | d3903 |
-| `WOOD-OAK-P5` | Oak, green | **~10.7 kg** @ pile 5 | Pile 5 | | d4039 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~15.3 kg** | Char lane | | d4097 |
+| `CHAR-RESERVE-C` | Charcoal reserve | **~5.2 kg** | Store C vault | | d4084 |
+| `WOOD-OAK-P5` | Oak, green | **~13.4 kg** @ pile 5 | Pile 5 | | d4100 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d3896 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~10.4 kg** | Storage wing | | d3865 |
@@ -30,17 +30,18 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
-| **`GRAVEL-1`** | Gravel aggregate | **~trace @ pile 4 · kit spent** | Pile 4 | | d4013 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~5.4 kg** | Pile 4 apron | | d4038 |
+| **`FLUORITE-RAW-AKKAYA-Y13-1`** | Fluorite · dressed cob · `M-29` Akkaya | **~14.2 kg** @ pile 4 tray | Pile 4 | | d4110 |
+| **`GRAVEL-1`** | Gravel aggregate | **×0 · kit spent** | — | | d4105 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~1.5 kg** | Pile 4 apron | | d4095 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
-| `POZZ-TUFF-1` | Pozzolan / tuff | **~10.3 kg** @ pile 4 north · **~4 kg stage tail** | Pile 4 north band | | d3983 |
+| `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~12.4 kg** | Pile 7, camp north face | d3374 | d4037 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.2 kg** | Lime trough | d3390 | d4038 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~4.4 kg** | Pile 7, camp north face | d3374 | d4093 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg** | Lime trough | d3390 | d4101 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×7 @ `WW-YARD`** | Block yard | d4030 | d4030 |
 | `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |
@@ -112,8 +113,9 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~9.65 kg** | Pile 4 | | d3983 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | **~9.0 kg** | Forge staging | | d3997 |
-| `H-11-HEMATITE` | Hematite | **~35.6 kg @ pile 4** | Pile 4 | | d4035 |
-| **`ST-SPR-STRIP-Y13-1`** | Spring steel strip · **`HEAT-Y13-013` · `ASSAY-Y13-003` ~0.64 % C · oil quench + draw · snap PASS** | **~52 g tail** | Dry tray | d3914 | d3964 |
+| `H-11-HEMATITE` | Hematite | **~45.0 kg @ pile 4** | Pile 4 | | d4084 |
+| **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **~90 g tail @ chill tray** | Chill tray | d4061 | d4065 |
+| **`ST-SPR-STRIP-Y13-1`** | Spring steel strip · **`HEAT-Y13-013` · cert sample** | **×0 spent → leaf packs d4065** | — | d3914 | d4065 |
 | **`ST-STR-BAR-Y13-1`** | Structural steel bar · **`HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C · `ST-STR-1` cert** | **~3 g tail @ dry tray** | Dry tray | d3911 | d3976 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~17.25 kg** | Pile 4 tray | d3618 | d3903 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
@@ -152,12 +154,14 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **~4 g tail** | Chill tray | | d3931 |
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~165 g scrap tail @ mount** | `FORGE-D` | Y12 | d4029 |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~225 g tail @ mount** | `FORGE-D` | Y12 | d4084 |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-BAR-Y13-1`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-2`** | Production rebar · twisted · **~10.0 mm · ~555 mm** · hooks @ pour | **~405 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-3`** | Production rebar · twisted · **~10.1 mm · ~565 mm** · hooks @ pour | **~415 g** | Forge peg rack | d4029 | d4029 |
 | **`REBAR-BAR-Y13-4`** | Production rebar · twisted · **~10.0 mm · ~550 mm** · hooks @ pour | **~400 g** | Forge peg rack | d4029 | d4029 |
+| **`REBAR-BAR-Y13-5`** | Production rebar · twisted · **~10.0 mm · ~558 mm** · hooks @ pour | **~408 g** | Forge peg rack | d4084 | d4084 |
+| **`REBAR-BAR-Y13-6`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4084 | d4084 |
 | **`REBAR-SQUARE-CONTROL-Y13-1`** | Wrought square control · **spent on cover mocks** | **×0** | — | d4021 | d4023 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
 | **`REBAR-LAP-MOCK-Y13-1`** | Lap splice mock · break **PASS d4029** | **×0 · spent** | — | d4022 | d4029 |
@@ -176,9 +180,9 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`MAG-STEEL-Y13-ROD-1`** | Magnet steel pole rod · **`HEAT-Y13-009` · ~1.0 % C · lift ~44 mm** | **~71 g @ `MOTOR-1-MAG-STACK-1`** | Chem porch bench east | d3900 | d3957 |
 | **`MAG-STEEL-Y13-ROD-2`** | Magnet steel pole rod · **`HEAT-Y13-010` · lift ~43 mm** | **~71 g @ `MOTOR-1-MAG-STACK-1`** | Chem porch bench east | d3903 | d3957 |
 | **`MAG-STEEL-Y13-ROD-3`** | Magnet steel pole rod · **`HEAT-Y13-011` · lift ~44 mm** | **~72 g spare** | Dry tray · chem porch | d3903 | d3903 |
-| **`FMN-BUTTON-Y12-1`** | Ferromanganese trial button · **`HEAT-Y12-006` · `FMN-STD-A`** | **~12 g** *(chips to d3898 · d3903 · d3906 · d3913)* | Chill tray | d3815 | d3913 |
-| **`FMN-BUTTON-Y12-2`** | Ferromanganese trial button · **`HEAT-Y12-007` · `FMN-STD-B`** | **~78 g** | Chill tray | d3829 | d3829 |
-| **`FMN-BUTTON-Y12-3`** | Ferromanganese trial button · **`HEAT-Y12-008` · `FMN-STD-C`** | **~79 g** | Chill tray | d3833 | d3833 |
+| **`FMN-BUTTON-Y12-1`** | Ferromanganese trial button · **`HEAT-Y12-006` · `FMN-STD-A`** | **×0 spent** *(composite **`HEAT-Y13-016` d4063)* | — | d3815 | d4063 |
+| **`FMN-BUTTON-Y12-2`** | Ferromanganese trial button · **`HEAT-Y12-007` · `FMN-STD-B`** | **×0 spent** *(composite **`HEAT-Y13-016` d4063)* | — | d3829 | d4063 |
+| **`FMN-BUTTON-Y12-3`** | Ferromanganese trial button · **`HEAT-Y12-008` · `FMN-STD-C`** | **×0 spent** *(−~65 g d4062 · composite d4063)* | — | d3833 | d4063 |
 | **`CONSTANTAN-STD-Y12-1`** | Constantan std stub · run D tail · reproduce from bridge label | **~3.1 g** | Instrument tray | d3734 | d3735 |
 | **`CONSTANTAN-BATCH-Y12-1`** | Constantan repro · Run D recipe · run 1 | **×0 → `TC-CONST-LEG-2`** | — | d3834 | d3835 |
 | **`CONSTANTAN-BATCH-Y12-2`** | Constantan repro · Run D recipe · run 2 | **~7.7 g** | Chill tray | d3834 | d3834 |
@@ -203,7 +207,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~65 g @ chill tray** | Chill tray | d3500 | d3976 |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | **×3 @ cave crate** *(−×1 bank B cleat d4009)* | — | d3514 | d4009 |
+| `NAIL-IRON` | Iron nails | **×29 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4101 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
 | `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×0 → **`WAGON-GARAGE-1` doors** | Horreum peg tray | | d3515 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | **×0** | Bench tray | | d3841 |
@@ -270,6 +274,8 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-LINE-Y12-1` | Hemp line · Bed A Y12 · **`P-RETT-33`** | **×0** *(spun d3787)* | — | d3786 | d3787 |
 | **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.55 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d3977 |
+| **`THISTLE-HEAD-DRIED-Y13-1`** | Cardoon-type heads · full-flower cut · rennet stock | **×9 @ horreum herb peg** | Horreum | d4074 | d4074 |
+| **`FLAX-WILD-GREEN-Y13-L1`** | Wild flax lap 1 · **`P-RETT-35` pulled** | **~3.7 kg @ W-1 dry queue** | Ditch W | d4075 | d4088 |
 | **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~22 m** @ craft peg | Craft wing peg | d3977 | d3977 |
 | **`HEMP-THREAD-Y12-1`** | Hemp thread · Bed A Y12 spin | **~315 m** | Craft wing peg | d3787 | d3789 |
 | `ROPE-HEMP-Y12-1` | Hemp rope · 3-strand · Y12 yarn · even lay · ⚑ break test + ÷6 cert defer | **~48 m** | WW peg | d3788 | d3789 |
@@ -428,7 +434,7 @@ The first wall swatch **failed on a dry wall** — the substrate drank the water
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `BITUMEN-ASI-1` | Bitumen, Asi seeps · 4 crocks, sand-dusted · ⚠ heavy end only | **~39.3 kg** | Chem porch | d3270 | d3983 |
-| `BITUMEN-BULK-1` | Bitumen · *(+~1.5 kg chip at cart trial tin)* · ☠ not food | **~6.52 kg** | `BITUMEN-POT-1`, cart yard | | d3867 |
+| `BITUMEN-BULK-1` | Bitumen · *(+~1.5 kg chip at cart trial tin)* · ☠ not food | **~6.51 kg** | `BITUMEN-POT-1`, cart yard | | d4046 |
 | `CORK-BARK` | Cork bark | ~1.02 kg | — | | d3171 |
 | `BEESWAX-V1` | Beeswax · *(plus ~1.04 kg at the wax store — see below)* | **~206 g** | v1 chem · craft cabinet 2 | | d3958 |
 | `TALLOW-1` | Tallow | **~50 g** | v1 trough jar | | d3598 |

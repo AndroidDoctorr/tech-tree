@@ -85,7 +85,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **19** | **d4036 wood haul** |
+| **Norima wear** | **25** | **d4110 Kozan fluorite return** |
 | **mishap_pool** | **0** | **POP HIT d3883 · jar pour slip · spill kit PASS · pool reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
@@ -210,7 +210,8 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 | Event | Δ wear |
 |-------|--------|
 | **Loaded haul hero** — margin · trail · exped · multi-lap stone/wood/lime **with meaningful load** | **+1** |
-| **Heavy manifest** — four-lap wood · ~90 kg north run *(same day as haul)* | **+1** *(stacks with haul tick)* |
+| **Routine margin haul** — T-1 wood 3-lap · T-1 sand 4-lap · empty return · dry crown · **with `WAGON-V2-RIM-SET-1` + `WAGON-V2-LEAF-SPRING-ST-SPR-1` live** | **+1 per two hauls** *(alternate tick — iron tyre + spring pack cut shock; d4092 grammar)* |
+| **Heavy manifest** — four-lap wood · ~90 kg north run · trib pozz · multi-lap lime/ore **with meaningful load** | **+1** *(each qualifying day — does not use the alternate tick)* |
 | **Campus yard roll · garage apron · empty bed · hand loop tune test** | **0** |
 | **Farm-scare inline hub grease** *(minutes, not a tune hero)* | **0** |
 | **Routine tune** — **`WAGON-V2-TUNE-*`**: grease · lash · trim · cover roll · empty cert | **−6** *(adjustment — does not replace metal)* |

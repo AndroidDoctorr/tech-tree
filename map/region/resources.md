@@ -84,7 +84,7 @@ Where things come from. **Sites and distances only — no stock counts.** What y
 | **Quartz** *(optics, glass)* | Local terrace and T-1 gravel | `M-10` | 200 m | CAMPUS | ✓ |
 | | **Nur Dağları / Belen pass** — high-purity vein quartz survey | `M-28` | ~15–25 km NE | ★ **DAY** | ○ |
 | **Sand, grit, gravel** | T-1 river | `M-09` | 200 m | CAMPUS | ✓ |
-| **Fluorite** | Akkaya, north of the Kozan gate | `M-29` | ~220 km+ | **EXPEDITION** | ○ |
+| **Fluorite** | Akkaya, north of the Kozan gate | `M-29` | ~220 km+ | **EXPEDITION** | ✓ |
 | **Basalt** *(hard stone)* | Karasu graben flows | `M-27` | ~40 km N | **OVERNIGHT** | ◐ |
 
 ### Living things
@@ -162,7 +162,7 @@ Where things come from. **Sites and distances only — no stock counts.** What y
 | `M-26` | **Koruhöyük kaolin** | Tributary runoff below the volcanic ground | ~65 km N | Porcelain · refractory | ○ → ✓ **sampled d3329** | ✓ **First sample d3329 — white bar clay, inference confirmed.** ~22 kg wet **`KAOLIN-M26-WET-1`**. ★ **Same stop as `M-27`; bar harvest, not a tell bank like `SC-KAOLIN-01`** |
 | `M-27` | **Karasu volcanic field** — working face at **Koruhöyük** | Karasu graben, Kırıkhan north to the Belen ascent | ~40–65 km N | **Pozzolan · hard stone** | ✓ **at Koruhöyük** | ★★ **Young alkali olivine basalt along the rift faults — plainly visible from the road on the Kırıkhan→Belen climb.** ☠ ★★★ **The FLOWS ARE NOT POZZOLANIC — crystalline basalt is nearly inert. Only the glassy material reacts: scoria, cinder, ash and altered tuff off the cones.** *`POZZ-TUFF-1` came from here and it is a marginal pozzolan, which is half of why seven blocks emptied it* |
 | `M-28` | **Nur Dağları / Belen pass quartz** | NE, same corridor as `L7` | ~15–25 km NE | High-purity optics · glass | ○ | `QUARTZ-SURVEY-NUR-BELEN-765`, a day survey. ★ **Combine with any Belen-bound lap — same road** |
-| `M-29` | **Fluorite** | Akkaya, north of the Kozan gate | ~220 km+ | Flux · optics · ⚠ **HF if ever wanted** | ○ | Filed d2915 as **~1 day from the Kozan gate once the trail is mature** — ★ **rides on a `CAP-0` lap, never its own expedition** |
+| `M-29` | **Fluorite** | Akkaya, north of the Kozan gate · **`SC-AKKAYA-FLUORITE-1` staked d4106** | ~220 km+ | Flux · optics · ⚠ **HF if ever wanted** | ✓ | **~14.2 kg dressed cob d4110 · cairn ~9 kg @ lip** · lead confirmed from prior north-gate foot passes |
 | `M-30` | **Cappadocian tuff** | Inland highland, far north of the Kozan gate | Multi-week | ★ **The premium natural pozzolan** | ○ | ⚠ **On the Cappadocian Road, NOT the coast** — do not go looking along the shore. ☠ **Almost certainly never worth the trip** — see the three-tier note below |
 | ★ `M-31-A` | **Manganese-oxide body** *(field class; assay pending)* | **Dokuztekne west foothill**, between Erzin and Ceyhan · L13 turn + `MN-SPUR-1` ~5.8 km west | **~155 km** | ★★★ **Ferromanganese** · glass decolorizer · ceramic pigment | ◐ **FOUND d3595** | Black-brown botryoidal seam / fracture fill in altered volcanic-siliceous breccia · ~85 m traced · irregular ~0.2–0.6 m exposed · moderate mixed grade. `MN-MARK-A1/A2/A3` + mapped route live · **A1/A2/A3/float samples ~11.8 kg HOME** |
 | `SC-KAOLIN-01` | **Kaolin bank** | Tell Atchana, east string near `AM-EAST-02` | ~20 km E | **Porcelain · refractory** | ✓ | Indexed d2523–d2525 · **~17.2 kg hauled d2561.** Not depleted. ★★ **On the best-graded road on the map — this is the cheapest 20 km anywhere** |
