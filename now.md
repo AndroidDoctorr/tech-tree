@@ -2,7 +2,7 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 3986** · Cal-Y13 D114 · ~13 Apr · **Week 570 day 3**
+> **Day 4020** · Cal-Y13 D148 · ~17 May · **Week 575 day 2**
 >
 > **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 18**
 
@@ -60,16 +60,21 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`FLAX-PULL-FIELD-Y12`** | **✓ pulled · rett · break · heckle d3865** | **`FLAX-LINE-Y12-1` ~1.55 kg · ✓ motor spin d3977** |
 | ✓ **`OLIVE-PICK-Y12`** | **Pressed d3850 · decanted d3853–3854** | **Lap 3 tail optional · `OIL-Y12-1` cook live** |
 | ✓ **`SHELF-LIFE-SPRINT-Y12`** | **Closed d3854** | **Parched · barrel · stew · smoke · flat** |
-| ⚑ **`TF-FUME-TILE-Y12`** | **×47 fired spares @ rack north** | **`KAOLIN-SLIP-M26-1` ~16.8 kg · press when named** |
-| ⚑ **`P-LAB-CRUC-REPLEN-Y13`** | **×6 GREEN S/T/U/V/W/X d3942–3943 @ sun rack · ×2 FIRED Q/R** | **Dry read ×6 · `KILN-B` peripheral fire** |
+| ✓ **`TF-FUME-TILE-Y12`** | **×63 fired @ rack north · green queue ×0** | **Press when named · slip ~21 kg** |
+| ✓ **`P-LAB-CRUC-REPLEN-Y13`** | **×8 FIRED Q–X d3988 @ fire-table SW peg · sun rack ×0** | **Crucible runway restored** |
 | ◌ **`ROOF-R&D-HEMP-BITUMEN-1`** | **F1/F2 rain PASS d3873 · scale deferred** | **BC-2: TR standard · membrane trials when named** |
 | ✓ **`YULE-FEAST-Y12`** | **Closed d3873 · twelfth feast glyph** | **`GOOSE-SMOKE-Y12-1` ~0.98 kg · Cal-Y13 open** |
-| ⚑ **`GLASS-CULLET-REPLEN-3846`** | **×4 @ anneal · cullet bin ~1.2 kg** | **Tap defer · char margin thin for full glass reheat** |
+| ✓ **`GP-Y8-C-LITE-PROD-Y13`** | **×4 tapped d4009 · **`GP-Y8-C-LITE` bank ×28 spare** | **Production when named** |
+| ✓ **`GLASS-CLARITY-Y13-1`** | **Ladder C grammar · production **`MELT-PROTOCOL-2`** live** | **Jars 3/4 assembled d3999** |
+| ✓ **`LEAD-ACID-BANK-Y13-2`** | **Parallel ×2 · on gen bus d4009 · ~54% SOC · `SW-STORAGE-TIE-2`** | **Daily storage read · dual-bank float** |
+| ✓ **`HIVE-3-RAISE-Y13`** | **✓ QUEENRIGHT d3998 · mated queen · fresh eggs · west pad** | **Raise arc closed** |
 | ✓ **`LAB-FUME-CABINET-1`** | **~100% · proof CLOSED d3876** | **Arsenic immobilized d3879 · liquor scale ~800 ml gated** |
 | ✓ **`LEAD-ACID-BANK-Y13-1`** | **Parallel ×2 · on gen bus d3971 · ~54% SOC · matched pair PASS** | **Daily storage read · `SW-STORAGE-TIE-1` for service** |
 | ✓ **`LEAD-ACID-PILOT-1`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray |
 | ✓ **`LEAD-ACID-PILOT-2`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray |
-| ⚑ **`LA-SEP-RESERVE-Y13-1`** | **×3 linen separators @ chem spill peg** | **Swap on read · not on calendar** |
+| ✓ **`LEAD-ACID-PILOT-3`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray B · **`SW-STORAGE-TIE-2`** |
+| ✓ **`LEAD-ACID-PILOT-4`** | **Formation ✓ CLOSED · ~54% SOC · on bus** | Parallel chem tray B · **`SW-STORAGE-TIE-2`** |
+| ⚑ **`LA-SEP-RESERVE-Y13-1`** | **×1 linen separator @ chem spill peg** | **Swap on read · not on calendar** |
 | ✓ **`GRAIN-FERMENT-Y13-1`** | **Distilled d3926 · `SPIRIT-GRAIN-Y13-1` ~1.27 L @ ~42 %** | **Y14 scale — `BARREL-5-FERMENT` when grain surplus** |
 | ✓ **`ETHANOL-DEHYD-POC-1`** | **Phase A d3956 · kaolin calcine · ZnO bed · ethylene trace** | **⚑ Phase B — tube reactor + cold trap** |
 | ✓ **`BED-EXPANSION-SPRINT-Y13-1`** | **Stake + scratch CLOSED d3936 · ~62–66 m²** | — |
@@ -82,7 +87,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`MFGC-2-ST` table row · triplicate defer** | [plan](../plans/steel-standards-sprint-y13.md) |
 | ✓ **`EC-1-AMEND-3889`** | **Gauge table + grid rules · sample set @ `REF-SHELF-1`** | [electrical-code-1.md](../government/regulations/electrical-code-1.md) |
 | ✓ **`EC-1-GRID-FEEDER-1`** | **LIVE d3890 · wheelhouse → chem porch · `SW-CHEM-FEEDER-1`** | **`GRID-TAP-CHEM-1` · ~7.6 GB gen · ~1.58 GB bank class** |
-| ✓ **`EC-1-GRID-BUS-TIE-1`** | **LIVE d3971 · `SW-STORAGE-TIE-1` @ wheelhouse** | **Gen ↔ storage · `MOTOR-1` first named load** |
+| ✓ **`EC-1-GRID-BUS-TIE-1`** | **LIVE d3971 · `SW-STORAGE-TIE-1` · bank A** | **Gen ↔ storage · `MOTOR-1` first named load** |
+| ✓ **`EC-1-GRID-BUS-TIE-2`** | **LIVE d4009 · `SW-STORAGE-TIE-2` · bank B** | **Dual-bank float · independent isolate** |
 | **`FLAX-PULL-WILD`** | **26 Jun – 26 Jul** | ✓ **DEFER Y12 d3698** · ⚑ **shingle thread boost Y13 if F2 rain PASS** *(player d3869)* |
 | `BIRD-WATCH` · device reset | fine-seed tail | Six-day absence PASS · devices reset d3597 · field rows rooted |
 | ✓ **`ICE-HAUL-Y13`** | **Laps 1–2 ✓ d3922–3923 · vault ~128.5 kg · cap-bound · CLOSED** | **Tail ~14 Feb satisfied** |
@@ -95,28 +101,28 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`CHAR-LANE`** | **~15.1 kg** | d3975 |
+| **`CHAR-LANE`** | **~17.0 kg** | d4018 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
-| **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~49.2 kg @ kerb** | d3983 |
+| **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
 | **`WIRE-CU-GEN2-1`** | **~9 m tail @ chem peg** | d3976 |
 | ✓ **`EC-1-GRID-FEEDER-2`** | **LIVE d3976 · `GRID-TAP-CRAFT-1` ~6.7 GB gen class** | **`SW-CRAFT-FEEDER-1` default OPEN** |
 | ✓ **`FEEDER-1-INSULATE`** | **Full trunk d3979–3980** | **~22 m · ~70 g wax · ~25 g rosin** |
 | ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
 | **`CHAR-RESERVE-C`** | **~7.3 kg** | d3903 |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
-| **`TILE-TF` fired** | **×47** @ rack north | d3870 |
-| **`KAOLIN-SLIP-M26-1`** | **~16.4 kg** @ chem porch | d3956 |
+| **`TILE-TF` fired** | **×63** @ rack north | d4009 |
+| **`KAOLIN-SLIP-M26-1`** | **~21.3 kg** @ chem porch | d4008 |
 | **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~40 g reserve** @ catalyst peg | d3956 |
-| **`KAOLIN-SLIP-M26-BEST-1`** | **~0.72 kg** @ chem porch | d3943 |
-| **`FORSTERITE-GROG-1`** | **~0.70 kg** | d3943 |
+| **`KAOLIN-SLIP-M26-BEST-1`** | **~1.19 kg** @ chem porch | d4008 |
+| **`FORSTERITE-GROG-1`** | **~2.9 kg** | d3988 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
 | **`P-17-LENTIL-Y12`** | **~153 g** @ horreum pulse bay | d3854 |
 | **`OIL-Y12-1`** | **~920 ml clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d3914 |
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~23.5 kg** @ pile 5 | d3986 |
+| **`WOOD-OAK-P5`** | **~8.6 kg** @ pile 5 | d4020 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~1.09 kg** @ horreum incoming | d3940 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
@@ -124,18 +130,18 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`H-11-HEMATITE`** | **~7.0 kg @ pile 4** | d3960 |
 | **`IRON-BLOOM-1`** | **~1.18 kg GREEN @ mount** | d3960 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
-| **`ST-STR-BAR-Y13-1`** | **~21 g tail @ dry tray · yoke strap spent d3957** | d3957 |
+| **`ST-STR-BAR-Y13-1`** | **~5 g tail @ dry tray · knife blank spent d4009** | d4009 |
 | **`M-22-MAGNETITE-1`** | **~17.25 kg @ pile 4 tray** | d3903 |
 | **`MAG-STEEL-Y13-ROD-1/2`** | **×2 @ `MOTOR-1-MAG-STACK-1` · ~43–44 mm lift · soft-mounted d3957** | d3957 |
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
-| `FORSTERITE-BRICK-Y12-1` | **×0 bank** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d3776 |
+| `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d4001 |
 | **`LIME-PUTTY-1`** | **~1.13 kg** | d3843 |
-| **`QUICKLIME-1`** | **~9.45 kg** | d3914 |
-| **`CACO3-P7`** | **~14.2 kg** @ pile 7 | d3702 |
+| **`QUICKLIME-1`** | **~2.4 kg** | d4016 |
+| **`CACO3-P7`** | **~22.8 kg** @ pile 7 | d4015 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~11.4 kg** @ pile 4 · **~4 kg stage tail** | d3660 |
-| **`SAND-FILTER-1`** | **~3.45 kg** @ pile 4 apron | d3867 |
-| **`GRAVEL-1`** | **~0.35 kg** @ pile 4 south band | d3785 |
+| **`SAND-FILTER-1`** | **~12.2 kg** @ pile 4 apron | d4020 |
+| **`GRAVEL-1`** | **~trace** @ pile 4 | d4013 |
 | `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
@@ -145,7 +151,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
 | ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay · **`FMN-STD ×3 staged`** · ref **`M31-FEED-COMPOSITE-Y12-1`** | d3615 |
 | ☠ **`BRONZE-STOCK`** | **×0** — feed-nut pad spent | d3545 |
-| `NAIL-IRON` | **×4 @ cave crate** | d3892 |
+| `NAIL-IRON` | **×3 @ cave crate** | d4009 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~13 m tail** @ peg | d3868 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
 | Ice vault | **~128.5 kg hard · cap-bound** | d3923 |
@@ -197,7 +203,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | `TORR-FASTENER-STANDARD-1` | BN · WS · stud · grub PoCs live | ⚑ Batch copies when a build names a qty |
 | `PALISADE-2` | 97/97 m stage-2 shored — W toe · N gate lash · S weep · TRIB brace | Stage-3 deferred |
 | `WAGON-GARAGE-1` | Utility closed d3515 — no cosmetic lime scratch | `WAGON-GARAGE-2` later |
-| `BLOCK-Y10` | Pit **×52 submerged** · **×16 in foundation block shell** · **`FURNACE-2` forsterite ×79** | d3682 |
+| `BLOCK-Y10` | Pit **×60 submerged** · **×16 in foundation block shell** · **`FURNACE-2` forsterite ×79** | d4016 |
 | `CAVE-RECOVERY-CACHE-1` | Crate · ×8 brick @ mouth · salt · niter · jerky · ash · wire · ×18 nails · records copy | — |
 
 ## Next — Y12

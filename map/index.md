@@ -42,7 +42,7 @@ Campus sits on a **plateau, south bank of TRIB-1**. The stream leaves the **east
 
 ⚠ **The Orontes is not at the foot of camp.** TRIB-1 is the home stream — the weir, the clay bank and both water wheels are on it. Camp sits **+4 m above TRIB-1 high water**; the Orontes floodplain is the separate drop to the west.
 
-★ **Two clocks, and they do not merge.** **Domus** is inland on the plateau and is where living happens. **Fabrica** is on the water and is where production happens. **Atelier** is clean craft, mid-campus, deliberately off the fume cluster and not on the Fabrica plus.
+★ **Two clocks, and they do not merge.** **Domus** is inland on the plateau (south of TRIB-1 · **above the bank drop** — higher than the yard). **Fabrica** is on the stream bank (north edge · locally lower · further east/upstream). **Atelier** and hut v1 sit **south of the core** on the same shelf, deliberately off the fume cluster.
 
 Site lock: [HOME-SITE-LOCK-1920](../journal/retcons/HOME-SITE-LOCK-1920.md).
 

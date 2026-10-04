@@ -12,7 +12,6 @@ Things I want eventually:
 - Better generator
 - Electric lighting
 - Electric heating
-- Electric motors
 - Ball point pen
 - Synthesizer
 - Tool shed

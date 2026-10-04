@@ -132,7 +132,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×2 FIRED Q/R d3912 · Q clean · R marginal** · **P spent d3913** · **×6 GREEN S/T/U/V/W/X d3942–3943 @ sun rack** · **C–P spent** |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×8 FIRED Q–X d3988 · all clean** · **P spent d3913** · **×0 GREEN @ sun rack** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |
@@ -248,7 +248,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
 | `SW-CHEM-FEEDER-1` | Knife switch · chem porch feeder isolate | Chem porch east jamb | ✓ LIVE d3890 |
 | **`SW-CRAFT-FEEDER-1`** | Knife switch · Atelier craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
-| **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
+| **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK-Y13-1` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
+| **`SW-STORAGE-TIE-2`** | Knife switch · **`LEAD-ACID-BANK-Y13-2` ↔ gen bus isolate** | Wheelhouse post tree east | ✓ LIVE d4009 |
 | `SW-KNIFE-BLANK-1` | Knife-switch blank spare | Row SW | d3511 · **×0 @ peg — forge from strip when named** |
 
 ## Glass and forge working

@@ -6,10 +6,44 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 3986)*
+## Recent days *(append here · @ Day 4020)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4020 | [day-4020.md](days/year-011/week-575/day-4020.md) | **✓ T-1 sand haul · runway GO** | **Cal-Y13 D148 · ~17 May · W575 d2** |
+| 4019 | [day-4019.md](days/year-011/week-575/day-4019.md) | **✓ `WAGON-V2-TUNE` · wear 17** | **Cal-Y13 D147 · ~16 May · W575 d1** |
+| 4018 | [day-4018.md](days/year-011/week-574/day-4018.md) | **✓ Char retort · W574 CLOSE** | **Cal-Y13 D146 · ~15 May · W574 d7** |
+| 4017 | [day-4017.md](days/year-011/week-574/day-4017.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D145 · ~14 May · W574 d6** |
+| 4016 | [day-4016.md](days/year-011/week-574/day-4016.md) | **✓ Sand haul + `BLOCK-Y10` ×4 · pit ×60** | **Cal-Y13 D144 · ~13 May · W574 d5** |
+| 4015 | [day-4015.md](days/year-011/week-574/day-4015.md) | **✓ Kiln A lime burn load 1** | **Cal-Y13 D143 · ~12 May · W574 d4** |
+| 4014 | [day-4014.md](days/year-011/week-574/day-4014.md) | **✓ Pile-7 lime haul · runway ~28 kg** | **Cal-Y13 D142 · ~11 May · W574 d3** |
+| 4013 | [day-4013.md](days/year-011/week-574/day-4013.md) | **✓ `BLOCK-Y10` ×4 · pit ×56** | **Cal-Y13 D141 · ~10 May · W574 d2** |
+| 4012 | [day-4012.md](days/year-011/week-574/day-4012.md) | **✓ T-1 sand haul · runway GO** | **Cal-Y13 D140 · ~9 May · W574 d1** |
+| 4011 | [day-4011.md](days/year-011/week-573/day-4011.md) | **✓ Char retort · W573 CLOSE** | **Cal-Y13 D139 · ~8 May · W573 d7** |
+| 4010 | [day-4010.md](days/year-011/week-573/day-4010.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D138 · ~7 May · W573 d6** |
+| 4009 | [day-4009.md](days/year-011/week-573/day-4009.md) | **✓ Tap · TF fire · bank B tie-in LIVE** | **Cal-Y13 D137 · ~6 May · W573 d5** |
+| 4008 | [day-4008.md](days/year-011/week-573/day-4008.md) | **✓ Bank B formation CLOSED · kaolin wash** | **Cal-Y13 D136 · ~5 May · W573 d4** |
+| 4007 | [day-4007.md](days/year-011/week-573/day-4007.md) | **✓ `GP-Y8-C-LITE` ×4 pour · C-class** | **Cal-Y13 D135 · ~4 May · W573 d3** |
+| 4006 | [day-4006.md](days/year-011/week-573/day-4006.md) | **✓ Char retort · lane refill** | **Cal-Y13 D134 · ~3 May · W573 d2** |
+| 4005 | [day-4005.md](days/year-011/week-573/day-4005.md) | **✓ Wood haul · pile restored** | **Cal-Y13 D133 · ~2 May · W573 d1** |
+| 4004 | [day-4004.md](days/year-011/week-572/day-4004.md) | **✓ `KAOLIN-HAUL-M26` · W572 CLOSE** | **Cal-Y13 D132 · ~1 May · W572 d7** |
+| 4003 | [day-4003.md](days/year-011/week-572/day-4003.md) | **✓ Bank B formation #2 · TF press ×16** | **Cal-Y13 D131 · ~30 Apr · W572 d6** |
+| 4002 | [day-4002.md](days/year-011/week-572/day-4002.md) | **✓ `WAGON-V2-TUNE` · Norima wear 16** | **Cal-Y13 D130 · ~29 Apr · W572 d5** |
+| 4001 | [day-4001.md](days/year-011/week-572/day-4001.md) | **✓ Char + forsterite batch 6 fire · ×20 bank** | **Cal-Y13 D129 · ~28 Apr · W572 d4** |
+| 4000 | [day-4000.md](days/year-011/week-572/day-4000.md) | **✓ Wood haul · pile 5 restored** | **Cal-Y13 D128 · ~27 Apr · W572 d3** |
+| 3999 | [day-3999.md](days/year-011/week-572/day-3999.md) | **✓ LA bank B assemble · parallel test PASS** | **Cal-Y13 D127 · ~26 Apr · W572 d2** |
+| 3998 | [day-3998.md](days/year-011/week-572/day-3998.md) | **✓ `HIVE-3` mated · LA electrolyte ×2** | **Cal-Y13 D126 · ~25 Apr · W572 d1** |
+| 3997 | [day-3997.md](days/year-011/week-571/day-3997.md) | **✓ LA jar tap · PB plates 3/4 · W571 CLOSE** | **Cal-Y13 D125 · ~24 Apr · W571 d7** |
+| 3996 | [day-3996.md](days/year-011/week-571/day-3996.md) | **✓ Wood haul · pile 5 restored** | **Cal-Y13 D124 · ~23 Apr · W571 d6** |
+| 3995 | [day-3995.md](days/year-011/week-571/day-3995.md) | **✓ Char + ×2 glass LA jars @ anneal** | **Cal-Y13 D123 · ~22 Apr · W571 d5** |
+| 3994 | [day-3994.md](days/year-011/week-571/day-3994.md) | **✓ Pane tap · clarity ladder 873→878** | **Cal-Y13 D122 · ~21 Apr · W571 d4** |
+| 3993 | [day-3993.md](days/year-011/week-571/day-3993.md) | **✓ Kelp burn · `HIVE-3` raise ON TRACK** | **Cal-Y13 D121 · ~20 Apr · W571 d3** |
+| 3992 | [day-3992.md](days/year-011/week-571/day-3992.md) | **✓ Kelp harvest · return · porch staging** | **Cal-Y13 D120 · ~19 Apr · W571 d2** |
+| 3991 | [day-3991.md](days/year-011/week-571/day-3991.md) | **Kelp restock leg 1 · coast camp** | **Cal-Y13 D119 · ~18 Apr · W571 d1** |
+| 3990 | [day-3990.md](days/year-011/week-570/day-3990.md) | **✓ Glass prep · kelp ash refine · W570 CLOSE** | **Cal-Y13 D118 · ~17 Apr · W570 d7** |
+| 3989 | [day-3989.md](days/year-011/week-570/day-3989.md) | **✓ Wood haul · pile 5 restored** | **Cal-Y13 D117 · ~16 Apr · W570 d6** |
+| 3988 | [day-3988.md](days/year-011/week-570/day-3988.md) | **✓ Forsterite batch 6 GREEN · calcine** | **Cal-Y13 D116 · ~15 Apr · W570 d5** |
+| 3987 | [day-3987.md](days/year-011/week-570/day-3987.md) | **✓ Char retort + cruc ×6 fired · combo** | **Cal-Y13 D115 · ~14 Apr · W570 d4** |
 | 3986 | [day-3986.md](days/year-011/week-570/day-3986.md) | **Wood haul + campus pine rosin combo** | **Cal-Y13 D114 · ~13 Apr · W570 d3** |
 | 3985 | [day-3985.md](days/year-011/week-570/day-3985.md) | **✓ `FEEDER-2` wrap CLOSED · both feeders done** | **Cal-Y13 D113 · ~12 Apr · W570 d2** |
 | 3984 | [day-3984.md](days/year-011/week-570/day-3984.md) | **✓ Farm cleanup · `HIVE-3` split CLOSED** | **Cal-Y13 D112 · ~11 Apr · W570 d1** |

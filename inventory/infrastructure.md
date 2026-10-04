@@ -195,6 +195,23 @@ Map: **`WW-2` wheelhouse gen post** · Built: d3971 · **~3.5 h install + test c
 | **Gen OFF · tie ON · feeder ON** | **`GRID-TAP-CHEM-1` ~1.58 GB class @ ~54% SOC** |
 | **Tie OFF** | Bank isolated for service |
 
+### ✓ **`EC-1-GRID-BUS-TIE-2`** — gen ↔ storage bank B *(d4009)*
+Map: **`WW-2` wheelhouse post tree east · chem tray B** · Built: d4009 · **~3.5 h install + test class**
+
+**`LEAD-ACID-BANK-Y13-2` parallel + → `SW-STORAGE-TIE-2` → gen +** · **common − → frame strap** · **~2.5 m · 0.9 mm bare pair · oak cleats · not buried.**
+
+| Materials logged d4009 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~2.5 m** |
+| **`ST-STR-BAR-Y13-1` tail** | **−~16 g · `SW-KNIFE-BLANK-1` forge** |
+| **`NAIL-IRON`** | **−×1 · post cleat** |
+
+| Mode | Read |
+|---|---|
+| **Gen ON · tie-2 ON** | Bank B floats · charges from wheel |
+| **Tie-2 OFF · tie-1 ON** | Bank B isolated · Bank A on bus |
+| **Both ties ON** | **Independent float · no cross-feed** |
+
 ### ✓ **`EC-1-GRID-FEEDER-2`** — Atelier craft wing trunk *(d3976)*
 Map: **`WW-2` wheelhouse → campus path → Atelier `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class**
 

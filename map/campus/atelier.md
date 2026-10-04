@@ -1,6 +1,6 @@
 # Atelier
 
-Clean craft. **~80 m from camp**, mid-campus, on the old `W-1` pad. ★ **A separate building** — not part of the Fabrica compound *(confirmed d1921)*.
+Clean craft. **~80 m from camp**, mid-campus **S–SE of the core** on the old `W-1` pad — **south of Domus/Fabrica**, not on the stream bank. ★ **A separate building** — not part of the Fabrica compound *(confirmed d1921)*.
 
 A four-way complex around a central tower hub, built out d2072–d2264. Three of the four wings are complete; the north work wing is still a ghost.
 

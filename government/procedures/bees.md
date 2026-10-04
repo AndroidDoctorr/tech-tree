@@ -8,7 +8,7 @@
 
 | Hive | Type | State |
 |---|---|---|
-| **`HIVE-3`** | **TOP BAR** | **West pad d3984** · **queenless · brood + one charged cup · raise track** · was brood bank |
+| **`HIVE-3`** | **TOP BAR** | **West pad d3984** · **✓ QUEENRIGHT d3998** · mated queen · fresh eggs · raise arc closed |
 | **`SPARE-HIVE-1`** | **TOP BAR** | **@ HIVE-3 stand d3984** · **queen + stores · artificial swarm daughter** · foragers on site |
 | **HIVE-5** | **TOP BAR** | **HIVE-1's colony, **driven** d3243 · **LAYING d3252** · **d3599:** even pattern · stores OK · no charged cups |
 | **HIVE-6** | **TOP BAR** | A cast took the bait box d3244 · ★★ **LAYING d3262** · ✓ **KEEP HER** *(marked-comb test d3275)* · **d3599:** queenright · strong enough for full entrance |

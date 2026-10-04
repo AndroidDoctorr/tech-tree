@@ -20,7 +20,7 @@ The datum. **~12 × 8 m terrace.** Everything on campus is measured from here.
 `WW-1` and `WW-2` on the **north bank of TRIB-1** at the Fabrica. Layout, sluices and the power path: [fabrica.md](fabrica.md).
 
 ### Kiln complex — ~80 m, hut v1 terrace
-On the terrace toward TRIB-1.
+On the hut terrace · S of core · off the Fabrica fume cluster.
 
 | Kiln | Role |
 |---|---|
@@ -63,7 +63,7 @@ Competitor: night heron `A-04` — reset stakes when it works the funnel.
 
 ## Work spaces
 
-### Hut v1 — ~80 m, mid-campus toward TRIB-1
+### Hut v1 — ~80 m, mid-campus S of core
 The first building. Now a **dry store**: food, ore, lime, chemistry. Keeps its wall oven, chimney and sunken frame.
 
 ☠ **Bed removed d84. No respawn here.**

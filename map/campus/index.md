@@ -6,29 +6,45 @@ Spaces only — condition and service history are [infrastructure.md](../../inve
 
 ## Layout
 
+★ **South-bank grammar.** TRIB-1 is the **north boundary** of the precinct. Everything built sits **south of the stream** on the plateau shelf. **East = uphill** (gorge · mountains). **West = downhill** (Amuq · Orontes ~1 km). The old vertical ASCII put Atelier north toward the water — **live layout places mid-campus craft and kilns south of the core**, on the same shelf as Domus.
+
 ```
-                [Gorge E — A-03 ~850 m · pines on the climb]
-                                |
- Orontes ~1 km W ←══ TRIB-1 (N edge · gorge → W) ══ [gorge mouth]
-                                |
-                    [CAMPUS-BRIDGE · road N]
-                                |
-                [Fabrica / WW-YARD ~140 m @ T-1 fork]
-                [north pad: WW-1 · WW-2 @ TRIB-1 bank]
-                [Store-4 N · Millhouse-2 W · Chem E · hub]
-                [south court: belt · FORGE-D @ millhouse]
-                                |
-          [Atelier · old W-1]     [v1 store · kilns A/B/C ~80 m]
-                                |
-                     [CAMP 0 · DOMUS · C-0]
-                  upslope E ← · → downslope W
-                                |
-     160 m           200 m          400 m          ~1 km
-  pistachio ───── farm T-2 ───── olive P-02 ───── Orontes
-       \        Bed D · pen · hives
-        \
-         520 m NW across trib [CIRCUS]
+  [Gorge E · A-03 ~850 m · pines]                    [St Peter's ~200 m NE · north bank]
+              |                                                |
+ Orontes ←══ TRIB-1 ══════════════════════════════→ gorge mouth
+  ~1 km W    N boundary · flow E → W
+              |
+   upstream E ├─ SLUICE-2 (S2-0) ── raceway ~180 m ──→ WW-2
+              ├─ SLUICE-1 · WW-1 · weir ~200 m · clay ~90 m
+              └─ FABRICA / WW-YARD ~140 m @ T-1 fork · aqueduct HEADER
+                    [north pad: WW-1 · WW-2 · Store-4 · chem · forge court]
+              |
+         [CAMPUS-BRIDGE ~140 m · T-2 · road N]
+              |
+              ├─ CAMP 0 · piles · map stone
+              ├─ hut v1 · kilns A/B/C/D ~80 m · S of core
+              ├─ DOMUS · C-0 ~92 m · inland · terrace above bank drop
+              └─ ATELIER / Turris ~80 m · S–SE · old W-1 pad · off Fabrica plus
+              |
+              upslope E ←  plateau shelf  → downslope W
+              |
+    pistachio ~160 m ── farm T-2 SW ~200 m ── olive P-02 ~400 m W ── Orontes
+                         Beds A–D · pen · apiary · barn · farm ditch W · retting ~235 m
+              \
+               520 m NW across trib [CIRCUS]
 ```
+
+### Elevation (cross-section)
+
+| Relative height | Where | Note |
+|---|---|---|
+| **Highest** | Gorge head · SLUICE-2 (S2-0) · weir ~200 m E on T-1 | Aqueduct intake · mill head |
+| **Stream bank** | Fabrica · WW pads · SLUICE-1 | Production on the water · locally lowest on campus |
+| **Retained terrace** | Camp · Domus · TERRACE-UP bench | **Domus sits above the north drop toward TRIB-1** — **higher than Fabrica** |
+| **South shelf** | Atelier · hut v1 · kilns | Same terrace band · further from stream |
+| **SW downslope** | Farm · olive · Orontes floodplain | Lower than Domus terrace · irrigation tier |
+
+> ★ **Fabrica is not uphill from Domus.** Fabrica is **at the stream bank** (north · locally low). Domus is **inland on the retained terrace** (south · locally high). Fabrica **is** further **east** (upstream) on TRIB-1.
 
 ## Buildings
 
@@ -53,17 +69,17 @@ Everything else on campus — kilns, apiary, farm plots, pens, storage, terracin
 |---|---|---|---|---|
 | **Camp** | — | 0 | — | Piles 1–9 · store C · pits · map stone |
 | `C-0` / `SUN-CAL-1` | S of Domus | ~12 | 1 min | Courtyard · noon track |
-| **Hut v1** | Mid-campus toward TRIB-1 | 80 | 5 min | Dry store · oven · ☠ **no respawn** |
-| **Atelier** | Mid-campus, old W-1 pad | 80 | 5 min | Turris ghost east |
+| **Hut v1** | Mid-campus · S of core | 80 | 5 min | Dry store · oven · ☠ **no respawn** |
+| **Atelier** | Mid-campus · S–SE · old W-1 pad | 80 | 5 min | Turris · off Fabrica plus |
 | **Kiln complex** | Hut v1 terrace | ~80 | 5 min | Kilns A · B · C |
-| **Domus** | Plateau, inland | ~92 | 6 min | ★ **Respawn** at the west cubiculum |
+| **Domus** | Plateau · S/inland · above bank drop | ~92 | 6 min | ★ **Respawn** at the west cubiculum |
 | **Clay bank** | T-1 | 90 | 6 min | Primary brick clay |
 | **Fabrica / WW-YARD** | T-1 fork, TRIB-1 north edge | ~140 | 10 min | Plus-shape compound |
 | `CAMPUS-BRIDGE` | TRIB-1 north of campus | ~140 | — | ☠ **scour — see below** |
 | **Pine resin** | E upslope | 150 + 30 climb | 15 min | ~8 pines |
 | **Pistachio `P-01`** | T-2 | 160 | 8 min | 4 trees |
 | **Herbs `P-13`–`P-15`** | T-1 / T-2 | 180–350 | — | Mint · allium · coriander |
-| **Farm plot** | T-2 | 200 | 10 min | Beds A–D |
+| **Farm plot** | T-2 · SW downslope | 200 | 10 min | Beds A–D |
 | **Fish weir** | T-1 end | 200 | 12 min | 4–8 fish/day |
 | **Pen `P-GOAT-1`** | Bed C north | ~205 | 12 min | ~22 × 8 m |
 | `HOLDING-1` | N of pen | ~205 | 12 min | Donkeys |
@@ -76,6 +92,82 @@ Everything else on campus — kilns, apiary, farm plots, pens, storage, terracin
 | **White clay `S-01`** | NW plain | 780 | 48 min | Pottery |
 | **Goat trap `A-03`** | Gorge E | ~850 | 55 min+ | Live capture |
 | **Chert `S-02`** | Plain E | 920 | 55 min | Best knapping |
+
+## Water system
+
+Three tiers — **potable · domestic · irrigation** — never confused in the journal.
+
+### Tier 1 — Potable (drinking)
+
+| Source | Where | Use |
+|---|---|---|
+| **Weir pool** | TRIB-1 ~200 m E on T-1 | **Primary drinking water** — amphora haul |
+| **Rain** | Domus compluvium → impluvium → barrel → overflow D-1 | Supplement · not the main drink path |
+
+⚠ **Kitchen and culina taps are wash water**, not the primary drink path (filed d564). Copper spout verdigris is acceptable on rinse; stem is oak + hide washer.
+
+### Tier 2 — Domestic aqueduct (`AQUEDUCT-1`)
+
+**Gorge head → header @ WW-YARD (Fabrica hub) → branches.** Split oak trough on stakes · gravity only · no lift anywhere.
+
+```
+TRIB-1 gorge head (intake · highest · cleanest)
+        │
+        ▼  ~contour along south bank / campus shelf
+   HEADER @ WW-YARD  ←── SLUICE-1 fork also here (shared reach · separate gates)
+        │
+        ├── Forge yard tap (quench stub)
+        ├── Chem lab wing
+        ├── Domus / H-v2 culina vetus · south culina · thermae · flush · shower branches
+        ├── Hut v1 porch · barrel swell / daisy chain (W-1 class pads)
+        └── Farm road stub → pen north lip (GOAT-TROUGH-AUTO float · TROUGH-v2 @ holding)
+```
+
+| Branch | Serves |
+|---|---|
+| **Header @ Fabrica** | Distribution point · belt tree · both wheels adjacent |
+| **Domus run** | Baths · both kitchens · latrine/bidet · grease trap → D-1 |
+| **Forge / lab** | Quench · hood · bench rinse |
+| **Pen / holding** | Animal troughs on aqueduct stub — trickle + float grammar |
+
+### Tier 3 — Power water (mill races · not drinking)
+
+Separate from the domestic trough. Tail returns to TRIB-1 downstream.
+
+| Piece | Position on TRIB-1 | Feeds |
+|---|---|---|
+| **`SLUICE-2` @ S2-0** | **~18 m upstream (E)** of SLUICE-1 · wider wing box | **`SLUICE-2-RACEWAY-1`** ~180 m on south bank → **WW-2** (~7.2 m head) |
+| **`SLUICE-1` @ T-1 fork** | WW-YARD reach · bypass + gate | **WW-1** directly (~8 m fall toward weir pool E) · early aqueduct fork below gate |
+| **Tail / bypass** | West berm return | Flood bypass when gates up · scour read @ bridge |
+
+★ **Dual-wheel doctrine:** WW-1 stays blower-forge class · WW-2 takes mill · crusher · generator · kiln plenum · belt tree.
+
+### Tier 4 — Farm irrigation (not drinking)
+
+| Piece | Where | Use |
+|---|---|---|
+| **Farm ditch W** | Parallel to beds · below terrace drain | Bed soak · scare **channel/weir PASS** · **not drinking reach** |
+| **Retting pool `P-RETT-1`** | Farm ditch W ~235 m | Submerged fibre · river fill · **downstream of drink reach** (d067 rule) |
+| **Acorn leach troughs** | Pool margin | Batch fallback when ditch flow cannot be watched |
+
+### Relative positions along TRIB-1 (upstream → downstream)
+
+```
+E (gorge)                                                          W (Orontes)
+    │  gorge head ─ aqueduct intake
+    │       │
+    │  S2-0 SLUICE-2 ── raceway ──────────────→ WW-2 @ Fabrica
+    │       │
+    │  ~18 m
+    │       │
+    │  SLUICE-1 · WW-1 · HEADER · Fabrica plus
+    │       │
+    │  clay bank ~90 m
+    │       │
+    │  fish weir ~200 m
+    │       │
+    └── campus bridge ~140 m · T-2 farm road
+```
 
 ## Local trails
 
