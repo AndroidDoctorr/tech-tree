@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~9.6 kg** | Char lane | | d4118 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~7.6 kg** | Char lane | | d4144 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~5.2 kg** | Store C vault | | d4084 |
-| `WOOD-OAK-P5` | Oak, green | **~8.5 kg** @ pile 5 | Pile 5 | | d4118 |
+| `WOOD-OAK-P5` | Oak, green | **~10.3 kg** @ pile 5 | Pile 5 | | d4144 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d3896 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~10.4 kg** | Storage wing | | d3865 |
@@ -31,8 +31,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
 | `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
 | **`FLUORITE-RAW-AKKAYA-Y13-1`** | Fluorite · dressed cob · `M-29` Akkaya | **~14.2 kg** @ pile 4 tray | Pile 4 | | d4110 |
-| **`GRAVEL-1`** | Gravel aggregate | **~10.2 kg** @ pile 4 south band | Pile 4 | | d4117 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~8.7 kg** | Pile 4 apron | | d4113 |
+| **`GRAVEL-1`** | Gravel aggregate | **~20.4 kg** @ pile 4 south band | Pile 4 | | d4122 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~4.7 kg** | Pile 4 apron | | d4134 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
@@ -40,8 +40,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~4.4 kg** | Pile 7, camp north face | d3374 | d4093 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg** | Lime trough | d3390 | d4101 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~10.8 kg** | Pile 7, camp north face | d3374 | d4133 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg** | Lime trough | d3390 | d4131 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×7 @ `WW-YARD`** | Block yard | d4030 | d4030 |
 | `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |
@@ -113,10 +113,11 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~9.65 kg** | Pile 4 | | d3983 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | **~9.0 kg** | Forge staging | | d3997 |
-| `H-11-HEMATITE` | Hematite | **~41.8 kg @ pile 4** | Pile 4 | | d4118 |
+| `H-11-HEMATITE` | Hematite | **~39.0 kg @ pile 4** | Pile 4 | | d4141 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **~90 g tail @ chill tray** | Chill tray | d4061 | d4065 |
 | **`ST-SPR-STRIP-Y13-1`** | Spring steel strip · **`HEAT-Y13-013` · cert sample** | **×0 spent → leaf packs d4065** | — | d3914 | d4065 |
 | **`ST-STR-BAR-Y13-1`** | Structural steel bar · **`HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C · `ST-STR-1` cert** | **~3 g tail @ dry tray** | Dry tray | d3911 | d3976 |
+| **`MUSKET-BARREL-BLANK-Y13-1`** | Barrel blank · **`ST-STR-1` · `HEAT-Y13-017/018`** · ~780 mm × ~26 mm OD · **full bore ~780 mm @ ~17.5 mm ID** · hone defer | **~680 g @ mill cheek** | `BORING-MILL-1` cheek | d4144 | d4151 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~17.25 kg** | Pile 4 tray | d3618 | d3903 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.21 kg** *(pigment reserve)* | Chem porch | | d3931 |
@@ -209,7 +210,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~65 g @ chill tray** | Chill tray | d3500 | d3976 |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | **×29 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4101 |
+| `NAIL-IRON` | Iron nails | **×23 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4139 |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
 | `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×0 → **`WAGON-GARAGE-1` doors** | Horreum peg tray | | d3515 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | **×0** | Bench tray | | d3841 |
@@ -371,7 +372,7 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 |---|---|---|---|---|---|
 | `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~88 g flour | **~15.67 kg** | — | | d3875 |
 | `M-11-ALUM` | Alum, crude | **~1.38 kg** | — | | d3869 |
-| `M-12-NITER` | Niter crystal | **~360 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d3875 |
+| `M-12-NITER` | Niter crystal | **~515 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d4152 |
 | `BLEACH-CLEAN-Y10-1` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-1` | d3454 | d3456 |
 | `BLEACH-CLEAN-Y10-2` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-2` | d3456 | d3456 |
 | `BLEACH-CLEAN-Y10-3` | Hypochlorite bleach · dilute cleaning stock · spare | ~220 ml | `P-LAB-BLEACH-BOTTLE-5` | d3456 | d3456 |

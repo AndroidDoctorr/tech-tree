@@ -6,10 +6,44 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4118 · `year-012/`)*
+## Recent days *(append here · @ Day 4152 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4152 | [day-4152.md](days/year-012/week-594/day-4152.md) | **✓ Nitre boil Y13 · ~155 g · W594 OPEN** | **Cal-Y13 D278 · ~24 Sep · W594 d1** |
+| 4151 | [day-4151.md](days/year-012/week-593/day-4151.md) | **✓ Muzzle finish · bore CLOSED · W593 CLOSE** | **Cal-Y13 D277 · ~23 Sep · W593 d7** |
+| 4150 | [day-4150.md](days/year-012/week-593/day-4150.md) | **✓ Musket bore D2 ~720 mm** | **Cal-Y13 D276 · ~22 Sep · W593 d6** |
+| 4149 | [day-4149.md](days/year-012/week-593/day-4149.md) | **✓ Musket bore D1 ~360 mm** | **Cal-Y13 D275 · ~21 Sep · W593 d5** |
+| 4148 | [day-4148.md](days/year-012/week-593/day-4148.md) | **✓ Musket extension ~780 mm · W593 d4** | **Cal-Y13 D274 · ~20 Sep** |
+| 4147 | [day-4147.md](days/year-012/week-593/day-4147.md) | **✓ Char + nitre leach D1 · ~15 L** | **Cal-Y13 D273 · ~19 Sep · W593 d3** |
+| 4146 | [day-4146.md](days/year-012/week-593/day-4146.md) | **✓ Wood haul ~24.9 kg** | **Cal-Y13 D272 · ~18 Sep · W593 d2** |
+| 4145 | [day-4145.md](days/year-012/week-593/day-4145.md) | **✓ Acorn gather Y13 · ~9.4 kg** | **Cal-Y13 D271 · ~17 Sep · W593 d1** |
+| 4144 | [day-4144.md](days/year-012/week-592/day-4144.md) | **✓ Barrel blank rough · W592 CLOSE** | **Cal-Y13 D270 · ~16 Sep · W592 d7** |
+| 4143 | [day-4143.md](days/year-012/week-592/day-4143.md) | **✓ Barrel weld wrap D3** | **Cal-Y13 D269 · ~15 Sep · W592 d6** |
+| 4142 | [day-4142.md](days/year-012/week-592/day-4142.md) | **✓ Barrel skelp forge D2** | **Cal-Y13 D268 · ~14 Sep · W592 d5** |
+| 4141 | [day-4141.md](days/year-012/week-592/day-4141.md) | **✓ Musket barrel ST-STR heat + skelp D1** | **Cal-Y13 D267 · ~13 Sep · W592 d4** |
+| 4140 | [day-4140.md](days/year-012/week-592/day-4140.md) | **✓ Char retort · lane ~16.8 kg** | **Cal-Y13 D266 · ~12 Sep · W592 d3** |
+| 4139 | [day-4139.md](days/year-012/week-592/day-4139.md) | **✓ BLOCK-MOULD-2 · ×8 grammar** | **Cal-Y13 D265 · ~11 Sep · W592 d2** |
+| 4138 | [day-4138.md](days/year-012/week-592/day-4138.md) | **✓ Norima tune · W592 OPEN** | **Cal-Y13 D264 · ~10 Sep · W592 d1** |
+| 4137 | [day-4137.md](days/year-012/week-591/day-4137.md) | **✓ Wood haul ~32.0 kg · W591 CLOSE** | **Cal-Y13 D263 · ~9 Sep · W591 d7** |
+| 4136 | [day-4136.md](days/year-012/week-591/day-4136.md) | **✓ Wood haul ~17.4 kg** | **Cal-Y13 D262 · ~8 Sep · W591 d6** |
+| 4135 | [day-4135.md](days/year-012/week-591/day-4135.md) | **✓ P-01 primary ~4.0 kg hull-on** | **Cal-Y13 D261 · ~7 Sep · W591 d5** |
+| 4134 | [day-4134.md](days/year-012/week-591/day-4134.md) | **✓ Block ×4 · pit ×93 · hold** | **Cal-Y13 D260 · ~6 Sep · W591 d4** |
+| 4133 | [day-4133.md](days/year-012/week-591/day-4133.md) | **✓ Char retort + lime ×1** | **Cal-Y13 D259 · ~5 Sep · W591 d3** |
+| 4132 | [day-4132.md](days/year-012/week-591/day-4132.md) | **✓ Sand haul · ~11.1 kg** | **Cal-Y13 D258 · ~4 Sep · W591 d2** |
+| 4131 | [day-4131.md](days/year-012/week-591/day-4131.md) | **✓ Block ×4 · pit ×89** | **Cal-Y13 D257 · ~3 Sep · W591 d1** |
+| 4130 | [day-4130.md](days/year-012/week-590/day-4130.md) | **✓ Char retort + lime ×1 · W590 CLOSE** | **Cal-Y13 D256 · ~2 Sep · W590 d7** |
+| 4129 | [day-4129.md](days/year-012/week-590/day-4129.md) | **✓ Wood haul ~35.8 kg** | **Cal-Y13 D255 · ~1 Sep · W590 d6** |
+| 4128 | [day-4128.md](days/year-012/week-590/day-4128.md) | **✓ Kiln ×1 + block ×4 · pit ×85** | **Cal-Y13 D254 · ~31 Aug · W590 d5** |
+| 4127 | [day-4127.md](days/year-012/week-590/day-4127.md) | **✓ Sand haul · ~16.7 kg** | **Cal-Y13 D253 · ~30 Aug · W590 d4** |
+| 4126 | [day-4126.md](days/year-012/week-590/day-4126.md) | **✓ Kiln ×1 + block ×4 · pit ×81** | **Cal-Y13 D252 · ~29 Aug · W590 d3** |
+| 4125 | [day-4125.md](days/year-012/week-590/day-4125.md) | **✓ Farm scare · herd checkup** | **Cal-Y13 D251 · ~28 Aug · W590 d2** |
+| 4124 | [day-4124.md](days/year-012/week-590/day-4124.md) | **✓ Norima tune · W590 OPEN** | **Cal-Y13 D250 · ~27 Aug · W590 d1** |
+| 4123 | [day-4123.md](days/year-012/week-589/day-4123.md) | **✓ Wood haul · W589 CLOSE** | **Cal-Y13 D249 · ~26 Aug · W589 d7** |
+| 4122 | [day-4122.md](days/year-012/week-589/day-4122.md) | **✓ Sand + gravel split haul** | **Cal-Y13 D248 · ~25 Aug · W589 d6** |
+| 4121 | [day-4121.md](days/year-012/week-589/day-4121.md) | **✓ Limestone haul ~28.4 kg** | **Cal-Y13 D247 · ~24 Aug · W589 d5** |
+| 4120 | [day-4120.md](days/year-012/week-589/day-4120.md) | **✓ Char + lime ×1 · quicklime ~2.25 kg** | **Cal-Y13 D246 · ~23 Aug · W589 d4** |
+| 4119 | [day-4119.md](days/year-012/week-589/day-4119.md) | **✓ Wood haul ~23.1 kg** | **Cal-Y13 D245 · ~22 Aug · W589 d3** |
 | 4118 | [day-4118.md](days/year-012/week-589/day-4118.md) | **✓ Rebar ×2 · rack ×8** | **Cal-Y13 D244 · ~21 Aug · W589 d2** |
 | 4117 | [day-4117.md](days/year-012/week-589/day-4117.md) | **✓ Gravel haul ~10.2 kg · W589 OPEN** | **Cal-Y13 D243 · ~20 Aug · W589 d1** |
 | 4116 | [day-4116.md](days/year-012/week-588/day-4116.md) | **✓ Norima tune · wear 21 · W588 CLOSE** | **Cal-Y13 D242 · ~19 Aug · W588 d7** |

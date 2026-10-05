@@ -2,7 +2,7 @@
 
 *Player-maintained · update when you feel like quantifying progress. Not live campaign state — day files + inventory own the numbers.*
 
-**Last snapshot:** d4118 · Cal-Y13 D244
+**Last snapshot:** d4134 · Cal-Y13 D260
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Material | On hand | Notes |
 |---|---|---|
-| **Cinder blocks** | **×72** | ×65 submerged · ×7 dry stack *(×16 @ `FURNACE-2` shell excluded)* |
+| **Cinder blocks** | **×93** | ×86 submerged · ×7 dry stack *(×16 @ `FURNACE-2` shell excluded)* |
 | **Rebar** | **×8** | Production twisted @ forge rack |
 | **Glass panes** | **×28** | `GP-Y8-C-LITE` spare |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
@@ -23,8 +23,8 @@
 | **Knife switches** | **×4 live** | Installed · **`SW-KNIFE-BLANK-1` ×0** |
 | **Outlets / receptacles** | **×0** | EC-1 grammar · not tooled for house scale yet |
 | **Structural timber** | **—** | Defer until a build names cut list |
-| **Gravel** | **~10.2 kg** | Pile 4 south band |
-| **Filter sand** | **~8.7 kg** | |
+| **Gravel** | **~20.4 kg** | Pile 4 south band |
+| **Filter sand** | **~4.7 kg** | |
 | **Quicklime** | **~0.05 kg** | |
 | **Lime putty** | **~0 kg** | |
 | **Pozzolan** | **~11.4 kg** | `POZZ-TUFF-1` |
