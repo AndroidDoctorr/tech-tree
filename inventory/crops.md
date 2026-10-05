@@ -15,8 +15,7 @@ Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is
 | `HEMP-SEL-Y13` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north | d3940 | **✓ cut d4111 · stubble · ~9.4 kg @ W-1 rafter** |
 | `HEMP-GHAB-RESERVE-Y13` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d3940 | **Sown thin** · pegged **RESERVE** |
 | `FAVA-Y13` | Fava · elite + working | Bed A west · **~8 m²** | d3940 | **First breaks d3952** |
-| `BARLEY-TRIAL-Y13` | Barley trial lip | Bed A west margin · shared w/ fava foot | d3940 | **Row drill** |
-| `P-18-CHICKPEA-Y13` | Chickpea | Bed A south · **~6 m²** | d3940 | **Row drill** |
+| `P-18-CHICKPEA-Y13` | Chickpea | Bed A south · **~6 m²** | d3940 | **✓ Cut d4218 · stubble · bulk @ horreum** |
 
 ☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before seed block flowers). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 
@@ -24,10 +23,10 @@ Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y13` | Flax, field · fibre | Bed B centre · **~16 m²** | d3940 | **Dense drill · brushed** |
-| `EMMER-Y13` | Emmer | Bed B south + centre · **~10 m²** | d3940 | **Cotyledon break @ scattered patches d3950** |
-| `BARLEY-TRIAL-Y13` | Barley trial | Bed B east margin · **~2.5 m²** | d3940 | **Row drill** |
-| `P-17-LENTIL-Y13` | Lentil | Bed B north + margin · **~6 m²** | d3940 | **Cotyledon break @ row d3950** |
+| `FLAX-FIELD-Y13` | Flax, field · fibre | Bed B centre · **~16 m²** | d3940 | **✓ Pulled d4219 · `P-RETT-37` pulled d4228 · @ W-1 dry queue** |
+| `EMMER-Y13` | Emmer | Bed B south + centre · **~10 m²** | d3940 | **✓ Harvest d4216–4217 · bulk @ horreum** |
+| `BARLEY-TRIAL-Y13` | Barley trial | Bed B east margin · **~2.5 m²** | d3940 | **✓ Cut d4217 · bulk @ horreum** |
+| `P-17-LENTIL-Y13` | Lentil | Bed B north + margin · **~6 m²** | d3940 | **✓ Cut d4217 · bulk @ horreum** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
 | `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d3940 | **Staked · in crop** |
 
@@ -35,7 +34,7 @@ Y13 sow **d3940**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y13` | Emmer elite increase | Bed C south corner · **~3 m²** | d3940 | **Wide drill · RESERVE peg** |
+| `SEED-INCREASE-BLOCK-Y13` | Emmer elite increase | Bed C south corner · **~3 m²** | d3940 | **✓ Hand strip d4216 · ~196 g elite → vault** |
 | `PULSE-DISASTER-Y13` | Lentil regen · **`P-17-ELITE-Y10`** | Bed C SW · **~8 m²** | d3940 | **`SEED-REGEN-Y13` block** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
@@ -74,5 +73,6 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 | `P-RETT-34` | Flax field Y12 | — | d3852 | **✓ CLOSED d3865** — line @ crate · spin defer |
 | **`P-RETT-35`** | Wild flax Y13 lap 1 | — | d4075 | **✓ PULLED d4088 · @ W-1 dry queue** |
 | **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **@ W-1 north rafter · load defer** |
+| **`P-RETT-37`** | Flax field Y13 | — | d4219 | **✓ PULLED d4228 · @ W-1 dry queue** |
 
 **`RETT-TROUGH-FLAX-1`** empty @ ditch W · break/heckle defer.

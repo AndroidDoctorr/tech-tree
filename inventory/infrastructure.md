@@ -78,6 +78,8 @@ Twin brass tap. Cold filter branch, hot mix.
 ### `CHAR-RETORT-1` — charcoal retort
 Map: pit lane north berm, cell C · Built: d1777
 
+**`MUSKET-FIRE-CRADLE-Y13-1` @ d4224** — oak V-jaws · sand weights · muzzle → berm · **~2.4 m trigger cord** · standoff grammar per d4168.
+
 ~+15% yield over an open pit.
 
 ### `CHAR-RETORT-2` — charcoal retort
@@ -383,12 +385,17 @@ Map: `WW-YARD` west of the forge · Built: **d3291**
 ### `ACORN-LEACH-TROUGH-1`
 Map: pool margin · Built: d2689
 
-**`ACORN-LEACH-TROUGH-1` empty** · **`ACORN-ROAST-Y12-1` ~615 g @ Horreum A nut tray** *(d3787)*.
+**Empty @ d4226** — **`ACORN-LEACH-Y13-1` PASS · triple-rinse** · **`ACORN-ROAST-Y12-1` ~615 g @ Horreum A nut tray** *(prior batch · d3787)*.
 
 ### `ACORN-LEACH-TROUGH-2`
 Map: pool margin N · Built: d2718
 
-Idle. Fill test PASS.
+**Empty @ d4227** — batch 2 moved to **ditch-flow sack @ ditch W**.
+
+### `ACORN-DITCH-FLOW-SACK-1`
+Map: ditch W · below `RETT-TROUGH-FLAX-1` rinse lip · ad hoc d4227
+
+**Empty @ d4228** — **`ACORN-LEACH-Y13-2` PASS** · peg stowed.
 
 Both are the **fallback**, not the primary. Running water in the ditch leaches faster than serial still soaks ever will, because a still trough reaches equilibrium and stops working until it is changed. The troughs are for a batch that cannot be watched. See `ACORN-LEACH` in [processing.md](../government/procedures/processing.md).
 
@@ -412,7 +419,7 @@ Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
 ### `AMPHORA-6`
 Map: `OLIVE-PRESS-1` cool-step · Oil
 
-**`OIL-Y10-1` crude settling @ d3479** — repitched food-oil coat · sediment foot Y8/Y9 sealed below. Decant Dec 1–10 band.
+**Empty @ d4222** — **`OIL-Y13-1` decanted** · sediment foot **`OIL-SEDIMENT-Y13-1`** + Y12 sealed below · repitched food-oil coat · ready for next crude.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -427,12 +434,12 @@ Brackish and general. M-08 foot ring. Brackish haul staging runs through here an
 ### `AMPHORA-9`
 Map: horreum A margin ghost · Built: d2744
 
-**`GRAIN-FERMENT-Y13-1` @ d3888** — spirit lane · **~9.2 L mash · day ~8** · steady cap · breath bung · M-08 foot.
+**Empty @ d3926** — **`GRAIN-FERMENT-Y13-1` distilled · rinsed** · **harvest buffer LIVE d4202 audit** · M-08 foot.
 
 ### `BARREL-5-FERMENT`
 Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
 
-**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **empty · first load defer**.
+**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **`GRAIN-FERMENT-Y13-2` day 0 @ d4222**.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
@@ -601,7 +608,9 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-34` FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg line @ `WOOD-CRATE-6`** · spin defer · **`W-1` cleared**.
 
-**`P-RETT-35`** wild flax Y13 lap 1 **PULLED d4088** · **`FLAX-WILD-GREEN-Y13-L1` ~3.7 kg @ W-1 dry queue** · **`RETT-TROUGH-FLAX-1` empty**.
+**`P-RETT-35`** wild flax Y13 lap 1 **PULLED d4088** · **`FLAX-WILD-GREEN-Y13-L1` ~3.7 kg @ W-1 dry queue**.
+
+**`RETT-TROUGH-FLAX-1`** **empty @ d4228** · **`P-RETT-37` pulled → `W-1` dry queue** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

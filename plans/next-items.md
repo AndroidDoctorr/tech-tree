@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4125 · Cal-Y13 D251 · ~28 Aug · Week 590**.
+Live as of **d4207 · Cal-Y13 D333 · ~18 Nov · Week 601 CLOSE**.
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -93,6 +93,30 @@ Live as of **d4125 · Cal-Y13 D251 · ~28 Aug · Week 590**.
 - ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 wet days
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⧗ **`P-03-REGEN-Y12-1`** @ T-2 — **`P-03-SEL-Y9` ~13 g hold**
+
+---
+
+## ⚒ Sentanár — `MUSKET-1` stock *(player d4207)*
+
+**Plan:** [musket-sentanar-y13.md](musket-sentanar-y13.md)
+
+| Step | State |
+|---|---|
+| **Rough stock D1** | **✓ d4207** |
+| **Lock + trigger slot + barrel channel** | **✓ d4210** |
+| **Trigger link forge + fit** | **✓ d4211** |
+| **Assembly + dry proof** | **✓ d4212** |
+| **Merlot stain** | **✓ d4212** |
+| **Brass trim** | **✓ d4213** |
+| **Oil · tallow · leather butt** | **✓ d4214** |
+| **Sling · bandolier** | **✓ d4215–4216** |
+| **Live-fire prep** | **✓ d4224 · cradle · loupe · bore rod · blanks ×5** |
+| **Blank fire sequence** | **✓ MIN–MID CLOSED d4225–4227 · HIGH/RESERVE held** |
+| **Ball mould + cast** | **✓ d4228 · ×12 balls** |
+| **Ammo finish** | **✓ CLOSED d4230 · Yule hunt ~10 d** |
+| **Hat (Y14)** | **⚑ Indy / cattleman wide-brim · merlot band** |
+
+✓ **`HARVEST-BLOCK-Y13` d4218** · ✓ **field flax d4219** · ✓ **grade + shelf-life d4220–4221** — **`P-RETT-37` pull ~d4228+ · acorn leach · kid #4 fate**.
 
 ---
 

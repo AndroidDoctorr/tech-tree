@@ -6,10 +6,88 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4152 · `year-012/`)*
+## Recent days *(append here · @ Day 4230 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4230 | [day-4230.md](days/year-012/week-605/day-4230.md) | **✓ Live ball proof · ammo arc CLOSED** | **Cal-Y13 D356 · ~11 Dec · W605 d2** |
+| 4229 | [day-4229.md](days/year-012/week-605/day-4229.md) | **✓ Patch kit · powder flask · spout marks** | **Cal-Y13 D355 · ~10 Dec · W605 d1** |
+| 4228 | [day-4228.md](days/year-012/week-604/day-4228.md) | **✓ Ball mould · ×12 cast · W604 CLOSE** | **Cal-Y13 D354 · ~9 Dec · W604 d7** |
+| 4227 | [day-4227.md](days/year-012/week-604/day-4227.md) | **✓ Ditch-flow acorn · blank #3 MID CLOSE** | **Cal-Y13 D353 · ~8 Dec · W604 d6** |
+| 4226 | [day-4226.md](days/year-012/week-604/day-4226.md) | **✓ Acorn PASS · batch 2 · blank #2 LOW** | **Cal-Y13 D352 · ~7 Dec · W604 d5** |
+| 4225 | [day-4225.md](days/year-012/week-604/day-4225.md) | **✓ Sentanár blank #1 · first live fire** | **Cal-Y13 D351 · ~6 Dec · W604 d4** |
+| 4224 | [day-4224.md](days/year-012/week-604/day-4224.md) | **✓ Musket prep · cradle · loupe · blanks** | **Cal-Y13 D350 · ~5 Dec · W604 d3** |
+| 4223 | [day-4223.md](days/year-012/week-604/day-4223.md) | **✓ Acorn soak 1 · rett HOLD · audit** | **Cal-Y13 D349 · ~4 Dec · W604 d2** |
+| 4222 | [day-4222.md](days/year-012/week-604/day-4222.md) | **✓ Y13 olive decant · grain ferment day 0** | **Cal-Y13 D348 · ~3 Dec · W604 d1** |
+| 4221 | [day-4221.md](days/year-012/week-603/day-4221.md) | **✓ Shelf-life sprint CLOSE · W603 CLOSE** | **Cal-Y13 D347 · ~2 Dec · W603 d7** |
+| 4220 | [day-4220.md](days/year-012/week-603/day-4220.md) | **✓ Grain + pulse grade · bays certified** | **Cal-Y13 D346 · ~1 Dec · W603 d6** |
+| 4219 | [day-4219.md](days/year-012/week-603/day-4219.md) | **✓ Flax pull · P-RETT-37 · margin wood** | **Cal-Y13 D345 · ~30 Nov · W603 d5** |
+| 4218 | [day-4218.md](days/year-012/week-603/day-4218.md) | **✓ Chickpea · harvest block CLOSED** | **Cal-Y13 D344 · ~29 Nov · W603 d4** |
+| 4217 | [day-4217.md](days/year-012/week-603/day-4217.md) | **✓ Grain thresh · barley · lentil** | **Cal-Y13 D343 · ~28 Nov · W603 d3** |
+| 4216 | [day-4216.md](days/year-012/week-603/day-4216.md) | **✓ Bandolier · emmer cut · carry kit CLOSED** | **Cal-Y13 D342 · ~27 Nov · W603 d2** |
+| 4215 | [day-4215.md](days/year-012/week-603/day-4215.md) | **✓ Kit cut + merlot vat · sling LIVE** | **Cal-Y13 D341 · ~26 Nov · W603 d1** |
+| 4214 | [day-4214.md](days/year-012/week-602/day-4214.md) | **✓ Oil lock · leather butt · Sentanár finish** | **Cal-Y13 D340 · ~25 Nov · W602 CLOSE** |
+| 4213 | [day-4213.md](days/year-012/week-602/day-4213.md) | **✓ Brass trim · sling/bandolier/hat queued** | **Cal-Y13 D339 · ~24 Nov · W602 d6** |
+| 4212 | [day-4212.md](days/year-012/week-602/day-4212.md) | **✓ Sentanár assembled · merlot stain · dry proof PASS** | **Cal-Y13 D338 · ~23 Nov · W602 d5** |
+| 4211 | [day-4211.md](days/year-012/week-602/day-4211.md) | **✓ Trigger link forge + fit · lock function PASS** | **Cal-Y13 D337 · ~22 Nov · W602 d4** |
+| 4210 | [day-4210.md](days/year-012/week-602/day-4210.md) | **✓ YELLOW-GO · trigger + barrel inlet** | **Cal-Y13 D336 · ~21 Nov · W602 d3** |
+| 4209 | [day-4209.md](days/year-012/week-602/day-4209.md) | **✓ Wood haul ~15.6 kg** | **Cal-Y13 D335 · ~20 Nov · W602 d2** |
+| 4208 | [day-4208.md](days/year-012/week-602/day-4208.md) | **✓ Sentanár lock pocket D2 · campus walk** | **Cal-Y13 D334 · ~19 Nov · W602 d1** |
+| 4207 | [day-4207.md](days/year-012/week-601/day-4207.md) | **✓ Sentanár stock D1 · merlot/brass/butt queued** | **Cal-Y13 D333 · ~18 Nov · W601 CLOSE** |
+| 4206 | [day-4206.md](days/year-012/week-601/day-4206.md) | **✓ Pen · fence · palisade read · harvest GO** | **Cal-Y13 D332 · ~17 Nov · W601 d6** |
+| 4205 | [day-4205.md](days/year-012/week-601/day-4205.md) | **✓ Char retort · salt scrape cycle 1** | **Cal-Y13 D331 · ~16 Nov · W601 d5** |
+| 4204 | [day-4204.md](days/year-012/week-601/day-4204.md) | **✓ Wood haul ~15.6 kg** | **Cal-Y13 D330 · ~15 Nov · W601 d4** |
+| 4203 | [day-4203.md](days/year-012/week-601/day-4203.md) | **✓ Norima tune · wear 20→15** | **Cal-Y13 D329 · ~14 Nov · W601 d3** |
+| 4202 | [day-4202.md](days/year-012/week-601/day-4202.md) | **✓ Storage audit · sickle dress · Y13 labels** | **Cal-Y13 D328 · ~13 Nov · W601 d2** |
+| 4201 | [day-4201.md](days/year-012/week-601/day-4201.md) | **✓ Salt pour · grape prune** | **Cal-Y13 D327 · ~12 Nov · W601 d1** |
+| 4200 | [day-4200.md](days/year-012/week-600/day-4200.md) | **✓ Brine haul ~8.4 L · W600 CLOSE** | **Cal-Y13 D326 · ~11 Nov · W600 d7** |
+| 4199 | [day-4199.md](days/year-012/week-600/day-4199.md) | **✓ Lock assembly · function PASS** | **Cal-Y13 D325 · ~10 Nov · W600 d6** |
+| 4198 | [day-4198.md](days/year-012/week-600/day-4198.md) | **✓ Sear + bridle · mockup PASS** | **Cal-Y13 D324 · ~9 Nov · W600 d5** |
+| 4197 | [day-4197.md](days/year-012/week-600/day-4197.md) | **✓ Hammer D3 · mockup re-trial** | **Cal-Y13 D323 · ~8 Nov · W600 d4** |
+| 4196 | [day-4196.md](days/year-012/week-600/day-4196.md) | **✓ Oak mockup · lock fit trial** | **Cal-Y13 D322 · ~7 Nov · W600 d3** |
+| 4195 | [day-4195.md](days/year-012/week-600/day-4195.md) | **✓ Hammer + frizzen forge D2** | **Cal-Y13 D321 · ~6 Nov · W600 d2** |
+| 4194 | [day-4194.md](days/year-012/week-600/day-4194.md) | **✓ Lock plate mortises D3 · plate blank ✓** | **Cal-Y13 D320 · ~5 Nov · W600 d1** |
+| 4193 | [day-4193.md](days/year-012/week-599/day-4193.md) | **✓ Char retort · W599 CLOSE** | **Cal-Y13 D319 · ~4 Nov · W599 d7** |
+| 4192 | [day-4192.md](days/year-012/week-599/day-4192.md) | **✓ Wood haul ~15.6 kg** | **Cal-Y13 D318 · ~3 Nov · W599 d6** |
+| 4191 | [day-4191.md](days/year-012/week-599/day-4191.md) | **✓ Tail boil + kiln ×1** | **Cal-Y13 D317 · ~2 Nov · W599 d5** |
+| 4190 | [day-4190.md](days/year-012/week-599/day-4190.md) | **✓ Nitre tail leach · band CLOSED** | **Cal-Y13 D316 · ~1 Nov · W599 d4** |
+| 4189 | [day-4189.md](days/year-012/week-599/day-4189.md) | **✓ Lock plate profile D2** | **Cal-Y13 D315 · ~31 Oct · W599 d3** |
+| 4188 | [day-4188.md](days/year-012/week-599/day-4188.md) | **✓ Char retort · lane ~11.1 kg** | **Cal-Y13 D314 · ~30 Oct · W599 d2** |
+| 4187 | [day-4187.md](days/year-012/week-599/day-4187.md) | **✓ Wood haul ~15.6 kg** | **Cal-Y13 D313 · ~29 Oct · W599 d1** |
+| 4186 | [day-4186.md](days/year-012/week-598/day-4186.md) | **✓ ST-SPR heat · lock spring forge D1** | **Cal-Y13 D312 · ~28 Oct · W598 d7 CLOSE** |
+| 4185 | [day-4185.md](days/year-012/week-598/day-4185.md) | **✓ Char retort · lane ~10.3 kg** | **Cal-Y13 D311 · ~27 Oct · W598 d6** |
+| 4184 | [day-4184.md](days/year-012/week-598/day-4184.md) | **✓ Wood haul ~15.6 kg** | **Cal-Y13 D310 · ~26 Oct · W598 d5** |
+| 4183 | [day-4183.md](days/year-012/week-598/day-4183.md) | **✓ Lock gate · ST-STR heat · forge D1** | **Cal-Y13 D309 · ~25 Oct · W598 d4** |
+| 4182 | [day-4182.md](days/year-012/week-598/day-4182.md) | **✓ Kiln ×1 + block ×8 · pit ×125** | **Cal-Y13 D308 · ~24 Oct · W598 d3** |
+| 4181 | [day-4181.md](days/year-012/week-598/day-4181.md) | **✓ Sand haul ~16.7 kg** | **Cal-Y13 D307 · ~23 Oct · W598 d2** |
+| 4180 | [day-4180.md](days/year-012/week-598/day-4180.md) | **✓ Norima tune · wear 17 · W598 OPEN** | **Cal-Y13 D306 · ~22 Oct · W598 d1** |
+| 4179 | [day-4179.md](days/year-012/week-597/day-4179.md) | **✓ Sand haul · W597 CLOSE** | **Cal-Y13 D305 · ~21 Oct · W597 d7** |
+| 4178 | [day-4178.md](days/year-012/week-597/day-4178.md) | **✓ Wood haul ~17.5 kg** | **Cal-Y13 D304 · ~20 Oct · W597 d6** |
+| 4177 | [day-4177.md](days/year-012/week-597/day-4177.md) | **✓ Acorn tail lap ~11.6 kg** | **Cal-Y13 D303 · ~19 Oct · W597 d5** |
+| 4176 | [day-4176.md](days/year-012/week-597/day-4176.md) | **✓ Char + lime ×1** | **Cal-Y13 D302 · ~18 Oct · W597 d4** |
+| 4175 | [day-4175.md](days/year-012/week-597/day-4175.md) | **✓ Wood haul ~18.4 kg** | **Cal-Y13 D301 · ~17 Oct · W597 d3** |
+| 4174 | [day-4174.md](days/year-012/week-597/day-4174.md) | **✓ Farm · pistachio shell · hemp read** | **Cal-Y13 D300 · ~16 Oct · W597 d2** |
+| 4173 | [day-4173.md](days/year-012/week-597/day-4173.md) | **✓ Kiln ×1 + block ×8 · pit ×117** | **Cal-Y13 D299 · ~15 Oct · W597 d1** |
+| 4172 | [day-4172.md](days/year-012/week-596/day-4172.md) | **✓ Sand haul · W596 CLOSE** | **Cal-Y13 D298 · ~14 Oct · W596 d7** |
+| 4171 | [day-4171.md](days/year-012/week-596/day-4171.md) | **✓ Char + lime ×1** | **Cal-Y13 D297 · ~13 Oct · W596 d6** |
+| 4170 | [day-4170.md](days/year-012/week-596/day-4170.md) | **✓ Wood haul ~21.3 kg** | **Cal-Y13 D296 · ~12 Oct · W596 d5** |
+| 4169 | [day-4169.md](days/year-012/week-596/day-4169.md) | **✓ Limestone haul ~21.6 kg** | **Cal-Y13 D295 · ~11 Oct · W596 d4** |
+| 4168 | [day-4168.md](days/year-012/week-596/day-4168.md) | **✓ Musket barrel proof PASS** | **Cal-Y13 D294 · ~10 Oct · W596 d3** |
+| 4167 | [day-4167.md](days/year-012/week-596/day-4167.md) | **✓ Wood + char + musket hone** | **Cal-Y13 D293 · ~9 Oct · W596 d2** |
+| 4166 | [day-4166.md](days/year-012/week-596/day-4166.md) | **✓ Kiln ×1 + block ×8 · pit ×109** | **Cal-Y13 D292 · ~8 Oct · W596 d1** |
+| 4165 | [day-4165.md](days/year-012/week-595/day-4165.md) | **✓ Char + lime · W595 CLOSE** | **Cal-Y13 D291 · ~7 Oct · W595 d7** |
+| 4164 | [day-4164.md](days/year-012/week-595/day-4164.md) | **✓ Wood haul ~23.1 kg** | **Cal-Y13 D290 · ~6 Oct · W595 d6** |
+| 4163 | [day-4163.md](days/year-012/week-595/day-4163.md) | **✓ Limestone haul ~16.2 kg** | **Cal-Y13 D289 · ~5 Oct · W595 d5** |
+| 4162 | [day-4162.md](days/year-012/week-595/day-4162.md) | **✓ Goat watch · doe cleared** | **Cal-Y13 D288 · ~4 Oct · W595 d4** |
+| 4161 | [day-4161.md](days/year-012/week-595/day-4161.md) | **✓ Sand haul ~20.7 kg · lime gate** | **Cal-Y13 D287 · ~3 Oct · W595 d3** |
+| 4160 | [day-4160.md](days/year-012/week-595/day-4160.md) | **✓ Sand haul ~13.5 kg** | **Cal-Y13 D286 · ~2 Oct · W595 d2** |
+| 4159 | [day-4159.md](days/year-012/week-595/day-4159.md) | **✓ Kiln ×1 + block ×8 · pit ×101** | **Cal-Y13 D285 · ~1 Oct · W595 d1** |
+| 4158 | [day-4158.md](days/year-012/week-594/day-4158.md) | **✓ Sand haul ~19.1 kg · W594 CLOSE** | **Cal-Y13 D284 · ~30 Sep · W594 d7** |
+| 4157 | [day-4157.md](days/year-012/week-594/day-4157.md) | **✓ Norima tune · wear 20 · W594 d6** | **Cal-Y13 D283 · ~29 Sep** |
+| 4156 | [day-4156.md](days/year-012/week-594/day-4156.md) | **✓ Sand haul ~11.9 kg** | **Cal-Y13 D282 · ~28 Sep · W594 d5** |
+| 4155 | [day-4155.md](days/year-012/week-594/day-4155.md) | **✓ Char + lime · exped CLOSE** | **Cal-Y13 D281 · ~27 Sep · W594 d4** |
+| 4154 | [day-4154.md](days/year-012/week-594/day-4154.md) | **✓ Wood haul ~25.0 kg** | **Cal-Y13 D280 · ~26 Sep · W594 d3** |
+| 4153 | [day-4153.md](days/year-012/week-594/day-4153.md) | **✓ Fluorite graded · ~10.9 kg flux** | **Cal-Y13 D279 · ~25 Sep · W594 d2** |
 | 4152 | [day-4152.md](days/year-012/week-594/day-4152.md) | **✓ Nitre boil Y13 · ~155 g · W594 OPEN** | **Cal-Y13 D278 · ~24 Sep · W594 d1** |
 | 4151 | [day-4151.md](days/year-012/week-593/day-4151.md) | **✓ Muzzle finish · bore CLOSED · W593 CLOSE** | **Cal-Y13 D277 · ~23 Sep · W593 d7** |
 | 4150 | [day-4150.md](days/year-012/week-593/day-4150.md) | **✓ Musket bore D2 ~720 mm** | **Cal-Y13 D276 · ~22 Sep · W593 d6** |

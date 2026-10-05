@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4152** · Cal-Y13 D278 · ~24 Sep · **Week 594 day 1**
+> **Day 4230** · Cal-Y13 D356 · ~11 Dec · **Week 605 day 2**
 >
-> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 22**
+> **Hazard:** volatility normal · rut_tension 20 · mishap_pool **0** · **Norima wear 16**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -12,44 +12,48 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 ## Farm — Y13
 
-**✓ `SPRING-SOW-Y13` d3940 · ~62–66 m² LIVE · band ✓ CLOSED d3958 · scare-only until harvest.**
+**✓ `SPRING-SOW-Y13` d3940 · **✓ `HARVEST-BLOCK-Y13` d4218** · **✓ `MUSKET-AMMO-Y13-1` CLOSED d4230** · **✓ `P-RETT-37` pulled d4228** · **✓ acorn batches 1–2 PASS** · **`ACORN-DRY` trays · GO roast**.**
 
 | Bed | In | Sown |
 |---|---|---|
-| B centre + east | **Emmer broadcast · flax dense drill** | **d3940** |
-| B north | **Lentil row drill · gypsum strip staked** | **d3940** |
-| A south | **Chickpea row drill** | **d3940** |
+| B centre + east | **Flax pulled · emmer stubble · centre clear** | **d3940 · pull d4219** |
+| B north | **Stubble post lentil · gypsum trial tags @ thresh** | **d3940 · cut d4217** |
+| A south | **Stubble post chickpea** | **d3940 · cut d4218** |
 | C SW | **`P-17-ELITE-Y10` regen disaster block** | **d3940** |
 | A north | **Fallow post cut · stubble ~10 cm** | **d4111** |
 | A NW | **Hemp Ghab reserve · pegged** | **d3940** |
-| A west | **Fava dib · barley trial lip** | **d3940** |
+| A west | **Fava dib** | **d3940** |
 | Culina | **Coriander · rosemary · thyme · mint · parsley · allium** | **d3940** |
 
 | Perennial | State |
 |---|---|
-| `P-03` cordon | ✓ **Cluster thin d3679 + Jul touch-up d4074** · **winter tidy d3827** · renewal tied |
+| `P-03` cordon | ✓ **Cluster thin d3679 + Jul touch-up d4074** · **GRAPE-PRUNE-Y13-1 d4201** · Feb full pass optional |
 | `P-03-REGEN-Y12-1` | @ T-2 lip d3578 · `P-03-SEL-Y8` sown out · `P-03-SEL-Y9` ~13 g hold |
 | Bed D figs · madder · woad | **✓ FIG-C1–C4 pass 1 d4098** · browse trim d4100 · madder hands off |
 
-**Seed:** ✓ **`SEED-RAG-TEST-Y13` + `SEED-REGEN-Y13` d3938** · ✓ **`SPRING-SOW-Y13` d3940**. Reserves on hand: **`EMMER-ELITE-Y12` ~470 g** · **`P-18/17-ELITE-Y12` thin** · **`BARLEY-ELITE-Y12` ~29 g** · **`HEMP-SEL-Y12` ~2 g** · herb Y12 tails. **`ARK-JAR` ×4 certified empty**.
+**Seed:** ✓ **`SEED-RAG-TEST-Y13` + `SEED-REGEN-Y13` d3938** · ✓ **`SPRING-SOW-Y13` d3940** · **Y13 harvest elite @ vault *(untested)*.** Reserves on hand: **`EMMER-ELITE-Y13` ~304 g** · **`P-17/18-ELITE-Y13` ~49/54 g** · **`BARLEY-ELITE-Y13` ~41 g** · Y12 tails. **`ARK-JAR` ×4 certified empty**.
 
 ## Live bands — open only
 
 | Band | Window | State |
 |---|---|---|
 | **`HYDRO-ELEC-1`** | **⧗ spring Q ~Feb–Mar Y14** | **+3 m crest d4112 · forebay staked · stock runway · pour blocked** |
-| Exped / cart trips | **11 Mar – 27 Sep** | **OPEN · ✓ Kisecik · ✓ Kozan/Akkaya fluorite d4102–4110** |
+| Exped / cart trips | **11 Mar – 27 Sep** | **✓ CLOSED d4155 · ✓ Kisecik · ✓ Kozan/Akkaya fluorite** |
 | `VITRIOL-HEAP-1` | **~90 wet days** | **~13.6 L · next turn due** |
 | **`FIG-PICK` repeat** | **1 Aug – 15 Sep** | **Pass 1 ✓ d4098 · repeat OK** |
 | **`GRAPE-PICK` strip** | **1 Aug – 15 Oct** | **Pass 1 ✓ d4099 · partial rhythm live** |
 | **`P-RETT-36`** | **~10–14 d class** | **Hemp @ W-1 dry queue · cut d4111** |
-| **`PISTACHIO-PICK`** | **1 Sep – 15 Oct** | **✓ Primary d4135 · hull dry · shell defer** |
-| **`HEMP-SEED-STRIP` Ghab** | **~5 Sep – 10 Oct** | **Player defer d3788** |
-| **`ACORN-GATHER` batch 2** | **15 Sep – 30 Nov** | **✓ Primary d4145 · ~9.4 kg shell-on · tail laps open** |
-| **`NITRE-LEACH`** | **15 Sep – 31 Oct** | **✓ Batch 1 leach+boil d4147/4152 · ~615 g total · tail leach open** |
+| **`PISTACHIO-PICK`** | **1 Sep – 15 Oct** | **✓ Primary d4135 · ✓ shell d4174** |
+| **`HEMP-SEED-STRIP` Ghab** | **~5 Sep – 10 Oct** | **Band CLOSED · defer d3788 · import queued ~spring Y14 trip** |
+| **`ACORN-GATHER` batch 2** | **15 Sep – 30 Nov** | **✓ Primary + lap 1 · ~11.6 kg shell-on · player hold** |
+| **`NITRE-LEACH`** | **15 Sep – 31 Oct** | **✓ CLOSED d4191 · batch 1 + tail leach/boil · ~706 g total class** |
+| **`SALT-EVAP`** | **6 Nov – 26 Nov** | **Cycle 1 ✓ d4205 · player defer brine #2 · ~11 kg salt on hand** |
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
-| **Grain + pulse harvest** | **~27–29 Nov** | **Scare-only until then** |
-| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **Winter tidy ✓ · full pass optional Feb** |
+| **`P-RETT-37`** | **break/heckle defer** | **~15.6 kg @ W-1 dry queue** |
+| **`ACORN-DRY-Y13-1/2`** | **roast band** | **~660 + ~655 g @ trays · GO roast** |
+| **`GRAIN-FERMENT-Y13-2`** | **~30–40 d class** | **Day ~6 @ `BARREL-5-FERMENT` · steady cap** |
+| **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230** | **×11 balls · hunt-ready · Yule ~10 d** |
+| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y13 pass 1 d4201 · full pass optional Feb** |
 | **`FLAX-PULL-WILD` heckle** | **—** | **`P-RETT-35` pulled d4088 · break/heckle defer** |
 | **`INBREEDING-METER`** | **—** | **~13% stable · genetic import hold** |
 | **`FORSTERITE-BRICK`** | **—** | **Optional margin batches · muffle bank live** |
@@ -58,8 +62,9 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Row | Qty | Read |
 |---|---|---|
-| **`FLUORITE-RAW-AKKAYA-Y13-1`** | **~14.2 kg @ pile 4 tray** | d4110 |
-| **`CHAR-LANE`** | **~7.9 kg** | d4148 |
+| **`FLUORITE-FLUX-COARSE-Y13-1`** | **~10.9 kg @ ore bay** | d4153 |
+| **`FLUORITE-FINE-Y13-1`** | **~2.75 kg @ chem peg** | d4153 |
+| **`CHAR-LANE`** | **~13.4 kg** | d4229 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
@@ -76,16 +81,17 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`FORSTERITE-GROG-1`** | **~2.9 kg** | d3988 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
 | **`P-17-LENTIL-Y12`** | **~153 g** @ horreum pulse bay | d3854 |
+| **`OIL-Y13-1`** | **~1.05 L clear** @ glass bottles · **~240 ml @ `P-ξ-5`** | d4222 |
 | **`OIL-Y12-1`** | **~875 ml clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d4065 |
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~10.4 kg** @ pile 5 | d4147 |
+| **`WOOD-OAK-P5`** | **~3.6 kg** @ pile 5 | d4228 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **~1.09 kg** @ horreum incoming | d3940 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`H-11-HEMATITE`** | **~36.2 kg @ pile 4** | d4148 |
+| **`H-11-HEMATITE`** | **~31.0 kg @ pile 4** | d4186 |
 | **`REBAR-BAR-Y13-1…8`** | **×8 production twisted · ~3.27 kg @ forge rack** | d4118 |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
@@ -96,23 +102,23 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d4001 |
 | **`LIME-PUTTY-1`** | **~0 kg** | d4038 |
-| **`QUICKLIME-1`** | **~0.05 kg** | d4131 |
-| **`CACO3-P7`** | **~10.8 kg** @ pile 7 | d4133 |
+| **`QUICKLIME-1`** | **~4.45 kg** | d4191 |
+| **`CACO3-P7`** | **×0** @ pile 7 | d4191 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~22.3 kg** @ pile 4 · **~8 kg @ Fabrica stage** | d4101 |
-| **`SAND-FILTER-1`** | **~4.7 kg** @ pile 4 apron | d4134 |
+| **`SAND-FILTER-1`** | **~3.9 kg** @ pile 4 apron | d4182 |
 | **`GRAVEL-1`** | **~20.4 kg** @ pile 4 south band | d4122 |
-| `SALT-1` | ~9.03 kg larder · ~1.0 kg cave | d3474 |
+| `SALT-1` | ~9.91 kg larder · ~1.0 kg cave | d4205 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
-| `BRASS-STOCK` | **~69 g** @ chill tray | d3948 |
+| `BRASS-STOCK` | **~31 g** @ chill tray | d4224 |
 | `CU-BAR-Y10-1` | **~4 g tail** | d3931 |
 | `AZURITE-1` | **~0.21 kg** pigment reserve | d3931 |
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
-| ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay *(−~30 g d4141/4148)* · ref **`M31-FEED-COMPOSITE-Y12-1`** | d4148 |
+| ★ **`M31-A1-DRESS-Y12-1` / `M31-A2-DRESS-Y12-1`** | **~37 + ~17 kg** @ bay *(−~65 g d4141/4148/4183/4186)* · ref **`M31-FEED-COMPOSITE-Y12-1`** | d4186 |
 | ☠ **`BRONZE-STOCK`** | **×0** — feed-nut pad spent | d3545 |
 | `NAIL-IRON` | **×23 @ bench peg tray** | d4139 |
-| `FLAX-THREAD-SHINGLE-Y10-1` | **~13 m tail** @ peg | d3868 |
+| `FLAX-THREAD-SHINGLE-Y10-1` | **~11.8 m tail** @ peg | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
 | Ice vault | **~128.5 kg hard · cap-bound** | d3923 |
 | `SOAP-Y10-1` | ×22 bar batch, cured | d3452 |
@@ -156,10 +162,11 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | **Pipe series live · steel certs filed** | **Musket · invar refs defer** |
 | **`PALISADE-2`** | **Stage 2 shored 97/97 m** | **Stage 3 deferred** |
-| **`BLOCK-Y10` pit** | **×93 submerged · ×7 dry · ×16 @ furnace shell** | **`BLOCK-MOULD-1/2` · ×8/day grammar live** |
+| **`BLOCK-Y10` pit** | **×125 submerged · ×7 dry · ×16 @ furnace shell** | **`BLOCK-MOULD-1/2` · ×8/day grammar live** |
 | ⚑ **`TRAIL-MAINT`** | **Trips 1–3 + Kisecik closed** | **Erzin cache touch deferred** |
 | **`CAVE-RECOVERY-CACHE-1`** | **Crate @ mouth** | **Standing** |
-| ⚑ **`MUSKET-1`** | **Yule · smoothbore musketoon · full length** | **Bore ✓ ~780 mm @ ~17.5 mm ID · hone · proof next** |
+| ✓ **`MUSKET-1` · Sentanár** | **✓ live ball GOOSE d4230 · ammo arc CLOSED** | **Yule hunt ~10 d · oxbow** |
+| ◌ **`FLUORITE-FINE-Y13-1`** | **~2.75 kg chem reserve** | **HF path BLOCKED — polyethylene ware gate** |
 
 **Queue:** [next-items.md](../plans/next-items.md) · **Year shape:** [short-term-goals.md](../plans/short-term-goals.md)
 
@@ -176,6 +183,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 - **Fence masonry:** **Post-harvest horizon**
 - **Nitre bed:** **turn every ~18–21 d @ FARM-CARE · damp-not-wet · no visible bloom until warm weather — not a failure**
 - **Chlor-alkali:** **outdoor only · downwind · divided cell · carbon anode · never let H₂ and Cl₂ share a space** · undivided cell = bleach, not chlorine
+- **HF / fluorite fine:** **HF eats glass and most bench ware** · **`FLUORITE-FINE` chemistry BLOCKED until polyethylene (or better) vessels + dedicated hood grammar** · coarse flux is forge-safe
 - **Gas rig:** **purge the first draw** (line holds air between runs) · top the bath to the fill line — a low bath lets a skirt lift clear · Pb = cumulative poison, wash before eating
 - **Pb anode:** **white = sulfated (dead) · brown = formed (working)**. Low current density sulfates — stronger acid, smaller plate, or more driving voltage
 - **Electrolyte:** **never dump a cell** — electrolysis splits water, not acid. Top up water · boil down to recover if it must be broken up

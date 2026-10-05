@@ -132,7 +132,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-JOINT-SOCKET-1` | Ground joint, P2 female · cork/lute seat | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-1` | Side-arm stub, cork plug valve | Chem bench peg | Live |
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
-| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×6 FIRED V–X d3988 · all clean** · **P–U spent** · **×0 GREEN @ sun rack** · **C–P spent** |
+| `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×4 FIRED X d3988 · all clean** · **P–W spent** · **×0 GREEN @ sun rack** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |
@@ -270,6 +270,9 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `CULINA-WOOD-SPATULA-1` | Oak ~26 cm, flip lip | Culina peg board | Live |
 | `GLASS-CUP-1…4` | Tumblers ~180 ml, matched set | Culina peg band | Live |
 | `SUNGLASS-YULE-1` | Tint spectacles v1 · round brass · vine temples · side guards · **leather pads + tips** · **`TINT-RECIPE-D-Y10`** | Worn | Live · d3436 |
+| **`LOUPE-Y13-1`** | Hand loupe · **~32 mm · ~3× class** · brass hoop · cork grip · clarity disk C ground | Chem lap peg | Live · d4224 |
+| **`MUSKET-BORE-ROD-Y13-1`** | Bore rod **~760 mm** · oak · **brass mirror disk ~22 mm** · candle bore read | Craft wing peg | Live · d4224 |
+| **`MUSKET-BALL-MOULD-Y13-1`** | Split iron ball mould · **~16.5 mm cavity** · pin hinge · sprue | Craft wing peg | Live · d4228 |
 | `CULINA-GLASS-OIL-CRUET-1` | Oil cruet ~280 ml, pour lip, glass handle | Culina S peg | Live · holds Y8 oil |
 | `PORC-BOWL-1` | Porcelain bowl ~19 cm | Bench tray | Fired · kitchen-ready |
 | `PORC-BOWL-2…4` | Porcelain bowls ×3, ~19 cm | Culina peg board | Fired · kitchen-ready |

@@ -27,6 +27,10 @@ Last full audit **d3938** · **`SEED-RAG-TEST-Y13` + `SEED-REGEN-Y13`**
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| **`EMMER-ELITE-Y13`** | Emmer elite · increase block + field strip | **~304 g** | Vault jar | Y13 | **untested · d4216–4217** |
+| **`BARLEY-ELITE-Y13`** | Barley elite · Y13 trial harvest | **~41 g** | Vault | Y13 | **untested · d4217** |
+| **`P-17-ELITE-Y13`** | Lentil elite · Y13 harvest | **~49 g** | Vault | Y13 | **untested · d4217** |
+| **`P-18-ELITE-Y13`** | Chickpea elite · Y13 harvest | **~54 g** | Vault | Y13 | **untested · d4218** |
 | **`EMMER-ELITE-Y12`** | Emmer elite · Y12 harvest · **~470 g reserve hold** | **~470 g** | Vault | Y12 | **d3938 ~89%** |
 | `EMMER-ELITE-Y10` | Emmer elite · Y10 harvest · **~82 g reserve hold** | ~239 g | Vault | Y10 | **d3938 ~83%** |
 | `EMMER-ELITE-Y9` | Emmer elite · tail after increase sow | ~18 g | Vault | Y9 | **d3938 ~79%** |
@@ -103,6 +107,7 @@ Last full audit **d3938** · **`SEED-RAG-TEST-Y13` + `SEED-REGEN-Y13`**
 | **`HEMP-SEL-Y12`** | Hemp select · ★ **Ghab gen 5 · ~2 g reserve hold** | **~2 g** | SEED-VAULT · linen jar | Y12 cut d3763 | **d3938 ~87%** |
 | `HEMP-SEL-Y10` | Hemp select · ★ **Ghab line · ~4 g reserve hold** | **~4 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d3938 ~84%** |
 | `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` genetics reserve · ~6 g hold** | **~6 g** | SEED-VAULT · linen jar | d3413 gather | **d3938 ~79%** |
+| **`P-07-ELITE-Y13`** | Flax elite · Y13 field pull | **~11 g** | Vault | Y13 | **untested · d4219** |
 | **`P-07-ELITE-Y12`** | Flax elite · Y12 field pull · **~3 g reserve hold** | **~3 g** | Vault | Y12 | **d3938 ~90%** |
 | `P-07-ELITE-Y10` | Flax elite · **~8 g reserve hold** | ~8 g | Vault | Y10 | **d3938 ~77%** |
 
