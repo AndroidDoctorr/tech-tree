@@ -6,10 +6,35 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4257 · `year-012/`)*
+## Recent days *(append here · @ Day 4282 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4282 | [day-4282.md](days/year-012/week-612/day-4282.md) | **✓ Rebar forge · ×2 bars** | **Cal-Y14 D42 · ~1 Feb · W612 d5** |
+| 4281 | [day-4281.md](days/year-012/week-612/day-4281.md) | **✓ Char retort** | **Cal-Y14 D41 · ~31 Jan · W612 d4** |
+| 4280 | [day-4280.md](days/year-012/week-612/day-4280.md) | **✓ Wood haul** | **Cal-Y14 D40 · ~30 Jan · W612 d3** |
+| 4279 | [day-4279.md](days/year-012/week-612/day-4279.md) | **✓ Retort · kiln · block ×8** | **Cal-Y14 D39 · ~29 Jan · W612 d2** |
+| 4278 | [day-4278.md](days/year-012/week-612/day-4278.md) | **✓ Limestone haul** | **Cal-Y14 D38 · ~28 Jan · W612 d1** |
+| 4277 | [day-4277.md](days/year-012/week-611/day-4277.md) | **✓ Wood haul · W611 CLOSE** | **Cal-Y14 D37 · ~27 Jan · W611 d7** |
+| 4276 | [day-4276.md](days/year-012/week-611/day-4276.md) | **✓ Norima tune · wear 12** | **Cal-Y14 D36 · ~26 Jan · W611 d6** |
+| 4275 | [day-4275.md](days/year-012/week-611/day-4275.md) | **✓ Wood haul** | **Cal-Y14 D35 · ~25 Jan · W611 d5** |
+| 4274 | [day-4274.md](days/year-012/week-611/day-4274.md) | **✓ Retort · kiln · block ×8** | **Cal-Y14 D34 · ~24 Jan · W611 d4** |
+| 4273 | [day-4273.md](days/year-012/week-611/day-4273.md) | **✓ Kiln · block ×8** | **Cal-Y14 D33 · ~23 Jan · W611 d3** |
+| 4272 | [day-4272.md](days/year-012/week-611/day-4272.md) | **✓ Kiln · block ×8** | **Cal-Y14 D32 · ~22 Jan · W611 d2** |
+| 4271 | [day-4271.md](days/year-012/week-611/day-4271.md) | **✓ Wood haul** | **Cal-Y14 D31 · ~21 Jan · W611 d1** |
+| 4270 | [day-4270.md](days/year-012/week-610/day-4270.md) | **✓ Goat registry · char retort · W610 CLOSE** | **Cal-Y14 D30 · ~20 Jan · W610 d7** |
+| 4269 | [day-4269.md](days/year-012/week-610/day-4269.md) | **✓ Goat pen improve phase 1** | **Cal-Y14 D29 · ~19 Jan · W610 d6** |
+| 4268 | [day-4268.md](days/year-012/week-610/day-4268.md) | **✓ Limestone stub lap** | **Cal-Y14 D28 · ~18 Jan · W610 d5** |
+| 4267 | [day-4267.md](days/year-012/week-610/day-4267.md) | **✓ Wood haul** | **Cal-Y14 D27 · ~17 Jan · W610 d4** |
+| 4266 | [day-4266.md](days/year-012/week-610/day-4266.md) | **✓ Char retort · lime burn** | **Cal-Y14 D26 · ~16 Jan · W610 d3** |
+| 4265 | [day-4265.md](days/year-012/week-610/day-4265.md) | **✓ Sand four-lap** | **Cal-Y14 D25 · ~15 Jan · W610 d2** |
+| 4264 | [day-4264.md](days/year-012/week-610/day-4264.md) | **✓ Wood haul** | **Cal-Y14 D24 · ~14 Jan · W610 d1** |
+| 4263 | [day-4263.md](days/year-012/week-609/day-4263.md) | **✓ Retort · kiln · block ×8 · W609 CLOSE** | **Cal-Y14 D23 · ~13 Jan · W609 d7** |
+| 4262 | [day-4262.md](days/year-012/week-609/day-4262.md) | **✓ Char retort · lime burn** | **Cal-Y14 D22 · ~12 Jan · W609 d6** |
+| 4261 | [day-4261.md](days/year-012/week-609/day-4261.md) | **✓ Sand four-lap** | **Cal-Y14 D21 · ~11 Jan · W609 d5** |
+| 4260 | [day-4260.md](days/year-012/week-609/day-4260.md) | **✓ Wood haul 2** | **Cal-Y14 D20 · ~10 Jan · W609 d4** |
+| 4259 | [day-4259.md](days/year-012/week-609/day-4259.md) | **✓ Wood haul 1** | **Cal-Y14 D19 · ~9 Jan · W609 d3** |
+| 4258 | [day-4258.md](days/year-012/week-609/day-4258.md) | **✓ Lime · block ×8 · pit ×157** | **Cal-Y14 D18 · ~8 Jan · W609 d2** |
 | 4257 | [day-4257.md](days/year-012/week-609/day-4257.md) | **✓ Distill Y13-2 · spirit ~2.95 L** | **Cal-Y14 D17 · ~7 Jan · W609 d1** |
 | 4256 | [day-4256.md](days/year-012/week-608/day-4256.md) | **✓ Lime · block ×8 · W608 CLOSE** | **Cal-Y14 D16 · ~6 Jan · W608 d7** |
 | 4254 | [day-4254.md](days/year-012/week-608/day-4254.md) | **✓ Norima tune · wear 13** | **Cal-Y14 D14 · ~4 Jan · W608 d5** |

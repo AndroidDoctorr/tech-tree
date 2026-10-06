@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4257** · Cal-Y14 D17 · ~7 Jan Y14 · **Week 609 day 1**
+> **Day 4282** · Cal-Y14 D42 · ~1 Feb Y14 · **Week 612 day 5**
 >
-> **Cal-Y14 d4258 opens** · **Hazard:** volatility normal · **Norima wear 14**
+> **Cal-Y14 d4283 opens** · **Hazard:** volatility normal · **Norima wear 13**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -64,7 +64,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 |---|---|---|
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | **~10.9 kg @ ore bay** | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | **~2.75 kg @ chem peg** | d4153 |
-| **`CHAR-LANE`** | **~5.9 kg** | d4257 |
+| **`CHAR-LANE`** | **~7.2 kg** | d4282 |
+| **`CHAR-RESERVE-C`** | **~0.8 kg** | d4258 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
@@ -72,7 +73,6 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`EC-1-GRID-FEEDER-2`** | **LIVE d3976 · `GRID-TAP-CRAFT-1` ~6.7 GB gen class** | **`SW-CRAFT-FEEDER-1` default OPEN** |
 | ✓ **`FEEDER-1-INSULATE`** | **Full trunk d3979–3980** | **~22 m · ~70 g wax · ~25 g rosin** |
 | ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
-| **`CHAR-RESERVE-C`** | **~5.2 kg** | d4084 |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×63** @ rack north | d4009 |
 | **`KAOLIN-SLIP-M26-1`** | **~21.3 kg** @ chem porch | d4008 |
@@ -86,13 +86,14 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~10.6 kg** @ pile 5 | d4257 |
+| **`WOOD-OAK-P5`** | **~14.2 kg** @ pile 5 | d4282 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
-| **`EMMER-BULK-Y12`** | **~0.58 kg** @ horreum incoming | d4257 |
+| **`EMMER-BULK-Y12`** | **×0** @ horreum incoming | d4280 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
-| **`H-11-HEMATITE`** | **~31.0 kg @ pile 4** | d4186 |
-| **`REBAR-BAR-Y13-1…8`** | **×8 production twisted · ~3.27 kg @ forge rack** | d4118 |
+| **`H-11-HEMATITE`** | **~27.8 kg @ pile 4** | d4282 |
+| **`REBAR-BAR-Y13-1…10`** | **×10 production twisted · ~4.09 kg @ forge rack** | d4282 |
+| **`IRON-BLOOM-1`** | **~220 g tail @ mount** | d4282 |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
@@ -102,13 +103,13 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d4001 |
 | **`LIME-PUTTY-1`** | **~0 kg** | d4038 |
-| **`QUICKLIME-1`** | **~0.05 kg tail** | d4256 |
-| **`CACO3-P7`** | **~8.4 kg** @ pile 7 | d4256 |
+| **`QUICKLIME-1`** | **~0.05 kg tail** | d4273 |
+| **`CACO3-P7`** | **~12.8 kg** @ pile 7 | d4279 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~22.3 kg** @ pile 4 · **~8 kg @ Fabrica stage** | d4101 |
-| **`SAND-FILTER-1`** | **~19.8 kg** @ pile 4 apron | d4257 |
+| **`SAND-FILTER-1`** | **~20.4 kg** @ pile 4 apron | d4282 |
 | **`GRAVEL-1`** | **~20.4 kg** @ pile 4 south band | d4122 |
-| `SALT-1` | ~9.91 kg larder · ~1.0 kg cave | d4205 |
+| `SALT-1` | ~9.89 kg larder · ~1.0 kg cave | d4269 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
 | `BRASS-STOCK` | **~31 g** @ chill tray | d4224 |
@@ -125,7 +126,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 ## Animals
 
-**Goats ×4** — doe freshened d3978 · **kid #4 CLEAR d4241** · **Wether #3** · billie west tie. **Donkeys** — Mabel + Humphrey **GO** · Silas home. ⚑ **`GOAT-PEN-IMPROVE-Y14`** — bedding · browse variety · nutrition.
+**Goats ×4** — **G-01…G-04** · registry [goats.md](government/procedures/goats.md) · **2nd doe G-05 KEEP · capture spring Y14**. **Donkeys** — Mabel + Humphrey **GO** · Silas home. ✓ **`GOAT-PEN-IMPROVE-Y14` phase 1 d4269**. ⚑ **G-04 wean scorecard · G-05 capture**.
 
 Bee state lives in [bees.md](government/procedures/bees.md), not here.
 
@@ -162,7 +163,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | **Pipe series live · steel certs filed** | **Musket · invar refs defer** |
 | **`PALISADE-2`** | **Stage 2 shored 97/97 m** | **Stage 3 deferred** |
-| **`BLOCK-Y10` pit** | **×149 submerged · ×7 dry @ yard · ×16 @ furnace shell** | **`BLOCK-MOULD-1/2` · ×8/day grammar live** |
+| **`BLOCK-Y10` pit** | **×197 submerged · ×7 dry @ yard · ×16 @ furnace shell** | **`BLOCK-MOULD-1/2` · ×8/day grammar live** |
 | ⚑ **`TRAIL-MAINT`** | **Trips 1–3 + Kisecik closed** | **Erzin cache touch deferred** |
 | **`CAVE-RECOVERY-CACHE-1`** | **Crate @ mouth** | **Standing** |
 | ✓ **`MUSKET-1` · Sentanár** | **✓ Yule greylag d4240 @ oxbow · ammo bank d4237** | **Field ×7 · shoulder hold ~5–6 cm high-right** |
@@ -173,7 +174,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 ## Standing doctrine
 
 - **HERD-DOCTRINE-Y10 @ d3193** — keep herd for **milk · manure · schedule** · capture ×1–2 wild does before F2 · **✓ wether #3 ~d3248** · **nitre bed** is the chemistry payoff of penning
-- **GOAT-HERD-CAP @ d3979** — **✓ 2nd doe GO @ d4231** *(player)* · **1 milk doe + 1 billie today · second doe via capture/pen when named** · **kid #4 nursing · weaning or slaughter still open** *(no off-campus trade — solo herd)* · **no rebred until kid #4 fate + pen/capture gate** · **✓ wether #3 ~d3248**
+- **GOAT-HERD @ d4270** — **2–3 milk does · 1 billie · small herd** · **keep healthiest/adjusted · slaughter males/age/cull** · **✓ 2nd doe KEEP (G-05) · capture spring Y14** · **humane kill `HOLDING-1`** · **no names — IDs in [goats.md](government/procedures/goats.md)** · **genetic import occasionally** · **no rebred until G-04 wean gate clear**
 - **SPOILAGE-FIRST @ d3205** — **the daily plate is always drawn from whatever is nearest the turn.** Assume it in daily consumption without being asked · **fresh cheese · milk · soft fruit · cut meat before stores** · flag inline when a short-window stock is entering its last day
 - **PROCESS-FOR-SHELF @ d3685** — **when raw food can become something that keeps longer the same day or the next, do that before opening long stores.** Spoilage-first picks *what to eat*; this picks *what to convert* (parched · dry · brine · jerky · cheese · leach · jar). **Do not let short-window stock sit raw while a one-step preserve is obvious.**
 

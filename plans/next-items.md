@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4207 · Cal-Y13 D333 · ~18 Nov · Week 601 CLOSE**.
+Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -22,18 +22,15 @@ Live as of **d4207 · Cal-Y13 D333 · ~18 Nov · Week 601 CLOSE**.
 | Signal | State |
 |---|---|
 | **`HYDRO-ELEC-1`** | **Stock runway · spring Q ~Feb–Mar Y14 · pour blocked until both** |
-| **Exped / cart trips** | **OPEN to 27 Sep** · ✓ Kisecik · ✓ Kozan/Akkaya fluorite d4102–4110 |
-| **`HEMP-CUT` / rett** | **✓ cut d4111 · `P-RETT-36` @ W-1 dry queue** |
-| **`FIG-PICK` · `GRAPE-PICK`** | **Pass 1 ✓ · repeat / partial strip OK in band** |
-| **`ACORN-GATHER`** | batch 1 ✓ · **batch 2 defer player d3788** |
-| **Ghab wild seed** | **defer player d3788** · band ~5 Sep – 10 Oct |
-| **Standing grain harvest** | **Late Nov** (`EMMER` · pulse) — scare-only until then |
-| **`GRAPE-PRUNE`** | **1 Nov – 28 Feb** — winter tidy ✓ · full spur pass optional Feb |
-| **Goat rut** | **Sep–Dec · ✓ wether #3 since ~d3248** |
+| **Exped / cart trips** | **✓ Y13 window closed d4155** · **Y14 opens 11 Mar – 27 Sep** |
+| **`BLOCK-Y10` pit** | **×197 submerged · ×7 dry @ yard** | **×204 in pipeline · lift @ 90 d** |
+| **`QUICKLIME-1`** | **~4.45 kg** | **Half-batch — knap + kiln before ×8** |
+| **`CACO3-P7`** | **~0.4 kg** | **Limestone haul before next burn** |
+| **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** |
+| **`VITRIOL-HEAP-1`** | **Turn ✓ d4238 · liquor ~13.4 L · next turn ~Mar class** |
+| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** — ✓ pass 1 d4201 · full pass optional Feb |
+| **Goat kid #4** | **CLEAR d4241 · weaning/slaughter still open** |
 | **`mishap_pool`** | **0** |
-| **`VITRIOL-HEAP-1`** | **~13.6 L · next turn ~90 wet days** |
-
-⚠ **Collision points:** acorn *(15 Sep – 30 Nov)* vs grain harvest · Ghab seed vs exped close · grape prune vs winter build.
 
 ---
 
@@ -53,82 +50,67 @@ Live as of **d4207 · Cal-Y13 D333 · ~18 Nov · Week 601 CLOSE**.
 | **Spring high-flow Q confirm** | **⧗ ~Feb–Mar Y14** — **hard gate before pour** |
 | **Cut · fill · pour** | **Blocked** on stock + spring Q |
 
-### Stock gap *(d4112 takeoff vs on hand)*
+### Stock gap *(d4256 ledger vs on hand)*
 
 | Material | Have | Need (est.) | Next hero |
 |---|---|---|---|
-| **Cinder blocks** | **~72 usable** | **~200–350** | **Block pit loop** |
+| **Cinder blocks** | **×204 in pipeline** *(×7 ready · ×197 curing)* | **~200–350 pour-grade** | **Surplus band live · lift @ 90 d** |
 | **Rebar** | **×8** | **×12–20** | **One more forge run** *(d4118 rhythm live)* |
-| **Quicklime / putty** | **~0.05 kg / ~0 kg** | **~80–120 kg slaked class** | **☠ Lime burn/slake** |
-| **Filter sand** | **~8.7 kg** | **~80–150 kg** | **More haul laps** *(d4113 grammar)* |
-| **Gravel** | **~10.2 kg** | **~400–800 kg** | **More haul laps** *(d4117 grammar)* |
-| **Wood** | **~8.5 kg** | — | **Wood haul** — char + daily both pressure pile 5 |
+| **Quicklime / putty** | **~4.45 kg / ~0 kg** | **~80–120 kg slaked class** | **Block day — knap + kiln top-up for ×8** |
+| **Filter sand** | **~20.4 kg** | **~80–150 kg** | **×8 GO · haul for surplus** |
+| **Gravel** | **~20.4 kg** | **~400–800 kg** | **More haul laps** *(d4117 grammar)* |
+| **Limestone** | **~14.6 kg** | — | **Several kiln burns banked** |
+| **Wood** | **~14.2 kg** | — | **Retort runway OK** |
+| **Norima wear** | **13** | — | **✓ tuned d4276** |
+| **`CHAR-LANE`** | **~7.2 kg** | — | **Retort before heavy forge/kiln** |
+| **`REBAR-BAR-Y13`** | **×10 @ rack** | **×12–20 est.** | **×2 forged d4282** |
+| **`CACO3-P7`** | **~12.8 kg** | — | **Kiln runway OK** |
 
-**Recommended order:** lime → blocks → gravel/sand laps → rebar tail → outlet drawing on a slate day.
+**Recommended order:** lime + block loop (parallel) → gravel/sand laps → rebar tail → outlet drawing on a slate day.
 
 ---
 
-## Farm — scare-only until harvest
+## Farm — winter pass
 
-| Band | Window | State |
-|---|---|---|
-| **`P-RETT-36`** | **~10–14 d class** | **@ W-1 dry queue · pull when snap reads GO** |
-| **`FIG-PICK` repeat** | **to 15 Sep** | **Pass 1 ✓ d4098 · OK same band** |
-| **`GRAPE-PICK` strip** | **to 15 Oct** | **Pass 1 ✓ d4099 · partial rhythm live** |
-| **`PISTACHIO-PICK`** | **to 15 Oct** | **Primary ✓ · hull dry · shell defer** |
-| **`ACORN-GATHER` batch 2** | **15 Sep – 30 Nov** | **Player defer d3788** |
-| **`HEMP-SEED-STRIP` Ghab** | **~5 Sep – 10 Oct** | **Player defer d3788** |
-| **`NITRE-LEACH`** | **15 Sep – 31 Oct** | **Opens with band · bed turn @ FARM-CARE** |
-| **Grain + pulse harvest** | **~27–29 Nov** | **Not yet — beds live** |
+| Item | State |
+|---|---|
+| **`GRAPE-PRUNE` full spur** | **Optional Feb pass** — pass 1 ✓ d4201 |
+| **`GOAT-REGISTRY-Y14`** | **✓ d4270** — [goats.md](../government/procedures/goats.md) |
+| **`G-05` 2nd doe capture** | **KEEP locked · spring Y14 exped** |
+| **G-04 wean scorecard** | **~8 wk band · keep / cull / wether queue** |
+| **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** — next when band warms |
 
 ---
 
 ## ⧗ ⟳ Running — started, needs no day
 
-- ⧗ **`P-RETT-36`** @ W-1 — rett clock
+- ⧗ **`BLOCK-Y10` pit** — **×197 submerged · ×7 dry · ×204 pipeline** · 90-day lift grammar @ d4030
 - ⧗ **`ORE-BAY-1` catch pot** — daily read
 - ⧗ **`CU-CELL`** — two looks a day
-- ⧗ **Pit blocks** — **×77 submerged · ×7 dry** · **`QUICKLIME-1` ~0.05 kg**
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read · ~54% SOC
-- ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 wet days
+- ⧗ **`VITRIOL-HEAP-1`** — next turn ~Mar class
+- ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
-- ⧗ **`P-03-REGEN-Y12-1`** @ T-2 — **`P-03-SEL-Y9` ~13 g hold**
 
 ---
 
-## ⚒ Sentanár — `MUSKET-1` stock *(player d4207)*
+## ✓ Sentanár — `MUSKET-1` *(closed d4230/4240)*
 
-**Plan:** [musket-sentanar-y13.md](musket-sentanar-y13.md)
+**Plan:** [musket-sentanar-y13.md](musket-sentanar-y13.md) — **ammo arc ✓ · Yule hunt ✓ d4240**
 
-| Step | State |
+| Open tail | State |
 |---|---|
-| **Rough stock D1** | **✓ d4207** |
-| **Lock + trigger slot + barrel channel** | **✓ d4210** |
-| **Trigger link forge + fit** | **✓ d4211** |
-| **Assembly + dry proof** | **✓ d4212** |
-| **Merlot stain** | **✓ d4212** |
-| **Brass trim** | **✓ d4213** |
-| **Oil · tallow · leather butt** | **✓ d4214** |
-| **Sling · bandolier** | **✓ d4215–4216** |
-| **Live-fire prep** | **✓ d4224 · cradle · loupe · bore rod · blanks ×5** |
-| **Blank fire sequence** | **✓ MIN–MID CLOSED d4225–4227 · HIGH/RESERVE held** |
-| **Ball mould + cast** | **✓ d4228 · ×12 balls** |
-| **Ammo finish** | **✓ CLOSED d4230 · Yule hunt ~10 d** |
 | **Hat (Y14)** | **⚑ Indy / cattleman wide-brim · merlot band** |
-
-✓ **`HARVEST-BLOCK-Y13` d4218** · ✓ **field flax d4219** · ✓ **grade + shelf-life d4220–4221** — **`P-RETT-37` pull ~d4228+ · acorn leach · kid #4 fate**.
 
 ---
 
 ## ⚒ Campus queue *(when hydro stock builds or player names)*
 
-- ⚒ **Lime burn/slake** — **hard gate** for any forebay mortar
-- ⚒ **Block pit loop** — biggest volume shortfall for dam faces
+- ⚒ **Lime burn + block pit loop** — **hard gate** for forebay mortar · **×8/day grammar live**
 - ⚒ **Gravel + sand haul laps** — recurring · low hero · high cumulative kg
 - ⚒ **Rebar production** — ×8 @ rack · one run closes forebay spec
-- ⚒ **Wood haul** — pile 5 runway thin
-- ⚒ **Wild flax break/heckle** — `P-RETT-35` pulled d4088 · defer until named
-- ⚒ **Acorn batch 2** — player defer · band open to 30 Nov
+- ⚒ **Char retort** — lane ~11.8 kg · kiln before next ×8 needs burn
+- ⚒ **`BULB-POC-Y14-1`** — envelope · rough vac · filament ladder · pinch seal *(see below)*
 - ⚒ **Optional forsterite margin batches** — ×62 @ muffle shell · bank ×0 green
 - ⚒ **`ORONTES-BEDROCK-PROBE-1`** — iron rod + slide hammer · gravel pier struck
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
@@ -138,14 +120,27 @@ Live as of **d4207 · Cal-Y13 D333 · ~18 Nov · Week 601 CLOSE**.
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
 - ⚑ **`TRANSFORMER / AC`** — [wishlist.md](wishlist.md)
 
+### `BULB-POC-Y14-1` — suggested ladder *(player d4257)*
+
+| Step | What | Gate |
+|---|---|---|
+| **1 · Envelope** | **`THERMOMETER-BULB` grammar** — ~8 mm soda-glass bulb + pinch stem on marver | Hood · cullet OK |
+| **2 · Rough vac** | **`AIR-PUMP-2` inlet** on corked trial bulb — candle-flame test @ outlet | Partial vac only |
+| **3 · Filament bench** | **Carbonized flax / charcoal fibre · `CU-WIRE` 0.3–0.9 mm · iron tail** — hot resistance + snap @ bench, outside bulb | Lead-acid bench supply |
+| **4 · Pinch seal** | **Feather-edged copper** in soda glass — no platinum route · short lead stubs | Practice on scrap stems first |
+| **5 · Hg fall pump** | **Glass trap + column** — cinnabar/Hg in hand · hours–days for better vac | Hood · ☠ isolated |
+| **6 · Integrate** | Filament through seal · evacuate · tip-off or exhaust pinch | Only after 3–4 PASS |
+
+> ★ **Rough vac is enough for first glow.** Lamp-blackout vacuum is the mercury-pump arc — not a prerequisite for learning filament and seal grammar.
+
 ---
 
 ## ⚑ Expedition residue
 
 - ✓ **Y13 window used** — Kisecik vitriol d3982–3983 · Kozan/Akkaya fluorite d4102–4110
-- ⚑ **Remaining window to 27 Sep** — only if another lap is worth it
+- **Y14 window 11 Mar – 27 Sep** — genetic import · optional chromite lap
 - ⚑ **`M-24` Islahiye / chromite** — ~1600 °C reduce · bench trial OK · furnace-gated
-- ⚑ **Apiary genetic import** — **`BAIT-BOX` stowed** · next spring band if still wanted
+- ⚑ **Apiary genetic import** — **`BAIT-BOX` stowed** · spring band
 - ⚑ **Erzin cache touch** — trail arc residue · deferred
 
 ---

@@ -32,24 +32,11 @@ Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal t
 
 ## Goats
 
-`P-GOAT-1` · pen at Bed C north · `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m · billie tie west
+★ **Live roster · lineage · rut/slaughter gates:** [goats.md](../government/procedures/goats.md) *(opened d4270)*.
 
-| # | Who | State |
-|---|---|---|
-| 1 | Doe | **Freshened d3978 · colostrum → milk · kid #4 nursing** |
-| 2 | Billie | West rail |
-| 3 | Wether *(ex-buckling)* | ★ **Horns kept** · **~14 mo** · **✓ castrated ~d3248 @ weaning** · [retcon](../journal/retcons/GOAT-WETHER-3-Y10.md) |
-| 4 | Doeling kid | **Born d3978 · ~2.7 kg · strong latch · `GOAT-KIDDING-STALL-1`** |
+**×4 on campus** · **G-05 slot reserved** for 2nd doe *(capture spring Y14)* · target **2–3 milk does**.
 
-**Herd plan @ d4231:** player **GO** on **second milk doe** — wild capture or pen expansion when named · kid #4 still nursing · rebred hold unchanged · *off-campus trade N/A (solo run)*.
-
-Milk goes to `GOAT-MILK-CROCK` — ~0.20 L held at the ice vault niche. Cheese and ricotta now run **together** as one routine rather than as separate jobs.
-
-Daily care is `MILK-GOAT` and `STOCK-WATER` in [daily.md](../checklists/daily.md). The daily look at each animal is how illness gets caught early, which is why it is a daily row rather than a periodic one.
-
-⚠ **Sep–Dec, shared pen** triggers `GOAT-RUT-BREED`; quarterly triggers `GOAT-ILLNESS-PASS`. Both in [hazards.md](../hazards.md).
-
-Browse at home reads **~10 days** as of d3483 — `HOLDING-WALK`. That is the number that decides whether the team eats off the campus or off a haul.
+Milk → `GOAT-MILK-CROCK` · ice vault niche. Daily `MILK-GOAT` in [daily.md](../checklists/daily.md).
 
 ## Bees
 
