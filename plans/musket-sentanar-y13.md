@@ -75,8 +75,17 @@ Order follows **Norima / desk doctrine** *(d3101)*: **stain → brass → oil �
 | **`MUSKET-PATCH-KIT-Y13-1`** | **✓ d4229 · ×15 greased linen · grease tin** |
 | **`MUSKET-POWDER-FLASK-Y13-1`** | **✓ d4229 · GOOSE ~13 g · DEER ~20 g · ~72 g remain** |
 | **Live ball proof GOOSE** | **✓ d4230 · full chain @ berm · clean** |
-| **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230** |
-| **Next** | **Yule hunt · oxbow · shoulder when named** |
+| **Live ball proof #2 GOOSE** | **✓ d4234 · `MUSKET-BERM-TARGET-Y13-1` · ~11 cm low · ~7 cm left @ frame** |
+| **Shoulder practice ×2** | **✓ d4235 · ~5–6 cm high-right hold @ berm · ~3 cm pair** |
+| **`MUSKET-CHARGE-TUBE-Y13-1`** | **×3 GOOSE @ bandolier post d4240** |
+| **`MUSKET-AMMO-BANK-Y13-1`** | **✓ d4237 @ powder safe** — see rows below |
+| **`MUSKET-POWDER-RESERVE-Y13-1`** | **~180 g mealed · sealed jar** |
+| **`MUSKET-BALL-RESERVE-Y13-1`** | **×12 @ peg tray** |
+| **`MUSKET-BALL-Y13-1` field** | **×7 @ bandolier post d4240 Yule shot** |
+| **`MUSKET-CHARGE-TUBE-RESERVE-Y13-1`** | **×6 GOOSE ~13 g** |
+| **`MUSKET-PATCH-RESERVE-Y13-1`** | **×8 greased** |
+| **Yule hunt** | **✓ d4240 · greylag @ oxbow · shoulder GOOSE · ~1.31 kg dressed** |
+| **Next** | **Iron sight optional · bank → flask top-up when named** |
 
 ---
 

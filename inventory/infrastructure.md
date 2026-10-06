@@ -439,7 +439,7 @@ Map: horreum A margin ghost · Built: d2744
 ### `BARREL-5-FERMENT`
 Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
 
-**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **`GRAIN-FERMENT-Y13-2` day 0 @ d4222**.
+**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **empty rinsed post `GRAIN-DISTILL-Y13-2` d4257** · buffer LIVE.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
@@ -608,9 +608,11 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-34` FIBRE CLOSED d3865** — **`FLAX-LINE-Y12-1` ~1.58 kg line @ `WOOD-CRATE-6`** · spin defer · **`W-1` cleared**.
 
-**`P-RETT-35`** wild flax Y13 lap 1 **PULLED d4088** · **`FLAX-WILD-GREEN-Y13-L1` ~3.7 kg @ W-1 dry queue**.
+✓ **`P-RETT-35` FIBRE CLOSED d4236** — **`FLAX-WILD-LINE-Y13-L1` ~0.60 kg @ `WOOD-CRATE-6`**.
 
-**`RETT-TROUGH-FLAX-1`** **empty @ d4228** · **`P-RETT-37` pulled → `W-1` dry queue** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
+✓ **`P-RETT-36` FIBRE CLOSED d4236** — **`HEMP-LINE-Y13-1` ~0.89 kg @ `WOOD-CRATE-6`**.
+
+**`RETT-TROUGH-FLAX-1`** **empty** · **`W-1` north cleared d4236** · **`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

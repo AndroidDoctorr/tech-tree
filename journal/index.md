@@ -6,10 +6,23 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4230 · `year-012/`)*
+## Recent days *(append here · @ Day 4257 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4257 | [day-4257.md](days/year-012/week-609/day-4257.md) | **✓ Distill Y13-2 · spirit ~2.95 L** | **Cal-Y14 D17 · ~7 Jan · W609 d1** |
+| 4256 | [day-4256.md](days/year-012/week-608/day-4256.md) | **✓ Lime · block ×8 · W608 CLOSE** | **Cal-Y14 D16 · ~6 Jan · W608 d7** |
+| 4254 | [day-4254.md](days/year-012/week-608/day-4254.md) | **✓ Norima tune · wear 13** | **Cal-Y14 D14 · ~4 Jan · W608 d5** |
+| 4251 | [day-4251.md](days/year-012/week-608/day-4251.md) | **✓ Sand four-lap · Norima 18** | **Cal-Y14 D11 · ~1 Jan · W608 d2** |
+| 4240 | [day-4240.md](days/year-012/week-606/day-4240.md) | **✓ Yule · Sentanár goose · feast · SUN close** | **Cal-Y13 D366 · ~21 Dec · W606 d5** |
+| 4239 | [day-4239.md](days/year-012/week-606/day-4239.md) | **✓ Floss · brush · mint infuse oil** | **Cal-Y13 D365 · ~20 Dec · W606 d4** |
+| 4238 | [day-4238.md](days/year-012/week-606/day-4238.md) | **✓ Farm check · vitriol turn · kid clear** | **Cal-Y13 D364 · ~19 Dec · W606 d3** |
+| 4236 | [day-4236.md](days/year-012/week-606/day-4236.md) | **✓ Fibre ×3 heckle · acorn roast** | **Cal-Y13 D362 · ~17 Dec · W606 d1** |
+| 4235 | [day-4235.md](days/year-012/week-605/day-4235.md) | **✓ Shoulder ×2 · charge tubes · W605 CLOSE** | **Cal-Y13 D361 · ~16 Dec · W605 d7** |
+| 4234 | [day-4234.md](days/year-012/week-605/day-4234.md) | **✓ Live ball #2 · berm target skew** | **Cal-Y13 D360 · ~15 Dec · W605 d6** |
+| 4233 | [day-4233.md](days/year-012/week-605/day-4233.md) | **✓ Norima tune · wear 12** | **Cal-Y13 D359 · ~14 Dec · W605 d5** |
+| 4232 | [day-4232.md](days/year-012/week-605/day-4232.md) | **✓ Limestone haul · pile 7 ~28.4 kg** | **Cal-Y13 D358 · ~13 Dec · W605 d4** |
+| 4231 | [day-4231.md](days/year-012/week-605/day-4231.md) | **✓ Wood haul · 2nd doe GO** | **Cal-Y13 D357 · ~12 Dec · W605 d3** |
 | 4230 | [day-4230.md](days/year-012/week-605/day-4230.md) | **✓ Live ball proof · ammo arc CLOSED** | **Cal-Y13 D356 · ~11 Dec · W605 d2** |
 | 4229 | [day-4229.md](days/year-012/week-605/day-4229.md) | **✓ Patch kit · powder flask · spout marks** | **Cal-Y13 D355 · ~10 Dec · W605 d1** |
 | 4228 | [day-4228.md](days/year-012/week-604/day-4228.md) | **✓ Ball mould · ×12 cast · W604 CLOSE** | **Cal-Y13 D354 · ~9 Dec · W604 d7** |

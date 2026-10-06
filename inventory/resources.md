@@ -10,10 +10,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~13.4 kg** | Char lane | | d4229 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~5.9 kg** | Char lane | | d4257 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~5.2 kg** | Store C vault | | d4084 |
-| `WOOD-OAK-P5` | Oak, green | **~15.6 kg** @ pile 5 | Pile 5 | | d4219 |
-| **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · `GRAIN-FERMENT-Y13-2` day 0** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4222 |
+| `WOOD-OAK-P5` | Oak, green | **~10.6 kg** @ pile 5 | Pile 5 | | d4257 |
+| **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~10.4 kg** | Storage wing | | d3865 |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~9.0 kg** | Berm | | d3786 |
@@ -34,7 +34,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ chem porch peg | Chem porch | d4153 | d4153 |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
 | **`GRAVEL-1`** | Gravel aggregate | **~20.4 kg** @ pile 4 south band | Pile 4 | | d4122 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~3.9 kg** | Pile 4 apron | | d4182 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~19.8 kg** | Pile 4 apron | | d4257 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
@@ -42,8 +42,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **×0** | Pile 7, camp north face | d3374 | d4191 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~4.45 kg** | Lime trough | d3390 | d4191 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~8.4 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4256 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg** | Lime trough | d3390 | d4256 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×7 @ `WW-YARD`** | Block yard | d4030 | d4030 |
 | `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |
@@ -114,7 +114,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~9.65 kg** | Pile 4 | | d3983 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
-| `GALENA-1` | Galena-class lead ore | **~8.4 kg** | Forge staging | | d4228 |
+| `GALENA-1` | Galena-class lead ore | **~7.8 kg** | Forge staging | | d4237 |
 | `H-11-HEMATITE` | Hematite | **~31.0 kg @ pile 4** | Pile 4 | | d4186 |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~240 g @ chill tray** | Chill tray | d4186 | d4186 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **×0 spent → lock band d4186** | — | d4061 | d4186 |
@@ -125,10 +125,15 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`ST-STR-BAR-Y13-1`** | Structural steel bar · **`HEAT-Y13-012` · `ASSAY-Y13-002` ~0.24 % C · `ST-STR-1` cert** | **~5 g tail @ dry tray** | Dry tray | d3911 | d4009 |
 | **`ST-STR-BUTTON-Y13-3`** | Structural steel button · **`HEAT-Y13-019` · lock reserve** | **~154 g @ chill tray** | Chill tray | d4183 | d4211 |
 | **`MUSKET-TRIGGER-LINK-Y13-1`** | Trigger link · **`ST-STR-1` · fitted Sentanár d4211** | **×0 · assembled stock** | — | d4211 | d4211 |
-| **`MUSKET-1` · Sentanár** | Smoothbore musketoon · **✓ blanks #1–#3 d4225–4227 · ✓ live ball GOOSE d4230** · **ammo arc closed** | **@ craft wing bench** | Craft wing bench | d4212 | d4230 |
-| **`MUSKET-BALL-Y13-1`** | Round ball · **~16.5 mm · ~20–21 g** · patched smoothbore class | **×11 @ bandolier + peg tray** | Craft wing / bandolier | d4228 | d4230 |
-| **`MUSKET-PATCH-KIT-Y13-1`** | Greased linen patches **×14** · horn-tip grease tin · **×11 @ bandolier · ×3 spare @ peg** | **LIVE** | Bandolier / craft peg | d4229 | d4230 |
-| **`MUSKET-POWDER-FLASK-Y13-1`** | Goat-horn flask · brass gate spout · **GOOSE ~13 g · DEER ~20 g marks** · **~72 g mealed loaded** | **@ bandolier flask loop** | Bandolier | d4229 | d4230 |
+| **`MUSKET-1` · Sentanár** | Smoothbore musketoon · **✓ shoulder practice d4235 · ✓ live ball d4230/4234** · **ammo arc closed** | **@ craft wing bench** | Craft wing bench | d4212 | d4235 |
+| **`MUSKET-BALL-Y13-1`** | Round ball · field load | **×7 @ bandolier** | Bandolier | d4228 | d4240 |
+| **`MUSKET-BALL-RESERVE-Y13-1`** | Round ball · bank replenishment | **×12 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
+| **`MUSKET-PATCH-KIT-Y13-1`** | Greased linen patches **×10** · horn-tip grease tin · **×8 @ bandolier · ×2 spare @ peg** | **LIVE** | Bandolier / craft peg | d4229 | d4240 |
+| **`MUSKET-PATCH-RESERVE-Y13-1`** | Greased patches · bank tray | **×8 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
+| **`MUSKET-POWDER-FLASK-Y13-1`** | Goat-horn flask · **GOOSE ~13 g · DEER ~20 g** · **~85 g mealed @ loop** | **@ bandolier flask loop** | Bandolier | d4229 | d4237 |
+| **`MUSKET-POWDER-RESERVE-Y13-1`** | Mealed powder · hunt bank · sealed jar | **~180 g @ powder safe** | Chem powder safe | d4237 | d4237 |
+| **`MUSKET-CHARGE-TUBE-Y13-1`** | Pre-measured GOOSE · bandolier row | **×3 @ bandolier** | Bandolier | d4235 | d4240 |
+| **`MUSKET-CHARGE-TUBE-RESERVE-Y13-1`** | Pre-measured GOOSE · bank | **×6 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
 | **`MUSKET-BLANK-CHARGES-Y13-1`** | Blank rounds · mealed · wadded · **no ball** · **HIGH/RESERVE @ powder safe · held** | **×2 remain** | Chem powder safe | d4224 | d4227 |
 | **`MUSKET-SLING-Y13-1`** | Shoulder sling + holster · merlot leather · brass swivel | **on `MUSKET-1` / peg** | **`MUSKET-1`** | d4215 | d4215 |
 | **`MUSKET-BANDOLIER-Y13-1`** | Cross-chest band · **patches loaded · flask @ loop** | **vestiarium / wear-ready** | Craft wing | d4216 | d4229 |
@@ -294,7 +299,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FLAX-TOW-BANK` | Flax tow | **~159 g** | Wing shelf | | d3865 |
+| `FLAX-TOW-BANK` | Flax tow | **~225 g** | Wing shelf | | d4237 |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~13 m tail** | Craft wing peg | d3505 | d3868 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | Flax shingle strips · impregnated · sanded · ~10 × 18 cm | **×7** | Chem porch peg | d3869 | d3869 |
@@ -302,15 +307,21 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-LINE-Y12-1` | Hemp line · Bed A Y12 · **`P-RETT-33`** | **×0** *(spun d3787)* | — | d3786 | d3787 |
 | **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.54 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d4229 |
+| **`FLAX-LINE-Y13-1`** | Flax line · field Y13 · **`P-RETT-37` heckle** | **~1.72 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4239 |
+| **`FLAX-WILD-LINE-Y13-L1`** | Wild flax line · lap 1 · **`P-RETT-35` heckle** | **~0.60 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4236 |
+| **`HEMP-LINE-Y13-1`** | Hemp line · Bed A Y13 · **`P-RETT-36` heckle** | **~0.89 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4236 |
 | **`THISTLE-HEAD-DRIED-Y13-1`** | Cardoon-type heads · full-flower cut · rennet stock | **×9 @ horreum herb peg** | Horreum | d4074 | d4074 |
-| **`FLAX-WILD-GREEN-Y13-L1`** | Wild flax lap 1 · **`P-RETT-35` pulled** | **~3.7 kg @ W-1 dry queue** | Ditch W | d4075 | d4088 |
-| **`FLAX-FIELD-GREEN-Y13-1`** | Field flax · **`P-RETT-37` pulled** | **~15.6 kg wet @ W-1 dry queue** | W-1 north rafter | d4219 | d4228 |
-| **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~21.2 m** @ craft peg | Craft wing peg | d3977 | d4229 |
+| **`FLAX-WILD-GREEN-Y13-L1`** | Wild flax lap 1 · **`P-RETT-35`** | **×0 · heckle CLOSED d4236** | — | d4075 | d4236 |
+| **`FLAX-FIELD-GREEN-Y13-1`** | Field flax · **`P-RETT-37`** | **×0 · heckle CLOSED d4236** | — | d4219 | d4236 |
+| **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~19.1 m** @ craft peg | Craft wing peg | d3977 | d4239 |
+| **`MOUTH-FLOSS-Y13-1`** | Waxed floss · 3-ply flax · **`DEER-TALLOW`** | **~12 m @ craft peg** | Craft wing peg | d4239 | d4239 |
+| **`TOOTH-BRUSH-Y13-1`** | Oak handle · frayed flax line head | **@ culina peg** | Culina | d4239 | d4239 |
+| **`MINT-INFUSE-OIL-Y13-1`** | Mint macerate in clear cook oil · **not steam distill** | **~35 ml @ culina shelf** | Culina | d4239 | d4239 |
 | **`HEMP-THREAD-Y12-1`** | Hemp thread · Bed A Y12 spin | **~315 m** | Craft wing peg | d3787 | d3789 |
 | `ROPE-HEMP-Y12-1` | Hemp rope · 3-strand · Y12 yarn · even lay · ⚑ break test + ÷6 cert defer | **~48 m** | WW peg | d3788 | d3789 |
 | `HEMP-THREAD-Y10-1` | Hemp thread · cover weft | ~75 m | Craft wing peg | d3382 | d3400 |
 | `WAGON-V2-COVER-HEMP-FLAX-1` | Wagon cover · hemp shell + flax liner · air gap · **outer oilcloth d3408** · mounted Norima | ✓ CLOSED d3407 | `WAGON-V2-COVER-ARCH-1` | d3400 | d3408 |
-| `HEMP-TOW-BANK` | Hemp tow | **~219 g** | Storage wing tow bag | | d3786 |
+| `HEMP-TOW-BANK` | Hemp tow | **~257 g** | Storage wing tow bag | | d4236 |
 | `ROPE-HEMP-STOCK-2` | Hemp rope · reserve / lash · **cover weave band** | **~23 m** | WW peg | | d3591 |
 | `ROPE-HEMP-HOME` | Hemp rope · good lay, **reserve for load work** | ~6.4 m | Pile 2 | d3221 | d3221 |
 | `ROPE-HEMP-Y10` | Hemp rope · ⚠ **lash class only** — uneven lay, soft spots, never under load | ~28 m | Pile 2 | d3226 | d3226 |
@@ -343,7 +354,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `DEER-BONES` | Deer bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
 | **`DEER-BONE-Y12-1`** | Red deer bone · **`DEER-BUTCHER-Y12-3796`** | **~11 kg** | **`BONE-BANK-1`** peg | d3796 | d3796 |
 | `GOAT-BONES` | Goat bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
-| ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~36 cupels · ~2 passes through `GALENA-1`** | **~3.71 kg @ porch** · **~0.5 kg @ cave** | Chem porch / cave | d3309 | d4228 |
+| ✓ `BONE-ASH-1` | **Bone ash, white, calcined** · ★ **~36 cupels · ~2 passes through `GALENA-1`** | **~3.50 kg @ porch** · **~0.5 kg @ cave** | Chem porch / cave | d3309 | d4237 |
 
 > ☠ ★★★ **THE MIDDEN DOES NOT GIVE IT BACK** *(d3309)*. *Nine years of it forked over for ~2.8 kg of usable fragment — weathered soft, gnawed, trodden into the ash, the small bones gone entirely.* ★★★ **It is not lost the way a mislaid tool is lost. It is GONE.** ★★ *The other half of d3303: the clocks ran while I was not reading them, and they do not run backwards.*
 
@@ -396,9 +407,9 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~88 g flour | **~15.65 kg** | — | | d4229 |
+| `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~88 g flour | **~15.60 kg** | — | | d4237 |
 | `M-11-ALUM` | Alum, crude | **~1.27 kg** | — | | d4215 |
-| `M-12-NITER` | Niter crystal | **~472 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d4229 |
+| `M-12-NITER` | Niter crystal | **~215 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d4237 |
 | `BLEACH-CLEAN-Y10-1` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-1` | d3454 | d3456 |
 | `BLEACH-CLEAN-Y10-2` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-2` | d3456 | d3456 |
 | `BLEACH-CLEAN-Y10-3` | Hypochlorite bleach · dilute cleaning stock · spare | ~220 ml | `P-LAB-BLEACH-BOTTLE-5` | d3456 | d3456 |
@@ -456,7 +467,7 @@ The first wall swatch **failed on a dry wall** — the substrate drank the water
 |---|---|---|---|---|---|
 | `BLAST-CAP` | Blast caps | **×3** | HOME powder safe | | d3716 |
 | `CHARCOAL-FLOUR` | Charcoal flour · one batch thin | **~4 g tail** | Powder jar | | d4224 |
-| `GUNPOWDER-MEALED` | Mealed gunpowder · tail | **~22 g @ powder safe** | Chem powder safe | | d4229 |
+| `GUNPOWDER-MEALED` | Mealed gunpowder · tail | **×0** *(banked `MUSKET-POWDER-RESERVE-Y13-1` d4237)* | — | | d4237 |
 
 ## Resin, wax and sealant
 

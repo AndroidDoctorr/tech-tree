@@ -20,7 +20,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`STEW-Y13-JAR-4221`** | Pulse + emmer stew jar | **~1.02 kg** | Cool cellar step | d4221 | d4221 |
 | **`BARLEY-BULK-Y12`** | Barley, bulk · Y12 trial harvest | **~0.51 kg** | Horreum A barley bay | d3849 | d3849 |
 | `BARLEY-BULK-Y10` | Barley, bulk · Y10 trial harvest | ~0.48 kg | Horreum A barley bay | d3491 | d3491 |
-| **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~1.09 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d3940 |
+| **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~0.58 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d4257 |
 | `EMMER-BULK-Y10` | Emmer, bulk · Y10 harvest | ~1.11 kg | Horreum A, `EMMER-BULK-Y10` incoming bay | d3485 | d3576 |
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · Y12 refresh | **×0 · spent Y13 sprint** | — | d3854 | d4221 |
@@ -38,7 +38,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `FAVA-BRINE-Y12-1` | Fava, short brine · tender tail | **~0.72 kg** | Crock #3 cool step | d3704 | d3704 |
 | `FAVA-DRY-Y12-FOOD-1` | Fava, dry food · blanch + rack finish · **not seed bank** | **~3.18 kg** | Horreum A pulse bay | d3704 | d3704 |
 | `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |
-| `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | **~120 g** | Cool cellar step crock | d3492 | d3873 |
+| `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | **~70 g** | Cool cellar step crock | d3492 | d4240 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
 | **`P-18-CHICKPEA-Y12`** | Chickpea · Y12 harvest | **~201 g** | Horreum A pulse bay | d3851 | d3854 |
 | **`P-17-LENTIL-Y12`** | Lentil · Y12 harvest | **~153 g** | Horreum A pulse bay | d3850 | d3854 |
@@ -61,8 +61,10 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | `ACORN-ROAST-Y10-3` | Acorn roast · **`ACORN-LEACH-Y10-3` batch** | ~605 g | Nut tray | d3471 | d3471 |
 | `ACORN-ROAST-Y10-4` | Acorn roast · **`ACORN-LEACH-Y10-4` batch** | ~600 g | Nut tray | d3478 | d3478 |
 | **`ACORN-ROAST-Y12-1`** | Acorn roast · **`ACORN-LEACH-Y12-1` batch** | **~575 g** | Nut tray | d3787 | d3872 |
-| **`ACORN-DRY-Y13-1`** | Acorn leached · batch 1 PASS · dry-read GO | **~660 g @ `DRY-TRAY-1`** | v1 porch | d4226 | d4228 |
-| **`ACORN-DRY-Y13-2`** | Acorn leached · **`ACORN-LEACH-Y13-2` PASS** · dry queue | **~655 g @ `DRY-TRAY-2`** | v1 porch | d4228 | d4228 |
+| **`ACORN-ROAST-Y13-1`** | Acorn roast · **`ACORN-LEACH-Y13-1` batch** | **~605 g** | Nut tray | d4236 | d4236 |
+| **`ACORN-ROAST-Y13-2`** | Acorn roast · **`ACORN-LEACH-Y13-2` batch** | **~600 g** | Nut tray | d4236 | d4236 |
+| **`ACORN-DRY-Y13-1`** | Acorn leached · batch 1 PASS · **✓ roast d4236** | **×0** | — | d4226 | d4236 |
+| **`ACORN-DRY-Y13-2`** | Acorn leached · batch 2 PASS · **✓ roast d4236** | **×0** | — | d4228 | d4236 |
 | `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~9.4 kg** | **`NUT-SHELF-EXT-1` west lip** | Y10 carry + **Y12 d3778 + Y13 d4145/4177** | d4226 |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
@@ -90,7 +92,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `DEER-SMOKE-Y10-1` | Smoked deer | ~10.6 kg | Horreum A smoke shelf | d3253 | d3253 |
 | `FISH-SMOKE-1` | Smoked fish | **~2.61 kg** | Smoke rack, pool | ? | d4221 |
 | `GOOSE-SMOKE-Y10-1` | Smoked goose · Y10 Yule hunt remainder | **~0.95 kg** | Horreum A smoke shelf | d3509 | d3509 |
-| **`GOOSE-SMOKE-Y12-1`** | Smoked goose · Y12 Yule hunt remainder | **~0.98 kg** | Horreum A smoke shelf | d3873 | d3873 |
+| **`GOOSE-SMOKE-Y13-1`** | Smoked goose · Y13 Yule hunt remainder | **~1.01 kg** | Horreum A smoke shelf | d4240 | d4240 |
 | `GOOSE-SMOKE-1` | Smoked goose · Y9 tail | ~0.79 kg | Horreum A smoke shelf | ? | d3146 |
 | `GOOSE-GIBLET-JAR` | Goose giblets, jarred | ~280 g | — | ? | d2426 |
 | **`STEW-Y12-JAR-3854`** | Stew jar, Y12 · lentil–chickpea–emmer | **~0.84 kg** | Cool cellar step | d3854 | d3872 |
@@ -110,7 +112,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · Yule wedges d3509 · d3873 | **~0.68 kg remain @ wheel** | **Cool dairy shelf, clean reed mat** | d3315 | d3873 |
+| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · Yule wedges d3509 · d3873 · d4240 | **~0.61 kg remain @ wheel** | **Cool dairy shelf, clean reed mat** | d3315 | d4240 |
 | `CHEESE-Y10-10` | Cheese | ~320 g | Dairy shelf | d3260 | d3260 |
 | `CHEESE-Y10-9` | Cheese | ~250 g | Dairy shelf | d3260 | d3260 |
 | `RICOTTA-Y10-4` | Ricotta, off fresh whey | ~190 g | Dairy shelf | d3260 | d3260 |
@@ -174,8 +176,9 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.36 L** | Horreum | Y7 | d3873 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane · **day ~6** | **~18 L class @ `BARREL-5-FERMENT`** | Horreum A margin | d4222 | d4228 |
+| **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` rinsed empty** | Horreum A margin | d4222 | d4257 |
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.27 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d3956 |
+| **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 | **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Ethanol dehydration POC condensate · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
 
 ## Olives in brine

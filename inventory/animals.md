@@ -41,6 +41,8 @@ Yoke and pads are [vehicles.md](vehicles.md). The rotation exists so no animal t
 | 3 | Wether *(ex-buckling)* | ★ **Horns kept** · **~14 mo** · **✓ castrated ~d3248 @ weaning** · [retcon](../journal/retcons/GOAT-WETHER-3-Y10.md) |
 | 4 | Doeling kid | **Born d3978 · ~2.7 kg · strong latch · `GOAT-KIDDING-STALL-1`** |
 
+**Herd plan @ d4231:** player **GO** on **second milk doe** — wild capture or pen expansion when named · kid #4 still nursing · rebred hold unchanged · *off-campus trade N/A (solo run)*.
+
 Milk goes to `GOAT-MILK-CROCK` — ~0.20 L held at the ice vault niche. Cheese and ricotta now run **together** as one routine rather than as separate jobs.
 
 Daily care is `MILK-GOAT` and `STOCK-WATER` in [daily.md](../checklists/daily.md). The daily look at each animal is how illness gets caught early, which is why it is a daily row rather than a periodic one.

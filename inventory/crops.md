@@ -71,8 +71,8 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 | `P-RETT-33` | Hemp Bed A Y12 | — | d3770 | **✓ CLOSED d3786** |
 | `P-RETT-32` | Flax field Y10 | — | d3487 | **✓ CLOSED d3505** |
 | `P-RETT-34` | Flax field Y12 | — | d3852 | **✓ CLOSED d3865** — line @ crate · spin defer |
-| **`P-RETT-35`** | Wild flax Y13 lap 1 | — | d4075 | **✓ PULLED d4088 · @ W-1 dry queue** |
-| **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **@ W-1 north rafter · load defer** |
-| **`P-RETT-37`** | Flax field Y13 | — | d4219 | **✓ PULLED d4228 · @ W-1 dry queue** |
+| **`P-RETT-35`** | Wild flax Y13 lap 1 | — | d4075 | **✓ FIBRE CLOSED d4236** |
+| **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **✓ FIBRE CLOSED d4236** |
+| **`P-RETT-37`** | Flax field Y13 | — | d4219 | **✓ FIBRE CLOSED d4236** |
 
 **`RETT-TROUGH-FLAX-1`** empty @ ditch W · break/heckle defer.
