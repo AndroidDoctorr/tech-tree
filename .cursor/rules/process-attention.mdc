@@ -1,0 +1,37 @@
+---
+description: Tag hero events with attention class (⚒ ⧗ ⚒→⧗) and brief duration — active vs walk-away work
+globs: journal/days/**/*.md
+alwaysApply: true
+---
+
+# Process attention — hero event tags
+
+Reuse the queue symbols from [next-items.md](../plans/next-items.md). **One inline tag per named hero / work block** — not on daily consumption, scare-only lines, or hazard audit rows.
+
+## Symbols
+
+| Tag | Meaning | Examples |
+|---|---|---|
+| **⚒** | **Hands-on** — attention for the whole block | Weaving · haul laps · forge · measure pass · farm hero |
+| **⧗** | **Clock** — start and walk away | Submerged block cure · rett in ditch · ferment · drying |
+| **⚒→⧗** | **Load then clock** — setup, then elapsed time | Retort · kiln load · lime slake · cheese set |
+
+Add **duration only when it helps**: `~½ h` · `~half-day` · `full day` · `~6 h burn` · `90 d cure`. For **⚒→⧗**, name the **return beat** when non-obvious (`unload eve` · `pull ~d####`).
+
+## Placement
+
+On the **event header** line, after grammar refs:
+
+```markdown
+### ✓ **`CHAR-RETORT-4293` @ pit lane** *(⚒→⧗ · ~6 h · unload eve · d4193 grammar)*
+### ✓ **`WW-2-Q-SPRING-SERIES-PT3` @ S2-0`** *(⚒ ~½ h)*
+### ✓ **`WOOD-HAUL-4291` @ T-1 margin** *(⚒ full day · d4192 grammar)*
+```
+
+Split days: tag **each** block (`AM` wood **⚒** · `PM` sand **⚒**). A quick pass bundled with a hero day gets its **own** tag — do not inflate the hero to full day.
+
+## Do not
+
+- Tag passive inventory clocks already tracked in `now.md` unless today's file **opens or closes** that clock.
+- Use **⧗** for work that still needs a human watching (forge heat, smelt tending) — that is **⚒**.
+- Invent precise minutes; band classes are enough (`~½ h` · `~half-day` · `full day`).

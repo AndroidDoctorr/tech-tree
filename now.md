@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4282** · Cal-Y14 D42 · ~1 Feb Y14 · **Week 612 day 5**
+> **Day 4296** · Cal-Y14 D56 · ~15 Feb Y14 · **Week 614 day 5**
 >
-> **Cal-Y14 d4283 opens** · **Hazard:** volatility normal · **Norima wear 13**
+> **Cal-Y14 d4297 opens** · **Hazard:** volatility normal · **Norima wear 17**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -37,7 +37,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Band | Window | State |
 |---|---|---|
-| **`HYDRO-ELEC-1`** | **⧗ spring Q ~Feb–Mar Y14** | **+3 m crest d4112 · forebay staked · stock runway · pour blocked** |
+| **`ICE-HAUL`** | **20 Jan – 14 Feb · tail to 14 Feb** | **✓ PEAK laps 1–2 d4287/4289 · vault cap-bound ~129 kg** |
+| **`HYDRO-ELEC-1`** | **✓ Spring Q d4288 · stock runway · outlet drawing** | **+3 m crest d4112 · forebay staked · pour blocked on stock** |
 | Exped / cart trips | **11 Mar – 27 Sep** | **✓ CLOSED d4155 · ✓ Kisecik · ✓ Kozan/Akkaya fluorite** |
 | `VITRIOL-HEAP-1` | **~90 wet days** | **Turn ✓ d4238 · liquor ~13.4 L · next turn ~Mar class** |
 | **`FIG-PICK` repeat** | **1 Aug – 15 Sep** | **Pass 1 ✓ d4098 · repeat OK** |
@@ -64,7 +65,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 |---|---|---|
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | **~10.9 kg @ ore bay** | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | **~2.75 kg @ chem peg** | d4153 |
-| **`CHAR-LANE`** | **~7.2 kg** | d4282 |
+| **`CHAR-LANE`** | **~17.7 kg** | d4293 |
 | **`CHAR-RESERVE-C`** | **~0.8 kg** | d4258 |
 | **`O-1-MALACHITE`** | **~9.65 kg @ pile 4** | d3983 |
 | **`ROSIN-1`** | **~88 g @ chem porch** | d3986 |
@@ -86,7 +87,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~14.2 kg** @ pile 5 | d4282 |
+| **`WOOD-OAK-P5`** | **~18.1 kg** @ pile 5 | d4296 |
 | **`CLAY-P1`** | **~28.6 kg** @ pile 1 | d3856 |
 | **`EMMER-BULK-Y12`** | **×0** @ horreum incoming | d4280 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
@@ -103,11 +104,11 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** · **×62 @ muffle shell** *(×107 @ `FURNACE-2` shell)* | d4001 |
 | **`LIME-PUTTY-1`** | **~0 kg** | d4038 |
-| **`QUICKLIME-1`** | **~0.05 kg tail** | d4273 |
-| **`CACO3-P7`** | **~12.8 kg** @ pile 7 | d4279 |
+| **`QUICKLIME-1`** | **~0.05 kg tail** | d4285 |
+| **`CACO3-P7`** | **~23.0 kg** @ pile 7 | d4294 |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | **`POZZ-TUFF-1`** | **~22.3 kg** @ pile 4 · **~8 kg @ Fabrica stage** | d4101 |
-| **`SAND-FILTER-1`** | **~20.4 kg** @ pile 4 apron | d4282 |
+| **`SAND-FILTER-1`** | **~34.0 kg** @ pile 4 apron | d4292 |
 | **`GRAVEL-1`** | **~20.4 kg** @ pile 4 south band | d4122 |
 | `SALT-1` | ~9.89 kg larder · ~1.0 kg cave | d4269 |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
@@ -121,7 +122,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `NAIL-IRON` | **×23 @ bench peg tray** | d4139 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~11.8 m tail** @ peg | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
-| Ice vault | **~128.5 kg hard · cap-bound** | d3923 |
+| Ice vault | **~129.3 kg hard · cap-bound** | d4289 |
 | `SOAP-Y10-1` | ×22 bar batch, cured | d3452 |
 
 ## Animals
@@ -152,8 +153,8 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 
 | Arc | State | Gate |
 |---|---|---|
-| ⚑ **`HYDRO-ELEC-1`** | **+3 m crest d4112 · forebay ~35 × 10 m staked · scour PASS · `SLUICE-2-GATE-2` live d4046** | **Lime · blocks · sand · gravel · rebar · outlet drawing · spring Q ~Feb–Mar Y14 · pour** |
-| **`WW-2` power log** | **Q ~17 L/s @ NORMAL · H ~7.2 m · three-stop intake** | **Spring re-read ~Feb–Mar Y14** |
+| ⚑ **`HYDRO-ELEC-1`** | **+3 m crest d4112 · forebay ~35 × 10 m staked · scour PASS · `SLUICE-2-GATE-2` live d4046 · ✓ spring Q d4288** | **Lime · blocks · sand · gravel · rebar · outlet drawing · pour** |
+| **`WW-2` power log** | **Q ~25.1 L/s crest band d4293 · stain ~28 cm · H ~7.2 m** | **`WW-2-Q-SPRING-SERIES-Y14` ~every 2 d · pt 4 ~d4295** |
 | ⚑ **`ALLOY-PROGRAMME-Y12`** | **CI + FMN + constantan triplicate closed d3835** | **Mn assay · `TC-PROBE-2` ~60%** |
 | ⚑ **`M31` ferromanganese charge** | **Ore dressed · `FMN-STD ×3` staged d3615** | **Furnace when named** |
 | ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`ST-MAG/STR/SPR` certs live · `MOTOR-1` live d3964** | **`MFGC-2-ST` table migrate when named** |
@@ -163,7 +164,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | **Pipe series live · steel certs filed** | **Musket · invar refs defer** |
 | **`PALISADE-2`** | **Stage 2 shored 97/97 m** | **Stage 3 deferred** |
-| **`BLOCK-Y10` pit** | **×197 submerged · ×7 dry @ yard · ×16 @ furnace shell** | **`BLOCK-MOULD-1/2` · ×8/day grammar live** |
+| **`BLOCK-Y10` pit** | **×177 submerged · ×35 dry @ yard · ×16 @ furnace shell** | **×28 lifted d4295–4296 · lift band pause** |
 | ⚑ **`TRAIL-MAINT`** | **Trips 1–3 + Kisecik closed** | **Erzin cache touch deferred** |
 | **`CAVE-RECOVERY-CACHE-1`** | **Crate @ mouth** | **Standing** |
 | ✓ **`MUSKET-1` · Sentanár** | **✓ Yule greylag d4240 @ oxbow · ammo bank d4237** | **Field ×7 · shoulder hold ~5–6 cm high-right** |

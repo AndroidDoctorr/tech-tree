@@ -209,7 +209,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~128.5 kg** | Ice vault | Y12+Y13 | d3923 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~115.1 kg** | Ice vault | Y12+Y13 | d4287 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

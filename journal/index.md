@@ -6,10 +6,24 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4282 · `year-012/`)*
+## Recent days *(append here · @ Day 4296 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4296 | [day-4296.md](days/year-012/week-614/day-4296.md) | **✓ Block lift ×14** | **Cal-Y14 D56 · ~15 Feb · W614 d5** |
+| 4295 | [day-4295.md](days/year-012/week-614/day-4295.md) | **✓ Block lift ×14** | **Cal-Y14 D55 · ~14 Feb · W614 d4** |
+| 4294 | [day-4294.md](days/year-012/week-614/day-4294.md) | **✓ Limestone haul** | **Cal-Y14 D54 · ~13 Feb · W614 d3** |
+| 4293 | [day-4293.md](days/year-012/week-614/day-4293.md) | **✓ Q pt 3 · char retort** | **Cal-Y14 D53 · ~12 Feb · W614 d2** |
+| 4292 | [day-4292.md](days/year-012/week-614/day-4292.md) | **✓ Sand haul · W613 CLOSE** | **Cal-Y14 D52 · ~11 Feb · W614 d1** |
+| 4291 | [day-4291.md](days/year-012/week-613/day-4291.md) | **✓ Wood haul · Q pt 2** | **Cal-Y14 D51 · ~10 Feb · W613 d7** |
+| 4290 | [day-4290.md](days/year-012/week-613/day-4290.md) | **✓ Wood · sand haul** | **Cal-Y14 D50 · ~9 Feb · W613 d6** |
+| 4289 | [day-4289.md](days/year-012/week-613/day-4289.md) | **✓ Ice peak lap 2 · Q series** | **Cal-Y14 D49 · ~8 Feb · W613 d5** |
+| 4288 | [day-4288.md](days/year-012/week-613/day-4288.md) | **✓ Spring Q · peak water height** | **Cal-Y14 D48 · ~7 Feb · W613 d4** |
+| 4287 | [day-4287.md](days/year-012/week-613/day-4287.md) | **✓ Ice haul peak lap 1** | **Cal-Y14 D47 · ~6 Feb · W613 d3** |
+| 4286 | [day-4286.md](days/year-012/week-613/day-4286.md) | **✓ Ice haul prep** | **Cal-Y14 D46 · ~5 Feb · W613 d2** |
+| 4285 | [day-4285.md](days/year-012/week-613/day-4285.md) | **✓ Block ×8** | **Cal-Y14 D45 · ~4 Feb · W613 d1** |
+| 4284 | [day-4284.md](days/year-012/week-612/day-4284.md) | **✓ Retort · kiln lime · W612 CLOSE** | **Cal-Y14 D44 · ~3 Feb · W612 d7** |
+| 4283 | [day-4283.md](days/year-012/week-612/day-4283.md) | **✓ Wood haul** | **Cal-Y14 D43 · ~2 Feb · W612 d6** |
 | 4282 | [day-4282.md](days/year-012/week-612/day-4282.md) | **✓ Rebar forge · ×2 bars** | **Cal-Y14 D42 · ~1 Feb · W612 d5** |
 | 4281 | [day-4281.md](days/year-012/week-612/day-4281.md) | **✓ Char retort** | **Cal-Y14 D41 · ~31 Jan · W612 d4** |
 | 4280 | [day-4280.md](days/year-012/week-612/day-4280.md) | **✓ Wood haul** | **Cal-Y14 D40 · ~30 Jan · W612 d3** |

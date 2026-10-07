@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~7.2 kg** | Char lane | | d4282 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~17.7 kg** | Char lane | | d4293 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~0.8 kg** | Store C vault | | d4258 |
-| `WOOD-OAK-P5` | Oak, green | **~14.2 kg** @ pile 5 | Pile 5 | | d4282 |
+| `WOOD-OAK-P5` | Oak, green | **~18.1 kg** @ pile 5 | Pile 5 | | d4296 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -34,7 +34,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ chem porch peg | Chem porch | d4153 | d4153 |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
 | **`GRAVEL-1`** | Gravel aggregate | **~20.4 kg** @ pile 4 south band | Pile 4 | | d4122 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~20.4 kg** | Pile 4 apron | | d4282 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~34.0 kg** | Pile 4 apron | | d4292 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
@@ -42,8 +42,8 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~12.8 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4279 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg tail** | Lime trough | d3390 | d4279 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~23.0 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4294 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg tail** | Lime trough | d3390 | d4285 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×7 @ `WW-YARD`** | Block yard | d4030 | d4030 |
 | `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |

@@ -14,7 +14,7 @@ The next year or two.
 | **Sep – Oct** | Nitre · acorn · Ghab seed | **Nitre bed turns @ FARM-CARE** · acorn batch 2 + Ghab seed = **player defer** · collision with harvest prep |
 | **Nov** | Harvest block | **Emmer · pulse · field flax** — mandatory · fence masonry horizon post-cut |
 | **Nov – Feb** | Winter | **Grape spur prune optional** · **`HYDRO-ELEC-1` block/lime/rebar loops** · ice · indoor bench |
-| **Feb – Mar Y14** | Spring Q | **`WW-2` high-flow re-read** — **hard gate before forebay pour** |
+| **Feb – Mar Y14** | Spring Q | **✓ d4288 peak read · `WW-2-Q-SPRING-SERIES-Y14` ~every 2 d for curve** |
 | **Mar Y14+** | Pour window | **Forebay cut · dam pour · outlet gate** — only after spring Q PASS |
 
 ### Power chain — current priority

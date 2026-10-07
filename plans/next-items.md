@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
+Live as of **d4296 · Cal-Y14 D56 · ~15 Feb · Week 614 day 5**.
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -21,11 +21,13 @@ Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
 
 | Signal | State |
 |---|---|
-| **`HYDRO-ELEC-1`** | **Stock runway · spring Q ~Feb–Mar Y14 · pour blocked until both** |
+| **`ICE-HAUL-Y14`** | **✓ PEAK laps 1–2 d4287/4289 · vault cap-bound ~129 kg · tail to 14 Feb optional** |
+| **`WW-2-Q-SPRING-SERIES-Y14`** | **Pt 1–3 d4288/4291/4293 · crest ~25 L/s · next ~d4295** |
+| **`HYDRO-ELEC-1`** | **✓ Spring Q d4288 · stock runway · outlet drawing · pour blocked on stock** |
 | **Exped / cart trips** | **✓ Y13 window closed d4155** · **Y14 opens 11 Mar – 27 Sep** |
-| **`BLOCK-Y10` pit** | **×197 submerged · ×7 dry @ yard** | **×204 in pipeline · lift @ 90 d** |
-| **`QUICKLIME-1`** | **~4.45 kg** | **Half-batch — knap + kiln before ×8** |
-| **`CACO3-P7`** | **~0.4 kg** | **Limestone haul before next burn** |
+| **`BLOCK-Y10` pit** | **×177 submerged · ×35 dry @ yard** | **×212 pipeline · ×28 lifted · lift band pause** |
+| **`QUICKLIME-1`** | **~0.05 kg tail** | **Kiln before next ×8** |
+| **`CACO3-P7`** | **~8.8 kg** | **Kiln runway OK** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** |
 | **`VITRIOL-HEAP-1`** | **Turn ✓ d4238 · liquor ~13.4 L · next turn ~Mar class** |
 | **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** — ✓ pass 1 d4201 · full pass optional Feb |
@@ -47,24 +49,25 @@ Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
 | **Scour pass 2 + stake/takeoff** | **✓ d4112** — +3 m crest locked · forebay pegged |
 | **Outlet gate drawing** | **⚑ Not started** — forebay outlet @ dam |
 | **Material runway** | **⚒ In progress** — see stock gap below |
-| **Spring high-flow Q confirm** | **⧗ ~Feb–Mar Y14** — **hard gate before pour** |
-| **Cut · fill · pour** | **Blocked** on stock + spring Q |
+| **Spring high-flow Q confirm** | **✓ d4288** — **~24 L/s @ NORMAL · stain ~26 cm · head ~7.2 m** |
+| **Cut · fill · pour** | **Blocked** on stock + outlet drawing |
 
 ### Stock gap *(d4256 ledger vs on hand)*
 
 | Material | Have | Need (est.) | Next hero |
 |---|---|---|---|
-| **Cinder blocks** | **×204 in pipeline** *(×7 ready · ×197 curing)* | **~200–350 pour-grade** | **Surplus band live · lift @ 90 d** |
+| **Cinder blocks** | **×212 in pipeline** *(×35 ready · ×177 curing)* | **~200–350 pour-grade** | **×28 lifted · ~20 cohorts remain submerged** |
 | **Rebar** | **×8** | **×12–20** | **One more forge run** *(d4118 rhythm live)* |
 | **Quicklime / putty** | **~4.45 kg / ~0 kg** | **~80–120 kg slaked class** | **Block day — knap + kiln top-up for ×8** |
-| **Filter sand** | **~20.4 kg** | **~80–150 kg** | **×8 GO · haul for surplus** |
+| **Filter sand** | **~34.0 kg** | **~80–150 kg** | **×8 GO · ~half forebay band** |
 | **Gravel** | **~20.4 kg** | **~400–800 kg** | **More haul laps** *(d4117 grammar)* |
 | **Limestone** | **~14.6 kg** | — | **Several kiln burns banked** |
-| **Wood** | **~14.2 kg** | — | **Retort runway OK** |
-| **Norima wear** | **13** | — | **✓ tuned d4276** |
-| **`CHAR-LANE`** | **~7.2 kg** | — | **Retort before heavy forge/kiln** |
+| **Wood** | **~22.1 kg** | — | **Retort runway OK · one more ×3** |
+| **Norima wear** | **17** | — | **+1 per 2 trips · ✓ tuned d4276** |
+| **`CHAR-LANE`** | **~17.7 kg** | — | **Kiln runway OK** |
+| **`QUICKLIME-1`** | **~0.05 kg tail** | — | **Kiln before next ×8** |
 | **`REBAR-BAR-Y13`** | **×10 @ rack** | **×12–20 est.** | **×2 forged d4282** |
-| **`CACO3-P7`** | **~12.8 kg** | — | **Kiln runway OK** |
+| **`CACO3-P7`** | **~23.0 kg** | — | **Kiln runway OK** |
 
 **Recommended order:** lime + block loop (parallel) → gravel/sand laps → rebar tail → outlet drawing on a slate day.
 
@@ -84,7 +87,7 @@ Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
 
 ## ⧗ ⟳ Running — started, needs no day
 
-- ⧗ **`BLOCK-Y10` pit** — **×197 submerged · ×7 dry · ×204 pipeline** · 90-day lift grammar @ d4030
+- ⧗ **`BLOCK-Y10` pit** — **×177 submerged · ×35 dry · ×212 pipeline** · lift **×14/full day** @ d4030 · **×28 lifted d4295–4296**
 - ⧗ **`ORE-BAY-1` catch pot** — daily read
 - ⧗ **`CU-CELL`** — two looks a day
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read · ~54% SOC
@@ -104,9 +107,22 @@ Live as of **d4282 · Cal-Y14 D42 · ~1 Feb · Week 612 day 5**.
 
 ---
 
+## ⚒ **`ICE-HAUL-Y14`** — live *(blocks deferred)*
+
+| Item | State |
+|---|---|
+| **Prep** | **✓ d4286** |
+| **Peak lap 1** | **✓ d4287 · +~26.4 kg nett** |
+| **Peak lap 2** | **⚑ optional ~8–10 Feb** · ~15 kg headroom left |
+| **Vault** | **~115.1 kg · ~15 kg headroom** |
+| **Norima** | **Wear 15 · tune d4276 holds** |
+
+---
+
 ## ⚒ Campus queue *(when hydro stock builds or player names)*
 
-- ⚒ **Lime burn + block pit loop** — **hard gate** for forebay mortar · **×8/day grammar live**
+- ⚒ **`ICE-HAUL-Y14-PEAK`** — **next** · ~8–10 Feb band
+- ⚒ **Lime burn + block pit loop** — **deferred** · ×212 pipeline banked
 - ⚒ **Gravel + sand haul laps** — recurring · low hero · high cumulative kg
 - ⚒ **Rebar production** — ×8 @ rack · one run closes forebay spec
 - ⚒ **Char retort** — lane ~11.8 kg · kiln before next ×8 needs burn
