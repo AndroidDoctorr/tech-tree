@@ -245,7 +245,18 @@ Sweet ferments stay gated behind a honey surplus.
 
 ### `CHARCOAL-BURN`
 
-Feed the retort from pile 5, ×3 full retort runs per cycle. **Retort beats the pit by ~15–17% yield.** ~22 kg wood per burn, ~35–58 kg charcoal per ×3 cycle.
+Feed from **pile 5** — partially seasoned green oak. **Retort beats pit by ~+15–17% relative yield**, not by doubling mass conversion.
+
+| Mode | Feed / hero | Char → `CHAR-LANE` *(nominal)* | Notes |
+|---|---|---|---|
+| **Pit class** *(emergency only)* | varies | **~22%** of dry mass | See [campus-operations.md](campus-operations.md) |
+| **`CHAR-RETORT-1` · ×3 full** | **~13.5 kg** | **~3.8–4.2 kg** | Single cell C |
+| **`CHAR-RETORT-TWIN-CELL-1` · ×3 parallel** | **~18–20 kg** | **~5.5–6.5 kg** | Cells C/D · **default until quad LIVE** |
+| **`CHAR-RETORT-QUAD-CELL-1` · ×3 parallel** *(✓ LIVE d4302)* | **~36–40 kg** | **~11–13 kg** | Cells C/D/E/F + central flue · off-gas + dry rack |
+
+**Discovery `CHAR-YIELD`:** moderate **+~0.3 kg** · moderate+ **+~0.5 kg** — relative bump, not a second conversion pass.
+
+**Tend:** vent crack between loads · bank grey · unload when shell cool enough to handle. Lane floor **~35 kg green minimum** before hero forge/kiln weeks when named.
 
 ### `LIME-BURN`
 

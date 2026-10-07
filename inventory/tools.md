@@ -59,6 +59,14 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | `STEEL-SLOT-PUNCH-1` | Slot punch · strap/keyway class | Bench punch roll | ✓ LIVE d3531 |
 | `STEEL-FORGE-PLIERS-1` | Forge pliers · serrated jaws · ~22 cm | M2 forge peg | ✓ LIVE d3531 |
 
+## Field edge — iron and steel
+
+| ID | Tool | Where | State |
+|---|---|---|---|
+| **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | ✓ **LIVE d4297** |
+| `IRON-AXE-1` | Felling axe · wrought head **~340 g** · ash haft | M2 forge peg | Backup · haft donor for `ST-AXE-1` |
+| `IRON-SICKLE-1` | Harvest sickle · steel edge dress d4202 | `HARVEST-KIT-Y13` | ✓ LIVE |
+
 ## Worn and carried
 
 Individuated and condition-bearing, so they follow the tool schema rather than earning a file.

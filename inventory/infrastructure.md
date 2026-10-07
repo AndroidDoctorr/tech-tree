@@ -87,6 +87,19 @@ Map: cell D · Built: d3032
 
 Shares a wall with `CHAR-RETORT-1`. ~+17% on trial. The pair run as `CHAR-RETORT-TWIN-CELL-1`, a C/D parallel ×3 grammar.
 
+### `CHAR-RETORT-QUAD-CELL-1` — quad charcoal retort bank *(BUILD)*
+Map: pit lane north berm · cells E/F · central flue between C/D and E/F · Started: d4297
+
+**Phase 1 ✓ d4297:** north berm extension scrape · E/F dish pads · central flue trench · **×28 `BRICK-FIRED-B` base rings** · mortar cure overnight.
+
+**Phase 2 ✓ d4299:** E/F shared meridian · flue cheek tie to C/D bank · **twin mound shells ~40 cm** · cap plugs staged · **~85%**.
+
+**Phase 3 ✓ d4301:** E/F port set · central flue manifold · **`CHAR-OFFGAS-BURNER-1` LIVE** · **`CHAR-DRY-RACK-1` LIVE** · **~95%**.
+
+**Commission ✓ d4302:** **~38 kg feed → ~11.8 kg char** · off-gas burner PASS · dry rack pre-dry PASS · **✓ LIVE**.
+
+**Grammar:** **`CHAR-RETORT-QUAD-CELL-1` · ×3 parallel** — **~36–40 kg feed → ~11–13 kg char nominal** · pre-dry splits on `CHAR-DRY-RACK-1` when time allows · twin C/D remains valid for lighter days.
+
 ### ★★ `CUPEL-HEARTH-1` — cupellation hearth and litharge recovery
 Map: **SW fume shelf below the forge** · Sited **d3297** · Built **d3299** · ✓ **Commissioned d3300** · ⚠ **draught adequate, little margin**
 

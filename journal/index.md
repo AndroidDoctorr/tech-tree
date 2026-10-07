@@ -6,15 +6,23 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4296 · `year-012/`)*
+## Recent days *(append here · @ Day 4304 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4304 | [day-4304.md](days/year-012/week-615/day-4304.md) | **✓ Quad char · ×8 blocks** | **Cal-Y14 D64 · ~23 Feb · W615 d6** |
+| 4303 | [day-4303.md](days/year-012/week-615/day-4303.md) | **✓ Sand + gravel combo · ×8 sand met** | **Cal-Y14 D63 · ~22 Feb · W615 d5** |
+| 4302 | [day-4302.md](days/year-012/week-615/day-4302.md) | **✓ Quad commission · LIVE** | **Cal-Y14 D62 · ~21 Feb · W615 d4** |
+| 4301 | [day-4301.md](days/year-012/week-615/day-4301.md) | **✓ Quad phase 3 · off-gas + dry rack** | **Cal-Y14 D61 · ~20 Feb · W615 d3** |
+| 4300 | [day-4300.md](days/year-012/week-615/day-4300.md) | **✓ Twin retort · lime burn** | **Cal-Y14 D60 · ~19 Feb · W615 d2** |
+| 4299 | [day-4299.md](days/year-012/week-615/day-4299.md) | **✓ Quad retort phase 2** | **Cal-Y14 D59 · ~18 Feb · W615 d1** |
+| 4298 | [day-4298.md](days/year-012/week-614/day-4298.md) | **✓ Fell-day wood ~96 kg** | **Cal-Y14 D58 · ~17 Feb · W614 CLOSE** |
+| 4297 | [day-4297.md](days/year-012/week-614/day-4297.md) | **✓ Steel axe · quad retort p1** | **Cal-Y14 D57 · ~16 Feb · W614 d6** |
 | 4296 | [day-4296.md](days/year-012/week-614/day-4296.md) | **✓ Block lift ×14** | **Cal-Y14 D56 · ~15 Feb · W614 d5** |
 | 4295 | [day-4295.md](days/year-012/week-614/day-4295.md) | **✓ Block lift ×14** | **Cal-Y14 D55 · ~14 Feb · W614 d4** |
 | 4294 | [day-4294.md](days/year-012/week-614/day-4294.md) | **✓ Limestone haul** | **Cal-Y14 D54 · ~13 Feb · W614 d3** |
 | 4293 | [day-4293.md](days/year-012/week-614/day-4293.md) | **✓ Q pt 3 · char retort** | **Cal-Y14 D53 · ~12 Feb · W614 d2** |
-| 4292 | [day-4292.md](days/year-012/week-614/day-4292.md) | **✓ Sand haul · W613 CLOSE** | **Cal-Y14 D52 · ~11 Feb · W614 d1** |
+| 4292 | [day-4292.md](days/year-012/week-614/day-4292.md) | **✓ Sand haul** | **Cal-Y14 D52 · ~11 Feb · W614 d1** |
 | 4291 | [day-4291.md](days/year-012/week-613/day-4291.md) | **✓ Wood haul · Q pt 2** | **Cal-Y14 D51 · ~10 Feb · W613 d7** |
 | 4290 | [day-4290.md](days/year-012/week-613/day-4290.md) | **✓ Wood · sand haul** | **Cal-Y14 D50 · ~9 Feb · W613 d6** |
 | 4289 | [day-4289.md](days/year-012/week-613/day-4289.md) | **✓ Ice peak lap 2 · Q series** | **Cal-Y14 D49 · ~8 Feb · W613 d5** |

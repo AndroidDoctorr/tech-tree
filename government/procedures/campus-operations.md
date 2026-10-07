@@ -12,9 +12,11 @@
 
 | Rule | Standard |
 |------|----------|
-| **Primary** | `CHAR-RETORT-TWIN-CELL-1` at cells C/D — parallel retort ×3 grammar · lane bank · shared wall |
+| **Primary** | **`CHAR-RETORT-QUAD-CELL-1`** *(✓ LIVE d4302)* — **~36–40 kg feed → ~11–13 kg char** · pre-dry on `CHAR-DRY-RACK-1` when time allows |
+| **Light day** | `CHAR-RETORT-TWIN-CELL-1` at cells C/D — **~18–20 kg feed → ~6 kg char nominal** |
 | **Pit char** | ✗ **Not routine · last resort only** — retort down, emergency draw, documented exception |
 | **Lane floor** | Maintain **~35 kg green minimum** before hero burns · haul pre-retort when pile 5 runs thin |
+| **Wood haul** | **Norima fell-day grammar** — see [harvest.md](harvest.md) · **not** cart three-lap |
 
 ## Fibre rett
 

@@ -247,18 +247,86 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 ~25 kg net per lap, ~130 kg per season.
 
-### `STONE-HAUL` · `ORE-HAUL` · `CLAY-HAUL`
+### `SAND-HAUL` · `SAND-FILTER-1`
 
-- **Clay** M-01 at T-1 90 m, ~2 m cut face, ~31 kg net per lap to pile 1. Ranked D #1, C #2, B filler, A reject.
-- **Sand** M-09 river at T-1 200 m, for grog and temper.
-- **Limestone** M-06 to pile 7, for lime and mortar.
+**Vehicle:** Norima · linen sacks · trough sieve @ pile 4 apron · `IRON-SHOVEL-1` / `W-SHOVEL-2`.
+
+| Mode | When | Net @ `SAND-FILTER-1` |
+|---|---|---|
+| **2-load + sieve** | **Default hero** · weir + fork bar · wet fill · yard reject | **~18–28 kg** |
+| **Half-day wet** | One laden trip + sieve | **~12–16 kg** |
+| **Weir glean** | Route pass · not a hero | **~2–4 kg** *(codified d4247)* |
+
+★ **Retired:** **d4094 four-lap (~7.2 kg net)** — cart lap count on a wagon.
+
+**Grog/temper sand** M-09 @ T-1 200 m — same wagon grammar when a hero is named; filter sand and grog sand share the shovel/sieve path, not the same pile.
+
+---
+
+### `GRAVEL-HAUL` · `GRAVEL-1`
+
+**Vehicle:** Norima · sacks · `W-SHOVEL-2` · inside bend + terrace cobble @ T-1.
+
+| Mode | When | Net @ pile 4 south band |
+|---|---|---|
+| **2–3 load** | **Default hero** · shell pinch · bar face repeat | **~45–70 kg** |
+| **Single load** | Top-up · combo day PM | **~18–24 kg** |
+
+★ **Retired:** **d4117 / d2631 three-lap (~10 kg)** — hand-cart lap scale.
+
+---
+
+### `HAUL-LIME` · `CACO3-P7`
+
+**Vehicle:** Norima · pile 7 margin stub · hammer knap to egg before stack.
+
+| Mode | When | Net @ pile 7 |
+|---|---|---|
+| **Full day** | **Default hero** · knap + **2 laden trips** | **~40–55 kg** raw |
+| **Stub lap** | Top-up only · not a full knap day | **~18–22 kg** |
+
+★ **Retired:** **d4121 one-lap (~14 kg)** as a full-day hero.
+
+---
+
+### `CLAY-HAUL` · `CLAY-P1`
+
+**Vehicle:** Norima · **bulk dry liner** · `W-SHOVEL-2` · T-01 @ T-1 ~90 m.
+
+| Mode | When | Net @ pile 1 |
+|---|---|---|
+| **3-lap fill** | **Default hero** · winter wet face | **~35–45 kg** green |
+| **2-lap** | Half-day · liner ~½–¾ | **~22–28 kg** |
+
+Ranked D #1, C #2, B filler, A reject. **d3174 (~28.6 kg)** remains valid; bump is liner fill, not lap count.
+
+---
+
+### `STONE-HAUL` · `ORE-HAUL` · reference stone
+
 - **Reference stone** is a separate standard. Grain size is set by cooling rate, so take chilled **dyke margins and pillow rims**, never gabbro. **Ring the block** — sound stone rings and holds the note, vesicular or cracked stone thuds. Cut from a **fresh break**, because the outer few fingers of any exposed rock is an altered weathering rind. Cut generously oversize, then season on three points.
+- **Ore** — **dress at the mine** · load cap = what the team pulls the full distance; see [now.md](../../now.md) ore doctrine. Campus margin laps do not apply.
 - **Gypsum** M-21: pale band, thumbnail-soft, **no vinegar fizz**. That last test is what separates it from carbonate.
 - **Nickel** on serpentinite: the ore is the **red dirt on top of the rock**, and sparse stunted flora is the indicator.
 
+Legacy **WHEEL-CART-1** clay ~31 kg/lap and four-lap sand class remain cart-only when the cart is named.
+
 ### `WOOD-HAUL` · `RESIN-COLLECT`
 
-Four-lap cart runs off the T-1 margin and T-2, ~25–29 kg net per event, stacked green at pile 5 under a bark mat. Select **straight** stock for wagon and rail work. Retort feed comes off pile 5; see `CHARCOAL-BURN` in [processing.md](processing.md).
+**Vehicle:** `WAGON-V2-CHASSIS-1` (**Norima**) · Mabel + Humphrey · **`ST-AXE-1`** primary · `IRON-AXE-1` backup @ peg.
+
+| Mode | When | Net @ pile 5 |
+|---|---|---|
+| **Snag pass** | Maintenance · deadfall/brace @ T-1 margin · no live fell | **~20–25 kg** *(3 laps × ~7 kg)* |
+| **Fell + 2-load** | **Default hero** · fell @ T-1/T-2 stand · buck on site · two laden trips | **~80–110 kg** green |
+| **Full team** | + Silas on yoke · same grammar | **~100–140 kg** |
+| **Wagon load only** | Pre-bucked rounds staged @ margin | **~45–55 kg** per laden trip |
+
+★ **Retired:** **d4092/d4192 three-lap (~15 kg)** — cart-era grammar; **do not use on Norima.**
+
+Legacy **WHEEL-CART-1** four-lap @ T-1/T-2 remains **~25–29 kg** per full day when the cart is named.
+
+Stack green @ pile 5 north face · bark mat · char-class split. Select **straight** stock for wagon and rail work. Retort feed comes off pile 5; see `CHARCOAL-BURN` in [processing.md](processing.md).
 
 Pine resin at `M-08`: ×8 trees scored and cupped, collected on the pass rather than as a trip.
 
