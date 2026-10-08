@@ -19,18 +19,9 @@ Every day that is logged gets a **`## Consumption`** block. Split it into **Dail
 
 ★ **"As needed" means judge the season and the day's hours — not omit the block.** Write `none` on a line when a category truly did not fire.
 
-## Weir glean — passive sand *(standing @ d4140 · codified d4247)*
+## Weir glean — **CANCELLED d4309**
 
-When the day's route touches **T-1 weir · inside bend · farm-fork sand bank** *(farm scare B→D · Norima on T-1 crown · margin foot pass)* and the day is **not** already a **`SAND-HAUL`** hero:
-
-| | |
-|---|---|
-| **Default** | **ON** — one–two linen buckets wet class → trough sieve @ yard → **~2–4 kg net** to **`SAND-FILTER-1`** |
-| **Log** | **`## Gains`** row **`SAND-GLEAN-d####`** · ~kg · route note — or one line under Daily Consumption **Notes** if trace only |
-| **Wagon pass** | **Sand first** if lash room · then opportunistic oak *( **`WOOD-OAK-P5`** ~2–4 kg class)* · not hero volume |
-| **Skip** | Miles-out overnight · explicit player defer · same pass as a four-lap sand hero |
-
-Do not double-count glean on **`SAND-HAUL`** hero days.
+**Player directive:** opportunistic sand gleans **retired** — **`SAND-HAUL`** Norima grammar (**~18–28 kg** per hero) covers filter sand. **Do not** auto-credit **`SAND-GLEAN-d####`** on farm scare · crown pass · or wagon routes unless the player explicitly names a glean.
 
 Craft, haul, lap, forge, kiln, smelt, retort, glass, build: **every material row** with amount · patch [inventory/resources.md](../inventory/resources.md) or the split file the row lives in.
 

@@ -47,7 +47,7 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 | **Q survey + site read** | **✓ d4045** — ~17 L/s @ NORMAL · H ~7.2 m |
 | **`SLUICE-2-GATE-2` three-stop intake** | **✓ d4046** — SUMMER ~11 · NORMAL ~17 · FLOOD ~3 L/s |
 | **Scour pass 2 + stake/takeoff** | **✓ d4112** — +3 m crest locked · forebay pegged |
-| **Outlet gate drawing** | **⚑ Not started** — forebay outlet @ dam |
+| **Outlet gate drawing** | **✓ d4317** — slide gate · `PT-22-A` ×4 @ ~2 m · ~2.0 kg WI queue |
 | **Material runway** | **⚒ In progress** — see stock gap below |
 | **Spring high-flow Q confirm** | **✓ d4288** — **~24 L/s @ NORMAL · stain ~26 cm · head ~7.2 m** |
 | **Cut · fill · pour** | **Blocked — high water** · gravel margin collect OK |
@@ -59,12 +59,12 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 | **Cinder blocks** | **×220 in pipeline** *(×35 ready · ×185 curing)* | **~200–350 pour-grade** | **+×8 d4304 · lift band pause** |
 | **Rebar** | **×8** | **×12–20** | **One more forge run** *(d4118 rhythm live)* |
 | **Quicklime / putty** | **~4.45 kg / ~0 kg** | **~80–120 kg slaked class** | **Block day — knap + kiln top-up for ×8** |
-| **Filter sand** | **~85.6 kg** | **~80–150 kg** | **×8 band OK post-block day** |
+| **Filter sand** | **~88.2 kg** | **~80–150 kg** | **×8 band OK** |
 | **Gravel** | **~103 kg** | **~400–800 kg** | **Collect @ margin OK · pour waits low water** |
 | **Limestone** | **~54.6 kg** | — | **Several kiln burns banked** |
-| **Wood** | **~4.1 kg** | — | **Haul before next quad** |
-| **Norima wear** | **18** | — | **+1 per 2 trips · ✓ tuned d4276** |
-| **`CHAR-LANE`** | **~32.0 kg** | — | **Quad + kiln OK** |
+| **Wood** | **~99.5 kg** | — | **Quad runway ~2 burns** |
+| **Norima wear** | **14** | — | **✓ tune paid d4306 equiv. exchange** |
+| **`CHAR-LANE`** | **~60.0 kg** | — | **~2–3 quad burns banked · skip char heroes OK** |
 | **`QUICKLIME-1`** | **~0.05 kg tail** | — | **Kiln before next ×8** |
 | **`REBAR-BAR-Y13`** | **×10 @ rack** | **×12–20 est.** | **×2 forged d4282** |
 | **`CACO3-P7`** | **~54.6 kg** | — | **Kiln runway OK** |

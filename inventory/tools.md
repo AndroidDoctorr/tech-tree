@@ -63,8 +63,8 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 
 | ID | Tool | Where | State |
 |---|---|---|---|
-| **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | ✓ **LIVE d4297** |
-| `IRON-AXE-1` | Felling axe · wrought head **~340 g** · ash haft | M2 forge peg | Backup · haft donor for `ST-AXE-1` |
+| **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | ✓ **LIVE d4297** · **✓ sharpen d4306 retcon** |
+| `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · haft donor for `ST-AXE-1` · **✓ sharpen d4306 retcon** |
 | `IRON-SICKLE-1` | Harvest sickle · steel edge dress d4202 | `HARVEST-KIT-Y13` | ✓ LIVE |
 
 ## Worn and carried

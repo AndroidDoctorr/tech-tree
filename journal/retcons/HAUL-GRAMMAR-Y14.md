@@ -15,7 +15,9 @@
 | **d4117 / d2631** | Gravel · three-lap · sacks | **~10 kg** | Hand-cart lap scale |
 | **d4121** | Limestone · one-lap stub + knap | **~14 kg** | Single light load on a full-day hero |
 
-**Still valid:** **`d3174` clay** bulk liner · **ice** · **ore @ face** · **weir glean**.
+**Still valid:** **`d3174` clay** bulk liner · **ice** · **ore @ face**.
+
+**Cancelled d4309:** **weir glean** — sand via named **`SAND-HAUL`** only.
 
 ---
 
@@ -70,4 +72,4 @@ See [harvest.md](../../government/procedures/harvest.md).
 
 ---
 
-*Procedure patch: [harvest.md](../../government/procedures/harvest.md). Char quad: [day-4302.md](../days/year-012/week-615/day-4302.md).*
+*Procedure patch: [harvest.md](../../government/procedures/harvest.md). Char quad: [day-4302.md](../days/year-012/week-615/day-4302.md). Wood time exchange: [WOOD-EQUIVALENT-EXCHANGE-Y14.md](WOOD-EQUIVALENT-EXCHANGE-Y14.md).*

@@ -255,9 +255,8 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 |---|---|---|
 | **2-load + sieve** | **Default hero** · weir + fork bar · wet fill · yard reject | **~18–28 kg** |
 | **Half-day wet** | One laden trip + sieve | **~12–16 kg** |
-| **Weir glean** | Route pass · not a hero | **~2–4 kg** *(codified d4247)* |
 
-★ **Retired:** **d4094 four-lap (~7.2 kg net)** — cart lap count on a wagon.
+★ **Retired:** **d4094 four-lap (~7.2 kg net)** — cart lap count on a wagon. **Weir glean (~2–4 kg route pass)** — **cancelled d4309**; use named **`SAND-HAUL`** only.
 
 **Grog/temper sand** M-09 @ T-1 200 m — same wagon grammar when a hero is named; filter sand and grog sand share the shovel/sieve path, not the same pile.
 

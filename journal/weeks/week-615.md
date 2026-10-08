@@ -1,13 +1,14 @@
 # Week 615
 
-**Status:** **OPEN @ d4304 day 6** · **Cal-Y14 D64 · ~23 Feb Y14**
+**Status:** **CLOSED @ d4305 day 7** · **Cal-Y14 D65 · ~24 Feb Y14**
 
-*Week 614 closed @ d4298 day 7.*
+*Week 616 opens @ d4306.*
 
 ## Days
 
 | Day | Summary |
 |---|---|
+| 4305 | **✓ Wood fell haul · W615 CLOSE** |
 | 4304 | **✓ Quad char · ×8 blocks** |
 | 4303 | **✓ Sand + gravel combo · ×8 sand met** |
 | 4302 | **✓ Quad commission · LIVE** |

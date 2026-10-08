@@ -6,10 +6,24 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4304 · `year-012/`)*
+## Recent days *(append here · @ Day 4318 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4318 | [day-4318.md](days/year-012/week-617/day-4318.md) | **✓ Outlet gate hardware forge** | **Cal-Y14 D78 · ~6 Mar · W617 d3** |
+| 4317 | [day-4317.md](days/year-012/week-617/day-4317.md) | **✓ Bloom smelt · outlet gate draw** | **Cal-Y14 D77 · ~5 Mar · W617 d2** |
+| 4316 | [day-4316.md](days/year-012/week-617/day-4316.md) | **✓ Rebar ×2 · hydro floor ✓** | **Cal-Y14 D76 · ~7 Mar · W617 d4** |
+| 4315 | [day-4315.md](days/year-012/week-617/day-4315.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D75 · ~6 Mar · W617 d3** |
+| 4314 | [day-4314.md](days/year-012/week-617/day-4314.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D74 · ~5 Mar · W617 d2** |
+| 4313 | [day-4313.md](days/year-012/week-617/day-4313.md) | **✓ Block lift ×14 · W617 OPEN** | **Cal-Y14 D73 · ~4 Mar · W617 d1** |
+| 4312 | [day-4312.md](days/year-012/week-616/day-4312.md) | **✓ Block lift ×14 · W616 CLOSE** | **Cal-Y14 D72 · ~3 Mar · W616 d7** |
+| 4311 | [day-4311.md](days/year-012/week-616/day-4311.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D71 · ~2 Mar · W616 d6** |
+| 4310 | [day-4310.md](days/year-012/week-616/day-4310.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D70 · ~1 Mar · W616 d5** |
+| 4309 | [day-4309.md](days/year-012/week-616/day-4309.md) | **✓ WW-2 Q pt 4 · goat freshen watch** | **Cal-Y14 D69 · ~28 Feb · W616 d4** |
+| 4308 | [day-4308.md](days/year-012/week-616/day-4308.md) | **✓ Parsley/fava scout · `SEED-SCOUT` closed** | **Cal-Y14 D68 · ~27 Feb · W616 d3** |
+| 4307 | [day-4307.md](days/year-012/week-616/day-4307.md) | **✓ Ground read · `SPRING-SOW-Y14` LIVE** | **Cal-Y14 D67 · ~26 Feb · W616 d2** |
+| 4306 | [day-4306.md](days/year-012/week-616/day-4306.md) | **✓ Seed vault test + regen · sow gate GO** | **Cal-Y14 D66 · ~25 Feb · W616 d1** |
+| 4305 | [day-4305.md](days/year-012/week-615/day-4305.md) | **✓ Wood fell haul · W615 CLOSE** | **Cal-Y14 D65 · ~24 Feb · W615 d7** |
 | 4304 | [day-4304.md](days/year-012/week-615/day-4304.md) | **✓ Quad char · ×8 blocks** | **Cal-Y14 D64 · ~23 Feb · W615 d6** |
 | 4303 | [day-4303.md](days/year-012/week-615/day-4303.md) | **✓ Sand + gravel combo · ×8 sand met** | **Cal-Y14 D63 · ~22 Feb · W615 d5** |
 | 4302 | [day-4302.md](days/year-012/week-615/day-4302.md) | **✓ Quad commission · LIVE** | **Cal-Y14 D62 · ~21 Feb · W615 d4** |

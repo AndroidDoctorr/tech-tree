@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~32.0 kg** | Char lane | | d4304 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~20.6 kg** | Char lane | | d4318 forge |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~0.8 kg** | Store C vault | | d4258 |
-| `WOOD-OAK-P5` | Oak, green | **~4.1 kg** @ pile 5 | Pile 5 | | d4304 |
+| `WOOD-OAK-P5` | Oak, green | **~99.5 kg** @ pile 5 | Pile 5 | | d4305 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -34,7 +34,7 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ chem porch peg | Chem porch | d4153 | d4153 |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
 | **`GRAVEL-1`** | Gravel aggregate | **~103 kg** @ pile 4 south band | Pile 4 | | d4303 |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~85.6 kg** | Pile 4 apron | | d4304 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~40.0 kg** | Pile 4 apron | | d4315 blocks |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | `POZZ-TUFF-1` | Pozzolan / tuff | **~22.3 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4101 |
 
@@ -42,10 +42,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~54.6 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4303 retcon |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg tail** | Lime trough | d3390 | d4304 |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~38.6 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4315 kiln |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.25 kg tail** | Lime trough | d3390 | d4315 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
-| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×7 @ `WW-YARD`** | Block yard | d4030 | d4030 |
+| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×63 @ `WW-YARD`** | Block yard | d4030 | d4313 lift |
 | `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
@@ -103,7 +103,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~9.65 kg** | Pile 4 | | d3983 |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~44.6 kg** | v1 chem, isolated | | d3754 |
 | `GALENA-1` | Galena-class lead ore | **~7.8 kg** | Forge staging | | d4237 |
-| `H-11-HEMATITE` | Hematite | **~27.8 kg @ pile 4** | Pile 4 | | d4282 |
+| `H-11-HEMATITE` | Hematite | **~21.4 kg @ pile 4** | Pile 4 | | d4317 smelt |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~240 g @ chill tray** | Chill tray | d4186 | d4186 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **×0 spent → lock band d4186** | — | d4061 | d4186 |
 | **`MUSKET-LOCK-MAINSPRING-Y13-1`** | Main v-spring · **`ST-SPR-1`** | **×0 · assembled `MUSKET-LOCK-Y13-1` d4199** | — | d4186 | d4199 |
@@ -172,7 +172,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **~4 g tail** | Chill tray | | d3931 |
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~220 g tail @ mount** | Forge mount | | d4282 |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~250 g tail @ mount** | Forge mount | | d4318 forge |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-BAR-Y13-1`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-2`** | Production rebar · twisted · **~10.0 mm · ~555 mm** · hooks @ pour | **~405 g** | Forge peg rack | d4025 | d4025 |
@@ -182,6 +182,11 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`REBAR-BAR-Y13-6`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4084 | d4084 |
 | **`REBAR-BAR-Y13-7`** | Production rebar · twisted · **~10.0 mm · ~556 mm** · hooks @ pour | **~406 g** | Forge peg rack | d4118 | d4118 |
 | **`REBAR-BAR-Y13-8`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4118 | d4118 |
+| **`REBAR-BAR-Y13-9`** | Production rebar · twisted · **~10.0 mm · ~558 mm** · hooks @ pour | **~408 g** | Forge peg rack | d4282 | d4282 |
+| **`REBAR-BAR-Y13-10`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4282 | d4282 |
+| **`REBAR-BAR-Y13-11`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **~407 g** | Forge peg rack | d4316 | d4316 |
+| **`REBAR-BAR-Y13-12`** | Production rebar · twisted · **~10.1 mm · ~561 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4316 | d4316 |
+| **`OUTLET-GATE-HARDWARE-Y14-1`** | Forebay outlet gate kit · pintles ×2 · latch · stops ×3 · stem ~1.18 m · shoes ×2 | **×1 @ peg rack** | `FORGE-D` peg | d4318 | d4318 |
 | **`REBAR-SQUARE-CONTROL-Y13-1`** | Wrought square control · **spent on cover mocks** | **×0** | — | d4021 | d4023 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
 | **`REBAR-LAP-MOCK-Y13-1`** | Lap splice mock · break **PASS d4029** | **×0 · spent** | — | d4022 | d4029 |
@@ -363,6 +368,16 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 Rope is here rather than in tools because it is measured and consumed. A rope rigged into a fixed installation belongs to that installation's entry — `CAVE-3-FIXED-LINE-1` is in [infrastructure.md](infrastructure.md), not this table.
 
 ★★ **Grade is the row, not a note.** A length of rope at lashing grade and a length certified for loaded haul are different materials that happen to look identical, so the grade rides in the item name where a grep cannot miss it. `ROPE-2` carries its first real working load on the record — ~130 kg of basalt over 14 km, clean. Working load is **breaking ÷ 6**, a knot costs another third, and shock multiplies enormously. The measured breaking load came from deliberately destroying a length and is written up as doctrine, not held as stock.
+
+## Atelier art
+
+| ID | Item | Qty | Where | Made | Last |
+|---|---|---|---|---|---|
+| **`PAINTING-Y14-1`** | Egg-tempera on linen panel · horizon + memory portrait · north-light study | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
+| **`FRAME-OAK-Y14-1`** | Oak slip frame · ~280×360 mm · keyed corners | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
+| **`FRAME-OAK-Y14-2`** | Oak slip frame · ~280×360 mm · mate to **`PAINTING-Y14-1`** | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
+
+*Prior: **`PAINT-CANVAS-1`** @ **`EASEL-1`** · swatch studies d1701+ · **`EASEL-1`** @ infrastructure/M2.*
 
 ## Stone working
 

@@ -12,7 +12,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`EMMER-BULK-Y13`** | Emmer, bulk · Y13 harvest · graded | **~1.87 kg** | Horreum A main bay | d4217 | d4222 |
+| **`EMMER-BULK-Y13`** | Emmer, bulk · Y13 harvest · graded | **~0.37 kg** | Horreum A main bay | d4217 | d4307 |
 | **`BARLEY-BULK-Y13`** | Barley, bulk · Y13 trial · graded | **~0.32 kg** | Horreum A barley bay | d4217 | d4222 |
 | **`P-17-LENTIL-Y13`** | Lentil · Y13 harvest · graded | **~143 g** | Horreum A pulse bay | d4217 | d4221 |
 | **`P-18-CHICKPEA-Y13`** | Chickpea · Y13 harvest · graded | **~201 g** | Horreum A pulse bay | d4218 | d4221 |

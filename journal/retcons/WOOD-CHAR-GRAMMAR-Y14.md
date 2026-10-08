@@ -35,6 +35,8 @@
 
 **Aggregates:** see [HAUL-GRAMMAR-Y14.md](HAUL-GRAMMAR-Y14.md) — sand · gravel · limestone forward grammar; **partial replay + bonus @ d4303**.
 
+**Equivalent exchange:** see [WOOD-EQUIVALENT-EXCHANGE-Y14.md](WOOD-EQUIVALENT-EXCHANGE-Y14.md) — **+~28 kg `CHAR-LANE`** · painting + frames · tune/sharpen paid · **no wood stock bump**.
+
 ---
 
 *See [day-4297.md](../days/year-012/week-614/day-4297.md).*
