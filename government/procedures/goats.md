@@ -29,7 +29,7 @@
 | **G-02** | M | Billie | wild · A-03 class | **✓** | — | — | **West tie · sole intact buck** |
 | **G-03** | M | Wether | **d3191** | **✓** | **G-01** | **G-02** | **✓ castrated ~d3248 · horns kept · ~Y5 age** |
 | **G-04** | F | Doeling | **d3978** | **✓** | **G-01** | **G-02** | **Nursing · creep gate · **evaluate @ wean**** |
-| **G-05** | F | *2nd doe slot* | — | **✗** | — | — | **✓ KEEP decision · **capture queued spring Y14**** |
+| **G-05** | F | *2nd doe slot* | — | **✗** | — | — | **✓ KEEP · capture deferred — not Y14** *(d4327)* |
 
 **Head-count:** **×4 on campus** · **×1 slot reserved** · target **≤6 adults** class at full build.
 
@@ -96,4 +96,5 @@ Daily care: [daily.md](../../checklists/daily.md). Hazards: **`GOAT-RUT-BREED`**
 | d#### | Event | IDs | Notes |
 |---|---|---|---|
 | **d4270** | **Registry opened · doctrine locked** | all | Backfill from journal |
+| **d4374** | **Pen refresh** | **G-01…G-04** | Bedding · browse rack ~10 d · creep checked · **G-04 wean scorecard ~Jun** |
 | | | | |

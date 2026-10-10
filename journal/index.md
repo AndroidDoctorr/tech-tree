@@ -6,10 +6,84 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4318 · `year-012/`)*
+## Recent days *(append here · @ Day 4392 · `year-012/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4392 | [day-4392.md](days/year-012/week-628/day-4392.md) | **✓ Kiln · ×8** | **Cal-Y14 D152 · ~19 May · W628 d3** |
+| 4391 | [day-4391.md](days/year-012/week-628/day-4391.md) | **✓ Kiln · ×8** | **Cal-Y14 D151 · ~18 May · W628 d2** |
+| 4390 | [day-4390.md](days/year-012/week-628/day-4390.md) | **✓ Sand haul** | **Cal-Y14 D150 · ~17 May · W628 d1** |
+| 4389 | [day-4389.md](days/year-012/week-627/day-4389.md) | **✓ Lime haul 2** | **Cal-Y14 D149 · ~16 May · W627 d7** |
+| 4388 | [day-4388.md](days/year-012/week-627/day-4388.md) | **✓ Lime haul · FAVA** | **Cal-Y14 D148 · ~15 May · W627 d6** |
+| 4387 | [day-4387.md](days/year-012/week-627/day-4387.md) | **✓ Kiln · ×8** | **Cal-Y14 D147 · ~14 May · W627 d5** |
+| 4386 | [day-4386.md](days/year-012/week-627/day-4386.md) | **✓ Kiln · ×8** | **Cal-Y14 D146 · ~13 May · W627 d4** |
+| 4385 | [day-4385.md](days/year-012/week-627/day-4385.md) | **✓ Sand haul** | **Cal-Y14 D145 · ~12 May · W627 d3** |
+| 4384 | [day-4384.md](days/year-012/week-627/day-4384.md) | **✓ North trail read · kiln · ×8** | **Cal-Y14 D144 · ~11 May · W627 d2** |
+| 4383 | [day-4383.md](days/year-012/week-627/day-4383.md) | **✓ Pozz d3 unload · W627 OPEN** | **Cal-Y14 D143 · ~10 May · W627 d1** |
+| 4382 | [day-4382.md](days/year-012/week-626/day-4382.md) | **✓ Pozz d2 · W626 CLOSE** | **Cal-Y14 D142 · ~9 May · W626 d7** |
+| 4381 | [day-4381.md](days/year-012/week-626/day-4381.md) | **✓ Trail read · camp d1** | **Cal-Y14 D141 · ~8 May · W626 d6** |
+| 4380 | [day-4380.md](days/year-012/week-626/day-4380.md) | **✓ Pozz north prep · campus cleanup** | **Cal-Y14 D140 · ~7 May · W626 d5** |
+| 4379 | [day-4379.md](days/year-012/week-626/day-4379.md) | **✓ Sand haul** | **Cal-Y14 D139 · ~6 May · W626 d4** |
+| 4378 | [day-4378.md](days/year-012/week-626/day-4378.md) | **✓ Block lift ×14** | **Cal-Y14 D138 · ~5 May · W626 d3** |
+| 4377 | [day-4377.md](days/year-012/week-626/day-4377.md) | **✓ Block lift ×14** | **Cal-Y14 D137 · ~4 May · W626 d2** |
+| 4376 | [day-4376.md](days/year-012/week-626/day-4376.md) | **✓ Kiln · ×8 · W626 OPEN** | **Cal-Y14 D136 · ~3 May · W626 d1** |
+| 4375 | [day-4375.md](days/year-012/week-625/day-4375.md) | **✓ Kiln · ×8 · W625 CLOSE** | **Cal-Y14 D135 · ~2 May · W625 d7** |
+| 4374 | [day-4374.md](days/year-012/week-625/day-4374.md) | **✓ Grape thin · goat pen** | **Cal-Y14 D134 · ~1 May · W625 d4** |
+| 4373 | [day-4373.md](days/year-012/week-625/day-4373.md) | **✓ Wagon tune · Norima 10** | **Cal-Y14 D133 · ~30 Apr · W625 d5** |
+| 4372 | [day-4372.md](days/year-012/week-625/day-4372.md) | **✓ Limestone haul** | **Cal-Y14 D132 · ~29 Apr · W625 d4** |
+| 4371 | [day-4371.md](days/year-012/week-625/day-4371.md) | **✓ Char quad moderate+** | **Cal-Y14 D131 · ~28 Apr · W625 d3** |
+| 4370 | [day-4370.md](days/year-012/week-625/day-4370.md) | **✓ Wood haul** | **Cal-Y14 D130 · ~27 Apr · W625 d2** |
+| 4369 | [day-4369.md](days/year-012/week-625/day-4369.md) | **✓ Sand haul** | **Cal-Y14 D129 · ~26 Apr · W625 d1** |
+| 4368 | [day-4368.md](days/year-012/week-624/day-4368.md) | **✓ Block lift ×14 · W624 CLOSE** | **Cal-Y14 D128 · ~25 Apr · W624 d7** |
+| 4367 | [day-4367.md](days/year-012/week-624/day-4367.md) | **✓ Block lift ×14** | **Cal-Y14 D127 · ~24 Apr · W624 d6** |
+| 4366 | [day-4366.md](days/year-012/week-624/day-4366.md) | **✓ Kiln · ×8** | **Cal-Y14 D126 · ~23 Apr · W624 d5** |
+| 4365 | [day-4365.md](days/year-012/week-624/day-4365.md) | **✓ Kiln · ×8** | **Cal-Y14 D125 · ~22 Apr · W624 d4** |
+| 4364 | [day-4364.md](days/year-012/week-624/day-4364.md) | **✓ Char quad moderate+** | **Cal-Y14 D124 · ~21 Apr · W624 d3** |
+| 4363 | [day-4363.md](days/year-012/week-624/day-4363.md) | **✓ Sand haul** | **Cal-Y14 D123 · ~20 Apr · W624 d2** |
+| 4362 | [day-4362.md](days/year-012/week-624/day-4362.md) | **✓ Char quad** | **Cal-Y14 D122 · ~19 Apr · W624 d1** |
+| 4361 | [day-4361.md](days/year-012/week-623/day-4361.md) | **✓ Char · kiln · reserve +10 kg** | **Cal-Y14 D121 · ~18 Apr · W623 d7** |
+| 4360 | [day-4360.md](days/year-012/week-623/day-4360.md) | **✓ Wood haul** | **Cal-Y14 D120 · ~17 Apr · W623 d6** |
+| 4359 | [day-4359.md](days/year-012/week-623/day-4359.md) | **✓ Block lift ×14** | **Cal-Y14 D119 · ~16 Apr · W623 d5** |
+| 4358 | [day-4358.md](days/year-012/week-623/day-4358.md) | **✓ Block lift ×14** | **Cal-Y14 D118 · ~15 Apr · W623 d4** |
+| 4357 | [day-4357.md](days/year-012/week-623/day-4357.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D117 · ~14 Apr · W623 d3** |
+| 4356 | [day-4356.md](days/year-012/week-623/day-4356.md) | **✓ ×8 blocks** | **Cal-Y14 D116 · ~13 Apr · W623 d2** |
+| 4355 | [day-4355.md](days/year-012/week-623/day-4355.md) | **✓ Char · kiln lime** | **Cal-Y14 D115 · ~12 Apr · W623 d1** |
+| 4354 | [day-4354.md](days/year-012/week-622/day-4354.md) | **✓ Norima tune · W622 CLOSE** | **Cal-Y14 D114 · ~11 Apr · W622 d7** |
+| 4353 | [day-4353.md](days/year-012/week-622/day-4353.md) | **✓ Sand haul** | **Cal-Y14 D113 · ~10 Apr · W622 d6** |
+| 4352 | [day-4352.md](days/year-012/week-622/day-4352.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D112 · ~9 Apr · W622 d5** |
+| 4351 | [day-4351.md](days/year-012/week-622/day-4351.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D111 · ~8 Apr · W622 d4** |
+| 4350 | [day-4350.md](days/year-012/week-622/day-4350.md) | **✓ Sand haul** | **Cal-Y14 D110 · ~7 Apr · W622 d3** |
+| 4349 | [day-4349.md](days/year-012/week-622/day-4349.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D109 · ~6 Apr · W622 d2** |
+| 4348 | [day-4348.md](days/year-012/week-622/day-4348.md) | **✓ ×8 blocks** | **Cal-Y14 D108 · ~5 Apr · W622 d1** |
+| 4347 | [day-4347.md](days/year-012/week-621/day-4347.md) | **✓ Char · kiln lime · W621 CLOSE** | **Cal-Y14 D107 · ~4 Apr · W621 d7** |
+| 4346 | [day-4346.md](days/year-012/week-621/day-4346.md) | **✓ Sand haul** | **Cal-Y14 D106 · ~3 Apr · W621 d6** |
+| 4345 | [day-4345.md](days/year-012/week-621/day-4345.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D105 · ~2 Apr · W621 d5** |
+| 4344 | [day-4344.md](days/year-012/week-621/day-4344.md) | **✓ Wood haul** | **Cal-Y14 D104 · ~1 Apr · W621 d4** |
+| 4343 | [day-4343.md](days/year-012/week-621/day-4343.md) | **✓ HOME · apiary daily** | **Cal-Y14 D103 · ~31 Mar · W621 d3** |
+| 4342 | [day-4342.md](days/year-012/week-621/day-4342.md) | **✓ Apiary watch · wax** | **Cal-Y14 D102 · ~30 Mar · W621 d2** |
+| 4341 | [day-4341.md](days/year-012/week-621/day-4341.md) | **✓ Char retort quad** | **Cal-Y14 D101 · ~29 Mar · W621 d1** |
+| 4340 | [day-4340.md](days/year-012/week-620/day-4340.md) | **✓ Kiln lime · ×8 blocks · W620 CLOSE** | **Cal-Y14 D100 · ~28 Mar · W620 d7** |
+| 4339 | [day-4339.md](days/year-012/week-620/day-4339.md) | **✓ ×8 blocks** | **Cal-Y14 D99 · ~27 Mar · W620 d6** |
+| 4338 | [day-4338.md](days/year-012/week-620/day-4338.md) | **✓ Farm pass · herb designate** | **Cal-Y14 D98 · ~26 Mar · W620 d5** |
+| 4337 | [day-4337.md](days/year-012/week-620/day-4337.md) | **✓ Char retort · kiln lime** | **Cal-Y14 D97 · ~25 Mar · W620 d4** |
+| 4336 | [day-4336.md](days/year-012/week-620/day-4336.md) | **✓ Wood haul** | **Cal-Y14 D96 · ~24 Mar · W620 d3** |
+| 4335 | [day-4335.md](days/year-012/week-620/day-4335.md) | **✓ Sand haul** | **Cal-Y14 D95 · ~23 Mar · W620 d2** |
+| 4334 | [day-4334.md](days/year-012/week-620/day-4334.md) | **✓ Norima tune · wear 14** | **Cal-Y14 D94 · ~22 Mar · W620 d1** |
+| 4333 | [day-4333.md](days/year-012/week-619/day-4333.md) | **✓ Kiln lime · ×8 · W619 CLOSE** | **Cal-Y14 D93 · ~21 Mar · W619 d7** |
+| 4332 | [day-4332.md](days/year-012/week-619/day-4332.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D92 · ~20 Mar · W619 d6** |
+| 4331 | [day-4331.md](days/year-012/week-619/day-4331.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D91 · ~19 Mar · W619 d5** |
+| 4330 | [day-4330.md](days/year-012/week-619/day-4330.md) | **✓ Lime haul** | **Cal-Y14 D90 · ~18 Mar · W619 d4** |
+| 4329 | [day-4329.md](days/year-012/week-619/day-4329.md) | **✓ Gravel haul** | **Cal-Y14 D89 · ~17 Mar · W619 d3** |
+| 4328 | [day-4328.md](days/year-012/week-619/day-4328.md) | **✓ Sand haul · sow close** | **Cal-Y14 D88 · ~16 Mar · W619 d2** |
+| 4327 | [day-4327.md](days/year-012/week-619/day-4327.md) | **✓ Farm lap · oak · grain mark · vitriol** | **Cal-Y14 D87 · ~15 Mar · W619 d1** |
+| 4326 | [day-4326.md](days/year-012/week-618/day-4326.md) | **✓ Kiln lime · ×8 blocks · W618 CLOSE** | **Cal-Y14 D86 · ~14 Mar · W618 d7** |
+| 4325 | [day-4325.md](days/year-012/week-618/day-4325.md) | **✓ Sand haul** | **Cal-Y14 D85 · ~13 Mar · W618 d6** |
+| 4324 | [day-4324.md](days/year-012/week-618/day-4324.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D84 · ~12 Mar · W618 d5** |
+| 4323 | [day-4323.md](days/year-012/week-618/day-4323.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D83 · ~11 Mar · W618 d4** |
+| 4322 | [day-4322.md](days/year-012/week-618/day-4322.md) | **✓ Char retort quad** | **Cal-Y14 D82 · ~10 Mar · W618 d3** |
+| 4321 | [day-4321.md](days/year-012/week-618/day-4321.md) | **✓ Gravel haul** | **Cal-Y14 D81 · ~9 Mar · W618 d2** |
+| 4320 | [day-4320.md](days/year-012/week-618/day-4320.md) | **✓ Sand haul** | **Cal-Y14 D80 · ~8 Mar · W618 d1** |
+| 4319 | [day-4319.md](days/year-012/week-617/day-4319.md) | **✓ Kiln lime · ×8 blocks** | **Cal-Y14 D79 · ~7 Mar · W617 d4** |
 | 4318 | [day-4318.md](days/year-012/week-617/day-4318.md) | **✓ Outlet gate hardware forge** | **Cal-Y14 D78 · ~6 Mar · W617 d3** |
 | 4317 | [day-4317.md](days/year-012/week-617/day-4317.md) | **✓ Bloom smelt · outlet gate draw** | **Cal-Y14 D77 · ~5 Mar · W617 d2** |
 | 4316 | [day-4316.md](days/year-012/week-617/day-4316.md) | **✓ Rebar ×2 · hydro floor ✓** | **Cal-Y14 D76 · ~7 Mar · W617 d4** |

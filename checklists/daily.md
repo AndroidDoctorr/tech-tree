@@ -12,6 +12,7 @@ Procedure IDs are searchable. Where a procedure doc owns the detail it is linked
 | `TRIGGER-SCAN` | Run [triggers.md](triggers.md) against today's sky and today's readings — **before** planning the day, not after | A reading that only exists today |
 | `CALENDAR-READ` | Open [calendar.md](calendar.md) and read the live band lines. Do not read from memory | A mandatory sow or harvest, silently |
 | `PERIODIC-DUE` | Check [periodic.md](periodic.md) against the last-done dates in [now.md](../now.md) | Drift — the interval items are the ones that slip |
+| `NORIMA-WEAR-READ` | Read **Norima wear** + **margin haul parity** in [hazards.md](../hazards.md) · tripwires in [wagon-wear.md](../government/procedures/wagon-wear.md) | A loaded haul at wear **31+** without tune · missed **schedule tune @ 23+** |
 
 ## Chores
 
@@ -31,7 +32,7 @@ Only the ones live right now. Retire a row when its process closes.
 | ID | Check | A miss costs |
 |---|---|---|
 | `CU-CELL-TEND` | `CU-CELL-1` — one look in the morning, one in the evening | A stalled or shorted cell running all night for nothing |
-| `HIVE-SCALE-READ` | `HIVE-SCALE-1`, **at the same hour every day**. A hive weighs less at noon with its foragers out than at dusk | A point off the forage curve — and the curve is the whole point of the scale |
+| `HIVE-SCALE-READ` | `HIVE-SCALE-1`, **at the same hour every day** **1 Mar – 31 Oct**. A hive weighs less at noon with its foragers out than at dusk. Nov–Feb: **weekly on `APIARY-DOORSTEP`** unless opened | A point off the forage curve — and the curve is the whole point of the scale · [apiary-routine.md](../government/procedures/apiary-routine.md) |
 
 ## Standing rule
 

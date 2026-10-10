@@ -42,7 +42,7 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 
 | ID | Check | A miss costs | Neglect |
 |---|---|---|---|
-| `APIARY-DOORSTEP` | Every box, lid on: pollen in, traffic, fighting, drones, fanning. [bees.md](../government/procedures/bees.md) | A queenless or robbing colony, found a fortnight late | ☠ **REVERSE** |
+| `APIARY-DOORSTEP` | **All five top-bar boxes · lid on:** pollen · traffic · fighting · drones · fanning. **Not a wax cut — doorstep only.** Full mid-day pass = **`APIARY-WATCH`** ([apiary-routine.md](../government/procedures/apiary-routine.md)) | A queenless or robbing colony, found a fortnight late | ☠ **REVERSE** |
 | `FARM-CARE` | Fork loop Bed B→D. Goat pen scrape, trough and feeder read, browse top-up | Compounding — nothing here is urgent alone | ★ PAUSE |
 | `RETT-READ` | Every live submerged bundle: snap test, smell, day count. Runs inside the `FARM-CARE` pass, not as a separate trip. See `RETT-PULL` in [triggers.md](triggers.md) | An over-retted bundle, which is unrecoverable | ☠ **REVERSE** |
 | `PERENNIAL-EYES` | Read [calendar.md](calendar.md) for live fruit and nut bands, then look at the plants on the farm pass. Bed D figs, P-03 grape, goat browse | A whole year of one crop — this is how Y9 acorn was lost | ☠ **REVERSE** |

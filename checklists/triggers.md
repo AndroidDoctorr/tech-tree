@@ -33,7 +33,8 @@ Fire on a reading. Where one of these exists, it replaces any interval check for
 | `HIVE-FEED` | Hive hefts light, or scale weight **falling** | Dearth. Feed thin honey-water with floats **and reduce the entrance** — a light colony is a robbing target |
 | `SWARM-CHASE` | Sudden large weight drop on a fine day | They swarmed. Go and look |
 | `FLOW-NOTE` | Scale weight **climbing** | The flow is on. Note the date — that date is a fact about the valley, not about the hive |
-| `SWARM-SPLIT` | A queen cup with an **egg or jelly** in it | 8–9 day clock. Split into `SPARE-HIVE-1`, on the old stand |
+| `WAX-CUT-SURPLUS` | Scale **climbed then flat ≥ ~7 d** · hive heft **solid** | Cut **≤1 pale outer honey bar** per strong hive (max 3) · queue **`COMB-TO-RENDER`** · [apiary-routine.md](../government/procedures/apiary-routine.md) |
+| `SWARM-SPLIT` | A queen cup with an **egg or jelly** in it | 8–9 day clock. **`HIVE-SPACE-BAR` if cups were dry first.** **`SPARE-HIVE-1` is occupied @ d3984** — artificial swarm only with **named spare box / boost `HIVE-7` / player plan** ([apiary-routine.md](../government/procedures/apiary-routine.md)) |
 | `SUPERSEDURE-LEAVE` | One or two queen cells on the comb **face** | Supersedure. Leave them — destroying them kills the colony |
 | `SKEP-RENDER` | Last brood hatches in a driven skep | Render that day. Waiting buys nothing, the wax is already made, and wax moth runs on a temperature clock rather than a calendar. `SKEP-2` cost ~500 g to nine warm days |
 

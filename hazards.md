@@ -85,7 +85,8 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **14** | **d4306 equiv. tune −6 · d4305 wood +1 · d4303 combo +1** |
+| **Norima wear** | **12** | **d4388 lime · margin haul 2/2 tick** |
+| **Norima margin haul parity** | **1** | **d4389 lime · d4390 sand hold · next margin haul ticks wear** |
 | **mishap_pool** | **0** | **POP HIT d3883 · jar pour slip · spill kit PASS · pool reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
@@ -195,30 +196,33 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 
 ### Wagon wear ledger *(Norima · `WAGON-V2-CHASSIS-1`)*
 
+**Live procedure:** [wagon-wear.md](government/procedures/wagon-wear.md) — parity tick · tripwires · agent warnings.
+
 **Scale:** **0–100** maintenance-debt index for hazard `(wear / 50) × load × terrain` — **not** rim mm or “percent life.”
 
-**What it tracks:** deferred maintenance across **hubs · tyres · bed wear strips · lash · cover · hitch** — grease drying, collar creep, rim wobble, thin strips, stretched lash. **+1** ≈ one loaded haul’s worth of that debt.
+**What it tracks:** deferred maintenance across **hubs · tyres · bed wear strips · lash · cover · hitch** — grease drying, collar creep, rim wobble, thin strips, stretched lash.
 
 | Band | Read |
 |------|------|
-| **0–15** | Fresh / just rebuilt |
-| **16–30** | Normal season — routine tune on schedule |
-| **31–45** | Due tune — bind ghost · wobble · thin strips flagged |
-| **46–60** | Parts wearing — tune buys less; plan overhaul |
+| **≤15** | Fresh / post tune or overhaul |
+| **16–22** | Normal season |
+| **23–30** | **Schedule tune** |
+| **31–45** | **Due tune** — bind ghost · wobble · thin strips |
+| **46–60** | Parts wearing — tune **−4** only; plan overhaul |
 | **61+** | Failure band — mishap rolls get mean |
 
 | Event | Δ wear |
 |-------|--------|
-| **Loaded haul hero** — margin · trail · exped · multi-lap stone/wood/lime **with meaningful load** | **+1** |
-| **Routine margin haul** — T-1 wood 3-lap · T-1 sand 4-lap · empty return · dry crown · **with `WAGON-V2-RIM-SET-1` + `WAGON-V2-LEAF-SPRING-ST-SPR-1` live** | **+1 per two hauls** *(alternate tick — iron tyre + spring pack cut shock; d4092 grammar)* |
-| **Heavy manifest** — four-lap wood · ~90 kg north run · trib pozz · multi-lap lime/ore **with meaningful load** | **+1** *(each qualifying day — does not use the alternate tick)* |
+| **Margin haul pair** — **`WOOD-HAUL` / `SAND-HAUL` / `HAUL-LIME`** Y14 2-load grammar · **`norima_margin_haul_parity` 1→0** | **+1 per two haul days** |
+| **Heavy manifest** — four-lap wood · ~90 kg north run · trib pozz · multi-lap lime/ore **with meaningful load** | **+1** *(immediate — also counts as one margin haul toward parity)* |
 | **Campus yard roll · garage apron · empty bed · hand loop tune test** | **0** |
 | **Farm-scare inline hub grease** *(minutes, not a tune hero)* | **0** |
-| **Routine tune** — **`WAGON-V2-TUNE-*`**: grease · lash · trim · cover roll · empty cert | **−6** *(adjustment — does not replace metal)* |
-| **Overhaul close** — **`WAGON-V2-OVERHAUL-*` D1–D3**: strip · forge replacements · cert on D3 | **set wear → 15** *(post-rebuild baseline — not a delta)* |
+| **Routine tune** — **`WAGON-V2-TUNE-*`**: wear **≤45** | **−6** *(max floor **10**)* |
+| **Routine tune** — wear **46–60** | **−4** |
+| **Overhaul close** — **`WAGON-V2-OVERHAUL-*` D1–D3** | **set wear → 15** · **parity → 0** |
 | **Partial grease pass** *(minutes, not a tune hero)* | **0** |
 
-> **Prior routine tunes at −4 stand in the journal through d3462; apply −6 from d3463 onward.** **`WAGON-V2-OVERHAUL-Y10` baseline in [retcon](../journal/retcons/WAGON-V2-OVERHAUL-WEAR-Y10.md).**
+> **Prior routine tunes at −4 stand in the journal through d3462; apply −6 from d3463 onward.** **`WAGON-V2-OVERHAUL-Y10` baseline in [retcon](../journal/retcons/WAGON-V2-OVERHAUL-WEAR-Y10.md).** **d4373+ wear retcon:** margin hauls d4360–d4372 re-ticked at **+1 per two hauls** → tune close **10** not 13.
 
 ### Forge *(hero-day)*
 

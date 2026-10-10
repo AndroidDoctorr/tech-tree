@@ -1,6 +1,8 @@
 # Bees
 
-**Split out of now.md @ d3251.** Live roster + everything learned. **Calendar bands live in [player-calendar.md](../../checklists/calendar.md); this is the how-and-why.**
+**Split out of now.md @ d3251.** Live roster + everything learned. **Calendar bands live in [calendar.md](../../checklists/calendar.md); this is the how-and-why.**
+
+> ★★ **Obligatory what-to-do-when (wax budget · daily/weekly/seasonal IDs):** [apiary-routine.md](apiary-routine.md) — player directive filed @ d4342.
 
 ---
 
@@ -363,7 +365,8 @@
 
 - ✓ **`APIARY-ASSESSMENT-Y12-1` d3599** — kit · doorstep · four opens · modern-design audit **PASS**
 - ✓ **`INBREEDING-METER-Y12-1` re-map d3617** — **348/403 sealed · ~13% excess stable**
-- ✓ **Genetic import band d3628** — **no spring swarm in `BAIT-BOX`** · **`BAIT-BOX` stowed @ garage** · ⚑ **Player: genetic import next spring swarm band** *(d3789)*
+- ✓ **Genetic import band d3628** — **no spring swarm in `BAIT-BOX`** · **`BAIT-BOX` stowed @ garage**
+- **Y14 player plan @ d4342** — **autumn sealed-colony import** *(far stock / Dörtyol class · not spring bait)* · **`APIARY-WATCH-Y14-1` d4342**
 - ★★ **HIVE-SCALE-1 — platform under HIVE-3, same hour daily.** *Three years overdue*
 - ⚠ ★★ **CARRYING CAPACITY + THE JUNE–AUGUST DEARTH.** *The apiary is a POPULATION and the real constraint is FORAGE, not boxes — bees fly a couple of miles, so past some point another hive only divides the same nectar.* **Spring here is a flood and midsummer a desert.** **Plant forage** *(lemon balm, and anything that blooms in the gap)*
 - ✓ **SPARE-HIVE-1 built d3259** — the gap is closed

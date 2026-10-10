@@ -25,12 +25,12 @@ Every sow and harvest is mandatory unless the player explicitly defers it. Name 
 - **Sow day + 3 weeks** — Bird establishment window · `BIRD-WATCH` · `BIRD-DEVICE-RESET`
 - **to 16 Mar** — Oak orchard spring read / replacement window · `OAK-ORCHARD-READ`
 - **Mar – Apr** — Shoot thin · `GRAPE-SHOOT-THIN` *(the budbreak job)*
-- **21 Mar** — Apiary expand / swarm / wax harvest opens · `HIVE-SPLIT` · `WAX-RENDER`
+- **21 Mar** — Apiary expand / swarm / wax harvest opens · `HIVE-SPLIT` · `WAX-RENDER` · **obligatory routine → [apiary-routine.md](../government/procedures/apiary-routine.md)**
 - **21 Mar – 20 Apr** — Campus herb seed designation · `HERB-SEED-DESIGNATE`
 
 ## April
 - **1 Apr** — Quartz / ore haul season · `ORE-HAUL`
-- **20 Apr** — Apiary / swarm / wax harvest closes
+- **20 Apr** — Apiary / swarm / wax harvest closes · **≥1 `APIARY-WATCH` in band** · **+1 if strong hive shows waxed/charged cups** ([apiary-routine.md](../government/procedures/apiary-routine.md))
 
 ## May
 - **15 May – 30 Jun** — Fava food-pod pick · `FAVA-PICK`
