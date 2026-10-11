@@ -19,9 +19,18 @@ Every day that is logged gets a **`## Consumption`** block. Split it into **Dail
 
 ★ **"As needed" means judge the season and the day's hours — not omit the block.** Write `none` on a line when a category truly did not fire.
 
-## Weir glean — **CANCELLED d4309**
+## Sand glean — **RESUMED d4443** *(was cancelled d4309)*
 
-**Player directive:** opportunistic sand gleans **retired** — **`SAND-HAUL`** Norima grammar (**~18–28 kg** per hero) covers filter sand. **Do not** auto-credit **`SAND-GLEAN-d####`** on farm scare · crown pass · or wagon routes unless the player explicitly names a glean.
+**Player directive:** credit opportunistic filter sand when a day **already passes** weir · fork bar · L0 sand exposure · crown/wagon route **and** a **~5–15 min** pinch is plausible without stealing the hero.
+
+| | |
+|---|---|
+| **ID** | **`SAND-GLEAN-d####`** on that day file |
+| **Amount** | **~0.5–2.5 kg** net @ pile 4 apron after quick sieve or wet stack *(discovery magnitude OK)* |
+| **When** | Farm scare/weir lip · gravel/wood/lime haul return via bar · campus crown — **not** on a dedicated **`SAND-HAUL`** day |
+| **Ledger** | One line in **Gains** + patch **`SAND-FILTER-1`** once |
+
+**`SAND-HAUL`** remains the full hero (**~18–28 kg** · Norima 2-load + yard sieve).
 
 Craft, haul, lap, forge, kiln, smelt, retort, glass, build: **every material row** with amount · patch [inventory/resources.md](../inventory/resources.md) or the split file the row lives in.
 

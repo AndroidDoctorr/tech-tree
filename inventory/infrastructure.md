@@ -39,6 +39,11 @@ Map: chem porch east cheek · Built: d2742
 
 Slip jars ranked; fire-table pegs cleared.
 
+### `VAC-BENCH-1` — mercury vacuum bench *(frame + pan LIVE)*
+Map: **chem porch north cheek** · **`VAC-BENCH-SITE-Y14-1`** · Opened **d4454**
+
+Oak **bolt-down frame** (`VAC-BENCH-FRAME-Y14-1`) per d4453 stake — column sill notch · cork-plate cleats. **`VAC-BENCH-PAN-Y14-1`** — **~0.72 × 0.55 m** lead-lined floor pan · **25 mm oak lip** · **NW sump**. **`VAC-BENCH-MANIFOLD-Y14-1`** — oak block · **`AIR-PUMP-2` @ shelf clamp** · column stub capped · **`P-LAB-STOPCOCK-1` bleed** · **`VAC-BENCH-CORK-PLATE-Y14-1`**. ✓ **Rough vac trial PASS d4455** — partial vac · cork-limited hold. ☠ **Spill containment only until Hg loop commissioned** · **`LAB-FUME-CABINET-1` blast-gate stop 3** when distill/Hg work starts. **`VAC-COLUMN-Y14-1`** — **mounted @ column stub** *(d4463)*. **`VAC-CISTERN-DISH-Y14-1`** — **@ lead pan sump · dry**. ✓ **Dry assembly LIVE** — **no Hg**. **`VAC-FALL-TRAP-Y14-1`** + **`VAC-FALL-HEADER-Y14-1`** *(d4466)* — trap plumbed above cistern. ✓ **`VAC-HG-LOOP-Y14-1` ~200 g** charged d4467 · ✓ **first fall test PASS d4467** — holds **~680 mm** class · beats rough pump on cork · ✓ **`VAC-FALL-OSCILLATOR-Y14-1`** long run **PASS d4468** — **~247 falls / ~10 h** · **~705 mm** hold · cork candle **~120 s** class · **not room blackout yet** trials. ⚑ **Long fall · envelope · bulb**.
+
 ### `LAB-FUME-CABINET-1` — bench fume hood
 Map: **`CHEM-LAB-WING-1` south bench west bay** · Slated **d3840** · Live **d3843** · Proof **CLOSED d3876**
 
@@ -529,7 +534,7 @@ Map: craft peg / **`WORKBENCH-1`** clamp · Built: d3930
 **`PT-10-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~14 ml/stroke class** · hand trial **PASS** d3930.
 
 ### `AIR-PUMP-2` — scale bench air pump
-Map: craft peg / **`WORKBENCH-1`** clamp · Built: d3949
+Map: **`VAC-BENCH-1` manifold shelf** *(was `WORKBENCH-1` clamp)* · Built: d3949 · **Relocated d4455**
 
 **`PT-22-A-PROD-1`** WI barrel **~175 mm** · brass twin-flap head · oak piston + leather cup · **~68 ml/stroke class** · delivery + rough inlet vac · hand trial **PASS** d3949. ⚑ **vac-specialized duplicate** · compressor duplicate when refrigeration arc names loop. **`AIR-PUMP-CRANK-1`** defer. Not **`LIQUID-PUMP-2`** *(wagon liquid only)*.
 

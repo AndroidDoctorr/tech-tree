@@ -25,7 +25,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `EMMER-BULK-Y9` | Emmer, bulk · ⚠ **germ ~half** — a thin eating year | ~0.85 kg | Horreum A, `EMMER-BULK-Y9` bay | Y9 | d3214 |
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · Y12 refresh | **×0 · spent Y13 sprint** | — | d3854 | d4221 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
-| `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · Y12+Y13 food laps | **~1.47 kg** | Horreum snack jar | d3685 | d4039 |
+| `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · Y12–Y14 food laps | **~2.33 kg** | Horreum snack jar | d3685 | d4407 |
 | `BARREL-4-GRAIN` | Cracked grain, working · v1 tap | **×0 · spent Y13 parched sprint** | `BARREL-4`, v1 | d3853 | d4221 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 
@@ -79,6 +79,8 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
 | `FIG-FRESH-Y13-1` | Fig fresh · Bed D pick d4098 | **~680 g** | Cool step | d4098 | d4098 |
 | `FIG-LEATHER-Y13-1` | Fig leather tray · sun dry | **~680 g gross wet** | Horreum east rack | d4098 | d4098 |
+| **`FIG-FRESH-Y14-1`** | Fig fresh · Bed D repeat d4469+d4474 | **~1.5 kg** | Cool step | d4469 | d4474 pick |
+| **`FIG-LEATHER-Y14-1`** | Fig leather tray · sun dry | **~2.15 kg gross wet** | **`W-1` / east rack** | d4469 | d4474 tray |
 | `GRAPE-FRESH-Y13-1` | Grape, fresh · P-03 partial strip d4099 | **~520 g** | Cool step | d4099 | d4099 |
 | `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | ×0 spent | — | d3745 | d3872 |
 | `FIG-LEATHER-Y12-1` | Fig leather tray · sun dry | ×0 dry | Horreum east rack | d3745 | d3872 |
@@ -143,7 +145,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **GREEN · cure shelf** | ~0.435 kg green *(~22 bars)* | W-1 porch cure shelf | d3452 | d3598 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.36 kg** | Lamp jar · culina | d3251 | d4229 |
-| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.8 kg** | Horreum cool step jar | d3795 | d3828 |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.74 kg** | Horreum cool step jar | d3795 | d4480 cork grease |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

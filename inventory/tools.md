@@ -142,6 +142,21 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
 | `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×4 FIRED X d3988 · all clean** · **P–W spent** · **×0 GREEN @ sun rack** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
+| **`VAC-COLUMN-Y14-1`** | Vac bench sealed bore column · **~920 mm · ~7.1 mm ID** · **mounted @ manifold stub** | **`VAC-BENCH-1`** | d4463 unload |
+| **`VAC-CISTERN-DISH-Y14-1`** | Hg cistern dish · **~118 mm** · **~95 g Hg** | **`VAC-BENCH-1`** | d4467 charge |
+| **`VAC-FALL-TRAP-Y14-1`** | Hg fall trap · **mounted @ `VAC-FALL-HEADER-Y14-1`** · dry | **`VAC-BENCH-1`** | d4466 plumb |
+| **`VAC-FALL-HEADER-Y14-1`** | Oak header clip + cork stem cup @ manifold blank | **`VAC-BENCH-1`** | d4466 |
+| **`VAC-FALL-OSCILLATOR-Y14-1`** | Counterweight fall trip · **~28 g** lift · hemp line @ north cheek peg | **`VAC-BENCH-1`** | d4468 |
+| **`BULB-PROD-Y14-1`** | Production lamp envelope · **~42 mm** · carbon loop · **first glow d4471** · cork test mount | **`VAC-BENCH-1`** | d4471 energize |
+| **`BULB-PROD-Y14-2`** | Production lamp · **~42 mm** · **tipped · carbon loop · integrate d4479** | **`VAC-BENCH-1` @ header** | d4479 tip-off |
+| **`BULB-LAMP-POC-Y14-1`** | Sealed evacuated lamp demonstrator · alias **`BULB-PROD-Y14-2`** | **`VAC-BENCH-1`** | d4479 glow |
+| **`BULB-CU-FEATHER-JIG-Y14-1`** | Oak v-block + brass shim · Cu feather seat @ marver | Chem porch marver peg | d4472 |
+| **`BULB-CU-PINCH-SCRAP-Y14-A`** | Scrap stem · Cu pinch **near-pass** · hairline leak · study | Chem porch dry peg | d4472 |
+| **`BULB-CU-PINCH-SCRAP-Y14-B`** | Scrap stem · Cu pinch **PASS** · bubble clean | Chem porch dry peg | d4473 |
+| **`BULB-CU-PINCH-SCRAP-Y14-C`** | Scrap stem · Cu pinch **PASS** · bubble clean | Chem porch dry peg | d4473 |
+| **`BULB-CU-PINCH-SCRAP-Y14-D`** | Scrap stem · Cu pinch **PASS** | Chem porch dry peg | d4475 |
+| **`BULB-CU-PINCH-SCRAP-Y14-E`** | Scrap stem · Cu pinch **PASS** | Chem porch dry peg | d4475 |
+| **`BULB-CU-PINCH-SCRAP-Y14-F`** | Scrap stem · Cu pinch **PASS** | Chem porch dry peg | d4475 |
 | `GLASS-TUBE-NOZZLE-1` | Nozzle tube, reamed ~3.2 mm | Chem bench | Live · stub stack PASS |
 | `GLASS-TUBE-HEAT-BREAK-1` | Heat-break tube | Blow-kit staging | Live · stub seat PASS |
 | `LAB-STAND-1-A` | Lab stand, oak peg-ladder · brass cross-arm and claw | Fire-table east | Live |

@@ -43,8 +43,8 @@ Last full audit **d4306** · **`SEED-RAG-TEST-Y14` + `SEED-REGEN-Y14`**
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | `GRAIN-WILD-A1` | Wild emmer · **`P-04` ghost / prior laps** | ~37 g class | Vault wild shelf | Y9 top-up | — |
-| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~28 g** | Vault wild shelf | **Y13 d4073 top-up** | **d4306 ~82%** |
-| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~44 g** | Vault wild shelf | **Y13 d4073 top-up** | **d4306 ~84%** |
+| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~39 g** | Vault wild shelf | **Y14 d4426 top-up** | **pending** |
+| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~56 g** | Vault wild shelf | **Y14 d4426 top-up** | **pending** |
 
 > **Y12 seed lap d3687** — **`P-05` + `P-06` only** *(March mark row · no `P-04` wild stand)*.
 
@@ -136,6 +136,10 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 | `P-ALLIUM-SEL-Y12` | Allium · **~1.5 g reserve hold** | **~1.5 g** | Vault | Y12 scout | **d4306 ~80%** |
 | `P-ALLIUM-HARVEST-Y12-1` | Allium · designated ×4 · winnown · **~2 g reserve hold** | **~2 g** | Vault | **Y12 d3688** | **d4306 ~87%** |
 | `P-THYME-SEL-Y12` | Thyme · mother-row tops · winnow | **~4 g** | Vault | **Y12 d3688** | **d4306 ~85%** |
+| `P-CORIANDER-SEL-Y14-1` | Coriander · designated ×6 · winnow | **~15 g** | Vault | **Y14 d4418** | **pending** |
+| `P-ALLIUM-HARVEST-Y14-1` | Allium · designated ×4 · winnow | **~7 g** | Vault | **Y14 d4418** | **pending** |
+| `P-THYME-SEL-Y14-1` | Thyme · mother-row tops · winnow | **~4 g** | Vault | **Y14 d4418** | **pending** |
+| `P-PARSLEY-SEL-Y15-1` | Parsley · second-year ×3 · winnow | **~6 g** | Vault | **Y15 designate d4406 · winnow d4418** | **pending** |
 | ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-ALLIUM-SEL-Y9` | Allium · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3574 DEAD |
