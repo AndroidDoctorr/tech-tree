@@ -55,6 +55,7 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 |---|---|---|---|---|---|
 | `PISTACHIO-1` | Pistachio kernels · Y10 + **Y12/Y13 `P-01` shell d3837/d4174** | **~5.95 kg** | Horreum A nut tray | Y10 + Y12 + Y13 | d4174 |
 | **`PISTACHIO-HULL-Y13-1`** | Pistachio hull-on drying · **`P-01` primary Y13** | **✓ spent d4174** | — | d4135 | d4174 |
+| **`PISTACHIO-HULL-Y14-1`** | Pistachio hull-on drying · **`P-01` primary Y14 d4499** | **~4.9 kg** | v1 porch mat | d4499 | d4499 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | **~0.66 kg** | Nut tray | Y9 | d3591 |
 | `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~575 g | Nut tray | d3423 | d3508 |
 | `ACORN-ROAST-Y10-2` | Acorn roast · **`ACORN-LEACH-Y10-2` batch** | ~610 g | Nut tray | d3465 | d3465 |
@@ -65,7 +66,8 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | **`ACORN-ROAST-Y13-2`** | Acorn roast · **`ACORN-LEACH-Y13-2` batch** | **~600 g** | Nut tray | d4236 | d4236 |
 | **`ACORN-DRY-Y13-1`** | Acorn leached · batch 1 PASS · **✓ roast d4236** | **×0** | — | d4226 | d4236 |
 | **`ACORN-DRY-Y13-2`** | Acorn leached · batch 2 PASS · **✓ roast d4236** | **×0** | — | d4228 | d4236 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~9.4 kg** | **`NUT-SHELF-EXT-1` west lip** | Y10 carry + **Y12 d3778 + Y13 d4145/4177** | d4226 |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~15.45 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y14 batch 2 · lap 2 d4530** | d4530 |
+| **`ACORN-LEACH-Y14-1`** | Acorn leach · batch 1 · **soak 3 LIVE @ ditch W** | **~680 g in sack** | Ditch W flow | d4530 | d4533 watch |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -82,6 +84,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | **`FIG-FRESH-Y14-1`** | Fig fresh · Bed D repeat d4469+d4474 | **~1.5 kg** | Cool step | d4469 | d4474 pick |
 | **`FIG-LEATHER-Y14-1`** | Fig leather tray · sun dry | **~2.15 kg gross wet** | **`W-1` / east rack** | d4469 | d4474 tray |
 | `GRAPE-FRESH-Y13-1` | Grape, fresh · P-03 partial strip d4099 | **~520 g** | Cool step | d4099 | d4099 |
+| **`GRAPE-FRESH-Y14-1`** | Grape, fresh · P-03 partial strip d4488 | **~640 g** | Cool step | d4488 | d4488 |
 | `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | ×0 spent | — | d3745 | d3872 |
 | `FIG-LEATHER-Y12-1` | Fig leather tray · sun dry | ×0 dry | Horreum east rack | d3745 | d3872 |
 | `GRAPE-FRESH-Y10-1` | Grape, fresh · P-03 partial strip | ×0 spent | — | d3375 | d3579 |

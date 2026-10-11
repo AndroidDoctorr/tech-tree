@@ -12,8 +12,8 @@ Y14 sow **d4307**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-SEL-Y14` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north | d4307 | **Sown · dense drill** |
-| `HEMP-GHAB-RESERVE-Y14` | Hemp · seed/disaster block | Bed A north-west · **~6 m²** | d4307 | **Sown thin** · pegged **RESERVE** |
+| `HEMP-SEL-Y14` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north | d4307 | **✓ cut d4485 · stubble** · **→ `HEMP-FIBRE-Y15`** |
+| `HEMP-GHAB-RESERVE-Y14` | Hemp · NW block | Bed A north-west · **~6 m²** | d4307 | **Stubble post season** · **→ `HEMP-FLOWER-Y15` ~4 m² QoL** |
 | `FAVA-Y14` | Fava · elite + working | Bed A west · **~8 m²** | d4307 | **Dibbed deep** |
 | `P-18-CHICKPEA-Y14` | Chickpea | Bed A south · **~6 m²** | d4307 | **Row drill** |
 

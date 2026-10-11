@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
+Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -21,18 +21,18 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 
 | Signal | State |
 |---|---|
-| **`ICE-HAUL-Y14`** | **✓ PEAK laps 1–2 d4287/4289 · vault cap-bound ~129 kg · tail to 14 Feb optional** |
-| **`WW-2-Q-SPRING-SERIES-Y14`** | **Pt 1–3 d4288/4291/4293 · crest ~25 L/s · next ~d4295** |
-| **`HYDRO-ELEC-1`** | **✓ Spring Q d4288 · high water — no pour/cut/fill · stock + outlet drawing** |
-| **Exped / cart trips** | **✓ Y13 window closed d4155** · **Y14 opens 11 Mar – 27 Sep** |
-| **`BLOCK-Y10` pit** | **×185 submerged · ×35 dry @ yard** | **×220 pipeline · ×28 lifted · +×8 d4304** |
-| **`QUICKLIME-1`** | **~0.05 kg tail** | **Kiln before next ×8** |
-| **`CACO3-P7`** | **~54.6 kg** | **Kiln runway OK** |
-| **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** |
-| **`VITRIOL-HEAP-1`** | **Turn ✓ d4238 · liquor ~13.4 L · next turn ~Mar class** |
-| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** — ✓ pass 1 d4201 · full pass optional Feb |
-| **Goat kid #4** | **CLEAR d4241 · weaning/slaughter still open** |
-| **`mishap_pool`** | **0** |
+| **`WW-2` Q** | **Nadir limb · ~12.8 L/s · stain ~6.8 cm d4486** — Q read on dig days OK |
+| **`HYDRO-ELEC-1`** | **✓ Crest/spillway CLOSED d4532 · forebay dig · gen tie-in** |
+| **Exped / cart trips** | **✓ CLOSED d4523** |
+| ~~**`TRAIL-SUMMER-Y14`**~~ | **✓ leg 3 d4502–4506 · `HEMP-GHAB-P22-IMPORT-Y14-1`** |
+| **`BLOCK-Y10` pit** | **×325 submerged · ×175 dry @ yard** · ×500 unused ✓ · **`FURNACE-2` shell ×16 committed** |
+| **`VITRIOL-HEAP-1`** | **Turn ✓ d4459 @ Kisecik · liquor ~13.8 L · next turn ~90 d class** |
+| **`HEMP-FIBRE-Y14-1`** | **Cut ✓ d4485 @ `W-1`** — rett/load when grammar allows |
+| **`mishap_pool`** | **8** |
+| **Dig kit** | **`IRON-SPADE-1` + `IRON-PICK-1` GREEN d4533** · **`IRON-SHOVEL-1` GREEN** · [tool-edge.md](../government/procedures/tool-edge.md) |
+| ~~**`ICE-HAUL-Y14`**~~ | **✓ vault cap-bound ~129 kg** |
+| ~~**`WW-2-Q-SPRING-SERIES-Y14`**~~ | **✓ closed d4293** |
+| ~~**`SPRING-SOW-Y14`**~~ | **✓ d4307** |
 
 ---
 
@@ -40,60 +40,93 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 
 **Civil upgrade upstream of `GEN-WW-2`:** +3 m crest · forebay ~35 × 10 m · more stable head and flow — not a generator rewire.
 
-**Plan detail:** [construction-mats.md](construction-mats.md) section B · day files d4045–4046 · d4112–4118.
+**Plan detail:** [construction-mats.md](construction-mats.md) section B · gate hardware d4318 · outlet draw d4317 · dig d4486.
 
 | Phase | State |
 |---|---|
-| **Q survey + site read** | **✓ d4045** — ~17 L/s @ NORMAL · H ~7.2 m |
-| **`SLUICE-2-GATE-2` three-stop intake** | **✓ d4046** — SUMMER ~11 · NORMAL ~17 · FLOOD ~3 L/s |
-| **Scour pass 2 + stake/takeoff** | **✓ d4112** — +3 m crest locked · forebay pegged |
-| **Outlet gate drawing** | **✓ d4317** — slide gate · `PT-22-A` ×4 @ ~2 m · ~2.0 kg WI queue |
-| **Material runway** | **⚒ In progress** — see stock gap below |
-| **Spring high-flow Q confirm** | **✓ d4288** — **~24 L/s @ NORMAL · stain ~26 cm · head ~7.2 m** |
-| **Cut · fill · pour** | **Blocked — high water** · gravel margin collect OK |
+| **Q survey + site read** | **✓ d4045** |
+| **`SLUICE-2-GATE-2` three-stop intake** | **✓ d4046** |
+| **Scour pass 2 + stake/takeoff** | **✓ d4112** — +3 m crest locked |
+| **Outlet gate drawing** | **✓ d4317** |
+| **Spring high-flow Q confirm** | **✓ d4288** |
+| **Forebay civil** | **✓ CLOSED d4552** — forebay **LIVE @ shallow stage** |
+| **Cut · fill · pour** | **✓ 100%** · ⚑ **`GEN-WW-2` forebay gen tie-in** when named |
 
-### Stock gap *(d4256 ledger vs on hand)*
+### Stock runway *(on hand d4486 — gravel/sand laps largely closed)*
 
-| Material | Have | Need (est.) | Next hero |
-|---|---|---|---|
-| **Cinder blocks** | **×220 in pipeline** *(×35 ready · ×185 curing)* | **~200–350 pour-grade** | **+×8 d4304 · lift band pause** |
-| **Rebar** | **×8** | **×12–20** | **One more forge run** *(d4118 rhythm live)* |
-| **Quicklime / putty** | **~4.45 kg / ~0 kg** | **~80–120 kg slaked class** | **Block day — knap + kiln top-up for ×8** |
-| **Filter sand** | **~88.2 kg** | **~80–150 kg** | **×8 band OK** |
-| **Gravel** | **~103 kg** | **~400–800 kg** | **Collect @ margin OK · pour waits low water** |
-| **Limestone** | **~54.6 kg** | — | **Several kiln burns banked** |
-| **Wood** | **~99.5 kg** | — | **Quad runway ~2 burns** |
-| **Norima wear** | **14** | — | **✓ tune paid d4306 equiv. exchange** |
-| **`CHAR-LANE`** | **~60.0 kg** | — | **~2–3 quad burns banked · skip char heroes OK** |
-| **`QUICKLIME-1`** | **~0.05 kg tail** | — | **Kiln before next ×8** |
-| **`REBAR-BAR-Y13`** | **×10 @ rack** | **×12–20 est.** | **×2 forged d4282** |
-| **`CACO3-P7`** | **~54.6 kg** | — | **Kiln runway OK** |
+| Material | Have (class) | Notes |
+|---|---|---|
+| **Gravel** | **~336 kg @ pile 4** | d4513 haul · trail + hydro drew down from ~470 band |
+| **Filter sand** | **~86 kg @ pile 4** | d4515 haul · pour band OK |
+| **`POZZ-TUFF-1`** | **~80 kg pile + ~8 kg Fabrica** | d4449 trib |
+| **Cinder blocks** | **×175 dry · ×325 curing** | Cast/lift when named |
+| **Rebar** | **×16 production @ rack** | Forebay spec largely met |
+| **`CACO3-P7`** | **~71 kg** | Kiln runway OK |
+| **`QUICKLIME-1`** | **~0.03 kg tail** | Kiln before next block batch |
+| **`WOOD-OAK-P5`** | **~100 kg** | Quad burns when named |
+| **`CHAR-LANE`** | **~15 kg** | Daily + forge trace |
+| **Norima wear** | **14** | ✓ tune d4514 · margin parity **1/2** |
 
-**Recommended order:** lime + block loop (parallel) → gravel/sand laps → rebar tail → outlet drawing on a slate day.
+**Recommended order:** forebay dig laps (⚒) while nadir holds → block/lime loop on wet days → pour/fill/toe when stain + calendar say low water → filter toe last in live channel.
 
 ---
 
-## Farm — winter pass
+## Farm — `SPRING-SOW-Y15` hemp split *(player d4508)*
+
+**Not split yet** — one fibre line on Bed A north through Y14; Ghab import is **tagged charges** (`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT`), not separate breeds in the ground.
+
+| Line | Intent | Isolation |
+|---|---|---|
+| **`HEMP-FIBRE-Y15`** | Bed A north · dense drill · **`FIBRE-SEED` + `DUAL-TRAIT` bias** | **Early sow · `HEMP-CUT` Aug before flower patch peaks** |
+| **`HEMP-FLOWER-Y15`** | Bed A NW **~4 m²** · **flower-forward · QoL** · **`FLOWER-SEED` charge** | **Late sow ~2–3 wk after fibre block** — pollen **by time**, not distance ([harvest.md](../government/procedures/harvest.md)) |
+
+⚑ **Sow slate @ frost gate** · rag-test import jar · peg **RESERVE** label → **FLOWER** on NW ghost.
+
+---
+
+## Farm — Aug pass
 
 | Item | State |
 |---|---|
-| **`GRAPE-PRUNE` full spur** | **Optional Feb pass** — pass 1 ✓ d4201 |
-| **`GOAT-REGISTRY-Y14`** | **✓ d4270** — [goats.md](../government/procedures/goats.md) |
-| **`G-05` 2nd doe capture** | **KEEP locked · spring Y14 exped** |
-| **G-04 wean scorecard** | **~8 wk band · keep / cull / wether queue** |
-| **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** — next when band warms |
+| **`FIG-PICK` repeat** | **1 Aug – 15 Sep · pass 1 ✓ · repeat OK on scare** |
+| **`GRAPE-PICK` strip** | **1 Aug – 15 Oct · partial rhythm live** |
+| **`HEMP-CUT` Bed A north** | **✓ d4485 · fibre @ `W-1`** |
+| **`ACORN-GATHER` batch 2** | **✓ primary + lap 1 · player hold** |
+| **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** |
+| **G-04 wean scorecard** | **⚑ keep / cull / wether queue** |
+| ~~**`GOAT-REGISTRY-Y14`**~~ | **✓ d4270** |
+| ~~**`G-05` capture**~~ | **✓ autumn sealed colony d4342** |
 
 ---
 
 ## ⧗ ⟳ Running — started, needs no day
 
-- ⧗ **`BLOCK-Y10` pit** — **×177 submerged · ×35 dry · ×212 pipeline** · lift **×14/full day** @ d4030 · **×28 lifted d4295–4296**
+- ⧗ **`BLOCK-Y10` pit** — submerged cure clock · lift when dry queue names
 - ⧗ **`ORE-BAY-1` catch pot** — daily read
 - ⧗ **`CU-CELL`** — two looks a day
-- ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read · ~54% SOC
-- ⧗ **`VITRIOL-HEAP-1`** — next turn ~Mar class
+- ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
+- ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 d from d4459
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
+- ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
+
+---
+
+## ✓ Light — `BULB-POC-Y14-1` *(integrate closed d4479)*
+
+| Milestone | State |
+|---|---|
+| **Ladder steps 1–6** | **✓ envelope → rough vac → filament → Cu pinch → Hg header → integrate d4479** |
+| **`BULB-LAMP-POC-Y14-1`** | **LIVE @ `VAC-FALL-HEADER-Y14-1`** · bench demonstrator |
+| **Filament elite** | **✓ `CARBON-FILAMENT-FINE-Y14-1` d4481 · `FILAMENT-OPT-Y14-1`** |
+| **Brightness sweep** | **✓ d4480** — not room lamp; headroom in current |
+
+### ⚑ Optional tails *(do not block hydro)*
+
+- ⚒ **Tipped bulb #2** — elite fine filament · integrate grammar from d4479
+- ⚑ **Limelight / searchlight duty** — parallel to bulb feast prep
+- ⚑ **Yule electric feast queue** — duplicate tipped unit + maint when named
+- ⟳ **`VAC-BENCH-Y14-1`** — Hg loop · bath read · purge first draw
 
 ---
 
@@ -107,57 +140,28 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 
 ---
 
-## ⚒ **`ICE-HAUL-Y14`** — live *(blocks deferred)*
+## ⚒ Campus queue *(when hydro rests or player names)*
 
-| Item | State |
-|---|---|
-| **Prep** | **✓ d4286** |
-| **Peak lap 1** | **✓ d4287 · +~26.4 kg nett** |
-| **Peak lap 2** | **⚑ optional ~8–10 Feb** · ~15 kg headroom left |
-| **Vault** | **~115.1 kg · ~15 kg headroom** |
-| **Norima** | **Wear 15 · tune d4276 holds** |
-
----
-
-## ⚒ Campus queue *(when hydro stock builds or player names)*
-
-- ⚒ **`ICE-HAUL-Y14-PEAK`** — **next** · ~8–10 Feb band
-- ⚒ **Lime burn + block pit loop** — **deferred** · ×212 pipeline banked
-- ⚒ **Gravel + sand haul laps** — recurring · low hero · high cumulative kg
-- ⚒ **Rebar production** — ×8 @ rack · one run closes forebay spec
-- ⚒ **`CHAR-RETORT-QUAD-CELL-1`** — **✓ LIVE d4302** · ~38 kg → ~12 kg char class
-- ⚒ **Char / wood** — **`ST-AXE-1` ✓** · twin retort grammar reinstated · **fell-day haul ~80–110 kg** when named
-- ⚒ **`BULB-POC-Y14-1`** — envelope · rough vac · filament ladder · pinch seal *(see below)*
-- ⚒ **Optional forsterite margin batches** — ×62 @ muffle shell · bank ×0 green
-- ⚒ **`ORONTES-BEDROCK-PROBE-1`** — iron rod + slide hammer · gravel pier struck
+- ⚒ **`HYDRO-ELEC-1-FOREBAY-DIG`** — **lap 2+** · spoil to **`HYDRO-ELEC-1-SPOIL-1`**
+- ⚒ **`TRAIL-SUMMER-Y14` leg 3** — **Ghab mid-Sep** *(player defer)* · combines **`HEMP-SEED-STRIP`** essential run *(band ~5 Sep – 10 Oct)*
+- ⚒ **Lime burn + block pit loop** — when indoor/wet · quicklime tail thin
+- ⚒ **Optional forsterite margin batches** — ×62 @ muffle shell
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
 - ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
 - ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
 - ⚑ **`ETHANOL-DEHYD-POC-1` Phase B** — tube reactor + cold trap
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
 - ⚑ **`TRANSFORMER / AC`** — [wishlist.md](wishlist.md)
-
-### `BULB-POC-Y14-1` — suggested ladder *(player d4257)*
-
-| Step | What | Gate |
-|---|---|---|
-| **1 · Envelope** | **`THERMOMETER-BULB` grammar** — ~8 mm soda-glass bulb + pinch stem on marver | Hood · cullet OK |
-| **2 · Rough vac** | **`AIR-PUMP-2` inlet** on corked trial bulb — candle-flame test @ outlet | Partial vac only |
-| **3 · Filament bench** | **Carbonized flax / charcoal fibre · `CU-WIRE` 0.3–0.9 mm · iron tail** — hot resistance + snap @ bench, outside bulb | Lead-acid bench supply |
-| **4 · Pinch seal** | **Feather-edged copper** in soda glass — no platinum route · short lead stubs | Practice on scrap stems first |
-| **5 · Hg fall pump** | **Glass trap + column** — cinnabar/Hg in hand · hours–days for better vac | Hood · ☠ isolated |
-| **6 · Integrate** | Filament through seal · evacuate · tip-off or exhaust pinch | Only after 3–4 PASS |
-
-> ★ **Rough vac is enough for first glow.** Lamp-blackout vacuum is the mercury-pump arc — not a prerequisite for learning filament and seal grammar.
+- ~~**`ICE-HAUL-Y14-PEAK`**~~ · ~~**`BULB-POC-Y14-1` hero ladder**~~ · ~~**`CHAR-RETORT-QUAD-CELL-1` open**~~ *(live background)*
 
 ---
 
 ## ⚑ Expedition residue
 
-- ✓ **Y13 window used** — Kisecik vitriol d3982–3983 · Kozan/Akkaya fluorite d4102–4110
-- **Y14 window 11 Mar – 27 Sep** — genetic import · optional chromite lap
-- ⚑ **`M-24` Islahiye / chromite** — ~1600 °C reduce · bench trial OK · furnace-gated
-- ⚑ **Apiary genetic import** — **`BAIT-BOX` stowed** · spring band
+- ✓ **Y13 Kisecik/Kozan** — closed
+- ✓ **`KISECIK-RUN-Y14-4457`** · **`KISECIK-RUN-Y14-4419`** — closed d4460 / d4422
+- **Y14 window** — **leg 3 Ghab Sep** · genetic import ✓ d4342 · optional chromite when furnace names
+- ⚑ **`M-24` Islahiye / chromite** — furnace-gated
 - ⚑ **Erzin cache touch** — trail arc residue · deferred
 
 ---
@@ -167,7 +171,7 @@ Live as of **d4302 · Cal-Y14 D62 · ~21 Feb · Week 615 day 4**.
 - ★★ **`SERPENTINE-FLORA-READ`** — method for barren patches
 - ⚠ **Cinnabar source @ Kisecik** — float only · Hg **not** the furnace instrument
 - ⚠ **`SC-ORONTES-ISLAND-B`** — probe may reopen deep footing
-- **High-purity vein quartz, Nur Belen** — ~15–25 km NE · late spring or pre-harvest lull
+- **High-purity vein quartz, Nur Belen** — ~15–25 km NE · pre-harvest lull
 
 ---
 

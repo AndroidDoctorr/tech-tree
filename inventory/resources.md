@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~14.9 kg** | Char lane | | d4481 carbonize |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~19.4 kg** | Char lane | | d4545 quad |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.8 kg** | Store C vault | | d4465 pad trace |
-| `WOOD-OAK-P5` | Oak, green | **~100 kg** @ pile 5 | Pile 5 | | d4482 haul |
+| `WOOD-OAK-P5` | Oak, green | **~59.6 kg** @ pile 5 | Pile 5 | | d4551 cook |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -27,26 +27,26 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 | `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | **×0** | d3329 | d4008 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | **~50.58 kg** | `STORE-4` | | d3994 |
 | `QUARTZ-GLASS-FINE-Y13-1` | Glass-grade silica fines · triple-skim levigate · **`QUARTZ-FACE-B`** | **~1.22 kg** | Chem porch dry tray | d3990 | d4007 |
-| `STONE-DRESS-P4` | Dressing / field stone | ~8.9 kg | Pile 4 north band, ×2 marked sacks | | d3073 |
+| `STONE-DRESS-P4` | Dressing / field stone | **~19.9 kg** @ pile 4 north · ×2 marked sacks | Pile 4 north band | | d4550 fill close |
 | `RIPRAP-ARMOUR-1` | Riprap outer armour, angular — surplus after `CAMPUS-BRIDGE-APRON-1` · rounded cobble rejected, it rolls | surplus stack | T-2 face | | d3277 |
-| `STONE-FLOOR-P8` | Floor stone | ×0 *(×8 laid in `PAD-1` ring)* | Pile 8 | | d3043 |
+| `STONE-FLOOR-P8` | Floor stone | **×0** | Pile 8 | | d3043 |
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ chem porch peg | Chem porch | d4153 | d4153 |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~469.6 kg** @ pile 4 south band | Pile 4 | | d4483 haul |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~119.7 kg** | Pile 4 apron | | d4484 haul |
+| **`GRAVEL-1`** | Gravel aggregate | **~5.4 kg** @ pile 4 south band | Pile 4 | | d4550 fill close |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~47.5 kg** | Pile 4 apron | | d4540 wing cap |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
-| `POZZ-TUFF-1` | Pozzolan / tuff | **~80.2 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4449 trib haul |
+| `POZZ-TUFF-1` | Pozzolan / tuff | **~54.7 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4540 wing cap |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~71.1 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4441 haul |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **×0 tail** | Lime trough | d3390 | d4476 trace spent |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~46.7 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4540 slake |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.03 kg tail** | Lime trough | d3390 | d4422 trail |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
-| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×175 @ `WW-YARD`** | Block yard | d4030 | d4414 lift |
-| `LIME-PUTTY-1` | Lime putty | **~0 kg** | Lime trough | | d4038 |
+| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×328** *(×17 dry @ `WW-YARD` · ×311 submerged @ pit)* | Block yard / pit | d4030 | d4550 gorge CLOSE |
+| `LIME-PUTTY-1` | Lime putty | **~0.10 kg** | Lime trough | | d4518 tail |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
 
@@ -64,7 +64,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~20.4 kg** | Chem porch jar | d3331 | d4476 glass batch |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~20.7 kg** | Chem porch jar | d3331 | d4464 |
 | **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin / alumina class · dehydration catalyst reserve | **~40 g** | Chem porch catalyst peg | d3956 | d3956 |
 | `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.90 kg** | Chem porch jar | d3331 | d4477 stem |
 | `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.52 kg wet** | Chem porch separate peg | d3331 | d3941 |
@@ -76,13 +76,15 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 ## Brick and tile
 
+> **Loose stock only.** Masonry drawn into a build is debited on the pour day and leaves this file — the result is **`infrastructure.md`** / the map, not a second brick count. Demolition recovery is estimated when it happens; construction detail stays in the journal.
+
 > **TR vs TF** — **TR** = curved roof half-pipe · `CLAY-P1` · roof face · **hold only — shingle runway supersedes new TR**. **TF** = flat square · washed kaolin · floor face / marver · **fume hood + floor class**. See [TILE-TR-TF-FUME-CABINET-Y12.md](../journal/retcons/TILE-TR-TF-FUME-CABINET-Y12.md).
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `BRICK-FIRED-B` | Fired brick, stackable · amber | **~127 @ kiln B** · **×52 @ pit lane berm** *(×28 base + ×12 tie + ×12 manifold)* · **×8 @ `CAVE-3` mouth** | Kiln B / berm / cave | | d4301 |
-| `TILE-TR` | **Roof tile (TR)**, fired · curved semi-cylinder · hold | **×54** *(+×19 laid Fabrica SW roof · ×3 grog · **no new press Y12**)* | Rack south | | d3843 |
-| `TILE-TF` | **Floor tile (TF)**, fired · flat square · kaolin body | **×63** @ rack north *(×108 laid hub · **−×22 fume d3841/3843** · +×31 d3859 · +×16 d3870 · +×16 d4009 · **−×2 rebar chair d4023**)* | Rack north | | d4009 |
+| `BRICK-FIRED-B` | Fired brick, stackable · amber | **~135** | Kiln B pad | | d4553 |
+| `TILE-TR` | **Roof tile (TR)**, fired · curved semi-cylinder · hold | **×54** | Rack south | | d3843 |
+| `TILE-TF` | **Floor tile (TF)**, fired · flat square · kaolin body | **×63** | Rack north | | d4009 |
 | `TILE-TF-GREEN` | Floor tile (TF), green · drying queue | **×0** | North sand bed | d3859 | d4009 |
 | `CLAY-RANK-REF` | Refractory rank tiles · fired reference set | ×6 | Bench | | d2447 |
 | `CRUCIBLE-GROG` | Crucible grog, reclaim | ×0 | Berm | | d2504 |
@@ -100,10 +102,10 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~10.60 kg** | Pile 4 | | d4422 Kisecik glean |
+| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~31.4 kg** | Pile 4 | | d4522 M-G1 haul |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~43.1 kg** | v1 chem, isolated | | d4465 roast |
 | `GALENA-1` | Galena-class lead ore | **~13.4 kg** | Forge staging | | d4460 Kisecik |
-| `H-11-HEMATITE` | Hematite | **~15.0 kg @ pile 4** | Pile 4 | | d4432 bloom |
+| `H-11-HEMATITE` | Hematite | **~14.0 kg @ pile 4** | Pile 4 | | d4537 roast |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~240 g @ chill tray** | Chill tray | d4186 | d4186 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **×0 spent → lock band d4186** | — | d4061 | d4186 |
 | **`MUSKET-LOCK-MAINSPRING-Y13-1`** | Main v-spring · **`ST-SPR-1`** | **×0 · assembled `MUSKET-LOCK-Y13-1` d4199** | — | d4186 | d4199 |
@@ -137,7 +139,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`MUSKET-LOCK-MOCKUP-Y13-1`** | Oak lock test frame · plate mount · pivot dowels · spring posts · **fit trial ✓ d4196** | **@ craft wing bench** | Craft wing bench | d4196 | d4196 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~17.25 kg** | Pile 4 tray | d3618 | d3903 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
-| `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.21 kg** *(pigment reserve)* | Chem porch | | d3931 |
+| `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.39 kg** *(pigment reserve)* | Chem porch | | d4522 M-G1 cob |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
 | `CASSITERITE-CONC` | Cassiterite concentrate · fines-heavy, deferred | ~0.5 kg | Forge staging tray | | d2933 |
 | `PYRITE-KISECIK` | Pyrite, Kisecik fringe · *(+`PYRITE-SPARK-TIN-1` ~22 g at `FK-1`)* | **~0.55 kg** | Ore shelf | | d3983 |
@@ -157,7 +159,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ★ `SERPENTINITE-REJECT-M24-1` | Host serpentinite, raw · **M24 dress reject** · forsterite feedstock | **×0** | `ORE-BAY-1` kerb empty | d3582 | d3634 |
 | `SERPENTINITE-RAW-KISECIK-Y12-1` | Kisecik ophiolite serpentinite · raw · **forsterite feed** · dressed **`K-SERP-RIDGE-1` d3638 · d3648 · d3754 · d3982** | **~39.2 kg** | `ORE-BAY-1` kerb | d3638 | d3988 |
 | ★★ `FORSTERITE-GROG-1` | **Dead-burned serpentinite** · buff-grey · rings · no slake | **~1.7 kg** | Kiln yard, covered | d3583 | d4299 |
-| `FORSTERITE-BRICK-Y12-1` | Production forsterite brick · **`FORSTERITE-BRICK-STD-Y12-1`** · **~230×115×45 mm** | **×20 FIRED bank** · **×0 GREEN** · **×62 @ `MUFFLE-1-SHELL-1`** *(×107 @ `FURNACE-2` shell · ×2 @ lift plugs)* | South court | d3621 | d4001 |
+| `FORSTERITE-BRICK-Y12-1` | Production forsterite brick · **`FORSTERITE-BRICK-STD-Y12-1`** · **~230×115×45 mm** | **×20 FIRED bank** · **×0 GREEN** | South court spare stack | d3621 | d4001 |
 | `SERPENTINITE-RAW-CONTROL-1` | Raw serpentinite, unfired · **comparison control — do not use** | ~0.40 kg | Bench shelf, labelled | d3583 | d3583 |
 | ★ `NI-CU-BUTTON-Y12-1` | Cu-Ni-**Fe** button · first nickel won · ⚠ **magnetic — iron came with it** | **~61.4 g** | Bench vial | d3582 | d3582 |
 | ★ **`NI-STD-A`** | Ni reduction std charge A · **`NI-REDUCTION-STD-Y12-1-3616`** | **~8.1 g** | Chem vial A | d3616 | d3834 |
@@ -172,7 +174,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **×0 tail** | Chill tray | | d4473 spent |
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~230 g tail @ mount** | Forge mount | | d4433 rebar |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~0.19 kg tail @ mount** | Forge mount | | d4537 rebar draw |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-BAR-Y13-1`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-2`** | Production rebar · twisted · **~10.0 mm · ~555 mm** · hooks @ pour | **~405 g** | Forge peg rack | d4025 | d4025 |
@@ -186,11 +188,19 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`REBAR-BAR-Y13-10`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4282 | d4282 |
 | **`REBAR-BAR-Y13-11`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **~407 g** | Forge peg rack | d4316 | d4316 |
 | **`REBAR-BAR-Y13-12`** | Production rebar · twisted · **~10.1 mm · ~561 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4316 | d4316 |
-| **`REBAR-BAR-Y13-13`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **~409 g** | Forge peg rack | d4423 | d4423 |
-| **`REBAR-BAR-Y13-14`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **~413 g** | Forge peg rack | d4423 | d4423 |
+| **`REBAR-BAR-Y13-13`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **spent d4538 wing L2** | — | d4423 | d4538 |
+| **`REBAR-BAR-Y13-14`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **spent d4538 wing L2** | — | d4423 | d4538 |
+| **`REBAR-BAR-Y14-1`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **spent d4539 wing L3** | — | d4537 | d4539 |
+| **`REBAR-BAR-Y14-2`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **spent d4539 wing L3** | — | d4537 | d4539 |
+| **`REBAR-BAR-Y14-3`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **spent d4540 wing cap** | — | d4537 | d4540 |
+| **`REBAR-BAR-Y14-4`** | Production rebar · twisted · **~10.1 mm · ~561 mm** · hooks @ pour | **spent d4540 wing cap** | — | d4537 | d4540 |
 | **`REBAR-BAR-Y13-15`** | Production rebar · twisted · **~10.0 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4433 | d4433 |
 | **`REBAR-BAR-Y13-16`** | Production rebar · twisted · **~10.1 mm · ~564 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4433 | d4433 |
-| **`OUTLET-GATE-HARDWARE-Y14-1`** | Forebay outlet gate kit · pintles ×2 · latch · stops ×3 · stem ~1.18 m · shoes ×2 | **×1 @ peg rack** | `FORGE-D` peg | d4318 | d4318 |
+| **`REBAR-BAR-Y13-17`** | Production rebar · twisted · **~10.0 mm · ~558 mm** · hooks @ pour | **~409 g** | Forge peg rack | d4528 | d4528 |
+| **`REBAR-BAR-Y13-18`** | Production rebar · twisted · **~10.1 mm · ~561 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4528 | d4528 |
+| **`REBAR-BAR-Y13-19`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **spent d4529 pour** | — | d4528 | d4529 |
+| **`REBAR-BAR-Y13-20`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **spent d4529 pour** | — | d4528 | d4529 |
+| **`OUTLET-GATE-HARDWARE-Y14-1`** | Forebay outlet gate kit · pintles ×2 · latch · stops ×3 · stem · shoes ×2 | **✓ mounted @ gorge monolith d4520** | Outlet gate | d4318 | d4520 fit+mount |
 | **`REBAR-SQUARE-CONTROL-Y13-1`** | Wrought square control · **spent on cover mocks** | **×0** | — | d4021 | d4023 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
 | **`REBAR-LAP-MOCK-Y13-1`** | Lap splice mock · break **PASS d4029** | **×0 · spent** | — | d4022 | d4029 |

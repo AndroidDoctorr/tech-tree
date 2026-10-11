@@ -301,7 +301,18 @@ Ranked D #1, C #2, B filler, A reject. **d3174 (~28.6 kg)** remains valid; bump 
 
 ---
 
-### `STONE-HAUL` · `ORE-HAUL` · reference stone
+### `STONE-HAUL` · `STONE-DRESS-P4` · field / creek stock
+
+**Vehicle:** Norima · **`ST-AXE-1`** / **`IRON-PICK-1`** on site · sort @ pile 4 north band · **×2 marked sacks** when stacked.
+
+| Mode | When | Net @ pile 4 dress band |
+|---|---|---|
+| **2-load + sort** | **Default hero** · T-1 creek / bridge field · reject rounds → pile 6 | **~35–50 kg** dress class |
+| **Single load** | Top-up · combo PM | **~16–22 kg** |
+
+★ **Retired:** **cart lap (~15–20 kg full day)** · **d4092/d4192 three-lap (~15 kg)** — hand-cart scale on a wagon; **do not use on Norima.**
+
+### `ORE-HAUL` · reference stone
 
 - **Reference stone** is a separate standard. Grain size is set by cooling rate, so take chilled **dyke margins and pillow rims**, never gabbro. **Ring the block** — sound stone rings and holds the note, vesicular or cracked stone thuds. Cut from a **fresh break**, because the outer few fingers of any exposed rock is an altered weathering rind. Cut generously oversize, then season on three points.
 - **Ore** — **dress at the mine** · load cap = what the team pulls the full distance; see [now.md](../../now.md) ore doctrine. Campus margin laps do not apply.

@@ -1,0 +1,22 @@
+# Tool edge — gate before gated heroes
+
+When playing the tech-tree journal campaign:
+
+## Read
+
+**[tool-edge.md](../government/procedures/tool-edge.md)** — traffic light · work-gate table · `FORGE-TOOL-SPRINT-*` grammar.
+
+**Live state:** grep **`inventory/tools.md`** → section **Field edge — iron and steel** (and any tool named in the hero).
+
+## Hard rule
+
+Before logging a **gated hero** (forebay dig · fell · harvest block · sluice cobble cut · etc. — see procedure table):
+
+- Required tools must be **GREEN** in `inventory/tools.md`.
+- **AMBER / RED / RETIRED** → **do not log the hero** — offer a tool sprint day unless the player explicitly overrides in that turn.
+
+**Farm scare-only** without a gated hero: no edge audit required.
+
+## After service
+
+Patch tool **State** rows + `now.md` dig-kit line when a **`FORGE-TOOL-SPRINT-*`** closes.

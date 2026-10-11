@@ -165,7 +165,7 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 > ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
 > ★★★ **NEW CEILING IS THE WHEEL, NOT THE FIELD.** *The race loads now in a way it never did; the magneto was so weak the water never knew it was working.* ★ **The limit was moved, not removed.**
 >
-> ⚑ **`HYDRO-ELEC-1` — +3 m crest locked d4112 · forebay **~35 × ~10 m staked** @ gorge lip · scour pass 2 PASS · spillway west · penstock along existing race line · ⚑ **block/sand/gravel/lime runway · spring high-flow Q ~Feb–Mar Y14 before pour · outlet gate drawing**
+> ✓ **`HYDRO-ELEC-1` — +3 m crest locked d4112 · forebay **~35 × ~10 m** · scour pass 2 PASS · **✓ bench cut d4534** · **✓ crest/spillway d4532** · **✓ penstock live + flood test d4524** · **✓ forebay wing CLOSED d4540** · **✓ dam fill CLOSED d4550** · **✓ forebay intake LIVE d4552** · ⚑ **`GEN-WW-2` forebay gen tie-in optional**
 >
 > *(superseded — original spec)* ⧗ **`GEN-WW-2` — SHUNT-FIELD CONVERSION, opened d3295.** *Replace the ×6 `MAG-BOOT-EM` permanent rods with pole coils fed from the machine's own output.* ★★ **The field stops being a fixed asset that decays and becomes one the machine earns continuously; the ceiling moves from what steel holds to what the iron will take.**
 > **Spec:** ~600 m at ~0.5 mm, **many turns at low current**, air between layers, **not potted** — ⚠ *the wax-rosin coating softens hot and a shunt field is the one winding that never rests.* ★ **Fine wire is simultaneously the thermally safe, electrically correct and cheapest choice.**
@@ -357,6 +357,11 @@ Map: `S2-0` → WW-yard pad · Built: d1879
 | d1881 | Cal-Y6 D184 · ~23 Jun | **~16 L/s** | Summer-low baseline · bypass + seep honest |
 | d4045 | Cal-Y13 D173 · ~11 Jun | **~17 L/s** | June class · not spring peak · bypass **~1.2 L/s** |
 
+### `HYDRO-ELEC-1-PENSTOCK-1` — forebay outlet culvert
+Map: gorge filter toe → gate footing ghost · Installed: d4512
+
+**~8 m** buried run · **`PT-22-A` ×4 @ ~2.0 m** · socket + oak wedge + M-08 wipe · rodding eye @ mid-bend. ✓ **Live @ filter toe d4524** · blind cap **stowed @ gorge kit peg**. ✓ **`OUTLET-GATE-HARDWARE-Y14-1` mounted d4520** · ✓ **outlet flood test d4524** · ✓ **crest/spillway pour d4532**.
+
 ### `WW-2-WHEEL-1` — water wheel 2
 Map: north pad · Built: d1894
 
@@ -413,7 +418,7 @@ Map: pool margin N · Built: d2718
 ### `ACORN-DITCH-FLOW-SACK-1`
 Map: ditch W · below `RETT-TROUGH-FLAX-1` rinse lip · ad hoc d4227
 
-**Empty @ d4228** — **`ACORN-LEACH-Y13-2` PASS** · peg stowed.
+**LIVE @ d4533** — **`ACORN-LEACH-Y14-1` soak 3 ~680 g @ ditch W flow** · peg below rinse lip.
 
 Both are the **fallback**, not the primary. Running water in the ditch leaches faster than serial still soaks ever will, because a still trough reaches equilibrium and stops working until it is changed. The troughs are for a batch that cannot be watched. See `ACORN-LEACH` in [processing.md](../government/procedures/processing.md).
 

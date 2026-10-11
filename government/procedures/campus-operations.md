@@ -35,7 +35,7 @@
 | **Campus routine** | **Iron · bronze · steel** — forge and bench stock |
 | **Retired from routine** | Stone tools · unrefined and native copper at the belt — trail museum or archive, **not daily campus** |
 | **Copper path** | Electrolytic, drawn wire, cast brass for live work · ★ **copper backup is museum, not primary** |
-| **Worn default** | Steel kitchen knife · iron and steel edge tools — [tools.md](../../inventory/tools.md) |
+| **Worn default** | Steel kitchen knife · iron and steel edge tools — [tools.md](../../inventory/tools.md) · **gates:** [tool-edge.md](tool-edge.md) |
 
 ## Fasteners *(draft · IRON-NAIL-GAUGE-SLATE-3020)*
 

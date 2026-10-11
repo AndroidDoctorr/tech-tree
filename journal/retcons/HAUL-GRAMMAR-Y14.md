@@ -31,6 +31,7 @@ See [harvest.md](../../government/procedures/harvest.md).
 | **`GRAVEL-HAUL`** | **2–3 laden trips** | **~45–70 kg** |
 | **`HAUL-LIME`** | **Full day · knap + 2 loads** | **~40–55 kg** |
 | **`CLAY-HAUL`** | **3-lap bulk liner** | **~35–45 kg** |
+| **`STONE-HAUL`** · **`STONE-DRESS-P4`** | **2-load field + sort @ pile 4** | **~35–50 kg** |
 
 ---
 

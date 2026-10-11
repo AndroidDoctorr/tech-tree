@@ -6,11 +6,78 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4486 · `year-013/`)*
+## Recent days *(append here · @ Day 4553 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4553 | [day-4553.md](days/year-013/week-651/day-4553.md) | **✓ Hydro inspect · bricks @ Kiln B** | **Cal-Y14 D313 · ~27 Oct · W651 d3** |
+| 4552 | [day-4552.md](days/year-013/week-651/day-4552.md) | **✓ Forebay intake tie · civil CLOSE** | **Cal-Y14 D312 · ~26 Oct · W651 d2** |
+| 4551 | [day-4551.md](days/year-013/week-651/day-4551.md) | **✓ Light campus scare · rest** | **Cal-Y14 D311 · ~25 Oct · W651 d1** |
+| 4550 | [day-4550.md](days/year-013/week-650/day-4550.md) | **✓ Dam fill CLOSE · W650 CLOSE** | **Cal-Y14 D310 · ~24 Oct · W650 d7** |
+| 4549 | [day-4549.md](days/year-013/week-650/day-4549.md) | **✓ Gravel haul ~49 kg** | **Cal-Y14 D309 · ~23 Oct · W650 d6** |
+| 4548 | [day-4548.md](days/year-013/week-650/day-4548.md) | **✓ Dam fill lap 4 ~80%** | **Cal-Y14 D308 · ~22 Oct · W650 d5** |
+| 4547 | [day-4547.md](days/year-013/week-650/day-4547.md) | **✓ Dam fill lap 3 ~60%** | **Cal-Y14 D307 · ~21 Oct · W650 d4** |
+| 4546 | [day-4546.md](days/year-013/week-650/day-4546.md) | **✓ Norima tune 20→14** | **Cal-Y14 D306 · ~20 Oct · W650 d3** |
+| 4545 | [day-4545.md](days/year-013/week-650/day-4545.md) | **✓ Char quad ~12 kg** | **Cal-Y14 D305 · ~19 Oct · W650 d2** |
+| 4544 | [day-4544.md](days/year-013/week-650/day-4544.md) | **✓ Wood haul ~88 kg** | **Cal-Y14 D304 · ~18 Oct · W650 d1** |
+| 4543 | [day-4543.md](days/year-013/week-649/day-4543.md) | **✓ Stone haul ~38 kg** | **Cal-Y14 D303 · ~17 Oct · W649 CLOSE** |
+| 4542 | [day-4542.md](days/year-013/week-649/day-4542.md) | **✓ Dam fill lap 2 ~40%** | **Cal-Y14 D302 · ~16 Oct · W649 d6** |
+| 4541 | [day-4541.md](days/year-013/week-649/day-4541.md) | **✓ Dam fill lap 1 · G-02 clear** | **Cal-Y14 D301 · ~15 Oct · W649 d5** |
+| 4540 | [day-4540.md](days/year-013/week-649/day-4540.md) | **✓ Wing tie cap CLOSED** | **Cal-Y14 D300 · ~14 Oct · W649 d4** |
+| 4539 | [day-4539.md](days/year-013/week-649/day-4539.md) | **✓ Wing cheeks L3 ~95%** | **Cal-Y14 D299 · ~13 Oct · W649 d3** |
+| 4538 | [day-4538.md](days/year-013/week-649/day-4538.md) | **✓ Wing cheeks L2 ~65%** | **Cal-Y14 D298 · ~12 Oct · W649 d2** |
+| 4537 | [day-4537.md](days/year-013/week-649/day-4537.md) | **✓ REBAR ×4 Y14** | **Cal-Y14 D297 · ~11 Oct · W649 d1** |
+| 4536 | [day-4536.md](days/year-013/week-648/day-4536.md) | **✓ Bloom smelt + char retort** | **Cal-Y14 D296 · ~10 Oct · W648 CLOSE** |
+| 4535 | [day-4535.md](days/year-013/week-648/day-4535.md) | **✓ Wing cheeks L1 ~35%** | **Cal-Y14 D295 · ~9 Oct · W648 d6** |
+| 4534 | [day-4534.md](days/year-013/week-648/day-4534.md) | **✓ Forebay bench CLOSED** | **Cal-Y14 D294 · ~8 Oct · W648 d5** |
+| 4533 | [day-4533.md](days/year-013/week-648/day-4533.md) | **✓ Tool sprint · dig kit GREEN** | **Cal-Y14 D293 · ~7 Oct · W648 d4** |
+| 4532 | [day-4532.md](days/year-013/week-648/day-4532.md) | **✓ Crest/spillway pour CLOSE** | **Cal-Y14 D292 · ~6 Oct · W648 d3** |
+| 4531 | [day-4531.md](days/year-013/week-648/day-4531.md) | **✓ Campus cleanup** | **Cal-Y14 D291 · ~5 Oct · W648 d2** |
+| 4530 | [day-4530.md](days/year-013/week-648/day-4530.md) | **✓ Acorn gather · soak start** | **Cal-Y14 D290 · ~4 Oct · W648 d1** |
+| 4529 | [day-4529.md](days/year-013/week-647/day-4529.md) | **✓ Crest pour L3 · W647 CLOSE** | **Cal-Y14 D289 · ~3 Oct · W647 d7** |
+| 4528 | [day-4528.md](days/year-013/week-647/day-4528.md) | **✓ Rebar ×4 production** | **Cal-Y14 D288 · ~2 Oct · W647 d6** |
+| 4527 | [day-4527.md](days/year-013/week-647/day-4527.md) | **✓ Sand haul** | **Cal-Y14 D287 · ~1 Oct · W647 d5** |
+| 4526 | [day-4526.md](days/year-013/week-647/day-4526.md) | **✓ Crest pour L2 ~52%** | **Cal-Y14 D286 · ~30 Sep · W647 d4** |
+| 4525 | [day-4525.md](days/year-013/week-647/day-4525.md) | **✓ Crest/spillway pour L1** | **Cal-Y14 D285 · ~29 Sep · W647 d3** |
+| 4524 | [day-4524.md](days/year-013/week-647/day-4524.md) | **✓ Penstock LIVE · flood test** | **Cal-Y14 D284 · ~28 Sep · W647 d2** |
+| 4523 | [day-4523.md](days/year-013/week-647/day-4523.md) | **✓ Q read · campus scare** | **Cal-Y14 D283 · ~27 Sep · W647 d1 · exped CLOSE** |
+| 4522 | [day-4522.md](days/year-013/week-646/day-4522.md) | **✓ M-G1 malachite haul · W646 CLOSE** | **Cal-Y14 D282 · ~26 Sep · W646 d7** |
+| 4521 | [day-4521.md](days/year-013/week-646/day-4521.md) | **✓ H-11 hematite haul** | **Cal-Y14 D281 · ~25 Sep · W646 d6** |
+| 4520 | [day-4520.md](days/year-013/week-646/day-4520.md) | **✓ Gate hardware mount · dry fit** | **Cal-Y14 D280 · ~24 Sep · W646 d5** |
+| 4519 | [day-4519.md](days/year-013/week-646/day-4519.md) | **✓ Bloom smelt · BLOOM-YIELD HIT** | **Cal-Y14 D279 · ~23 Sep · W646 d4** |
+| 4518 | [day-4518.md](days/year-013/week-646/day-4518.md) | **✓ Gate pour lift 3 · monolith ✓** | **Cal-Y14 D278 · ~22 Sep · W646 d3** |
+| 4517 | [day-4517.md](days/year-013/week-646/day-4517.md) | **✓ Gate pour lift 2 ~70%** | **Cal-Y14 D277 · ~21 Sep · W646 d2** |
+| 4516 | [day-4516.md](days/year-013/week-646/day-4516.md) | **✓ Q ~10.4 L/s · gate pour GO ph1** | **Cal-Y14 D276 · ~20 Sep · W646 d1** |
+| 4515 | [day-4515.md](days/year-013/week-645/day-4515.md) | **✓ Sand haul · W645 CLOSE** | **Cal-Y14 D275 · ~19 Sep · W645 d7** |
+| 4514 | [day-4514.md](days/year-013/week-645/day-4514.md) | **✓ `WAGON-V2-TUNE` wear 20→14** | **Cal-Y14 D274 · ~18 Sep · W645 d6** |
+| 4513 | [day-4513.md](days/year-013/week-645/day-4513.md) | **✓ Gravel haul · ~336 kg pile** | **Cal-Y14 D273 · ~17 Sep · W645 d5** |
+| 4512 | [day-4512.md](days/year-013/week-645/day-4512.md) | **✓ `PT-22-A` culvert · Q ~10.7 L/s** | **Cal-Y14 D272 · ~16 Sep · W645 d4** |
+| 4511 | [day-4511.md](days/year-013/week-645/day-4511.md) | **✓ Outlet trench CLOSE · hub grease** | **Cal-Y14 D271 · ~15 Sep · W645 d3** |
+| 4510 | [day-4510.md](days/year-013/week-645/day-4510.md) | **✓ Filter toe lay CLOSE** | **Cal-Y14 D270 · ~14 Sep · W645 d2** |
+| 4509 | [day-4509.md](days/year-013/week-645/day-4509.md) | **✓ Outlet trench lap 1 ~40%** | **Cal-Y14 D269 · ~13 Sep · W645 d1** |
+| 4508 | [day-4508.md](days/year-013/week-644/day-4508.md) | **✓ Block lift ×14 · W644 CLOSE** | **Cal-Y14 D268 · ~12 Sep · W644 d7** |
+| 4507 | [day-4507.md](days/year-013/week-644/day-4507.md) | **✓ Filter toe ph2 ~58%** | **Cal-Y14 D267 · ~11 Sep · W644 d6** |
+| 4506 | [day-4506.md](days/year-013/week-644/day-4506.md) | **✓ Ghab seed run CLOSE · leg 3 ✓** | **Cal-Y14 D266 · ~10 Sep · W644 d5** |
+| 4505 | [day-4505.md](days/year-013/week-644/day-4505.md) | **✓ `P-22` strip · fibre+flower select** | **Cal-Y14 D265 · ~9 Sep · W644 d4** |
+| 4504 | [day-4504.md](days/year-013/week-644/day-4504.md) | **✓ Valley lip · stub crown** | **Cal-Y14 D264 · ~8 Sep · W644 d3** |
+| 4503 | [day-4503.md](days/year-013/week-644/day-4503.md) | **✓ East string trail D1** | **Cal-Y14 D263 · ~7 Sep · W644 d2** |
+| 4502 | [day-4502.md](days/year-013/week-644/day-4502.md) | **✓ Ghab prep + scare** | **Cal-Y14 D262 · ~6 Sep · W644 d1** |
 | 4411 | [day-4411.md](days/year-012/week-631/day-4411.md) | **✓ Trail north CLOSE · W631 OPEN** | **Cal-Y14 D171 · ~7 Jun · W631 d1** |
+| 4501 | [day-4501.md](days/year-013/week-643/day-4501.md) | **✓ Filter toe ph1 · W643 CLOSE** | **Cal-Y14 D261 · ~5 Sep · W643 d7** |
+| 4500 | [day-4500.md](days/year-013/week-643/day-4500.md) | **✓ Dig lap 12 · bench ~96% · W643 CLOSE** | **Cal-Y14 D260 · ~4 Sep · W643 d6** |
+| 4499 | [day-4499.md](days/year-013/week-643/day-4499.md) | **✓ Tool touch · pistachio pick** | **Cal-Y14 D259 · ~3 Sep · W643 d5** |
+| 4498 | [day-4498.md](days/year-013/week-643/day-4498.md) | **✓ Forebay dig lap 11** | **Cal-Y14 D258 · ~2 Sep · W643 d4** |
+| 4497 | [day-4497.md](days/year-013/week-643/day-4497.md) | **✓ Forebay dig lap 10** | **Cal-Y14 D257 · ~1 Sep · W643 d3** |
+| 4496 | [day-4496.md](days/year-013/week-643/day-4496.md) | **✓ Forebay dig lap 9** | **Cal-Y14 D256 · ~31 Aug · W643 d2** |
+| 4495 | [day-4495.md](days/year-013/week-643/day-4495.md) | **✓ Forebay dig lap 8 · W643 OPEN** | **Cal-Y14 D255 · ~30 Aug · W643 d1** |
+| 4494 | [day-4494.md](days/year-013/week-642/day-4494.md) | **✓ Dig lap 7 · W642 CLOSE** | **Cal-Y14 D254 · ~29 Aug · W642 d7** |
+| 4493 | [day-4493.md](days/year-013/week-642/day-4493.md) | **✓ CHAR quad** | **Cal-Y14 D253 · ~28 Aug · W642 d6** |
+| 4492 | [day-4492.md](days/year-013/week-642/day-4492.md) | **✓ Tool sprint · procedure filed** | **Cal-Y14 D252 · ~27 Aug · W642 d5** |
+| 4491 | [day-4491.md](days/year-013/week-642/day-4491.md) | **✓ Forebay dig lap 6 · bench clean** | **Cal-Y14 D251 · ~26 Aug · W642 d4** |
+| 4490 | [day-4490.md](days/year-013/week-642/day-4490.md) | **✓ Forebay dig lap 5** | **Cal-Y14 D250 · ~25 Aug · W642 d3** |
+| 4489 | [day-4489.md](days/year-013/week-642/day-4489.md) | **✓ Forebay dig lap 4** | **Cal-Y14 D249 · ~24 Aug · W642 d2** |
+| 4488 | [day-4488.md](days/year-013/week-642/day-4488.md) | **✓ Dig lap 3 · grape strip** | **Cal-Y14 D248 · ~23 Aug · W642 d1** |
+| 4487 | [day-4487.md](days/year-013/week-641/day-4487.md) | **✓ Forebay dig lap 2 · W641 CLOSE** | **Cal-Y14 D247 · ~22 Aug · W641 d7** |
 | 4486 | [day-4486.md](days/year-013/week-641/day-4486.md) | **✓ Forebay dig lap 1** | **Cal-Y14 D246 · ~21 Aug · W641 d6** |
 | 4485 | [day-4485.md](days/year-013/week-641/day-4485.md) | **✓ Hemp cut · Q read** | **Cal-Y14 D245 · ~20 Aug · W641 d5** |
 | 4484 | [day-4484.md](days/year-013/week-641/day-4484.md) | **✓ Sand haul** | **Cal-Y14 D244 · ~19 Aug · W641 d4** |

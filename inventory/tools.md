@@ -61,11 +61,25 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 
 ## Field edge — iron and steel
 
+**Condition grammar:** [tool-edge.md](../government/procedures/tool-edge.md) — **GREEN / AMBER / RED** · gated heroes require **GREEN**.
+
 | ID | Tool | Where | State |
 |---|---|---|---|
-| **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | ✓ **LIVE d4297** · **✓ sharpen d4306 retcon** |
-| `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · haft donor for `ST-AXE-1` · **✓ sharpen d4306 retcon** |
-| `IRON-SICKLE-1` | Harvest sickle · steel edge dress d4202 | `HARVEST-KIT-Y13` | ✓ LIVE |
+| **`IRON-SPADE-1`** | Wide scoop spade · **~178 g** head · rolled lip · **~1.15 m** ash haft · forged d604 | M2 peg rail · gorge kit | **edge GREEN · haft wedged · svc d4533 sprint** |
+| **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · svc d4533 sprint** |
+| **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · svc d4533 sprint** |
+| **`W-SHOVEL-2`** | Wood shovel · backup · iron shoe class | Sand haul kit | **GREEN hold · svc d4533 audit** |
+| **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
+| `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
+| **`IRON-ADZE-1`** | Timber adze · **~115 g** · batten class | M2 peg rail | **edge GREEN · svc d4492** |
+| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d4492** |
+| **`IRON-CHISEL-1`** | Cold chisel · stone dress | M2 peg rail | **edge GREEN · svc d4492** |
+| **`IRON-WOOD-CHISEL-2`** | Wood chisel · primary | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
+| **`IRON-WOOD-CHISEL-3`** | Wood chisel · backup | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
+| **`IRON-TROWEL-1`** | Masonry trowel | M2 peg rail | **edge GREEN · svc d4533 sprint** |
+| **`IRON-MORTAR-FLOAT-1`** | Mortar float | M2 peg rail | **edge GREEN · svc d4533 sprint** |
+| **`IRON-HAMMER-1`** | Bench hammer · forge face | M2 forge peg | **face dressed GREEN · svc d4533 sprint** |
+| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4202** |
 
 ## Worn and carried
 

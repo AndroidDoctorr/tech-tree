@@ -15,7 +15,7 @@
 | **Glass panes** | **×28** | `GP-Y8-C-LITE` spare |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
 | **Wire (Cu, useful)** | **~67 m** | Mixed gauges · 0.3–1.6 mm · not all feeder-grade |
-| **Masonry brick** | **~187** | ~179 @ kiln B · ×8 @ cave *(forsterite = refractory, not this row)* |
+| **Masonry brick** | **~135** | `BRICK-FIRED-B` @ Kiln B pad *(forsterite = refractory, not this row)* |
 | **Floor tiles (TF)** | **×63** | Fired @ rack north |
 | **Roof tiles (TR)** | **×54** | Hold @ rack south · shingle runway live for new roof |
 | **Door hinges + latches** | **×0 pool** | `HINGE-BRASS-REPAIR` spent → garage doors |

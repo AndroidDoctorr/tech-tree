@@ -30,6 +30,8 @@ Established routines and procedures for production, maintenance, R&D, etc.
 - [food-menu.md](procedures/food-menu.md) - Food recipes
 - [linens-grammar.md](procedures/linens-grammar.md) - Linen standards, cleaning and repair routines
 - [trail-longevity.md](procedures/trail-longevity.md) - Maintenance routines and priorities for trails and bridges
+- [tool-edge.md](procedures/tool-edge.md) - Field/bench edge traffic light, work gates, FORGE-TOOL-SPRINT grammar
+- [wagon-wear.md](procedures/wagon-wear.md) - Norima wear index, tune/overhaul, margin-haul parity
 
 ## Archive
 
