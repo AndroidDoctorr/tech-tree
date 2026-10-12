@@ -79,7 +79,7 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | **`IRON-TROWEL-1`** | Masonry trowel | M2 peg rail | **edge GREEN · svc d4533 sprint** |
 | **`IRON-MORTAR-FLOAT-1`** | Mortar float | M2 peg rail | **edge GREEN · svc d4533 sprint** |
 | **`IRON-HAMMER-1`** | Bench hammer · forge face | M2 forge peg | **face dressed GREEN · svc d4533 sprint** |
-| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4202** |
+| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4559** |
 
 ## Worn and carried
 
@@ -162,8 +162,19 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`VAC-FALL-HEADER-Y14-1`** | Oak header clip + cork stem cup @ manifold blank | **`VAC-BENCH-1`** | d4466 |
 | **`VAC-FALL-OSCILLATOR-Y14-1`** | Counterweight fall trip · **~28 g** lift · hemp line @ north cheek peg | **`VAC-BENCH-1`** | d4468 |
 | **`BULB-PROD-Y14-1`** | Production lamp envelope · **~42 mm** · carbon loop · **first glow d4471** · cork test mount | **`VAC-BENCH-1`** | d4471 energize |
-| **`BULB-PROD-Y14-2`** | Production lamp · **~42 mm** · **tipped · carbon loop · integrate d4479** | **`VAC-BENCH-1` @ header** | d4479 tip-off |
-| **`BULB-LAMP-POC-Y14-1`** | Sealed evacuated lamp demonstrator · alias **`BULB-PROD-Y14-2`** | **`VAC-BENCH-1`** | d4479 glow |
+| **`BULB-PROD-Y14-2`** | Production lamp · **tipped d4479** · **body → `BULB-LAMP-POC-Y14-1` @ desk** | *(integrated)* | d4479 |
+| **`BULB-PROD-Y14-3`** | Production lamp · **fine filament · pre-seal outgas · tipped d4567** | *(→ `BULB-LAMP-POC-Y14-2`)* | d4567 |
+| **`BULB-PROD-Y14-4`** | Production lamp · **reed · tipped d4579** | *(→ `BULB-LAMP-POC-Y14-3`)* | d4579 |
+| **`BULB-LAMP-POC-Y14-3`** | Sealed lamp · **`BULB-PROD-Y14-4`** · **reed scout** · **@ vac bench soft peg** | **`VAC-BENCH-1`** | d4579 |
+| **`BULB-PROD-Y14-5`** | Production lamp · **reed test queue · no filament** · **@ vac bench peg** | **`VAC-BENCH-1`** | d4577 |
+| **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1` desk** | Craft-wing desk | d4558 |
+| **`BULB-LAMP-POC-Y14-2`** | Sealed lamp · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d4571 |
+| **`EC-1-TAP-BOX-JIG-Y14-1`** | Tap-box drill/jig · post spacing · fuse bore · **CP-G shutter slide** | Craft wing bench peg | d4561 |
+| **`CP-G-PLUG-PROTOTYPE-Y14-1`** | Fused **CP-G** movable plug · **earth-long · keyed flats · link fuse ~0.5 I** · **~1.4 m cord stub** | **`REF-SHELF-CRAFT-1`** | d4564 mate PASS |
+| **`EC-1-TAP-BOX-STD-1`** | Tap box #1 · **LAMP-H / BENCH** · CP-G shutter · machine lugs | **Domus porticus @ culina entry** · **`GRID-TAP-DOMUS-1`** | d4563 LIVE |
+| **`EC-1-TAP-BOX-STD-2`** | Tap box #2 · same grammar | **Officina south bay** · **`GRID-TAP-CRAFT-2`** | d4563 LIVE |
+| **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · **`BULB-FEAST-SOCKET-Y14-2` + `BULB-LAMP-POC-Y14-2`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d4572 commissioned |
+| **`BULB-FEAST-LAMP-Y14-1`** | Desk pendant · **`BULB-FEAST-SOCKET-Y14-1` + `BULB-LAMP-POC`** · **`SW-FEAST-LAMP-1`** · **~0.9 m drop** @ craft-wing desk | **`CRAFT-WING-1` north bay** | d4558 LIVE |
 | **`BULB-CU-FEATHER-JIG-Y14-1`** | Oak v-block + brass shim · Cu feather seat @ marver | Chem porch marver peg | d4472 |
 | **`BULB-CU-PINCH-SCRAP-Y14-A`** | Scrap stem · Cu pinch **near-pass** · hairline leak · study | Chem porch dry peg | d4472 |
 | **`BULB-CU-PINCH-SCRAP-Y14-B`** | Scrap stem · Cu pinch **PASS** · bubble clean | Chem porch dry peg | d4473 |
@@ -187,6 +198,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Chem fire-table | ✓ **Batch 4 d3878 · ordinary etch · acid reference** · foot **4** |
 | `RETORT-C` · `D` | Thick-wall design trials | Reject stack | ×0 · cracked in stoneware fire d3311 |
 | `RECEIVER-1` | Thin stoneware receiver · loose-neck sand-seal seat | Chem fire-table | Live · rings clean |
+| **`ETHANOL-DEHYD-TUBE-REACTOR-Y14-1`** | Glass tube + **`P-LAB-CRUC-R` seat · heated bed path** | Chem fire-table | **WIP d4597 · bed pack defer** |
+| **`ETHANOL-DEHYD-COLD-TRAP-Y14-1`** | Condenser stub · ice-jar sleeve · dehyd receiver branch | **`LAB-FUME-CABINET-1`** | **WIP d4597 · ice defer** |
 | `RETORT-E` · `F` | Production retorts · ~7 mm · ~¼ grog | Chem fire-table | ✓ **Stoneware sound d3332** · ✓ **acid recipe locked to ~⅓ grog thin (`B` class) d3335** |
 | `RETORT-G` · `H` | Production retorts · ~7 mm · ~⅓ grog | Chem fire-table | ✓ **Stoneware sound d3332** · duller ring · same acid gate |
 

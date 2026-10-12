@@ -27,6 +27,10 @@ Last full audit **d4306** · **`SEED-RAG-TEST-Y14` + `SEED-REGEN-Y14`**
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| **`EMMER-ELITE-Y14`** | Emmer elite · C increase + field strip d4584 | **~326 g** reserve hold | Vault jar | Y14 | d4587 assess |
+| **`BARLEY-ELITE-Y14`** | Barley elite · Y14 trial | **~43 g** reserve hold | Vault | Y14 | d4587 assess |
+| **`P-17-ELITE-Y14`** | Lentil elite · Y14 harvest | **~51 g** reserve hold | Vault | Y14 | d4587 assess |
+| **`P-18-ELITE-Y14`** | Chickpea elite · Y14 harvest | **~56 g** reserve hold | Vault | Y14 | d4587 assess |
 | **`EMMER-ELITE-Y13`** | Emmer elite · increase block + field strip | **~209 g** reserve hold | Vault jar | Y13 | **d4306 ~92%** |
 | **`BARLEY-ELITE-Y13`** | Barley elite · Y13 trial harvest | **~23 g** reserve hold | Vault | Y13 | **d4306 ~90%** |
 | **`P-17-ELITE-Y13`** | Lentil elite · Y13 harvest | **~14 g** reserve hold | Vault | Y13 | **d4306 ~88%** |
@@ -109,6 +113,7 @@ Last full audit **d4306** · **`SEED-RAG-TEST-Y14` + `SEED-REGEN-Y14`**
 | `HEMP-SEL-Y10` | Hemp select · ★ **Ghab line · ~4 g reserve hold** | **~4 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d4306 ~82%** |
 | `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` genetics reserve · ~6 g hold** | **~6 g** | SEED-VAULT · linen jar | d3413 gather | **d4306 ~77%** *(NW block sown d4307)* |
 | **`HEMP-GHAB-P22-IMPORT-Y14-1`** | Hemp · **`P-22` import · fibre+flower select** · **`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT` charges** | **~115 g** | SEED-VAULT · linen jar | d4506 winnow | **rag test before arking** · **Y15 split: fibre north / flower NW** |
+| **`P-07-ELITE-Y14`** | Flax elite · Y14 field pull | **~9 g** reserve hold | Vault | Y14 | d4590 assess pending |
 | **`P-07-ELITE-Y13`** | Flax elite · Y13 field pull | **~2 g** reserve hold | Vault | Y13 | **d4306 ~90%** |
 | **`P-07-ELITE-Y12`** | Flax elite · Y12 field pull · **~3 g reserve hold** | **~3 g** | Vault | Y12 | **d4306 ~88%** |
 | `P-07-ELITE-Y10` | Flax elite · **~8 g reserve hold** | ~8 g | Vault | Y10 | **d4306 ~75%** |

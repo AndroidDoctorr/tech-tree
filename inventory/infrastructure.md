@@ -165,7 +165,7 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 > ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
 > ★★★ **NEW CEILING IS THE WHEEL, NOT THE FIELD.** *The race loads now in a way it never did; the magneto was so weak the water never knew it was working.* ★ **The limit was moved, not removed.**
 >
-> ✓ **`HYDRO-ELEC-1` — +3 m crest locked d4112 · forebay **~35 × ~10 m** · scour pass 2 PASS · **✓ bench cut d4534** · **✓ crest/spillway d4532** · **✓ penstock live + flood test d4524** · **✓ forebay wing CLOSED d4540** · **✓ dam fill CLOSED d4550** · **✓ forebay intake LIVE d4552** · ⚑ **`GEN-WW-2` forebay gen tie-in optional**
+> ✓ **`HYDRO-ELEC-1` — +3 m crest locked d4112 · forebay **~35 × ~10 m** · scour pass 2 PASS · **✓ bench cut d4534** · **✓ crest/spillway d4532** · **✓ penstock live + flood test d4524** · **✓ forebay wing CLOSED d4540** · **✓ dam fill CLOSED d4550** · **✓ forebay intake LIVE d4552** · **✓ `HYDRO-ELEC-1-RACE-FEED-1` LIVE d4555** · **`GEN-WW-2` on forebay header + stream @ SUMMER**
 >
 > *(superseded — original spec)* ⧗ **`GEN-WW-2` — SHUNT-FIELD CONVERSION, opened d3295.** *Replace the ×6 `MAG-BOOT-EM` permanent rods with pole coils fed from the machine's own output.* ★★ **The field stops being a fixed asset that decays and becomes one the machine earns continuously; the ceiling moves from what steel holds to what the iron will take.**
 > **Spec:** ~600 m at ~0.5 mm, **many turns at low current**, air between layers, **not potted** — ⚠ *the wax-rosin coating softens hot and a shunt field is the one winding that never rests.* ★ **Fine wire is simultaneously the thermally safe, electrically correct and cheapest choice.**
@@ -194,7 +194,7 @@ Map: **`WW-2` wheelhouse → craft path → chem porch east** · Built: d3890 ·
 |---|---|---|
 | **Open** | **~8.5 GB** | **~7.6 GB** |
 | **Loaded · `CU-CELL` on tap** | **~8.4 GB** | **~7.2 GB · cell runs** |
-| **Run R** | — | **~2.3 R · ~46 m paired 0.9 mm** |
+| **Run R** | — | **~2.3 R · ~46 m paired 0.9 mm** · **audit ~2.35 R d4565** |
 
 ★ **Default: `SW-CHEM-FEEDER-1` OPEN when bench idle · closed for named load only.** ✓ **`MOTOR-1` first named load d3971.**
 
@@ -253,9 +253,84 @@ Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb**
 | **Gen ON** | **~8.5 GB** | **~6.7 GB** |
 | **Loaded · `CU-CELL` on tap** | **~8.4 GB** | **~6.3 GB · cell runs** |
 | **Bank only · gen OFF** | — | **~1.48 GB** |
-| **Run R** | — | **~4.0 R · ~80 m paired 0.9 mm** |
+| **Run R** | — | **~4.0 R · ~80 m paired 0.9 mm** · **audit ~4.05 R d4565** |
 
-★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle.** ⚑ **Horreum margin feeder defer.**
+★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle.** ✓ **Domus lighting margin branch d4563** *(dry only)* · ⚑ **Horreum machine margin still defer.**
+
+### ✓ **`EC-1-GRID-BRANCH-DESK-1`** — craft-wing desk lamp *(d4558)*
+Map: **`GRID-TAP-CRAFT-1` → desk rafter cleat** · **`BULB-FEAST-LAMP-Y14-1`**
+
+**~1.8 m** paired **0.5 mm** · oak cleats · **`SW-FEAST-LAMP-1` @ cleat** · fuse tail @ tap unchanged · **~6.6 GB class @ tap gen ON**.
+
+| Materials logged d4558 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~3.8 m** |
+| **`ST-STR-BAR-Y13-1` tail** | **−~14 g → `SW-FEAST-LAMP-1`** |
+| **`NAIL-IRON`** | **−×3** |
+
+★ **Default: `SW-FEAST-LAMP-1` OPEN only when bulb is meant to glow** — leave-on for Yule feast grammar.
+
+### ✓ **`EC-1-GRID-BRANCH-DOMUS-1`** — domus lighting margin *(d4563)*
+
+Map: **horreum south jamb tee on Feeder-1 cleat → domus south porticus → culina entry stud**
+
+**~11 m** paired **0.5 mm** · oak cleats · **`SW-DOMUS-LIGHT-1` @ porticus post** · **`GRID-TAP-DOMUS-1`**.
+
+| Materials logged d4563 | |
+|---|---|
+| **`O-1-MALACHITE`** | **−~0.85 kg** → branch draw |
+| **`ST-STR-BAR-Y13-1` tail** | **−~6 g** → **`SW-DOMUS-LIGHT-1`** |
+| **`WAX-Y10-RENDER-1` / `ROSIN-1`** | **−~15 g / −~8 g** cheek wrap |
+| **`NAIL-IRON`** | **−×3** |
+
+★ **Dry loads only · lighting class · not a second trunk.**
+
+### ✓ **`EC-1-TAP-BOX-STD-1`** @ domus *(d4563)*
+
+Map: **porticus east stud @ culina door** · **`GRID-TAP-DOMUS-1`**
+
+**Max ~0.35 I · ~0.25 GB·I dim · LAMP-H / BENCH** · CP-G shutter socket · machine lugs · **`FUSE-LINK-Y14-1`** in seat.
+
+### ✓ **`EC-1-GRID-BRANCH-CULINA-1`** — culina pendant *(d4571)*
+
+Map: **`EC-1-TAP-BOX-STD-1` machine lugs → porticus → culina north rafter @ `WORK-TABLE-CULINA-1`** · **`BULB-CULINA-LAMP-Y14-1`**
+
+**~3.6 m** paired **0.5 mm** · **`SW-CULINA-LAMP-1` @ rafter cleat** · **~1.0 m drop** · **✓ wrap d4572**.
+
+| Materials logged d4571 | |
+|---|---|
+| **`O-1-MALACHITE`** | **−~0.48 kg** → branch draw |
+| **`ST-STR-BAR-Y13-1` tail** | **−~11 g** → switch + hook |
+| **`BRASS-STOCK`** | **−~3 g** |
+| **`NAIL-IRON`** | **−×4** |
+
+| Materials logged d4572 (insulate + commission) | |
+|---|---|
+| **`WAX-Y10-RENDER-1` / `ROSIN-1`** | **−~14 g / −~9 g** |
+| **`FLAX-SHIVE-Y8-21`** | **−~18 g** paper |
+| **`FUSE-LINK-Y14-1`** | **−×2** · **LAMP-H** in tap seat |
+| **`NAIL-IRON`** | **−×2** steam skirt |
+
+**Label @ tap box:** **`BULB-CULINA-LAMP-Y14-1` · max ~1.15 I LAMP-H** · **commission T1–T5 PASS d4572**.
+
+★ **`SW-DOMUS-LIGHT-1` @ porticus = margin master** · **`SW-CULINA-LAMP-1` = local lamp** · **both OPEN** to energize.
+
+### ✓ **`GRID-TAP-CRAFT-2`** + **`EC-1-TAP-BOX-STD-2`** @ Officina south bay *(d4563)*
+
+Map: **`CRAFT-WING-1` south bay east stud** · bus split **`GRID-TAP-CRAFT-1` → ~3.2 m stub** · **`SW-CRAFT-BRANCH-2` @ jamb**
+
+**Max ~0.35 I socket · ~0.9 GB·I @ gen ON · LAMP-H / BENCH** · **`EC-1-TAP-BOX-STD-2`** wall-mounted.
+
+| Materials logged d4563 | |
+|---|---|
+| **`BRASS-STOCK`** | **−~5 g** tap posts |
+| **`FUSE-LINK-Y14-1`** | **−×2** *(domus + craft seats)* |
+| **`ST-STR-BAR-Y13-1` tail** | **−~6 g** → **`SW-CRAFT-BRANCH-2`** |
+| **`NAIL-IRON`** | **−×3** |
+
+★ **North tap unchanged:** **`EC-1-GRID-BRANCH-DESK-1` + feast lamp** stay on **`GRID-TAP-CRAFT-1`**.
+
+**Repeat jig:** **`EC-1-TAP-BOX-JIG-Y14-1`** @ craft bench peg.
 
 ### ★★★ `ARMATURE-2`
 In service in `GEN-WW-1` · Wound: d3267
@@ -350,12 +425,13 @@ Stream cheek `SLUICE-2-STREAM-CHEEK-1` ~10.2 kg; sill skim `SLUICE-2-SILL-SKIM-1
 ### `SLUICE-2-RACEWAY-1` — sluice 2 raceway
 Map: `S2-0` → WW-yard pad · Built: d1879
 
-~180 m · **~7.2 m head** lip → wheel pad.
+~180 m · **~7.2 m head** lip → wheel pad · **✓ forebay feed `HYDRO-ELEC-1-RACE-FEED-1` @ south wing bench d4555**.
 
 | Q read | Date | Flow | Notes |
 |---|---|---|---|
 | d1881 | Cal-Y6 D184 · ~23 Jun | **~16 L/s** | Summer-low baseline · bypass + seep honest |
 | d4045 | Cal-Y13 D173 · ~11 Jun | **~17 L/s** | June class · not spring peak · bypass **~1.2 L/s** |
+| d4555 | Cal-Y14 D315 · ~29 Oct | **~10.9 L/s** | Autumn nadir · **forebay feed LIVE** · gate **SUMMER** |
 
 ### `HYDRO-ELEC-1-PENSTOCK-1` — forebay outlet culvert
 Map: gorge filter toe → gate footing ghost · Installed: d4512
@@ -425,7 +501,7 @@ Both are the **fallback**, not the primary. Running water in the ditch leaches f
 ### `EVAP-RACK-1` — salt evaporation rack
 Map: — · Interval: seasonal
 
-**`SALT-EVAP-SPRINT-Y10-1` cycle 1 CLOSED @ d3474** — trays empty · rinse-dry · pour #2 when haul lands.
+**`SALT-EVAP-SPRINT-Y14-2` cycle 2 CLOSED d4578** — trays empty · rinse-dry · pour #3 if band allows. *(Cycle 1 ✓ d4205.)*
 
 ### `COOL-CELLAR-2-EVAP`
 Map: cellar north margin
@@ -442,7 +518,7 @@ Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
 ### `AMPHORA-6`
 Map: `OLIVE-PRESS-1` cool-step · Oil
 
-**Empty @ d4222** — **`OIL-Y13-1` decanted** · sediment foot **`OIL-SEDIMENT-Y13-1`** + Y12 sealed below · repitched food-oil coat · ready for next crude.
+**`OIL-Y14-1` ~1.46 L crude settling** @ cool-step · **press laps 1–2 d4580/4581** · decant Dec band when named.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -452,12 +528,12 @@ Carries the `CULINA-POTABLE-FILTER-1` column. ★ **Potable — not grey.**
 ### `AMPHORA-8`
 Map: cart yard · Built: d2286
 
-Brackish and general. M-08 foot ring. Brackish haul staging runs through here and amphora #2; haul #13 queued as of d3109.
+**Empty rinse-dry** @ cart yard post **pour d4575**. M-08 foot ring.
 
 ### `AMPHORA-9`
 Map: horreum A margin ghost · Built: d2744
 
-**Empty @ d3926** — **`GRAIN-FERMENT-Y13-1` distilled · rinsed** · **harvest buffer LIVE d4202 audit** · M-08 foot.
+**Empty harvest buffer** — rinsed **d4573** · M-08 foot · prior **d3926 / d4202** grammar.
 
 ### `BARREL-5-FERMENT`
 Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
@@ -635,7 +711,9 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-36` FIBRE CLOSED d4236** — **`HEMP-LINE-Y13-1` ~0.89 kg @ `WOOD-CRATE-6`**.
 
-**`RETT-TROUGH-FLAX-1`** **empty** · **`W-1` north cleared d4236** · **`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
+**`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
+
+**`P-RETT-38` LIVE d4590** — **×8 bundles ~15.2 kg green @ `RETT-TROUGH-FLAX-1` ditch W** · pull ~10–14 d · **`FLAX-FIELD-Y14` Bed B centre pulled**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

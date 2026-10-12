@@ -50,7 +50,7 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 | **Outlet gate drawing** | **✓ d4317** |
 | **Spring high-flow Q confirm** | **✓ d4288** |
 | **Forebay civil** | **✓ CLOSED d4552** — forebay **LIVE @ shallow stage** |
-| **Cut · fill · pour** | **✓ 100%** · ⚑ **`GEN-WW-2` forebay gen tie-in** when named |
+| **Cut · fill · pour** | **✓ 100%** · **✓ gen feed d4555** · ⚑ deeper hold · campus penstock draw |
 
 ### Stock runway *(on hand d4486 — gravel/sand laps largely closed)*
 
@@ -123,9 +123,13 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 
 ### ⚑ Optional tails *(do not block hydro)*
 
-- ⚒ **Tipped bulb #2** — elite fine filament · integrate grammar from d4479
+- ✓ **Bulb fine integrate** — **`BULB-LAMP-POC-Y14-2` LIVE d4567** @ vac header
+- ⚑ **Mount / socket** — pendant · CP-G · or swap vs feast lamp when named
 - ⚑ **Limelight / searchlight duty** — parallel to bulb feast prep
-- ⚑ **Yule electric feast queue** — duplicate tipped unit + maint when named
+- ✓ **Yule electric feast lamp** — **`BULB-FEAST-LAMP-Y14-1` LIVE d4558** · optional bulb #2 on vac bench
+- ✓ **Bulb char ledger** — [bulb-characterization-ledger.md](../government/procedures/bulb-characterization-ledger.md) · **`BULB-CHAR-SWEEP-*`** each new lamp
+- ⚑ **Bulb R&D** — alt filament · high-T carbonize · pre-seal outgas · reed fibre · **`MCLEOD-GAUGE-1`**
+- ⚑ **EC-1 expansion** — **✓ feeder audit d4565** · [ec-1-campus-expansion.md](ec-1-campus-expansion.md) · **plug jig · domus pendants** → **Feeder-3 @ north wing**
 - ⟳ **`VAC-BENCH-Y14-1`** — Hg loop · bath read · purge first draw
 
 ---

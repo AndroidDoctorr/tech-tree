@@ -23,7 +23,7 @@ Y14 sow **d4307**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y14` | Flax, field · fibre | Bed B centre · **~16 m²** | d4307 | **Dense drill** |
+| `FLAX-FIELD-Y14` | Flax, field · fibre | Bed B centre · **✓ pulled d4590** | d4307 | **Dense drill** |
 | `EMMER-Y14` | Emmer | Bed B south + centre · **~10 m²** | d4307 | **Broadcast · rolled** |
 | `BARLEY-TRIAL-Y14` | Barley trial | Bed B east margin · **~2.5 m²** | d4307 | **Row drill** |
 | `P-17-LENTIL-Y14` | Lentil | Bed B north + margin · **~6 m²** | d4307 | **Row drill** |
@@ -62,5 +62,6 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 | **`P-RETT-35`** | Wild flax Y13 lap 1 | — | d4075 | **✓ FIBRE CLOSED d4236** |
 | **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **✓ FIBRE CLOSED d4236** |
 | **`P-RETT-37`** | Flax field Y13 | — | d4219 | **✓ FIBRE CLOSED d4236** |
+| **`P-RETT-38`** | Flax field Y14 | — | d4590 | **LIVE @ ditch W · pull ~d4600–4604** |
 
-**`RETT-TROUGH-FLAX-1`** empty @ ditch W · break/heckle defer.
+**`RETT-TROUGH-FLAX-1`** **`P-RETT-38` loaded** @ ditch W · break/heckle defer post pull.

@@ -6,10 +6,54 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4553 · `year-013/`)*
+## Recent days *(append here · @ Day 4597 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4597 | [day-4597.md](days/year-013/week-657/day-4597.md) | **✓ Ethanol dehyd B build D1** | **Cal-Y14 D357 · ~10 Dec · W657 d5** |
+| 4596 | [day-4596.md](days/year-013/week-657/day-4596.md) | **✓ Distill prep · mash HOLD** | **Cal-Y14 D356 · ~9 Dec · W657 d4** |
+| 4595 | [day-4595.md](days/year-013/week-657/day-4595.md) | **✓ Grain ferment Y14 start** | **Cal-Y14 D355 · ~8 Dec · W657 d3** |
+| 4594 | [day-4594.md](days/year-013/week-657/day-4594.md) | **✓ Goat checkup · oil close** | **Cal-Y14 D354 · ~7 Dec · W657 d2** |
+| 4593 | [day-4593.md](days/year-013/week-657/day-4593.md) | **✓ Grape tail · oil decant** | **Cal-Y14 D353 · ~6 Dec · W657 d1** |
+| 4592 | [day-4592.md](days/year-013/week-656/day-4592.md) | **✓ Olive lap 3 close** | **Cal-Y14 D352 · ~5 Dec · W656 d7** |
+| 4591 | [day-4591.md](days/year-013/week-656/day-4591.md) | **✓ Grape prune Y14** | **Cal-Y14 D351 · ~4 Dec · W656 d6** |
+| 4590 | [day-4590.md](days/year-013/week-656/day-4590.md) | **✓ Flax pull · rett 38** | **Cal-Y14 D350 · ~3 Dec · W656 d5** |
+| 4589 | [day-4589.md](days/year-013/week-656/day-4589.md) | **✓ Shelf-life sprint D2** | **Cal-Y14 D349 · ~2 Dec · W656 d4** |
+| 4588 | [day-4588.md](days/year-013/week-656/day-4588.md) | **✓ Shelf-life sprint D1** | **Cal-Y14 D348 · ~1 Dec · W656 d3** |
+| 4587 | [day-4587.md](days/year-013/week-656/day-4587.md) | **✓ Seed assess Y14** | **Cal-Y14 D347 · ~30 Nov · W656 d2** |
+| 4586 | [day-4586.md](days/year-013/week-656/day-4586.md) | **✓ P-18 harvest close** | **Cal-Y14 D346 · ~29 Nov · W656 d1** |
+| 4585 | [day-4585.md](days/year-013/week-655/day-4585.md) | **✓ Pulse · harvest block close** | **Cal-Y14 D345 · ~28 Nov · W655 d7** |
+| 4584 | [day-4584.md](days/year-013/week-655/day-4584.md) | **✓ Emmer + barley harvest** | **Cal-Y14 D344 · ~27 Nov · W655 d6** |
+| 4583 | [day-4583.md](days/year-013/week-655/day-4583.md) | **✓ Wood haul** | **Cal-Y14 D343 · ~26 Nov · W655 d5** |
+| 4582 | [day-4582.md](days/year-013/week-655/day-4582.md) | **✓ Bulb R&D compare ×3** | **Cal-Y14 D342 · ~25 Nov · W655 d4** |
+| 4581 | [day-4581.md](days/year-013/week-655/day-4581.md) | **✓ Olive lap 2 · press #2** | **Cal-Y14 D341 · ~24 Nov · W655 d3** |
+| 4580 | [day-4580.md](days/year-013/week-655/day-4580.md) | **✓ Olive press lap-1 fruit** | **Cal-Y14 D340 · ~23 Nov · W655 d2** |
+| 4579 | [day-4579.md](days/year-013/week-655/day-4579.md) | **✓ Reed bulb sealed · POC-3** | **Cal-Y14 D339 · ~22 Nov · W655 d1** |
+| 4578 | [day-4578.md](days/year-013/week-654/day-4578.md) | **✓ Salt scrape · reed outgas** | **Cal-Y14 D338 · ~21 Nov · W654 d7** |
+| 4577 | [day-4577.md](days/year-013/week-654/day-4577.md) | **✓ Bulb envelopes ×2 · reed queue** | **Cal-Y14 D337 · ~20 Nov · W654 d6** |
+| 4576 | [day-4576.md](days/year-013/week-654/day-4576.md) | **✓ Olive lap 1 · brine jar** | **Cal-Y14 D336 · ~19 Nov · W654 d5** |
+| 4575 | [day-4575.md](days/year-013/week-654/day-4575.md) | **✓ G-02 · evap pour · reed char** | **Cal-Y14 D335 · ~18 Nov · W654 d4** |
+| 4574 | [day-4574.md](days/year-013/week-654/day-4574.md) | **✓ Reed dry · salt brine #2** | **Cal-Y14 D334 · ~17 Nov · W654 d3** |
+| 4573 | [day-4573.md](days/year-013/week-654/day-4573.md) | **✓ Harvest prep · defrag** | **Cal-Y14 D333 · ~16 Nov · W654 d2** |
+| 4572 | [day-4572.md](days/year-013/week-654/day-4572.md) | **✓ Culina lamp commission** | **Cal-Y14 D332 · ~15 Nov · W654 d1** |
+| 4571 | [day-4571.md](days/year-013/week-653/day-4571.md) | **✓ Culina lamp · W653 close** | **Cal-Y14 D331 · ~14 Nov · W653 d7** |
+| 4570 | [day-4570.md](days/year-013/week-653/day-4570.md) | **✓ Reed split · socket seat** | **Cal-Y14 D330 · ~13 Nov · W653 d6** |
+| 4569 | [day-4569.md](days/year-013/week-653/day-4569.md) | **✓ Reed culm scout T-1** | **Cal-Y14 D329 · ~12 Nov · W653 d5** |
+| 4568 | [day-4568.md](days/year-013/week-653/day-4568.md) | **✓ Feast socket #2** | **Cal-Y14 D328 · ~11 Nov · W653 d4** |
+| 4567 | [day-4567.md](days/year-013/week-653/day-4567.md) | **✓ Bulb #2 sealed · fine · outgas** | **Cal-Y14 D327 · ~10 Nov · W653 d3** |
+| 4566 | [day-4566.md](days/year-013/week-653/day-4566.md) | **✓ Bulb #3 envelope · Cu stem** | **Cal-Y14 D326 · ~9 Nov · W653 d2** |
+| 4565 | [day-4565.md](days/year-013/week-653/day-4565.md) | **✓ Feeder audit · bulb sweep** | **Cal-Y14 D325 · ~8 Nov · W653 d1** |
+| 4564 | [day-4564.md](days/year-013/week-652/day-4564.md) | **✓ CP-G fused plug proto** | **Cal-Y14 D324 · ~7 Nov · W652 d7** |
+| 4563 | [day-4563.md](days/year-013/week-652/day-4563.md) | **✓ Domus + Officina tap LIVE** | **Cal-Y14 D323 · ~6 Nov · W652 d6** |
+| 4562 | [day-4562.md](days/year-013/week-652/day-4562.md) | **✓ Tap box #2 · brass pour** | **Cal-Y14 D322 · ~5 Nov · W652 d5** |
+| 4561 | [day-4561.md](days/year-013/week-652/day-4561.md) | **✓ EC-1 tap-box standard** | **Cal-Y14 D321 · ~4 Nov · W652 d4** |
+| 4560 | [day-4560.md](days/year-013/week-652/day-4560.md) | **✓ Q read · EC-1 plan** | **Cal-Y14 D320 · ~3 Nov · W652 d3** |
+| 4559 | [day-4559.md](days/year-013/week-652/day-4559.md) | **✓ Farm scare · sickle freshen** | **Cal-Y14 D319 · ~2 Nov · W652 d2** |
+| 4558 | [day-4558.md](days/year-013/week-652/day-4558.md) | **✓ Desk feast lamp LIVE** | **Cal-Y14 D318 · ~1 Nov · W652 d1** |
+| 4557 | [day-4557.md](days/year-013/week-651/day-4557.md) | **✓ Feast socket wired** | **Cal-Y14 D317 · ~31 Oct · W651 d7** |
+| 4556 | [day-4556.md](days/year-013/week-651/day-4556.md) | **✓ Bulb socket R&D · craft wing** | **Cal-Y14 D316 · ~30 Oct · W651 d6** |
+| 4555 | [day-4555.md](days/year-013/week-651/day-4555.md) | **✓ Forebay gen tie-in LIVE** | **Cal-Y14 D315 · ~29 Oct · W651 d5** |
+| 4554 | [day-4554.md](days/year-013/week-651/day-4554.md) | **✓ Q read + gen commission post-hydro** | **Cal-Y14 D314 · ~28 Oct · W651 d4** |
 | 4553 | [day-4553.md](days/year-013/week-651/day-4553.md) | **✓ Hydro inspect · bricks @ Kiln B** | **Cal-Y14 D313 · ~27 Oct · W651 d3** |
 | 4552 | [day-4552.md](days/year-013/week-651/day-4552.md) | **✓ Forebay intake tie · civil CLOSE** | **Cal-Y14 D312 · ~26 Oct · W651 d2** |
 | 4551 | [day-4551.md](days/year-013/week-651/day-4551.md) | **✓ Light campus scare · rest** | **Cal-Y14 D311 · ~25 Oct · W651 d1** |

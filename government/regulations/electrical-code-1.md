@@ -1,7 +1,8 @@
 # Electrical Code 1 *(EC-1)*
 
 **Filed:** Day 3558 · **Cal-Y12 D39** · **~8 Feb Y12**
-**Amended:** Day 3889 · **Cal-Y13 D17** · **~6 Jan Y13** — **EC-1-GAUGE · EC-1-GRID · `EC-1-WIRE-SAMPLE-SET-Y13-1`**
+**Amended:** Day 3889 · **Cal-Y13 D17** · **~6 Jan Y13** — **EC-1-GAUGE · EC-1-GRID · `EC-1-WIRE-SAMPLE-SET-Y13-1`**  
+**Amended:** Day 4560 · **Cal-Y14 D320** · **~3 Nov Y14** — campus expansion plan · load ledger · phases 1–5 → [ec-1-campus-expansion.md](../../plans/ec-1-campus-expansion.md)
 **Scope:** wire, resistance standards, cells, generator interface, campus distribution, and bench measurement @ HOME campus
 **Related:** [measurement-code-1.md](measurement-code-1.md) · [manufacturing-code-1.md](manufacturing-code-1.md) · [building-code-2.md](building-code-2.md) BC-2-SERVICES
 
@@ -141,7 +142,13 @@ Codify what the **`GEN-WW-2`** era already proved on the bench — **load lines,
 
 1. ✓ **Chem porch / `CHEM-LAB-WING-1`** — **`EC-1-GRID-FEEDER-1` LIVE d3890** · **`GRID-TAP-CHEM-1`** · cells · bench · future hood fan
 2. ✓ **Craft wing / `CRAFT-WING-1`** — **`EC-1-GRID-FEEDER-2` LIVE d3976** · **`GRID-TAP-CRAFT-1`** · **`SW-CRAFT-FEEDER-1` separate from chem**
-3. **Horreum margin** — defer · no gas · no heat loads until conduit chase proven
+3. ✓ **Craft wing / desk lamp** — **`EC-1-GRID-BRANCH-DESK-1` LIVE d4558** · **`BULB-FEAST-LAMP-Y14-1`**
+4. **Officina north work wing** — **`EC-1-GRID-FEEDER-3`** queued · **after shell jamb + tap-box std**
+5. **`WAGON-GARAGE-2` shop** — **`EC-1-GRID-FEEDER-4`** or bus tap · **heavier gauge class** · after civil
+6. ✓ **Domus lighting margin** — **`EC-1-GRID-BRANCH-DOMUS-1` LIVE d4563** · **`GRID-TAP-DOMUS-1`** · dry loads only
+7. **Horreum machine margin** — defer · chase proven · not lighting
+
+**Expansion plan:** [ec-1-campus-expansion.md](../../plans/ec-1-campus-expansion.md)
 
 Chases: [building-code-2.md](building-code-2.md) BC-2-SERVICES — **leave route · minimal install.**
 
