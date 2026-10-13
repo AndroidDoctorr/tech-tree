@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4604** · Cal-Y14 D364 · ~17 Dec Y14 · **Week 658 day 5**
+> **Day 4614** · Cal-Y15 D5 · ~26 Dec Y15 · **Week 660 day 1**
 >
-> **Cal-Y14 d4605 · HOME** · **`THERMAE-FULL-Y14-1` ✓ natural @ felt · 1/4** · **×4 woad+madder batch after weave set** · **`LM-2` open for towel 2 when named** · **`THREAD-STOCK-2` ~482 m** · **`GRAIN-FERMENT-Y14-1` ⧗ day ~9** · **`WOOD-OAK-P5` ~113.5 kg** · **Hazard:** volatility normal · **Norima wear 18** · **mishap_pool 0** · **team HOME**
+> **Cal-Y15 d4615 · HOME** · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1` WIP ~32%** · **`THERMAE-FULL-Y14-1/2` 2/4 @ felt** · **`GRAIN-FERMENT-Y14-1` ⧗ day ~19** · distill ~d4630 · **`WOOD-OAK-P5` ~102.2 kg** · **Clocks:** [CALENDAR-NAMING.md](journal/retcons/CALENDAR-NAMING.md) · **Hazard:** volatility normal · **Norima wear 18** · **mishap_pool 0** · **team HOME**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -19,7 +19,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | B centre | **✓ flax pulled d4590 · stubble** | **d4307** |
 | B S + centre | **✓ emmer cut d4584 · stubble** | **d4307** |
 | B north | **✓ lentil cut d4585 · stubble** | **d4307** |
-| B east margin | **✓ barley trial cut d4584 · stubble** | **d4307** |
+| B east margin | **✓ barley trial cut d4584 · stubble** | **d4307** · **⚑ player: maybe expand barley @ Y15 sow** |
 | A south | **✓ chickpea cut d4585 · stubble** | **d4307** |
 | C SW | **✓ lentil selection cut d4585 · stubble** | **d4307** |
 | C south corner | **✓ emmer elite block cut d4584** | **d4307** |
@@ -66,7 +66,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
 | **`P-RETT-37`** | **—** | **✓ FIBRE CLOSED d4236 · `FLAX-LINE-Y13-1`** |
 | **`ACORN-DRY-Y13-1/2`** | **—** | **✓ roast d4236 · ~605 + ~600 g @ nut tray** |
-| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~9 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
+| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~19 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** | **spirit peg buffer LIVE** |
 | **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230 · Yule field shot d4240** | **Field ×7 ball · bank ×12 · powder jar ~180 g · tubes ×3 bandolier + ×6 reserve** |
 | **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y14 pass d4591 · Feb touch optional** |
@@ -92,7 +92,6 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×63** @ rack north | d4009 |
 | **`KAOLIN-SLIP-M26-1`** | **~20.3 kg** @ chem porch | d4599 |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~95 g R&D reserve** @ catalyst peg | d4599 |
 | **`KAOLIN-SLIP-M26-BEST-1`** | **~0.76 kg** @ chem porch | d4577 ×2 bulb |
 | **`FORSTERITE-GROG-1`** | **~1.7 kg** | d4299 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
@@ -102,12 +101,15 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~113.5 kg** @ pile 5 | d4604 cook |
-| **`THREAD-STOCK-2`** | **~482 m** @ craft peg | d4604 |
-| **`THERMAE-FULL-Y14-1`** | **×1 natural @ felt · 1/4** | d4604 off-loom |
+| **`WOOD-OAK-P5`** | **~102.2 kg** @ pile 5 | d4614 |
+| **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **WIP ~32% @ `EASEL-1`** | d4614 |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~21 g** @ catalyst peg | d4606 · thin |
+| **`CHAR-LANE`** | **~8.4 kg** | d4606 |
+| **`THREAD-STOCK-2`** | **~352 m** @ craft peg | d4613 |
+| **`THERMAE-FULL-Y14-1/2`** | **×2 natural @ felt · 2/4** | d4613 off-loom |
 | **`FLAX-LINE` crate tail** | **~3.16 kg** combined @ `WOOD-CRATE-6` | d4601 spin |
 | **`ROSIN-1`** | **~29 g** @ chem porch | d4597 |
-| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~9 @ `BARREL-5`** | d4604 bung |
+| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~19 @ `BARREL-5`** | d4614 bung |
 | **`OIL-Y14-1`** | **~1.12 L clear** · **~280 ml @ `P-ξ-5`** | d4593 decant |
 | **`STONE-DRESS-P4`** | **~19.9 kg** @ pile 4 north | d4550 fill close |
 | **`CLAY-P1`** | **~9.9 kg** @ pile 1 | d4301 |
@@ -149,7 +151,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `NAIL-IRON` | **×21 @ bench peg tray** | d4422 return |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~11.8 m tail** @ peg | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
-| Ice vault | **~126.8 kg hard · cap-bound** | d4600 trap |
+| Ice vault | **~121.8 kg hard · cap-bound** | d4606 trap |
 | `SOAP-Y10-1` | cured bar #4 open · porch shelf | d4589 |
 
 ## Animals

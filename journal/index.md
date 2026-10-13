@@ -6,10 +6,20 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4604 · `year-013/`)*
+## Recent days *(append here · @ Day 4614 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4614 | [day-4614.md](days/year-013/week-660/day-4614.md) | **✓ Poker painting D2 ~32%** | **Cal-Y15 D5 · W660 d1** |
+| 4613 | [day-4613.md](days/year-013/week-659/day-4613.md) | **✓ Thermae towel 2 done** | **Cal-Y15 D4 · W659 d7** |
+| 4612 | [day-4612.md](days/year-013/week-659/day-4612.md) | **✓ Towel 2 weave D2** | **Cal-Y15 D3 · W659 d6** |
+| 4611 | [day-4611.md](days/year-013/week-659/day-4611.md) | **✓ Towel 2 warp · ~22%** | **Cal-Y15 D2 · W659 d5** |
+| 4610 | [day-4610.md](days/year-013/week-659/day-4610.md) | **✓ Rest · poker painting D1** | **Cal-Y15 D1 · W659 d4** |
+| 4609 | [day-4609.md](days/year-013/week-659/day-4609.md) | **✓ Yule feast · Cal-Y14 close** | **Cal-Y14 D369 · 21 Dec · W659 d3** |
+| 4608 | [day-4608.md](days/year-013/week-659/day-4608.md) | **✓ Yule eve cook** | **Cal-Y14 D368 · W659 d2** |
+| 4607 | [day-4607.md](days/year-013/week-659/day-4607.md) | **✓ Yule feast prep Y14** | **Cal-Y14 D367 · ~20 Dec · W659 d1** |
+| 4606 | [day-4606.md](days/year-013/week-658/day-4606.md) | **✓ Dehyd batch 2 ×2** | **Cal-Y14 D366 · ~19 Dec · W658 d7** |
+| 4605 | [day-4605.md](days/year-013/week-658/day-4605.md) | **✓ Dehyd run 1 · beds** | **Cal-Y14 D365 · ~18 Dec · W658 d6** |
 | 4604 | [day-4604.md](days/year-013/week-658/day-4604.md) | **✓ Thermae towel 1 done** | **Cal-Y14 D364 · ~17 Dec · W658 d5** |
 | 4603 | [day-4603.md](days/year-013/week-658/day-4603.md) | **✓ Thick towel weave D2** | **Cal-Y14 D363 · ~16 Dec · W658 d4** |
 | 4602 | [day-4602.md](days/year-013/week-658/day-4602.md) | **✓ Towel 1 warp · ~22%** | **Cal-Y14 D362 · ~15 Dec · W658 d3** |

@@ -10,14 +10,28 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~13.6 kg** | Char lane | | d4600 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~8.4 kg** | Char lane | | d4606 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.8 kg** | Store C vault | | d4465 pad trace |
-| `WOOD-OAK-P5` | Oak, green | **~119.5 kg** @ pile 5 | Pile 5 | | d4598 cook |
+| `WOOD-OAK-P5` | Oak, green | **~106.1 kg** @ pile 5 | Pile 5 | | d4610 |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~8.1 kg** | Berm | | d4269 |
 | `SLUMGUM-1` | Slumgum · firelighter | ~4 kg | Fire store | | d3265 |
+
+## Alcohol · ethanol organics pathway
+
+Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](food.md). Ferment vessel: **`BARREL-5-FERMENT`** (fuel table above). Tube reactor + cold trap: **`ETHANOL-DEHYD-TUBE-REACTOR-Y14-1` · `ETHANOL-DEHYD-COLD-TRAP-Y14-1`** @ [tools.md](tools.md). Calcine feed slip: **`KAOLIN-SLIP-M26-1`** (clay bodies). Bed B ZnO boost: **`ZNO-CALCINE`** (metals table).
+
+| ID | Item | Qty | Where | Made | Last |
+|---|---|---|---|---|---|
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin · dehyd bed A/B | **~21 g** | Chem porch catalyst peg | d3956 | d4606 |
+| **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Dehyd POC condensate · Phase A · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
+| **`ETHANOL-DEHYD-CONDENSATE-Y14-1`** | Dehyd condensate · Phase B run · tube + cold trap | **~41 ml @ `P-LAB-DEHYD-JAR-2`** | Chem spirit peg | d4600 | d4600 |
+| **`ETHANOL-DEHYD-CONDENSATE-Y14-2`** | Dehyd condensate · batch 2 run 1 · high-yield class | **~48 ml @ `P-LAB-DEHYD-JAR-3`** | Chem spirit peg | d4605 | d4605 |
+| **`ETHANOL-DEHYD-CONDENSATE-Y14-3`** | Dehyd condensate · batch 2 run 2 | **~41 ml @ `P-LAB-DEHYD-JAR-4`** | Chem spirit peg | d4606 | d4606 |
+
+**~170 ml condensate class total @ spirit peg** · spirit feed **`SPIRIT-GRAIN-Y13-1` ~1.00 L** + **`Y13-2` ~2.95 L** @ food *(drinkable in small pours · main lane chemistry)*.
 
 ## Clay, stone and aggregate
 
@@ -65,7 +79,6 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~20.3 kg** | Chem porch jar | d3331 | d4599 |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin / alumina class · **R&D reserve · dehyd** | **~95 g** | Chem porch catalyst peg | d3956 | d4599 |
 | `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.76 kg** | Chem porch jar | d3331 | d4577 ×2 bulb |
 | `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.52 kg wet** | Chem porch separate peg | d3331 | d3941 |
 | `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | **~0.03 kg** | Chem porch jar | | d3821 |
@@ -139,7 +152,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`MUSKET-LOCK-MOCKUP-Y13-1`** | Oak lock test frame · plate mount · pivot dowels · spring posts · **fit trial ✓ d4196** | **@ craft wing bench** | Craft wing bench | d4196 | d4196 |
 | `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~17.25 kg** | Pile 4 tray | d3618 | d3903 |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
-| `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.39 kg** *(pigment reserve)* | Chem porch | | d4522 M-G1 cob |
+| `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.388 kg** *(pigment reserve)* | Chem porch | | d4614 paint trace |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
 | `CASSITERITE-CONC` | Cassiterite concentrate · fines-heavy, deferred | ~0.5 kg | Forge staging tray | | d2933 |
 | `PYRITE-KISECIK` | Pyrite, Kisecik fringe · *(+`PYRITE-SPARK-TIN-1` ~22 g at `FK-1`)* | **~0.55 kg** | Ore shelf | | d3983 |
@@ -233,7 +246,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
 | `CS-TEST-COUPON-Y12-2` | Carbon steel test coupon · bar-2 fracture | **~17 g** | Bench vial | Y12 | d3573 |
 | `SN-BANK` | Tin | **~1.12 kg** | — | | d3743 |
-| `ZNO-CALCINE` | Zinc oxide calcine | **~720 g** | — | | d4598 dehyd bed B |
+| `ZNO-CALCINE` | Zinc oxide calcine | **~696 g** | — | | d4606 |
 | `ZN-METAL-1` | Zinc, prill tail | **~78 g** | Chem-lab lidded tray | | d3743 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | **~83 g** | Purple lidded jar · vac reserve | | d4467 loop charge |
 | **`VAC-HG-LOOP-Y14-1`** | Mercury · ☠ **in `VAC-BENCH-1` loop only** | **~199.3 g** | Dish + column + trap path | d4467 | d4479 spill trace |
@@ -308,7 +321,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FLAX-TOW-BANK` | Flax tow | **~299 g** | Wing shelf | | d4604 |
+| `FLAX-TOW-BANK` | Flax tow | **~146 g** | Wing shelf | | d4613 |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~13 m tail** | Craft wing peg | d3505 | d3868 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | Flax shingle strips · impregnated · sanded · ~10 × 18 cm | **×7** | Chem porch peg | d3869 | d3869 |
@@ -342,7 +355,9 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `ROPE-2` | 3-strand hemp · ★ **certified: loaded haul and lashing at breaking ÷ 6, spliced not knotted** · ⚠ **not life-bearing** | ~23 m | — | d3255 | d3264 |
 | `ANTLER-SHED` | Antler, cast and hard · beats bone for anything taking a blow | ×6 | Craft wing | | d3269 |
 | `CLOTH-WAGON-COVER` | Wagon cover cloth, tail stock | ~2.00 kg | `CART-YARD` south peg row | | d3472 |
-| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~482 m** | Craft wing peg | | d4604 |
+| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~352 m** | Craft wing peg | | d4613 |
+| `THERMAE-FULL-Y14-1` | Full-width thermae towel · thick nap weave | **×1 natural** | Atelier felt | d4604 | d4604 |
+| `THERMAE-FULL-Y14-2` | Full-width thermae towel · thick nap weave | **×1 natural** | Atelier felt | d4613 | d4613 |
 | `THREAD-1` | Thread, general | ~307 m | — | | d3091 |
 | `VENT-BELT-ROPE` | Rope, vent belt | ~123 m | — | | d1970 |
 | `EXPED-ROPE` | Hemp rope · D-27 salvage | ~72 m | Cart peg | | d2945 |
@@ -398,6 +413,8 @@ Rope is here rather than in tools because it is measured and consumed. A rope ri
 | **`PAINTING-Y14-1`** | Egg-tempera on linen panel · horizon + memory portrait · north-light study | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y14-1`** | Oak slip frame · ~280×360 mm · keyed corners | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y14-2`** | Oak slip frame · ~280×360 mm · mate to **`PAINTING-Y14-1`** | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
+| **`FRAME-OAK-Y15-POKER-1`** | Oak stretcher · ~360×480 mm · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **×1** @ `EASEL-1` | M2 WORK | d4610 | d4610 |
+| **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | Donkeys Playing Poker homage · egg-tempera WIP | **~32% @ `EASEL-1`** | M2 WORK north light | d4610 | d4614 |
 
 *Prior: **`PAINT-CANVAS-1`** @ **`EASEL-1`** · swatch studies d1701+ · **`EASEL-1`** @ infrastructure/M2.*
 

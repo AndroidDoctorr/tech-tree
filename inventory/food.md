@@ -19,9 +19,9 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`P-17-LENTIL-Y13`** | Lentil · Y13 harvest · graded | **~143 g** | Horreum A pulse bay | d4217 | d4221 |
 | **`P-18-CHICKPEA-Y13`** | Chickpea · Y13 harvest · graded | **~201 g** | Horreum A pulse bay | d4218 | d4221 |
 | **`PARCHED-MU-13-Y13-1`** | Parched emmer · Y13 sprint refresh | **~0.52 kg** | Horreum snack jar `P-μ-12` | d4221 | d4221 |
-| **`PARCHED-MU-14-Y14-1`** | Parched emmer · Y14 sprint refresh | **~0.50 kg** | Horreum snack jar `P-μ-12` | d4589 | d4589 |
+| **`PARCHED-MU-14-Y14-1`** | Parched emmer · Y14 sprint refresh | **~0.36 kg** | Horreum snack jar `P-μ-12` | d4589 | d4608 |
 | **`STEW-Y13-JAR-4221`** | Pulse + emmer stew jar | **~1.02 kg** | Cool cellar step | d4221 | d4221 |
-| **`STEW-Y14-JAR-4589`** | Pulse + emmer stew jar · Y14 sprint | **~0.92 kg** | Cool cellar step | d4589 | d4589 |
+| **`STEW-Y14-JAR-4589`** | Pulse + emmer stew jar · Y14 sprint | **~0.74 kg** | Cool cellar step | d4589 | d4608 |
 | **`BARLEY-BULK-Y12`** | Barley, bulk · Y12 trial harvest | **~0.51 kg** | Horreum A barley bay | d3849 | d3849 |
 | `BARLEY-BULK-Y10` | Barley, bulk · Y10 trial harvest | ~0.48 kg | Horreum A barley bay | d3491 | d3491 |
 | **`EMMER-BULK-Y12`** | Emmer, bulk · Y12 harvest | **~0.58 kg** | Horreum A `EMMER-BULK-Y12` incoming bay | d3849 | d4257 |
@@ -42,7 +42,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | `FAVA-BRINE-Y12-1` | Fava, short brine · tender tail | **~0.72 kg** | Crock #3 cool step | d3704 | d3704 |
 | `FAVA-DRY-Y12-FOOD-1` | Fava, dry food · blanch + rack finish · **not seed bank** | **~3.18 kg** | Horreum A pulse bay | d3704 | d3704 |
 | `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |
-| `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | **~70 g** | Cool cellar step crock | d3492 | d4240 |
+| `HUMMUS-Y10-1` | Hummus · chickpea · oil · garlic | **~20 g** | Cool cellar step crock | d3492 | d4609 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
 | **`P-18-CHICKPEA-Y12`** | Chickpea · Y12 harvest | **~201 g** | Horreum A pulse bay | d3851 | d3854 |
 | **`P-17-LENTIL-Y14`** | Lentil · Y14 harvest | **~186 g** | Horreum A pulse bay | d4585 | d4589 |
@@ -101,9 +101,10 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `DEER-SMOKE-Y10-1` | Smoked deer | ~10.6 kg | Horreum A smoke shelf | d3253 | d3253 |
-| `FISH-SMOKE-1` | Smoked fish | **~2.61 kg** | Smoke rack, pool | ? | d4221 |
+| `FISH-SMOKE-1` | Smoked fish | **~2.40 kg** | Smoke rack, pool | ? | d4609 |
 | `GOOSE-SMOKE-Y10-1` | Smoked goose · Y10 Yule hunt remainder | **~0.95 kg** | Horreum A smoke shelf | d3509 | d3509 |
 | **`GOOSE-SMOKE-Y13-1`** | Smoked goose · Y13 Yule hunt remainder | **~1.01 kg** | Horreum A smoke shelf | d4240 | d4240 |
+| **`GOOSE-SMOKE-Y14-1`** | Smoked goose · Y14 Yule hunt remainder | **~0.96 kg** | Horreum A smoke shelf | d4609 | d4609 |
 | `GOOSE-SMOKE-1` | Smoked goose · Y9 tail | ~0.79 kg | Horreum A smoke shelf | ? | d3146 |
 | `GOOSE-GIBLET-JAR` | Goose giblets, jarred | ~280 g | — | ? | d2426 |
 | **`STEW-Y12-JAR-3854`** | Stew jar, Y12 · lentil–chickpea–emmer | **~0.84 kg** | Cool cellar step | d3854 | d3872 |
@@ -123,7 +124,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · Yule wedges d3509 · d3873 · d4240 | **~0.61 kg remain @ wheel** | **Cool dairy shelf, clean reed mat** | d3315 | d4240 |
+| `CHEESE-AGED-Y10-1` | ★ **First rennet-set wheel** · salted · Yule wedges d3509 · d3873 · d4240 · d4609 | **~0.54 kg remain @ wheel** | **Cool dairy shelf, clean reed mat** | d3315 | d4609 |
 | `CHEESE-Y10-10` | Cheese | ~320 g | Dairy shelf | d3260 | d3260 |
 | `CHEESE-Y10-9` | Cheese | ~250 g | Dairy shelf | d3260 | d3260 |
 | `RICOTTA-Y10-4` | Ricotta, off fresh whey | ~190 g | Dairy shelf | d3260 | d3260 |
@@ -184,15 +185,15 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `GRAPE-VINEGAR-Y9-1` | Grape vinegar · Y9 fork · merged to `VINEGAR-Y6-1` | ~2.15 L rack | `AMPHORA-5` | d3475 | d3475 |
-| `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.36 L** | Horreum | Y7 | d3873 |
+| `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.24 L** | Horreum | Y7 | d4609 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **~18 L mash · day ~1 @ horreum A margin** | d4595 | d4596 |
+| **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **~18 L mash · day ~14 @ horreum A margin** | d4595 | d4609 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
-| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.19 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4600 |
-| **`ETHANOL-DEHYD-CONDENSATE-Y14-1`** | Ethanol dehydration POC · Phase B tube + cold trap · cloudy · not polymer grade | **~41 ml @ `P-LAB-DEHYD-JAR-2`** | Chem spirit peg | d4600 | d4600 |
+| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.00 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4609 |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
-| **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Ethanol dehydration POC condensate · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
+
+Dehyd condensate jars: [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).
 
 ## Olives in brine
 
@@ -205,7 +206,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `OLIVE-BRINE-LEGACY` | Olive brine, P-02 legacy | ~2.0 kg | P-02 crock | ? | — |
 | **`OLIVE-FRUIT-P-02-Y12-1`** | Olive fruit · P-02 laps 1–2 · **processed d3850** | **×0** | — | d3847 | d3850 |
 | **`OLIVE-FRUIT-P-02-Y14-1`** | Olive fruit · P-02 lap 1 · **pressed d4580** | **×0** | — | d4576 | d4580 |
-| **`OIL-Y14-1`** | Olive oil, clear · Y14 laps 1–3 · **decant ✓ d4593** | **~1.12 L** @ glass rack · **~280 ml @ `P-ξ-5`** | d4580 | d4593 |
+| **`OIL-Y14-1`** | Olive oil, clear · Y14 laps 1–3 · **decant ✓ d4593** | **~1.06 L** @ glass rack · **~280 ml @ `P-ξ-5`** | d4580 | d4609 |
 | **`OIL-Y14-1-SEDIMENT`** | Olive oil, crude tail · spent decant | **×0** compost d4594 | d4593 | d4594 |
 | **`OLIVE-BRINE-Y14-1`** | Olive, brined · snack jar · 6–18 mo band | **~1.29 kg fruit** | **`OLIVE-JAR-Y14-1` · v1 porch** | d4576 | d4592 |
 
@@ -227,7 +228,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~126.8 kg** | Ice vault | Y12+Y13 | d4600 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~121.8 kg** | Ice vault | Y12+Y13 | d4606 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 
