@@ -24,7 +24,7 @@ This is a journal, not a code repo.
 
 `journal/index.md`: append one row to **Recent days** + matching `journal/index/days-*.md` part file. Never load the full day tables.
 
-`obsolete/schedule.md` and `obsolete/ladder.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`.
+`obsolete/schedule.md` and `obsolete/ladder.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`. **Civil year:** [CALENDAR-NAMING.md](../journal/retcons/CALENDAR-NAMING.md) · anchor **d4620 = Cal-Y13 D1** · `python3 sim/cal_year.py --day <d>` · **new IDs `CY13`** · legacy **`-Ynn-` tags frozen** · **year rolls 31 Dec / 1 Jan only** (not Yule).
 
 ## Write
 

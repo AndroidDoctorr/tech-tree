@@ -1,6 +1,6 @@
 # Wagon wear — dual ledger (service + fatigue)
 
-**Filed:** d4615 · **Cal-Y15**
+**Filed:** d4615 · tag **`Y15`** *(legacy civil counter)* · civil **CY13** era @ [CAL-Y-EPOCH-Y13.md](CAL-Y-EPOCH-Y13.md)
 
 ## Problem
 

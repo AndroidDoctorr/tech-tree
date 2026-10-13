@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
+Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs **`CY13`**
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -21,81 +21,76 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 
 | Signal | State |
 |---|---|
-| **`WW-2` Q** | **Nadir limb · ~12.8 L/s · stain ~6.8 cm d4486** — Q read on dig days OK |
-| **`HYDRO-ELEC-1`** | **✓ Crest/spillway CLOSED d4532 · forebay dig · gen tie-in** |
-| **Exped / cart trips** | **✓ CLOSED d4523** |
-| ~~**`TRAIL-SUMMER-Y14`**~~ | **✓ leg 3 d4502–4506 · `HEMP-GHAB-P22-IMPORT-Y14-1`** |
-| **`BLOCK-Y10` pit** | **×325 submerged · ×175 dry @ yard** · ×500 unused ✓ · **`FURNACE-2` shell ×16 committed** |
+| **`GRAIN-FERMENT-Y14-1`** | **✓ CLOSED d4625 · `SPIRIT-GRAIN-Y14-1` ~2.78 L** |
+| **`WW-2` Q** | **~11.0 L/s · stain ~5.0 cm @ d4560** — nadir band · WW-2 power log |
+| **`HYDRO-ELEC-1`** | **✓ Gen feed LIVE d4555** · ⚑ campus penstock draw · deeper pool optional |
+| **Exped / cart trips** | **✓ CLOSED d4523** · winter miles-out by exception |
+| **`BLOCK-Y10` pit** | **×328 stock** *(×17 dry @ yard · ×311 submerged)* · ×500 cast quota |
 | **`VITRIOL-HEAP-1`** | **Turn ✓ d4459 @ Kisecik · liquor ~13.8 L · next turn ~90 d class** |
-| **`HEMP-FIBRE-Y14-1`** | **Cut ✓ d4485 @ `W-1`** — rett/load when grammar allows |
-| **`mishap_pool`** | **8** |
-| **Dig kit** | **`IRON-SPADE-1` + `IRON-PICK-1` GREEN d4533** · **`IRON-SHOVEL-1` GREEN** · [tool-edge.md](../government/procedures/tool-edge.md) |
+| **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · trough empty · load next bundle on farm pass when named |
+| **`mishap_pool`** | **0** |
+| **Norima** | **service 15 · fatigue 11 · margin haul 1/2** |
+| **`SPRING-SOW-CY13`** | **⚑ frost gate ~Feb — hemp fibre/flower split + rag test** |
+| ~~**`WAGON-V2-OVERHAUL-Y15-1`**~~ | **✓ d4615–4617** |
 | ~~**`ICE-HAUL-Y14`**~~ | **✓ vault cap-bound ~129 kg** |
-| ~~**`WW-2-Q-SPRING-SERIES-Y14`**~~ | **✓ closed d4293** |
 | ~~**`SPRING-SOW-Y14`**~~ | **✓ d4307** |
+| ~~**`TRAIL-SUMMER-Y14`**~~ | **✓ leg 3 d4502–4506** |
 
 ---
 
-## ★★★ `HYDRO-ELEC-1` — owns the block
+## ★★★ `HYDRO-ELEC-1` — civil done · optional deepen
 
-**Civil upgrade upstream of `GEN-WW-2`:** +3 m crest · forebay ~35 × 10 m · more stable head and flow — not a generator rewire.
+**Civil upgrade upstream of `GEN-WW-2`:** +3 m crest · forebay LIVE @ shallow stage · gen tied d4555.
 
-**Plan detail:** [construction-mats.md](construction-mats.md) section B · gate hardware d4318 · outlet draw d4317 · dig d4486.
+**Plan detail:** [construction-mats.md](construction-mats.md) section B · gate hardware d4318 · outlet draw d4317.
 
 | Phase | State |
 |---|---|
-| **Q survey + site read** | **✓ d4045** |
-| **`SLUICE-2-GATE-2` three-stop intake** | **✓ d4046** |
-| **Scour pass 2 + stake/takeoff** | **✓ d4112** — +3 m crest locked |
-| **Outlet gate drawing** | **✓ d4317** |
-| **Spring high-flow Q confirm** | **✓ d4288** |
-| **Forebay civil** | **✓ CLOSED d4552** — forebay **LIVE @ shallow stage** |
-| **Cut · fill · pour** | **✓ 100%** · **✓ gen feed d4555** · ⚑ deeper hold · campus penstock draw |
+| **Forebay civil + gen feed** | **✓ CLOSED d4552–4555** |
+| **Penstock campus draw** | **⚑ when named** — [ec-1-campus-expansion.md](ec-1-campus-expansion.md) Feeder-3 class |
+| **Deeper hold / optional dig** | **⚑ nadir laps only when player names** |
 
-### Stock runway *(on hand d4486 — gravel/sand laps largely closed)*
+### Stock runway *(live d4618)*
 
 | Material | Have (class) | Notes |
 |---|---|---|
-| **Gravel** | **~336 kg @ pile 4** | d4513 haul · trail + hydro drew down from ~470 band |
-| **Filter sand** | **~86 kg @ pile 4** | d4515 haul · pour band OK |
-| **`POZZ-TUFF-1`** | **~80 kg pile + ~8 kg Fabrica** | d4449 trib |
-| **Cinder blocks** | **×175 dry · ×325 curing** | Cast/lift when named |
-| **Rebar** | **×16 production @ rack** | Forebay spec largely met |
-| **`CACO3-P7`** | **~71 kg** | Kiln runway OK |
+| **Gravel** | **~5.4 kg @ pile 4** | thin — named haul if pour returns |
+| **Filter sand** | **~47.5 kg @ pile 4** | d4540 wing cap |
+| **`POZZ-TUFF-1`** | **~54.7 kg pile + ~8 kg Fabrica** | d4540 |
+| **Cinder blocks** | **×328 pit stock** | submerged cure + dry yard |
+| **Rebar** | **×4 @ rack** *(×20 in pours)* | d4540 wing cap |
+| **`CACO3-P7`** | **~46.7 kg** | Kiln runway OK |
 | **`QUICKLIME-1`** | **~0.03 kg tail** | Kiln before next block batch |
-| **`WOOD-OAK-P5`** | **~100 kg** | Quad burns when named |
-| **`CHAR-LANE`** | **~15 kg** | Daily + forge trace |
-| **Norima service / fatigue** | **15 / 11** | ✓ **`WAGON-V2-OVERHAUL-Y15-1` d4615–4617** · parity **0** |
-
-**Recommended order:** forebay dig laps (⚒) while nadir holds → block/lime loop on wet days → pour/fill/toe when stain + calendar say low water → filter toe last in live channel.
+| **`WOOD-OAK-P5`** | **~98.0 kg** | d4619 haul · d4620 quad |
+| **`CHAR-LANE`** | **~26.3 kg** | d4620 quad · reserve ~9.8 kg @ C |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~95 g** | d4620 batch |
+| **Norima service / fatigue** | **15 / 11** | parity **0** |
 
 ---
 
-## Farm — `SPRING-SOW-Y15` hemp split *(player d4508)*
+## Farm — `SPRING-SOW-CY13` hemp split *(player d4508 · was Y15 label)*
 
 **Not split yet** — one fibre line on Bed A north through Y14; Ghab import is **tagged charges** (`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT`), not separate breeds in the ground.
 
 | Line | Intent | Isolation |
 |---|---|---|
-| **`HEMP-FIBRE-Y15`** | Bed A north · dense drill · **`FIBRE-SEED` + `DUAL-TRAIT` bias** | **Early sow · `HEMP-CUT` Aug before flower patch peaks** |
-| **`HEMP-FLOWER-Y15`** | Bed A NW **~4 m²** · **flower-forward · QoL** · **`FLOWER-SEED` charge** | **Late sow ~2–3 wk after fibre block** — pollen **by time**, not distance ([harvest.md](../government/procedures/harvest.md)) |
+| **`HEMP-FIBRE-CY13`** | Bed A north · dense drill · **`FIBRE-SEED` + `DUAL-TRAIT` bias** | **Early sow · `HEMP-CUT` Aug before flower patch peaks** |
+| **`HEMP-FLOWER-CY13`** | Bed A NW **~4 m²** · **flower-forward · QoL** · **`FLOWER-SEED` charge** | **Late sow ~2–3 wk after fibre block** — pollen **by time**, not distance |
 
 ⚑ **Sow slate @ frost gate** · rag-test import jar · peg **RESERVE** label → **FLOWER** on NW ghost.
 
 ---
 
-## Farm — Aug pass
+## Farm — winter pass
 
 | Item | State |
 |---|---|
-| **`FIG-PICK` repeat** | **1 Aug – 15 Sep · pass 1 ✓ · repeat OK on scare** |
-| **`GRAPE-PICK` strip** | **1 Aug – 15 Oct · partial rhythm live** |
-| **`HEMP-CUT` Bed A north** | **✓ d4485 · fibre @ `W-1`** |
-| **`ACORN-GATHER` batch 2** | **✓ primary + lap 1 · player hold** |
+| **`SALT-EVAP`** | **Cycle 2 ✓ d4578 · optional pour #3 · band tail** |
+| **`ACORN-GATHER` batch 2** | **✓ lap 2 d4530 · leach batch 1 ⧗** |
 | **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** |
 | **G-04 wean scorecard** | **⚑ keep / cull / wether queue** |
-| ~~**`GOAT-REGISTRY-Y14`**~~ | **✓ d4270** |
-| ~~**`G-05` capture**~~ | **✓ autumn sealed colony d4342** |
+| **`GRAPE-PRUNE` spur** | **✓ Y14 d4591 · Feb touch optional** |
+| **`FIG-PICK` repeat** | **Band closed · stubble year** |
 
 ---
 
@@ -106,6 +101,7 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 - ⧗ **`CU-CELL`** — two looks a day
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
 - ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 d from d4459
+- ⧗ **`GRAIN-FERMENT-Y14-1`** — distill ~d4630
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
@@ -118,18 +114,14 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 |---|---|
 | **Ladder steps 1–6** | **✓ envelope → rough vac → filament → Cu pinch → Hg header → integrate d4479** |
 | **`BULB-LAMP-POC-Y14-1`** | **LIVE @ `VAC-FALL-HEADER-Y14-1`** · bench demonstrator |
-| **Filament elite** | **✓ `CARBON-FILAMENT-FINE-Y14-1` d4481 · `FILAMENT-OPT-Y14-1`** |
-| **Brightness sweep** | **✓ d4480** — not room lamp; headroom in current |
+| **`BULB-FEAST-LAMP-Y14-1`** | **Desk pendant LIVE d4558** |
+| **`BULB-LAMP-POC-Y14-2`** | **LIVE d4567** @ vac header |
 
-### ⚑ Optional tails *(do not block hydro)*
+### ⚑ Optional tails *(do not block winter queue)*
 
-- ✓ **Bulb fine integrate** — **`BULB-LAMP-POC-Y14-2` LIVE d4567** @ vac header
-- ⚑ **Mount / socket** — pendant · CP-G · or swap vs feast lamp when named
-- ⚑ **Limelight / searchlight duty** — parallel to bulb feast prep
-- ✓ **Yule electric feast lamp** — **`BULB-FEAST-LAMP-Y14-1` LIVE d4558** · optional bulb #2 on vac bench
-- ✓ **Bulb char ledger** — [bulb-characterization-ledger.md](../government/procedures/bulb-characterization-ledger.md) · **`BULB-CHAR-SWEEP-*`** each new lamp
-- ⚑ **Bulb R&D** — alt filament · high-T carbonize · pre-seal outgas · reed fibre · **`MCLEOD-GAUGE-1`**
-- ⚑ **EC-1 expansion** — **✓ feeder audit d4565** · [ec-1-campus-expansion.md](ec-1-campus-expansion.md) · **plug jig · domus pendants** → **Feeder-3 @ north wing**
+- ⚑ **Mount / socket** — pendant · CP-G · domus grammar
+- ⚑ **Bulb R&D** — alt filament · **`MCLEOD-GAUGE-1`**
+- ⚑ **EC-1 expansion** — **✓ feeder audit d4565** · **plug jig · domus pendants** → **Feeder-3 @ Officina north ghost**
 - ⟳ **`VAC-BENCH-Y14-1`** — Hg loop · bath read · purge first draw
 
 ---
@@ -144,36 +136,39 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 
 ---
 
-## ⚒ Campus queue *(when hydro rests or player names)*
+## ⚒ Campus queue *(player-named heroes)*
 
-- ⚒ **`HYDRO-ELEC-1-FOREBAY-DIG`** — **lap 2+** · spoil to **`HYDRO-ELEC-1-SPOIL-1`**
-- ⚒ **`TRAIL-SUMMER-Y14` leg 3** — **Ghab mid-Sep** *(player defer)* · combines **`HEMP-SEED-STRIP`** essential run *(band ~5 Sep – 10 Oct)*
-- ⚒ **Lime burn + block pit loop** — when indoor/wet · quicklime tail thin
-- ⚒ **Optional forsterite margin batches** — ×62 @ muffle shell
+- ~~**`WOOD-HAUL-4619`**~~ · ~~**`CHAR-RETORT-4620`**~~ · ~~**`GRAIN-DISTILL-Y14-1`**~~ · ~~**`ETHANOL-DEHYD-BATCH-CY13-1`**~~
+- ~~**`ETHANOL-DEHYD-BATCH-CY13-2`**~~ · ~~**`CHAR-RETORT-4627` + calcine`**~~
+- ~~**`WOOD-HAUL-4637`**~~ — **✓ ~86.4 kg · pile ~83.6 kg**
+- ⚒ **`ETHANOL-DEHYD-BATCH-CY13-3`** — **run 1 ✓ d4632** · ⚑ **run 2 when named** · **`CATALYST` ~58 g**
+- ~~**`CHAR-RETORT-4638` + calcine`**~~ · ~~**`BLOCK-Y10-4639` ×8`**~~ · **`BLOCK-LIFT` tail ~×0** — next lift when FIFO ages
+- ~~**`LINEN-TOWEL-SPRINT-Y14-1`**~~ — **✓ FULL CLOSE d4633** · **×4 purple + gold end vines @ felt**
+- ⟳ **Flax trough cycle** — **daily farm pass:** pull when window met · break/heckle when dry · rinse pool · load next — **automatic when ready**
+- ⚒ **Officina north work wing mat sprint** — [construction-mats.md](construction-mats.md) §A · blocks/rebar/TR/gravel laps · electronics bench lands here, not a separate shell
+- ⚑ **`EC-1-GRID-FEEDER-3`** — north jamb trunk when wing footing exists · [ec-1-campus-expansion.md](ec-1-campus-expansion.md)
+- ⚑ **`ETHANOL-DEHYD` / org chem** — **POC ✓ d4600** · winter repeats · ethylene/ester path needs rig + purification
+- ⚑ **Compressor PoC** — belt-tree grammar · **fuse + switch + max I on paper first** (expansion doc machine ledger)
+- ⚒ **Optional forsterite margin batches** — ×20 bank live
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
 - ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
 - ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
-- ⚑ **`LINEN-TOWEL-SPRINT-Y14-1`** — **2/4 @ felt** · **`THERMAE-FULL-Y14-3…4` when named** · **one woad+madder bath ×4** · gold embroider after
-- ⚑ **Towel / cloth dye pass** — madder · woad · mineral brights when named
-- ⧗ **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** — **~15%** · rest-day laps @ `EASEL-1`
-- ◌ **Wild boar / sheep hunt** — when convenient · gyros horizon
-- ◌ **Wine** — wait on **`P-03`** fruit quality
-- ◌ **More meat on daily menu** — player defer
+- ⧗ **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** — **~32% @ `EASEL-1`** · rest-day laps
+- ◌ **Wild boar / sheep hunt** — when convenient
 - ◌ **Barley bed expand** — player maybe @ **Y15 `SPRING-SOW`**
-- ◌ **`ETHANOL-DEHYD` run 3+** — **calcine ~21 g** · M26 calcine batch before next repack
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
 - ⚑ **`TRANSFORMER / AC`** — [wishlist.md](wishlist.md)
-- ~~**`ICE-HAUL-Y14-PEAK`**~~ · ~~**`BULB-POC-Y14-1` hero ladder**~~ · ~~**`CHAR-RETORT-QUAD-CELL-1` open**~~ *(live background)*
+- ~~**`HYDRO-ELEC-1` forebay hero block**~~ · ~~**`BULB-POC` hero ladder**~~
 
 ---
 
 ## ⚑ Expedition residue
 
 - ✓ **Y13 Kisecik/Kozan** — closed
-- ✓ **`KISECIK-RUN-Y14-4457`** · **`KISECIK-RUN-Y14-4419`** — closed d4460 / d4422
-- **Y14 window** — **leg 3 Ghab Sep** · genetic import ✓ d4342 · optional chromite when furnace names
+- ✓ **`KISECIK-RUN-Y14-*`** — closed
+- ✓ **Ghab leg 3 + hemp import** — d4502–4506
 - ⚑ **`M-24` Islahiye / chromite** — furnace-gated
-- ⚑ **Erzin cache touch** — trail arc residue · deferred
+- ⚑ **Erzin cache touch** — deferred
 
 ---
 
@@ -182,14 +177,14 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 - ★★ **`SERPENTINE-FLORA-READ`** — method for barren patches
 - ⚠ **Cinnabar source @ Kisecik** — float only · Hg **not** the furnace instrument
 - ⚠ **`SC-ORONTES-ISLAND-B`** — probe may reopen deep footing
-- **High-purity vein quartz, Nur Belen** — ~15–25 km NE · pre-harvest lull
+- **High-purity vein quartz, Nur Belen** — ~15–25 km NE · pre-sow lull candidate
 
 ---
 
 ## ⟳ Campus comfort — not urgent
 
-- **`COAST-VACATION-1`** — pleasure grammar · blocks nothing · [short-term-goals.md](short-term-goals.md)
-- **Officina north work wing** · **sink branch** · **`WAGON-GARAGE-2`** · **`CRANE-2`** — deferred builds
+- **`COAST-VACATION-1`** — pleasure grammar · blocks nothing
+- **Officina sink branch** · **`WAGON-GARAGE-2`** · **`CRANE-2`** — deferred builds
 
 ---
 

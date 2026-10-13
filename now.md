@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4617** · Cal-Y15 D8 · ~29 Dec Y15 · **Week 660 day 4**
+> **Day 4664** · Cal-Y13 D45 · ~14 Feb Y13 · **Week 667 day 2**
 >
-> **Cal-Y15 d4618 · HOME** · **✓ `WAGON-V2-OVERHAUL-Y15-1`** · **Norima service 15 · fatigue 11** *(effective ~19)* · **`GRAIN-FERMENT-Y14-1` ⧗ day ~22** · distill ~d4630 · **`WOOD-OAK-P5` ~89.7 kg** · **Clocks:** [CALENDAR-NAMING.md](journal/retcons/CALENDAR-NAMING.md) · [WAGON-WEAR-DUAL-LEDGER-Y15.md](journal/retcons/WAGON-WEAR-DUAL-LEDGER-Y15.md) · **Hazard:** volatility normal · **mishap_pool 0** · **team HOME**
+> **Cal-Y13 d4665 · HOME** · **✓ char quad · reserve ~10 kg** · **`CHAR-LANE` ~11.2 kg** · **`WOOD-OAK-P5` ~36.4 kg** · **team HOME**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -40,7 +40,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 | Band | Window | State |
 |---|---|---|
-| **`ICE-HAUL`** | **20 Jan – 14 Feb · tail to 14 Feb** | **✓ PEAK laps 1–2 d4287/4289 · vault cap-bound ~129 kg** |
+| **`ICE-HAUL`** | **20 Jan – 14 Feb · tail to 14 Feb** | **✓ PEAK laps 1–2 d4656/4657 · vault ~128.2 kg cap-bound** |
 | **`SPRING-SOW-Y14`** | **26 Feb – 16 Mar** | **✓ CLOSED d4328 · scare-only on rows** |
 | **`BIRD-WATCH` / `BIRD-DEVICE-RESET`** | **Sow + ~3 wk** | **✓ CLOSED d4338** *(establishment ~d31 post d4307)* |
 | **`HERB-SEED-DESIGNATE`** | **21 Mar – 20 Apr** | **✓ CLOSED d4338 designate · band end d4363** |
@@ -66,7 +66,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
 | **`P-RETT-37`** | **—** | **✓ FIBRE CLOSED d4236 · `FLAX-LINE-Y13-1`** |
 | **`ACORN-DRY-Y13-1/2`** | **—** | **✓ roast d4236 · ~605 + ~600 g @ nut tray** |
-| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~22 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
+| **`GRAIN-FERMENT-Y14-1`** | **✓ CLOSED d4625 · `SPIRIT-GRAIN-Y14-1` ~2.78 L** | **`BARREL-5` empty rinsed** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** | **spirit peg buffer LIVE** |
 | **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230 · Yule field shot d4240** | **Field ×7 ball · bank ×12 · powder jar ~180 g · tubes ×3 bandolier + ×6 reserve** |
 | **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y14 pass d4591 · Feb touch optional** |
@@ -80,8 +80,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 |---|---|---|
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | **~10.9 kg @ ore bay** | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | **~2.75 kg @ chem peg** | d4153 |
-| **`CHAR-LANE`** | **~3.2 kg** | d4617 overhaul · thin |
-| **`CHAR-RESERVE-C`** | **~9.8 kg** | d4465 pad |
+| **`CHAR-LANE`** | **~11.2 kg** | d4664 reserve top-up |
+| **`CHAR-RESERVE-C`** | **~10.0 kg** sealed | d4664 top-up |
 | **`O-1-MALACHITE`** | **~30.1 kg @ pile 4** | d4564 plug cord |
 | **`ROSIN-1`** | **~37 g @ chem porch** | d4577 bulb stems |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
@@ -91,7 +91,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×63** @ rack north | d4009 |
-| **`KAOLIN-SLIP-M26-1`** | **~20.3 kg** @ chem porch | d4599 |
+| **`KAOLIN-SLIP-M26-1`** | **~18.3 kg** @ chem porch | d4659 calcine |
 | **`KAOLIN-SLIP-M26-BEST-1`** | **~0.76 kg** @ chem porch | d4577 ×2 bulb |
 | **`FORSTERITE-GROG-1`** | **~1.7 kg** | d4299 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
@@ -101,28 +101,31 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~89.7 kg** @ pile 5 | d4617 |
+| **`WOOD-OAK-P5`** | **~36.4 kg** @ pile 5 | d4664 retort |
 | **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **WIP ~32% @ `EASEL-1`** | d4614 |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~21 g** @ catalyst peg | d4606 · thin |
-| **`THREAD-STOCK-2`** | **~352 m** @ craft peg | d4613 |
-| **`THERMAE-FULL-Y14-1/2`** | **×2 natural @ felt · 2/4** | d4613 off-loom |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~282 g** @ catalyst peg | d4659 calcine |
+| **`THREAD-STOCK-2`** | **~77 m** @ craft peg | d4633 tie-off |
+| **`THERMAE-FULL-Y14-1…4`** | **×4 purple + gold end vines @ felt** | d4633 embroider |
 | **`FLAX-LINE` crate tail** | **~3.16 kg** combined @ `WOOD-CRATE-6` | d4601 spin |
 | **`ROSIN-1`** | **~29 g** @ chem porch | d4597 |
-| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~22 @ `BARREL-5`** | d4617 bung |
+| **`SPIRIT-GRAIN-Y14-1`** | **~2.53 L @ spirit peg** | d4632 dehyd |
+| **`SPIRIT-GRAIN-Y13-1`** | **~0.83 L** @ bottle | d4624 dehyd feed |
 | **`OIL-Y14-1`** | **~1.12 L clear** · **~280 ml @ `P-ξ-5`** | d4593 decant |
 | **`STONE-DRESS-P4`** | **~19.9 kg** @ pile 4 north | d4550 fill close |
-| **`CLAY-P1`** | **~9.9 kg** @ pile 1 | d4301 |
+| **`CLAY-P1`** | **~28.1 kg** @ pile 1 | d4661 press |
+| **`BRICK-FIRED-B`** | **~323** @ Kiln B pad | d4663 +×37 |
+| **`BRICK-MASONRY-GREEN`** | **×40 green** *(4661 drying)* | d4663 |
 | **`EMMER-BULK-Y14`** | **~2.30 kg @ main bay** | d4589 |
 | **`P-18-CHICKPEA-Y14`** | **~287 g @ pulse bay** | d4586 |
 | **`BARREL-4-GRAIN`** | **~0.54 kg @ v1** | d4589 |
 | **`PARCHED-MU-14-Y14-1`** | **~0.50 kg @ `P-μ-12`** | d4589 |
-| **`P-RETT-38` wet** | **~14.6 kg @ `W-1` rafter** | d4600 pull |
+| **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · **`FLAX-LINE-Y14-1` ~2.48 kg** | d4623 heckle |
 | **`BARLEY-BULK-Y14`** | **~0.52 kg @ barley bay** | d4584 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
 | **`H-11-HEMATITE`** | **~14.0 kg @ pile 4** | d4537 roast |
-| **`REBAR` production** | **×4 @ rack** *(×20 in pours)* | d4540 wing cap |
-| **`IRON-BLOOM-1`** | **×0 tail @ mount** | d4616 spent |
+| **`REBAR` production** | **×12 @ rack** *(×20 spent in pours)* | d4648 |
+| **`IRON-BLOOM-1`** | **~180 g tail @ mount** | d4648 draw |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
@@ -150,7 +153,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `NAIL-IRON` | **×21 @ bench peg tray** | d4422 return |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~11.8 m tail** @ peg | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
-| Ice vault | **~121.8 kg hard · cap-bound** | d4606 trap |
+| Ice vault | **~128.2 kg hard · cap-bound** | d4657 lap 2 |
 | `SOAP-Y10-1` | cured bar #4 open · porch shelf | d4589 |
 
 ## Animals
@@ -193,7 +196,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | **Pipe series live · steel certs filed** | **Musket · invar refs defer** |
 | **`PALISADE-2`** | **Stage 2 shored 97/97 m** | **Stage 3 deferred** |
-| **`BLOCK-Y10` pit** | **×328 stock** *(×17 dry @ yard · ×311 submerged)* | **×500 cast quota** *(pit pipeline · not in-place masonry)* |
+| **`BLOCK-Y10` pit** | **×336 stock** *(×59 dry @ yard · ×277 submerged)* | **×500 cast quota** *(pit pipeline · not in-place masonry)* |
 | ✓ **`TRAIL-MAINT-NORTH-Y14-1`** | **✓ d4409–4411 · ~54 kg local + ~10 kg campus crown** | **CLOSED** |
 | ✓ **`TRAIL-SUMMER-Y14`** | **Leg 1–3 ✓ d4502–4506** | **East string + stub crown + Ghab seed** |
 | ✓ **`KISECIK-RUN-Y14-4457`** | **Galena +~11.4 kg · heap turn d4459 · no trail · no cinnabar** | **CLOSED d4460** |

@@ -87,7 +87,7 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
 | **Norima service wear** | **15** | **d4617 overhaul close** |
 | **Norima fatigue wear** | **11** | **d4617 overhaul close** |
-| **Norima margin haul parity** | **0** | **d4617 overhaul close** |
+| **Norima margin haul parity** | **1** | **d4619 margin haul 1/2** |
 | **mishap_pool** | **0** | **d4552 intake tie POP · reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 

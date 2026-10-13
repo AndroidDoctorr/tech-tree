@@ -1,6 +1,6 @@
 # Week 659
 
-**Status:** **CLOSED @ d4613 day 7** · **Cal-Y15 D4 · ~25 Dec Y15**
+**Status:** **CLOSED @ d4613 day 7** · **Cal-Y12 D359 · ~25 Dec Y12**
 
 *Week 658 closed @ d4606.*
 

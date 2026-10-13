@@ -1,38 +1,50 @@
-# Calendar naming — three clocks (player clarification · d4610)
+# Calendar naming — clocks, tags, IDs
 
-**Filed:** Day 4610 · **Cal-Y15 D1** · post-Yule confusion review
+**Authority:** [CAL-Y-EPOCH-Y13.md](CAL-Y-EPOCH-Y13.md) · [CAL-Y-JAN1-NOT-YULE-Y15.md](CAL-Y-JAN1-NOT-YULE-Y15.md)
 
-## What went wrong in the UI
+**Tool:** `python3 sim/cal_year.py --day <d####>` *(d ≥ 4620)*
 
-**`journal/days/year-0NN/` is not `Cal-Yn`.** Folder `year-010` holds absolute days **~3286–3650**. Folder `year-011` holds **~3651–4015**, etc.:
+## Clocks
 
-```text
-journal folder year-0NN  =  floor((d − 1) / 365) + 1
-```
-
-**`Cal-Yn`** advances at **`SUN-CAL` close @ Yule** (~21 Dec class), usually **mid-week** inside a folder year. Example **week 502 / year-010**:
-
-| d | Header | Normal? |
+| Clock | Meaning | Use |
 |---|---|---|
-| 3508–3509 | **Cal-Y10** · Yule eve/feast | ✓ |
-| 3510+ | **Cal-Y11** opens d3510 | ✓ same folder |
+| **`d####`** | Absolute campaign day | **Primary** — hazards, inventory `Last`, audit |
+| **`Cal-Yn` · `Dn`** | **Civil** year + day-of-year | Day headers · **roll only 31 Dec / 1 Jan** |
+| **`year-0NN` folder** | `floor((d−1)/365)+1` | **Paths only** — anniversary buckets, not civil year |
+| **`CYn` in new IDs** | Civil year at tag time *(d4620+)* | **`LOT-CY13-1`** — not the same as legacy **`Y14`** harvest tags |
 
-Browsing **`year-010` → `year-012` in the file tree** skips **`year-011`** and looks like “two calendar years in two weeks” — it is **two filesystem buckets**, not a missing `Cal-Y12`.
+## Civil epoch *(live)*
 
-## Authoritative clocks
+- **d4620 = Cal-Y13 D1** (~1 Jan Y13).
+- **Before d4620:** headers in journal are **historical**; do not bulk-edit. **+2 display inflation** vs true civil is documented in [CAL-Y-EPOCH-Y13.md](CAL-Y-EPOCH-Y13.md).
 
-| Clock | Meaning | Use in IDs |
-|---|---|---|
-| **`d####`** | Absolute campaign day | **Primary** — audit, hazards, inventory `Last` |
-| **`Cal-Yn` · `Dn`** | Sun-calendar year + day-of-year @ C-0 | Day headers · **`SUN-CAL-Yn-CLOSE`** · harvest tags **`…-Y14-…`** |
-| **`year-0NN` folder** | Archive partition only | **Path only** — do not embed in new stock IDs |
+## Frozen tag years — do not rename
 
-## Correction without refactor
+**`-Ynn-` in an existing ID** = **label frozen when the lot opened** (harvest, sprint, mis-tagged civil). Examples:
 
-- **No rename of `year-0NN` folders** — paths are stable links.
-- **No bulk ID renames** — `SPIRIT-GRAIN-Y13-1`, `THERMAE-FULL-Y14-1`, etc. stay **`Cal-Y` = sun year when tagged**.
-- **Agent rule:** grep **`Cal-Y`** for “what year is it in-world”; grep **`d####`** for ledger; **ignore folder `year-0NN` for chronology**.
+- **`GRAIN-FERMENT-Y14-1`** — ferment lot tagged Y14
+- **`WAGON-V2-OVERHAUL-Y15-1`** — overhaul tagged under old inflated counter; civil **CY13** era when logged
+- **`THERMAE-FULL-Y14-3`** — towel sprint tag 14
 
-## Optional display (future)
+Grep the **ID string**, not today’s **`Cal-Y`**.
 
-Player may alias in prose: **“archive year 10”** vs **“calendar year 10”** — not required in filenames.
+## New IDs *(d4620+)*
+
+Use **`CY13`** (civil year at open) for new stock, builds, and heroes:
+
+- ✓ **`DISTILL-CY13-1`** · **`SPRING-SOW-CY13`**
+- ✗ Do not mint new **`-Y15-`** civil tags
+
+## Yule vs New Year
+
+| Event | Rolls `Cal-Y`? |
+|---|---|
+| **~21 Dec `SUN-YULE`** | **No** — feast / hunt / solstice observance |
+| **31 Dec `CAL-Yn-CLOSE`** | **Yes** |
+| **1 Jan `Cal-Y(n+1) D1`** | **Yes** |
+
+## Agent rule
+
+1. **Header civil year:** `sim/cal_year.py` or anchor table — not folder `year-0NN`, not Yule.
+2. **Never renumber** legacy **`-Ynn-`** inventory rows for civil correction.
+3. **New tags:** **`CY` + civil year** per epoch above.

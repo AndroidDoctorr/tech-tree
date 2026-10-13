@@ -6,19 +6,66 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4617 · `year-013/`)*
+## Recent days *(append here · @ Day 4664 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 4617 | [day-4617.md](days/year-013/week-660/day-4617.md) | **✓ Norima overhaul CLOSED** | **Cal-Y15 D8 · W660 d4** |
-| 4616 | [day-4616.md](days/year-013/week-660/day-4616.md) | **✓ Overhaul D2 forge** | **Cal-Y15 D7 · W660 d3** |
-| 4615 | [day-4615.md](days/year-013/week-660/day-4615.md) | **✓ Overhaul D1 strip** | **Cal-Y15 D6 · W660 d2** |
-| 4614 | [day-4614.md](days/year-013/week-660/day-4614.md) | **✓ Poker painting D2 ~32%** | **Cal-Y15 D5 · W660 d1** |
-| 4613 | [day-4613.md](days/year-013/week-659/day-4613.md) | **✓ Thermae towel 2 done** | **Cal-Y15 D4 · W659 d7** |
-| 4612 | [day-4612.md](days/year-013/week-659/day-4612.md) | **✓ Towel 2 weave D2** | **Cal-Y15 D3 · W659 d6** |
-| 4611 | [day-4611.md](days/year-013/week-659/day-4611.md) | **✓ Towel 2 warp · ~22%** | **Cal-Y15 D2 · W659 d5** |
-| 4610 | [day-4610.md](days/year-013/week-659/day-4610.md) | **✓ Rest · poker painting D1** | **Cal-Y15 D1 · W659 d4** |
-| 4609 | [day-4609.md](days/year-013/week-659/day-4609.md) | **✓ Yule feast · Cal-Y14 close** | **Cal-Y14 D369 · 21 Dec · W659 d3** |
+| 4664 | [day-4664.md](days/year-013/week-667/day-4664.md) | **✓ Char + reserve top-up** | **Cal-Y13 D45 · W667 d2** |
+| 4663 | [day-4663.md](days/year-013/week-667/day-4663.md) | **✓ Fire `4654-A`** | **Cal-Y13 D44 · W667 d1** |
+| 4662 | [day-4662.md](days/year-013/week-666/day-4662.md) | **✓ Fire `4643-B` ×40** | **Cal-Y13 D43 · W666 d7** |
+| 4661 | [day-4661.md](days/year-013/week-666/day-4661.md) | **✓ Clay brick press + fire** | **Cal-Y13 D42 · W666 d6** |
+| 4660 | [day-4660.md](days/year-013/week-666/day-4660.md) | **✓ Clay haul** | **Cal-Y13 D41 · W666 d5** |
+| 4659 | [day-4659.md](days/year-013/week-666/day-4659.md) | **✓ Char + calcine** | **Cal-Y13 D40 · W666 d4** |
+| 4658 | [day-4658.md](days/year-013/week-666/day-4658.md) | **✓ Wood haul** | **Cal-Y13 D39 · W666 d3** |
+| 4657 | [day-4657.md](days/year-013/week-666/day-4657.md) | **✓ Ice peak lap 2** | **Cal-Y13 D38 · W666 d2** |
+| 4656 | [day-4656.md](days/year-013/week-666/day-4656.md) | **✓ Ice peak lap 1** | **Cal-Y13 D37 · W666 d1** |
+| 4655 | [day-4655.md](days/year-013/week-665/day-4655.md) | **✓ Ice haul prep** | **Cal-Y13 D36 · W665 d7** |
+| 4654 | [day-4654.md](days/year-013/week-665/day-4654.md) | **✓ Brick press + fire** | **Cal-Y13 D35 · W665 d6** |
+| 4653 | [day-4653.md](days/year-013/week-665/day-4653.md) | **✓ Char retort** | **Cal-Y13 D34 · W665 d5** |
+| 4652 | [day-4652.md](days/year-013/week-665/day-4652.md) | **✓ Clay haul** | **Cal-Y13 D33 · W665 d4** |
+| 4651 | [day-4651.md](days/year-013/week-665/day-4651.md) | **✓ Kiln B brick ×40** | **Cal-Y13 D32 · W665 d3** |
+| 4650 | [day-4650.md](days/year-013/week-665/day-4650.md) | **✓ Char retort** | **Cal-Y13 D31 · W665 d2** |
+| 4649 | [day-4649.md](days/year-013/week-665/day-4649.md) | **✓ Wood haul** | **Cal-Y13 D30 · W665 d1** |
+| 4648 | [day-4648.md](days/year-013/week-664/day-4648.md) | **✓ Rebar ×4 · rack ×12** | **Cal-Y13 D29 · W664 d7** |
+| 4647 | [day-4647.md](days/year-013/week-664/day-4647.md) | **✓ Char + calcine** | **Cal-Y13 D28 · W664 d6** |
+| 4646 | [day-4646.md](days/year-013/week-664/day-4646.md) | **✓ Iron bloom** | **Cal-Y13 D27 · W664 d5** |
+| 4645 | [day-4645.md](days/year-013/week-664/day-4645.md) | **✓ Rebar ×4** *(retcon)* | **Cal-Y13 D26 · W664 d4** |
+| 4644 | [day-4644.md](days/year-013/week-664/day-4644.md) | **✓ Iron bloom** | **Cal-Y13 D25 · W664 d3** |
+| 4643 | [day-4643.md](days/year-013/week-664/day-4643.md) | **✓ Brick press ×80** | **Cal-Y13 D24 · W664 d2** |
+| 4642 | [day-4642.md](days/year-013/week-664/day-4642.md) | **✓ Clay haul ~31 kg** | **Cal-Y13 D23 · W664 d1** |
+| 4641 | [day-4641.md](days/year-013/week-663/day-4641.md) | **✓ Masonry brick press ×80** | **Cal-Y13 D22 · W663 d7** |
+| 4640 | [day-4640.md](days/year-013/week-663/day-4640.md) | **✓ Cinderblock lift ×14** | **Cal-Y13 D21 · W663 d6** |
+| 4639 | [day-4639.md](days/year-013/week-663/day-4639.md) | **✓ ×8 masonry press** | **Cal-Y13 D20 · W663 d5** |
+| 4638 | [day-4638.md](days/year-013/week-663/day-4638.md) | **✓ Char + calcine** | **Cal-Y13 D19 · W663 d4** |
+| 4637 | [day-4637.md](days/year-013/week-663/day-4637.md) | **✓ Wood haul ~86 kg** | **Cal-Y13 D18 · W663 d3** |
+| 4636 | [day-4636.md](days/year-013/week-663/day-4636.md) | **✓ Clay haul ~31.8 kg** | **Cal-Y13 D17 · W663 d2** |
+| 4635 | [day-4635.md](days/year-013/week-663/day-4635.md) | **✓ Block lift ×14** | **Cal-Y13 D16 · W663 d1** |
+| 4634 | [day-4634.md](days/year-013/week-662/day-4634.md) | **✓ Block lift ×14** | **Cal-Y13 D15 · W662 d7** |
+| 4633 | [day-4633.md](days/year-013/week-662/day-4633.md) | **✓ Gold vine embroider ×4** | **Cal-Y13 D14 · W662 d6** |
+| 4632 | [day-4632.md](days/year-013/week-662/day-4632.md) | **✓ Gold thread · dehyd run 1** | **Cal-Y13 D13 · W662 d5** |
+| 4631 | [day-4631.md](days/year-013/week-662/day-4631.md) | **✓ Purple bath ×4 · sprint CLOSED** | **Cal-Y13 D12 · W662 d4** |
+| 4630 | [day-4630.md](days/year-013/week-662/day-4630.md) | **✓ Towel 4 done** | **Cal-Y13 D11 · W662 d3** |
+| 4629 | [day-4629.md](days/year-013/week-662/day-4629.md) | **✓ Towel 4 weave D2** | **Cal-Y13 D10 · W662 d2** |
+| 4628 | [day-4628.md](days/year-013/week-662/day-4628.md) | **✓ Towel 4 warp** | **Cal-Y13 D9 · W662 d1** |
+| 4627 | [day-4627.md](days/year-013/week-661/day-4627.md) | **✓ Char + calcine** | **Cal-Y13 D8 · W661 d7** |
+| 4626 | [day-4626.md](days/year-013/week-661/day-4626.md) | **✓ Dehyd CY13-2 ×2** | **Cal-Y13 D7 · W661 d6** |
+| 4625 | [day-4625.md](days/year-013/week-661/day-4625.md) | **✓ Y14 grain distill ~2.78 L** | **Cal-Y13 D6 · W661 d5** |
+| 4624 | [day-4624.md](days/year-013/week-661/day-4624.md) | **✓ Dehyd CY13 ×2 runs** | **Cal-Y13 D5 · W661 d4** |
+| 4623 | [day-4623.md](days/year-013/week-661/day-4623.md) | **✓ Towel 3 off-loom · flax closed** | **Cal-Y13 D4 · W661 d3** |
+| 4622 | [day-4622.md](days/year-013/week-661/day-4622.md) | **✓ Towel 3 weave D2** | **Cal-Y13 D3 · W661 d2** |
+| 4621 | [day-4621.md](days/year-013/week-661/day-4621.md) | **✓ Towel 3 warp** | **Cal-Y13 D2 · W661 d1** |
+| 4620 | [day-4620.md](days/year-013/week-660/day-4620.md) | **✓ Char + calcine · Cal-Y13 opens** | **Cal-Y13 D1 · W660 d7** |
+| 4619 | [day-4619.md](days/year-013/week-660/day-4619.md) | **✓ Wood haul · Cal-Y12 close** | **Cal-Y12 D365 · W660 d6** |
+| 4618 | [day-4618.md](days/year-013/week-660/day-4618.md) | **✓ Quad char retort** | **Cal-Y14 D378 · W660 d5** |
+| 4617 | [day-4617.md](days/year-013/week-660/day-4617.md) | **✓ Norima overhaul CLOSED** | **Cal-Y14 D377 · W660 d4** |
+| 4616 | [day-4616.md](days/year-013/week-660/day-4616.md) | **✓ Overhaul D2 forge** | **Cal-Y14 D376 · W660 d3** |
+| 4615 | [day-4615.md](days/year-013/week-660/day-4615.md) | **✓ Overhaul D1 strip** | **Cal-Y14 D375 · W660 d2** |
+| 4614 | [day-4614.md](days/year-013/week-660/day-4614.md) | **✓ Poker painting D2 ~32%** | **Cal-Y14 D374 · W660 d1** |
+| 4613 | [day-4613.md](days/year-013/week-659/day-4613.md) | **✓ Thermae towel 2 done** | **Cal-Y14 D373 · W659 d7** |
+| 4612 | [day-4612.md](days/year-013/week-659/day-4612.md) | **✓ Towel 2 weave D2** | **Cal-Y14 D372 · W659 d6** |
+| 4611 | [day-4611.md](days/year-013/week-659/day-4611.md) | **✓ Towel 2 warp · ~22%** | **Cal-Y14 D371 · W659 d5** |
+| 4610 | [day-4610.md](days/year-013/week-659/day-4610.md) | **✓ Rest · poker painting D1** | **Cal-Y14 D370 · W659 d4** |
+| 4609 | [day-4609.md](days/year-013/week-659/day-4609.md) | **✓ Yule feast · SUN-YULE** | **Cal-Y14 D369 · 21 Dec · W659 d3** |
 | 4608 | [day-4608.md](days/year-013/week-659/day-4608.md) | **✓ Yule eve cook** | **Cal-Y14 D368 · W659 d2** |
 | 4607 | [day-4607.md](days/year-013/week-659/day-4607.md) | **✓ Yule feast prep Y14** | **Cal-Y14 D367 · ~20 Dec · W659 d1** |
 | 4606 | [day-4606.md](days/year-013/week-658/day-4606.md) | **✓ Dehyd batch 2 ×2** | **Cal-Y14 D366 · ~19 Dec · W658 d7** |

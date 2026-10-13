@@ -188,9 +188,10 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.24 L** | Horreum | Y7 | d4609 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **~18 L mash · day ~14 @ horreum A margin** | d4595 | d4609 |
+| **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **✓ spent d4625 · `GRAIN-DISTILL-Y14-1` CLOSED** | d4595 | d4625 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
-| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.00 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4609 |
+| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
+| **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y14-1`** | **~2.53 L @ spirit peg** | Chem spirit peg | d4625 | d4632 dehyd |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 
 Dehyd condensate jars: [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).
@@ -216,7 +217,7 @@ The 6–18 month band is the one real keep window in this file. Y6 is well past 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `SALT-1` | Salt | **~10.84 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d4578 cycle 2 harvest |
+| `SALT-1` | Salt | **~10.83 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d4631 dye trace |
 | **`BRINE-HOLD-Y13-1`** | Brackish hold · **`SALT-HAUL-Y13-1` d4200** | **×0 spent · poured d4201** | d4200 | d4201 |
 | **`BRINE-HOLD-Y14-1`** | Brackish hold · **`SALT-HAUL-Y14-2` d4574** | **×0 spent · poured d4575** | d4574 | d4575 |
 | `SPICE-MU-10` | Spice | — | `P-μ-10`, horreum A margin | | — |
@@ -228,7 +229,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~121.8 kg** | Ice vault | Y12+Y13 | d4606 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~128.2 kg** | Ice vault | CY13 peak | d4657 lap 2 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 
