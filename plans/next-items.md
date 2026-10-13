@@ -65,7 +65,7 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 | **`QUICKLIME-1`** | **~0.03 kg tail** | Kiln before next block batch |
 | **`WOOD-OAK-P5`** | **~100 kg** | Quad burns when named |
 | **`CHAR-LANE`** | **~15 kg** | Daily + forge trace |
-| **Norima wear** | **14** | ✓ tune d4514 · margin parity **1/2** |
+| **Norima service / fatigue** | **15 / 11** | ✓ **`WAGON-V2-OVERHAUL-Y15-1` d4615–4617** · parity **0** |
 
 **Recommended order:** forebay dig laps (⚒) while nadir holds → block/lime loop on wet days → pour/fill/toe when stain + calendar say low water → filter toe last in live channel.
 

@@ -7,13 +7,13 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · Wear: **14** · Last out: **d4549 gravel haul** · Last tune: **d4546**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 15 · fatigue 11** *(effective ~19)* · Last out: **d4549 gravel haul** · Last overhaul: **d4617** · Last tune: **d4546**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
 Bulk dry aft. Ice kit stowed, wet rig staged.
 
-**Wear is a live 0–100 index** — feeds `CART-WHEEL-MISHAP` and `WAGON-HUB-BIND` via `(wear/50)×load×terrain`; see [hazards.md](../hazards.md). **Routine margin hauls** (T-1 wood/sand) tick **+1 per two trips** with iron rims + **`ST-SPR` leaf** live; heavy manifests still **+1/day**. Patch this row when it changes.
+**Wear is two 0–100 indices** — **service** (tune) + **fatigue** (overhaul); hazards use **effective** wear — see [wagon-wear.md](../government/procedures/wagon-wear.md) and [hazards.md](../hazards.md). **Margin hauls:** service **+1 per two trips**; fatigue **+1 per four pairs**. Patch this header when either counter changes.
 
 ### Fittings
 

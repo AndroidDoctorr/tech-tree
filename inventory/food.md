@@ -155,7 +155,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **×4 culina · ×5 thermae · ×4 chem lab** | **×13 bars** | Service pegs *(retcon d4598)* | d3452 | d4598 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.36 kg** | Lamp jar · culina | d3251 | d4229 |
-| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.69 kg** | Horreum cool step jar | d3795 | d4582 compare |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.64 kg** | Horreum cool step jar | d3795 | d4617 hub pack |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 
@@ -206,7 +206,7 @@ Dehyd condensate jars: [resources.md — Alcohol · ethanol organics pathway](re
 | `OLIVE-BRINE-LEGACY` | Olive brine, P-02 legacy | ~2.0 kg | P-02 crock | ? | — |
 | **`OLIVE-FRUIT-P-02-Y12-1`** | Olive fruit · P-02 laps 1–2 · **processed d3850** | **×0** | — | d3847 | d3850 |
 | **`OLIVE-FRUIT-P-02-Y14-1`** | Olive fruit · P-02 lap 1 · **pressed d4580** | **×0** | — | d4576 | d4580 |
-| **`OIL-Y14-1`** | Olive oil, clear · Y14 laps 1–3 · **decant ✓ d4593** | **~1.06 L** @ glass rack · **~280 ml @ `P-ξ-5`** | d4580 | d4609 |
+| **`OIL-Y14-1`** | Olive oil, clear · Y14 laps 1–3 · **decant ✓ d4593** | **~1.03 L** @ glass rack · **~280 ml @ `P-ξ-5`** | d4580 | d4617 cover wipe |
 | **`OIL-Y14-1-SEDIMENT`** | Olive oil, crude tail · spent decant | **×0** compost d4594 | d4593 | d4594 |
 | **`OLIVE-BRINE-Y14-1`** | Olive, brined · snack jar · 6–18 mo band | **~1.29 kg fruit** | **`OLIVE-JAR-Y14-1` · v1 porch** | d4576 | d4592 |
 

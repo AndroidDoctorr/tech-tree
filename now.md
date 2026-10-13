@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4614** · Cal-Y15 D5 · ~26 Dec Y15 · **Week 660 day 1**
+> **Day 4617** · Cal-Y15 D8 · ~29 Dec Y15 · **Week 660 day 4**
 >
-> **Cal-Y15 d4615 · HOME** · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1` WIP ~32%** · **`THERMAE-FULL-Y14-1/2` 2/4 @ felt** · **`GRAIN-FERMENT-Y14-1` ⧗ day ~19** · distill ~d4630 · **`WOOD-OAK-P5` ~102.2 kg** · **Clocks:** [CALENDAR-NAMING.md](journal/retcons/CALENDAR-NAMING.md) · **Hazard:** volatility normal · **Norima wear 18** · **mishap_pool 0** · **team HOME**
+> **Cal-Y15 d4618 · HOME** · **✓ `WAGON-V2-OVERHAUL-Y15-1`** · **Norima service 15 · fatigue 11** *(effective ~19)* · **`GRAIN-FERMENT-Y14-1` ⧗ day ~22** · distill ~d4630 · **`WOOD-OAK-P5` ~89.7 kg** · **Clocks:** [CALENDAR-NAMING.md](journal/retcons/CALENDAR-NAMING.md) · [WAGON-WEAR-DUAL-LEDGER-Y15.md](journal/retcons/WAGON-WEAR-DUAL-LEDGER-Y15.md) · **Hazard:** volatility normal · **mishap_pool 0** · **team HOME**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -66,7 +66,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
 | **`P-RETT-37`** | **—** | **✓ FIBRE CLOSED d4236 · `FLAX-LINE-Y13-1`** |
 | **`ACORN-DRY-Y13-1/2`** | **—** | **✓ roast d4236 · ~605 + ~600 g @ nut tray** |
-| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~19 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
+| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~22 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** | **spirit peg buffer LIVE** |
 | **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230 · Yule field shot d4240** | **Field ×7 ball · bank ×12 · powder jar ~180 g · tubes ×3 bandolier + ×6 reserve** |
 | **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y14 pass d4591 · Feb touch optional** |
@@ -80,7 +80,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 |---|---|---|
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | **~10.9 kg @ ore bay** | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | **~2.75 kg @ chem peg** | d4153 |
-| **`CHAR-LANE`** | **~18.6 kg** | d4579 hood |
+| **`CHAR-LANE`** | **~3.2 kg** | d4617 overhaul · thin |
 | **`CHAR-RESERVE-C`** | **~9.8 kg** | d4465 pad |
 | **`O-1-MALACHITE`** | **~30.1 kg @ pile 4** | d4564 plug cord |
 | **`ROSIN-1`** | **~37 g @ chem porch** | d4577 bulb stems |
@@ -101,15 +101,14 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~102.2 kg** @ pile 5 | d4614 |
+| **`WOOD-OAK-P5`** | **~89.7 kg** @ pile 5 | d4617 |
 | **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **WIP ~32% @ `EASEL-1`** | d4614 |
 | **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~21 g** @ catalyst peg | d4606 · thin |
-| **`CHAR-LANE`** | **~8.4 kg** | d4606 |
 | **`THREAD-STOCK-2`** | **~352 m** @ craft peg | d4613 |
 | **`THERMAE-FULL-Y14-1/2`** | **×2 natural @ felt · 2/4** | d4613 off-loom |
 | **`FLAX-LINE` crate tail** | **~3.16 kg** combined @ `WOOD-CRATE-6` | d4601 spin |
 | **`ROSIN-1`** | **~29 g** @ chem porch | d4597 |
-| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~19 @ `BARREL-5`** | d4614 bung |
+| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~22 @ `BARREL-5`** | d4617 bung |
 | **`OIL-Y14-1`** | **~1.12 L clear** · **~280 ml @ `P-ξ-5`** | d4593 decant |
 | **`STONE-DRESS-P4`** | **~19.9 kg** @ pile 4 north | d4550 fill close |
 | **`CLAY-P1`** | **~9.9 kg** @ pile 1 | d4301 |
@@ -123,7 +122,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
 | **`H-11-HEMATITE`** | **~14.0 kg @ pile 4** | d4537 roast |
 | **`REBAR` production** | **×4 @ rack** *(×20 in pours)* | d4540 wing cap |
-| **`IRON-BLOOM-1`** | **~0.19 kg tail @ mount** | d4537 draw |
+| **`IRON-BLOOM-1`** | **×0 tail @ mount** | d4616 spent |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |

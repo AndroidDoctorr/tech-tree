@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~8.4 kg** | Char lane | | d4606 |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~3.2 kg** | Char lane | | d4617 overhaul |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.8 kg** | Store C vault | | d4465 pad trace |
-| `WOOD-OAK-P5` | Oak, green | **~106.1 kg** @ pile 5 | Pile 5 | | d4610 |
+| `WOOD-OAK-P5` | Oak, green | **~89.7 kg** @ pile 5 | Pile 5 | | d4617 overhaul |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -187,7 +187,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **×0 tail** | Chill tray | | d4473 spent |
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~0.19 kg tail @ mount** | Forge mount | | d4537 rebar draw |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **×0 tail @ mount** | Forge mount | | d4616 overhaul |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-BAR-Y13-1`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-2`** | Production rebar · twisted · **~10.0 mm · ~555 mm** · hooks @ pour | **~405 g** | Forge peg rack | d4025 | d4025 |
@@ -262,7 +262,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`FUSE-LINK-Y14-1`** | EC-1 link fuse · **0.3 mm × ~8 cm** class | **×7 @ chem peg pouch** | Chem peg | d4561 | d4572 culina commission |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | **×21 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4422 Kisecik return |
+| `NAIL-IRON` | Iron nails | **×9 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4617 overhaul |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
 | `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×0 → **`WAGON-GARAGE-1` doors** | Horreum peg tray | | d3515 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | **×0** | Bench tray | | d3841 |
@@ -349,7 +349,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `WAGON-V2-COVER-HEMP-FLAX-1` | Wagon cover · hemp shell + flax liner · air gap · **outer oilcloth d3408** · mounted Norima | ✓ CLOSED d3407 | `WAGON-V2-COVER-ARCH-1` | d3400 | d3408 |
 | `HEMP-TOW-BANK` | Hemp tow | **~257 g** | Storage wing tow bag | | d4236 |
 | `ROPE-HEMP-STOCK-2` | Hemp rope · reserve / lash · **cover weave band** | **~23 m** | WW peg | | d3591 |
-| `ROPE-HEMP-HOME` | Hemp rope · good lay, **reserve for load work** | **~4.6 m** | Pile 2 | d3221 | d4269 |
+| `ROPE-HEMP-HOME` | Hemp rope · good lay, **reserve for load work** | **~3.6 m** | Pile 2 | d3221 | d4617 overhaul |
 | `ROPE-HEMP-Y10` | Hemp rope · ⚠ **lash class only** — uneven lay, soft spots, never under load | ~28 m | Pile 2 | d3226 | d3226 |
 | `ROPE-1` | 3-strand hemp · ⚠ **lashing grade only** — uneven lay | ~24 m | — | d3255 | d3255 |
 | `ROPE-2` | 3-strand hemp · ★ **certified: loaded haul and lashing at breaking ÷ 6, spliced not knotted** · ⚠ **not life-bearing** | ~23 m | — | d3255 | d3264 |

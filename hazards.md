@@ -85,8 +85,9 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima wear** | **14** | **d4546 tune** |
-| **Norima margin haul parity** | **1** | **d4549 gravel haul 1/2** |
+| **Norima service wear** | **15** | **d4617 overhaul close** |
+| **Norima fatigue wear** | **11** | **d4617 overhaul close** |
+| **Norima margin haul parity** | **0** | **d4617 overhaul close** |
 | **mishap_pool** | **0** | **d4552 intake tie POP · reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
@@ -196,33 +197,28 @@ Base **`threshold`** before volatility × modifier. **Outcome** on HIT only.
 
 ### Wagon wear ledger *(Norima · `WAGON-V2-CHASSIS-1`)*
 
-**Live procedure:** [wagon-wear.md](government/procedures/wagon-wear.md) — parity tick · tripwires · agent warnings.
+**Live procedure:** [wagon-wear.md](government/procedures/wagon-wear.md) — **service + fatigue** · parity · tripwires · agent warnings.
 
-**Scale:** **0–100** maintenance-debt index for hazard `(wear / 50) × load × terrain` — **not** rim mm or “percent life.”
+**Dual counters @ d4615+** — [WAGON-WEAR-DUAL-LEDGER-Y15](../journal/retcons/WAGON-WEAR-DUAL-LEDGER-Y15.md):
 
-**What it tracks:** deferred maintenance across **hubs · tyres · bed wear strips · lash · cover · hitch** — grease drying, collar creep, rim wobble, thin strips, stretched lash.
+| Counter | Role |
+|---------|------|
+| **`norima_service_wear`** | Reversible neglect — **tune** fixes |
+| **`norima_fatigue_wear`** | Structural loss — **overhaul** fixes |
 
-| Band | Read |
-|------|------|
-| **≤15** | Fresh / post tune or overhaul |
-| **16–22** | Normal season |
-| **23–30** | **Schedule tune** |
-| **31–45** | **Due tune** — bind ghost · wobble · thin strips |
-| **46–60** | Parts wearing — tune **−4** only; plan overhaul |
-| **61+** | Failure band — mishap rolls get mean |
+**Hazards:** `effective = min(100, service + round(fatigue × 0.35))` · modifier `(effective / 50) × load × terrain`.
 
-| Event | Δ wear |
-|-------|--------|
-| **Margin haul pair** — **`WOOD-HAUL` / `SAND-HAUL` / `HAUL-LIME`** Y14 2-load grammar · **`norima_margin_haul_parity` 1→0** | **+1 per two haul days** |
-| **Heavy manifest** — four-lap wood · ~90 kg north run · trib pozz · multi-lap lime/ore **with meaningful load** | **+1** *(immediate — also counts as one margin haul toward parity)* |
-| **Campus yard roll · garage apron · empty bed · hand loop tune test** | **0** |
-| **Farm-scare inline hub grease** *(minutes, not a tune hero)* | **0** |
-| **Routine tune** — **`WAGON-V2-TUNE-*`**: wear **≤45** | **−6** *(max floor **10**)* |
-| **Routine tune** — wear **46–60** | **−4** |
-| **Overhaul close** — **`WAGON-V2-OVERHAUL-*` D1–D3** | **set wear → 15** · **parity → 0** |
-| **Partial grease pass** *(minutes, not a tune hero)* | **0** |
+**Legacy journal `Norima wear`** before d4615 = **service** unless overhaul close logs both.
 
-> **Prior routine tunes at −4 stand in the journal through d3462; apply −6 from d3463 onward.** **`WAGON-V2-OVERHAUL-Y10` baseline in [retcon](../journal/retcons/WAGON-V2-OVERHAUL-WEAR-Y10.md).** **d4373+ wear retcon:** margin hauls d4360–d4372 re-ticked at **+1 per two hauls** → tune close **10** not 13.
+| Event | Δ service | Δ fatigue |
+|-------|-----------|-----------|
+| **Margin haul pair** · parity 1→0 | **+1** | **+1** every **4th** pair |
+| **Heavy manifest** *(meaningful load)* | **+1** | **+1** |
+| **Campus empty roll · scare grease** | **0** | **0** |
+| **`WAGON-V2-TUNE-*`** | **−6** *(≤45)* / **−4** *(46–60)* · floor **10** | **0** |
+| **`WAGON-V2-OVERHAUL-*` D3 close** | **→ 15** | **per log** *(typical **−8..−15**)* · **parity → 0** |
+
+> **`WAGON-V2-OVERHAUL-Y10` d3442** · **d4373+ margin retcon** · **d4615 dual-ledger audit** (service **18** · fatigue **24** open → **15** / **11** close).
 
 ### Forge *(hero-day)*
 

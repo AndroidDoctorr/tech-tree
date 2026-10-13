@@ -6,10 +6,13 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4614 · `year-013/`)*
+## Recent days *(append here · @ Day 4617 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4617 | [day-4617.md](days/year-013/week-660/day-4617.md) | **✓ Norima overhaul CLOSED** | **Cal-Y15 D8 · W660 d4** |
+| 4616 | [day-4616.md](days/year-013/week-660/day-4616.md) | **✓ Overhaul D2 forge** | **Cal-Y15 D7 · W660 d3** |
+| 4615 | [day-4615.md](days/year-013/week-660/day-4615.md) | **✓ Overhaul D1 strip** | **Cal-Y15 D6 · W660 d2** |
 | 4614 | [day-4614.md](days/year-013/week-660/day-4614.md) | **✓ Poker painting D2 ~32%** | **Cal-Y15 D5 · W660 d1** |
 | 4613 | [day-4613.md](days/year-013/week-659/day-4613.md) | **✓ Thermae towel 2 done** | **Cal-Y15 D4 · W659 d7** |
 | 4612 | [day-4612.md](days/year-013/week-659/day-4612.md) | **✓ Towel 2 weave D2** | **Cal-Y15 D3 · W659 d6** |
