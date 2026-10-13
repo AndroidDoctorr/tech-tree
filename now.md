@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4597** · Cal-Y14 D357 · ~10 Dec Y14 · **Week 657 day 5**
+> **Day 4604** · Cal-Y14 D364 · ~17 Dec Y14 · **Week 658 day 5**
 >
-> **Cal-Y14 d4598 · HOME** · **`ETHANOL-DEHYD-POC-1` Phase B build D1 ✓** · **`GRAIN-FERMENT-Y14-1` ⧗ day ~2** · **`P-RETT-38` pull ~d4600–4602** · **soap ~×13 cured bars — batch soon** · **`WOOD-OAK-P5` ~120.5 kg** · **Hazard:** volatility normal · **Norima wear 18** · **mishap_pool 0** · **team HOME**
+> **Cal-Y14 d4605 · HOME** · **`THERMAE-FULL-Y14-1` ✓ natural @ felt · 1/4** · **×4 woad+madder batch after weave set** · **`LM-2` open for towel 2 when named** · **`THREAD-STOCK-2` ~482 m** · **`GRAIN-FERMENT-Y14-1` ⧗ day ~9** · **`WOOD-OAK-P5` ~113.5 kg** · **Hazard:** volatility normal · **Norima wear 18** · **mishap_pool 0** · **team HOME**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -34,7 +34,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `P-03-REGEN-Y12-1` | @ T-2 lip d3578 · `P-03-SEL-Y8` sown out · `P-03-SEL-Y9` ~13 g hold |
 | Bed D figs · madder · woad | **✓ FIG repeat d4474 · browse trim d4474** · madder hands off |
 
-**Seed:** ✓ **`HARVEST-BLOCK-Y14` closed** · ✓ **`FLAX-PULL-FIELD-Y14` d4590** · **`P-RETT-38` pull ~d4600–4604** · Y14 elite vault rags · **`ARK-JAR` ×4 certified empty**.
+**Seed:** ✓ **`HARVEST-BLOCK-Y14` closed** · ✓ **`FLAX-PULL-FIELD-Y14` d4590** · ✓ **`P-RETT-38` pulled d4600** · Y14 elite vault rags · **`ARK-JAR` ×4 certified empty**.
 
 ## Live bands — open only
 
@@ -66,7 +66,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
 | **`P-RETT-37`** | **—** | **✓ FIBRE CLOSED d4236 · `FLAX-LINE-Y13-1`** |
 | **`ACORN-DRY-Y13-1/2`** | **—** | **✓ roast d4236 · ~605 + ~600 g @ nut tray** |
-| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~1 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
+| **`GRAIN-FERMENT-Y14-1`** | **LIVE · day ~9 · `BARREL-5`** | **distill ~d4630 · prep ✓ d4596** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** | **spirit peg buffer LIVE** |
 | **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230 · Yule field shot d4240** | **Field ×7 ball · bank ×12 · powder jar ~180 g · tubes ×3 bandolier + ×6 reserve** |
 | **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y14 pass d4591 · Feb touch optional** |
@@ -91,8 +91,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
 | **`TILE-TR` fired** | **×54** @ rack south *(hold)* | d3843 |
 | **`TILE-TF` fired** | **×63** @ rack north | d4009 |
-| **`KAOLIN-SLIP-M26-1`** | **~20.7 kg** @ chem porch | d4464 |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~40 g reserve** @ catalyst peg | d3956 |
+| **`KAOLIN-SLIP-M26-1`** | **~20.3 kg** @ chem porch | d4599 |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~95 g R&D reserve** @ catalyst peg | d4599 |
 | **`KAOLIN-SLIP-M26-BEST-1`** | **~0.76 kg** @ chem porch | d4577 ×2 bulb |
 | **`FORSTERITE-GROG-1`** | **~1.7 kg** | d4299 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
@@ -102,9 +102,12 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~120.5 kg** @ pile 5 | d4597 cook |
+| **`WOOD-OAK-P5`** | **~113.5 kg** @ pile 5 | d4604 cook |
+| **`THREAD-STOCK-2`** | **~482 m** @ craft peg | d4604 |
+| **`THERMAE-FULL-Y14-1`** | **×1 natural @ felt · 1/4** | d4604 off-loom |
+| **`FLAX-LINE` crate tail** | **~3.16 kg** combined @ `WOOD-CRATE-6` | d4601 spin |
 | **`ROSIN-1`** | **~29 g** @ chem porch | d4597 |
-| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~1 @ `BARREL-5`** | d4596 read |
+| **`GRAIN-FERMENT-Y14-1`** | **~18 L mash day ~9 @ `BARREL-5`** | d4604 bung |
 | **`OIL-Y14-1`** | **~1.12 L clear** · **~280 ml @ `P-ξ-5`** | d4593 decant |
 | **`STONE-DRESS-P4`** | **~19.9 kg** @ pile 4 north | d4550 fill close |
 | **`CLAY-P1`** | **~9.9 kg** @ pile 1 | d4301 |
@@ -112,7 +115,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`P-18-CHICKPEA-Y14`** | **~287 g @ pulse bay** | d4586 |
 | **`BARREL-4-GRAIN`** | **~0.54 kg @ v1** | d4589 |
 | **`PARCHED-MU-14-Y14-1`** | **~0.50 kg @ `P-μ-12`** | d4589 |
-| **`P-RETT-38`** | **~15.2 kg green @ ditch W** | d4590 |
+| **`P-RETT-38` wet** | **~14.6 kg @ `W-1` rafter** | d4600 pull |
 | **`BARLEY-BULK-Y14`** | **~0.52 kg @ barley bay** | d4584 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
@@ -146,7 +149,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | `NAIL-IRON` | **×21 @ bench peg tray** | d4422 return |
 | `FLAX-THREAD-SHINGLE-Y10-1` | **~11.8 m tail** @ peg | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | **×7 strips** @ chem porch peg | d3869 |
-| Ice vault | **~129.3 kg hard · cap-bound** | d4289 |
+| Ice vault | **~126.8 kg hard · cap-bound** | d4600 trap |
 | `SOAP-Y10-1` | cured bar #4 open · porch shelf | d4589 |
 
 ## Animals
@@ -182,7 +185,8 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | ⚑ **`ALLOY-PROGRAMME-Y12`** | **CI + FMN + constantan triplicate closed d3835** | **Mn assay · `TC-PROBE-2` ~60%** |
 | ⚑ **`M31` ferromanganese charge** | **Ore dressed · `FMN-STD ×3` staged d3615** | **Furnace when named** |
 | ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`ST-MAG/STR/SPR` certs live · `MOTOR-1` live d3964** | **`MFGC-2-ST` table migrate when named** |
-| ⚑ **`ETHANOL-DEHYD-POC-1`** | **Phase B build D1 ✓ d4597** | **D2 bed pack · leak soak · run** |
+| ◌ **`ALCOHOL-ORGANICS-Y14`** | **Dehyd POC ✓ · condensate on peg** | **Ethylene / BD / ester / acetic · rig + purification Y15** |
+| ✓ **`ETHANOL-DEHYD-POC-1`** | **Phase B run ✓ d4600** | **Winter repeats optional** |
 | ◌ **`ROOF-R&D-HEMP-BITUMEN-1`** | **F1/F2 rain PASS d3873** | **Scale deferred** |
 | ⚑ **`FORSTERITE-BRICK-PROD`** | **×20 spare bank** | **Margin batches optional** |
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |

@@ -152,7 +152,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GOAT-SMOKE-1` | Smoked goat | **~0.54 kg** | v1 cool shelf | ? | d3872 |
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | ~6.1 kg | Horreum A | d3128 | d3128 |
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
-| `SOAP-Y10-1` | Soap bars · rosemary–thyme · **cured @ porch shelf** | **×~13 bars** *(~5 g green tail spent)* | W-1 porch cure shelf | d3452 | d4597 |
+| `SOAP-Y10-1` | Soap bars · rosemary–thyme · **×4 culina · ×5 thermae · ×4 chem lab** | **×13 bars** | Service pegs *(retcon d4598)* | d3452 | d4598 |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.36 kg** | Lamp jar · culina | d3251 | d4229 |
 | **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.69 kg** | Horreum cool step jar | d3795 | d4582 compare |
 
@@ -189,7 +189,8 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
 | **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **~18 L mash · day ~1 @ horreum A margin** | d4595 | d4596 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
-| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.27 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d3956 |
+| **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~1.19 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4600 |
+| **`ETHANOL-DEHYD-CONDENSATE-Y14-1`** | Ethanol dehydration POC · Phase B tube + cold trap · cloudy · not polymer grade | **~41 ml @ `P-LAB-DEHYD-JAR-2`** | Chem spirit peg | d4600 | d4600 |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 | **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Ethanol dehydration POC condensate · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
 
@@ -226,7 +227,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~115.1 kg** | Ice vault | Y12+Y13 | d4287 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~126.8 kg** | Ice vault | Y12+Y13 | d4600 |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

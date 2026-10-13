@@ -6,10 +6,17 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4597 · `year-013/`)*
+## Recent days *(append here · @ Day 4604 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4604 | [day-4604.md](days/year-013/week-658/day-4604.md) | **✓ Thermae towel 1 done** | **Cal-Y14 D364 · ~17 Dec · W658 d5** |
+| 4603 | [day-4603.md](days/year-013/week-658/day-4603.md) | **✓ Thick towel weave D2** | **Cal-Y14 D363 · ~16 Dec · W658 d4** |
+| 4602 | [day-4602.md](days/year-013/week-658/day-4602.md) | **✓ Towel 1 warp · ~22%** | **Cal-Y14 D362 · ~15 Dec · W658 d3** |
+| 4601 | [day-4601.md](days/year-013/week-658/day-4601.md) | **✓ Flax spin · towel stock** | **Cal-Y14 D361 · ~14 Dec · W658 d2** |
+| 4600 | [day-4600.md](days/year-013/week-658/day-4600.md) | **✓ Rett pull · dehyd B run** | **Cal-Y14 D360 · ~13 Dec · W658 d1** |
+| 4599 | [day-4599.md](days/year-013/week-657/day-4599.md) | **✓ Kaolin calcine R&D** | **Cal-Y14 D359 · ~12 Dec · W657 d7** |
+| 4598 | [day-4598.md](days/year-013/week-657/day-4598.md) | **✓ Dehyd B close · towel audit** | **Cal-Y14 D358 · ~11 Dec · W657 d6** |
 | 4597 | [day-4597.md](days/year-013/week-657/day-4597.md) | **✓ Ethanol dehyd B build D1** | **Cal-Y14 D357 · ~10 Dec · W657 d5** |
 | 4596 | [day-4596.md](days/year-013/week-657/day-4596.md) | **✓ Distill prep · mash HOLD** | **Cal-Y14 D356 · ~9 Dec · W657 d4** |
 | 4595 | [day-4595.md](days/year-013/week-657/day-4595.md) | **✓ Grain ferment Y14 start** | **Cal-Y14 D355 · ~8 Dec · W657 d3** |

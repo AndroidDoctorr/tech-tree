@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~18.6 kg** | Char lane | | d4579 hood |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~13.6 kg** | Char lane | | d4600 |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~9.8 kg** | Store C vault | | d4465 pad trace |
-| `WOOD-OAK-P5` | Oak, green | **~120.5 kg** @ pile 5 | Pile 5 | | d4597 cook |
+| `WOOD-OAK-P5` | Oak, green | **~119.5 kg** @ pile 5 | Pile 5 | | d4598 cook |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -64,8 +64,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~20.7 kg** | Chem porch jar | d3331 | d4464 |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin / alumina class · dehydration catalyst reserve | **~40 g** | Chem porch catalyst peg | d3956 | d3956 |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~20.3 kg** | Chem porch jar | d3331 | d4599 |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin / alumina class · **R&D reserve · dehyd** | **~95 g** | Chem porch catalyst peg | d3956 | d4599 |
 | `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.76 kg** | Chem porch jar | d3331 | d4577 ×2 bulb |
 | `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.52 kg wet** | Chem porch separate peg | d3331 | d3941 |
 | `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | **~0.03 kg** | Chem porch jar | | d3821 |
@@ -233,7 +233,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
 | `CS-TEST-COUPON-Y12-2` | Carbon steel test coupon · bar-2 fracture | **~17 g** | Bench vial | Y12 | d3573 |
 | `SN-BANK` | Tin | **~1.12 kg** | — | | d3743 |
-| `ZNO-CALCINE` | Zinc oxide calcine | **~732 g** | — | | d4568 margin pour |
+| `ZNO-CALCINE` | Zinc oxide calcine | **~720 g** | — | | d4598 dehyd bed B |
 | `ZN-METAL-1` | Zinc, prill tail | **~78 g** | Chem-lab lidded tray | | d3743 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | **~83 g** | Purple lidded jar · vac reserve | | d4467 loop charge |
 | **`VAC-HG-LOOP-Y14-1`** | Mercury · ☠ **in `VAC-BENCH-1` loop only** | **~199.3 g** | Dish + column + trap path | d4467 | d4479 spill trace |
@@ -308,20 +308,20 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FLAX-TOW-BANK` | Flax tow | **~225 g** | Wing shelf | | d4237 |
+| `FLAX-TOW-BANK` | Flax tow | **~299 g** | Wing shelf | | d4604 |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~13 m tail** | Craft wing peg | d3505 | d3868 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | Flax shingle strips · impregnated · sanded · ~10 × 18 cm | **×7** | Chem porch peg | d3869 | d3869 |
 | `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
 | `HEMP-LINE-26` | Hemp line | ×0 tail | `WOOD-CRATE-6` fibre | | d3513 |
 | `HEMP-LINE-Y12-1` | Hemp line · Bed A Y12 · **`P-RETT-33`** | **×0** *(spun d3787)* | — | d3786 | d3787 |
-| **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.54 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d4229 |
-| **`FLAX-LINE-Y13-1`** | Flax line · field Y13 · **`P-RETT-37` heckle** | **~1.68 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4481 carbon redraw |
+| **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.32 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d4601 |
+| **`FLAX-LINE-Y13-1`** | Flax line · field Y13 · **`P-RETT-37` heckle** | **~1.38 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4601 |
 | **`CARBON-FILAMENT-STOCK-Y14-1`** | Carbon filament · hand-drawn flax | **~8.1 g** · ×12 lengths @ chem peg | Chem porch | d4452 | d4481 matrix |
 | **`CARBON-FILAMENT-FINE-Y14-1`** | Carbon filament · **elite fine · ~0.26–0.32 mm** | **~6.7 g** · ×9 lengths @ chem peg | Chem porch | d4481 | d4567 bulb #3 |
 | **`IRON-FILAMENT-WIRE-Y14-1`** | Iron wire · lamp draw trial · **~0.22 mm** | **~0.89 m** @ chem peg | Chem porch | d4452 | d4480 cork trial |
 | **`REED-CARBON-FILAMENT-STOCK-Y14-1`** | Reed ribbon char · hand-drawn · scout | **~8.8 g** · ×15 lengths @ chem peg | Chem porch | d4575 | d4578 → `BULB-PROD-Y14-4` |
-| **`FLAX-WILD-LINE-Y13-L1`** | Wild flax line · lap 1 · **`P-RETT-35` heckle** | **~0.60 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4236 |
+| **`FLAX-WILD-LINE-Y13-L1`** | Wild flax line · lap 1 · **`P-RETT-35` heckle** | **~0.46 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4601 |
 | **`HEMP-LINE-Y13-1`** | Hemp line · Bed A Y13 · **`P-RETT-36` heckle** | **~0.89 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4236 |
 | **`HEMP-FIBRE-Y14-1`** | Hemp stalk · Bed A north Y14 · **`HEMP-CUT` d4485** · dry @ rafter | **~8.1 kg** @ `W-1` north | Barn | d4485 | d4485 cut |
 | **`THISTLE-HEAD-DRIED-Y13-1`** | Cardoon-type heads · full-flower cut · rennet stock | **×9 @ horreum herb peg** | Horreum | d4074 | d4074 |
@@ -342,7 +342,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `ROPE-2` | 3-strand hemp · ★ **certified: loaded haul and lashing at breaking ÷ 6, spliced not knotted** · ⚠ **not life-bearing** | ~23 m | — | d3255 | d3264 |
 | `ANTLER-SHED` | Antler, cast and hard · beats bone for anything taking a blow | ×6 | Craft wing | | d3269 |
 | `CLOTH-WAGON-COVER` | Wagon cover cloth, tail stock | ~2.00 kg | `CART-YARD` south peg row | | d3472 |
-| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~127 m** | Craft wing peg | | d3963 |
+| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~482 m** | Craft wing peg | | d4604 |
 | `THREAD-1` | Thread, general | ~307 m | — | | d3091 |
 | `VENT-BELT-ROPE` | Rope, vent belt | ~123 m | — | | d1970 |
 | `EXPED-ROPE` | Hemp rope · D-27 salvage | ~72 m | Cart peg | | d2945 |

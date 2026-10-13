@@ -713,7 +713,7 @@ Map: ditch W · Live
 
 **`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
 
-**`P-RETT-38` LIVE d4590** — **×8 bundles ~15.2 kg green @ `RETT-TROUGH-FLAX-1` ditch W** · pull ~10–14 d · **`FLAX-FIELD-Y14` Bed B centre pulled**.
+**`P-RETT-38` pulled d4600** — **~14.6 kg wet retted @ `W-1` north rafter** · **`RETT-TROUGH-FLAX-1` empty** · break/heckle defer.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

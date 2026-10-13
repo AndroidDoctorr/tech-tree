@@ -153,7 +153,9 @@ Live as of **d4529 · Cal-Y14 D289 · ~3 Oct Y14 · Week 647 CLOSED**.
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
 - ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
 - ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
-- ⚑ **`ETHANOL-DEHYD-POC-1` Phase B** — tube reactor + cold trap
+- ⚑ **`LINEN-TOWEL-SPRINT-Y14-1`** — **1/4 off-loom @ felt** · **`THERMAE-FULL-Y14-2…4` interleave OK** · **one woad+madder bath ×4** · gold embroider after
+- ⚑ **Towel / cloth dye pass** — madder · woad · mineral brights when named
+- ◌ **`ETHANOL-DEHYD-POC-1` scale** — Phase B ✓ d4600 · bed refresh / routine calcine when named
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
 - ⚑ **`TRANSFORMER / AC`** — [wishlist.md](wishlist.md)
 - ~~**`ICE-HAUL-Y14-PEAK`**~~ · ~~**`BULB-POC-Y14-1` hero ladder**~~ · ~~**`CHAR-RETORT-QUAD-CELL-1` open**~~ *(live background)*
