@@ -6,10 +6,17 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4732 · `year-013/`)*
+## Recent days *(append here · @ Day 4739 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4739 | [day-4739.md](days/year-013/week-677/day-4739.md) | **✓ Sand · cube read** | **Cal-Y13 D120 · W677 close** |
+| 4738 | [day-4738.md](days/year-013/week-677/day-4738.md) | **✓ Bloom + nails** | **Cal-Y13 D119 · W677 d6** |
+| 4737 | [day-4737.md](days/year-013/week-677/day-4737.md) | **✓ Footing corners** | **Cal-Y13 D118 · W677 d5** |
+| 4736 | [day-4736.md](days/year-013/week-677/day-4736.md) | **✓ Char + lime** | **Cal-Y13 D117 · W677 d4** |
+| 4735 | [day-4735.md](days/year-013/week-677/day-4735.md) | **✓ Sand haul** | **Cal-Y13 D116 · W677 d3** |
+| 4734 | [day-4734.md](days/year-013/week-677/day-4734.md) | **✓ South footing pour** | **Cal-Y13 D115 · W677 d2** |
+| 4733 | [day-4733.md](days/year-013/week-677/day-4733.md) | **✓ Gravel haul** | **Cal-Y13 D114 · W677 d1** |
 | 4732 | [day-4732.md](days/year-013/week-676/day-4732.md) | **✓ North footing pour** | **Cal-Y13 D113 · W676 close** |
 | 4731 | [day-4731.md](days/year-013/week-676/day-4731.md) | **✓ Gravel haul 6-load** | **Cal-Y13 D112 · W676 d6** |
 | 4730 | [day-4730.md](days/year-013/week-676/day-4730.md) | **✓ Demount + footing trench** | **Cal-Y13 D111 · W676 d5** |

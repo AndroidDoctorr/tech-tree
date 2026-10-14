@@ -129,7 +129,7 @@ Counts: [resources.md](../../inventory/resources.md).
 
 ## North — the work wing
 
-◌ **Build live.** **✓ checklist d4729 · trench + demount d4730 · north footing pour seg N d4732** — **south joint open · `FOOT-CUBE-N-WING-CY13-4732` ×3 curing.** ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1 · bench / electronics wing.
+◌ **Build live.** **✓ footing ring closed d4732–4737** · **`FOOT-CUBE` ×6 curing** @ shade · ⚑ **plinth beam**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
 
 **✓ `TEMP-PORTICO-N` demounted d4730** — frame @ craft north margin · reed bundled · **×12 socle stones** stacked for stem reuse · north hub gap open. *(Was ~1.6 × 2.2 m stoop d2194–2196; curtains had covered the gap until checklist.)*
 

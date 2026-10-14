@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~19.1 kg** | Char lane | | d4728 retort |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~20.4 kg** | Char lane | | d4738 forge |
 | **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~10.0 kg** | Char reserve drum | d4664 | d4724 repack |
-| `WOOD-OAK-P5` | Oak, green | **~140.4 kg** @ pile 5 | Pile 5 | | d4732 pour |
+| `WOOD-OAK-P5` | Oak, green | **~91.0 kg** @ pile 5 | Pile 5 | | d4739 haul cook |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -56,20 +56,20 @@ Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](f
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ chem porch peg | Chem porch | d4153 | d4153 |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~85.8 kg** @ pile 4 south band | Pile 4 | | d4732 pour |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~33.0 kg** | Pile 4 apron | | d4732 footing |
+| **`GRAVEL-1`** | Gravel aggregate | **~175.6 kg** @ pile 4 south band | Pile 4 | | d4737 footing corners |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~27.8 kg** | Pile 4 apron | | d4739 sand haul |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
-| `POZZ-TUFF-1` | Pozzolan / tuff | **~46.5 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4732 footing |
+| `POZZ-TUFF-1` | Pozzolan / tuff | **~28.0 kg** @ pile 4 north · **~8 kg stage @ Fabrica** | Pile 4 north band | | d4737 footing corners |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~38.7 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4725 kiln |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~2.90 kg** @ sealed crock | Lime trough | d3390 | d4725 slake tail |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~34.7 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4736 kiln |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~3.15 kg** @ sealed crock | Lime trough | d3390 | d4736 slake tail |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×336** *(×73 dry @ `WW-YARD` · ×263 submerged @ pit)* | Block yard / pit | d4030 | d4693 lift |
-| `LIME-PUTTY-1` | Lime putty | **~1.40 kg** working | Lime trough | | d4732 footing |
+| `LIME-PUTTY-1` | Lime putty | **~0.95 kg** working | Lime trough | | d4737 footing corners |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
 
@@ -130,7 +130,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~27.85 kg** | Pile 4 | | d4698 brass smelt |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~43.1 kg** | v1 chem, isolated | | d4465 roast |
 | `GALENA-1` | Galena-class lead ore | **~13.4 kg** | Forge staging | | d4460 Kisecik |
-| `H-11-HEMATITE` | Hematite | **~2.9 kg @ pile 4** | Pile 4 | | d4648 smelt |
+| `H-11-HEMATITE` | Hematite | **~0.5 kg tail @ pile 4** | Pile 4 | | d4738 smelt |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~240 g @ chill tray** | Chill tray | d4186 | d4186 |
 | **`ST-SPR-BUTTON-Y13-2`** | Spring steel button · **`HEAT-Y13-014`–`016` · leaf packs drawn d4065** | **×0 spent → lock band d4186** | — | d4061 | d4186 |
 | **`MUSKET-LOCK-MAINSPRING-Y13-1`** | Main v-spring · **`ST-SPR-1`** | **×0 · assembled `MUSKET-LOCK-Y13-1` d4199** | — | d4186 | d4199 |
@@ -199,7 +199,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 |---|---|---|---|---|---|
 | `CU-BAR-Y10-1` | Copper bar · poled, wire-grade | **×0 tail** | Chill tray | | d4473 spent |
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~180 g tail @ mount** | Forge mount | | d4648 draw |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~540 g tail @ mount** | Forge mount | | d4738 nail draw |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-BAR-Y13-1`** | Production rebar · twisted · **~10.1 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4025 | d4025 |
 | **`REBAR-BAR-Y13-2`** | Production rebar · twisted · **~10.0 mm · ~555 mm** · hooks @ pour | **~405 g** | Forge peg rack | d4025 | d4025 |
@@ -225,15 +225,16 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`REBAR-BAR-Y13-18`** | Production rebar · twisted · **~10.1 mm · ~561 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4528 | d4528 |
 | **`REBAR-BAR-Y13-19`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **spent d4529 pour** | — | d4528 | d4529 |
 | **`REBAR-BAR-Y13-20`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **spent d4529 pour** | — | d4528 | d4529 |
-| **`REBAR-BAR-CY13-21`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **~409 g** | Forge peg rack | d4645 | d4645 |
-| **`REBAR-BAR-CY13-22`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **~411 g** | Forge peg rack | d4645 | d4645 |
-| **`REBAR-BAR-CY13-23`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **~408 g** | Forge peg rack | d4645 | d4645 |
-| **`REBAR-BAR-CY13-24`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **~412 g** | Forge peg rack | d4645 | d4645 |
-| **`REBAR-BAR-CY13-25`** | Production rebar · twisted · **~10.0 mm · ~560 mm** · hooks @ pour | **~410 g** | Forge peg rack | d4648 | d4648 |
-| **`REBAR-BAR-CY13-26`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **~408 g** | Forge peg rack | d4648 | d4648 |
+| **`REBAR-BAR-CY13-21`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **spent d4737 NE corner** | — | d4645 | d4737 |
+| **`REBAR-BAR-CY13-22`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **spent d4737 NW corner** | — | d4645 | d4737 |
+| **`REBAR-BAR-CY13-23`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **spent d4737 SE corner** | — | d4645 | d4737 |
+| **`REBAR-BAR-CY13-24`** | Production rebar · twisted · **~10.1 mm · ~563 mm** · hooks @ pour | **spent d4737 SW corner** | — | d4645 | d4737 |
+| **`REBAR-BAR-CY13-25`** | Production rebar · twisted · **~10.0 mm · ~560 mm** · hooks @ pour | **spent d4734 south footing** | — | d4648 | d4734 |
+| **`REBAR-BAR-CY13-26`** | Production rebar · twisted · **~10.0 mm · ~557 mm** · hooks @ pour | **spent d4734 south footing** | — | d4648 | d4734 |
+| **`FOOT-CUBE-N-WING-CY13-4734`** | Footing test cubes · north wing batch 2 | **×3 green @ shade** | Officina north trench | d4734 | d4734 |
 | **`REBAR-BAR-CY13-27`** | Production rebar · twisted · **~10.1 mm · ~562 mm** · hooks @ pour | **spent d4732 north footing** | — | d4648 | d4732 |
 | **`REBAR-BAR-CY13-28`** | Production rebar · twisted · **~10.0 mm · ~559 mm** · hooks @ pour | **spent d4732 north footing** | — | d4648 | d4732 |
-| **`FOOT-CUBE-N-WING-CY13-4732`** | Footing test cubes · north wing batch 1 | **×3 green @ shade** | Officina north trench | d4732 | d4732 |
+| **`FOOT-CUBE-N-WING-CY13-4732`** | Footing test cubes · north wing batch 1 | **×2 green @ shade** *(×1 snap @ 7 d d4739 PASS)* | Officina north trench | d4732 | d4739 7 d read |
 | **`OUTLET-GATE-HARDWARE-Y14-1`** | Forebay outlet gate kit · pintles ×2 · latch · stops ×3 · stem · shoes ×2 | **✓ mounted @ gorge monolith d4520** | Outlet gate | d4318 | d4520 fit+mount |
 | **`REBAR-SQUARE-CONTROL-Y13-1`** | Wrought square control · **spent on cover mocks** | **×0** | — | d4021 | d4023 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
@@ -284,7 +285,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`FUSE-LINK-Y14-1`** | EC-1 link fuse · **0.3 mm × ~8 cm** class | **×7 @ chem peg pouch** | Chem peg | d4561 | d4572 culina commission |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | **×7 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4730 demount |
+| `NAIL-IRON` | Iron nails | **×37 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4738 forge batch |
 | `WAGON-GARAGE-STRAP-1` | Iron strap, pierced · garage tie | ×0 → frame | `WAGON-GARAGE-1` | d3377 | d3378 |
 | `HINGE-BRASS-REPAIR` | Brass strap hinges, repair pool | ×0 → **`WAGON-GARAGE-1` doors** | Horreum peg tray | | d3515 |
 | `WOOD-SCREW-STOCK-1` | Wood screws · marginal | **×0** | Bench tray | | d3841 |
