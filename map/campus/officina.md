@@ -129,9 +129,9 @@ Counts: [resources.md](../../inventory/resources.md).
 
 ## North — the work wing
 
-◌ **Ghost.** Pad staked d2072 with a door ghost centred on the hub north face, intended at ~5 × 6 m for telarium and bench overflow. **Deferred d2181** in favour of getting the hub and south portico warm by winter, and still a ghost at **d3138** — the newest confirmation, when `LOOM-3` was sited *inside the craft wing* rather than waiting for this wing.
+◌ **Build live.** **✓ checklist d4729 · trench + demount d4730 · north footing pour seg N d4732** — **south joint open · `FOOT-CUBE-N-WING-CY13-4732` ×3 curing.** ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1 · bench / electronics wing.
 
-A temporary north stoop stands in the meantime: **`TEMP-PORTICO-N`, ~1.6 × 2.2 m, socle d2194, frame and reed roof ~60% d2196.** ⚠ **Never closed** — `TEMP-PORTICO-N-CLOSE` was queued d2197 and no completion is logged. Curtains cover the gap.
+**✓ `TEMP-PORTICO-N` demounted d4730** — frame @ craft north margin · reed bundled · **×12 socle stones** stacked for stem reuse · north hub gap open. *(Was ~1.6 × 2.2 m stoop d2194–2196; curtains had covered the gap until checklist.)*
 
 ## Fixtures
 

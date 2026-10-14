@@ -491,3 +491,5 @@ Carrying forward from BC-1 and extended. **There is no rolled mild-steel stock o
 *Amended Day 3378 · Cal-Y10 D233 · hollow block named cinder-class · [BC-2-REBAR](#rebar--wrought-iron-bc-2-rebar) · seismic interlink · light rigid roof · energy-management table (pendulum dampers explicitly not standard).*
 
 *Amended Day 3871 · Cal-Y12 D352 · **roof finish:** `TILE-TR` remains habitable standard · bitumen/flax shingle track **R&D hold** until full-roof proof and acceptable m² economics *(player directive — effective lap-strip scale deferred).*
+
+*Amended Day 4728 · Cal-Y13 D109 · **[BC-2 Annex A — clean / instrument wings](building-code-2-annex-clean-wing.md)** — Tier 1 footing/moisture/cavity/grid/roof numbers and commissioning for small bench wings *(Officina north work wing).*

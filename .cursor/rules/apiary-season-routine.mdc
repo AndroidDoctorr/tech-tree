@@ -1,0 +1,35 @@
+---
+description: Bee season — assume scale reads, doorstep upkeep, and wax suggestions on campus days
+alwaysApply: true
+---
+
+# Apiary season — routine assumption
+
+**Source:** [apiary-routine.md](../government/procedures/apiary-routine.md) · [bees.md](../government/procedures/bees.md).
+
+## When this applies
+
+**1 Mar – 31 Oct** (active season), on **any campus / HOME day** unless the player explicitly names **miles-out / no-touch**.
+
+## Agent default — do not wait to be asked
+
+| Cadence | ID | What to log |
+|---|---|---|
+| **Every campus day** | **`HIVE-SCALE-READ`** | **`HIVE-3` @ ~1130** — flat / climb / drop / holding · one line minimum |
+| **Alternating campus days** (or **≥7 d** since last full pass) | **`APIARY-DOORSTEP`** | All five top-bar boxes · lid on — pollen · traffic · fighting · drones · undertaker |
+| **21 Mar – 20 Apr band** | **`APIARY-WATCH`** | Full mid-day watch when doorstep flags congestion · cups · light heft · **≥1 in band** |
+| **When cups waxed dry, not charged** | **`HIVE-SPACE-BAR`** | Suggest (or execute if player defers to routine) **before** jelly — [bees.md](../government/procedures/bees.md) swarm ladder |
+| **When `COMB-TO-RENDER` ≥ ~80 g** | **`WAX-RENDER`** | Suggest hero · spring/flow cuts only — not “calendar wax” |
+| **Flow plateau after scale climb** | **`WAX-CUT-SURPLUS`** | Suggest ≤1 pale outer bar per strong hive — queue comb |
+
+## Day file placement
+
+- Scale read: after dawn block · before hero work (existing convention).
+- Doorstep / watch: same apiary section; tag **`APIARY-DOORSTEP`** or **`APIARY-WATCH`** on the header when it is the substantive block.
+- **Suggest upkeep** in **Close** or a **2–4 line** `### Apiary upkeep` when nothing heroic fired: space bar · cup charge watch · wax queue · feed · entrance.
+
+## Do not
+
+- Copy full hive roster into `now.md` — bee state lives in **bees.md**; `now.md` only **watch flags** (cup charge · render queue).
+- Skip scale read on pour / farm / craft days at HOME.
+- Run **`WAX-RENDER`** without comb mass in inventory grammar.

@@ -59,7 +59,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 | **`POZZ-TUFF-1`** | **~54.7 kg pile + ~8 kg Fabrica** | d4540 |
 | **Cinder blocks** | **×328 pit stock** | submerged cure + dry yard |
 | **Rebar** | **×4 @ rack** *(×20 in pours)* | d4540 wing cap |
-| **`CACO3-P7`** | **~46.7 kg** | Kiln runway OK |
+| **`CACO3-P7`** | **~38.7 kg** | Kiln runway OK · post d4725 burn |
 | **`QUICKLIME-1`** | **~0.03 kg tail** | Kiln before next block batch |
 | **`WOOD-OAK-P5`** | **~98.0 kg** | d4619 haul · d4620 quad |
 | **`CHAR-LANE`** | **~26.3 kg** | d4620 quad · reserve ~9.8 kg @ C |
@@ -145,7 +145,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 - ~~**`CHAR-RETORT-4638` + calcine`**~~ · ~~**`BLOCK-Y10-4639` ×8`**~~ · **`BLOCK-LIFT` tail ~×0** — next lift when FIFO ages
 - ~~**`LINEN-TOWEL-SPRINT-Y14-1`**~~ — **✓ FULL CLOSE d4633** · **×4 purple + gold end vines @ felt**
 - ⟳ **Flax trough cycle** — **daily farm pass:** pull when window met · break/heckle when dry · rinse pool · load next — **automatic when ready**
-- ⚒ **Officina north work wing mat sprint** — [construction-mats.md](construction-mats.md) §A · blocks/rebar/TR/gravel laps · electronics bench lands here, not a separate shell
+- ⚒ **Officina north work wing** — **✓ north footing d4732** · ⚑ **south pour · gravel top-up ~200 kg · stem block · nails/screws when forge afternoon**
 - ⚑ **`EC-1-GRID-FEEDER-3`** — north jamb trunk when wing footing exists · [ec-1-campus-expansion.md](ec-1-campus-expansion.md)
 - ⚑ **`ETHANOL-DEHYD` / org chem** — **POC ✓ d4600** · winter repeats · ethylene/ester path needs rig + purification
 - ⚑ **Compressor PoC** — belt-tree grammar · **fuse + switch + max I on paper first** (expansion doc machine ledger)

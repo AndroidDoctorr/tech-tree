@@ -8,6 +8,8 @@ Things the Player wants to accomplish.
 
 - [long-term-goals.md](long-term-goals.md) — Eventual goals, perhaps years from now
 
+- [campus-district-master-plan.md](campus-district-master-plan.md) — Five-district campus layout, roads, utilities, and build phases
+
 - [ongoing-items.md](ongoing-items.md) — Current long-term or continuing projects that can interleave between other tasks (trail improvements, e.g.)
 
 ## ★★ A plan with a date is not a plan, it is a calendar row

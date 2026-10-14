@@ -6,10 +6,55 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4687 · `year-013/`)*
+## Recent days *(append here · @ Day 4732 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4732 | [day-4732.md](days/year-013/week-676/day-4732.md) | **✓ North footing pour** | **Cal-Y13 D113 · W676 close** |
+| 4731 | [day-4731.md](days/year-013/week-676/day-4731.md) | **✓ Gravel haul 6-load** | **Cal-Y13 D112 · W676 d6** |
+| 4730 | [day-4730.md](days/year-013/week-676/day-4730.md) | **✓ Demount + footing trench** | **Cal-Y13 D111 · W676 d5** |
+| 4729 | [day-4729.md](days/year-013/week-676/day-4729.md) | **✓ North wing BC-2A checklist** | **Cal-Y13 D110 · W676 d4** |
+| 4728 | [day-4728.md](days/year-013/week-676/day-4728.md) | **✓ Char retort** | **Cal-Y13 D109 · W676 d3** |
+| 4727 | [day-4727.md](days/year-013/week-676/day-4727.md) | **✓ Wood haul** | **Cal-Y13 D108 · W676 d2** |
+| 4726 | [day-4726.md](days/year-013/week-676/day-4726.md) | **✓ Wax cut/render · GP tap ×4** | **Cal-Y13 D107 · W676 d1** |
+| 4725 | [day-4725.md](days/year-013/week-675/day-4725.md) | **✓ Lime burn + slake** | **Cal-Y13 D106 · W675 d7 · close** |
+| 4724 | [day-4724.md](days/year-013/week-675/day-4724.md) | **✓ Char retort** | **Cal-Y13 D105 · W675 d6** |
+| 4723 | [day-4723.md](days/year-013/week-675/day-4723.md) | **✓ Tap ×8 + brick fire** | **Cal-Y13 D104 · W675 d5** |
+| 4722 | [day-4722.md](days/year-013/week-675/day-4722.md) | **✓ Char retort** | **Cal-Y13 D103 · W675 d4** |
+| 4721 | [day-4721.md](days/year-013/week-675/day-4721.md) | **✓ Wood haul** | **Cal-Y13 D102 · W675 d3** |
+| 4720 | [day-4720.md](days/year-013/week-675/day-4720.md) | **✓ Sand haul** | **Cal-Y13 D101 · W675 d2** |
+| 4719 | [day-4719.md](days/year-013/week-675/day-4719.md) | **✓ Wagon tune** | **Cal-Y13 D100 · W675 d1** |
+| 4718 | [day-4718.md](days/year-013/week-674/day-4718.md) | **✓ Char retort** | **Cal-Y13 D99 · W674 d7** |
+| 4717 | [day-4717.md](days/year-013/week-674/day-4717.md) | **✓ Wood haul** | **Cal-Y13 D98 · W674 d6** |
+| 4716 | [day-4716.md](days/year-013/week-674/day-4716.md) | **✓ Hive-3 space bar** | **Cal-Y13 D97 · W674 d5** |
+| 4715 | [day-4715.md](days/year-013/week-674/day-4715.md) | **✓ GP-Y8 last pour 45…48** | **Cal-Y13 D96 · W674 d4** |
+| 4714 | [day-4714.md](days/year-013/week-674/day-4714.md) | **✓ GP-Y8 anneal tap ×8** | **Cal-Y13 D95 · W674 d3** |
+| 4713 | [day-4713.md](days/year-013/week-674/day-4713.md) | **✓ Char retort** | **Cal-Y13 D94 · W674 d2** |
+| 4712 | [day-4712.md](days/year-013/week-674/day-4712.md) | **✓ Wood haul** | **Cal-Y13 D93 · W674 d1** |
+| 4711 | [day-4711.md](days/year-013/week-673/day-4711.md) | **✓ GP-Y8 ×4 pour** | **Cal-Y13 D92 · W673 d7 · close** |
+| 4710 | [day-4710.md](days/year-013/week-673/day-4710.md) | **✓ GP-Y8 ×4 pour** | **Cal-Y13 D91 · W673 d6** |
+| 4709 | [day-4709.md](days/year-013/week-673/day-4709.md) | **✓ Herb designate + apiary read** | **Cal-Y13 D90 · W673 d5** |
+| 4708 | [day-4708.md](days/year-013/week-673/day-4708.md) | **✓ Farm · oak + grape shoot thin** | **Cal-Y13 D89 · W673 d4** |
+| 4707 | [day-4707.md](days/year-013/week-673/day-4707.md) | **✓ Wild grain marks** | **Cal-Y13 D88 · W673 d3** |
+| 4706 | [day-4706.md](days/year-013/week-673/day-4706.md) | **✓ GP-Y8 ×4 pour** | **Cal-Y13 D87 · W673 d2** |
+| 4705 | [day-4705.md](days/year-013/week-673/day-4705.md) | **✓ Quartz levigate** | **Cal-Y13 D86 · W673 d1** |
+| 4704 | [day-4704.md](days/year-013/week-672/day-4704.md) | **✓ GP-Y8 ×4 pour** | **Cal-Y13 D85 · W672 d7 · close** |
+| 4703 | [day-4703.md](days/year-013/week-672/day-4703.md) | **✓ C-grade glass cullet** | **Cal-Y13 D84 · W672 d6** |
+| 4702 | [day-4702.md](days/year-013/week-672/day-4702.md) | **✓ Char retort** | **Cal-Y13 D83 · W672 d5** |
+| 4701 | [day-4701.md](days/year-013/week-672/day-4701.md) | **✓ Wood haul** | **Cal-Y13 D82 · W672 d4** |
+| 4700 | [day-4700.md](days/year-013/week-672/day-4700.md) | **✓ TR fire `4681`** | **Cal-Y13 D81 · W672 d3** |
+| 4699 | [day-4699.md](days/year-013/week-672/day-4699.md) | **✓ Kelp ash burn** | **Cal-Y13 D80 · W672 d2** |
+| 4698 | [day-4698.md](days/year-013/week-672/day-4698.md) | **✓ Brass stock smelt** | **Cal-Y13 D79 · W672 d1** |
+| 4697 | [day-4697.md](days/year-013/week-671/day-4697.md) | **✓ Char retort** | **Cal-Y13 D78 · W671 d7 · close** |
+| 4696 | [day-4696.md](days/year-013/week-671/day-4696.md) | **✓ Kelp coast CLOSE** | **Cal-Y13 D77 · W671 d6** |
+| 4695 | [day-4695.md](days/year-013/week-671/day-4695.md) | **✓ Kelp leg 1 out** | **Cal-Y13 D76 · W671 d5** |
+| 4694 | [day-4694.md](days/year-013/week-671/day-4694.md) | **✓ Char + reserve repack** | **Cal-Y13 D75 · W671 d4** |
+| 4693 | [day-4693.md](days/year-013/week-671/day-4693.md) | **✓ Block lift ×14** | **Cal-Y13 D74 · W671 d3** |
+| 4692 | [day-4692.md](days/year-013/week-671/day-4692.md) | **✓ TR fire `4679`** | **Cal-Y13 D73 · W671 d2** |
+| 4691 | [day-4691.md](days/year-013/week-671/day-4691.md) | **✓ Brick fire `4668-B`** | **Cal-Y13 D72 · W671 d1** |
+| 4690 | [day-4690.md](days/year-013/week-670/day-4690.md) | **✓ Wood haul** | **Cal-Y13 D71 · W670 d7 · close** |
+| 4689 | [day-4689.md](days/year-013/week-670/day-4689.md) | **✓ Char retort quad** | **Cal-Y13 D70 · W670 d6** |
+| 4688 | [day-4688.md](days/year-013/week-670/day-4688.md) | **✓ Ethanol char + brick fire** | **Cal-Y13 D69 · W670 d5** |
 | 4687 | [day-4687.md](days/year-013/week-670/day-4687.md) | **✓ Brass hinges ×4** | **Cal-Y13 D68 · W670 d4** |
 | 4686 | [day-4686.md](days/year-013/week-670/day-4686.md) | **✓ Ethanol dehyd ×2** | **Cal-Y13 D67 · W670 d3** |
 | 4685 | [day-4685.md](days/year-013/week-670/day-4685.md) | **✓ Ethanol dehyd ×2** | **Cal-Y13 D66 · W670 d2** |

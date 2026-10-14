@@ -1,6 +1,6 @@
 # Week 670
 
-**Status:** **OPEN @ d4687 day 4** · **Cal-Y13 D68 · ~9 Mar Y13**
+**Status:** **CLOSED @ d4690 day 7** · **Cal-Y13 D71 · ~12 Mar Y13**
 
 *Week 669 closed @ d4683.*
 
@@ -8,6 +8,9 @@
 
 | Day | Summary |
 |---|---|
+| **4690** | **✓ Wood haul ~85 kg · green GO reads** |
+| **4689** | **✓ `CHAR-RETORT-4689` quad** |
+| **4688** | **✓ Ethanol char · fire `4669-A` · ~437 brick** |
 | **4687** | **✓ Brass strap hinges ×4** |
 | **4686** | **✓ `ETHANOL-DEHYD-BATCH-CY13-5` ×2** |
 | **4685** | **✓ `ETHANOL-DEHYD-BATCH-CY13-4` ×2** |
