@@ -6,10 +6,33 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4664 · `year-013/`)*
+## Recent days *(append here · @ Day 4687 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4687 | [day-4687.md](days/year-013/week-670/day-4687.md) | **✓ Brass hinges ×4** | **Cal-Y13 D68 · W670 d4** |
+| 4686 | [day-4686.md](days/year-013/week-670/day-4686.md) | **✓ Ethanol dehyd ×2** | **Cal-Y13 D67 · W670 d3** |
+| 4685 | [day-4685.md](days/year-013/week-670/day-4685.md) | **✓ Ethanol dehyd ×2** | **Cal-Y13 D66 · W670 d2** |
+| 4684 | [day-4684.md](days/year-013/week-670/day-4684.md) | **✓ TR press ×32** | **Cal-Y13 D65 · W670 d1** |
+| 4683 | [day-4683.md](days/year-013/week-669/day-4683.md) | **✓ TR press ×32 · W669 close** | **Cal-Y13 D64 · W669 d7** |
+| 4682 | [day-4682.md](days/year-013/week-669/day-4682.md) | **✓ Char retort + calcine** | **Cal-Y13 D63 · W669 d6** |
+| 4681 | [day-4681.md](days/year-013/week-669/day-4681.md) | **✓ TR press ×32 · ×118 total** | **Cal-Y13 D62 · W669 d5** |
+| 4680 | [day-4680.md](days/year-013/week-669/day-4680.md) | **✓ Clay haul** | **Cal-Y13 D61 · W669 d4** |
+| 4679 | [day-4679.md](days/year-013/week-669/day-4679.md) | **✓ TR press ×32** | **Cal-Y13 D60 · W669 d3** |
+| 4678 | [day-4678.md](days/year-013/week-669/day-4678.md) | **✓ Brick press + fire** | **Cal-Y13 D59 · W669 d2** |
+| 4677 | [day-4677.md](days/year-013/week-669/day-4677.md) | **✓ Rest · scare · paint** | **Cal-Y13 D58 · W669 d1** |
+| 4676 | [day-4676.md](days/year-013/week-668/day-4676.md) | **✓ Spring sow Y15** | **Cal-Y13 D57 · W668 d7** |
+| 4675 | [day-4675.md](days/year-013/week-668/day-4675.md) | **✓ Clay haul** | **Cal-Y13 D56 · W668 d6** |
+| 4674 | [day-4674.md](days/year-013/week-668/day-4674.md) | **✓ Seed rag test Y15** | **Cal-Y13 D55 · W668 d5** |
+| 4673 | [day-4673.md](days/year-013/week-668/day-4673.md) | **✓ Wood haul** | **Cal-Y13 D54 · W668 d4** |
+| 4672 | [day-4672.md](days/year-013/week-668/day-4672.md) | **✓ Spring sow prep** | **Cal-Y13 D53 · W668 d3** |
+| 4671 | [day-4671.md](days/year-013/week-668/day-4671.md) | **✓ Brass stock smelt** | **Cal-Y13 D52 · W668 d2** |
+| 4670 | [day-4670.md](days/year-013/week-668/day-4670.md) | **✓ Char retort** | **Cal-Y13 D51 · W668 d1** |
+| 4669 | [day-4669.md](days/year-013/week-667/day-4669.md) | **✓ Brick press + fire** | **Cal-Y13 D50 · W667 d7** |
+| 4668 | [day-4668.md](days/year-013/week-667/day-4668.md) | **✓ Brick press ×80** | **Cal-Y13 D49 · W667 d6** |
+| 4667 | [day-4667.md](days/year-013/week-667/day-4667.md) | **✓ Clay haul** | **Cal-Y13 D48 · W667 d5** |
+| 4666 | [day-4666.md](days/year-013/week-667/day-4666.md) | **✓ Char retort** | **Cal-Y13 D47 · W667 d4** |
+| 4665 | [day-4665.md](days/year-013/week-667/day-4665.md) | **✓ Wood haul** | **Cal-Y13 D46 · W667 d3** |
 | 4664 | [day-4664.md](days/year-013/week-667/day-4664.md) | **✓ Char + reserve top-up** | **Cal-Y13 D45 · W667 d2** |
 | 4663 | [day-4663.md](days/year-013/week-667/day-4663.md) | **✓ Fire `4654-A`** | **Cal-Y13 D44 · W667 d1** |
 | 4662 | [day-4662.md](days/year-013/week-666/day-4662.md) | **✓ Fire `4643-B` ×40** | **Cal-Y13 D43 · W666 d7** |

@@ -72,7 +72,7 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
 | `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
 | **`IRON-ADZE-1`** | Timber adze · **~115 g** · batten class | M2 peg rail | **edge GREEN · svc d4492** |
-| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d4492** |
+| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d4672** |
 | **`IRON-CHISEL-1`** | Cold chisel · stone dress | M2 peg rail | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-2`** | Wood chisel · primary | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-3`** | Wood chisel · backup | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |

@@ -6,36 +6,36 @@ What is standing in the ground right now. Harvested stock moves to [food.md](foo
 
 `Sown` rather than `Made`, and it is a schedule input rather than a keep window — everything downstream is read against [calendar.md](../checklists/calendar.md). This is the one inventory file where the date tells you what to *do* rather than what is still good.
 
-Y14 sow **d4307**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
+Y15 sow **d4676**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
 
 ## Bed A
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-SEL-Y14` | Hemp · ★ **Ghab line gen 5** · fibre block | Bed A north | d4307 | **✓ cut d4485 · stubble** · **→ `HEMP-FIBRE-Y15`** |
-| `HEMP-GHAB-RESERVE-Y14` | Hemp · NW block | Bed A north-west · **~6 m²** | d4307 | **Stubble post season** · **→ `HEMP-FLOWER-Y15` ~4 m² QoL** |
-| `FAVA-Y14` | Fava · elite + working | Bed A west · **~8 m²** | d4307 | **Dibbed deep** |
-| `P-18-CHICKPEA-Y14` | Chickpea | Bed A south · **~6 m²** | d4307 | **Row drill** |
+| `HEMP-FIBRE-Y15` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **~18 m²** | d4676 | **Dense drill** |
+| `HEMP-FLOWER-Y15` | Hemp · flower QoL block | Bed A north-west · **~4 m²** | d4676 | **Thin drill · RESERVE peg** |
+| `FAVA-Y15` | Fava · elite + working | Bed A west · **~8 m²** | d4676 | **Dibbed deep** |
+| `P-18-CHICKPEA-Y15` | Chickpea | Bed A south · **~6 m²** | d4676 | **Row drill** |
 
-☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before seed block flowers). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
+☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before flower block sets). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 
 ## Bed B
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y14` | Flax, field · fibre | Bed B centre · **✓ pulled d4590** | d4307 | **Dense drill** |
-| `EMMER-Y14` | Emmer | Bed B south + centre · **~10 m²** | d4307 | **Broadcast · rolled** |
-| `BARLEY-TRIAL-Y14` | Barley trial | Bed B east margin · **~2.5 m²** | d4307 | **Row drill** |
-| `P-17-LENTIL-Y14` | Lentil | Bed B north + margin · **~6 m²** | d4307 | **Row drill** |
+| `FLAX-FIELD-Y15` | Flax, field · fibre | Bed B centre · **~16 m²** | d4676 | **Dense drill** |
+| `EMMER-Y15` | Emmer | Bed B south + centre · **~10 m²** | d4676 | **Broadcast · rolled** |
+| `BARLEY-TRIAL-Y15` | Barley trial · **expanded** | Bed B east margin · **~4 m²** | d4676 | **Row drill** |
+| `P-17-LENTIL-Y15` | Lentil | Bed B north + margin · **~6 m²** | d4676 | **Row drill** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
-| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d4307 | **Staked · in crop** |
+| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d4676 | **Staked · in crop** |
 
 ## Bed C
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y14` | Emmer elite increase | Bed C south corner · **~3 m²** | d4307 | **Wide drill · RESERVE peg** |
-| `PULSE-SELECTION-Y14` | Lentil thick stand · selection | Bed C SW · **~8 m²** | d4307 | **Thick drill** |
+| `SEED-INCREASE-BLOCK-Y15` | Emmer elite increase | Bed C south corner · **~3 m²** | d4676 | **Wide drill · RESERVE peg** |
+| `PULSE-SELECTION-Y15` | Lentil thick stand · selection + regen | Bed C SW · **~8 m²** | d4676 | **Thick drill** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -50,7 +50,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `CULINA-HERBS-Y14` | Coriander · rosemary · thyme · mint · parsley · allium | Culina margin | d4307 | **Drilled / layered / divided** |
+| `CULINA-HERBS-Y15` | Coriander · rosemary · thyme · mint · parsley · allium | Culina margin | d4676 | **Drilled / layered / divided** |
 
 ## Retting · fibre queue
 

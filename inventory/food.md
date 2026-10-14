@@ -12,9 +12,9 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~2.30 kg** | Horreum A main bay | d4584 | d4589 |
+| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~0.75 kg** | Horreum A main bay | d4584 | d4676 sow |
 | **`EMMER-BULK-Y13`** | Emmer, bulk · Y13 harvest · graded | **~0.19 kg** | Horreum A main bay | d4217 | d4595 |
-| **`BARLEY-BULK-Y14`** | Barley, bulk · Y14 trial · graded | **~0.52 kg** | Horreum A barley bay | d4584 | d4584 |
+| **`BARLEY-BULK-Y14`** | Barley, bulk · Y14 trial · graded | **~0.32 kg** | Horreum A barley bay | d4584 | d4676 sow |
 | **`BARLEY-BULK-Y13`** | Barley, bulk · Y13 trial · graded | **~0.24 kg** | Horreum A barley bay | d4217 | d4595 |
 | **`P-17-LENTIL-Y13`** | Lentil · Y13 harvest · graded | **~143 g** | Horreum A pulse bay | d4217 | d4221 |
 | **`P-18-CHICKPEA-Y13`** | Chickpea · Y13 harvest · graded | **~201 g** | Horreum A pulse bay | d4218 | d4221 |
@@ -191,7 +191,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **✓ spent d4625 · `GRAIN-DISTILL-Y14-1` CLOSED** | d4595 | d4625 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
-| **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y14-1`** | **~2.53 L @ spirit peg** | Chem spirit peg | d4625 | d4632 dehyd |
+| **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y14-1`** | **~2.19 L @ spirit peg** | Chem spirit peg | d4625 | d4686 dehyd |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 
 Dehyd condensate jars: [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).

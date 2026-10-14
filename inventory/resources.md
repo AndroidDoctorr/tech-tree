@@ -10,9 +10,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~11.2 kg** | Char lane | | d4664 reserve top-up |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~14.6 kg** | Char lane | | d4687 forge |
 | `CHAR-RESERVE-C` | Charcoal reserve | **~10.0 kg** sealed | Store C vault | | d4664 top-up |
-| `WOOD-OAK-P5` | Oak, green | **~36.4 kg** @ pile 5 | Pile 5 | | d4664 retort |
+| `WOOD-OAK-P5` | Oak, green | **~62.3 kg** @ pile 5 | Pile 5 | | d4687 cook |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.24 kg offcut tail** | Craft peg | d3520 | d3551 |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -25,7 +25,7 @@ Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](f
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin · dehyd bed A/B | **~282 g** | Chem porch catalyst peg | d3956 | d4659 calcine |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin · dehyd bed A/B | **~282 g** | Chem porch catalyst peg | d3956 | d4686 dehyd |
 | **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Dehyd POC condensate · Phase A · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
 | **`ETHANOL-DEHYD-CONDENSATE-Y14-1`** | Dehyd condensate · Phase B run · tube + cold trap | **~41 ml @ `P-LAB-DEHYD-JAR-2`** | Chem spirit peg | d4600 | d4600 |
 | **`ETHANOL-DEHYD-CONDENSATE-Y14-2`** | Dehyd condensate · batch 2 run 1 · high-yield class | **~48 ml @ `P-LAB-DEHYD-JAR-3`** | Chem spirit peg | d4605 | d4605 |
@@ -35,14 +35,18 @@ Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](f
 | **`ETHANOL-DEHYD-CONDENSATE-CY13-3`** | Dehyd condensate · batch CY13-2 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-7`** | Chem spirit peg | d4626 | d4626 |
 | **`ETHANOL-DEHYD-CONDENSATE-CY13-4`** | Dehyd condensate · batch CY13-2 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-8`** | Chem spirit peg | d4626 | d4626 |
 | **`ETHANOL-DEHYD-CONDENSATE-CY13-5`** | Dehyd condensate · batch CY13-3 run 1 | **~43 ml @ `P-LAB-DEHYD-JAR-9`** | Chem spirit peg | d4632 | d4632 |
+| **`ETHANOL-DEHYD-CONDENSATE-CY13-6`** | Dehyd condensate · batch CY13-4 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-10`** | Chem spirit peg | d4685 | d4685 |
+| **`ETHANOL-DEHYD-CONDENSATE-CY13-7`** | Dehyd condensate · batch CY13-4 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-11`** | Chem spirit peg | d4685 | d4685 |
+| **`ETHANOL-DEHYD-CONDENSATE-CY13-8`** | Dehyd condensate · batch CY13-5 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-12`** | Chem spirit peg | d4686 | d4686 |
+| **`ETHANOL-DEHYD-CONDENSATE-CY13-9`** | Dehyd condensate · batch CY13-5 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-13`** | Chem spirit peg | d4686 | d4686 |
 
-**~427 ml condensate class total @ spirit peg** · spirit feed **`SPIRIT-GRAIN-Y13-1` ~1.00 L** + **`Y13-2` ~2.95 L** @ food *(drinkable in small pours · main lane chemistry)*.
+**~599 ml condensate class total @ spirit peg** · spirit feed **`SPIRIT-GRAIN-Y13-1` ~1.00 L** + **`Y13-2` ~2.95 L** @ food *(drinkable in small pours · main lane chemistry)*.
 
 ## Clay, stone and aggregate
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CLAY-P1` | Clay, raw · green | **~28.1 kg** | Pile 1 | | d4661 press ×40 |
+| `CLAY-P1` | Clay, raw · green | **~10.1 kg** | Pile 1 | | d4684 TR press |
 | `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | **×0** | d3329 | d4008 |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | **~50.58 kg** | `STORE-4` | | d3994 |
 | `QUARTZ-GLASS-FINE-Y13-1` | Glass-grade silica fines · triple-skim levigate · **`QUARTZ-FACE-B`** | **~1.22 kg** | Chem porch dry tray | d3990 | d4007 |
@@ -83,7 +87,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~18.3 kg** | Chem porch jar | d3331 | d4659 calcine |
+| `KAOLIN-SLIP-M26-1` | Kaolin slip · #2-class bulk — **`M-26` wash** | **~17.9 kg** | Chem porch jar | d3331 | d4682 calcine |
 | `KAOLIN-SLIP-M26-BEST-1` | Kaolin slip · best cut — **`M-26`** | **~0.76 kg** | Chem porch jar | d3331 | d4577 ×2 bulb |
 | `MONT-M26-TRACE-1` | Montmorillonite trace · **`M-26` wash · field rank only** | **~0.52 kg wet** | Chem porch separate peg | d3331 | d3941 |
 | `KAOLIN-SLIP-5` | Kaolin slip · #2-class bulk — CAND-4-EAST wash | **~0.03 kg** | Chem porch jar | | d3821 |
@@ -100,9 +104,15 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `BRICK-FIRED-B` | Fired brick, stackable · amber · *masonry wall brick* | **~323** | Kiln B pad | | d4663 +×37 |
-| **`BRICK-MASONRY-GREEN-CY13-4661`** | Masonry brick · green · GB module · **`GB-CY13-4661-A`** | **×40 @ north sand bed · drying** | Kiln B north sand bed | d4661 | d4663 |
+| `BRICK-FIRED-B` | Fired brick, stackable · amber · *masonry wall brick* | **~399** | Kiln B pad | | d4678 +×38 |
+| **`BRICK-MASONRY-GREEN-CY13-4668`** | Masonry brick · green · GB module · **`GB-CY13-4668-B`** | **×40 @ east apron · drying** | Kiln B east apron | d4668 | d4678 fire A |
+| **`BRICK-MASONRY-GREEN-CY13-4669`** | Masonry brick · green · GB module · **`GB-CY13-4669-A`** | **×40 @ north sand bed · leather-hard** | Kiln B north sand bed | d4669 | d4678 touch |
+| **`BRICK-MASONRY-GREEN-CY13-4678`** | Masonry brick · green · GB module · **`GB-CY13-4678-A`** | **×40 @ north sand bed · drying** | Kiln B north sand bed | d4678 | d4678 press |
 | `TILE-TR` | **Roof tile (TR)**, fired · curved semi-cylinder · hold | **×54** | Rack south | | d3843 |
+| **`TILE-TR-GREEN-CY13-4679`** | Roof tile (TR) · green · **`TR-CY13-4679`** | **×32 @ rack south · drying** | Kiln B rack south | d4679 | d4679 press |
+| **`TILE-TR-GREEN-CY13-4681`** | Roof tile (TR) · green · **`TR-CY13-4681`** | **×32 @ rack south · drying** | Kiln B rack south | d4681 | d4681 press |
+| **`TILE-TR-GREEN-CY13-4683`** | Roof tile (TR) · green · **`TR-CY13-4683`** | **×32 @ rack south · drying** | Kiln B rack south | d4683 | d4683 press |
+| **`TILE-TR-GREEN-CY13-4684`** | Roof tile (TR) · green · **`TR-CY13-4684`** | **×32 @ rack south · drying** | Kiln B rack south | d4684 | d4684 press |
 | `TILE-TF` | **Floor tile (TF)**, fired · flat square · kaolin body | **×63** | Rack north | | d4009 |
 | `TILE-TF-GREEN` | Floor tile (TF), green · drying queue | **×0** | North sand bed | d3859 | d4009 |
 | `CLAY-RANK-REF` | Refractory rank tiles · fired reference set | ×6 | Bench | | d2447 |
@@ -121,7 +131,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~29.5 kg** | Pile 4 | | d4571 culina branch |
+| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate · *(+~0.48 kg tail at slag dish)* | **~28.7 kg** | Pile 4 | | d4671 brass smelt |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~43.1 kg** | v1 chem, isolated | | d4465 roast |
 | `GALENA-1` | Galena-class lead ore | **~13.4 kg** | Forge staging | | d4460 Kisecik |
 | `H-11-HEMATITE` | Hematite | **~2.9 kg @ pile 4** | Pile 4 | | d4648 smelt |
@@ -260,7 +270,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
 | `CS-TEST-COUPON-Y12-2` | Carbon steel test coupon · bar-2 fracture | **~17 g** | Bench vial | Y12 | d3573 |
 | `SN-BANK` | Tin | **~1.12 kg** | — | | d3743 |
-| `ZNO-CALCINE` | Zinc oxide calcine | **~660 g** | — | | d4632 dehyd |
+| `ZNO-CALCINE` | Zinc oxide calcine | **~632 g** | — | | d4671 brass smelt |
 | `ZN-METAL-1` | Zinc, prill tail | **~78 g** | Chem-lab lidded tray | | d3743 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | **~83 g** | Purple lidded jar · vac reserve | | d4467 loop charge |
 | **`VAC-HG-LOOP-Y14-1`** | Mercury · ☠ **in `VAC-BENCH-1` loop only** | **~199.3 g** | Dish + column + trap path | d4467 | d4479 spill trace |
@@ -272,7 +282,8 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`PB-TRIM-Y13-3`** | Lead trim / slug · remelt reserve | **×0 spent d4228** | — | d3997 | d4228 |
 | `PB-METAL` | Lead, general tail | **×0** | Forge jar | | d3497 |
 | **`MUSKET-BRASS-TRIM-Y13-1`** | Brass trim · Sentanár · entry band · escutcheon · pin caps ×2 | **installed `MUSKET-1` d4213** | **`MUSKET-1`** | d4213 | d4213 |
-| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~2 g @ chip tray** | Chill tray | d3500 | d4568 socket |
+| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~16 g @ chill tray** | Chill tray | d3500 | d4687 hinges |
+| **`HINGE-BRASS-STRAP-CY13-4687`** | Brass strap hinges · construction buffer | **×4 @ craft peg tray** | Craft peg | d4687 | d4687 |
 | **`FUSE-LINK-Y14-1`** | EC-1 link fuse · **0.3 mm × ~8 cm** class | **×7 @ chem peg pouch** | Chem peg | d4561 | d4572 culina commission |
 | `BRASS-BUCKLE-Y12-1` | Brass frame buckle · **`BELT-WIDTH-STD-Y12-1` 22.0 mm gap** | **×0 → `YULE-BELT-Y12-1`** | — | d3801 | d3828 |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
@@ -432,7 +443,7 @@ Rope is here rather than in tools because it is measured and consumed. A rope ri
 | **`FRAME-OAK-Y14-1`** | Oak slip frame · ~280×360 mm · keyed corners | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y14-2`** | Oak slip frame · ~280×360 mm · mate to **`PAINTING-Y14-1`** | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y15-POKER-1`** | Oak stretcher · ~360×480 mm · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **×1** @ `EASEL-1` | M2 WORK | d4610 | d4610 |
-| **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | Donkeys Playing Poker homage · egg-tempera WIP | **~32% @ `EASEL-1`** | M2 WORK north light | d4610 | d4614 |
+| **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | Donkeys Playing Poker homage · egg-tempera WIP | **~40% @ `EASEL-1`** | M2 WORK north light | d4610 | d4677 |
 
 *Prior: **`PAINT-CANVAS-1`** @ **`EASEL-1`** · swatch studies d1701+ · **`EASEL-1`** @ infrastructure/M2.*
 
