@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 4739** · Cal-Y13 D120 · ~30 Apr Y13 · **Week 678 day 1** *(W677 closed)*
+> **Day 4763** · Cal-Y13 D144 · ~25 May Y13 · **Week 681 day 3**
 >
-> **HOME** · **sand ~28 kg · footing green** · **cube 7 d PASS (batch 1)** · ⚑ **Plinth beam · wood haul · batch-2 cube ~d4741**
+> **HOME** · **×72 stem · ×73 dry blocks · brick wythe** · ⚑ **G2 block pipeline · first brick course**
 
 Cleaned d3580. The Y10 discovery log and the technical reference tables that used to live here are in [now-snapshot-d3580.md](government/archive/now-snapshot-d3580.md) — not live, but indexed if a number is ever wanted back.
 
@@ -57,8 +57,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`SEED-SCOUT`** | **26 Feb – 16 Mar** | **✓ d4308 · parsley +~7 g · fava wild tail ~5 g** |
 | **`GOAT-FRESHEN`** | **Feb – Apr** | **✓ band end d4374** · G-01 steady · G-04 wean ~Jun · G-05 capture deferred |
 | **`HYDRO-ELEC-1`** | **✓ Civil + gen feed d4555** | **Deeper hold · campus penstock when named** |
-| Exped / cart trips | **11 Mar – 27 Sep** | **✓ CLOSED d4523** · winter miles-out by exception only |
-| `VITRIOL-HEAP-1` | **~90 wet days** | **Turn ✓ d4459 @ Kisecik · liquor ~13.8 L · next turn ~90 d class** |
+| Exped / cart trips | **11 Mar – 27 Sep** | **OPEN** · **✓ `KISECIK-RUN-CY13-4750` d4751–4753** |
+| `VITRIOL-HEAP-1` | **~90 wet days** | **Turn ✓ d4752 @ Kisecik · ~14.1 L @ site · next ~90 d class** |
 | **`FIG-PICK` repeat** | **1 Aug – 15 Sep** | **Pass 1 ✓ d4098 · repeat OK** |
 | **`GRAPE-PICK` strip** | **1 Aug – 15 Oct** | Pass 1 ✓ d4099 · Y14 partial ✓ d4488 · rhythm when named |
 | **`HEMP-CUT` Bed A north** | **15 Aug – 30 Sep** | **✓ d4485 · `HEMP-FIBRE-Y14-1` @ W-1** |
@@ -88,7 +88,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`CHAR-RESERVE-C`** | **~10.0 kg** sealed | d4724 repack |
 | **`O-1-MALACHITE`** | **~27.85 kg @ pile 4** | d4698 brass smelt |
 | **`SERPENTINITE-RAW-KISECIK-Y12-1`** | **~39.2 kg @ kerb** | d3988 |
-| **`WIRE-CU-GEN2-1`** | **~3.8 m tail @ chem peg** | d4568 socket |
+| **`WIRE-CU-GEN2-1`** | **~3.68 m tail @ chem peg** | d4740 hinge pins |
 | ✓ **`EC-1-GRID-FEEDER-2`** | **LIVE d3976 · `GRID-TAP-CRAFT-1` ~6.7 GB gen class** | **`SW-CRAFT-FEEDER-1` default OPEN** |
 | ✓ **`FEEDER-1-INSULATE`** | **Full trunk d3979–3980** | **~22 m · ~70 g wax · ~25 g rosin** |
 | ✓ **`FEEDER-2-INSULATE`** | **Full trunk d3985** | **~40 m · ~58 g wax · ~95 g rosin · ~42 g paper** |
@@ -100,18 +100,18 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`FORSTERITE-GROG-1`** | **~1.7 kg** | d4299 |
 | **`P-18-CHICKPEA-Y12`** | **~201 g** @ horreum pulse bay | d3854 |
 | **`P-17-LENTIL-Y12`** | **~153 g** @ horreum pulse bay | d3854 |
-| **`OIL-Y13-1`** | **~985 ml clear** @ glass bottles · **~240 ml @ `P-ξ-5`** | d4240 |
+| **`OIL-Y13-1`** | **~1.045 L clear** @ glass bottles · **~240 ml @ `P-ξ-5`** | d4740 wipe |
 | **`OIL-Y12-1`** | **~875 ml clear** @ glass bottles · **~280 ml @ `P-ξ-5`** | d4065 |
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.58 kg line** @ `WOOD-CRATE-6` | d3865 |
-| **`WOOD-OAK-P5`** | **~91.0 kg** @ pile 5 · **runway thin** | d4739 haul cook |
-| **`GRAVEL-1`** | **~175.6 kg** @ pile 4 | d4737 corners |
-| **`SAND-FILTER-1`** | **~27.8 kg** @ pile 4 | d4739 haul |
-| **`LIME-PUTTY-1`** | **~0.95 kg** working | d4737 corners |
-| **`CACO3-P7`** | **~34.7 kg** @ pile 7 | d4736 kiln |
-| **`CHAR-LANE`** | **~20.4 kg** | d4738 forge |
-| **`POZZ-TUFF-1`** | **~28.0 kg** @ pile 4 north | d4737 corners |
+| **`WOOD-OAK-P5`** | **~73.3 kg** @ pile 5 | d4763 haul |
+| **`GRAVEL-1`** | **~173.1 kg** @ pile 4 | d4742 plinth |
+| **`SAND-FILTER-1`** | **~35.7 kg** @ pile 4 | d4763 haul · retcon |
+| **`LIME-PUTTY-1`** | **~1.05 kg** working | d4761 stem |
+| **`CACO3-P7`** | **~22.7 kg** @ pile 7 | d4758 kiln |
+| **`CHAR-LANE`** | **~22.6 kg** | d4758 kiln |
+| **`POZZ-TUFF-1`** | **~17.8 kg** @ pile 4 north | retcon d4763 |
 | **`NAIL-IRON`** | **×37 @ tray** *(×3 cave)* | d4738 batch |
 | **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **WIP ~40% @ `EASEL-1`** | d4677 D3 |
 | **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~282 g** @ catalyst peg | d4686 dehyd |
@@ -137,23 +137,24 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
 | **`H-11-HEMATITE`** | **~0.5 kg tail @ pile 4** | d4738 smelt |
-| **`REBAR` production** | **×8 @ rack** *(×24 spent in pours)* | d4737 corners |
-| **`IRON-BLOOM-1`** | **~540 g tail @ mount** | d4738 nails |
+| **`REBAR` production** | **×16 @ rack** *(CY13-29…36 new · ×32 spent in pours)* | d4744 |
+| **`IRON-BLOOM-1`** | **~220 g tail @ mount** | d4744 rebar |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
 | **`ST-STR-BAR-Y13-1`** | **~5 g tail @ dry tray · knife blank spent d4009** | d4009 |
-| **`M-22-MAGNETITE-1`** | **~17.25 kg @ pile 4 tray** | d3903 |
+| **`M-22-MAGNETITE-1`** | **~12.25 kg @ pile 4 tray** | d4744 smelt |
 | **`MAG-STEEL-Y13-ROD-1/2`** | **×2 @ `MOTOR-1-MAG-STACK-1` · ~43–44 mm lift · soft-mounted d3957** | d3957 |
 | **`MAG-STEEL-Y13-ROD-3`** | **×1 spare @ dry tray · `ST-MAG-1` cert** | d3903 |
 | `FORSTERITE-BRICK-Y12-1` | **×20 FIRED bank · ×0 GREEN** *(shell brick → `infrastructure.md`)* | d4001 |
-| **`QUICKLIME-1`** | **~2.90 kg** tail @ crock | d4725 slake |
+| **`QUICKLIME-1`** | **~7.15 kg** @ crock | d4762 kiln |
 | `WOOD-HORNBEAM-GEAR-1` | ~0.24 kg tail @ peg | d3580 |
 | `SALT-1` | ~10.84 kg larder · ~1.0 kg cave | d4578 harvest |
 | Acorn `Y10-1`–`4` | ~615 · ~610 · ~605 · ~600 g @ nut tray | d3478 |
 | `OIL-Y10-1` | ~1.24 L clear cook · ~1.3 kg brined tail @ crock #2 | d3490 |
-| `BRASS-STOCK` | **~118 g** @ chill tray | d4698 smelt |
-| **`HINGE-BRASS-STRAP-CY13-4687`** | **×4 @ craft peg** | d4687 |
+| `BRASS-STOCK` | **~26 g** tail @ chill tray | d4740 hinges |
+| **`HINGE-BRASS-STRAP-CY13-4687`** | **×4 @ craft peg** | d4687 door strap |
+| **`HINGE-BRASS-CABINET-CY13-4740`** | **×8 @ craft peg** | d4740 |
 | `CU-BAR-Y10-1` | **×0** | d4473 spent |
 | `AZURITE-1` | **~0.21 kg** pigment reserve | d4614 paint trace |
 | ☠ `VITRIOL-LIQUOR-KISECIK-Y12-1` | **~12.8 L** · arsenic-bearing | d3878 · **~800 ml processed · scale PASS @ 400 ml** |
@@ -204,7 +205,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | **`FURNACE-2` / `MUFFLE-1`** | **Muffle BUILD closed d3777 · TC live** | **Atmosphere manifold · production alloy when named** |
 | ⚑ **`Y12-PARALLEL-GOALS`** | **Pipe series live · steel certs filed** | **Musket · invar refs defer** |
 | **`PALISADE-2`** | **Stage 2 shored 97/97 m** | **Stage 3 deferred** |
-| **`BLOCK-Y10` pit** | **×336 stock** *(×73 dry @ yard · ×263 submerged)* | **×500 cast quota** *(pit pipeline · not in-place masonry)* |
+| **`BLOCK-Y10` pit** | **×372 unused** *(×73 dry · ×227 submerged · **×72 stem N wing**)* | retcon d4763 |
 | ✓ **`TRAIL-MAINT-NORTH-Y14-1`** | **✓ d4409–4411 · ~54 kg local + ~10 kg campus crown** | **CLOSED** |
 | ✓ **`TRAIL-SUMMER-Y14`** | **Leg 1–3 ✓ d4502–4506** | **East string + stub crown + Ghab seed** |
 | ✓ **`KISECIK-RUN-Y14-4457`** | **Galena +~11.4 kg · heap turn d4459 · no trail · no cinnabar** | **CLOSED d4460** |
@@ -215,7 +216,7 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 | ◌ **`FLUORITE-FINE-Y13-1`** | **~2.75 kg chem reserve** | **HF path BLOCKED — polyethylene ware gate** |
 | ✓ **`BULB-FEAST-LAMP-Y14-1`** | **Desk pendant LIVE d4558 · dim leave-on** | **Yule feast · vac header empty for bulb #2** |
 | ⚑ **`EC-1` expansion** | **✓ feeder audit d4565** | **Plug jig · domus pendants · Feeder-3** |
-| ⚒ **`OFFICINA-N-WORK-WING`** | **✓ long-run footing closed d4734** | **Corner pours · plinth · sand/lime top-up · cube 7 d ~d4739** |
+| ⚒ **`OFFICINA-N-WORK-WING`** | **×72 block stem c1 · brick wythe** | **~×28 block + ~×480 brick remain in budget** |
 | ⚒ **`VAC-BENCH-Y14-1`** | **Lamp POC @ header · Hg loop · cork test bulb** | **Maint · WW-2 nadir band** |
 
 **Queue:** [next-items.md](../plans/next-items.md) · **Year shape:** [short-term-goals.md](../plans/short-term-goals.md)

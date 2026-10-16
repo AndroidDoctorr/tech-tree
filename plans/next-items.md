@@ -145,7 +145,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 - ~~**`CHAR-RETORT-4638` + calcine`**~~ · ~~**`BLOCK-Y10-4639` ×8`**~~ · **`BLOCK-LIFT` tail ~×0** — next lift when FIFO ages
 - ~~**`LINEN-TOWEL-SPRINT-Y14-1`**~~ — **✓ FULL CLOSE d4633** · **×4 purple + gold end vines @ felt**
 - ⟳ **Flax trough cycle** — **daily farm pass:** pull when window met · break/heckle when dry · rinse pool · load next — **automatic when ready**
-- ⚒ **Officina north work wing** — **✓ footing ring · ✓ sand d4739 · ✓ cube 7 d PASS batch 1** · ⚑ **plinth beam · batch-2 cube ~d4741 · wood haul**
+- ⚒ **Officina north work wing** — **✓ stem lift 1 · ✓ block lifts d4747–4749 (×49 dry)** · ⚑ **stem lift 2 (S+W) · wythe · 28 d cube ~d4760–4762 · `EC-1-GRID-FEEDER-3`**
 - ⚑ **`EC-1-GRID-FEEDER-3`** — north jamb trunk when wing footing exists · [ec-1-campus-expansion.md](ec-1-campus-expansion.md)
 - ⚑ **`ETHANOL-DEHYD` / org chem** — **POC ✓ d4600** · winter repeats · ethylene/ester path needs rig + purification
 - ⚑ **Compressor PoC** — belt-tree grammar · **fuse + switch + max I on paper first** (expansion doc machine ledger)

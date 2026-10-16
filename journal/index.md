@@ -6,10 +6,34 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4739 · `year-013/`)*
+## Recent days *(append here · @ Day 4763 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4763 | [day-4763.md](days/year-013/week-681/day-4763.md) | **✓ Sand haul** | **Cal-Y13 D144 · W681 d3** |
+| 4762 | [day-4762.md](days/year-013/week-681/day-4762.md) | **✓ Cube · stem c2 ring** | **Cal-Y13 D143 · W681 d2** |
+| 4761 | [day-4761.md](days/year-013/week-681/day-4761.md) | **✓ Slake · stem c2** | **Cal-Y13 D142 · W681 d1** |
+| 4760 | [day-4760.md](days/year-013/week-680/day-4760.md) | **✓ Cube · stem c1 ring** | **Cal-Y13 D141 · W680 close** |
+| 4759 | [day-4759.md](days/year-013/week-680/day-4759.md) | **✓ Goat · block lift** | **Cal-Y13 D140 · W680 d6** |
+| 4758 | [day-4758.md](days/year-013/week-680/day-4758.md) | **✓ Kiln · ×8 blocks** | **Cal-Y13 D139 · W680 d5** |
+| 4757 | [day-4757.md](days/year-013/week-680/day-4757.md) | **✓ Sand haul** | **Cal-Y13 D138 · W680 d4** |
+| 4756 | [day-4756.md](days/year-013/week-680/day-4756.md) | **✓ Kiln · ×8 blocks** | **Cal-Y13 D137 · W680 d3** |
+| 4755 | [day-4755.md](days/year-013/week-680/day-4755.md) | **✓ Farm · apiary** | **Cal-Y13 D136 · W680 d2** |
+| 4754 | [day-4754.md](days/year-013/week-680/day-4754.md) | **✓ Char · Zn roast** | **Cal-Y13 D135 · W680 d1** |
+| 4753 | [day-4753.md](days/year-013/week-679/day-4753.md) | **✓ Kisecik close** | **Cal-Y13 D134 · W679 close** |
+| 4752 | [day-4752.md](days/year-013/week-679/day-4752.md) | **✓ Heap · ore** | **Cal-Y13 D133 · W679 d6** |
+| 4751 | [day-4751.md](days/year-013/week-679/day-4751.md) | **✓ Kisecik OUT** | **Cal-Y13 D132 · W679 d5** |
+| 4750 | [day-4750.md](days/year-013/week-679/day-4750.md) | **✓ Kisecik prep** | **Cal-Y13 D131 · W679 d4** |
+| 4749 | [day-4749.md](days/year-013/week-679/day-4749.md) | **✓ Block lift** | **Cal-Y13 D130 · W679 d3** |
+| 4748 | [day-4748.md](days/year-013/week-679/day-4748.md) | **✓ Block lift** | **Cal-Y13 D129 · W679 d2** |
+| 4747 | [day-4747.md](days/year-013/week-679/day-4747.md) | **✓ Block lift** | **Cal-Y13 D128 · W679 d1** |
+| 4746 | [day-4746.md](days/year-013/week-678/day-4746.md) | **✓ Stem + sleeves** | **Cal-Y13 D127 · W678 d7 · close** |
+| 4745 | [day-4745.md](days/year-013/week-678/day-4745.md) | **✓ Sand haul** | **Cal-Y13 D126 · W678 d6** |
+| 4744 | [day-4744.md](days/year-013/week-678/day-4744.md) | **✓ Rebar ×8** | **Cal-Y13 D125 · W678 d5** |
+| 4743 | [day-4743.md](days/year-013/week-678/day-4743.md) | **✓ Char retort** | **Cal-Y13 D124 · W678 d4** |
+| 4742 | [day-4742.md](days/year-013/week-678/day-4742.md) | **✓ Plinth + lime** | **Cal-Y13 D123 · W678 d3** |
+| 4741 | [day-4741.md](days/year-013/week-678/day-4741.md) | **✓ Cube 2 · wood** | **Cal-Y13 D122 · W678 d2** |
+| 4740 | [day-4740.md](days/year-013/week-678/day-4740.md) | **✓ Cabinet hinges** | **Cal-Y13 D121 · W678 d1** |
 | 4739 | [day-4739.md](days/year-013/week-677/day-4739.md) | **✓ Sand · cube read** | **Cal-Y13 D120 · W677 close** |
 | 4738 | [day-4738.md](days/year-013/week-677/day-4738.md) | **✓ Bloom + nails** | **Cal-Y13 D119 · W677 d6** |
 | 4737 | [day-4737.md](days/year-013/week-677/day-4737.md) | **✓ Footing corners** | **Cal-Y13 D118 · W677 d5** |

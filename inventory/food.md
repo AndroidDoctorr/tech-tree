@@ -165,7 +165,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`OIL-Y13-1`** | Olive oil, clear · **cook live** | **~1.05 L** | Glass bottles · working draw ~240 ml @ `P-ξ-5` | d4218 | d4222 |
+| **`OIL-Y13-1`** | Olive oil, clear · **cook live** | **~1.045 L** | Glass bottles · working draw ~240 ml @ `P-ξ-5` | d4218 | d4740 hinge wipe |
 | **`OIL-SEDIMENT-Y13-1`** | Olive oil sediment, sealed | **~145 ml** | `AMPHORA-6` foot | d4222 | d4222 |
 | **`OIL-Y12-1`** | Olive oil, clear · **cook live** | **~920 ml** | Glass bottles · working draw ~280 ml @ `P-ξ-5` | d3850 | d3914 |
 | **`OIL-SEDIMENT-Y12-1`** | Olive oil sediment, sealed | **~150 ml** | `AMPHORA-6` foot | d3854 | d3854 |

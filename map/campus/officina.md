@@ -129,7 +129,14 @@ Counts: [resources.md](../../inventory/resources.md).
 
 ## North — the work wing
 
-◌ **Build live.** **✓ footing ring closed d4732–4737** · **`FOOT-CUBE` ×6 curing** @ shade · ⚑ **plinth beam**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
+◌ **Build live.** **✓ footing + plinth** · **✓ stem course 1 ring (×72 block)** · **sleeves + `EC-1-GRID-FEEDER-3` ghost** · **`FOOT-CUBE` 28 d PASS** · ⚑ **brick wythe · ring beam · interior plaster**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
+
+| Material | Role | Budget *(planning · d4763)* |
+|---|---|---|
+| **`BLOCK-Y10-DRY-STACK-1`** | Stem c1 + ring beam / core tails | **~×100 total** *(×72 spent · ~×28 reserve)* |
+| **`BRICK-FIRED-B`** | Wythe to bond beam | **~×500** *(craft wing used **~232** @ `MURE-R1`)* |
+
+★ **Not an all-block shell** — stronger footing/plinth + **interior gypsum** vs craft wing; **brick** carries wall height. *Retcon: erroneous stem c2 removed — [OFFICINA-N-STEM-C2-Y13.md](../../journal/retcons/OFFICINA-N-STEM-C2-Y13.md).*
 
 **✓ `TEMP-PORTICO-N` demounted d4730** — frame @ craft north margin · reed bundled · **×12 socle stones** stacked for stem reuse · north hub gap open. *(Was ~1.6 × 2.2 m stoop d2194–2196; curtains had covered the gap until checklist.)*
 

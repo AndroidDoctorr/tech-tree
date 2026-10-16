@@ -35,43 +35,34 @@
 
 Round numbers for planning. Not bills of materials.
 
-### A · Officina north work wing *(~5 × 6 m ghost · match hub/wing canon)*
+### A · Officina north work wing *(~5 × 6 m · BC-2 Annex A · player budget d4763)*
 
-| Material | Est. |
-|---|---|
-| Cinder blocks | **~80–120** |
-| Rebar | **×8–12** |
-| Glass panes | **×40–60** *(1–2 openings @ ×20 grammar)* |
-| Pipe | **~5 m** |
-| Wire | **~15 m** |
-| Masonry brick | **~400–500** *(if wythe matches W/E wings instead of full block shell)* |
-| Floor tiles (TF) | **×0–108** *(canon = oak plank · tile optional)* |
-| Roof tiles (TR) | **×45–55** |
-| Door hinges + latches | **×2 sets** |
-| Cabinet hinges + handles | **×8–12** |
-| Knife switches | **×1–2** |
-| Outlets | **×2–4** |
-| Structural timber | **~0.4 m³** *(defer)* |
-| Gravel | **~300 kg** |
+**Committed @ retcon d4763:** **×72 block** stem c1 · **×0 brick** wythe yet.
 
-### B′ · `WAGON-GARAGE-2` *(big shop · ~6 × 9 m class vs G1 ~3 × 6 m)*
+| Material | Planning budget | Notes |
+|---|---|---|
+| Cinder blocks | **~×100** | **×72 in stem** · **~×28** for ring beam / core grout / door jamb — **no second stem course** |
+| Masonry brick | **~×500** | Wythe to bond beam · ~**×480** remain vs budget · craft wing analogue **~232** @ `MURE-R1` |
+| Rebar | **×8–12** | Plinth spent ×8 · ring + lintels |
+| Glass panes | **×40–60** | 1–2 openings |
+| Roof tiles (TR) | **×45–55** | Light diaphragm |
+| Floor | **Oak plank** *(canon)* | TF optional |
+| Interior | **Gypsum + lime render** | Stronger finish vs craft wing limewash-only |
 
-| Material | Est. |
-|---|---|
-| Cinder blocks | **~120–180** |
-| Rebar | **×12–18** |
-| Glass panes | **×0–20** *(utility · optional high window)* |
-| Pipe | **~10 m** |
-| Wire | **~20 m** |
-| Masonry brick | **×0** *(BC-2 block + timber roof canon)* |
-| Floor tiles (TF) | **×0** *(wear slab / packed floor)* |
-| Roof tiles (TR) | **×0–80** *(shake/M-08 or shingle likely)* |
-| Door hinges + latches | **×2 sets** *(double door)* |
-| Cabinet hinges + handles | **×0–4** |
-| Knife switches | **×1** |
-| Outlets | **×2–4** |
-| Structural timber | **~0.8 m³** *(defer)* |
-| Gravel | **~500 kg** |
+### B′ · `WAGON-GARAGE-2` phase 1 *(~6 × 9 m · BC-2 utility → modern shop)*
+
+**G1 reference:** **`WAGON-GARAGE-1`** ~3×6 m · block stem · shake roof · not habitable finish.
+
+| Material | Phase 1 *(footprint + stem + doors)* | Full build *(tall stem · cheeks · crane pad)* |
+|---|---|---|
+| Cinder blocks | **~×200–240** | **~×320–420** |
+| Rebar | **×12–16** | **×18–24** |
+| Masonry brick | **×0** *(block shell canon)* | **×0–80** *(veneer optional)* |
+| Gravel / wear slab | **~500–700 kg** | **+ machine pad** |
+| Structural timber | **~0.8 m³** | **~1.2–1.6 m³** *(truss / crane beam defer)* |
+| Roof | **Shake / M-08** | **Same or TR partial** |
+
+★ **~×200 blocks** is a **phase-1 floor** (pad, stem, lintel, door bucks) — **not** the whole “stronger modern” envelope. Budget **~×350** class if G2 gets **full BC-2 seismic stem height** + outlet cheeks like hydro work.
 
 ### B · `HYDRO-ELEC-1` forebay + dam *(+3 m crest · ~35 × ~10 m pool · d4112 takeoff)*
 
