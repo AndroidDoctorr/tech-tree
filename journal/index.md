@@ -6,10 +6,54 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4763 · `year-013/`)*
+## Recent days *(append here · @ Day 4807 · `year-013/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4807 | [day-4807.md](days/year-013/week-687/day-4807.md) | **✓ Scare · goats · cure read** | **Cal-Y13 D188 · W687 d5** |
+| 4806 | [day-4806.md](days/year-013/week-687/day-4806.md) | **✓ N-wing gypsum skim** | **Cal-Y13 D187 · W687 d4** |
+| 4805 | [day-4805.md](days/year-013/week-687/day-4805.md) | **✓ Leak test + RH · BC-2A moist** | **Cal-Y13 D186 · W687 d3** |
+| 4804 | [day-4804.md](days/year-013/week-687/day-4804.md) | **✓ Lime burn · float close** | **Cal-Y13 D185 · W687 d2** |
+| 4803 | [day-4803.md](days/year-013/week-687/day-4803.md) | **✓ N-wing damp + float ~65%** | **Cal-Y13 D184 · W687 d1** |
+| 4802 | [day-4802.md](days/year-013/week-686/day-4802.md) | **✓ N-wing awning mount** | **Cal-Y13 D183 · W686 d7** |
+| 4801 | [day-4801.md](days/year-013/week-686/day-4801.md) | **✓ N-wing awning frames** | **Cal-Y13 D182 · W686 d6** |
+| 4800 | [day-4800.md](days/year-013/week-686/day-4800.md) | **✓ N-wing awning stripe dye** | **Cal-Y13 D181 · W686 d5** |
+| 4799 | [day-4799.md](days/year-013/week-686/day-4799.md) | **✓ N-wing awning weave** | **Cal-Y13 D180 · W686 d4** |
+| 4798 | [day-4798.md](days/year-013/week-686/day-4798.md) | **✓ Sand haul** | **Cal-Y13 D179 · W686 d3** |
+| 4797 | [day-4797.md](days/year-013/week-686/day-4797.md) | **✓ N-wing plaster gate + scratch** | **Cal-Y13 D178 · W686 d2** |
+| 4796 | [day-4796.md](days/year-013/week-686/day-4796.md) | **✓ Herb winnow + wild seed** | **Cal-Y13 D177 · W686 d1** |
+| 4795 | [day-4795.md](days/year-013/week-685/day-4795.md) | **✓ Window glass W+E** | **Cal-Y13 D176 · W685 d7** |
+| 4794 | [day-4794.md](days/year-013/week-685/day-4794.md) | **✓ Window seal v1** | **Cal-Y13 D175 · W685 d6** |
+| 4793 | [day-4793.md](days/year-013/week-685/day-4793.md) | **✓ Window straps W+E** | **Cal-Y13 D174 · W685 d5** |
+| 4792 | [day-4792.md](days/year-013/week-685/day-4792.md) | **✓ Window mount W+E** | **Cal-Y13 D173 · W685 d4** |
+| 4791 | [day-4791.md](days/year-013/week-685/day-4791.md) | **✓ Window frame prebuild** | **Cal-Y13 D172 · W685 d3** |
+| 4790 | [day-4790.md](days/year-013/week-685/day-4790.md) | **✓ Window rough cut** | **Cal-Y13 D171 · W685 d2** |
+| 4789 | [day-4789.md](days/year-013/week-685/day-4789.md) | **✓ Vent hood skin** | **Cal-Y13 D170 · W685 d1** |
+| 4788 | [day-4788.md](days/year-013/week-684/day-4788.md) | **✓ Char retort** | **Cal-Y13 D169 · W684 d7** |
+| 4787 | [day-4787.md](days/year-013/week-684/day-4787.md) | **✓ TR fire + roof tile** | **Cal-Y13 D168 · W684 d6** |
+| 4786 | [day-4786.md](days/year-013/week-684/day-4786.md) | **✓ Nail batch** | **Cal-Y13 D167 · W684 d5** |
+| 4785 | [day-4785.md](days/year-013/week-684/day-4785.md) | **✓ Purlins + battens** | **Cal-Y13 D166 · W684 d4** |
+| 4784 | [day-4784.md](days/year-013/week-684/day-4784.md) | **✓ Roof frame** | **Cal-Y13 D165 · W684 d3** |
+| 4783 | [day-4783.md](days/year-013/week-684/day-4783.md) | **✓ Roof timber prep** | **Cal-Y13 D164 · W684 d2** |
+| 4782 | [day-4782.md](days/year-013/week-684/day-4782.md) | **✓ Wagon tune** | **Cal-Y13 D163 · W684 d1** |
+| 4781 | [day-4781.md](days/year-013/week-683/day-4781.md) | **✓ Gravel · W683 close** | **Cal-Y13 D162 · W683 d7** |
+| 4780 | [day-4780.md](days/year-013/week-683/day-4780.md) | **✓ Gravel paydown** | **Cal-Y13 D161 · W683 d6** |
+| 4779 | [day-4779.md](days/year-013/week-683/day-4779.md) | **✓ Ferment + block audit** | **Cal-Y13 D160 · W683 d5** |
+| 4778 | [day-4778.md](days/year-013/week-683/day-4778.md) | **✓ Herb + wild grain** | **Cal-Y13 D159 · W683 d4** |
+| 4777 | [day-4777.md](days/year-013/week-683/day-4777.md) | **✓ Wood haul** | **Cal-Y13 D158 · W683 d3** |
+| 4776 | [day-4776.md](days/year-013/week-683/day-4776.md) | **✓ Ring beam** | **Cal-Y13 D157 · W683 d2** |
+| 4775 | [day-4775.md](days/year-013/week-683/day-4775.md) | **✓ Wythe c6** | **Cal-Y13 D156 · W683 d1** |
+| 4774 | [day-4774.md](days/year-013/week-682/day-4774.md) | **✓ Sand haul** | **Cal-Y13 D155 · W682 d7** |
+| 4773 | [day-4773.md](days/year-013/week-682/day-4773.md) | **✓ Pozz + wythe c5** | **Cal-Y13 D154 · W682 d6** |
+| 4772 | [day-4772.md](days/year-013/week-682/day-4772.md) | **✓ Sand haul** | **Cal-Y13 D153 · W682 d5** |
+| 4771 | [day-4771.md](days/year-013/week-682/day-4771.md) | **✓ Wythe c4** | **Cal-Y13 D152 · W682 d4** |
+| 4770 | [day-4770.md](days/year-013/week-682/day-4770.md) | **✓ Wythe c3** | **Cal-Y13 D151 · W682 d3** |
+| 4769 | [day-4769.md](days/year-013/week-682/day-4769.md) | **✓ Char + lime** | **Cal-Y13 D150 · W682 d2** |
+| 4768 | [day-4768.md](days/year-013/week-682/day-4768.md) | **✓ Limestone haul** | **Cal-Y13 D149 · W682 d1** |
+| 4767 | [day-4767.md](days/year-013/week-681/day-4767.md) | **✓ Wythe c2** | **Cal-Y13 D148 · W681 d7** |
+| 4766 | [day-4766.md](days/year-013/week-681/day-4766.md) | **✓ Sand haul** | **Cal-Y13 D147 · W681 d6** |
+| 4765 | [day-4765.md](days/year-013/week-681/day-4765.md) | **✓ Wythe c1 closed** | **Cal-Y13 D146 · W681 d5** |
+| 4764 | [day-4764.md](days/year-013/week-681/day-4764.md) | **✓ Brick wythe c1** | **Cal-Y13 D145 · W681 d4** |
 | 4763 | [day-4763.md](days/year-013/week-681/day-4763.md) | **✓ Sand haul** | **Cal-Y13 D144 · W681 d3** |
 | 4762 | [day-4762.md](days/year-013/week-681/day-4762.md) | **✓ Cube · stem c2 ring** | **Cal-Y13 D143 · W681 d2** |
 | 4761 | [day-4761.md](days/year-013/week-681/day-4761.md) | **✓ Slake · stem c2** | **Cal-Y13 D142 · W681 d1** |

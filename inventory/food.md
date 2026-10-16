@@ -30,6 +30,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · Y12 refresh | **×0 · spent Y13 sprint** | — | d3854 | d4221 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
 | `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · Y12–Y14 food laps | **~1.99 kg** | Horreum snack jar | d3685 | d4595 |
+| **`GRAIN-WILD-FOOD-Y15-1`** | Wild einkorn + barley · clean · Y15 food lap · **spent @ ferment** | **×0** | — | d4778 | d4779 ferment |
 | `BARREL-4-GRAIN` | Cracked grain, working · v1 tap | **~0.54 kg** | `BARREL-4`, v1 | d4589 | d4589 |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
 
@@ -134,7 +135,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | `CHEESE-Y10-7` | Cheese, pressed · ⚠ **fresh, acid-set — eat within days** | ~250 g | Culina | d3244 | d3244 |
 | `CHEESE-Y10-6` | Pressed curd · ⚠ **fresh, acid-set — eat within days** | ~225 g | Culina | d3236 | d3236 |
 | `GOAT-MILK-CROCK` | Goat milk | ~0.20 L | Ice vault niche | d3260 | d3260 |
-| `WHEY-1` | Whey · ★ **working stock — do not bank it** | ~1.5 L | Cool step | d3236 | d3236 |
+| `WHEY-1` | Whey · ★ **working stock — do not bank it** | **~1.22 L** | Cool step | d3236 | d4806 plaster |
 
 Ricotta off **fresh** whey runs half again the yield of ricotta off stale — the `RICOTTA-Y10-2` row is the control. The year's open cheese question is thistle heads in June, not the procedure, which runs without thought now.
 

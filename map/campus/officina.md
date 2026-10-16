@@ -129,7 +129,13 @@ Counts: [resources.md](../../inventory/resources.md).
 
 ## North — the work wing
 
-◌ **Build live.** **✓ footing + plinth** · **✓ stem course 1 ring (×72 block)** · **sleeves + `EC-1-GRID-FEEDER-3` ghost** · **`FOOT-CUBE` 28 d PASS** · ⚑ **brick wythe · ring beam · interior plaster**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
+◌ **Build live.** **✓ footing + plinth** · **✓ stem ×72** · **✓ brick wythe c1–c6 + ring header** · **✓ roof closed** · **✓ windows W+E glazed** · **sleeves + `EC-1-GRID-FEEDER-3` ghost** · **`FOOT-CUBE` 28 d PASS** · **✓ interior plaster stack d4797–4807** *(gypsum cure ✓)* · **✓ awnings W+E d4802** · ⚑ **Curtains · oak floor dry band · feeder-3**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
+
+| Opening | State |
+|---|---|
+| **`OFFICINA-N-WINDOW-W-1`** | West · **glazed ×20 d4795** · BC-2A LIVE · [retcon](../../journal/retcons/OFFICINA-N-WINDOW-PLAN-Y13.md) |
+| **`OFFICINA-N-WINDOW-E-1`** | East · **glazed ×20 d4795** · BC-2A LIVE |
+| **North door** | **Hub-centred · header live · glaze N/A** |
 
 | Material | Role | Budget *(planning · d4763)* |
 |---|---|---|

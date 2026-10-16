@@ -47,8 +47,8 @@ Last full audit **d4674** · **`SEED-RAG-TEST-Y15` + `SEED-REGEN-Y15`**
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
 | `GRAIN-WILD-A1` | Wild emmer · **`P-04` ghost / prior laps** | ~37 g class | Vault wild shelf | Y9 top-up | — |
-| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~39 g** | Vault wild shelf | **Y14 d4426 top-up** | **d4674 ~80%** |
-| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~56 g** | Vault wild shelf | **Y14 d4426 top-up** | **d4674 ~82%** |
+| `GRAIN-WILD-A2` | Wild einkorn · **`P-05-A/B`** | **~50 g** | Vault wild shelf | **Y15 d4796 top-up** | **d4674 ~80%** |
+| `GRAIN-WILD-A3` | Wild barley · **`P-06-A/B/C`** | **~68 g** | Vault wild shelf | **Y15 d4796 top-up** | **d4674 ~82%** |
 
 > **Y12 seed lap d3687** — **`P-05` + `P-06` only** *(March mark row · no `P-04` wild stand)*.
 
@@ -146,6 +146,10 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 | `P-ALLIUM-HARVEST-Y14-1` | Allium · designated ×4 · winnow | **~2 g** reserve hold | Vault | **Y14 d4418** | **d4674 ~88%** |
 | `P-THYME-SEL-Y14-1` | Thyme · mother-row tops · winnow | **~3.8 g** | Vault | **Y14 d4418** | **d4674 ~86%** |
 | `P-PARSLEY-SEL-Y15-1` | Parsley · second-year ×3 · winnow | **~5.0 g** reserve hold | Vault | **Y15 designate d4406 · winnow d4418** | **d4674 ~85%** |
+| `P-CORIANDER-SEL-Y15-1` | Coriander · designated ×6 · winnow | **~15 g** | Vault | **Y15 d4778 cut · d4796 winnow** | — |
+| `P-ALLIUM-HARVEST-Y15-1` | Allium · designated ×4 · winnow | **~7 g** reserve hold | Vault | **Y15 d4778 · d4796** | — |
+| `P-THYME-SEL-Y15-1` | Thyme · mother-row tops · winnow | **~4 g** | Vault | **Y15 d4778 · d4796** | — |
+| `P-PARSLEY-SEL-Y16-1` | Parsley · second-year ×3 · winnow | **~6 g** reserve hold | Vault | **Y15 d4778 cut · d4796 winnow** | — |
 | ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-ALLIUM-SEL-Y9` | Allium · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3574 DEAD |

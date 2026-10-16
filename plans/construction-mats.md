@@ -12,7 +12,7 @@
 |---|---|---|
 | **Cinder blocks** | **×93** | ×86 submerged · ×7 dry stack *(×16 @ `FURNACE-2` shell excluded)* |
 | **Rebar** | **×8** | Production twisted @ forge rack |
-| **Glass panes** | **×28** | `GP-Y8-C-LITE` spare |
+| **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE-OFFICINA-N-WING-1` ×40 committed** |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
 | **Wire (Cu, useful)** | **~67 m** | Mixed gauges · 0.3–1.6 mm · not all feeder-grade |
 | **Masonry brick** | **~135** | `BRICK-FIRED-B` @ Kiln B pad *(forsterite = refractory, not this row)* |
@@ -41,7 +41,7 @@ Round numbers for planning. Not bills of materials.
 
 | Material | Planning budget | Notes |
 |---|---|---|
-| Cinder blocks | **~×100** | **×72 in stem** · **~×28** for ring beam / core grout / door jamb — **no second stem course** |
+| Cinder blocks | **~×72 @ wing** | **✓ stem only** · pool **×280** *(retcon d4779: ×336+×16−×72)* · ring = brick+rebar |
 | Masonry brick | **~×500** | Wythe to bond beam · ~**×480** remain vs budget · craft wing analogue **~232** @ `MURE-R1` |
 | Rebar | **×8–12** | Plinth spent ×8 · ring + lintels |
 | Glass panes | **×40–60** | 1–2 openings |
