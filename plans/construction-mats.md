@@ -1,33 +1,35 @@
 # Construction materials — stock checklist
 
-*Player-maintained · update when you feel like quantifying progress. Not live campaign state — day files + inventory own the numbers.*
+*Player-maintained · brief snapshot only. **Live stock:** [inventory/resources.md](../inventory/resources.md) · **runway flags:** [now.md](../now.md). Day files own debits.*
 
-**Last snapshot:** d4134 · Cal-Y13 D260
+**Last snapshot:** d4807 · Cal-Y13 D188
 
 ---
 
-## On hand *(not counting used / committed-in-place)*
+## On hand *(not counting committed-in-place)*
 
 | Material | On hand | Notes |
 |---|---|---|
-| **Cinder blocks** | **×93** | ×86 submerged · ×7 dry stack *(×16 @ `FURNACE-2` shell excluded)* |
-| **Rebar** | **×8** | Production twisted @ forge rack |
-| **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE-OFFICINA-N-WING-1` ×40 committed** |
+| **Cinder blocks** | **×280 unused** | ×52 dry @ yard · ×228 submerged @ pit · **×72 @ Officina N stem** *(in place)* |
+| **Rebar** | **×16 @ rack** | CY13-33…36 + earlier bars · **×32 spent** in pours to date |
+| **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE`** @ storage wing · **N-wing W+E installed d4795** |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
-| **Wire (Cu, useful)** | **~67 m** | Mixed gauges · 0.3–1.6 mm · not all feeder-grade |
-| **Masonry brick** | **~135** | `BRICK-FIRED-B` @ Kiln B pad *(forsterite = refractory, not this row)* |
+| **Wire (Cu, useful)** | **~18 m class** | **`WIRE-CU-4` ~14 m** · **`WIRE-CU-GEN2-1` ~3.7 m tail** — not bulk feeder stock |
+| **Masonry brick** | **~199** | `BRICK-FIRED-B` @ Kiln B pad |
 | **Floor tiles (TF)** | **×63** | Fired @ rack north |
-| **Roof tiles (TR)** | **×54** | Hold @ rack south · shingle runway live for new roof |
-| **Door hinges + latches** | **×0 pool** | `HINGE-BRASS-REPAIR` spent → garage doors |
-| **Cabinet hinges + handles** | **—** | Not tracked yet |
+| **Roof tiles (TR)** | **~×100 fired + ×32 green** | Rack south · green = `4683` drying |
+| **Door / strap hinges** | **×4 brass strap** | `HINGE-BRASS-STRAP-CY13-4687` @ craft peg |
+| **Cabinet hinges** | **×8 brass butt** | `HINGE-BRASS-CABINET-CY13-4740` @ craft peg |
+| **Iron nails** | **×35 @ tray** | +×3 cave tail |
 | **Knife switches** | **×4 live** | Installed · **`SW-KNIFE-BLANK-1` ×0** |
-| **Outlets / receptacles** | **×0** | EC-1 grammar · not tooled for house scale yet |
+| **Outlets / receptacles** | **×0** | EC-1 grammar · house scale not tooled |
 | **Structural timber** | **—** | Defer until a build names cut list |
-| **Gravel** | **~20.4 kg** | Pile 4 south band |
-| **Filter sand** | **~4.7 kg** | |
-| **Quicklime** | **~0.05 kg** | |
-| **Lime putty** | **~0 kg** | |
-| **Pozzolan** | **~11.4 kg** | `POZZ-TUFF-1` |
+| **Gravel** | **~178 kg** | Pile 4 south band |
+| **Filter sand** | **~13.5 kg** | Pile 4 apron · thin for big pours |
+| **Limestone (`CACO3-P7`)** | **~60.4 kg** | Pile 7 · kiln runway OK |
+| **Quicklime** | **~0.08 kg** | Tail @ crock |
+| **Lime putty** | **~0.63 kg** | Working |
+| **Pozzolan** | **~2.3 kg** | `POZZ-TUFF-1` @ pile 4 north · **thin — haul/crush before wythe push** |
 
 ---
 
@@ -37,17 +39,17 @@ Round numbers for planning. Not bills of materials.
 
 ### A · Officina north work wing *(~5 × 6 m · BC-2 Annex A · player budget d4763)*
 
-**Committed @ retcon d4763:** **×72 block** stem c1 · **×0 brick** wythe yet.
+**In place @ d4807:** **×72 block stem** · **ring beam ✓ d4776** · **W+E glass LIVE d4795** · **interior gypsum cure PASS d4807**.
 
 | Material | Planning budget | Notes |
 |---|---|---|
-| Cinder blocks | **~×72 @ wing** | **✓ stem only** · pool **×280** *(retcon d4779: ×336+×16−×72)* · ring = brick+rebar |
-| Masonry brick | **~×500** | Wythe to bond beam · ~**×480** remain vs budget · craft wing analogue **~232** @ `MURE-R1` |
-| Rebar | **×8–12** | Plinth spent ×8 · ring + lintels |
-| Glass panes | **×40–60** | 1–2 openings |
-| Roof tiles (TR) | **×45–55** | Light diaphragm |
-| Floor | **Oak plank** *(canon)* | TF optional |
-| Interior | **Gypsum + lime render** | Stronger finish vs craft wing limewash-only |
+| Cinder blocks | **~×72 @ wing stem ✓** | Pool **×280 unused** *(retcon d4779)* · wythe + cheek laps ahead |
+| Masonry brick | **~×500** | Wythe to bond beam · **~199 on pad** · craft wing analogue **~232** @ `MURE-R1` |
+| Rebar | **×8–12** | Plinth + ring spent · lintels / grillage ahead |
+| Glass panes | **×40–60** | **2 openings ✓** · south cheek / future slots TBD |
+| Roof tiles (TR) | **×45–55** | Light diaphragm · **~×132 TR class on hand** |
+| Floor | **`TILE-TF`** *(player d4808)* | **~×115–125** need · **~×63 on hand** · oak deferred |
+| Interior | **Gypsum + lime render** | **Cure ✓** · curtains · **`EC-1-GRID-FEEDER-3`** |
 
 ### B′ · `WAGON-GARAGE-2` phase 1 *(~6 × 9 m · BC-2 utility → modern shop)*
 
@@ -64,11 +66,11 @@ Round numbers for planning. Not bills of materials.
 
 ★ **~×200 blocks** is a **phase-1 floor** (pad, stem, lintel, door bucks) — **not** the whole “stronger modern” envelope. Budget **~×350** class if G2 gets **full BC-2 seismic stem height** + outlet cheeks like hydro work.
 
-### B · `HYDRO-ELEC-1` forebay + dam *(+3 m crest · ~35 × ~10 m pool · d4112 takeoff)*
+### B · `HYDRO-ELEC-1` forebay + dam *(+3 m crest · civil ✓ d4555)*
 
 | Material | Est. |
 |---|---|
-| Cinder blocks | **~200–350** *(wing cheeks · outlet · spillway berms)* |
+| Cinder blocks | **~200–350** *(wing cheeks · outlet · spillway berms)* — **optional deepen only** |
 | Rebar | **×12–20** |
 | Quicklime / putty | **~80–120 kg slaked class** *(mortar runway)* |
 | Pozzolan | **~60–100 kg** *(with sand · BC-2 mortar + wear slabs)* |
@@ -112,4 +114,4 @@ Round numbers for planning. Not bills of materials.
 
 ---
 
-*Revise targets when a drawing exists. Revise **On hand** when you audit stock.*
+*Revise targets when a drawing exists. Revise **On hand** when you audit stock — or after any hero that moves block, brick, rebar, or aggregate.*

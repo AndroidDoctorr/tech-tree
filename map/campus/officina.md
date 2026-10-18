@@ -129,7 +129,7 @@ Counts: [resources.md](../../inventory/resources.md).
 
 ## North — the work wing
 
-◌ **Build live.** **✓ footing + plinth** · **✓ stem ×72** · **✓ brick wythe c1–c6 + ring header** · **✓ roof closed** · **✓ windows W+E glazed** · **sleeves + `EC-1-GRID-FEEDER-3` ghost** · **`FOOT-CUBE` 28 d PASS** · **✓ interior plaster stack d4797–4807** *(gypsum cure ✓)* · **✓ awnings W+E d4802** · ⚑ **Curtains · oak floor dry band · feeder-3**. ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
+◌ **Build live.** **✓ footing + plinth** · **✓ stem ×72** · **✓ brick wythe c1–c6 + ring header** · **✓ roof closed** · **✓ windows W+E glazed** · **✓ interior plaster + gypsum cure d4807** · **✓ awnings W+E d4802** · **✓ layout plan d4808** · **✓ `EC-1-GRID-FEEDER-3` LIVE d4809** · **✓ TF floor lay 1–3 d4819–4829** *(×126 set · ×30 rack)* · **✓ `OFFICINA-N-FLOOR-DRAIN-1` LIVE d4823** *(grate · clay sleeve · blind tie)* · **◌ wing reflectors ×2 green d4833–4834** · ⚑ **porcelain fire · tile lay 4**. Plan: [officina-n-work-wing-layout.md](../../plans/officina-n-work-wing-layout.md). ~5 × 6 m · [BC-2 Annex A](../../government/regulations/building-code-2-annex-clean-wing.md) Tier 1.
 
 | Opening | State |
 |---|---|

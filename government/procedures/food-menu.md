@@ -54,7 +54,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | **Bone stock** | **2–3 d** cool · **months** if reduced/salted | Stew base · grain cook · sip — stag/deer/fish frames |
 | **Emmer sourdough starter** | **Daily feed** | Flat · loaf trial · binds falafel less than wheat |
 
-**Live sources (not jars):** weir · river snails · culina herb bed · fig / grape / olive trees · seven hives (wax yes · honey not harvested) · **doe #1 in milk — daily draw, kid eats first** · wild goat trap `A-03` · partridge/fox background only.
+**Live sources (not jars):** weir · river snails · culina herb bed · fig / grape / olive trees · **apiary surplus** *(honey + wax via pale-bar cut — jar stock `HONEY-STRAINED-Y13-1`)* · **doe #1 in milk — daily draw, kid eats first** · wild goat trap `A-03` · partridge/fox background only.
 
 ---
 
@@ -145,7 +145,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | **Acorn roast + leather** | Leached roast · fig or grape leather | **Now** |
 | **Rosemary grill** | Weir fish · live rosemary sprig | **Now** |
 | **Goat feast roast** | Named slaughter morning · coriander · garlic · oil | **Tonight** |
-| **Cheese + leather plate** | Aged wheel · fig leather *(no honey yet)* | **The sitting** |
+| **Cheese + leather plate** | Aged wheel · fig leather · honey drizzle | **The sitting** |
 
 ---
 
@@ -174,7 +174,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 
 | Dish | Why | Unlock |
 |------|-----|--------|
-| **Honey glaze / sweet tea** | Comb not harvested | Named honey year |
+| **Mead horizon** | Honey jar yes · no ferment hero | Named brew day |
 | **Wine cup** | Vinegar yes · wine no | Finish ferment or stay posca |
 | **Poultry eggs** | No flock — goats milk, not lay | **Duck/chicken domestication** or nest-raid horizon only |
 | **Classic tahini / sesame** | No sesame in region | Pistachio paste substitute |
@@ -214,7 +214,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | **Kelp ash `M-13`** | Minerals | Potash class · not a meal | · chem not food |
 | **Wild partridge `A-05`** | Hunt only | Same-day roast | · no flock |
 | **Sheep/horse `A-07/08`** | Horizon | Milk/meat if ever tamed | ○ not scouted |
-| **Honey** | Comb | Sweet · glaze · mead horizon | · comb not harvested |
+| **Honey** | Pale-bar strain | Sweet · glaze · bake · mead horizon | ✓ **`HONEY-STRAINED-Y13-1` ~0.68 kg** |
 | **Hemp seed** | Oil | Press trial · not staple eat | · fibre crop first |
 
 **Eggs:** There is no duck, goose flock, or chicken on campus. Goose is a **hunt feast**, night heron is a weir competitor — not a larder. Eggs unlock a whole branch (bind leavened cakes, noodles, custards, mayonnaise-class emulsions), but they need **domesticated laying birds** or a committed nest-raid band with poor yield. Goat milk already covers much of the dairy branch; eggs are the missing **fat-protein emulsifier**, not the missing calories.

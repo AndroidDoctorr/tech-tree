@@ -166,7 +166,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-3`** | Production lamp · **fine filament · pre-seal outgas · tipped d4567** | *(→ `BULB-LAMP-POC-Y14-2`)* | d4567 |
 | **`BULB-PROD-Y14-4`** | Production lamp · **reed · tipped d4579** | *(→ `BULB-LAMP-POC-Y14-3`)* | d4579 |
 | **`BULB-LAMP-POC-Y14-3`** | Sealed lamp · **`BULB-PROD-Y14-4`** · **reed scout** · **@ vac bench soft peg** | **`VAC-BENCH-1`** | d4579 |
-| **`BULB-PROD-Y14-5`** | Production lamp · **reed test queue · no filament** · **@ vac bench peg** | **`VAC-BENCH-1`** | d4577 |
+| **`BULB-PROD-Y14-6`** | Production lamp · **tipped d4846** | *(→ `BULB-LAMP-WING-N-2`)* | d4846 |
 | **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1` desk** | Craft-wing desk | d4558 |
 | **`BULB-LAMP-POC-Y14-2`** | Sealed lamp · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d4571 |
 | **`EC-1-TAP-BOX-JIG-Y14-1`** | Tap-box drill/jig · post spacing · fuse bore · **CP-G shutter slide** | Craft wing bench peg | d4561 |
@@ -175,6 +175,13 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`EC-1-TAP-BOX-STD-2`** | Tap box #2 · same grammar | **Officina south bay** · **`GRID-TAP-CRAFT-2`** | d4563 LIVE |
 | **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · **`BULB-FEAST-SOCKET-Y14-2` + `BULB-LAMP-POC-Y14-2`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d4572 commissioned |
 | **`BULB-FEAST-LAMP-Y14-1`** | Desk pendant · **`BULB-FEAST-SOCKET-Y14-1` + `BULB-LAMP-POC`** · **`SW-FEAST-LAMP-1`** · **~0.9 m drop** @ craft-wing desk | **`CRAFT-WING-1` north bay** | d4558 LIVE |
+| **`EC-1-TAP-BOX-STD-3`** | Tap box #3 · **LAMP-H ×2 / BENCH / motor defer** · **`GRID-TAP-WING-N-1`** | **Officina north door east jamb** | d4808 LIVE |
+| **`BULB-WING-N-LAMP-1`** | Wing north ceiling · **`BULB-FEAST-SOCKET-Y14-3` + reflector + `BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
+| **`BULB-WING-N-LAMP-2`** | Wing south/center · **socket 4 + reflector 2 + bulb B** · **`SW-WING-N-LIGHT-2`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
+| **`WORK-BENCH-N-1`** | North cell bench · **~2.1 m × ~0.65 m** · **tile inset tray** · oak cheeks **limewash d4852** · earth bonded | **North work wing** | d4848 LIVE |
+| **`WING-N-CABINET-1`** | Closed east cheek cabinet · acid/glass shelves · **int limewash d4852** | **North work wing** | d4850 LIVE |
+| **`WORK-TABLE-N-1`** | Centre table · **~900×600×~760 mm** · **top bare oak** · base limewash d4852 | **North work wing** | d4851 LIVE |
+| **`CP-G-SOCKET-WING-N-1`** | Shutter receptacle · **`EC-1-GRID-BRANCH-WING-N-BENCH-1`** · max **~0.35 I** | **`WORK-BENCH-N-1` rear rail** | d4848 LIVE |
 | **`BULB-CU-FEATHER-JIG-Y14-1`** | Oak v-block + brass shim · Cu feather seat @ marver | Chem porch marver peg | d4472 |
 | **`BULB-CU-PINCH-SCRAP-Y14-A`** | Scrap stem · Cu pinch **near-pass** · hairline leak · study | Chem porch dry peg | d4472 |
 | **`BULB-CU-PINCH-SCRAP-Y14-B`** | Scrap stem · Cu pinch **PASS** · bubble clean | Chem porch dry peg | d4473 |
@@ -212,7 +219,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-ACID-BOTTLE-1…6` | Acid bottles, B1–B6 · ☠ **filled** | `ACID-STORE`, chem shelf | Live — contents in [resources.md](resources.md) |
 | `P-LAB-ACID-BOTTLE-7…12` | Acid bottles ×6, ~120 ml narrow-neck | `ACID-SPARE-PEG` | Empty spares |
 | `GLASS-BOTTLE-4` · `5` | Bottles, vinegar and oil tags | Chem-lab rack | Live |
-| `GLASS-BOTTLE-6…13` | Bottles ×8, ~250 ml wine grammar | Chem-lab `STORAGE-EMPTY` rack | Empty |
+| `GLASS-BOTTLE-11` | ~250 ml wine grammar · **food honey** · `HONEY-STRAINED-Y13-1` | Culina shelf | Live · d4726 retcon |
+| `GLASS-BOTTLE-6…10` · `12` · `13` | Bottles **×7 empty**, ~250 ml wine grammar | Chem-lab `STORAGE-EMPTY` rack | Empty spares |
 | `P-LAB-BLEACH-BOTTLE-1` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-1` | Bleach peg | ✓ FILLED d3456 |
 | `P-LAB-BLEACH-BOTTLE-2` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-2` | Bleach peg | ✓ FILLED d3456 |
 | `P-LAB-BLEACH-BOTTLE-3` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-1` | Bleach peg | ✓ FILLED d3454 |

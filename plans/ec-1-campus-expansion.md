@@ -62,7 +62,7 @@
 | **`EC-1-TAP-BOX-STD-2`** | **`GRID-TAP-CRAFT-2`** south bay | **~0.35 I socket** | **~0.9** | LAMP-H / BENCH |
 | **`EC-1-TAP-BOX-STD-1`** | **`GRID-TAP-DOMUS-1`** porticus | **~0.35 I socket** | **~0.25 dim** | **✓ `BULB-CULINA-LAMP-Y14-1` d4571** |
 | **Loom / craft assist** | **`GRID-TAP-CRAFT-2`** lugs | **TBD @ commission** | — | Queued |
-| **North wing machines** | **`GRID-TAP-WING-N-1`** *(planned)* | **TBD** | **⚠ trunk upgrade** | See phase 3 |
+| **North wing bus** | **`GRID-TAP-WING-N-1`** @ **`EC-1-TAP-BOX-STD-3`** | **trunk LIVE d4809** | **~7.1 GB @ gen ON** | **⚑ branch commission** |
 | **Garage shop** | **`GRID-TAP-GARAGE-1`** *(planned)* | **TBD** | **⚠ second trunk or 1.2 mm class** | See phase 4 |
 
 **Headroom rule:** ★ **Sum of simultaneous max GB·I on one trunk ≤ ~70% of gen peak at that tap’s measured E** — rest is sag margin.

@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs **`CY13`**
+Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs **`CY13`**
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -17,20 +17,31 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 
 > ☠ **Do not spend a day on a ⧗ or a ⟳.** *Standing over a cell does not make copper faster.*
 
+## ⚑ Storage buffer — player target *(d4842)*
+
+**Goal:** **≥1 spare** each of **amphora · food glass · stoneware crock/pot · labelled crate** — not counting acid/bleach/ark fixtures.
+
+| Class | On hand *(d4842)* | Gap |
+|---|---|---|
+| **Glass ~250 ml food** | **×7 empty** @ chem `STORAGE-EMPTY` · **`GLASS-BOTTLE-11` honey** | **OK on glass** |
+| **Amphora M-08** | **`AMPHORA-8` · `AMPHORA-9` empty** · `AMPHORA-10` buffer | **OK · 2+ empty** |
+| **Stoneware / crock** | **`BARREL-5` empty rinsed** · stew jars in use | **⚑ spare food crock hero** |
+| **Crate** | **`WOOD-CRATE-3…6` all named duties** | **⚑ `WOOD-CRATE-7` empty spare** |
+
 ## ⚠ Clock — read first
 
 | Signal | State |
 |---|---|
-| **`GRAIN-FERMENT-Y14-1`** | **✓ CLOSED d4625 · `SPIRIT-GRAIN-Y14-1` ~2.78 L** |
+| **`GRAIN-FERMENT-Y15-1`** | **⧗ ~day 11 @ `BARREL-5` · ~10 L wild mash** |
 | **`WW-2` Q** | **~11.0 L/s · stain ~5.0 cm @ d4560** — nadir band · WW-2 power log |
 | **`HYDRO-ELEC-1`** | **✓ Gen feed LIVE d4555** · ⚑ campus penstock draw · deeper pool optional |
-| **Exped / cart trips** | **✓ CLOSED d4523** · winter miles-out by exception |
-| **`BLOCK-Y10` pit** | **×328 stock** *(×17 dry @ yard · ×311 submerged)* · ×500 cast quota |
-| **`VITRIOL-HEAP-1`** | **Turn ✓ d4459 @ Kisecik · liquor ~13.8 L · next turn ~90 d class** |
+| **Exped / cart trips** | **OPEN 11 Mar – 27 Sep** · **✓ `KISECIK-RUN-CY13-4750` d4751–4753** |
+| **`BLOCK-Y10` pit** | **×280 unused** *(×52 dry · ×228 submerged · ×72 @ Officina N stem)* |
+| **`VITRIOL-HEAP-1`** | **Turn ✓ d4752 @ Kisecik · ~14.1 L @ site · next ~90 d class** |
 | **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · trough empty · load next bundle on farm pass when named |
 | **`mishap_pool`** | **0** |
-| **Norima** | **service 15 · fatigue 11 · margin haul 1/2** |
-| **`SPRING-SOW-CY13`** | **⚑ frost gate ~Feb — hemp fibre/flower split + rag test** |
+| **`SPRING-SOW-Y15`** | **✓ d4676 · scare-only on new rows** |
+| **`OFFICINA-N-WORK-WING`** | **`FEEDER-3` LIVE d4809 · TF ×32 green** | **Lamp branches · TF fire/press · floor bed** |
 | ~~**`WAGON-V2-OVERHAUL-Y15-1`**~~ | **✓ d4615–4617** |
 | ~~**`ICE-HAUL-Y14`**~~ | **✓ vault cap-bound ~129 kg** |
 | ~~**`SPRING-SOW-Y14`**~~ | **✓ d4307** |
@@ -50,34 +61,15 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 | **Penstock campus draw** | **⚑ when named** — [ec-1-campus-expansion.md](ec-1-campus-expansion.md) Feeder-3 class |
 | **Deeper hold / optional dig** | **⚑ nadir laps only when player names** |
 
-### Stock runway *(live d4618)*
-
-| Material | Have (class) | Notes |
-|---|---|---|
-| **Gravel** | **~5.4 kg @ pile 4** | thin — named haul if pour returns |
-| **Filter sand** | **~47.5 kg @ pile 4** | d4540 wing cap |
-| **`POZZ-TUFF-1`** | **~54.7 kg pile + ~8 kg Fabrica** | d4540 |
-| **Cinder blocks** | **×328 pit stock** | submerged cure + dry yard |
-| **Rebar** | **×4 @ rack** *(×20 in pours)* | d4540 wing cap |
-| **`CACO3-P7`** | **~38.7 kg** | Kiln runway OK · post d4725 burn |
-| **`QUICKLIME-1`** | **~0.03 kg tail** | Kiln before next block batch |
-| **`WOOD-OAK-P5`** | **~98.0 kg** | d4619 haul · d4620 quad |
-| **`CHAR-LANE`** | **~26.3 kg** | d4620 quad · reserve ~9.8 kg @ C |
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | **~95 g** | d4620 batch |
-| **Norima service / fatigue** | **15 / 11** | parity **0** |
+**Build stock snapshot:** [construction-mats.md](construction-mats.md) · aggregate runway in [now.md](../now.md) § Stock.
 
 ---
 
-## Farm — `SPRING-SOW-CY13` hemp split *(player d4508 · was Y15 label)*
+## Farm — Y15 standing crop *(✓ `SPRING-SOW-Y15` d4676)*
 
-**Not split yet** — one fibre line on Bed A north through Y14; Ghab import is **tagged charges** (`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT`), not separate breeds in the ground.
+**Scare-only on new rows** until harvest heroes. Hemp **fibre @ A north** + **`HEMP-FLOWER-Y15` ~4 m² @ A NW** sown d4676 · **`BARLEY-TRIAL-Y15` expanded @ B east**.
 
-| Line | Intent | Isolation |
-|---|---|---|
-| **`HEMP-FIBRE-CY13`** | Bed A north · dense drill · **`FIBRE-SEED` + `DUAL-TRAIT` bias** | **Early sow · `HEMP-CUT` Aug before flower patch peaks** |
-| **`HEMP-FLOWER-CY13`** | Bed A NW **~4 m²** · **flower-forward · QoL** · **`FLOWER-SEED` charge** | **Late sow ~2–3 wk after fibre block** — pollen **by time**, not distance |
-
-⚑ **Sow slate @ frost gate** · rag-test import jar · peg **RESERVE** label → **FLOWER** on NW ghost.
+⚑ **`HEMP-CUT` band Aug** · **`GRAIN-FERMENT-Y15-1`** bung on farm pass · **G-04 wean scorecard** when named.
 
 ---
 
@@ -101,7 +93,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 - ⧗ **`CU-CELL`** — two looks a day
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
 - ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 d from d4459
-- ⧗ **`GRAIN-FERMENT-Y14-1`** — distill ~d4630
+- ⧗ **`GRAIN-FERMENT-Y15-1`** — ethanol lane @ `BARREL-5`
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
@@ -145,7 +137,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 - ~~**`CHAR-RETORT-4638` + calcine`**~~ · ~~**`BLOCK-Y10-4639` ×8`**~~ · **`BLOCK-LIFT` tail ~×0** — next lift when FIFO ages
 - ~~**`LINEN-TOWEL-SPRINT-Y14-1`**~~ — **✓ FULL CLOSE d4633** · **×4 purple + gold end vines @ felt**
 - ⟳ **Flax trough cycle** — **daily farm pass:** pull when window met · break/heckle when dry · rinse pool · load next — **automatic when ready**
-- ⚒ **Officina north work wing** — **✓ stem lift 1 · ✓ block lifts d4747–4749 (×49 dry)** · ⚑ **stem lift 2 (S+W) · wythe · 28 d cube ~d4760–4762 · `EC-1-GRID-FEEDER-3`**
+- ⚒ **Officina north work wing** — **✓ shell + gypsum · ✓ layout d4808** · **`FEEDER-3` pt1** · ⚑ **trunk finish · `TILE-TF` floor (~×65–75 short) · lamps · furniture**
 - ⚑ **`EC-1-GRID-FEEDER-3`** — north jamb trunk when wing footing exists · [ec-1-campus-expansion.md](ec-1-campus-expansion.md)
 - ⚑ **`ETHANOL-DEHYD` / org chem** — **POC ✓ d4600** · winter repeats · ethylene/ester path needs rig + purification
 - ⚑ **Compressor PoC** — belt-tree grammar · **fuse + switch + max I on paper first** (expansion doc machine ledger)
@@ -153,7 +145,7 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
 - ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
 - ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
-- ⧗ **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** — **~32% @ `EASEL-1`** · rest-day laps
+- ⧗ **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** — **~40% @ `EASEL-1`** · rest-day laps
 - ◌ **Wild boar / sheep hunt** — when convenient
 - ◌ **Barley bed expand** — player maybe @ **Y15 `SPRING-SOW`**
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
@@ -185,6 +177,17 @@ Live as of **d4631 · Cal-Y13 D12 · ~12 Jan Y13 · Week 662 OPEN** · new IDs *
 
 - **`COAST-VACATION-1`** — pleasure grammar · blocks nothing
 - **Officina sink branch** · **`WAGON-GARAGE-2`** · **`CRANE-2`** — deferred builds
+
+## ⚑ Factory yard queue *(slated d4813 · after TF floor band)*
+
+| Item | Doc | Notes |
+|---|---|---|
+| **`BLOCK-BENCH-WW-1`** vibratory press | [block-bench-water-wheel.md](block-bench-water-wheel.md) | **Cinder-block forming table + settle** · WW-2 takeoff · site survey |
+| **`AREA-MATERIARUM-1`** | [area-materiarum-y13.md](area-materiarum-y13.md) | **4-bay bulk pad** · **~1 t** sand/gravel/lime/clay staging |
+| **`SHOVEL-BULK-1` · `WHEELBARROW-1`** | *(with yard)* | Wide pan shovel · **60–80 L** barrow for yard laps |
+| ◌ **Stirling / solar R&D** | [wishlist.md](wishlist.md) | **Stirling** = heat-engine experiments · **PV** = **not yet** — photovoltaics need junction + glass + metallurgy runway far beyond bulbs |
+
+★ **Order:** **TF floor + fire** → **yard pad** (quick civil) → **barrow/shovel** → **block vibratory bench** · Stirling/solar **do not block** the above.
 
 ---
 

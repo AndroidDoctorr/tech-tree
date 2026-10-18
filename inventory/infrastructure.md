@@ -257,6 +257,64 @@ Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb**
 
 ★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle.** ✓ **Domus lighting margin branch d4563** *(dry only)* · ⚑ **Horreum machine margin still defer.**
 
+### ✓ **`EC-1-GRID-FEEDER-3`** — Officina north work wing trunk *(d4808–4809)*
+
+Map: **`WW-2` wheelhouse tee → campus path → north door east jamb** · Built: **d4809** · **~48 m run**
+
+**~48 m** paired **0.9 mm bare** · **`SW-WING-N-FEEDER-1` @ east jamb** · **`GRID-TAP-WING-N-1`** @ **`EC-1-TAP-BOX-STD-3`**.
+
+| Install | Spec |
+|---|---|
+| **Route** | **Pegged aerial · oak cleats · not buried** · **clear of hearth smoke lane** |
+| **Wrap** | **Wax+rosin+paper full trunk d4808–4809** |
+| **Zones** | **Z-LIGHT ×2 · Z-BENCH ×2 · Z-MOTOR ×1** — sleeves d4746 |
+| **Materials logged** | **d4808:** **`O-1-MALACHITE` −~1.15 kg · switch/brass/fuse/cleats** · **d4809:** **`O-1-MALACHITE` −~1.05 kg · wrap · `NAIL-IRON` −×5** |
+
+| Read @ d4809 | Wheelhouse | Wing tap |
+|---|---|---|
+| **Gen ON** | **~8.5 GB** | **~7.1 GB** |
+| **Run R** | — | **~2.7 R · ~48 m paired 0.9 mm** |
+| **Branches** | — | **✓ `LIGHT-1/2` d4847 · **BENCH d4848** · motor — defer** |
+
+★ **Default: `SW-WING-N-FEEDER-1` OPEN when wing idle.** Layout: [officina-n-work-wing-layout.md](../plans/officina-n-work-wing-layout.md).
+
+### ✓ **`EC-1-GRID-BRANCH-WING-N-LIGHT-1`** — north bench lamp *(d4847)*
+
+Map: **`GRID-TAP-WING-N-1` → `Z-LIGHT` sleeve 1 → `WING-N-CEILING-CLEAT-1`** · **`BULB-WING-N-LAMP-1`**
+
+**~4.2 m** paired **0.5 mm** · **`SW-WING-N-LIGHT-1` @ cleat** · **~1.15 m drop** · **✓ insulate + commission d4847**.
+
+| Materials logged d4847 | |
+|---|---|
+| **`O-1-MALACHITE`** | **−~1.02 kg** *(×2 draws)* |
+| **`ST-STR-BUTTON-Y13-3`** | **−~44 g** → **`SW-WING-N-LIGHT-1/2`** |
+| **`FUSE-LINK-Y14-1`** | **−×2** · **LAMP-H** |
+| **`WAX-Y10-RENDER-1` / `ROSIN-1` / `FLAX-SHIVE-Y8-21`** | **−~16 g / −~8 g / −~14 g** |
+| **`NAIL-IRON`** | **−×8** |
+
+★ **`SW-WING-N-FEEDER-1` = wing master** · **`SW-WING-N-LIGHT-*` = local lamps** · **feeder + lamp switch OPEN** to glow.
+
+### ✓ **`EC-1-GRID-BRANCH-WING-N-LIGHT-2`** — centre table lamp *(d4847)*
+
+Map: **`GRID-TAP-WING-N-1` → `Z-LIGHT` sleeve 2 → `WING-N-CEILING-CLEAT-2`** · **`BULB-WING-N-LAMP-2`**
+
+**~4.0 m** paired **0.5 mm** · **`SW-WING-N-LIGHT-2` @ cleat** · **separate branch** · **commission T1–T5 PASS d4847**.
+
+### ✓ **`EC-1-GRID-BRANCH-WING-N-BENCH-1`** — north bench CP-G *(d4848)*
+
+Map: **`GRID-TAP-WING-N-1` → `Z-BENCH` sleeve → `WORK-BENCH-N-1` rear rail** · **`CP-G-SOCKET-WING-N-1`**
+
+**~3.8 m** paired **0.5 mm** · **`SW-WING-N-BENCH-1` @ bench cheek** · **BENCH-class fuse** · **commission T1–T5 PASS d4848**.
+
+| Materials logged d4848 | |
+|---|---|
+| **`O-1-MALACHITE`** | **−~0.38 kg** |
+| **`ST-STR-BUTTON-Y13-3`** | **−~22 g** |
+| **`FUSE-LINK-Y14-1`** | **−×1** |
+| **`FURNITURE-SELECT-1` / `TILE-TF`** | **bench + tray** |
+
+★ **Portable loads via `CP-G-PLUG-PROTOTYPE-Y14-1`** — **remove plug when bench idle** · **no charging without fan R&D** per Annex A.
+
 ### ✓ **`EC-1-GRID-BRANCH-DESK-1`** — craft-wing desk lamp *(d4558)*
 Map: **`GRID-TAP-CRAFT-1` → desk rafter cleat** · **`BULB-FEAST-LAMP-Y14-1`**
 

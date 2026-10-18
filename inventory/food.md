@@ -12,7 +12,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~0.75 kg** | Horreum A main bay | d4584 | d4676 sow |
+| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~0.53 kg** | Horreum A main bay | d4584 | d4841 newton mill |
 | **`EMMER-BULK-Y13`** | Emmer, bulk · Y13 harvest · graded | **~0.19 kg** | Horreum A main bay | d4217 | d4595 |
 | **`BARLEY-BULK-Y14`** | Barley, bulk · Y14 trial · graded | **~0.32 kg** | Horreum A barley bay | d4584 | d4676 sow |
 | **`BARLEY-BULK-Y13`** | Barley, bulk · Y13 trial · graded | **~0.24 kg** | Horreum A barley bay | d4217 | d4595 |
@@ -78,18 +78,31 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
+## Honey
+
+| ID | Item | Qty | Where | Made | Last |
+|---|---|---|---|---|---|
+| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.63 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d4841 newtons |
+
+*Co-harvested with **`WAX-CUT-SURPLUS`** on strong hives — not brood comb. See [apiary-routine.md](../government/procedures/apiary-routine.md).*
+
+**`FIG-NEWTON` standard fill (going forward):** fig paste from fresh + leather as available · **`HONEY-STRAINED-Y13-1` ~3 g / unit** · emmer + oil dough — same bake grammar as **d4841**.
+
 ## Fruit
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FIG-LEATHER-1` | Fig leather, rolled | **~120 g** | Horreum east rack peg | ? | d3591 |
+| `FIG-LEATHER-1` | Fig leather, rolled | **~40 g** tail | Horreum east rack peg | ? | d4841 newton fill |
 | `FIG-LEATHER-TRAY-Y10-1` | Fig leather, tray drying | ~0.65 kg wet | Sun rack / horreum porch | d3368 | d3380 |
 | `FIG-FRESH-Y10-1` | Fig, fresh hold · Bed D first pass | ~1.25 kg | Cool step | d3368 | d3368 |
 | `FIG-FRESH-Y10-2` | Fig, fresh · Bed D second pass | ~0.55 kg | Cool step | d3375 | d3375 |
 | `FIG-FRESH-Y13-1` | Fig fresh · Bed D pick d4098 | **~680 g** | Cool step | d4098 | d4098 |
 | `FIG-LEATHER-Y13-1` | Fig leather tray · sun dry | **~680 g gross wet** | Horreum east rack | d4098 | d4098 |
-| **`FIG-FRESH-Y14-1`** | Fig fresh · Bed D repeat d4469+d4474 | **~1.5 kg** | Cool step | d4469 | d4474 pick |
+| **`FIG-FRESH-Y14-1`** | Fig fresh · Bed D repeat d4469+d4474 | **~0.90 kg** | Cool step | d4469 | d4841 newton day |
 | **`FIG-LEATHER-Y14-1`** | Fig leather tray · sun dry | **~2.15 kg gross wet** | **`W-1` / east rack** | d4469 | d4474 tray |
+| **`FIG-FRESH-Y15-1`** | Fig fresh · Bed D Y15 pass + repeat | **~0.45 kg** | Cool step | d4839 | d4841 repeat |
+| **`FIG-LEATHER-Y15-1`** | Fig leather tray · sun dry | **~0.88 kg gross wet** | Horreum east rack | d4839 | d4841 repeat tray |
+| **`FIG-NEWTON-Y15-1`** | Fig newton · emmer shell · **fig + honey fill** | **×16 · ~420 g net** | **`PORC-PLATE-2` @ cool step** | d4841 | d4841 |
 | `GRAPE-FRESH-Y13-1` | Grape, fresh · P-03 partial strip d4099 | **~520 g** | Cool step | d4099 | d4099 |
 | **`GRAPE-FRESH-Y14-1`** | Grape, fresh · P-03 partial strip d4488 | **~640 g** | Cool step | d4488 | d4488 |
 | `FIG-FRESH-Y12-1` | Fig fresh · Bed D pick d3745 | ×0 spent | — | d3745 | d3872 |

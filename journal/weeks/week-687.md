@@ -1,6 +1,6 @@
 # Week 687
 
-**Status:** **OPEN @ d4807 day 5** · **Cal-Y13 D188 · ~8 Jul Y13**
+**Status:** **CLOSED @ d4809 day 7** · **Cal-Y13 D190 · ~10 Jul Y13**
 
 *Week 686 closed @ d4802.*
 
@@ -8,6 +8,8 @@
 
 | Day | Summary |
 |---|---|
+| **4809** | **✓ `FEEDER-3` LIVE · TF press ×32 green** |
+| **4808** | **✓ N-wing layout plan · `FEEDER-3` pt1 jamb + trunk start** |
 | **4807** | **✓ Farm scare · goat check · plaster cure read** |
 | **4806** | **✓ Gypsum calcine + interior skim** |
 | **4805** | **✓ Window leak test + RH read · gypsum GO** |

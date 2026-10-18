@@ -6,10 +6,55 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4807 · `year-013/`)*
+## Recent days *(append here · @ Day 4852 · `year-014/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4852 | [day-4852.md](days/year-014/week-694/day-4852.md) | **✓ Wing limewash** | **Cal-Y13 D233 · W694 d1** |
+| 4851 | [day-4851.md](days/year-014/week-693/day-4851.md) | **✓ Centre table** | **Cal-Y13 D232 · W693 d7** |
+| 4850 | [day-4850.md](days/year-014/week-693/day-4850.md) | **✓ East cabinet** | **Cal-Y13 D231 · W693 d6** |
+| 4849 | [day-4849.md](days/year-014/week-693/day-4849.md) | **✓ Oak haul · furniture** | **Cal-Y13 D230 · W693 d5** |
+| 4848 | [day-4848.md](days/year-014/week-693/day-4848.md) | **✓ North bench · CP-G** | **Cal-Y13 D229 · W693 d4** |
+| 4847 | [day-4847.md](days/year-014/week-693/day-4847.md) | **✓ Wing lamps LIVE** | **Cal-Y13 D228 · W693 d3** |
+| 4846 | [day-4846.md](days/year-014/week-693/day-4846.md) | **✓ Wing bulbs ×2** | **Cal-Y13 D227 · W693 d2** |
+| 4845 | [day-4845.md](days/year-014/week-693/day-4845.md) | **✓ Wing filament refine** | **Cal-Y13 D226 · W693 d1** |
+| 4844 | [day-4844.md](days/year-014/week-692/day-4844.md) | **✓ Lamp mount ×2** | **Cal-Y13 D225 · W692 d7** |
+| 4843 | [day-4843.md](days/year-014/week-692/day-4843.md) | **✓ Reflector kiln ×2** | **Cal-Y13 D224 · W692 d6** |
+| 4842 | [day-4842.md](days/year-014/week-692/day-4842.md) | **✓ Brass restock** | **Cal-Y13 D223 · W692 d5** |
+| 4841 | [day-4841.md](days/year-014/week-692/day-4841.md) | **✓ Fig repeat · newtons** | **Cal-Y13 D222 · W692 d4** |
+| 4840 | [day-4840.md](days/year-014/week-692/day-4840.md) | **✓ Browse · campus maint** | **Cal-Y13 D221 · W692 d3** |
+| 4839 | [day-4839.md](days/year-014/week-692/day-4839.md) | **✓ Scare · fig Y15** | **Cal-Y13 D220 · W692 d2** |
+| 4838 | [day-4838.md](days/year-014/week-692/day-4838.md) | **✓ Brass wood screws ×22** | **Cal-Y13 D219 · W692 d1** |
+| 4837 | [day-4837.md](days/year-014/week-691/day-4837.md) | **✓ Feast socket 4** | **Cal-Y13 D218 · W691 d7** |
+| 4836 | [day-4836.md](days/year-014/week-691/day-4836.md) | **✓ Brass stock smelt** | **Cal-Y13 D217 · W691 d6** |
+| 4835 | [day-4835.md](days/year-014/week-691/day-4835.md) | **✓ Feast socket 3** | **Cal-Y13 D216 · W691 d5** |
+| 4834 | [day-4834.md](days/year-014/week-691/day-4834.md) | **✓ Reflector 2 green** | **Cal-Y13 D215 · W691 d4** |
+| 4833 | [day-4833.md](days/year-014/week-691/day-4833.md) | **✓ Reflector 1 green** | **Cal-Y13 D214 · W691 d3** |
+| 4832 | [day-4832.md](days/year-014/week-691/day-4832.md) | **✓ Lamp queue · brass pour** | **Cal-Y13 D213 · W691 d2** |
+| 4831 | [day-4831.md](days/year-014/week-691/day-4831.md) | **✓ TF press ×32** | **Cal-Y13 D212 · W691 d1** |
+| 4830 | [day-4830.md](days/year-013/week-690/day-4830.md) | **✓ East kaolin haul** | **Cal-Y13 D211 · W690 d7** |
+| 4829 | [day-4829.md](days/year-013/week-690/day-4829.md) | **✓ N-wing TF lay 3** | **Cal-Y13 D210 · W690 d6** |
+| 4828 | [day-4828.md](days/year-013/week-690/day-4828.md) | **✓ Char + lime** | **Cal-Y13 D209 · W690 d5** |
+| 4827 | [day-4827.md](days/year-013/week-690/day-4827.md) | **✓ N-wing TF lay 2** | **Cal-Y13 D208 · W690 d4** |
+| 4826 | [day-4826.md](days/year-013/week-690/day-4826.md) | **✓ Lime · TF fire `4814`** | **Cal-Y13 D207 · W690 d3** |
+| 4825 | [day-4825.md](days/year-013/week-690/day-4825.md) | **✓ Grape thin Y15 · partial char** | **Cal-Y13 D206 · W690 d2** |
+| 4824 | [day-4824.md](days/year-013/week-690/day-4824.md) | **✓ Thistle · TF fire** | **Cal-Y13 D205 · W690 d1** |
+| 4823 | [day-4823.md](days/year-013/week-689/day-4823.md) | **✓ N-wing floor drain LIVE** | **Cal-Y13 D204 · W689 d7** |
+| 4822 | [day-4822.md](days/year-013/week-689/day-4822.md) | **✓ Sand haul** | **Cal-Y13 D203 · W689 d6** |
+| 4821 | [day-4821.md](days/year-013/week-689/day-4821.md) | **✓ N-wing floor drain pt1** | **Cal-Y13 D202 · W689 d5** |
+| 4820 | [day-4820.md](days/year-013/week-689/day-4820.md) | **✓ Char + lime burn** | **Cal-Y13 D201 · W689 d4** |
+| 4819 | [day-4819.md](days/year-013/week-689/day-4819.md) | **✓ N-wing TF lay 1 · kiln hold** | **Cal-Y13 D200 · W689 d3** |
+| 4818 | [day-4818.md](days/year-013/week-689/day-4818.md) | **✓ TF fire · furniture oak** | **Cal-Y13 D199 · W689 d2** |
+| 4817 | [day-4817.md](days/year-013/week-689/day-4817.md) | **✓ Wood haul** | **Cal-Y13 D198 · W689 d1** |
+| 4816 | [day-4816.md](days/year-013/week-688/day-4816.md) | **✓ Char retort** | **Cal-Y13 D197 · W688 d7** |
+| 4815 | [day-4815.md](days/year-013/week-688/day-4815.md) | **✓ Wood haul** | **Cal-Y13 D196 · W688 d6** |
+| 4814 | [day-4814.md](days/year-013/week-688/day-4814.md) | **✓ TF read · press ×32** | **Cal-Y13 D195 · W688 d5** |
+| 4813 | [day-4813.md](days/year-013/week-688/day-4813.md) | **✓ TF press ×32** | **Cal-Y13 D194 · W688 d4** |
+| 4812 | [day-4812.md](days/year-013/week-688/day-4812.md) | **✓ Kaolin wash · slip fat** | **Cal-Y13 D193 · W688 d3** |
+| 4811 | [day-4811.md](days/year-013/week-688/day-4811.md) | **✓ East kaolin haul** | **Cal-Y13 D192 · W688 d2** |
+| 4810 | [day-4810.md](days/year-013/week-688/day-4810.md) | **✓ Kaolin prep · rosin** | **Cal-Y13 D191 · W688 d1** |
+| 4809 | [day-4809.md](days/year-013/week-687/day-4809.md) | **✓ Feeder-3 LIVE · TF ×32** | **Cal-Y13 D190 · W687 d7** |
+| 4808 | [day-4808.md](days/year-013/week-687/day-4808.md) | **✓ N-wing layout · feeder-3 pt1** | **Cal-Y13 D189 · W687 d6** |
 | 4807 | [day-4807.md](days/year-013/week-687/day-4807.md) | **✓ Scare · goats · cure read** | **Cal-Y13 D188 · W687 d5** |
 | 4806 | [day-4806.md](days/year-013/week-687/day-4806.md) | **✓ N-wing gypsum skim** | **Cal-Y13 D187 · W687 d4** |
 | 4805 | [day-4805.md](days/year-013/week-687/day-4805.md) | **✓ Leak test + RH · BC-2A moist** | **Cal-Y13 D186 · W687 d3** |

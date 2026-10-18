@@ -43,7 +43,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FIG-C1–C4` | Fig cluster | Bed D | — | Perennial · **✓ pass 1 d4098** |
+| `FIG-C1–C4` | Fig cluster | Bed D | — | Perennial · **✓ Y15 pass 1 d4839** · Y13 d4098 |
 | `WOAD-BED-D` | Woad | Bed D | — | Perennial · hands off |
 
 ## Culina margin

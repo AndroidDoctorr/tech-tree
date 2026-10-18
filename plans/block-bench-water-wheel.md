@@ -25,6 +25,8 @@
 
 **Player lean:** wherever wheel + **~3 m × 2 m** pad fits without stealing char lane — **survey before stake**.
 
+★ **Alias:** player **“cinder block forming table + vibrate”** = this plan · **not** the TF tile press · **not** `TILE-FORM-1`. Best fit is usually **WW-2 belt / pit lane** or **[Area Materiarum](area-materiarum-y13.md)** edge once the bulk pad exists.
+
 ## Build phases
 
 1. **Power survey** — RPM · torque at proposed belt · brake for mould change.
