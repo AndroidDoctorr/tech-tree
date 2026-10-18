@@ -84,7 +84,10 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | **Hummus-class dip** | Chickpea mash · oil · garlic · lemon-class vinegar splash | **✓ d3492** · **3–5 d** cool |
 | **Ful-class bowl** | Fava dry · garlic · oil · cumin pinch | **Now** |
 | **Goat wrap** | Sourdough flat · roast/smoke goat · herb · strained clabber | **Now** after slaughter |
+| **Wild boar gyros-class** | Emmer flat · spit-shaved leg · onion · mint · clabber · **`GYROS-SPIT-HEARTH-1`** | **Now** after hunt butcher · smoke bank for later |
 | **Fish tarator-class** | Smoked/fresh flake · pistachio crush · garlic · vinegar | **Now** |
+
+★ **Meat plates — player rhythm:** tune **spice + vegetable mixes per species** (hunt vs named slaughter) each time fresh meat hits the spit or smoke rack; log winners on the day file, not a separate ledger.
 | **Rennet cheese slice** | Aged wheel · oil · herb | **Months** on the wheel |
 | **Bone broth sip** | Long simmer bones · salt · thyme | **Days** · reheat |
 

@@ -63,6 +63,7 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | `PISTACHIO-1` | Pistachio kernels · Y10 + **Y12/Y13 `P-01` shell d3837/d4174** | **~5.95 kg** | Horreum A nut tray | Y10 + Y12 + Y13 | d4174 |
 | **`PISTACHIO-HULL-Y13-1`** | Pistachio hull-on drying · **`P-01` primary Y13** | **✓ spent d4174** | — | d4135 | d4174 |
 | **`PISTACHIO-HULL-Y14-1`** | Pistachio hull-on drying · **`P-01` primary Y14 d4499** | **~4.9 kg** | v1 porch mat | d4499 | d4499 |
+| **`PISTACHIO-HULL-Y15-1`** | Pistachio hull-on drying · **`P-01` primary Y15 d4875** | **~5.4 kg** | v1 porch mat | d4875 | shell ~10–14 d |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | **~0.66 kg** | Nut tray | Y9 | d3591 |
 | `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~575 g | Nut tray | d3423 | d3508 |
 | `ACORN-ROAST-Y10-2` | Acorn roast · **`ACORN-LEACH-Y10-2` batch** | ~610 g | Nut tray | d3465 | d3465 |
@@ -73,8 +74,9 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | **`ACORN-ROAST-Y13-2`** | Acorn roast · **`ACORN-LEACH-Y13-2` batch** | **~600 g** | Nut tray | d4236 | d4236 |
 | **`ACORN-DRY-Y13-1`** | Acorn leached · batch 1 PASS · **✓ roast d4236** | **×0** | — | d4226 | d4236 |
 | **`ACORN-DRY-Y13-2`** | Acorn leached · batch 2 PASS · **✓ roast d4236** | **×0** | — | d4228 | d4236 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~15.45 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y14 batch 2 · lap 2 d4530** | d4530 |
-| **`ACORN-LEACH-Y14-1`** | Acorn leach · batch 1 · **soak 3 LIVE @ ditch W** | **~680 g in sack** | Ditch W flow | d4530 | d4533 watch |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~19.8 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y15 lap 3 d4876** | d4877 shell |
+| **`ACORN-LEACH-Y14-1`** | Acorn leach · Y14 batch 1 · **soak 4 ⧗ @ ditch W** | **~680 g in sack** | Ditch W flow | d4530 | flow PASS |
+| **`ACORN-LEACH-Y15-1`** | Acorn leach · Y15 batch 1 · **soak 1 LIVE @ ditch W** | **~710 g in sack** | Ditch W flow | d4877 | watch |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -101,7 +103,9 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | **`FIG-FRESH-Y14-1`** | Fig fresh · Bed D repeat d4469+d4474 | **~0.90 kg** | Cool step | d4469 | d4841 newton day |
 | **`FIG-LEATHER-Y14-1`** | Fig leather tray · sun dry | **~2.15 kg gross wet** | **`W-1` / east rack** | d4469 | d4474 tray |
 | **`FIG-FRESH-Y15-1`** | Fig fresh · Bed D Y15 pass + repeat | **~0.45 kg** | Cool step | d4839 | d4841 repeat |
+| **`FIG-FRESH-Y15-2`** | Fig fresh · Bed D Y15 band tail | **~0.35 kg** | Cool step | d4875 | d4875 tail |
 | **`FIG-LEATHER-Y15-1`** | Fig leather tray · sun dry | **~0.88 kg gross wet** | Horreum east rack | d4839 | d4841 repeat tray |
+| **`FIG-LEATHER-Y15-2`** | Fig leather tray · tail lap | **~0.12 kg gross wet** | Horreum east rack | d4875 | dry |
 | **`FIG-NEWTON-Y15-1`** | Fig newton · emmer shell · **fig + honey fill** | **×16 · ~420 g net** | **`PORC-PLATE-2` @ cool step** | d4841 | d4841 |
 | `GRAPE-FRESH-Y13-1` | Grape, fresh · P-03 partial strip d4099 | **~520 g** | Cool step | d4099 | d4099 |
 | **`GRAPE-FRESH-Y14-1`** | Grape, fresh · P-03 partial strip d4488 | **~640 g** | Cool step | d4488 | d4488 |
@@ -129,6 +133,15 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | **`DEER-FRESH-Y12-1`** | Red deer · eat-first cuts | **~4.3 kg** | Ice-vault step | d3796 | d3798 |
 | **`DEER-JERKY-Y12-1`** | Red deer jerky · scale-dried batch | **~4.8 kg** | Horreum snack jar | d3798 | d3798 |
 | **`DEER-SMOKE-Y12-1`** | Red deer · cold-smoke Y12 | **~14.8 kg** | Horreum A smoke shelf | d3797 | d3798 |
+| **`BOAR-CARCASS-Y15-1`** | Wild boar · field-dressed whole | **×0** | d4911 | d4912 butcher |
+| **`BOAR-ORGANS-Y15-1`** | Heart · liver · trim | **~0.4 kg** stew tail | d4911 | d4912 |
+| **`BOAR-FRESH-Y15-1`** | Wild boar · eat-first cuts | **~0.35 kg** tail | Ice-vault step | d4912 | d4913 spit |
+| **`BOAR-FAT-WET-Y15-1`** | Trim fat · pre-render | **×0** | d4911 | d4912 render |
+| **`BOAR-TALLOW-Y15-1`** | Wild boar tallow · rendered | **~1.82 kg** | Horreum cool step jar | d4912 | d4913 trace |
+| **`BOAR-PRIMAL-SMOKE-Y15-1`** | Primals · salted · wet smoke queue | **×0** | d4912 | d4913 smoke |
+| **`BOAR-JERKY-WET-Y15-1`** | Jerky strips · porch line | **×0** | d4912 | d4913 dry |
+| **`BOAR-JERKY-Y15-1`** | Wild boar jerky | **~4.7 kg** | Horreum snack jar | d4913 | d4913 |
+| **`BOAR-SMOKE-Y15-1`** | Wild boar · cold-smoke | **~7.6 kg** | Horreum A smoke shelf | d4913 | d4913 |
 
 ★ `DEER-SMOKE-Y10-1` is the largest single food row on the campus and the reason Y10 protein is not a worry.
 
@@ -202,9 +215,11 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.24 L** | Horreum | Y7 | d4609 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
+| **`GRAIN-FERMENT-Y15-1`** | Grain mash ferment · **`GRAIN-WILD-FOOD-Y15-1` · wild lap** · **`BARREL-5`** | **✓ spent d4905 · `GRAIN-DISTILL-Y15-1` CLOSED** | d4779 | d4905 |
 | **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **✓ spent d4625 · `GRAIN-DISTILL-Y14-1` CLOSED** | d4595 | d4625 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
+| **`SPIRIT-GRAIN-Y15-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-1`** | **~1.55 L @ spirit peg** | Chem spirit peg | d4905 | d4907 dehyd |
 | **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y14-1`** | **~2.19 L @ spirit peg** | Chem spirit peg | d4625 | d4686 dehyd |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 

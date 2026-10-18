@@ -6,10 +6,72 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4852 · `year-014/`)*
+## Recent days *(append here · @ Day 4914 · `year-014/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4914 | [day-4914.md](days/year-014/week-702/day-4914.md) | **✓ Sand haul · W702 close** | **Cal-Y13 D295 · W702 d7** |
+| 4913 | [day-4913.md](days/year-014/week-702/day-4913.md) | **✓ Smoke/jerky · gyros spit** | **Cal-Y13 D294 · W702 d6** |
+| 4912 | [day-4912.md](days/year-014/week-702/day-4912.md) | **✓ Boar butcher** | **Cal-Y13 D293 · W702 d5** |
+| 4911 | [day-4911.md](days/year-014/week-702/day-4911.md) | **✓ Boar hunt · Sentanár** | **Cal-Y13 D292 · W702 d4** |
+| 4910 | [day-4910.md](days/year-014/week-702/day-4910.md) | **✓ Farm scare · nitre batch 2** | **Cal-Y13 D291 · W702 d3** |
+| 4909 | [day-4909.md](days/year-014/week-702/day-4909.md) | **✓ Char retort** | **Cal-Y13 D290 · W702 d2** |
+| 4908 | [day-4908.md](days/year-014/week-702/day-4908.md) | **✓ Wood haul T-1** | **Cal-Y13 D289 · W702 d1** |
+| 4907 | [day-4907.md](days/year-014/week-701/day-4907.md) | **✓ Nitre boil · dehyd course** | **Cal-Y13 D288 · W701 d7** |
+| 4906 | [day-4906.md](days/year-014/week-701/day-4906.md) | **✓ Nitre leach + calcine** | **Cal-Y13 D287 · W701 d6** |
+| 4905 | [day-4905.md](days/year-014/week-701/day-4905.md) | **✓ Grain distill Y15** | **Cal-Y13 D286 · W701 d5** |
+| 4904 | [day-4904.md](days/year-014/week-701/day-4904.md) | **✓ Norima tune** | **Cal-Y13 D285 · W701 d4** |
+| 4903 | [day-4903.md](days/year-014/week-701/day-4903.md) | **✓ Nitre turn · farm scare** | **Cal-Y13 D284 · W701 d3** |
+| 4902 | [day-4902.md](days/year-014/week-701/day-4902.md) | **✓ Sand haul** | **Cal-Y13 D283 · W701 d2** |
+| 4901 | [day-4901.md](days/year-014/week-701/day-4901.md) | **✓ U-wall course 1** | **Cal-Y13 D282 · W701 d1** |
+| 4900 | [day-4900.md](days/year-014/week-700/day-4900.md) | **✓ Block stage ×36** | **Cal-Y13 D281 · W700 d7** |
+| 4899 | [day-4899.md](days/year-014/week-700/day-4899.md) | **✓ Lime haul · pile 7** | **Cal-Y13 D280 · W700 d6** |
+| 4898 | [day-4898.md](days/year-014/week-700/day-4898.md) | **✓ Sand haul · yard gear** | **Cal-Y13 D279 · W700 d5** |
+| 4897 | [day-4897.md](days/year-014/week-700/day-4897.md) | **✓ Char retort** | **Cal-Y13 D278 · W700 d4** |
+| 4896 | [day-4896.md](days/year-014/week-700/day-4896.md) | **✓ Materiarum stock lap 1** | **Cal-Y13 D277 · W700 d3** |
+| 4895 | [day-4895.md](days/year-014/week-700/day-4895.md) | **✓ Wheelbarrow-2 LIVE · load test** | **Cal-Y13 D276 · W700 d2** |
+| 4894 | [day-4894.md](days/year-014/week-700/day-4894.md) | **✓ Barrow tyre strap LIVE** | **Cal-Y13 D275 · W700 d1** |
+| 4893 | [day-4893.md](days/year-014/week-699/day-4893.md) | **✓ Barrow wheel d2 · rim close** | **Cal-Y13 D274 · W699 d7** |
+| 4892 | [day-4892.md](days/year-014/week-699/day-4892.md) | **✓ Wheelbarrow-2 wheel d1** | **Cal-Y13 D273 · W699 d6** |
+| 4891 | [day-4891.md](days/year-014/week-699/day-4891.md) | **✓ Materiarum phase 1 close** | **Cal-Y13 D272 · W699 d5** |
+| 4890 | [day-4890.md](days/year-014/week-699/day-4890.md) | **✓ Bay wall course 1 ×16** | **Cal-Y13 D271 · W699 d4** |
+| 4889 | [day-4889.md](days/year-014/week-699/day-4889.md) | **✓ Barrow frame · pad GREEN read** | **Cal-Y13 D270 · W699 d3** |
+| 4888 | [day-4888.md](days/year-014/week-699/day-4888.md) | **✓ Wheelbarrow-2 frame start** | **Cal-Y13 D269 · W699 d2** |
+| 4887 | [day-4887.md](days/year-014/week-699/day-4887.md) | **✓ Bulk shovel haft · assembly** | **Cal-Y13 D268 · W699 d1** |
+| 4886 | [day-4886.md](days/year-014/week-698/day-4886.md) | **✓ Bulk shovel head forge** | **Cal-Y13 D267 · W698 d7** |
+| 4885 | [day-4885.md](days/year-014/week-698/day-4885.md) | **✓ Char retort + bloom same day** | **Cal-Y13 D266 · W698 d6** |
+| 4884 | [day-4884.md](days/year-014/week-698/day-4884.md) | **✓ Bloom · `SHOVEL-BULK-1` stock** | **Cal-Y13 D265 · W698 d5** |
+| 4883 | [day-4883.md](days/year-014/week-698/day-4883.md) | **✓ Block lift ×16 @ materiarum** | **Cal-Y13 D264 · W698 d4** |
+| 4882 | [day-4882.md](days/year-014/week-698/day-4882.md) | **✓ Materiarum wear east · slab LIVE** | **Cal-Y13 D263 · W698 d3** |
+| 4881 | [day-4881.md](days/year-014/week-698/day-4881.md) | **✓ Lime slake · wear slab west** | **Cal-Y13 D262 · W698 d2** |
+| 4880 | [day-4880.md](days/year-014/week-698/day-4880.md) | **✓ Materiarum drain · gravel bed** | **Cal-Y13 D261 · W698 d1** |
+| 4879 | [day-4879.md](days/year-014/week-697/day-4879.md) | **✓ Materiarum subgrade · blind drain d1** | **Cal-Y13 D260 · W697 d7** |
+| 4878 | [day-4878.md](days/year-014/week-697/day-4878.md) | **✓ Materiarum pad stake · subgrade d1** | **Cal-Y13 D259 · W697 d6** |
+| 4877 | [day-4877.md](days/year-014/week-697/day-4877.md) | **✓ Acorn shell · leach soak 1** | **Cal-Y13 D258 · W697 d5** |
+| 4876 | [day-4876.md](days/year-014/week-697/day-4876.md) | **✓ Acorn gather lap 3** | **Cal-Y13 D257 · W697 d4** |
+| 4875 | [day-4875.md](days/year-014/week-697/day-4875.md) | **✓ Fig tail · pistachio pick** | **Cal-Y13 D256 · W697 d3** |
+| 4874 | [day-4874.md](days/year-014/week-697/day-4874.md) | **✓ Wing spill audit · lab stool** | **Cal-Y13 D255 · W697 d2** |
+| 4873 | [day-4873.md](days/year-014/week-697/day-4873.md) | **✓ North curtains rod + hang** | **Cal-Y13 D254 · W697 d1** |
+| 4872 | [day-4872.md](days/year-014/week-696/day-4872.md) | **✓ Curtain brass rings + brackets** | **Cal-Y13 D253 · W696 d7** |
+| 4871 | [day-4871.md](days/year-014/week-696/day-4871.md) | **✓ Brass smelt for curtain hardware** | **Cal-Y13 D252 · W696 d6** |
+| 4870 | [day-4870.md](days/year-014/week-696/day-4870.md) | **✓ Curtains Prussian dye ×2** | **Cal-Y13 D251 · W696 d5** |
+| 4869 | [day-4869.md](days/year-014/week-696/day-4869.md) | **✓ North curtain E-1 weave** | **Cal-Y13 D250 · W696 d4** |
+| 4868 | [day-4868.md](days/year-014/week-696/day-4868.md) | **✓ North curtain W-1 weave** | **Cal-Y13 D249 · W696 d3** |
+| 4867 | [day-4867.md](days/year-014/week-696/day-4867.md) | **✓ Post-haul · curtain slate** | **Cal-Y13 D248 · W696 d2** |
+| 4866 | [day-4866.md](days/year-014/week-696/day-4866.md) | **✓ Koruhöyük pozz return + unload** | **Cal-Y13 D247 · W696 d1** |
+| 4865 | [day-4865.md](days/year-014/week-695/day-4865.md) | **✓ Koruhöyük face pick d2** | **Cal-Y13 D246 · W695 d7** |
+| 4864 | [day-4864.md](days/year-014/week-695/day-4864.md) | **✓ Koruhöyük march d1** | **Cal-Y13 D245 · W695 d6** |
+| 4863 | [day-4863.md](days/year-014/week-695/day-4863.md) | **✓ Q read + pozz trip prep** | **Cal-Y13 D244 · W695 d5** |
+| 4862 | [day-4862.md](days/year-014/week-695/day-4862.md) | **✓ North curtain gate + measure** | **Cal-Y13 D243 · W695 d4** |
+| 4861 | [day-4861.md](days/year-014/week-695/day-4861.md) | **✓ CP-G portable @ wing bench** | **Cal-Y13 D242 · W695 d3** |
+| 4860 | [day-4860.md](days/year-014/week-695/day-4860.md) | **✓ Wing exhaust + motor branch** | **Cal-Y13 D241 · W695 d2** |
+| 4859 | [day-4859.md](days/year-014/week-695/day-4859.md) | **✓ North wing move-in** | **Cal-Y13 D240 · W695 d1** |
+| 4858 | [day-4858.md](days/year-014/week-694/day-4858.md) | **✓ Brass wood screws** | **Cal-Y13 D239 · W694 d7** |
+| 4857 | [day-4857.md](days/year-014/week-694/day-4857.md) | **✓ Nail forge batch** | **Cal-Y13 D238 · W694 d6** |
+| 4856 | [day-4856.md](days/year-014/week-694/day-4856.md) | **✓ Char + furniture select** | **Cal-Y13 D237 · W694 d5** |
+| 4855 | [day-4855.md](days/year-014/week-694/day-4855.md) | **✓ Char + TF fire** | **Cal-Y13 D236 · W694 d4** |
+| 4854 | [day-4854.md](days/year-014/week-694/day-4854.md) | **✓ Wood haul** | **Cal-Y13 D235 · W694 d3** |
+| 4853 | [day-4853.md](days/year-014/week-694/day-4853.md) | **✓ Bench backsplash** | **Cal-Y13 D234 · W694 d2** |
 | 4852 | [day-4852.md](days/year-014/week-694/day-4852.md) | **✓ Wing limewash** | **Cal-Y13 D233 · W694 d1** |
 | 4851 | [day-4851.md](days/year-014/week-693/day-4851.md) | **✓ Centre table** | **Cal-Y13 D232 · W693 d7** |
 | 4850 | [day-4850.md](days/year-014/week-693/day-4850.md) | **✓ East cabinet** | **Cal-Y13 D231 · W693 d6** |

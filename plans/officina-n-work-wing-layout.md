@@ -25,7 +25,7 @@
 | Surface | Tiles (30 cm class) | Notes |
 |---|---|---|
 | **Floor** | **~×115–125** | Turris used **×108** on **25 m²** — same pitch |
-| **Bench splash ledge** *(optional)* | **~×12–18** | **600 mm deep strip** behind north bench only — not full countertop tile |
+| **Bench splash ledge** *(optional)* | **✓ d4853 · ×16 · 2 rows @ north wall** | Tied to tray drip |
 | **Work surfaces** | **See § Surfaces below** | Acid/electrolyte zones ≠ general writing bench |
 
 **Stock @ d4818:** **×94 fired** + **×64 green** *(bands 2–3 drying)* · band **`4809` fired ×31** · **no more press** until greens fire + kaolin lap.
@@ -71,7 +71,7 @@ Precedent: **Turris `HUB-S-OIL-GRATE-1`** *(fall + grate, not a pipe maze)*. **C
 | **Centre table** | **Oak OK** · **no charging · no open acid** — meters/notebook only | Replaceable wood is fine **outside** the spill discipline |
 | **Full tile counters** | **Optional** on north bench only · **not required on every bench** | Grout needs sealing/maintenance · **tile floor + tray/slab** covers most battery risk |
 | **Fire** | **No open hearth · no brazier** *(BC-2A)* · **solder/ alcohol outside or future fume path** | Biggest fire win is **policy + separation**, not more tile |
-| **Lead-acid / H₂** | **Charging only @ north bench** · **⚑ exhaust fan on `Z-MOTOR`** · **no flame in wing** | Annex gap until **fan commissioned** — treat as **must-have before heavy charging** |
+| **Lead-acid / H₂** | **Charging only @ north bench** · **`WING-N-EXHAUST-1` on `Z-MOTOR` ✓ d4860** · **no flame in wing** | **Motor ON before heavy charge** |
 
 **Adequate for electronics?** **Shell + gypsum + TF floor + feeder + earth + two lamps = right skeleton.** To be **campus-best clean/safe/bright**, still queue: **lamp branches LIVE** · **porcelain reflectors + brightest practical filaments** · **closed acid cabinet** · **spill kit** (neutralizer · rags · segregated waste) · **bench tray/slab** · **door curtain** · **optional slop sink** *(BC-3 tile splash — defer but plan sleeve)*.
 
@@ -136,8 +136,8 @@ Precedent: **Turris `HUB-S-OIL-GRATE-1`** *(fall + grate, not a pipe maze)*. **C
 |---|---|---|---|---|
 | **LIGHT-N** | **`SW-WING-N-LIGHT-1`** | **LAMP-H** | **~1.15 I** | **`BULB-WING-N-LAMP-1`** |
 | **LIGHT-S** | **`SW-WING-N-LIGHT-2`** | **LAMP-H** | **~1.15 I** | **`BULB-WING-N-LAMP-2`** |
-| **BENCH** | **`SW-WING-N-BENCH-1`** | **BENCH** | **~0.35 I socket · lugs TBD** | **CP-G portable · cell clips · stirrer class** |
-| **MOTOR** | **`SW-WING-N-MOTOR-1`** | **named @ fan** | **defer** | **Z-MOTOR tube · future exhaust** |
+| **BENCH** | **`SW-WING-N-BENCH-1`** | **BENCH** | **~0.35 I socket · lugs ✓** | **`CP-G-WING-N-PORTABLE-1` ✓ d4861** |
+| **MOTOR** | **`SW-WING-N-MOTOR-1`** | **motor-class** | **~0.22 I** | **`MOTOR-2` · `WING-N-EXHAUST-1` ✓ d4860** |
 
 **Headroom:** sum simultaneous **GB·I ≤ ~70%** of gen peak at tap — **two LAMP-H + one BENCH** is the design ceiling on one trunk until **Q spring read** confirms E.
 

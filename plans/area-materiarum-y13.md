@@ -15,7 +15,7 @@
 | **Path** | **Paved strip** connecting **open mouths** · wheelbarrow turning radius |
 | **Drain** | **Cross-fall to path gutter** · **no closed sumps** |
 
-**Site TBD:** likely **Fabrica / kiln B margin** or **pile 4 north** — needs **flat · dry · cart access** · not in char retort splash.
+**Site:** **Pile 4 north band · kiln B margin** — **staked `MATERIARUM-1` d4878** · cart crown · not in char retort splash.
 
 ---
 

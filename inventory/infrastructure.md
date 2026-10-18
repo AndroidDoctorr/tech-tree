@@ -20,7 +20,7 @@ Prose. Capacity, quirks, what breaks, what it feeds.
 ### `NITRE-BED-1` — nitre bed
 Map: north lee · Interval: turn ~every 3 weeks
 
-Clay pan and sump, oak crib, shake lean-to. Turn 1 done d3213 — damp right, ammonia weak, cold-limited. Next turn ~d3231.
+Clay pan and sump, oak crib, shake lean-to. **✓ Y15 leach + boil d4906–4907** — **~145 g crystal class** · bed recharged loose · tail strip optional in-band until 31 Oct. **Next turn ~d4924**
 
 A slow biological process; a neglected bed does not catch up, it loses the year. Damp, never wet, never trodden. Weakening ammonia is the good sign, and no bloom in cold weather is expected rather than a failure. Turning is `NITRE-TURN` in [periodic.md](../checklists/periodic.md); the autumn conversion is `NITRE-BOIL` in [processing.md](../government/procedures/processing.md).
 
@@ -274,7 +274,7 @@ Map: **`WW-2` wheelhouse tee → campus path → north door east jamb** · Built
 |---|---|---|
 | **Gen ON** | **~8.5 GB** | **~7.1 GB** |
 | **Run R** | — | **~2.7 R · ~48 m paired 0.9 mm** |
-| **Branches** | — | **✓ `LIGHT-1/2` d4847 · **BENCH d4848** · motor — defer** |
+| **Branches** | — | **✓ `LIGHT-1/2` d4847 · BENCH d4848 · MOTOR d4860** |
 
 ★ **Default: `SW-WING-N-FEEDER-1` OPEN when wing idle.** Layout: [officina-n-work-wing-layout.md](../plans/officina-n-work-wing-layout.md).
 
@@ -304,7 +304,30 @@ Map: **`GRID-TAP-WING-N-1` → `Z-LIGHT` sleeve 2 → `WING-N-CEILING-CLEAT-2`**
 
 Map: **`GRID-TAP-WING-N-1` → `Z-BENCH` sleeve → `WORK-BENCH-N-1` rear rail** · **`CP-G-SOCKET-WING-N-1`**
 
-**~3.8 m** paired **0.5 mm** · **`SW-WING-N-BENCH-1` @ bench cheek** · **BENCH-class fuse** · **commission T1–T5 PASS d4848**.
+**~3.8 m** paired **0.5 mm** · **`SW-WING-N-BENCH-1` @ bench cheek** · **BENCH-class fuse** · **commission T1–T5 PASS d4848** · **second machine-lug pair d4859**.
+
+### ✓ **`WING-N-MOVE-IN-CY13-4859`** — shelf · curtain · cabinet · spill peg *(d4859)*
+
+West shelf · hub curtain · south boot mat · **`WING-N-SPILL-PEG-1` + waste crocks ×2** · **`WING-N-LAB-STOOL-1`** · **`WING-N-CABINET-1` loaded** · RH read **~57 %** · exhaust **✓ d4860**.
+
+### `MATERIARUM-PAD-1` *(pile 4 north · kiln B margin)*
+
+**Staked d4878** · **~10×3 m ghost · ×4 bays** · subgrade **✓ d4879** · **`MATERIARUM-BLIND-DRAIN-1` ✓ d4880** · **~35 mm gravel bed ✓ d4880** · **pozz wear slab ✓ d4882** · **✓ `MATERIARUM-PHASE1` d4891** — **×3 separators course 1** · **✓ back + outer sides course 1 d4901** *(×60 wythe · south mouths open)* · **course 2 gate: bay fill nears lip / spill over wythe** · ⚑ **`BLOCK-PAD-1`** small pour pad for block stack · **`SHOVEL-BULK-1` ✓** · **`WHEELBARROW-2` ✓ d4895** @ pile 4 north peg · **`MATERIARUM-STOCK-1` d4896** — bay 1 pozz · bay 2–3 gravel · bay 4 clay + **~41 kg sand** · apron gravel **~12 kg**.
+
+### ✓ **`EC-1-GRID-BRANCH-WING-N-MOTOR-1`** — north exhaust fan *(d4860)*
+
+Map: **`GRID-TAP-WING-N-1` → `Z-MOTOR` sleeve → `WING-N-EXHAUST-1` / `MOTOR-2`**
+
+**~4.1 m** paired **0.5 mm** · **`SW-WING-N-MOTOR-1` @ east jamb** · motor-class fuse **~0.22 I** · **commission T1–T5 PASS d4860** · **exhaust ON before lead-acid charge @ north bench**.
+
+### ✓ **`WING-N-EXHAUST-1`** — north work wing exhaust *(d4860)*
+
+**`TILE-TF` duct ~1.6 m** · north cheek vent · **`MOTOR-2` direct-drive prop** · **`SW-WING-N-MOTOR-1`**.
+
+### `MOTOR-2` — wing exhaust motor *(LIVE)*
+Map: **`WING-N-EXHAUST-1`** · **`EC-1-GRID-BRANCH-WING-N-MOTOR-1`** · Opened: **d4860**
+
+**Fan-duty PM motor** · field from **`MAG-STEEL-Y13-ROD-3`** · brushes from **`ST-SPR-BUTTON-Y13-4`** · **second grid-fed motor on campus** · **`MOTOR-1` remains @ chem porch**.
 
 | Materials logged d4848 | |
 |---|---|
@@ -313,7 +336,7 @@ Map: **`GRID-TAP-WING-N-1` → `Z-BENCH` sleeve → `WORK-BENCH-N-1` rear rail**
 | **`FUSE-LINK-Y14-1`** | **−×1** |
 | **`FURNITURE-SELECT-1` / `TILE-TF`** | **bench + tray** |
 
-★ **Portable loads via `CP-G-PLUG-PROTOTYPE-Y14-1`** — **remove plug when bench idle** · **no charging without fan R&D** per Annex A.
+★ **Portable loads via `CP-G-WING-N-PORTABLE-1`** (`CP-G-PLUG-PROTOTYPE-Y14-1` @ bench hook) — **remove plug when wing idle** · **`WING-N-EXHAUST-1` ON before bench energize** · lead-acid @ north bench only with exhaust running.
 
 ### ✓ **`EC-1-GRID-BRANCH-DESK-1`** — craft-wing desk lamp *(d4558)*
 Map: **`GRID-TAP-CRAFT-1` → desk rafter cleat** · **`BULB-FEAST-LAMP-Y14-1`**
@@ -726,6 +749,11 @@ Map: officina west cheek · Built: d2407
 Map: culina S prep · Built: d2408
 
 ~1000 × 550 × 860 mm. Wipe-down top.
+
+### `GYROS-SPIT-HEARTH-1` — hearth rotisserie *(gyros-class)*
+Map: culina south hearth · Built: d4913
+
+Oak fork uprights · **`REBAR-STD-Y13-1` class spit rod** · drip tray · hand quarter-turn · counterweight string. **Not** a vertical shop spit — honest **leg roast + shave** for emmer flat wraps per [food-menu.md](../government/procedures/food-menu.md).
 
 ## Field and apiary
 

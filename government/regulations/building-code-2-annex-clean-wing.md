@@ -57,7 +57,7 @@ BC-2 still says **route, not wire**. This annex names **what the north wing must
 |---|---|
 | **Feeder** | **`EC-1-GRID-FEEDER-3`** from existing campus trunk · **`EC-1-TAP-BOX-STD`** @ east jamb · map entry before close-in |
 | **Earth** | **Rod @ panel niche** · tail accessible · **bond to strap casement** where EC-1 requires |
-| **Zones** *(conduit only)* | **Z-LIGHT** · **Z-BENCH** (cells, meters) · **Z-MOTOR** (fan, future) — **separate clay tubes** · water sleeves **below** |
+| **Zones** *(conduit only)* | **Z-LIGHT** · **Z-BENCH** (cells, meters) · **Z-MOTOR** (exhaust fan ✓ d4860) — **separate clay tubes** · water sleeves **below** |
 | **Draw-cord** | **Every empty tube** · tagged at box |
 | **Load ledger** | One line per zone on [ec-1-campus-expansion.md](../../plans/ec-1-campus-expansion.md) when feeder lands — **amps are EC-1, routes are BC-2A** |
 | **Combustion** | **No open hearth in Tier 1 clean wing** · **solder/alcohol outside or in fume path** · if a brazier is ever added, **BC-2 combustion-air** applies in full |

@@ -69,7 +69,7 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 
 **Scare-only on new rows** until harvest heroes. Hemp **fibre @ A north** + **`HEMP-FLOWER-Y15` ~4 m² @ A NW** sown d4676 · **`BARLEY-TRIAL-Y15` expanded @ B east**.
 
-⚑ **`HEMP-CUT` band Aug** · **`GRAIN-FERMENT-Y15-1`** bung on farm pass · **G-04 wean scorecard** when named.
+⚑ **`HEMP-CUT` band Aug** · ferment bung closed d4905.
 
 ---
 
@@ -80,7 +80,7 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 | **`SALT-EVAP`** | **Cycle 2 ✓ d4578 · optional pour #3 · band tail** |
 | **`ACORN-GATHER` batch 2** | **✓ lap 2 d4530 · leach batch 1 ⧗** |
 | **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** |
-| **G-04 wean scorecard** | **⚑ keep / cull / wether queue** |
+| **G-04** | **✓ KEEP weaned** *(Y14 · goats.md)* |
 | **`GRAPE-PRUNE` spur** | **✓ Y14 d4591 · Feb touch optional** |
 | **`FIG-PICK` repeat** | **Band closed · stubble year** |
 

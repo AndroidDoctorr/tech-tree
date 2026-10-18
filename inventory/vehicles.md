@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 15 · fatigue 11** *(effective ~19)* · Last out: **d4549 gravel haul** · Last overhaul: **d4617** · Last tune: **d4546**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 10 · fatigue 11** *(effective ~14)* · Last out: **d4549 gravel haul** · Last overhaul: **d4617** · Last tune: **d4904**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 

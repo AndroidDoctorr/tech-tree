@@ -68,6 +68,8 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | **`IRON-SPADE-1`** | Wide scoop spade · **~178 g** head · rolled lip · **~1.15 m** ash haft · forged d604 | M2 peg rail · gorge kit | **edge GREEN · haft wedged · svc d4533 sprint** |
 | **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · svc d4533 sprint** |
 | **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · svc d4533 sprint** |
+| **`SHOVEL-BULK-1`** | Bulk yard shovel · **~312 g** head · **~1.0 m** ash D-haft · strap shoe | Pile 4 north peg | **✓ LIVE d4887 · edge GREEN** |
+| **`WHEELBARROW-2`** | Materiarum yard barrow · **~60–80 L** box · wide wheel + iron tyre · wobble **~3.5 mm** class | Pile 4 north peg | **✓ LIVE d4895 · `WB-LOAD-2` PASS** |
 | **`W-SHOVEL-2`** | Wood shovel · backup · iron shoe class | Sand haul kit | **GREEN hold · svc d4533 audit** |
 | **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
 | `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
@@ -170,7 +172,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1` desk** | Craft-wing desk | d4558 |
 | **`BULB-LAMP-POC-Y14-2`** | Sealed lamp · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d4571 |
 | **`EC-1-TAP-BOX-JIG-Y14-1`** | Tap-box drill/jig · post spacing · fuse bore · **CP-G shutter slide** | Craft wing bench peg | d4561 |
-| **`CP-G-PLUG-PROTOTYPE-Y14-1`** | Fused **CP-G** movable plug · **earth-long · keyed flats · link fuse ~0.5 I** · **~1.4 m cord stub** | **`REF-SHELF-CRAFT-1`** | d4564 mate PASS |
+| **`CP-G-PLUG-PROTOTYPE-Y14-1`** | Fused **CP-G** movable plug · **earth-long · keyed flats · link fuse ~0.5 I** · **~2.4 m cord** | **`WORK-BENCH-N-1` hook** · kit **`CP-G-WING-N-PORTABLE-1`** | d4861 wing station |
+| **`CP-G-WING-N-PORTABLE-1`** | Wing portable kit · plug + clip caddy · **exhaust ON before bench load** | **`WORK-BENCH-N-1`** | d4861 LIVE |
 | **`EC-1-TAP-BOX-STD-1`** | Tap box #1 · **LAMP-H / BENCH** · CP-G shutter · machine lugs | **Domus porticus @ culina entry** · **`GRID-TAP-DOMUS-1`** | d4563 LIVE |
 | **`EC-1-TAP-BOX-STD-2`** | Tap box #2 · same grammar | **Officina south bay** · **`GRID-TAP-CRAFT-2`** | d4563 LIVE |
 | **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · **`BULB-FEAST-SOCKET-Y14-2` + `BULB-LAMP-POC-Y14-2`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d4572 commissioned |
@@ -178,8 +181,11 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`EC-1-TAP-BOX-STD-3`** | Tap box #3 · **LAMP-H ×2 / BENCH / motor defer** · **`GRID-TAP-WING-N-1`** | **Officina north door east jamb** | d4808 LIVE |
 | **`BULB-WING-N-LAMP-1`** | Wing north ceiling · **`BULB-FEAST-SOCKET-Y14-3` + reflector + `BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
 | **`BULB-WING-N-LAMP-2`** | Wing south/center · **socket 4 + reflector 2 + bulb B** · **`SW-WING-N-LIGHT-2`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
-| **`WORK-BENCH-N-1`** | North cell bench · **~2.1 m × ~0.65 m** · **tile inset tray** · oak cheeks **limewash d4852** · earth bonded | **North work wing** | d4848 LIVE |
-| **`WING-N-CABINET-1`** | Closed east cheek cabinet · acid/glass shelves · **int limewash d4852** | **North work wing** | d4850 LIVE |
+| **`WORK-BENCH-N-1`** | North cell bench · **tile tray + ×16 TF backsplash (2 rows)** · limewash oak · earth bonded | **North work wing** | d4848 · splash d4853 |
+| **`WING-N-CABINET-1`** | Closed east cheek cabinet · acid/glass upper · porch overflow loaded | **North work wing** | d4859 loaded |
+| **`WING-N-WEST-SHELF-1`** | Oak bracket shelf · light tools under W window | North work wing west wall | d4859 LIVE |
+| **`WING-N-SPILL-PEG-1`** | Berm · sand · neutralize · linen reserve · **`WING-N-WASTE-CROCK-SET-1` ×2** · drill PASS | Bench east cheek | d4874 audit |
+| **`WING-N-LAB-STOOL-1`** | Oak lab stool · **~760 mm** seat @ centre table | North work wing | d4874 LIVE |
 | **`WORK-TABLE-N-1`** | Centre table · **~900×600×~760 mm** · **top bare oak** · base limewash d4852 | **North work wing** | d4851 LIVE |
 | **`CP-G-SOCKET-WING-N-1`** | Shutter receptacle · **`EC-1-GRID-BRANCH-WING-N-BENCH-1`** · max **~0.35 I** | **`WORK-BENCH-N-1` rear rail** | d4848 LIVE |
 | **`BULB-CU-FEATHER-JIG-Y14-1`** | Oak v-block + brass shim · Cu feather seat @ marver | Chem porch marver peg | d4472 |

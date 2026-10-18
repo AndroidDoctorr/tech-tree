@@ -8,14 +8,34 @@
 
 | | |
 |---|---|
-| **Target** | **2–3 milk does** · **1 billie** · small closed herd |
+| **Target** | **2 milk does** steady state · **1 billie** · small closed herd |
 | **Keep** | Healthiest · best-adjusted · most productive — **these maintain the line** |
 | **Slaughter default** | **Males** · **older animals** · **less healthy / less productive** |
-| **2nd doe** | **✓ DECISION LOCKED d4231** — **keep · capture when pen + spring band allow** *(not traded in — wild or exped import)* |
-| **Genetics** | **Import new blood occasionally** — exped / gorge **A-03** class · apiary **`BAIT-BOX` parallel** |
+| **G-04** | **✓ KEEP weaned** — homebred **2nd milk doe** *(Y14 · d4908)* |
+| **G-05** | **Wild capture / import slot** when pen + band allow |
+| **Outcross** | **Bring in foreign genetics when inbreeding flags** — **M or F** · quarantine · new ID |
 | **Humane kill** | **Quick · painless** — captive-bolt class or **`MUSKET-1` @ contact** in **`HOLDING-1`** · **not field hunt grammar** · kit staged |
 | **Names** | **None** — IDs only · the hard part is emotional, not mechanical |
 | **Log** | **This file** — update on birth · breeding · capture · slaughter · cull |
+
+### Head-count policy *(player · locked d4910)*
+
+Count **breeding-age females** and **intact males** for limits. **Wethers** count toward pen load and browse but **not** toward the **one-billie** cap.
+
+| Females | Read |
+|---|---|
+| **1** | **Red** — or **OK only in deliberate build-up** |
+| **2** | **OK** — **target steady state** |
+| **3** | **Amber** — unless **one is very old or very young** (or **both** edge-age) |
+| **4** | **Red** — **consider culling** |
+| **5+** | **Right out** |
+
+| Males (intact) | Read |
+|---|---|
+| **1** | **OK** — **west tie · rut grammar** |
+| **2** | **Amber at best** — only with **adequate separation** (never shared rut pen overnight) |
+
+**Live @ d4910:** **2♀ · 1♂ billie · 1 wether** — **females OK** · **one intact male OK**.
 
 > ★ **Inbreeding:** kid on dam is fine once; **repeated close line-breeding needs an outcross.** Watch **`INBREEDING-METER`** grammar from apiary — flag before second-generation sibling matings.
 
@@ -25,13 +45,13 @@
 
 | ID | Sex | Role | Born | On campus | Dam | Sire | Status |
 |---|---|---|---|---|---|---|---|
-| **G-01** | F | Milk doe #1 | wild · pre-Y5 | **✓** | — | — | **Lactating · kid #4 on creep** |
+| **G-01** | F | Milk doe #1 | wild · pre-Y5 | **✓** | — | — | **Lactating** |
 | **G-02** | M | Billie | wild · A-03 class | **✓** | — | — | **West tie · sole intact buck** |
 | **G-03** | M | Wether | **d3191** | **✓** | **G-01** | **G-02** | **✓ castrated ~d3248 · horns kept · ~Y5 age** |
-| **G-04** | F | Doeling | **d3978** | **✓** | **G-01** | **G-02** | **Nursing · creep gate · **evaluate @ wean**** |
-| **G-05** | F | *2nd doe slot* | — | **✗** | — | — | **✓ KEEP · capture deferred — not Y14** *(d4327)* |
+| **G-04** | F | Milk doe #2 | **d3978** | **✓** | **G-01** | **G-02** | **✓ KEEP · weaned · udder training / dry-yearling class** |
+| **G-05** | F | *import slot* | — | **✗** | — | — | **Capture deferred** *(wild doe when named)* |
 
-**Head-count:** **×4 on campus** · **×1 slot reserved** · target **≤6 adults** class at full build.
+**Head-count:** **×4 on campus** · **×1 ID reserved** · policy cap **≤3♀ · ≤1♂ intact** at steady state.
 
 ---
 
@@ -66,14 +86,9 @@ G-02 (billie) ─┘
 | **2nd doe capture** | **Spring Y14 exped** | Pen ready · **`GOAT-PEN-IMPROVE-Y14` phase 1 ✓** · assign **G-05** on intake |
 | **Genetic import** | **~every 3–5 yr** or inbreeding flag | Wild doe or buck line · quarantine · assign new ID |
 
-### Wean scorecard *(G-04 @ ~d4006 class when due — adjust at event)*
+### G-04 wean scorecard — **✓ CLOSED · KEEP** *(player Y14 · continuity d4908)*
 
-| Signal | Keep | Cull / slaughter |
-|---|---|---|
-| **Health** | Bright · sound hooves · steady gain | Chronic cough · repeat illness · poor thrift |
-| **Temperament** | Calm on milk stand · no fence rub | Aggressive · panic · billie-like rut push |
-| **Conformation** | Strong frame · udder potential *(F)* | Weak · narrow · bad feet |
-| **Line** | **Outcross value if G-05 late** | **Redundant doe if G-05 captured first** |
+**Verdict:** **KEEP** as **2nd homebred milk doe** — health · temperament · frame passed on farm reads through wean band. **Not open.**
 
 ---
 
@@ -96,5 +111,7 @@ Daily care: [daily.md](../../checklists/daily.md). Hazards: **`GOAT-RUT-BREED`**
 | d#### | Event | IDs | Notes |
 |---|---|---|---|
 | **d4270** | **Registry opened · doctrine locked** | all | Backfill from journal |
-| **d4374** | **Pen refresh** | **G-01…G-04** | Bedding · browse rack ~10 d · creep checked · **G-04 wean scorecard ~Jun** |
+| **d4374** | **Pen refresh** | **G-01…G-04** | Bedding · browse rack ~10 d · creep checked |
+| **Y14 wean band** | **G-04 scorecard** | **G-04** | **✓ KEEP — 2nd milk doe** *(player · logged d4908)* |
+| **d4910** | **Head-count policy locked** | herd | **1♀ red / 2♀ OK / 3♀ amber … · outcross when needed** |
 | | | | |
