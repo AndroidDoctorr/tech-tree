@@ -85,9 +85,9 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
 | **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima service wear** | **10** | **d4904 tune · floor** |
+| **Norima service wear** | **10** | **d4943 tune · floor** |
 | **Norima fatigue wear** | **11** | **d4617 overhaul close** |
-| **Norima margin haul parity** | **0** | **d4904 tune reset** |
+| **Norima margin haul parity** | **0** | **d4943 tune reset** |
 | **mishap_pool** | **0** | **d4552 intake tie POP · reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 

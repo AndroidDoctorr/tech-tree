@@ -6,10 +6,70 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4914 · `year-014/`)*
+## Recent days *(append here · @ Day 4974 · `year-014/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 4974 | [day-4974.md](days/year-014/week-711/day-4974.md) | **✓ Donkeys hung · rest** | **Cal-Y13 D355 · W711 d4** |
+| 4973 | [day-4973.md](days/year-014/week-711/day-4973.md) | **✓ Yule hunt · feast · SUN** | **Cal-Y13 D354 · Yule** |
+| 4972 | [day-4972.md](days/year-014/week-711/day-4972.md) | **✓ Yule eve cook · frame glue** | **Cal-Y13 D353 · Yule eve** |
+| 4971 | [day-4971.md](days/year-014/week-711/day-4971.md) | **✓ Distill Y15-2 · frame ~82%** | **Cal-Y13 D352 · W711 d1** |
+| 4970 | [day-4970.md](days/year-014/week-710/day-4970.md) | **✓ Varnish 2 · frame carve** | **Cal-Y13 D351 · W710 d7** |
+| 4969 | [day-4969.md](days/year-014/week-710/day-4969.md) | **✓ Yule gift · varnish 1** | **Cal-Y13 D350 · W710 d6** |
+| 4968 | [day-4968.md](days/year-014/week-710/day-4968.md) | **✓ Paint D8 · easter eggs** | **Cal-Y13 D349 · W710 d5** |
+| 4967 | [day-4967.md](days/year-014/week-710/day-4967.md) | **✓ Distill read HOLD · paint D7** | **Cal-Y13 D348 · W710 d4** |
+| 4966 | [day-4966.md](days/year-014/week-710/day-4966.md) | **✓ Flax close · paint D6** | **Cal-Y13 D347 · W710 d3** |
+| 4965 | [day-4965.md](days/year-014/week-710/day-4965.md) | **✓ Poker paint D5 full** | **Cal-Y13 D346 · W710 d2** |
+| 4964 | [day-4964.md](days/year-014/week-710/day-4964.md) | **✓ Yule shelf prep** | **Cal-Y13 D345 · W710 d1** |
+| 4963 | [day-4963.md](days/year-014/week-709/day-4963.md) | **✓ Spin + paint D4** | **Cal-Y13 D344 · W709 d7** |
+| 4962 | [day-4962.md](days/year-014/week-709/day-4962.md) | **✓ Rett pull · spin** | **Cal-Y13 D343 · W709 d6** |
+| 4961 | [day-4961.md](days/year-014/week-709/day-4961.md) | **✓ FORGE-TOOL-SPRINT** | **Cal-Y13 D342 · W709 d5** |
+| 4960 | [day-4960.md](days/year-014/week-709/day-4960.md) | **✓ Tool audit · light touch** | **Cal-Y13 D341 · W709 d4** |
+| 4959 | [day-4959.md](days/year-014/week-709/day-4959.md) | **✓ Storage audit · ferment** | **Cal-Y13 D340 · W709 d3** |
+| 4958 | [day-4958.md](days/year-014/week-709/day-4958.md) | **✓ Spoilage pass** | **Cal-Y13 D339 · W709 d2** |
+| 4957 | [day-4957.md](days/year-014/week-709/day-4957.md) | **✓ Kitchen clean · larder audit** | **Cal-Y13 D338 · W709 d1** |
+| 4956 | [day-4956.md](days/year-014/week-708/day-4956.md) | **✓ Shelf-life sprint Y15 close** | **Cal-Y13 D337 · W708 d7** |
+| 4955 | [day-4955.md](days/year-014/week-708/day-4955.md) | **✓ Char quad retort** | **Cal-Y13 D336 · W708 d6** |
+| 4954 | [day-4954.md](days/year-014/week-708/day-4954.md) | **✓ Press lap 2 · brine snack** | **Cal-Y13 D335 · W708 d5** |
+| 4953 | [day-4953.md](days/year-014/week-708/day-4953.md) | **✓ Oil decant · olive lap 2** | **Cal-Y13 D334 · W708 d4** |
+| 4952 | [day-4952.md](days/year-014/week-708/day-4952.md) | **✓ Flax pull · P-RETT-39** | **Cal-Y13 D333 · W708 d3** |
+| 4951 | [day-4951.md](days/year-014/week-708/day-4951.md) | **✓ Chickpea · pulse store** | **Cal-Y13 D332 · W708 d2** |
+| 4950 | [day-4950.md](days/year-014/week-708/day-4950.md) | **✓ Lentil · emmer process** | **Cal-Y13 D331 · W708 d1** |
+| 4949 | [day-4949.md](days/year-014/week-707/day-4949.md) | **✓ Emmer + barley · W707 close** | **Cal-Y13 D330 · W707 d7** |
+| 4948 | [day-4948.md](days/year-014/week-707/day-4948.md) | **✓ Harvest cleanup** | **Cal-Y13 D329 · W707 d6** |
+| 4947 | [day-4947.md](days/year-014/week-707/day-4947.md) | **✓ Pistachio Y15 shell/roast** | **Cal-Y13 D328 · W707 d5** |
+| 4946 | [day-4946.md](days/year-014/week-707/day-4946.md) | **✓ Farm scare · food audit** | **Cal-Y13 D327 · W707 d4** |
+| 4945 | [day-4945.md](days/year-014/week-707/day-4945.md) | **✓ Olive press · pistachio roast** | **Cal-Y13 D326 · W707 d3** |
+| 4944 | [day-4944.md](days/year-014/week-707/day-4944.md) | **✓ Olive pick Y15 lap 1** | **Cal-Y13 D325 · W707 d2** |
+| 4943 | [day-4943.md](days/year-014/week-707/day-4943.md) | **✓ Norima tune** | **Cal-Y13 D324 · W707 d1** |
+| 4942 | [day-4942.md](days/year-014/week-706/day-4942.md) | **✓ Wood haul · W706 close** | **Cal-Y13 D323 · W706 d7** |
+| 4941 | [day-4941.md](days/year-014/week-706/day-4941.md) | **✓ Block bench ×16** | **Cal-Y13 D322 · W706 d6** |
+| 4940 | [day-4940.md](days/year-014/week-706/day-4940.md) | **✓ Char + lime kiln** | **Cal-Y13 D321 · W706 d5** |
+| 4939 | [day-4939.md](days/year-014/week-706/day-4939.md) | **✓ Pozz · lime kiln** | **Cal-Y13 D320 · W706 d4** |
+| 4938 | [day-4938.md](days/year-014/week-706/day-4938.md) | **✓ Sand haul** | **Cal-Y13 D319 · W706 d3** |
+| 4937 | [day-4937.md](days/year-014/week-706/day-4937.md) | **✓ Char retort** | **Cal-Y13 D318 · W706 d2** |
+| 4936 | [day-4936.md](days/year-014/week-706/day-4936.md) | **✓ Ethanol · ledger consolidate** | **Cal-Y13 D317 · W706 d1** |
+| 4935 | [day-4935.md](days/year-014/week-705/day-4935.md) | **✓ Wood haul · W705 close** | **Cal-Y13 D316 · W705 d7** |
+| 4934 | [day-4934.md](days/year-014/week-705/day-4934.md) | **✓ Char retort** | **Cal-Y13 D315 · W705 d6** |
+| 4933 | [day-4933.md](days/year-014/week-705/day-4933.md) | **✓ Ethanol dehyd · peg clear** | **Cal-Y13 D314 · W705 d5** |
+| 4932 | [day-4932.md](days/year-014/week-705/day-4932.md) | **✓ Storage audit · sickle** | **Cal-Y13 D313 · W705 d4** |
+| 4931 | [day-4931.md](days/year-014/week-705/day-4931.md) | **✓ Block bench ×8 trial** | **Cal-Y13 D312 · W705 d3** |
+| 4930 | [day-4930.md](days/year-014/week-705/day-4930.md) | **✓ Block bench eject** | **Cal-Y13 D311 · W705 d2** |
+| 4929 | [day-4929.md](days/year-014/week-705/day-4929.md) | **✓ Iron bloom smelt** | **Cal-Y13 D310 · W705 d1** |
+| 4928 | [day-4928.md](days/year-014/week-704/day-4928.md) | **✓ Hopper · W704 close** | **Cal-Y13 D309 · W704 d7** |
+| 4927 | [day-4927.md](days/year-014/week-704/day-4927.md) | **✓ Block bench cam** | **Cal-Y13 D308 · W704 d6** |
+| 4926 | [day-4926.md](days/year-014/week-704/day-4926.md) | **✓ Block bench frame** | **Cal-Y13 D307 · W704 d5** |
+| 4925 | [day-4925.md](days/year-014/week-704/day-4925.md) | **✓ White sheet finish** | **Cal-Y13 D306 · W704 d4** |
+| 4924 | [day-4924.md](days/year-014/week-704/day-4924.md) | **✓ Sheet weave d2** | **Cal-Y13 D305 · W704 d3** |
+| 4923 | [day-4923.md](days/year-014/week-704/day-4923.md) | **✓ Sheet d1 · pad cured** | **Cal-Y13 D304 · W704 d2** |
+| 4922 | [day-4922.md](days/year-014/week-704/day-4922.md) | **✓ Linen repair** | **Cal-Y13 D303 · W704 d1** |
+| 4921 | [day-4921.md](days/year-014/week-703/day-4921.md) | **✓ Nail batch · W703 close** | **Cal-Y13 D302 · W703 d7** |
+| 4920 | [day-4920.md](days/year-014/week-703/day-4920.md) | **✓ Wood repair sprint** | **Cal-Y13 D301 · W703 d6** |
+| 4919 | [day-4919.md](days/year-014/week-703/day-4919.md) | **✓ Linen + wood audits** | **Cal-Y13 D300 · W703 d5** |
+| 4918 | [day-4918.md](days/year-014/week-703/day-4918.md) | **✓ Block bench shaft d2** | **Cal-Y13 D299 · W703 d4** |
+| 4917 | [day-4917.md](days/year-014/week-703/day-4917.md) | **✓ G-04 · line shaft d1** | **Cal-Y13 D298 · W703 d3** |
+| 4916 | [day-4916.md](days/year-014/week-703/day-4916.md) | **✓ Block bench pad pour** | **Cal-Y13 D297 · W703 d2** |
+| 4915 | [day-4915.md](days/year-014/week-703/day-4915.md) | **✓ Block bench survey** | **Cal-Y13 D296 · W703 d1** |
 | 4914 | [day-4914.md](days/year-014/week-702/day-4914.md) | **✓ Sand haul · W702 close** | **Cal-Y13 D295 · W702 d7** |
 | 4913 | [day-4913.md](days/year-014/week-702/day-4913.md) | **✓ Smoke/jerky · gyros spit** | **Cal-Y13 D294 · W702 d6** |
 | 4912 | [day-4912.md](days/year-014/week-702/day-4912.md) | **✓ Boar butcher** | **Cal-Y13 D293 · W702 d5** |

@@ -32,7 +32,7 @@
 
 - **Lime/pozz/sand** runway from existing piles — yard is **organisation**, not new geology
 - **`BLOCK-Y10` sprints** · **`SAND-HAUL`** · **`GRAVEL-1`** paydown — yard pays off when **>~200 kg** moves in a week
-- **Optional adjacency:** [block-bench-water-wheel.md](block-bench-water-wheel.md) hopper feed
+- **Adjacency:** [block-bench-water-wheel.md](block-bench-water-wheel.md) — **`BLOCK-BENCH-PAD-1` staked SE lip d4915** · hopper feed from bay 4
 
 ---
 

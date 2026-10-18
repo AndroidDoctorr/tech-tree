@@ -65,9 +65,9 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 
 | ID | Tool | Where | State |
 |---|---|---|---|
-| **`IRON-SPADE-1`** | Wide scoop spade · **~178 g** head · rolled lip · **~1.15 m** ash haft · forged d604 | M2 peg rail · gorge kit | **edge GREEN · haft wedged · svc d4533 sprint** |
-| **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · svc d4533 sprint** |
-| **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · svc d4533 sprint** |
+| **`IRON-SPADE-1`** | Wide scoop spade · **~178 g** head · rolled lip · **~1.15 m** ash haft · forged d604 | M2 peg rail · gorge kit | **edge GREEN · haft wedged · svc d4961 sprint** |
+| **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · svc d4961 sprint** |
+| **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · haft OK · svc d4961 sprint** |
 | **`SHOVEL-BULK-1`** | Bulk yard shovel · **~312 g** head · **~1.0 m** ash D-haft · strap shoe | Pile 4 north peg | **✓ LIVE d4887 · edge GREEN** |
 | **`WHEELBARROW-2`** | Materiarum yard barrow · **~60–80 L** box · wide wheel + iron tyre · wobble **~3.5 mm** class | Pile 4 north peg | **✓ LIVE d4895 · `WB-LOAD-2` PASS** |
 | **`W-SHOVEL-2`** | Wood shovel · backup · iron shoe class | Sand haul kit | **GREEN hold · svc d4533 audit** |
@@ -80,8 +80,8 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | **`IRON-WOOD-CHISEL-3`** | Wood chisel · backup | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
 | **`IRON-TROWEL-1`** | Masonry trowel | M2 peg rail | **edge GREEN · svc d4533 sprint** |
 | **`IRON-MORTAR-FLOAT-1`** | Mortar float | M2 peg rail | **edge GREEN · svc d4533 sprint** |
-| **`IRON-HAMMER-1`** | Bench hammer · forge face | M2 forge peg | **face dressed GREEN · svc d4533 sprint** |
-| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4559** |
+| **`IRON-HAMMER-1`** | Bench hammer · forge face | M2 forge peg | **face GREEN · svc d4961 sprint** |
+| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4960 strop** |
 
 ## Worn and carried
 
@@ -227,12 +227,12 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `GLASS-BOTTLE-4` · `5` | Bottles, vinegar and oil tags | Chem-lab rack | Live |
 | `GLASS-BOTTLE-11` | ~250 ml wine grammar · **food honey** · `HONEY-STRAINED-Y13-1` | Culina shelf | Live · d4726 retcon |
 | `GLASS-BOTTLE-6…10` · `12` · `13` | Bottles **×7 empty**, ~250 ml wine grammar | Chem-lab `STORAGE-EMPTY` rack | Empty spares |
-| `P-LAB-BLEACH-BOTTLE-1` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-1` | Bleach peg | ✓ FILLED d3456 |
-| `P-LAB-BLEACH-BOTTLE-2` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-2` | Bleach peg | ✓ FILLED d3456 |
-| `P-LAB-BLEACH-BOTTLE-3` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-1` | Bleach peg | ✓ FILLED d3454 |
-| `P-LAB-BLEACH-BOTTLE-4` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-2` | Bleach peg | ✓ FILLED d3456 |
-| `P-LAB-BLEACH-BOTTLE-5` | Bleach bottle · ~250 ml · **CLEAN** · `BLEACH-CLEAN-Y10-3` spare | Bleach peg | ✓ FILLED d3456 |
-| `P-LAB-BLEACH-BOTTLE-6` | Bleach bottle · ~120 ml narrow · **CHEM** · `BLEACH-CHEM-Y10-3` spare | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-1` | Bleach bottle · ~250 ml · **CLEAN** · stock **`BLEACH-CLEAN-1`** | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-2` | Bleach bottle · ~250 ml · **CLEAN** · **`BLEACH-CLEAN-1`** | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-3` | Bleach bottle · ~120 ml narrow · **CHEM** · stock **`BLEACH-CHEM-1`** | Bleach peg | ✓ FILLED d3454 |
+| `P-LAB-BLEACH-BOTTLE-4` | Bleach bottle · ~120 ml narrow · **CHEM** · **`BLEACH-CHEM-1`** | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-5` | Bleach bottle · ~250 ml · **CLEAN** · **`BLEACH-CLEAN-1`** spare | Bleach peg | ✓ FILLED d3456 |
+| `P-LAB-BLEACH-BOTTLE-6` | Bleach bottle · ~120 ml narrow · **CHEM** · **`BLEACH-CHEM-1`** spare | Bleach peg | ✓ FILLED d3456 |
 
 ☠ **Bleach bottles are not acid bottles** — separate peg, separate tags, never cross-filled.
 

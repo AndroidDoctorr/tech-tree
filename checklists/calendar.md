@@ -90,5 +90,4 @@ Every sow and harvest is mandatory unless the player explicitly defers it. Name 
 - **10 Dec** — Olive oil press window closes *(before the feast band)*
 - **16 Dec** — Olive pick and madder root dig close
 - **20 Dec** — Feast eve −1
-- **21 Dec** — Yule / Feast · animal treat
-- **22 Dec** — Year opens
+- **21 Dec** — Yule / Feast · animal treats

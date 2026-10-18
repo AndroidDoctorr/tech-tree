@@ -32,11 +32,11 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 
 | Signal | State |
 |---|---|
-| **`GRAIN-FERMENT-Y15-1`** | **⧗ ~day 11 @ `BARREL-5` · ~10 L wild mash** |
+| **`GRAIN-FERMENT-Y15-1`** | **✓ distilled d4905 · peg cleared d4933** |
 | **`WW-2` Q** | **~11.0 L/s · stain ~5.0 cm @ d4560** — nadir band · WW-2 power log |
 | **`HYDRO-ELEC-1`** | **✓ Gen feed LIVE d4555** · ⚑ campus penstock draw · deeper pool optional |
 | **Exped / cart trips** | **OPEN 11 Mar – 27 Sep** · **✓ `KISECIK-RUN-CY13-4750` d4751–4753** |
-| **`BLOCK-Y10` pit** | **×280 unused** *(×52 dry · ×228 submerged · ×72 @ Officina N stem)* |
+| **`BLOCK-Y10` pit** | **×244 unused** *(×32 dry · ×212 submerged)* |
 | **`VITRIOL-HEAP-1`** | **Turn ✓ d4752 @ Kisecik · ~14.1 L @ site · next ~90 d class** |
 | **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · trough empty · load next bundle on farm pass when named |
 | **`mishap_pool`** | **0** |
@@ -93,7 +93,7 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 - ⧗ **`CU-CELL`** — two looks a day
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
 - ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 d from d4459
-- ⧗ **`GRAIN-FERMENT-Y15-1`** — ethanol lane @ `BARREL-5`
+- ~~⧗ **`GRAIN-FERMENT-Y15-1`**~~ — **✓ distilled d4905 · peg d4933**
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
@@ -145,7 +145,7 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 - ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
 - ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
 - ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
-- ⧗ **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** — **~40% @ `EASEL-1`** · rest-day laps
+- ⧗ **`YULE-FEAST-Y15`** — **tray staged d4964** · **belly cure live** · **rashers smoke + fritters fry ~feast eve**
 - ◌ **Wild boar / sheep hunt** — when convenient
 - ◌ **Barley bed expand** — player maybe @ **Y15 `SPRING-SOW`**
 - ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
@@ -182,7 +182,8 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 
 | Item | Doc | Notes |
 |---|---|---|
-| **`BLOCK-BENCH-WW-1`** vibratory press | [block-bench-water-wheel.md](block-bench-water-wheel.md) | **Cinder-block forming table + settle** · WW-2 takeoff · site survey |
+| **`BLOCK-BENCH-WW-1`** vibratory press | [block-bench-water-wheel.md](block-bench-water-wheel.md) | **✓ ×8 trial d4931 · ~5 h 40 min** · **⚑ rhythm sprints · foot-cube QC @ 28 d** |
+| ~~**`WHITE-SHEET-HABITUAL-MAKE-Y15-1`**~~ | [linen-replace-runway-y15.md](linen-replace-runway-y15.md) | **✓ d4925** |
 | **`AREA-MATERIARUM-1`** | [area-materiarum-y13.md](area-materiarum-y13.md) | **4-bay bulk pad** · **~1 t** sand/gravel/lime/clay staging |
 | **`SHOVEL-BULK-1` · `WHEELBARROW-1`** | *(with yard)* | Wide pan shovel · **60–80 L** barrow for yard laps |
 | ◌ **Stirling / solar R&D** | [wishlist.md](wishlist.md) | **Stirling** = heat-engine experiments · **PV** = **not yet** — photovoltaics need junction + glass + metallurgy runway far beyond bulbs |

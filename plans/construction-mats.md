@@ -2,34 +2,34 @@
 
 *Player-maintained · brief snapshot only. **Live stock:** [inventory/resources.md](../inventory/resources.md) · **runway flags:** [now.md](../now.md). Day files own debits.*
 
-**Last snapshot:** d4807 · Cal-Y13 D188
+**Last snapshot:** d4941 · Cal-Y13 D322
 
 ---
 
-## On hand *(not counting committed-in-place)*
+## On hand *(yard / rack spare only — laid masonry lives on the map + journal)*
 
 | Material | On hand | Notes |
 |---|---|---|
-| **Cinder blocks** | **×280 unused** | ×52 dry @ yard · ×228 submerged @ pit · **×72 @ Officina N stem** *(in place)* |
-| **Rebar** | **×16 @ rack** | CY13-33…36 + earlier bars · **×32 spent** in pours to date |
-| **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE`** @ storage wing · **N-wing W+E installed d4795** |
+| **Cinder blocks** | **×244 unused pool** | ×32 dry @ yard · ×212 submerged @ pit |
+| **Rebar** | **×16 @ rack** | `CY13-33…36` + production rack |
+| **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE`** @ storage wing · Officina N W+E **installed** |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
-| **Wire (Cu, useful)** | **~18 m class** | **`WIRE-CU-4` ~14 m** · **`WIRE-CU-GEN2-1` ~3.7 m tail** — not bulk feeder stock |
+| **Wire (Cu, useful)** | **~11.7 m class** | **`WIRE-CU-4`** hold · gen-2 tail spent |
 | **Masonry brick** | **~199** | `BRICK-FIRED-B` @ Kiln B pad |
-| **Floor tiles (TF)** | **×63** | Fired @ rack north |
+| **Floor tiles (TF)** | **×31 spare** | Rack north |
 | **Roof tiles (TR)** | **~×100 fired + ×32 green** | Rack south · green = `4683` drying |
 | **Door / strap hinges** | **×4 brass strap** | `HINGE-BRASS-STRAP-CY13-4687` @ craft peg |
-| **Cabinet hinges** | **×8 brass butt** | `HINGE-BRASS-CABINET-CY13-4740` @ craft peg |
-| **Iron nails** | **×35 @ tray** | +×3 cave tail |
+| **Cabinet hinges** | **×6 brass butt** | `HINGE-BRASS-CABINET-CY13-4740` @ craft peg |
+| **Iron nails** | **×7 @ bench tray** | Cave crate tail not campus build stock |
 | **Knife switches** | **×4 live** | Installed · **`SW-KNIFE-BLANK-1` ×0** |
 | **Outlets / receptacles** | **×0** | EC-1 grammar · house scale not tooled |
 | **Structural timber** | **—** | Defer until a build names cut list |
-| **Gravel** | **~178 kg** | Pile 4 south band |
-| **Filter sand** | **~13.5 kg** | Pile 4 apron · thin for big pours |
-| **Limestone (`CACO3-P7`)** | **~60.4 kg** | Pile 7 · kiln runway OK |
-| **Quicklime** | **~0.08 kg** | Tail @ crock |
-| **Lime putty** | **~0.63 kg** | Working |
-| **Pozzolan** | **~2.3 kg** | `POZZ-TUFF-1` @ pile 4 north · **thin — haul/crush before wythe push** |
+| **Gravel** | **~41 kg** | `MATERIARUM` bays 2–3 + apron |
+| **Filter sand** | **~45.2 kg** | `MATERIARUM` bay 4 |
+| **Limestone (`CACO3-P7`)** | **~54.9 kg** | Pile 7 · kiln runway OK |
+| **Quicklime** | **~0.4 kg tail** | Slake before next block day |
+| **Lime putty** | **~0** | Working tail |
+| **Pozzolan** | **~3.5 kg @ bay 1** | **~1 ×8 run left** · face haul next summer |
 
 ---
 
@@ -37,50 +37,22 @@
 
 Round numbers for planning. Not bills of materials.
 
-### A · Officina north work wing *(~5 × 6 m · BC-2 Annex A · player budget d4763)*
+### `WAGON-GARAGE-2` phased shop *(~200 m² covered · [wagon-garage-2-phased.md](wagon-garage-2-phased.md))*
 
-**In place @ d4807:** **×72 block stem** · **ring beam ✓ d4776** · **W+E glass LIVE d4795** · **interior gypsum cure PASS d4807**.
+**Status:** PLANNING — bank blocks in pit before ground break.
 
-| Material | Planning budget | Notes |
-|---|---|---|
-| Cinder blocks | **~×72 @ wing stem ✓** | Pool **×280 unused** *(retcon d4779)* · wythe + cheek laps ahead |
-| Masonry brick | **~×500** | Wythe to bond beam · **~199 on pad** · craft wing analogue **~232** @ `MURE-R1` |
-| Rebar | **×8–12** | Plinth + ring spent · lintels / grillage ahead |
-| Glass panes | **×40–60** | **2 openings ✓** · south cheek / future slots TBD |
-| Roof tiles (TR) | **×45–55** | Light diaphragm · **~×132 TR class on hand** |
-| Floor | **`TILE-TF`** *(player d4808)* | **~×115–125** need · **~×63 on hand** · oak deferred |
-| Interior | **Gypsum + lime render** | **Cure ✓** · curtains · **`EC-1-GRID-FEEDER-3`** |
+**Layout:** Four **5×6 m** side bays (two **E-rows** across **~8 m** aisle) · then **~8×10 m** central court (IC bay · tools · overhead crane). One E-row may go first; opposite side + centre defer.
 
-### B′ · `WAGON-GARAGE-2` phase 1 *(~6 × 9 m · BC-2 utility → modern shop)*
+| Phase | What | Blocks *(BC-2 stem + ring class)* | Other *(band)* |
+|---|---|---|---|
+| **1 · First E-row** | **2 bays** · shared wall · temp aisle partition · roofs weathertight | **~×160–200** *(~×80–100 per bay)* | Rebar **×8–12** · timber **~0.4–0.6 m³** · gravel footings **~200–400 kg** |
+| **2 · Second E-row** | Mirror bays · define court levels | **~×160–200** | Same band per row |
+| **3 · Central court** | **8×10 m** wear slab · drain to yard · driveway grade | Cheeks / low stem only until crane drawing | Gravel **~500–800 kg** · pozz + sand mortar days |
+| **4 · Central envelope** | Portico / airlock · **≥~3 m** clear door · crane frame on roof | **Defer** — **engineered frame**, not tile-on-masonry alone | Crane beam + columns = **named hero** before central roof close |
 
-**G1 reference:** **`WAGON-GARAGE-1`** ~3×6 m · block stem · shake roof · not habitable finish.
+★ **Four full side bays ≈ ×320–400** over the arc — matches pit banking target. **`MATERIARUM-1`** is separate stock-yard shell, not garage footprint.
 
-| Material | Phase 1 *(footprint + stem + doors)* | Full build *(tall stem · cheeks · crane pad)* |
-|---|---|---|
-| Cinder blocks | **~×200–240** | **~×320–420** |
-| Rebar | **×12–16** | **×18–24** |
-| Masonry brick | **×0** *(block shell canon)* | **×0–80** *(veneer optional)* |
-| Gravel / wear slab | **~500–700 kg** | **+ machine pad** |
-| Structural timber | **~0.8 m³** | **~1.2–1.6 m³** *(truss / crane beam defer)* |
-| Roof | **Shake / M-08** | **Same or TR partial** |
-
-★ **~×200 blocks** is a **phase-1 floor** (pad, stem, lintel, door bucks) — **not** the whole “stronger modern” envelope. Budget **~×350** class if G2 gets **full BC-2 seismic stem height** + outlet cheeks like hydro work.
-
-### B · `HYDRO-ELEC-1` forebay + dam *(+3 m crest · civil ✓ d4555)*
-
-| Material | Est. |
-|---|---|
-| Cinder blocks | **~200–350** *(wing cheeks · outlet · spillway berms)* — **optional deepen only** |
-| Rebar | **×12–20** |
-| Quicklime / putty | **~80–120 kg slaked class** *(mortar runway)* |
-| Pozzolan | **~60–100 kg** *(with sand · BC-2 mortar + wear slabs)* |
-| Filter sand | **~80–150 kg** |
-| Gravel | **~400–800 kg** *(graded filter toe · apron)* |
-| Brushwood mattress | **~1 launch class** *(spillway toe in live water)* |
-| Earth-rock fill | **Site cut** *(dam core · forebay excavation)* |
-| Pipe / gate iron | **Defer to outlet-gate drawing** |
-
-### C · Modest modern house *(reference scale · ~100–110 m² single storey · [next-house.md](next-house.md))*
+### Modest modern house *(reference scale · ~100–110 m² single storey · [next-house.md](next-house.md))*
 
 | Material | Est. |
 |---|---|
@@ -106,7 +78,7 @@ Round numbers for planning. Not bills of materials.
 | Material | Why |
 |---|---|
 | **Lime / putty** | Block + render runway · burns slow |
-| **Pozz + sand** | Every block day · sand haul is the recurring chore |
+| **Pozz + sand** | Every block day · **summer pozz haul** · sand haul is the recurring chore |
 | **Bitumen / pitch** | Roof seals · `M-08` class |
 | **Brass stock** | Hinges · pipe fittings · latch hardware |
 | **Iron nails / strap** | Timber BC-2 ties · door frames |

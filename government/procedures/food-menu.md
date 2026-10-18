@@ -141,6 +141,8 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 |-------|-------------|-----|
 | **Yule goose roast** | Dawn bow-hunt · salt · coriander · garlic | **Tonight** · smoke remainder only |
 | **Yule ten-course** | Posca · goose · emmer mash · stew · smoked fish · snail · olives · pistachio · leather · mint tea | **The evening** |
+| **Boar-belly rashers + flat** *(Cal-Y13 Yule · planned)* | Belly trim from **`BOAR-SMOKE-Y15-1` / hunt line** · salt cure · cold smoke · oil crisp · sourdough flat · herb · optional rennet slice | **Prep feast-eve class · eat Yule** |
+| **Honey fritters** *(Cal-Y13 Yule · planned)* | Emmer batter · **oil fry** · **`HONEY-STRAINED-Y13-1` drizzle** | **Same evening · hot** |
 | **Harvest hero stew** | P-17 · P-18 · emmer · smoke flake · vinegar · tallow · thyme | **That dinner** |
 | **Pistachio feast bowl** | P-01 · optional salt | **The sitting** |
 | **Goose-smoke slice** | Yule remainder on the rack | **1–2 d after** |
@@ -192,7 +194,7 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | **15 min hungry** | Jerky · leather · parched · pistachio |
 | **Proper meal** | Stew + mash · or smoked fish + rosemary |
 | **Trail dawn** | Jerky · leather · parched · waterskin |
-| **Yule / visitor** | Goose if you hunt it that morning · otherwise the ten-course without the bird |
+| **Yule / visitor** | Goose if you hunt it that morning · otherwise the ten-course without the bird · **+ rashers + flat · honey fritters** *(Cal-Y13 menu)* |
 | **Stock the year** | Parch · smoke · jerky · leather · salt batch |
 | **Leaf window** | Young grape-leaf roll · oil drizzle now allowed |
 | **Milk in the crock** | Drink it · milk porridge · or set a curd before it turns |

@@ -312,7 +312,7 @@ West shelf · hub curtain · south boot mat · **`WING-N-SPILL-PEG-1` + waste cr
 
 ### `MATERIARUM-PAD-1` *(pile 4 north · kiln B margin)*
 
-**Staked d4878** · **~10×3 m ghost · ×4 bays** · subgrade **✓ d4879** · **`MATERIARUM-BLIND-DRAIN-1` ✓ d4880** · **~35 mm gravel bed ✓ d4880** · **pozz wear slab ✓ d4882** · **✓ `MATERIARUM-PHASE1` d4891** — **×3 separators course 1** · **✓ back + outer sides course 1 d4901** *(×60 wythe · south mouths open)* · **course 2 gate: bay fill nears lip / spill over wythe** · ⚑ **`BLOCK-PAD-1`** small pour pad for block stack · **`SHOVEL-BULK-1` ✓** · **`WHEELBARROW-2` ✓ d4895** @ pile 4 north peg · **`MATERIARUM-STOCK-1` d4896** — bay 1 pozz · bay 2–3 gravel · bay 4 clay + **~41 kg sand** · apron gravel **~12 kg**.
+**Staked d4878** · **~10×3 m ghost · ×4 bays** · subgrade **✓ d4879** · **`MATERIARUM-BLIND-DRAIN-1` ✓ d4880** · **~35 mm gravel bed ✓ d4880** · **pozz wear slab ✓ d4882** · **✓ `MATERIARUM-PHASE1` d4891** — **×3 separators course 1** · **✓ back + outer sides course 1 d4901** *(×60 wythe · south mouths open)* · **course 2 gate: bay fill nears lip / spill over wythe** · ⚑ **`BLOCK-PAD-1`** small pour pad for block stack · **`BLOCK-BENCH-PAD-1` ✓ wear slab d4916 · cure PASS d4923** *(~3.2×2.1 m · **`BLOCK-BENCH-LINE-SHAFT-1` LIVE d4918** · **`BLOCK-BENCH-FRAME-1` LIVE d4926** · plan [block-bench-water-wheel.md](../plans/block-bench-water-wheel.md))* · **`SHOVEL-BULK-1` ✓** · **`WHEELBARROW-2` ✓ d4895** @ pile 4 north peg · **`MATERIARUM-STOCK-1` d4896** — bay 1 pozz · bay 2–3 gravel · bay 4 sand **~62 kg class post-d4914** · apron gravel **~12 kg**.
 
 ### ✓ **`EC-1-GRID-BRANCH-WING-N-MOTOR-1`** — north exhaust fan *(d4860)*
 
@@ -529,7 +529,7 @@ The prime mover. Belt tree live off it.
 ### `BELT-TREE-1` — power distribution
 Map: `WW-2` · Built: d1891–d1892
 
-×3 idlers, ×3 pulleys, collar #3. `WW-2-BELT-COLLAR-1` is a set of ×4 quick-release collars on the shaft — #3 drives the kiln, #4 the cellar fan (added d3018).
+×3 idlers, ×3 pulleys, collar #3. `WW-2-BELT-COLLAR-1` is a set of ×4 quick-release collars on the shaft — #3 drives the kiln, #4 the cellar fan (added d3018). **`WW-2-BELT-COLLAR-5`** **✓ d4918** → **`BLOCK-BENCH-LINE-SHAFT-1`** **LIVE** on **`PATH-CROWN`** *(full run · brake @ post 4 · bench hub stub · no frame load)*.
 
 `WW-MACHINE-FLYWHEEL-1` (MF-1) at idler B with clutch collar #3 — ~3.6 kg disk, `WW-MACHINE-SWITCH-1` live since d1973. `GRIND-TAKEOFF-2` is a cord branch to `GS-1`. `TRIP-HAMMER-BELT-1` is a ~1.8 m leather cam.
 
@@ -599,7 +599,7 @@ Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
 ### `AMPHORA-6`
 Map: `OLIVE-PRESS-1` cool-step · Oil
 
-**`OIL-Y14-1` ~1.46 L crude settling** @ cool-step · **press laps 1–2 d4580/4581** · decant Dec band when named.
+**`OIL-Y15-1` decant ✓ d4953** · clear @ bottle rack · **`OIL-Y15-2` ~0.59 L crude settling** @ cool-step · **`OIL-SEDIMENT-Y15-1` ~125 ml @ foot** · **`OLIVE-BRINE-Y15-1` @ `OLIVE-JAR-Y15-1`**.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -619,7 +619,7 @@ Map: horreum A margin ghost · Built: d2744
 ### `BARREL-5-FERMENT`
 Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
 
-**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **empty rinsed post `GRAIN-DISTILL-Y13-2` d4257** · buffer LIVE.
+**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **`GRAIN-FERMENT-Y15-2` ~10 L day 0 LIVE d4959** @ horreum A margin.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
@@ -755,6 +755,11 @@ Map: culina south hearth · Built: d4913
 
 Oak fork uprights · **`REBAR-STD-Y13-1` class spit rod** · drip tray · hand quarter-turn · counterweight string. **Not** a vertical shop spit — honest **leg roast + shave** for emmer flat wraps per [food-menu.md](../government/procedures/food-menu.md).
 
+### `BLOCK-BENCH-FRAME-1` — vibratory block press frame *(phase 3)*
+Map: **`BLOCK-BENCH-PAD-1` @ `MATERIARUM-1` SE** · Built: d4926
+
+Oak sill + **×4 legs** · **dual mould nest A/B** for **`BLOCK-MOULD-1/2`** · hub tie to **`BLOCK-BENCH-LINE-SHAFT-1`** · drain to apron gutter. **`BLOCK-BENCH-CAM-1` ✓ d4927** · **`BLOCK-BENCH-HOPPER-1` ✓ d4928** · **`BLOCK-BENCH-EJECT-1` ✓ d4930** · **✓ ×8 trial d4931** *(~5 h 40 min · ~⅓ under hand ×8 full day · ⚑ pit chute · hopper gate · ×12 sprint)*
+
 ## Field and apiary
 
 ### `HIVE-SCALE-1` — hive weight scale
@@ -799,7 +804,7 @@ Map: ditch W · Live
 
 **`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
 
-**`P-RETT-38` ✓ FIBRE CLOSED d4623** — **`FLAX-LINE-Y14-1` ~2.48 kg @ `WOOD-CRATE-6`** · **`W-1` cleared** · **`RETT-TROUGH-FLAX-1` empty · pool rinsed**.
+**`P-RETT-39` ✓ FIBRE CLOSED d4966** — **`FLAX-LINE-Y15-1` ~2.42 kg @ `WOOD-CRATE-6`** · **`W-1` cleared** · **`RETT-TROUGH-FLAX-1` empty**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

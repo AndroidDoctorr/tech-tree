@@ -139,7 +139,7 @@ Counts: [resources.md](../../inventory/resources.md).
 
 | Material | Role | Budget *(planning · d4763)* |
 |---|---|---|
-| **`BLOCK-Y10-DRY-STACK-1`** | Stem c1 + ring beam / core tails | **~×100 total** *(×72 spent · ~×28 reserve)* |
+| **`BLOCK-Y10-DRY-STACK-1`** | Stem c1 only *(ring = brick + rebar)* | **×72 spent** · [BLOCK-INVENTORY-N-WING-Y13](../../journal/retcons/BLOCK-INVENTORY-N-WING-Y13.md) |
 | **`BRICK-FIRED-B`** | Wythe to bond beam | **~×500** *(craft wing used **~232** @ `MURE-R1`)* |
 
 ★ **Not an all-block shell** — stronger footing/plinth + **interior gypsum** vs craft wing; **brick** carries wall height. *Retcon: erroneous stem c2 removed — [OFFICINA-N-STEM-C2-Y13.md](../../journal/retcons/OFFICINA-N-STEM-C2-Y13.md).*

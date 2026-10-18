@@ -36,6 +36,10 @@ The map describes the **space** — capacity, dry or damp, frost-free, lockable.
 
 **Quality rides in the item name** — `Copper, 97%` · `Kaolin, washed`. Too few rows need it to earn a column.
 
+**Consolidate identical fungible stock.** When batches are interchangeable (bleach working bottles, dehyd condensate, lime putty tails), **one aggregate row + total qty** — bottle or jar fixtures stay in tools. Per-batch IDs retire; the journal keeps history.
+
+**Laid masonry is not stock.** Blocks and bricks in a wall, stem, or footing are the build on [map](../map/index.md) — not a counted row here. Debit the **unused pool** on lay; how many went where lives in the journal (and map notes). Same rule as buildings: used units are structure, not fungible inventory.
+
 **Retire spent rows.** This is the single biggest thing keeping v1 at 3197 lines: every batch that ever closed is still sitting there at `~0`. A row at zero whose year has closed gets **deleted** — the journal already holds it, and the bay it emptied still exists as a location. Keep a `×0` row only where the ID is drawn against by something live.
 
 Closed process instances are never inventory. `ACORN-LEACH_Y8-5` is a journal event; only the acorn it produced is stock.

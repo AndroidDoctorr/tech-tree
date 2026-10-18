@@ -2,6 +2,8 @@
 
 Fungible stock — measured, drawn down, replaced. Schema and the routing test are in [index.md](index.md).
 
+★ **Identical fungible batches** *(dehyd condensate · bleach working stocks · etc.)* **→ one row + total qty** · fixture/bottle IDs stay in [tools.md](tools.md). Per-batch ledger IDs retire to the journal; draws use the aggregate ID.
+
 `| ID | Item | Qty | Where | Made | Last |`
 
 `Made` is blank unless the thing degrades. `Last` is the day the quantity last changed. `×0` means the row is spent but the ID is kept so draws against it still resolve.
@@ -10,10 +12,10 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~22.65 kg** | Char lane | | d4913 smoke |
-| **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~9.1 kg** | Char reserve drum | d4664 | d4894 tyre dip |
-| `WOOD-OAK-P5` | Oak, green · main stack | **~111.5 kg** @ pile 5 | Pile 5 | | d4914 haul cook |
-| **`FURNITURE-SELECT-1`** | Oak, green · furniture grade @ pile 5 north shade | **~6.35 kg** tail | Pile 5 north shade | d4818 | d4888 barrow handles |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~20.2 kg** | Char lane | | d4971 distill |
+| **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~10.9 kg** | Char reserve drum | d4664 | d4955 top-off |
+| `WOOD-OAK-P5` | Oak, green · main stack | **~49.1 kg** @ pile 5 | Pile 5 | | d4974 hearth |
+| **`FURNITURE-SELECT-1`** | Oak, green · furniture grade @ pile 5 north shade | **~3.35 kg** tail | Pile 5 north shade | d4818 | d4970 frame carve |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.16 kg** tail | Craft peg | d3520 | d4860 prop |
 | `SHIVE-FLAX` | Flax shive | **~8.0 kg** | Storage wing | | d4269 |
@@ -26,30 +28,16 @@ Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](f
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin · dehyd bed A/B | **~319 g** | Chem porch catalyst peg | d3956 | d4907 dehyd |
-| **`ETHANOL-DEHYD-CONDENSATE-Y13-1`** | Dehyd POC condensate · Phase A · cloudy · not polymer grade | **~40 ml @ `P-LAB-DEHYD-JAR-1`** | Chem spirit peg | d3956 | d3956 |
-| **`ETHANOL-DEHYD-CONDENSATE-Y14-1`** | Dehyd condensate · Phase B run · tube + cold trap | **~41 ml @ `P-LAB-DEHYD-JAR-2`** | Chem spirit peg | d4600 | d4600 |
-| **`ETHANOL-DEHYD-CONDENSATE-Y14-2`** | Dehyd condensate · batch 2 run 1 · high-yield class | **~48 ml @ `P-LAB-DEHYD-JAR-3`** | Chem spirit peg | d4605 | d4605 |
-| **`ETHANOL-DEHYD-CONDENSATE-Y14-3`** | Dehyd condensate · batch 2 run 2 | **~41 ml @ `P-LAB-DEHYD-JAR-4`** | Chem spirit peg | d4606 | d4606 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-1`** | Dehyd condensate · batch CY13 run 1 | **~46 ml @ `P-LAB-DEHYD-JAR-5`** | Chem spirit peg | d4624 | d4624 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-2`** | Dehyd condensate · batch CY13 run 2 | **~41 ml @ `P-LAB-DEHYD-JAR-6`** | Chem spirit peg | d4624 | d4624 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-3`** | Dehyd condensate · batch CY13-2 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-7`** | Chem spirit peg | d4626 | d4626 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-4`** | Dehyd condensate · batch CY13-2 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-8`** | Chem spirit peg | d4626 | d4626 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-5`** | Dehyd condensate · batch CY13-3 run 1 | **~43 ml @ `P-LAB-DEHYD-JAR-9`** | Chem spirit peg | d4632 | d4632 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-6`** | Dehyd condensate · batch CY13-4 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-10`** | Chem spirit peg | d4685 | d4685 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-7`** | Dehyd condensate · batch CY13-4 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-11`** | Chem spirit peg | d4685 | d4685 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-8`** | Dehyd condensate · batch CY13-5 run 1 | **~44 ml @ `P-LAB-DEHYD-JAR-12`** | Chem spirit peg | d4686 | d4686 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-9`** | Dehyd condensate · batch CY13-5 run 2 | **~42 ml @ `P-LAB-DEHYD-JAR-13`** | Chem spirit peg | d4686 | d4686 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-10`** | Dehyd condensate · batch CY13-6 run 1 | **~43 ml @ `P-LAB-DEHYD-JAR-14`** | Chem spirit peg | d4907 | d4907 |
-| **`ETHANOL-DEHYD-CONDENSATE-CY13-11`** | Dehyd condensate · batch CY13-6 run 2 | **~41 ml @ `P-LAB-DEHYD-JAR-15`** | Chem spirit peg | d4907 | d4907 |
+| **`CATALYST-KAOLIN-CALCINE-Y13-1`** | Calcined M26 kaolin · metakaolin · dehyd bed A/B | **~245 g** | Chem porch catalyst peg | d3956 | d4936 dehyd |
+| **`ETHANOL-DEHYD-STOCK-1`** | Dehyd condensate · purified · polymer lane | **~980 ml @ `P-LAB-DEHYD-MASTER-1`** | Chem spirit peg | d4933 | d4936 consolidate |
 
-**~767 ml condensate class total @ spirit peg** *(incl. CY13-6 d4907)* · potable hearts **`SPIRIT-GRAIN-*`** @ [food.md](food.md) *(e.g. **`Y15-1` ~1.55 L** post dehyd d4907)*.
+Potable hearts **`SPIRIT-GRAIN-*`** @ [food.md](food.md). Legacy per-batch condensate IDs **`ETHANOL-DEHYD-CONDENSATE-*`** retired **d4936** — journal holds batch history.
 
 ## Clay, stone and aggregate
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CLAY-P1` | Clay, raw · green | **~2.6 kg** @ pile 1 · **~7.5 kg** @ `MATERIARUM` bay 4 | Pile 1 / yard | | d4896 stock lap |
+| `CLAY-P1` | Clay, raw · green | **~2.6 kg** @ pile 1 · **~6.7 kg** @ `MATERIARUM` bay 4 | Pile 1 / yard | | d4928 hopper wash |
 | `KAOLIN-M26-WET-1` | Kaolin, Koruhöyük **`M-26`** · wet | **×0** | d3329 | d4008 |
 | **`KAOLIN-CAND-EAST-CY13-4830`** | Kaolin, **`SC-KAOLIN-01`** east · wet gross | **×0 spent** | — | d4830 | d4831 wash |
 | `QUARTZ-FACE-B` | Quartz, FACE-B | **~48.6 kg** | `STORE-4` | | d4705 levigate |
@@ -60,20 +48,20 @@ Mash and potable hearts: **`GRAIN-FERMENT-*` · `SPIRIT-GRAIN-*`** @ [food.md](f
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ **`WING-N-CABINET-1`** sealed crock | North wing cabinet | d4153 | d4859 load |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~12 kg** @ pile 4 apron · **~46 kg** @ `MATERIARUM` bays 2–3 | Pile 4 / yard | | d4896 stock lap |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~62.0 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | | d4914 sand haul |
+| **`GRAVEL-1`** | Gravel aggregate | **~41 kg** @ `MATERIARUM` bays 2–3 + apron class | Pile 4 / yard | | d4941 ×16 |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~45.2 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | | d4941 ×16 |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
-| `POZZ-TUFF-1` | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~8 kg** @ pile 4 north · **~11.3 kg** @ `MATERIARUM` bay 1 | Pile 4 / yard | | d4901 mortar |
+| **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~3.5 kg @ `MATERIARUM` bay 1** | Yard bay 1 | | d4941 ×16 |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~82.1 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4901 slake |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.32 kg** tail @ sealed crock | Lime trough | d3390 | d4828 slake |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~54.9 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d4940 kiln |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.4 kg tail** @ sealed crock | Lime trough | d3390 | d4941 ×16 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
-| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×292 unused** *(×52 dry @ `WW-YARD` · **×188 submerged** @ pit · **×52 @ north stem** · **×60 laid `MATERIARUM-1` course 1** — **×24 separators + ×36 back/outer d4901**)* | Block yard / pit / Officina N | d4030 | d4901 lay |
-| `LIME-PUTTY-1` | Lime putty | **~0.03 kg** working tail | Lime trough | | d4882 wear east |
+| **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×244 unused** *(×32 dry @ `WW-YARD` · **×212 submerged** @ pit)* | Block yard / pit | d4030 | d4941 ×16 sprint |
+| `LIME-PUTTY-1` | Lime putty | **×0** working tail | Lime trough | | d4931 ×8 trial |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
 
@@ -131,27 +119,27 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate | **~22.1 kg** | Pile 4 | | d4860 motor branch |
+| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate | **~18.3 kg** | Pile 4 | | d4929 bloom |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~43.1 kg** | v1 chem, isolated | | d4465 roast |
 | `GALENA-1` | Galena-class lead ore | **~24.2 kg** | Forge staging | | d4753 Kisecik |
 | `H-11-HEMATITE` | Hematite | **~0.5 kg tail @ pile 4** | Pile 4 | | d4738 smelt |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~200 g @ chill tray** | Chill tray | d4186 | d4860 motor brushes |
 | **`ST-STR-BUTTON-Y13-3`** | Structural steel button · **`HEAT-Y13-019` · lock reserve** | **~66 g @ chill tray** | Chill tray | d4183 | d4860 motor switch |
 | **`MUSKET-1` · Sentanár** | Smoothbore musketoon · assembled lock/barrel/stock · **✓ Yule field d4240** · ammo bank live | **@ craft wing bench** | Craft wing bench | d4212 | d4240 |
-| **`MUSKET-BALL-Y13-1`** | Round ball · field load | **×7 @ bandolier** | Bandolier | d4228 | d4240 |
+| **`MUSKET-BALL-Y13-1`** | Round ball · field load | **×6 @ bandolier** | Bandolier | d4228 | d4973 hunt |
 | **`MUSKET-BALL-RESERVE-Y13-1`** | Round ball · bank replenishment | **×12 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
 | **`MUSKET-PATCH-KIT-Y13-1`** | Greased linen patches **×10** · horn-tip grease tin · **×8 @ bandolier · ×2 spare @ peg** | **LIVE** | Bandolier / craft peg | d4229 | d4240 |
 | **`MUSKET-PATCH-RESERVE-Y13-1`** | Greased patches · bank tray | **×8 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
-| **`MUSKET-POWDER-FLASK-Y13-1`** | Goat-horn flask · **GOOSE ~13 g · DEER ~20 g** · **~85 g mealed @ loop** | **@ bandolier flask loop** | Bandolier | d4229 | d4237 |
+| **`MUSKET-POWDER-FLASK-Y13-1`** | Goat-horn flask · **GOOSE ~13 g · DEER ~20 g** · **~72 g mealed @ loop** | **@ bandolier flask loop** | Bandolier | d4229 | d4973 hunt |
 | **`MUSKET-POWDER-RESERVE-Y13-1`** | Mealed powder · hunt bank · sealed jar | **~180 g @ powder safe** | Chem powder safe | d4237 | d4237 |
-| **`MUSKET-CHARGE-TUBE-Y13-1`** | Pre-measured GOOSE · bandolier row | **×3 @ bandolier** | Bandolier | d4235 | d4240 |
+| **`MUSKET-CHARGE-TUBE-Y13-1`** | Pre-measured GOOSE · bandolier row | **×2 @ bandolier** | Bandolier | d4235 | d4973 hunt |
 | **`MUSKET-CHARGE-TUBE-RESERVE-Y13-1`** | Pre-measured GOOSE · bank | **×6 @ powder safe peg tray** | Chem powder safe | d4237 | d4237 |
 | **`MUSKET-BLANK-CHARGES-Y13-1`** | Blank rounds · mealed · wadded · **no ball** · **HIGH/RESERVE @ powder safe · held** | **×2 remain** | Chem powder safe | d4224 | d4227 |
 | **`MUSKET-SLING-Y13-1`** | Shoulder sling + holster · merlot leather · brass swivel | **on `MUSKET-1` / peg** | **`MUSKET-1`** | d4215 | d4215 |
 | **`MUSKET-BANDOLIER-Y13-1`** | Cross-chest band · **patches loaded · flask @ loop** | **vestiarium / wear-ready** | Craft wing | d4216 | d4229 |
 | **`MUSKET-BUTT-PAD-Y13-1`** | Leather butt pad · **`DEER-HIDE-1` · stitched heel wrap** | **on `MUSKET-1`** | **`MUSKET-1`** | d4214 | d4214 |
 | **`MUSKET-LOCK-MOCKUP-Y13-1`** | Oak lock test frame · **fit trial ✓ d4196** | **@ craft wing bench** | Craft wing bench | d4196 | d4196 |
-| `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **~1.5 kg tail** | Pile 4 tray | d3618 | d4885 bloom |
+| `M-22-MAGNETITE-1` | Magnetite · **`M-22-TALUS-S1` strip** · dressed @ face | **×0 tail** | Pile 4 tray | d3618 | d4929 smelt |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
 | `AZURITE-1` | Azurite · smelts as copper **or** grinds as blue pigment | **~0.21 kg** *(pigment reserve)* | Chem porch | | d4614 paint trace |
 | `CU-SLAG-Y10` | Copper slag · re-charge stock, still holds metal | ~3.8 kg | Slag dish | | d3230 |
@@ -184,7 +172,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~1.27 kg tail @ mount** | Forge mount | | d4894 tyre strap |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~0.90 kg @ mount** | Forge mount | | d4930 eject |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
 | **`REBAR-PRODUCTION-RACK-1`** | Production rebar · twisted · ~10 mm · ~555–565 mm · pour hooks · **`REBAR-BAR-CY13-33`…`36` on rack** | **×16** | Forge peg rack | d4744 | d4776 |
 | **`REBAR-R&D-Y13-1`** | Rebar QC ladder · twist/lap/bond/cover · **break PASS d4029** | **cert on file** | — | d4029 | d4029 |
@@ -208,7 +196,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `CS-TEST-COUPON-Y12-1` | Carbon steel test coupon · fracture reference | **~18 g** | Bench vial | Y12 | d3571 |
 | `CS-TEST-COUPON-Y12-2` | Carbon steel test coupon · bar-2 fracture | **~17 g** | Bench vial | Y12 | d3573 |
 | `SN-BANK` | Tin | **~1.12 kg** | — | | d3743 |
-| `ZNO-CALCINE` | Zinc oxide calcine | **~1.93 kg** | Chem peg | | d4907 dehyd |
+| `ZNO-CALCINE` | Zinc oxide calcine | **~1.92 kg** | Chem peg | | d4933 dehyd |
 | `ZN-METAL-1` | Zinc, prill tail | **~78 g** | Chem-lab lidded tray | | d3743 |
 | `HG-METAL-1` | Mercury · ☠ **not food** · isolated | **~83 g** | Purple lidded jar · vac reserve | | d4467 loop charge |
 | **`VAC-HG-LOOP-Y14-1`** | Mercury · ☠ **in `VAC-BENCH-1` loop only** | **~199.3 g** | Dish + column + trap path | d4467 | d4479 spill trace |
@@ -217,12 +205,12 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | **`LEAD-ACID-PILOT-3`** | Lead-acid pilot cell · **formation ✓ CLOSED · ~54% SOC · on gen bus** · **`LEAD-ACID-JAR-Y13-3`** | **1 jar** | Parallel chem tray B · **`SW-STORAGE-TIE-2`** | d3999 | d4009 |
 | **`LEAD-ACID-PILOT-4`** | Lead-acid pilot cell · **formation ✓ CLOSED · ~54% SOC · on gen bus** · **`LEAD-ACID-JAR-Y13-4`** | **1 jar** | Parallel chem tray B · **`SW-STORAGE-TIE-2`** | d3999 | d4009 |
 | **`MUSKET-BRASS-TRIM-Y13-1`** | Brass trim · Sentanár · entry band · escutcheon · pin caps ×2 | **installed `MUSKET-1` d4213** | **`MUSKET-1`** | d4213 | d4213 |
-| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~54 g @ chill tray** | Chill tray | d4871 smelt | d4872 curtains |
+| `BRASS-STOCK` | Brass stock · cementation ingot · component tail | **~24 g @ chill tray** | Chill tray | d4871 smelt | d4918 bush |
 | **`HINGE-BRASS-STRAP-CY13-4687`** | Brass strap hinges · construction buffer | **×4 @ craft peg tray** | Craft peg | d4687 | d4687 |
 | **`HINGE-BRASS-CABINET-CY13-4740`** | Brass cabinet butt hinges · north wing buffer | **×6 @ craft peg tray** | Craft peg | d4740 | d4850 cabinet |
 | **`FUSE-LINK-Y14-1`** | EC-1 link fuse · **0.3 mm × ~8 cm** class | **×1 @ chem peg pouch** | Chem peg | d4561 | d4860 motor |
 | `NAIL-BRASS` | Brass nails | ×4 | `WOOD-CRATE-5` forge fastener | | d3103 |
-| `NAIL-IRON` | Iron nails | **×4 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4895 barrow mount |
+| `NAIL-IRON` | Iron nails | **×7 @ bench peg tray** *(×3 cave crate tail)* | `FORGE-D` bench | d3514 | d4930 eject |
 | `WOOD-SCREW-STOCK-1` | Wood screws · brass all-body · coarse slot | **×2 @ bench tray** *(×1 MARGINAL slot)* | Bench tray | | d4874 stool |
 
 ## Copper wire
@@ -281,26 +269,27 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FLAX-TOW-BANK` | Flax tow | **~116 g** | Wing shelf | | d4797 plaster |
+| `FLAX-TOW-BANK` | Flax tow | **~281 g** | Wing shelf | | d4966 heckle |
 | `FLAX-THREAD-COVER-Y10-1` | Flax thread · wagon cover inner | ~55 m tail | Craft wing peg | d3401 | d3406 |
 | `FLAX-THREAD-SHINGLE-Y10-1` | Flax thread · roof / shingle mat bank | **~11.8 m** tail | Craft wing peg | d3505 | d4224 |
 | `ROOF-SHINGLE-FINISHED-Y12-1` | Flax shingle strips · impregnated · sanded · ~10 × 18 cm | **×7** | Chem porch peg | d3869 | d3869 |
-| `FLAX-THREAD-BANK` | Flax thread | ~13 m | Craft cabinet 2 | | d2565 |
-| **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.58 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d4601 |
-| **`FLAX-LINE-Y13-1`** | Flax line · field Y13 · **`P-RETT-37` heckle** | **~1.364 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4873 rod lash |
-| **`FLAX-LINE-Y14-1`** | Flax line · field Y14 · **`P-RETT-38` heckle** | **~2.48 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4623 | d4623 |
+| `FLAX-THREAD-BANK` | Flax thread | **×0 tail** | Craft cabinet 2 | | d4925 sheet close |
+| **`FLAX-LINE-Y12-1`** | Flax line · field Y12 · **`P-RETT-34` heckle** | **~1.28 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d3865 | d4962 spin |
+| **`FLAX-LINE-Y13-1`** | Flax line · field Y13 · **`P-RETT-37` heckle** | **~1.03 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4974 hang wire |
+| **`FLAX-LINE-Y14-1`** | Flax line · field Y14 · **`P-RETT-38` heckle** | **~1.94 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4623 | d4925 sheet close |
+| **`FLAX-LINE-Y15-1`** | Flax line · field Y15 · **`P-RETT-39` heckle** | **~2.42 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4966 | spin defer |
 | **`CARBON-FILAMENT-STOCK-Y14-1`** | Carbon filament · hand-drawn flax | **~8.1 g** · ×12 lengths @ chem peg | Chem porch | d4452 | d4481 matrix |
 | **`WING-LAMP-FILAMENT-CY13-1`** | Carbon filament · **wing lamp · ~0.22–0.28 mm · extra-dry redraw** | **~3.95 g** · ×6 lengths @ chem peg *(spare)* | Chem porch | d4845 | d4846 A/B spent |
 | **`CARBON-FILAMENT-FINE-Y14-1`** | Carbon filament · **elite fine · ~0.26–0.32 mm** | **~4.9 g** · ×6 lengths @ chem peg | Chem porch | d4481 | d4845 redraw tail |
 | **`IRON-FILAMENT-WIRE-Y14-1`** | Iron wire · lamp draw trial · **~0.22 mm** | **~0.89 m** @ chem peg | Chem porch | d4452 | d4480 cork trial |
 | **`REED-CARBON-FILAMENT-STOCK-Y14-1`** | Reed ribbon char · hand-drawn · scout | **~5.6 g** · ×9 lengths @ chem peg | Chem porch | d4575 | d4845 redraw feed |
 | **`FLAX-WILD-LINE-Y13-L1`** | Wild flax line · lap 1 · **`P-RETT-35` heckle** | **~0.46 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4601 |
-| **`HEMP-LINE-Y13-1`** | Hemp line · Bed A Y13 · **`P-RETT-36` heckle** | **~0.89 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4236 |
+| **`HEMP-LINE-Y13-1`** | Hemp line · Bed A Y13 · **`P-RETT-36` heckle** | **~0.86 kg** @ `WOOD-CRATE-6` fibre | Storage wing | d4236 | d4922 tent guy |
 | **`HEMP-FIBRE-Y14-1`** | Hemp stalk · Bed A north Y14 · **`HEMP-CUT` d4485** · dry @ rafter | **~8.1 kg** @ `W-1` north | Barn | d4485 | d4485 cut |
 | **`THISTLE-HEAD-DRIED-Y13-1`** | Cardoon-type heads · full-flower cut · rennet stock | **×9 @ horreum herb peg** | Horreum | d4074 | d4074 |
 | **`THISTLE-HEAD-DRIED-Y14-1`** | Cardoon-type heads · Y14 cut · dry queue @ `W-1` | **×8 heads** | `W-1` north rafter | d4407 | d4407 |
 | **`THISTLE-HEAD-DRIED-Y15-1`** | Cardoon-type heads · Y15 lap 1 · rennet stock | **×9 heads** wet-cut | `W-1` north rafter | d4824 | d4824 |
-| **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~19.1 m** @ craft peg | Craft wing peg | d3977 | d4239 |
+| **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~5.1 m** tail @ craft peg | Craft wing peg | d3977 | d4923 warp |
 | **`MOUTH-FLOSS-Y13-1`** | Waxed floss · 3-ply flax · **`DEER-TALLOW`** | **~12 m @ craft peg** | Craft wing peg | d4239 | d4239 |
 | **`TOOTH-BRUSH-Y13-1`** | Oak handle · frayed flax line head | **@ culina peg** | Culina | d4239 | d4239 |
 | **`MINT-INFUSE-OIL-Y13-1`** | Mint macerate in clear cook oil · **not steam distill** | **~35 ml @ culina shelf** | Culina | d4239 | d4239 |
@@ -316,7 +305,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `ROPE-2` | 3-strand hemp · ★ **certified: loaded haul and lashing at breaking ÷ 6, spliced not knotted** · ⚠ **not life-bearing** | ~23 m | — | d3255 | d3264 |
 | `ANTLER-SHED` | Antler, cast and hard · beats bone for anything taking a blow | ×6 | Craft wing | | d3269 |
 | `CLOTH-WAGON-COVER` | Wagon cover cloth, tail stock | ~2.00 kg | `CART-YARD` south peg row | | d3472 |
-| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~77 m** | Craft wing peg | | d4633 tie-off |
+| `THREAD-STOCK-2` | Thread · *coil serving — leads and crossovers only* | **~503 m** | Craft wing peg | | d4963 spin |
 | `THERMAE-FULL-Y14-1` | Full-width thermae towel · purple · gold end vines | **×1 @ felt** | Atelier felt | d4604 | d4633 |
 | `THERMAE-FULL-Y14-2` | Full-width thermae towel · purple · gold end vines | **×1 @ felt** | Atelier felt | d4613 | d4633 |
 | `THERMAE-FULL-Y14-3` | Full-width thermae towel · purple · gold end vines | **×1 @ felt** | Atelier felt | d4623 | d4633 |
@@ -343,12 +332,13 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — b
 | `SINEW-DRY` | Sinew, dry | **~23 g** | Bench | | d4911 boar |
 | **`DEER-HIDE-RAW-Y12-1`** | Red deer hide · salted · **Yule belt / tan queue** | **×0 → pit** | — | d3795 | d3796 |
 | `GOAT-HIDE-A03-2` | Goat hide, reserve · flap tail | **~0.05 m²** | Horreum B | | d4794 seal |
-| `HIDE-SCRAP` | Hide scrap, tail | **~0.09 m²** | — | | d3655 |
+| `HIDE-SCRAP` | Hide scrap, tail | **~0.07 m²** | — | | d4927 cam foot |
 | `WEATHER-STRIP-LEATHER-1` | Weather strip, ~25 mm | ~4.6 m | — | | d3167 |
 | `MACHINE-BELT-LEATHER-KIT-1` | Machine belt stock — WW · drill · trip tail | — | `BELT` peg | | d3052 |
 | `TRAIL-GEAR-LEATHER-1` | Belt v2 blank · waterskin patch · lash tabs ×4 | — | Vestiarium trail peg | | d2964 |
 | `DEER-BONES` | Deer bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
 | **`DEER-BONE-Y12-1`** | Red deer bone · **`DEER-BUTCHER-Y12-3796`** | **~11 kg** | **`BONE-BANK-1`** peg | d3796 | d3796 |
+| **`RED-STAG-BONE-Y10-1`** | Stag bone · **`RED-STAG-Y10-1` sort d4958** | **~3.2 kg** | **`BONE-BANK-1`** peg | d4958 | d4958 |
 | **`BOAR-HIDE-RAW-Y15-1`** | Wild boar hide · salted raw · **`MUSKET-HUNT-BOAR-Y15-4911`** | **~0.92 m²** | Horreum B salt rack | d4911 | d4911 |
 | **`BOAR-BONE-Y15-1`** | Wild boar bone · frames | **~8.4 kg** | **`BONE-BANK-1`** peg | d4911 | d4911 |
 | `GOAT-BONES` | Goat bone · bone-ash feedstock | ×0 — *burnt d3309* | Horreum tool peg | | d3309 |
@@ -383,7 +373,8 @@ Rope is here rather than in tools because it is measured and consumed. A rope ri
 | **`PAINTING-Y14-1`** | Egg-tempera on linen panel · horizon + memory portrait · north-light study | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y14-1`** | Oak slip frame · ~280×360 mm · keyed corners | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
 | **`FRAME-OAK-Y14-2`** | Oak slip frame · ~280×360 mm · mate to **`PAINTING-Y14-1`** | **×1** | M2 WORK north wall | d4306 retcon | d4306 retcon |
-| **`FRAME-OAK-Y15-POKER-1`** | Oak stretcher · ~360×480 mm · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **×1** @ `EASEL-1` | M2 WORK | d4610 | d4610 |
+| **`FRAME-OAK-Y15-POKER-1`** | Oak stretcher · ~360×480 mm · **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | **mounted @ domus ante** | Domus ante | d4610 | d4974 hang |
+| **`FRAME-OAK-Y15-POKER-OUTER-1`** | Oak outer frame · carved ogee · **`YULE-GIFT-Y15-DONKEYS-POKER-1`** | **✓ hung domus ante east wall** | Domus ante | d4969 | d4974 hang |
 | **`PAINTING-DONKEYS-PLAYING-POKER-Y15-1`** | Donkeys Playing Poker homage · egg-tempera WIP | **~40% @ `EASEL-1`** | M2 WORK north light | d4610 | d4677 |
 
 *Prior: **`PAINT-CANVAS-1`** @ **`EASEL-1`** · swatch studies d1701+ · **`EASEL-1`** @ infrastructure/M2.*
@@ -419,12 +410,8 @@ Madder needs an alum mordant. Woad does not — it is a vat dye and fixes mechan
 | `M-14-SULFUR` | Sulfur · ~15.6 kg block plus ~88 g flour | **~15.60 kg** | — | | d4237 |
 | `M-11-ALUM` | Alum, crude | **~1.22 kg** | — | | d4870 mordant |
 | `M-12-NITER` | Niter crystal | **~633 g @ chem** · **~100 g @ `CAVE-RECOVERY-CRATE-1`** | Dry jar / cave vial | d3424 | d4910 boil |
-| `BLEACH-CLEAN-Y10-1` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-1` | d3454 | d3456 |
-| `BLEACH-CLEAN-Y10-2` | Hypochlorite bleach · dilute cleaning stock | ~220 ml | `P-LAB-BLEACH-BOTTLE-2` | d3456 | d3456 |
-| `BLEACH-CLEAN-Y10-3` | Hypochlorite bleach · dilute cleaning stock · spare | ~220 ml | `P-LAB-BLEACH-BOTTLE-5` | d3456 | d3456 |
-| `BLEACH-CHEM-Y10-1` | Hypochlorite bleach · concentrated chem stock | ~95 ml | `P-LAB-BLEACH-BOTTLE-3` | d3454 | d3454 |
-| `BLEACH-CHEM-Y10-2` | Hypochlorite bleach · concentrated chem stock | ~95 ml | `P-LAB-BLEACH-BOTTLE-4` | d3456 | d3456 |
-| `BLEACH-CHEM-Y10-3` | Hypochlorite bleach · concentrated chem stock · spare | ~95 ml | `P-LAB-BLEACH-BOTTLE-6` | d3456 | d3456 |
+| **`BLEACH-CLEAN-1`** | Hypochlorite bleach · dilute cleaning stock | **~660 ml** | Bleach peg · `P-LAB-BLEACH-BOTTLE-1/2/5` | d3454 | d4936 ledger |
+| **`BLEACH-CHEM-1`** | Hypochlorite bleach · concentrated chem stock | **~285 ml** | Bleach peg · `P-LAB-BLEACH-BOTTLE-3/4/6` | d3454 | d4936 ledger |
 | `QUARTZ-FRIT` | Quartz frit | ~40 g | Vial `G-FRIT` | | d3332 |
 
 `BITTER-SALT-1` is the sulfate of an earth that is **not lime** — lime water precipitates it, hepar confirms sulfate, and a clean hydrogen flame rules out soda.
@@ -488,9 +475,9 @@ The first wall swatch **failed on a dry wall** — the substrate drank the water
 | `BEESWAX-V1` | Beeswax · *(plus ~1.04 kg at the wax store — see below)* | **~206 g** | v1 chem · craft cabinet 2 | | d3958 |
 | `TALLOW-1` | Tallow | **~50 g** | v1 trough jar | | d3598 |
 | `WAX-DROSS-1` | Slumgum / wax dross · fire starter | **~63 g** | Hearth / lean jar | | d4726 render |
-| `ROSIN-1` | Rosin · pale, brittle | **~74 g** | Chem porch | | d4848 bench wrap |
+| `ROSIN-1` | Rosin · pale, brittle | **~54 g** | Chem porch | | d4970 varnish |
 | `WAX-ROSIN-COMPOUND-2` | Wire-coating compound | **×0 · pot scraped** | Melt pot | | d3980 |
-| `TURPENTINE-1` | Turpentine · ☠ **flammable — cool, away from fire** | **~14 ml** | Stoppered glass, chem rack | d3237 | d3958 |
+| `TURPENTINE-1` | Turpentine · ☠ **flammable — cool, away from fire** | **~7 ml** | Stoppered glass, chem rack | d3237 | d4970 varnish |
 
 Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the linseed-varnish thinner. `PINE-TAP-CUPS` — ×8 trees scored and cupped at the pine stand — are a standing resource and live in [crops.md](crops.md); collect on the pass.
 
@@ -512,7 +499,7 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `WAX-Y10-RENDER-1` | Beeswax, clean cake — render stock | **~646 g** | Wax store | | d4848 bench wrap |
+| `WAX-Y10-RENDER-1` | Beeswax, clean cake — render stock | **~610 g** | Wax store | | d4928 hopper |
 | `COMB-TO-RENDER` | Comb awaiting render | **×0** | — | | d4726 render |
 
 Y10's binding constraint, closed. Yield per kg of comb is low because old brood comb is mostly cocoon and propolis — honey comb off top bars is the rich fraction. See [bees.md](../government/procedures/bees.md).
@@ -533,7 +520,7 @@ Rows that sat in the v1 sections ported so far but are not resources. Recorded s
 | [bees.md](../government/procedures/bees.md) | Apiary roster · **`BAIT-BOX` @ row when band open** |
 | [goats.md](../government/procedures/goats.md) | Goat roster · lineage · rut/slaughter gates *(d4270)* |
 
-**Dropped, not lost.** Closed batches and spent kits — `ACORN-LEACH-Y6-1` through `Y8-6`, `TRAIL-GRAVEL-KIT-1/4/7`, `KAOLIN-CAND-1/2/4-EAST`, `PORCELAIN-BODY-MIX-3/4/5`, `FELDSPAR-CHIP-SET-1`, `KELP-DRY-STAGING`, `CU-WIRE-STOCK-1`, `WIRE-CU-3`, `EM-COIL-2`, the Y6–Y9 bread bakes, and the d2818–d2830 construction read rows — are journal records, not stock. See the retirement rule in [index.md](index.md).
+**Dropped, not lost.** Closed batches and spent kits — `ACORN-LEACH-Y6-1` through `Y8-6`, `TRAIL-GRAVEL-KIT-1/4/7`, `KAOLIN-CAND-1/2/4-EAST`, `PORCELAIN-BODY-MIX-3/4/5`, `FELDSPAR-CHIP-SET-1`, `KELP-DRY-STAGING`, `CU-WIRE-STOCK-1`, `WIRE-CU-3`, `EM-COIL-2`, the Y6–Y9 bread bakes, and the d2818–d2830 construction read rows — are journal records, not stock. **`ETHANOL-DEHYD-CONDENSATE-*` per-batch jars** · **`BLEACH-*-Y10-*` per-bottle ledger IDs** consolidated **d4936** → **`ETHANOL-DEHYD-STOCK-1` · `BLEACH-CLEAN-1` · `BLEACH-CHEM-1`**. See the retirement rule in [index.md](index.md).
 
 ## ⚠ Doctrine rows — these are not inventory
 

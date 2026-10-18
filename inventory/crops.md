@@ -15,7 +15,7 @@ Y15 sow **d4676**. Bed geometry is [map](../map/index.md); what to select for is
 | `HEMP-FIBRE-Y15` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **~18 m²** | d4676 | **Dense drill** |
 | `HEMP-FLOWER-Y15` | Hemp · flower QoL block | Bed A north-west · **~4 m²** | d4676 | **Thin drill · RESERVE peg** |
 | `FAVA-Y15` | Fava · elite + working | Bed A west · **~8 m²** | d4676 | **Dibbed deep** |
-| `P-18-CHICKPEA-Y15` | Chickpea | Bed A south · **~6 m²** | d4676 | **Row drill** |
+| `P-18-CHICKPEA-Y15` | Chickpea | Bed A south · **~6 m²** | d4676 | **✓ cut d4951 · stubble** |
 
 ☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before flower block sets). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
 
@@ -23,10 +23,10 @@ Y15 sow **d4676**. Bed geometry is [map](../map/index.md); what to select for is
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y15` | Flax, field · fibre | Bed B centre · **~16 m²** | d4676 | **Dense drill** |
-| `EMMER-Y15` | Emmer | Bed B south + centre · **~10 m²** | d4676 | **Broadcast · rolled** |
-| `BARLEY-TRIAL-Y15` | Barley trial · **expanded** | Bed B east margin · **~4 m²** | d4676 | **Row drill** |
-| `P-17-LENTIL-Y15` | Lentil | Bed B north + margin · **~6 m²** | d4676 | **Row drill** |
+| `FLAX-FIELD-Y15` | Flax, field · fibre | Bed B centre · **~16 m²** | d4676 | **✓ pulled d4952** |
+| `EMMER-Y15` | Emmer | Bed B south + centre · **~10 m²** | d4676 | **✓ cut d4949 · stubble** |
+| `BARLEY-TRIAL-Y15` | Barley trial · **expanded** | Bed B east margin · **~4 m²** | d4676 | **✓ cut d4949 · stubble** |
+| `P-17-LENTIL-Y15` | Lentil | Bed B north + margin · **~6 m²** | d4676 | **✓ cut d4950 · stubble** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
 | `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d4676 | **Staked · in crop** |
 
@@ -35,7 +35,7 @@ Y15 sow **d4676**. Bed geometry is [map](../map/index.md); what to select for is
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
 | `SEED-INCREASE-BLOCK-Y15` | Emmer elite increase | Bed C south corner · **~3 m²** | d4676 | **Wide drill · RESERVE peg** |
-| `PULSE-SELECTION-Y15` | Lentil thick stand · selection + regen | Bed C SW · **~8 m²** | d4676 | **Thick drill** |
+| `PULSE-SELECTION-Y15` | Lentil thick stand · selection + regen | Bed C SW · **~8 m²** | d4676 | **✓ cut d4950 · stubble** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -63,5 +63,6 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 | **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **✓ FIBRE CLOSED d4236** |
 | **`P-RETT-37`** | Flax field Y13 | — | d4219 | **✓ FIBRE CLOSED d4236** |
 | **`P-RETT-38`** | Flax field Y14 | — | d4590 | **✓ FIBRE CLOSED d4623 · `FLAX-LINE-Y14-1` ~2.48 kg** |
+| **`P-RETT-39`** | Flax field Y15 | — | d4952 | **✓ FIBRE CLOSED d4966 · `FLAX-LINE-Y15-1` ~2.42 kg** |
 
-**`RETT-TROUGH-FLAX-1` empty** @ ditch W · break/heckle defer when dry queue reads.
+**`RETT-TROUGH-FLAX-1` empty** post **`P-RETT-39` pull d4962** · reload when green bundle names.
