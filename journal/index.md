@@ -6,10 +6,27 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 5024 · `year-014/`)*
+## Recent days *(append here · @ Day 5041 · `year-014/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5041 | [day-5041.md](days/year-014/week-721/day-5041.md) | **✓ WW-2 bucket install** | **Cal-Y14 D57 · ~0.41 kW** |
+| 5040 | [day-5040.md](days/year-014/week-720/day-5040.md) | **✓ Spring sow CY14** | **Cal-Y14 D56 · buckets defer** |
+| 5039 | [day-5039.md](days/year-014/week-720/day-5039.md) | **✓ WW-2 buckets ×10** | **Cal-Y14 D55 · mount queued** |
+| 5038 | [day-5038.md](days/year-014/week-720/day-5038.md) | **✓ Rag test · goats** | **Cal-Y14 D54 · sow gate d5040** |
+| 5037 | [day-5037.md](days/year-014/week-720/day-5037.md) | **✓ WW-2 buckets ×8** | **Cal-Y14 D53 · G-04 watch** |
+| 5036 | [day-5036.md](days/year-014/week-720/day-5036.md) | **✓ WW-2 buckets ×4** | **Cal-Y14 D52 · ×4/10 staged** |
+| 5035 | [day-5035.md](days/year-014/week-720/day-5035.md) | **✓ Nail batch** | **Cal-Y14 D51 · ×34 tray** |
+| 5034 | [day-5034.md](days/year-014/week-720/day-5034.md) | **✓ Sow prep** | **Cal-Y14 D50 · W720 open** |
+| 5033 | [day-5033.md](days/year-014/week-719/day-5033.md) | **✓ Grape prune · farm close** | **Cal-Y14 D49 · W719 close** |
+| 5032 | [day-5032.md](days/year-014/week-719/day-5032.md) | **✓ Wood haul · cut-over slate** | **Cal-Y14 D48 · +~84 kg** |
+| 5031 | [day-5031.md](days/year-014/week-719/day-5031.md) | **✓ Curved bucket trial** | **Cal-Y14 D47 · hybrid transition** |
+| 5030 | [day-5030.md](days/year-014/week-719/day-5030.md) | **✓ WW-2 apron** | **Cal-Y14 D46 · ~0.35 kW** |
+| 5029 | [day-5029.md](days/year-014/week-719/day-5029.md) | **✓ WW-2 head + torque** | **Cal-Y14 D45 · cost plan** |
+| 5028 | [day-5028.md](days/year-014/week-719/day-5028.md) | **✓ WW-2 loss audit** | **Cal-Y14 D44 · crossflow gate** |
+| 5027 | [day-5027.md](days/year-014/week-719/day-5027.md) | **✓ Goat · hydro survey** | **Cal-Y14 D43 · W719 open** |
+| 5026 | [day-5026.md](days/year-014/week-718/day-5026.md) | **✓ Sand haul** | **Cal-Y14 D42 · W718 close** |
+| 5025 | [day-5025.md](days/year-014/week-718/day-5025.md) | **✓ Spare bulbs 12–13** | **Cal-Y14 D41 · bank ×4** |
 | 5024 | [day-5024.md](days/year-014/week-718/day-5024.md) | **✓ Vac · spare bulbs ×2** | **Cal-Y14 D40** |
 | 5023 | [day-5023.md](days/year-014/week-718/day-5023.md) | **✓ Bulb shells ×4** | **Cal-Y14 D39 · spare bank** |
 | 5022 | [day-5022.md](days/year-014/week-718/day-5022.md) | **✓ Glass stock prep** | **Cal-Y14 D38** |

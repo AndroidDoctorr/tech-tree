@@ -1,6 +1,6 @@
 # Week 718
 
-**Status:** **OPEN @ d5024 day 5** · **Cal-Y14 D40**
+**Status:** **CLOSED @ d5026 day 7** · **Cal-Y14 D42**
 
 *Week 717 closed @ d5019 day 7.*
 
@@ -8,6 +8,8 @@
 
 | Day | Summary |
 |---|---|
+| **5026** | **✓ Sand haul · bay 4 ~136 kg** |
+| **5025** | **✓ Vac finish · spare bulbs ×4 bank** |
 | **5024** | **✓ Vac ×2 spare bulbs · #12 on header** |
 | **5023** | **✓ Bulb glass ×4 spare shells** |
 | **5022** | **✓ Glass/cullet stock prep** |

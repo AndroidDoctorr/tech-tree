@@ -2,7 +2,7 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history here.*
 
-> **Day 5024** · **Cal-Y14 D40** · ~10 Feb Y14 · **Week 718 day 5**
+> **Day 5041** · **Cal-Y14 D57** · ~27 Feb Y14 · **Week 721 day 2**
 >
 > **HOME** · **Cal-Y14 open** · **main:** concrete/block mats · **`HYDRO-ELEC-1` Q/head** · **side:** [electronics-lab-stock-y14.md](plans/electronics-lab-stock-y14.md) · [ec-1-campus-expansion.md](plans/ec-1-campus-expansion.md)
 
@@ -10,39 +10,25 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 
 ---
 
-## Farm — Y15
+## Farm — Cal-Y14
 
-**✓ `SPRING-SOW-Y15` d4676** · **scare-only on new rows** · band close **16 Mar**
-
-| Bed | In | Sown |
-|---|---|---|
-| B centre | **✓ flax arc closed d4966 · `FLAX-LINE-Y15-1`** | **d4676** |
-| B S + centre | **✓ emmer cut d4949** | **d4676** |
-| B north | **✓ lentil cut d4950** | **d4676** |
-| B east margin | **✓ barley trial cut d4949** | **d4676** |
-| A south | **✓ chickpea cut d4951** | **d4676** |
-| C SW | **✓ lentil selection cut d4950** | **d4676** |
-| C south corner | **Emmer elite increase** | **d4676** |
-| A north | **Hemp fibre · `P-22` import charge** | **d4676** |
-| A NW | **`HEMP-FLOWER-Y15` ~4 m²** | **d4676** |
-| A west | **Fava dib** | **d4676** |
-| Culina | **Coriander · rosemary · thyme · mint · parsley · allium** | **d4676** |
+**Field crop:** ✓ **`SPRING-SOW-CY14-5040`** · **Y16 standing crop** · ✓ prior harvest **d4949–4952** · **`BIRD-WATCH` live** · scare-only through rows.
 
 | Perennial | State |
 |---|---|
-| `P-03` cordon | ✓ **`GRAPE-SHOOT-THIN-Y15-1` d4708** · ✓ **`GRAPE-CLUSTER-THIN-Y15-1` primary d4825** · **✓ `GRAPE-PRUNE-Y14-1` d4591** |
+| `P-03` cordon | ✓ **`GRAPE-PRUNE-CY14-1` d5033** · spring interior doubles / blind positions tagged |
 | `P-03-REGEN-Y12-1` | @ T-2 lip d3578 · `P-03-SEL-Y9` ~13 g hold |
 | Bed D figs · madder · woad | **✓ Y15 tail d4875 · band closed** · madder hands off |
 
-**Seed:** ✓ **`SEED-RAG-TEST-Y15` d4674** · **`ARK-JAR` ×4 certified empty** · **⚠ `P-17-ELITE-Y14` / `P-07-ELITE-Y14` holds thin post-sow**.
+**Seed:** ✓ **sow debited d5040** · reserves held per bank · `ARK-JAR` ×4 certified empty.
 
 ## Live bands — open only
 
 | Band | Window | State |
 |---|---|---|
 | **`ICE-HAUL`** | **20 Jan – 14 Feb · tail to 14 Feb** | **✓ CLOSED d5021 · vault ~128.5 kg cap-bound** |
-| **`SPRING-SOW-Y16`** | **26 Feb – 16 Mar** | **⚑ ~16 d to frost gate · prep when named** |
-| **`BIRD-WATCH` / `BIRD-DEVICE-RESET`** | **Sow + ~3 wk** | **✓ CLOSED d4709** |
+| **`SPRING-SOW`** | **26 Feb – 16 Mar** | **✓ OPEN d5040 · hero logged** |
+| **`BIRD-WATCH` / `BIRD-DEVICE-RESET`** | **Sow + ~3 wk** | **LIVE d5040 · rattle + kite** |
 | **`SPRING-SOW-Y14`** | **26 Feb – 16 Mar** | **✓ CLOSED d4328** |
 | **`HERB-SEED-DESIGNATE`** | **21 Mar – 20 Apr** | **✓ Y15 d4709** · Y14 ✓ d4338 |
 | **`HIVE-SPLIT` · `WAX-RENDER`** | **21 Mar – 20 Apr** | **✓ first `WAX-CUT` + render d4726 · split on charged cup only** |
@@ -65,7 +51,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`P-RETT-36`** | **—** | **✓ FIBRE CLOSED d4236 · `HEMP-LINE-Y13-1`** |
 | **`PISTACHIO-PICK`** | **1 Sep – 15 Oct** | **Y15 primary ✓ d4875 · shell+roast ✓ d4947** |
 | **`HEMP-SEED-STRIP` Ghab** | **~5 Sep – 10 Oct** | **Y15 SKIP** *(player defer)* · Y14 ✓ d4505–4506 |
-| **`ACORN-GATHER` batch 2** | **15 Sep – 30 Nov** | **Lap 3 ✓ d4876 · `ACORN-SHELL-ON` ~19.8 kg · `ACORN-LEACH-Y15-1` soak 1 ⧗** |
+| **`ACORN-GATHER` batch 2** | **15 Sep – 30 Nov** | **Lap 3 ✓ d4876 · `ACORN-SHELL-ON` ~19.8 kg · `ACORN-DRY-Y15-1` ~710 g wet @ tray** |
 | **`NITRE-LEACH`** | **15 Sep – 31 Oct** | **Y15 batch 1–2 ✓ d4906–4910 · optional batch 3** |
 | **`SALT-EVAP`** | **6 Nov – 26 Nov** | **Cycle 1 ✓ d4205 · cycle 2 harvest ✓ d4578 · optional pour #3 · ~5 d band left** |
 | **Goat rut** | **Sep – Dec** | **✓ Wether #3 since ~d3248 · no second buck** |
@@ -76,7 +62,7 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`GRAIN-FERMENT-Y14-1`** | **✓ CLOSED d4625 · `SPIRIT-GRAIN-Y14-1` ~2.78 L** | **`BARREL-5` empty rinsed** |
 | **`GRAIN-FERMENT-Y13-2`** | **✓ CLOSED d4257 · `SPIRIT-GRAIN-Y13-2` ~2.95 L** | **spirit peg buffer LIVE** |
 | **`MUSKET-AMMO-Y13-1`** | **✓ CLOSED d4230 · field d4240 · boar d4911** | **Field ×6 ball · bank ×12 · powder jar ~160 g class · tubes ×3 + ×6 reserve** |
-| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ Y14 pass d4591 · Feb touch optional** |
+| **`GRAPE-PRUNE` spur pass** | **1 Nov – 28 Feb** | **✓ current winter pass d5033** |
 | **`FLAX-PULL-WILD` heckle** | **—** | **✓ `P-RETT-35` CLOSED d4236** |
 | **`INBREEDING-METER`** | **—** | **~13% stable · ✓ Y14 import plan: autumn sealed colony @ d4342** |
 | **`FORSTERITE-BRICK`** | **—** | **Optional margin batches · muffle bank live** |
@@ -112,10 +98,8 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`TILE-TF-GREEN-CY13-4831`** | **×0 · fired d4855** | — |
 | **`KAOLIN-SLIP-M26-1`** | **~8.25 kg** @ chem porch | d5023 spare shells ×4 |
 | **`KAOLIN-SLIP-M26-BEST-1`** | **×0** tail spent | bulk-only slips |
-| **`BULB-LAMP-SPARE-CY14-10/11`** | **×2 sealed @ vac peg** | d5024 |
-| **`BULB-PROD-Y14-12`** | **⧗ on header** | tip defer |
-| **`BULB-PROD-Y14-13`** | **shell @ spare peg** | stem open |
-| **`REED-FILAMENT-DRY-Y14-2`** | **×7 spare** *(×1 w/ #12)* | d5024 |
+| **Carbon lamps** | **×8 mounted · ×3 spare · ×1 museum** | **`BULB-PROD-Y14-1` not for service · spares `10–13` @ vac peg** |
+| **`REED-FILAMENT-DRY-Y14-2`** | **×6 spare** | d5025 |
 | **`FORSTERITE-GROG-1`** | **~1.5 kg** | d4834 reflector 2 |
 | **`BULB-WING-N-LAMP-1`** | **✓ LIVE @ north ceiling** | d4847 |
 | **`BULB-WING-N-LAMP-2`** | **✓ LIVE @ centre** | d4847 |
@@ -129,15 +113,15 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`PARCHED-MU-12-Y12-1`** | **~0.38 kg** @ snack jar | d3872 |
 | **`STEW-Y12-JAR-3854`** | **~0.84 kg** @ cool step | d3872 |
 | **`FLAX-LINE-Y12-1`** | **~1.28 kg line** @ `WOOD-CRATE-6` | d4962 spin |
-| **`WOOD-OAK-P5`** | **~53.0 kg** @ pile 5 main | d5019 test |
+| **`WOOD-OAK-P5`** | **~77.2 kg** @ pile 5 main | d5041 daily |
 | **`GRAVEL-1`** | **~41 kg** @ materiarum bays 2–3 + apron class | d4941 ×16 |
-| **`SAND-FILTER-1`** | **~113.5 kg** @ materiarum bay 4 | d4980 haul |
+| **`SAND-FILTER-1`** | **~136.9 kg** @ materiarum bay 4 | d5033 glean |
 | **`LIME-PUTTY-1`** | **×0** working tail | d4931 ×8 |
 | **`CACO3-P7`** | **~122.6 kg** @ pile 7 north face | d5001 kiln |
 | **`QUICKLIME-1`** | **~18.0 kg** @ sealed crock | d5001 kiln |
-| **`CHAR-LANE`** | **~20.3 kg** | d5023 bulb anneal |
-| **`POZZ-TUFF-1`** | **~8.3 kg @ bay 1** · **~2 kg** pile 4 runway | d4939 consolidate |
-| **`NAIL-IRON`** | **×18 @ bench peg tray** | d5015 hang |
+| **`CHAR-LANE`** | **~17.5 kg** | d5035 forge |
+| **`POZZ-TUFF-1`** | **~3.5 kg @ bay 1** | d4941 blocks · **crossflow civil haul target 80–140 kg** |
+| **`NAIL-IRON`** | **×8 @ bench peg tray** | d5041 buckets |
 | **`YULE-GIFT-Y15-DONKEYS-POKER-1`** | **✓ hung domus ante east wall** | d4974 |
 | **`SPIRIT-GRAIN-Y15-2`** | **~1.76 L @ spirit peg** | d4973 Yule sip |
 | **`GOOSE-SMOKE-Y15-1`** | **~0.98 kg** @ smoke shelf | d4973 hunt |
@@ -159,17 +143,20 @@ Cleaned d3580. The Y10 discovery log and the technical reference tables that use
 | **`GP-Y8-C-LITE-OFFICINA-N-WING-1`** | **×0 · installed W+E** | d4795 glass |
 | **`GP-Y8-C-LITE`** | **×8 spare** @ storage wing N shelf | d4726 margin |
 | **`WAX-Y10-RENDER-1`** | **~610 g** @ wax store | d4928 hopper |
-| **`EMMER-BULK-Y14`** | **~2.30 kg @ main bay** | d4589 |
+| **`EMMER-BULK-Y15`** | **~1.30 kg @ sow tray** | d5034 stage |
+| **`EMMER-BULK-Y14`** | **~0.53 kg total · ~0.25 kg staged** | d5034 |
 | **`P-18-CHICKPEA-Y14`** | **~287 g @ pulse bay** | d4586 |
 | **`BARREL-4-GRAIN`** | **~0.54 kg @ v1** | d4589 |
 | **`PARCHED-MU-14-Y14-1`** | **~0.50 kg @ `P-μ-12`** | d4589 |
 | **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · **`FLAX-LINE-Y14-1` ~1.94 kg** | d4925 sheet |
-| **`BARLEY-BULK-Y14`** | **~0.52 kg @ barley bay** | d4584 |
+| **`BARLEY-BULK-Y15`** | **~0.09 kg @ sow tray** | d5034 stage |
+| **`BARLEY-BULK-Y14`** | **~0.32 kg total · ~0.11 kg staged** | d5034 |
 | **`BARLEY-BULK-Y12`** | **~0.36 kg** @ horreum barley bay | d3888 |
 | **`FISH-SMOKE-1`** | **~2.03 kg** @ smoke rack | d3872 |
 | **`H-11-HEMATITE`** | **~0.5 kg tail @ pile 4** | d4738 smelt |
+| **`CASSITERITE-CONC`** | **~0.5 kg fines-heavy** | likely enough Sn for crossflow bearings · assay before Kozan |
 | **`REBAR` production** | **×16 @ rack** *(CY13-29…36 new · ×32 spent in pours)* | d4744 |
-| **`IRON-BLOOM-1`** | **~0.32 kg @ mount** | d5014 nails |
+| **`IRON-BLOOM-1`** | **~0.12 kg @ mount** | d5035 nails |
 | **`REBAR-R&D-Y13-1`** | **✓ QC break PASS d4029 · production rhythm live** | d4029 |
 | **`REBAR-STD-Y13-1`** | **Twist ref · ~480 mm @ forge peg** | d4022 |
 | **`ST-SPR-STRIP-Y13-1`** | **~52 g tail @ dry tray · brushes spent d3964** | d3964 |
@@ -223,8 +210,8 @@ Bee state lives in [bees.md](government/procedures/bees.md), not here.
 
 | Arc | State | Gate |
 |---|---|---|
-| ✓ **`HYDRO-ELEC-1`** | **Gen feed LIVE d4555** | **Penstock campus draw · deeper pool optional** |
-| **`WW-2` power log** | **Q ~10.6 L/s · stain ~5.3 cm @ d4863** · **~9.0 GB oc · ~2.25 GB·I peak** | **Nadir band ~late Sep · annual chart row filed** |
+| ✓ **`HYDRO-ELEC-1`** | **Forebay + short outlet culvert + race feed LIVE** | **No pressure penstock to wheel · d5028 audit** |
+| **`WW-2` power log** | **Apron + curved buckets LIVE ~0.41 kW** · **~+17% vs apron-only** · capture **~23% class** | **Crossflow off-line build · cut-over later** |
 | ⚑ **`ALLOY-PROGRAMME-Y12`** | **CI + FMN + constantan triplicate closed d3835** | **Mn assay · `TC-PROBE-2` ~60%** |
 | ⚑ **`M31` ferromanganese charge** | **Ore dressed · `FMN-STD ×3` staged d3615** | **Furnace when named** |
 | ⚑ **`STEEL-STANDARDS-SPRINT-Y13-1`** | **`ST-MAG/STR/SPR` certs live · `MOTOR-1` live d3964** | **`MFGC-2-ST` table migrate when named** |

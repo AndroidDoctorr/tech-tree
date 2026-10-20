@@ -12,12 +12,12 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`EMMER-BULK-Y15`** | Emmer, bulk · Y15 harvest · graded | **~1.30 kg** | Horreum A `INCOMING-EMMER-Y15` bay | d4949 | d4964 prep |
+| **`EMMER-BULK-Y15`** | Emmer, bulk · Y15 harvest · graded | **×0** *(sown d5040)* | — | d4949 | d5040 sow |
 | **`PARCH-EMMER-Y15-1`** | Emmer, parched · quick-cook stash | **~1.18 kg** | Horreum quick-cook peg | d4950 | d4972 mash |
-| **`BARLEY-BULK-Y15`** | Barley, bulk · Y15 expanded trial · graded | **~0.09 kg** tail | Horreum A barley bay | d4949 | d4959 ferment |
-| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~0.53 kg** | Horreum A main bay | d4584 | d4841 newton mill |
+| **`BARLEY-BULK-Y15`** | Barley, bulk · Y15 expanded trial · graded | **×0** *(sown d5040)* | — | d4949 | d5040 sow |
+| **`EMMER-BULK-Y14`** | Emmer, bulk · Y14 harvest · graded | **~0.28 kg** | Horreum A main bay | d4584 | d5040 sow backup |
 | **`EMMER-BULK-Y13`** | Emmer, bulk · Y13 harvest · graded | **~0.19 kg** | Horreum A main bay | d4217 | d4595 |
-| **`BARLEY-BULK-Y14`** | Barley, bulk · Y14 trial · graded | **~0.32 kg** | Horreum A barley bay | d4584 | d4676 sow |
+| **`BARLEY-BULK-Y14`** | Barley, bulk · Y14 trial · graded | **~0.21 kg** | Horreum A barley bay | d4584 | d5040 sow backup |
 | **`BARLEY-BULK-Y13`** | Barley, bulk · Y13 trial · graded | **~0.24 kg** | Horreum A barley bay | d4217 | d4595 |
 | **`P-17-LENTIL-Y13`** | Lentil · Y13 harvest · graded | **~143 g** | Horreum A pulse bay | d4217 | d4221 |
 | **`P-18-CHICKPEA-Y13`** | Chickpea · Y13 harvest · graded | **~201 g** | Horreum A pulse bay | d4218 | d4221 |
@@ -82,7 +82,8 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | **`ACORN-DRY-Y13-2`** | Acorn leached · batch 2 PASS · **✓ roast d4236** | **×0** | — | d4228 | d4236 |
 | `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~19.8 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y15 lap 3 d4876** | d4877 shell |
 | **`ACORN-LEACH-Y14-1`** | Acorn leach · Y14 batch 1 · **soak 4 ⧗ @ ditch W** | **~680 g in sack** | Ditch W flow | d4530 | flow PASS |
-| **`ACORN-LEACH-Y15-1`** | Acorn leach · Y15 batch 1 · **soak 1 LIVE @ ditch W** | **~710 g in sack** | Ditch W flow | d4877 | watch |
+| **`ACORN-LEACH-Y15-1`** | Acorn leach · Y15 batch 1 · **✓ PULLED d5033** | **×0** | — | d4877 | d5033 |
+| **`ACORN-DRY-Y15-1`** | Acorn, leached · dry before roast | **~710 g wet** | Porch dry tray | d5033 | dry read |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -194,8 +195,8 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `DEER-SMOKE-BATCH` | Smoked deer, earlier batch | **×0** | — | d3128 | d4958 spoilage |
 | `TALLOW-KITCHEN` | Tallow, kitchen fat jar | **×0 → `PEMMICAN-Y12-1`** | Culina | | d3591 |
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **×4 culina · ×5 thermae · ×4 chem lab** | **×13 bars** | Service pegs *(retcon d4598)* | d3452 | d4598 |
-| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.36 kg** | Lamp jar · culina | d3251 | d4229 |
-| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.64 kg** | Horreum cool step jar | d3795 | d4617 hub pack |
+| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.320 kg** | Lamp jar · culina | d3251 | d5034 hoe + lamp |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.62 kg** | Horreum cool step jar | d3795 | d5030 apron |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 

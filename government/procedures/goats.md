@@ -48,7 +48,7 @@ Count **breeding-age females** and **intact males** for limits. **Wethers** coun
 | **G-01** | F | Milk doe #1 | wild · pre-Y5 | **✓** | — | — | **Lactating** |
 | **G-02** | M | Billie | wild · A-03 class | **✓** | — | — | **West tie · sole intact buck** |
 | **G-03** | M | Wether | **d3191** | **✓** | **G-01** | **G-02** | **✓ castrated ~d3248 · horns kept · ~Y5 age** |
-| **G-04** | F | Milk doe #2 | **d3978** | **✓** | **G-01** | **G-02** | **✓ KEEP · weaned · udder training / dry-yearling class** |
+| **G-04** | F | Milk doe #2 | **d3978** | **✓** | **G-01** | **G-02** | **✓ KEEP · dry-yearling · cleared d5038** *(soft pass d5037)* |
 | **G-05** | F | *import slot* | — | **✗** | — | — | **Capture deferred** *(wild doe when named)* |
 
 **Head-count:** **×4 on campus** · **×1 ID reserved** · policy cap **≤3♀ · ≤1♂ intact** at steady state.

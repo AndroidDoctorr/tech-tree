@@ -20,7 +20,7 @@ Prose. Capacity, quirks, what breaks, what it feeds.
 ### `NITRE-BED-1` — nitre bed
 Map: north lee · Interval: turn ~every 3 weeks
 
-Clay pan and sump, oak crib, shake lean-to. **✓ Y15 leach + boil d4906–4907** — **~145 g crystal class** · bed recharged loose · tail strip optional in-band until 31 Oct. **Next turn ~d4924**
+Clay pan and sump, oak crib, shake lean-to. **✓ Y15 leach + boil d4906–4907** — **~145 g crystal class** · bed recharged loose. **✓ Turn d5033** — cold bed · damp-not-wet · ammonia weak-good · next ~d5053.
 
 A slow biological process; a neglected bed does not catch up, it loses the year. Damp, never wet, never trodden. Weakening ammonia is the good sign, and no bloom in cold weather is expected rather than a failure. Turning is `NITRE-TURN` in [periodic.md](../checklists/periodic.md); the autumn conversion is `NITRE-BOIL` in [processing.md](../government/procedures/processing.md).
 
@@ -584,12 +584,28 @@ Map: gorge filter toe → gate footing ghost · Installed: d4512
 
 **~8 m** buried run · **`PT-22-A` ×4 @ ~2.0 m** · socket + oak wedge + M-08 wipe · rodding eye @ mid-bend. ✓ **Live @ filter toe d4524** · blind cap **stowed @ gorge kit peg**. ✓ **`OUTLET-GATE-HARDWARE-Y14-1` mounted d4520** · ✓ **outlet flood test d4524** · ✓ **crest/spillway pour d4532**.
 
+⚠ **Name is historical:** this is the **short dam outlet culvert**, not a pressure penstock to WW-2. It discharges into the existing **~180 m open `SLUICE-2-RACEWAY-1`**. The +3 m forebay improves storage and feed reliability; it does not presently arrive at the wheel as pressure head.
+
 ### `WW-2-WHEEL-1` — water wheel 2
 Map: north pad · Built: d1894
 
 The prime mover. Belt tree live off it.
 
 `BRONZE-BUSH-WW2-1` at the axle bed, cast d1884, ~320 g. `GS-2-FLYWHEEL-1` outboard on the shaft — ~9.8 kg oak with a ~290 g iron band, d1888. `LEATHER-FLAT-BELT-1` on the rim, ~4.2 m, **dressed weekly**.
+
+**Hydraulic loss audit d5028:** build record and wet read show **no pocketed bucket set** · broad shallow radial driving faces / lower felloe band · undershot impulse class. The open race descends across most of the **~7.4 m gross head**, leaving fast shallow entry, side escape and substantial residual exit speed. Tailrace is clear; bearing and axle are not the main wall.
+
+Temporary entry apron + side cheeks raised loaded speed **~8.9 → ~9.7 rpm** and generator peak step **~2.18 → ~2.30 GB·I class**. **First upgrade:** permanent apron / cheek close. Curved removable bucket trial is incremental; the large gain requires carrying head to a terminal drop (near-level flume or large penstock) and then a crossflow-class runner.
+
+**Head + torque survey d5029:** forebay operating surface → tailrace **~7.15 m gross static** · proposed near-wheel headbox → tailrace **~6.70 m static / ~6.6 m design net** · present wheel water-surface drop only **~0.85 m**. Prony brake: existing **~8.9 rpm · ~330 N·m · ~0.31 kW shaft**; temporary apron / cheeks **~9.7 rpm · ~350 N·m · ~0.36 kW**. Costed upgrade plan: [ww-2-power-upgrade.md](../plans/ww-2-power-upgrade.md).
+
+**✓ `WW-2-ENTRY-APRON-1` LIVE d5030:** tapered oak throat · close side cheeks · removable debris lip · existing FS keys, **no blocks**. Commission **~9.6 rpm · ~348 N·m · ~0.35 kW shaft** · ~14% above baseline · bypass and axle service clear.
+
+**Curved bucket trial d5031:** removable backward-inclined oak pocket raised phase-averaged shaft power **~0.35 → ~0.37 kW**, with **~390 N·m** peak on its sector and cleaner exit water. Module removed to avoid one-sector ripple; **`WW-2-CURVED-BUCKET-PATTERN-1`** banked. Full-set projection **~0.40–0.43 kW class** on **×10** modules (10-spoke wheel).
+
+**✓ `WW-2-CURVED-BUCKET-SET-1` LIVE d5041:** **×10** clamped modules on rim · commission **`WW-2-PRONY-BRAKE-READ-5041`**: apron + buckets **~9.8 rpm · ~365 N·m · ~0.41 kW shaft** *(~+17% vs d5030 apron-only ~0.35 kW)* · capture **~23% class** · cleaner exit water.
+
+**Transition doctrine, revised d5032:** keep WW-2 live while the crossflow runner, reduction, clutches and gates are built and bench-tested off-line, then make one planned cut-over. The turbine replaces the wheel as prime mover: clutch M drives `BELT-TREE-1` through reduction, while clutch G drives the generator. `GS-2-FLYWHEEL-1` may transfer only to the reduced ~10 rpm mechanical shaft — never the high-speed runner shaft. The old race remains a bypass / spill path; batteries bridge switching and light loads rather than ordinary machine duty. See [ww-2-power-upgrade.md](../plans/ww-2-power-upgrade.md).
 
 ### `BELT-TREE-1` — power distribution
 Map: `WW-2` · Built: d1891–d1892

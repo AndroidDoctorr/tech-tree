@@ -74,7 +74,7 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
 | `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
 | **`IRON-ADZE-1`** | Timber adze · **~115 g** · batten class | M2 peg rail | **edge GREEN · svc d4492** |
-| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d4672** |
+| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d5034** |
 | **`IRON-CHISEL-1`** | Cold chisel · stone dress | M2 peg rail | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-2`** | Wood chisel · primary | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-3`** | Wood chisel · backup | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
@@ -163,7 +163,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`VAC-FALL-TRAP-Y14-1`** | Hg fall trap · **mounted @ `VAC-FALL-HEADER-Y14-1`** · dry | **`VAC-BENCH-1`** | d4466 plumb |
 | **`VAC-FALL-HEADER-Y14-1`** | Oak header clip + cork stem cup @ manifold blank | **`VAC-BENCH-1`** | d4466 |
 | **`VAC-FALL-OSCILLATOR-Y14-1`** | Counterweight fall trip · **~28 g** lift · hemp line @ north cheek peg | **`VAC-BENCH-1`** | d4468 |
-| **`BULB-PROD-Y14-1`** | Production lamp envelope · **~42 mm** · carbon loop · **first glow d4471** · cork test mount | **`VAC-BENCH-1`** | d4471 energize |
+| **`BULB-PROD-Y14-1`** | **Museum · first glow d4471** · cork test mount · **not for service** | **`VAC-BENCH-1`** | d4471 |
 | **`BULB-PROD-Y14-2`** | Production lamp · **tipped d4479** · **body → `BULB-LAMP-POC-Y14-1` @ desk** | *(integrated)* | d4479 |
 | **`BULB-PROD-Y14-3`** | Production lamp · **fine filament · pre-seal outgas · tipped d4567** | *(→ `BULB-LAMP-POC-Y14-2`)* | d4567 |
 | **`BULB-PROD-Y14-4`** | Production lamp · **reed · tipped d4579** | *(→ `BULB-LAMP-POC-Y14-3`)* | d4579 |
@@ -173,8 +173,10 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-11`** | *(→ `BULB-LAMP-SPARE-CY14-11`)* | — | d5024 tip |
 | **`BULB-LAMP-SPARE-CY14-10`** | Sealed spare · **`BULB-PROD-Y14-10`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
 | **`BULB-LAMP-SPARE-CY14-11`** | Sealed spare · **`BULB-PROD-Y14-11`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
-| **`BULB-PROD-Y14-12`** | **Stem + filament loaded d5024** · **⧗ outgas @ header** | **`VAC-BENCH-1`** | d5024 load |
-| **`BULB-PROD-Y14-13`** | Production shell · **annealed d5023** · spare bank | Chem porch spare peg | d5023 |
+| **`BULB-PROD-Y14-12`** | *(→ `BULB-LAMP-SPARE-CY14-12`)* | — | d5025 tip |
+| **`BULB-PROD-Y14-13`** | *(→ `BULB-LAMP-SPARE-CY14-13`)* | — | d5025 tip |
+| **`BULB-LAMP-SPARE-CY14-12`** | Sealed spare · **`BULB-PROD-Y14-12`** · short-stem class | **`VAC-BENCH-1`** soft peg | d5025 |
+| **`BULB-LAMP-SPARE-CY14-13`** | Sealed spare · **`BULB-PROD-Y14-13`** | **`VAC-BENCH-1`** soft peg | d5025 |
 | **`BULB-LAMP-STORAGE-WING-Y14-1`** | Sealed · reed **`PENDANT-A`** · **seated @ storage N** · glow rank **3** | Storage wing N | d5019 test |
 | **`BULB-LAMP-STORAGE-WING-Y14-2`** | Sealed · **`PENDANT-B`** · **seated @ storage S** · glow rank **1** | Storage wing S | d5019 test |
 | **`BULB-LAMP-CHEM-LAB-Y14-1`** | Sealed · **`BULB-PROD-Y14-4`** reed · **@ `BULB-CHEM-LAB-LAMP-Y14-1`** | `CHEM-LAB-WING-1` | d5019 seat |
@@ -285,6 +287,9 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `CAVE-HUMIDITY-DOSE-1` | Matched calcined-gypsum dishes · cave exposure vs workshop control | `CAVE-3` + balance bench | ★ **Integrates humidity over a fixed interval; not instantaneous RH** · seven-day comparisons from d3320 |
 | `PENDULUM-CLOCK-1` | Pendulum clock, ~2.05 s beat · hour marks coarse | `H-V3` east | Live · minute hand deferred |
 | `RUNOUT-GAUGE-1` | Wobble gauge — pivoted pointer, short arm on the work, long arm over a scale | Craft wing | Live |
+| **`WW-2-PRONY-BRAKE-JIG-1`** | Reusable shaft-power jig · leather strap · 1.50 m oak lever · water-ballast hook · nip guard | `WW-2` service peg | ✓ d5029 |
+| **`WW-2-CURVED-BUCKET-PATTERN-1`** | Removable backward-inclined oak pocket · vented / drained · keeper pattern | `WW-2` service peg | ✓ trial d5031 |
+| **`WW-2-CURVED-BUCKET-SET-1`** | **×10 curved modules · clamped on wheel** | `WW-2` rim | ✓ **LIVE d5041** |
 
 ## Electrical instruments
 

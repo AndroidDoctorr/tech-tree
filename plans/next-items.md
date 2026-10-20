@@ -33,13 +33,14 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 | Signal | State |
 |---|---|
 | **`GRAIN-FERMENT-Y15-1`** | **✓ distilled d4905 · peg cleared d4933** |
-| **`WW-2` Q** | **~11.0 L/s · stain ~5.0 cm @ d4560** — nadir band · WW-2 power log |
-| **`HYDRO-ELEC-1`** | **✓ Gen feed LIVE d4555** · ⚑ campus penstock draw · deeper pool optional |
+| **`WW-2` Q** | **~25.4 L/s · stain ~26.2 cm @ d5027** · **~9.1 GB open · ~2.18 GB·I peak** |
+| **`HYDRO-ELEC-1`** | **✓ forebay civil + short outlet culvert + race feed LIVE** · ⚑ **d5028: no pressure penstock to wheel** |
 | **Exped / cart trips** | **OPEN 11 Mar – 27 Sep** · **✓ `KISECIK-RUN-CY13-4750` d4751–4753** |
 | **`BLOCK-Y10` pit** | **×244 unused** *(×32 dry · ×212 submerged)* |
 | **`VITRIOL-HEAP-1`** | **Turn ✓ d4752 @ Kisecik · ~14.1 L @ site · next ~90 d class** |
 | **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · trough empty · load next bundle on farm pass when named |
 | **`mishap_pool`** | **0** |
+| **`SPRING-SOW-CY14`** | **Hoe GREEN · packets staged d5034** · rag test d5038 · gate opens d5040 |
 | **`SPRING-SOW-Y15`** | **✓ d4676 · scare-only on new rows** |
 | **`OFFICINA-N-WORK-WING`** | **`FEEDER-3` LIVE d4809 · TF ×32 green** | **Lamp branches · TF fire/press · floor bed** |
 | ~~**`WAGON-V2-OVERHAUL-Y15-1`**~~ | **✓ d4615–4617** |
@@ -53,12 +54,21 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 
 **Civil upgrade upstream of `GEN-WW-2`:** +3 m crest · forebay LIVE @ shallow stage · gen tied d4555.
 
+**d5028 loss audit:** the built `HYDRO-ELEC-1-PENSTOCK-1` is only the **~8 m dam outlet culvert** into the old descending open race. Gross resource at d5027 is **~1.84 kW** (`25.4 L/s × 7.4 m`), but most head is spent before the undershot wheel. First cheap move = permanent entry apron / side cheeks. Large move = near-level flume or large pressure conduit + **two-cell crossflow**; size only after net-head / brake-torque survey.
+
+**d5029 measured:** **~7.15 m gross / ~6.6 m design net** · present wheel **~0.31 kW shaft** · temporary apron **~0.36 kW**. Cost and phase gates: [ww-2-power-upgrade.md](ww-2-power-upgrade.md).
+
+**d5030:** ✓ **`WW-2-ENTRY-APRON-1` LIVE** · no blocks · **~0.35 kW shaft**. Next optional experiment = one removable curved bucket; large arc remains head conveyance + crossflow.
+
+**d5031–5032:** ✓ curved bucket pattern · **~0.37 kW phase average** · full set projects **~0.40–0.43 kW**. Final transition: build the crossflow runner, reduction, M/G clutches, gates and guards off-line while WW-2 stays live, then make one cut-over. Turbine drives either `BELT-TREE-1` mechanically or the generator. Transfer the old flywheel only to the reduced ~10 rpm shaft, never runner speed.
+
 **Plan detail:** [construction-mats.md](construction-mats.md) section B · gate hardware d4318 · outlet draw d4317.
 
 | Phase | State |
 |---|---|
 | **Forebay civil + gen feed** | **✓ CLOSED d4552–4555** |
-| **Penstock campus draw** | **⚑ when named** — [ec-1-campus-expansion.md](ec-1-campus-expansion.md) Feeder-3 class |
+| **Head conveyance to WW-2** | **⚑ not built** — existing short outlet culvert feeds open race |
+| **Crossflow runner** | **⚑ design-ready · build after net-head + conduit-loss survey** |
 | **Deeper hold / optional dig** | **⚑ nadir laps only when player names** |
 
 **Build stock snapshot:** [construction-mats.md](construction-mats.md) · aggregate runway in [now.md](../now.md) § Stock.
@@ -79,9 +89,9 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 |---|---|
 | **`SALT-EVAP`** | **Cycle 2 ✓ d4578 · optional pour #3 · band tail** |
 | **`ACORN-GATHER` batch 2** | **✓ lap 2 d4530 · leach batch 1 ⧗** |
-| **Nitre bed** | **Turn ~every 18–21 d @ FARM-CARE** |
+| **Nitre bed** | **✓ turned d5033 · next ~d5053** |
 | **G-04** | **✓ KEEP weaned** *(Y14 · goats.md)* |
-| **`GRAPE-PRUNE` spur** | **✓ Y14 d4591 · Feb touch optional** |
+| **`GRAPE-PRUNE` spur** | **✓ current winter d5033** |
 | **`FIG-PICK` repeat** | **Band closed · stubble year** |
 
 ---
