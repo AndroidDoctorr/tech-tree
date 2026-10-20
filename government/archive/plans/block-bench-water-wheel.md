@@ -10,7 +10,7 @@
 | **Water wheel takeoff** | **`WW-2-Q`** class power · slow · high torque |
 | **Cam / eccentric** | Lifts **tamp foot** or shakes **mould table** · **2–4 mm** throw · ~30–60 strokes/min |
 | **Mould nest** | **`BLOCK-MOULD-1/2`** retained · dual-station grammar |
-| **Pour hopper** | **Wetted box** · **~1 : 2 : 5** premix from trough · gate to mould |
+| **Pour hopper** | **Wetted box** · **`BLOCK-MEASURER-1` ~20 L/part · 1:2:5** · **~×4 blocks/dump** · **~245 kg / ×16** *(see [BLOCK-MIX-RATIO-CY14.md](../journal/retcons/BLOCK-MIX-RATIO-CY14.md))* |
 | **Eject** | **Tilt table or stripper plate** · boards to **`BLOCK-CURE-PIT-1`** without hand lift |
 
 > Vibration **densifies**; it does not replace **three lifts** or **90 d cure**.
@@ -66,7 +66,11 @@
 | **×8 dry-tamp** | **`d4139` dual mould** *(e.g. d4339 · d4319 PM)* | **Full day** *(tamp-only)* or **PM** on kiln/retort AM |
 | **Press ×8** | **d4931 first live mix** | **~5 h 40 min** *(incl. slake · two premix loads)* |
 
-★ **×16 submerged in one calendar day — first cast sprint `BLOCK-BENCH-SPRINT-4941`** *(banked `QUICKLIME-1` · dual measurer · **~8 h 50 min**)*. Pit **×16** **lift** days *(e.g. d4748)* are still separate grammar.
+★ **×16 submerged in one calendar day — first cast sprint `BLOCK-BENCH-SPRINT-4941`** *(banked `QUICKLIME-1` · dual measurer · **~8 h 50 min**)* · **repeat `BLOCK-BENCH-SPRINT-CY14-5065`** *(ingredients ungated · ordinary throughput · ×17 NO-GO @ stiff hopper)*. Pit **×16** **lift** days *(e.g. d4748)* are still separate grammar.
+
+**Cadence tune `BLOCK-BENCH-CADENCE-TUNE-CY14-5066`:** gate iron wear strip · wax/rosin slide · **`BLOCK-BENCH-PIT-CHUTE-1`** · hopper clay touch-up · dry-run gate PASS.
+
+**Max throughput test 2 `BLOCK-BENCH-MAX-THROUGHPUT-TEST2-5068`:** banked putty · **continuous feed / smaller pours** *(bench routine · not hardware)* · **×18** *(+2 vs d5065)* · **~8 h 35 min** at nest. See retcon [BLOCK-THROUGHPUT-TEST2-5068.md](../journal/retcons/BLOCK-THROUGHPUT-TEST2-5068.md).
 
 ### Realistic upgrades — push toward **×12–×16** without QC cheat
 
@@ -77,7 +81,7 @@
 | **Second measuring box @ trough** | **Trivial** | Premix next load while moulds vibrate |
 | **Eject → pit lip chute / skid** | **⚒ small** | Pedal eject is live; **carry still gates** pit cadence |
 | **Cam stroke / rate tune** *(≤4 mm · QC hold)* | **Adjustment** | Plan band **30–60 spm** — only after foot-cube PASS |
-| **Continuous hopper feed** *(vs ×4+×4 measurer dumps)* | **⚒ half-day** | Answers open question above · fewer gate cycles |
+| **Continuous hopper feed** *(partial pours · gate cracked between nests)* | **Routine** | **Live d5068** · not a build hero · optional hardware later |
 | **Dedicated block-sprint day** *(no kiln AM)* | **Schedule** | **AM ×8 + PM ×8 press** realistic when putty + sand staged |
 
 **Honest target:** **×12** on a tuned rhythm day before **×16**; **×16** needs **banked lime + two clean premix cycles + no gate jams** — not day-one press economics.

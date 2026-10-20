@@ -11,10 +11,11 @@ The split is by **how the thing behaves in the ledger**, not by what it is made 
 | *How much have I got?* | [resources.md](resources.md) | Fungible, measured, consumed |
 | *Where is it and is it sharp?* | [tools.md](tools.md) | Individuated, has a condition |
 | *When was it last serviced?* | [infrastructure.md](infrastructure.md) | Installed, maintained, on the map |
+| *What is on the EC-1 grid?* | [electric-grid.md](electric-grid.md) | Generators, storage bus, feeders, taps, branches |
 | *Is it still good?* | [food.md](food.md) | Edible stock — nearly every row is dated |
 | — | [vehicles.md](vehicles.md) · [animals.md](animals.md) · [crops.md](crops.md) · [seed-vault.md](seed-vault.md) · [museum.md](museum.md) | Specialised |
 
-**The test.** Losing it makes you think *"I'm down to 20 metres"* → resource. *"Where is **the** ice pick?"* → tool. It is bolted down and has a service history → infrastructure.
+**The test.** Losing it makes you think *"I'm down to 20 metres"* → resource. *"Where is **the** ice pick?"* → tool. It is bolted down and has a service history → infrastructure. A lamp socket or feeder run → [electric-grid.md](electric-grid.md) *(fixtures also in [tools.md](tools.md))*.
 
 Rope on the coil is a resource, measured in metres. The rope reeved into a winch is not a row at all — it is a line inside that winch's infrastructure entry. Same rope; the role decides, not the material.
 

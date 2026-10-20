@@ -27,4 +27,4 @@
 
 ## Forward queue
 
-See [officina-n-work-wing-layout.md](../../plans/officina-n-work-wing-layout.md) · **Wing lamps — build order** — **one hero per day class** unless player combines explicitly.
+See [officina-n-work-wing-layout.md](../../government/archive/plans/officina-n-work-wing-layout.md) · **Wing lamps — build order** — **one hero per day class** unless player combines explicitly.

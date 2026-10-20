@@ -279,6 +279,9 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `MASS-VESSEL-100-1` | 100 mL water seat · `P-LAB-BEAKER-4` + foot ring · **@ ~14 °C workshop** | `REF-SHELF-1` | ✓ LIVE d3497 |
 | `MASS-REF-100-1` | **Brass + bronze coupons** · **~100 g @ 14 °C** · substitution null | `REF-SHELF-1` | ✓ LIVE d3497 |
 | `MASS-REF-1000-1` | **Composite iron stack** · **~992 g @ 14 °C** · ×10 vessel null · ⧗ **monolithic brass slug when stock allows** | `REF-SHELF-1` | ✓ LIVE d3497 |
+| **`ETHANOL-SG-LADDER-Y14-5042`** | Chip card · water / spirit / dehyd **g per 100 mL @ 14 °C** | `REF-SHELF-1` | d5042 |
+| **`VINEGAR-TITRE-CARD-Y14-5042`** | Chip card · **10 ml vinegar → ~6.4 ml `LYE-TITRE-WORKING-Y14-1`** | `REF-SHELF-1` | d5042 |
+| **`LYE-TITRE-WORKING-Y14-1`** | Kelp-ash lye · titration strength · **~200 ml** | Chem porch | d5042 |
 | `CALIPER-1` | Divided jaws · **±0.1 mm class** · gen-3 re-cert d3497 | `REF-WORK-PEG-1` | ✓ CERT d3497 |
 | `BALANCE-1` | Oak beam · cord pivot · bark pans · stone 1/2×/5× | Balance bench | Live · d286 |
 | `THERMOMETER-1` | Portable, 0–100 °C · ☠ **not food-safe** | Chem-lab peg between moves | Live |
@@ -445,4 +448,4 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `GEAR-MORTISE-WHEEL-36-1` | Mortise wheel · hornbeam · **36T** · lathe torque box | `LATHE-TORQUE-GB-HUB-IN-1` | ✓ Mounted d3553 |
 | `GEAR-MORTISE-WHEEL-48-1` | Mortise wheel · hornbeam · **48T** · mill torque box | `MILL-TORQUE-GB-HUB-IN-1` | ✓ Mounted d3553 |
 
-Powered machines are not tools — the table saw, lathes and drill press are [infrastructure.md](infrastructure.md), because they are installed, belt-driven and maintained on a schedule.
+Powered machines are not tools — the table saw, lathes and drill press are [infrastructure.md](infrastructure.md), because they are installed, belt-driven and maintained on a schedule. **Grid-fed** motors, feeders, and lamp fixtures: [electric-grid.md](electric-grid.md) · portable bulbs/switches: this file.

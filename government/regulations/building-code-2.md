@@ -74,6 +74,18 @@ This is why hollow, and not simply a smaller solid unit:
 
 **Dry-tamped, not wet-cast.** Mix to a damp-earth consistency — squeezes into a ball that holds its shape without glistening — ram it into a tapered stripping mould in three lifts, and **demould immediately**.
 
+### Mix mass — `BLOCK-MEASURER-1` *(ratio 1 : 2 : 5 · CY14 canonical)*
+
+**Volume:** **~20 L per part** · one full dump ≈ **×4 blocks** · **×16** = **four dumps**.
+
+| Per ×16 blocks | Lime binder *(dry QL class)* | Pozzolan | Sand | Gravel |
+|---:|---:|---:|---:|---:|
+| **Mass** | **~30 kg** | **~45 kg** | **~70 kg** | **~100 kg** |
+
+Halve for **×8** · scale **×18/16** for **×18** press days. Audit trail: [BLOCK-MIX-RATIO-CY14.md](../../journal/retcons/BLOCK-MIX-RATIO-CY14.md).
+
+> ★ **Ledger rows before d5075 often under-counted pozz and aggregate** — gravel debt [BLOCK-AGGREGATE-DEBT-Y13.md](../../journal/retcons/BLOCK-AGGREGATE-DEBT-Y13.md) fixed **missing gravel lines**, not **full Roman mass**.
+
 ★ **This is the whole trick, and it is a scheduling decision rather than a quality one.** A wet-cast block sits in its mould overnight, so a hundred blocks needs a hundred moulds. A dry-tamped block leaves the mould in seconds, so **one good iron-strapped mould makes blocks all day.** Taper every face and every core box or it will not strip.
 
 ### ☠ Curing — the constraint that decides the schedule

@@ -91,7 +91,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.56 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d4972 fritters |
+| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.68 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5073 wax cut |
 
 *Co-harvested with **`WAX-CUT-SURPLUS`** on strong hives — not brood comb. See [apiary-routine.md](../government/procedures/apiary-routine.md).*
 
@@ -227,7 +227,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 |---|---|---|---|---|---|
 | `GRAPE-VINEGAR-Y9-1` | Grape vinegar · Y9 fork · merged to `VINEGAR-Y6-1` | ~2.15 L rack | `AMPHORA-5` | d3475 | d3475 |
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.24 L** | Horreum | Y7 | d4609 |
-| `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged | ~2.75 L class | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d3508 |
+| `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged · **~5.8 % acetic class d5042** | **~2.72 L class** | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d5042 assay |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
 | **`GRAIN-FERMENT-Y15-1`** | Grain mash ferment · **`GRAIN-WILD-FOOD-Y15-1` · wild lap** · **`BARREL-5`** | **✓ spent d4905 · `GRAIN-DISTILL-Y15-1` CLOSED** | d4779 | d4905 |
 | **`GRAIN-FERMENT-Y15-2`** | Grain mash ferment · Y15 barley + emmer tail · **`BARREL-5`** | **✓ spent d4971 · `GRAIN-DISTILL-Y15-2` CLOSED** | — | d4959 | d4971 |
@@ -236,7 +236,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
 | **`SPIRIT-GRAIN-Y15-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-1`** | **~1.20 L @ `P-LAB-SPIRIT-BOTTLE-Y15-1`** · peg **empty** | Chem spirit peg | d4905 | d4933 bottle |
 | **`SPIRIT-GRAIN-Y15-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-2`** | **~1.76 L @ spirit peg** | Chem spirit peg | d4971 | d4973 Yule sip |
-| **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y14-1`** | **~1.84 L @ `P-LAB-SPIRIT-BOTTLE-Y14-1`** · peg **empty** | Chem spirit peg | d4625 | d4936 bottle |
+| **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % v/v @ 14 °C SG d5042** · **`GRAIN-FERMENT-Y14-1`** | **~1.83 L @ `P-LAB-SPIRIT-BOTTLE-Y14-1`** · peg **empty** | Chem spirit peg | d4625 | d5042 assay |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 
 Dehyd stock: **`ETHANOL-DEHYD-STOCK-1`** @ [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).

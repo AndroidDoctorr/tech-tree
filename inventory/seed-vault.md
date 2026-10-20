@@ -104,6 +104,7 @@ Last full audit **d4674** · **`SEED-RAG-TEST-CY14-5038`** sow-tray roster · Y1
 | ☠ `P-17-ELITE-Y8` | Lentil elite · ✓ **regen sown d3576** | ×0 | Vault | Y8 | **d3574** |
 | `P-FAVA-Y10` | Fava, dry · **Y10 working bank** | **~122 g** | Vault | Y10 | **d5038 ~78%** |
 | `P-FAVA-WILD-Y14-1` | Fava · wild margin · insurance tail | **~5 g** | Vault | **d4308 scout** | — |
+| **`P-FAVA-WILD-Y16-1`** | Fava · wild margin · insurance tail | **~14 g** | Vault | **d5045 scout** | — |
 | `P-FAVA-ELITE-Y10` | Fava elite · true-black full seed | **~2 g** reserve hold | Vault | Y10 | **d5038 ~81%** |
 | ⚠ `P-FAVA-Y9` | Fava, dry · **legacy reserve tail** | ~25 g | Vault | Y9 | **d4306 ~61%** |
 
@@ -154,7 +155,7 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 | `P-CORIANDER-SEL-Y15-1` | Coriander · designated ×6 · winnow | **~14.1 g** reserve hold | Vault | **Y15 d4778 cut · d4796 winnow** | **d5038 ~91%** |
 | `P-ALLIUM-HARVEST-Y15-1` | Allium · designated ×4 · winnow | **~2 g** reserve hold | Vault | **Y15 d4778 · d4796** | **d5038 ~89%** |
 | `P-THYME-SEL-Y15-1` | Thyme · mother-row tops · winnow | **~3.8 g** reserve hold | Vault | **Y15 d4778 · d4796** | **d5038 ~87%** |
-| `P-PARSLEY-SEL-Y16-1` | Parsley · second-year ×3 · winnow | **~5.2 g** reserve hold | Vault | **Y15 d4778 cut · d4796 winnow** | **d5038 ~86%** |
+| `P-PARSLEY-SEL-Y16-1` | Parsley · second-year ×3 · winnow | **~9.4 g** reserve hold | Vault | **Y15 designate · d5045 scout** | **d5038 ~86%** |
 | ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-ALLIUM-SEL-Y9` | Allium · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3574 DEAD |

@@ -1,8 +1,8 @@
 # `WAGON-GARAGE-2` — phased shop / garage *(player sketch d4764)*
 
-**Status:** **PLANNING** — not staged on map · **no hero until north wing + material buffer**
+**Status:** **STAKED d5071 @ `PARK-MFG-1`** · **CDs queued** — see [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md)
 
-**Dimensions:** **Tentative.** Wing cells may land **4×5 m** vs **5×6 m**, **merge two cells** into one long bay, or **build one E-row first** and defer the opposite side. **Central court ~8×10 m** held as reference *(work garage walk-through)* — may trim slightly; still sized for **large builds**, not only two vans.
+**Dimensions:** **18 m × 10 m pad** · **central 8×10 m** · **wings 4×10 m** *(east may split 4×5 + 4×5)* · **portico/utility ~+2 m** · **two garage doors** · **crane 500 kg → 1–2 t anchor path**.
 
 ## Intent
 

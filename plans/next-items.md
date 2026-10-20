@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs **`CY13`**
+Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -17,214 +17,86 @@ Live as of **d4813 · Cal-Y13 D194 · ~14 Jul Y13 · Week 688 OPEN** · new IDs 
 
 > ☠ **Do not spend a day on a ⧗ or a ⟳.** *Standing over a cell does not make copper faster.*
 
-## ⚑ Storage buffer — player target *(d4842)*
-
-**Goal:** **≥1 spare** each of **amphora · food glass · stoneware crock/pot · labelled crate** — not counting acid/bleach/ark fixtures.
-
-| Class | On hand *(d4842)* | Gap |
-|---|---|---|
-| **Glass ~250 ml food** | **×7 empty** @ chem `STORAGE-EMPTY` · **`GLASS-BOTTLE-11` honey** | **OK on glass** |
-| **Amphora M-08** | **`AMPHORA-8` · `AMPHORA-9` empty** · `AMPHORA-10` buffer | **OK · 2+ empty** |
-| **Stoneware / crock** | **`BARREL-5` empty rinsed** · stew jars in use | **⚑ spare food crock hero** |
-| **Crate** | **`WOOD-CRATE-3…6` all named duties** | **⚑ `WOOD-CRATE-7` empty spare** |
-
-## ⚠ Clock — read first
+## ⚠ Immediate calendar
 
 | Signal | State |
 |---|---|
-| **`GRAIN-FERMENT-Y15-1`** | **✓ distilled d4905 · peg cleared d4933** |
-| **`WW-2` Q** | **~25.4 L/s · stain ~26.2 cm @ d5027** · **~9.1 GB open · ~2.18 GB·I peak** |
-| **`HYDRO-ELEC-1`** | **✓ forebay civil + short outlet culvert + race feed LIVE** · ⚑ **d5028: no pressure penstock to wheel** |
-| **Exped / cart trips** | **OPEN 11 Mar – 27 Sep** · **✓ `KISECIK-RUN-CY13-4750` d4751–4753** |
-| **`BLOCK-Y10` pit** | **×244 unused** *(×32 dry · ×212 submerged)* |
-| **`VITRIOL-HEAP-1`** | **Turn ✓ d4752 @ Kisecik · ~14.1 L @ site · next ~90 d class** |
-| **`P-RETT-38`** | **✓ FIBRE CLOSED d4623** · trough empty · load next bundle on farm pass when named |
-| **`mishap_pool`** | **0** |
-| **`SPRING-SOW-CY14`** | **Hoe GREEN · packets staged d5034** · rag test d5038 · gate opens d5040 |
-| **`SPRING-SOW-Y15`** | **✓ d4676 · scare-only on new rows** |
-| **`OFFICINA-N-WORK-WING`** | **`FEEDER-3` LIVE d4809 · TF ×32 green** | **Lamp branches · TF fire/press · floor bed** |
-| ~~**`WAGON-V2-OVERHAUL-Y15-1`**~~ | **✓ d4615–4617** |
-| ~~**`ICE-HAUL-Y14`**~~ | **✓ vault cap-bound ~129 kg** |
-| ~~**`SPRING-SOW-Y14`**~~ | **✓ d4307** |
-| ~~**`TRAIL-SUMMER-Y14`**~~ | **✓ leg 3 d4502–4506** |
+| **`BIRD-WATCH`** | **LIVE from sow d5040 through ~d5061** · scare-only through new rows |
+| **`SEED-SCOUT`** | **✓ d5045** |
+| **`OAK-ORCHARD-READ`** | **✓ d5043** |
+| **Exped / cart trips** | **Open 11 Mar / d5053 class** |
+| **`NITRE-TURN`** | **Next ~d5053** |
+| **Apiary spring band** | **Opens 21 Mar / d5063 class** · `APIARY-WATCH` + charged-cup gate |
+
+## Current branch gates
+
+| Branch | In hand | Next gate |
+|---|---|---|
+| **G2 / concrete** | **×278 @ pit** · **mix canonical** · pozz/sand/gravel **thin post-d5075** | **Haul pozz/sand/gravel · kiln lime** · footing dig d2 · phase-1 bill |
+| **WW-2 / electric** | **Apron + curved buckets LIVE ~0.41 kW** | **Spring Q/head series + preserved-head route survey** · tin assay · iron/char bank before runner |
+| **Chemistry** | **`ETHANOL-DEHYD-STOCK-1` ~980 ml** · vinegar ~2.75 L + mother | **Define acid-strength target and petroleum feed/cut plan** before another production batch |
 
 ---
 
-## ★★★ `HYDRO-ELEC-1` — civil done · optional deepen
+## `WW-2` power upgrade
 
-**Civil upgrade upstream of `GEN-WW-2`:** +3 m crest · forebay LIVE @ shallow stage · gen tied d4555.
+**Current:** forebay civil LIVE · short outlet culvert still feeds the descending open race · entry apron + full curved bucket set deliver **~0.41 kW shaft**.
 
-**d5028 loss audit:** the built `HYDRO-ELEC-1-PENSTOCK-1` is only the **~8 m dam outlet culvert** into the old descending open race. Gross resource at d5027 is **~1.84 kW** (`25.4 L/s × 7.4 m`), but most head is spent before the undershot wheel. First cheap move = permanent entry apron / side cheeks. Large move = near-level flume or large pressure conduit + **two-cell crossflow**; size only after net-head / brake-torque survey.
+**Next:** spring Q/head series and preserved-head route survey. Freeze conduit losses before runner dimensions; build the crossflow train off-line and keep WW-2 live until cut-over.
 
-**d5029 measured:** **~7.15 m gross / ~6.6 m design net** · present wheel **~0.31 kW shaft** · temporary apron **~0.36 kW**. Cost and phase gates: [ww-2-power-upgrade.md](ww-2-power-upgrade.md).
-
-**d5030:** ✓ **`WW-2-ENTRY-APRON-1` LIVE** · no blocks · **~0.35 kW shaft**. Next optional experiment = one removable curved bucket; large arc remains head conveyance + crossflow.
-
-**d5031–5032:** ✓ curved bucket pattern · **~0.37 kW phase average** · full set projects **~0.40–0.43 kW**. Final transition: build the crossflow runner, reduction, M/G clutches, gates and guards off-line while WW-2 stays live, then make one cut-over. Turbine drives either `BELT-TREE-1` mechanically or the generator. Transfer the old flywheel only to the reduced ~10 rpm shaft, never runner speed.
-
-**Plan detail:** [construction-mats.md](construction-mats.md) section B · gate hardware d4318 · outlet draw d4317.
-
-| Phase | State |
-|---|---|
-| **Forebay civil + gen feed** | **✓ CLOSED d4552–4555** |
-| **Head conveyance to WW-2** | **⚑ not built** — existing short outlet culvert feeds open race |
-| **Crossflow runner** | **⚑ design-ready · build after net-head + conduit-loss survey** |
-| **Deeper hold / optional dig** | **⚑ nadir laps only when player names** |
-
-**Build stock snapshot:** [construction-mats.md](construction-mats.md) · aggregate runway in [now.md](../now.md) § Stock.
-
----
-
-## Farm — Y15 standing crop *(✓ `SPRING-SOW-Y15` d4676)*
-
-**Scare-only on new rows** until harvest heroes. Hemp **fibre @ A north** + **`HEMP-FLOWER-Y15` ~4 m² @ A NW** sown d4676 · **`BARLEY-TRIAL-Y15` expanded @ B east**.
-
-⚑ **`HEMP-CUT` band Aug** · ferment bung closed d4905.
-
----
-
-## Farm — winter pass
-
-| Item | State |
-|---|---|
-| **`SALT-EVAP`** | **Cycle 2 ✓ d4578 · optional pour #3 · band tail** |
-| **`ACORN-GATHER` batch 2** | **✓ lap 2 d4530 · leach batch 1 ⧗** |
-| **Nitre bed** | **✓ turned d5033 · next ~d5053** |
-| **G-04** | **✓ KEEP weaned** *(Y14 · goats.md)* |
-| **`GRAPE-PRUNE` spur** | **✓ current winter d5033** |
-| **`FIG-PICK` repeat** | **Band closed · stubble year** |
+**Plan:** [ww-2-power-upgrade.md](ww-2-power-upgrade.md)
 
 ---
 
 ## ⧗ ⟳ Running — started, needs no day
 
-- ⧗ **`BLOCK-Y10` pit** — submerged cure clock · lift when dry queue names
+- ⧗ **`BLOCK-Y10` pit** — **×212 submerged** · lift/dry the first G2 draw before ground break
 - ⧗ **`ORE-BAY-1` catch pot** — daily read
 - ⧗ **`CU-CELL`** — two looks a day
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
-- ⧗ **`VITRIOL-HEAP-1`** — next turn ~90 d from d4459
-- ~~⧗ **`GRAIN-FERMENT-Y15-1`**~~ — **✓ distilled d4905 · peg d4933**
+- ⚠ **`VITRIOL-HEAP-1`** — last recorded turn **d4752** · inspect/turn on first Kisecik-compatible run
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
 
 ---
 
-## ✓ Light — `BULB-POC-Y14-1` *(integrate closed d4479)*
+## ⚒ Next heroes
 
-| Milestone | State |
-|---|---|
-| **Ladder steps 1–6** | **✓ envelope → rough vac → filament → Cu pinch → Hg header → integrate d4479** |
-| **`BULB-LAMP-POC-Y14-1`** | **LIVE @ `VAC-FALL-HEADER-Y14-1`** · bench demonstrator |
-| **`BULB-FEAST-LAMP-Y14-1`** | **Desk pendant LIVE d4558** |
-| **`BULB-LAMP-POC-Y14-2`** | **LIVE d4567** @ vac header |
+1. **Calendar first:** **`G2-PHASE1-DESIGN`** · Kisecik heap on a separate run · **`HERB-SEED-DESIGNATE` opens 21 Mar**.
+2. **`G2-PHASE1-DESIGN`** — **dig d1 d5074** · **~4 d perimeter + pads** · **`G2-FOOTING-POUR-1`** after full loop.
+3. **`BLOCK-LIFT-G2-1`** *(⚒)* — lift/dry the first construction draw from the ×212 submerged pool. Do not cast replacement blocks before the phase-1 bill says how many are actually short.
+4. **Material bank:** gravel **~232 kg ✓** · pozz **~101 kg** *(2 Koruhöyük laps CY14)*.
+5. **`WW-2-Q-SPRING-SERIES-CY14` + route survey** *(⚒ passes)* — freeze the preserved-head alignment and loss budget before runner dimensions.
+6. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — establish whether the ~0.5 kg concentrate covers crossflow bearing tin before any Kozan trip.
+7. **`ALCOHOL-ORGANICS-PLAN-CY14`** *(⚒ bench/design)* — ✓ assay **d5042** · choose **acetic concentration** route + **petroleum** feed/apparatus/cuts.
 
-### ⚑ Optional tails *(do not block winter queue)*
+## Branch notes
 
-- ⚑ **Mount / socket** — pendant · CP-G · domus grammar
-- ⚑ **Bulb R&D** — alt filament · **`MCLEOD-GAUGE-1`**
-- ⚑ **EC-1 expansion** — **✓ feeder audit d4565** · **plug jig · domus pendants** → **Feeder-3 @ Officina north ghost**
-- ⟳ **`VAC-BENCH-Y14-1`** — Hg loop · bath read · purge first draw
+### G2 / concrete
 
----
+- Plan: [wagon-garage-2-phased.md](wagon-garage-2-phased.md)
+- **Blocks are not the immediate gate:** ×244 on hand covers phase 1.
+- **Aggregate is the gate:** gravel ~41 kg and pozz ~3.5 kg are far below footing/slab runway; sand and lime are comparatively healthy.
+- The block bench is commissioned; use it after the existing pool is allocated, not just to raise the count.
 
-## ✓ Sentanár — `MUSKET-1` *(closed d4230/4240)*
+### Electric infrastructure
 
-**Plan:** [musket-sentanar-y13.md](musket-sentanar-y13.md) — **ammo arc ✓ · Yule hunt ✓ d4240**
+- Plan: [ww-2-power-upgrade.md](ww-2-power-upgrade.md)
+- The cheap wheel retrofit is complete. Next value comes from **preserving head**, not another generator rewind.
+- Crossflow remains blocked by route geometry, **~12–20 kg iron/steel**, **~0.6–1.0 kg bronze**, and the char/ore campaign behind those metals.
+- Build runner, reduction, clutches, gates, and guards off-line; cut over once.
 
-| Open tail | State |
-|---|---|
-| **Hat (Y14)** | **⚑ Indy / cattleman wide-brim · merlot band** |
+### Chemistry
 
----
+- **d5042:** spirit **~42 % v/v** · dehyd **~89 % ethanol** · vinegar **~5.8 % acetic** · **`ETHANOL-SG-LADDER-Y14-5042`** @ `REF-SHELF-1`.
+- Next: **concentrated acetic** path vs use-as-is · **petroleum** small-cut assay @ Asi seep grammar.
+- Petroleum has no current build plan. Start with a small feed assay and fractionation design tied to the known Asi bitumen seep; do not scale collection before useful cuts are demonstrated.
 
-## ⚒ Campus queue *(player-named heroes)*
+## Secondary / when convenient
 
-- ~~**`WOOD-HAUL-4619`**~~ · ~~**`CHAR-RETORT-4620`**~~ · ~~**`GRAIN-DISTILL-Y14-1`**~~ · ~~**`ETHANOL-DEHYD-BATCH-CY13-1`**~~
-- ~~**`ETHANOL-DEHYD-BATCH-CY13-2`**~~ · ~~**`CHAR-RETORT-4627` + calcine`**~~
-- ~~**`WOOD-HAUL-4637`**~~ — **✓ ~86.4 kg · pile ~83.6 kg**
-- ⚒ **`ETHANOL-DEHYD-BATCH-CY13-3`** — **run 1 ✓ d4632** · ⚑ **run 2 when named** · **`CATALYST` ~58 g**
-- ~~**`CHAR-RETORT-4638` + calcine`**~~ · ~~**`BLOCK-Y10-4639` ×8`**~~ · **`BLOCK-LIFT` tail ~×0** — next lift when FIFO ages
-- ~~**`LINEN-TOWEL-SPRINT-Y14-1`**~~ — **✓ FULL CLOSE d4633** · **×4 purple + gold end vines @ felt**
-- ⟳ **Flax trough cycle** — **daily farm pass:** pull when window met · break/heckle when dry · rinse pool · load next — **automatic when ready**
-- ⚒ **Officina north work wing** — **✓ shell + gypsum · ✓ layout d4808** · **`FEEDER-3` pt1** · ⚑ **trunk finish · `TILE-TF` floor (~×65–75 short) · lamps · furniture**
-- ⚑ **`EC-1-GRID-FEEDER-3`** — north jamb trunk when wing footing exists · [ec-1-campus-expansion.md](ec-1-campus-expansion.md)
-- ⚑ **`ETHANOL-DEHYD` / org chem** — **POC ✓ d4600** · winter repeats · ethylene/ester path needs rig + purification
-- ⚑ **Compressor PoC** — belt-tree grammar · **fuse + switch + max I on paper first** (expansion doc machine ledger)
-- ⚒ **Optional forsterite margin batches** — ×20 bank live
-- ⚑ **`PAYAS-APPROACH-1`** — permanent cheek when a material lap passes
-- ⚑ **`CAVE-3-DOOR-1`** — wet-day demotion still valid
-- ⚑ **`MFGC-2-ST` table migrate** — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md)
-- ⧗ **`YULE-FEAST-Y15`** — **tray staged d4964** · **belly cure live** · **rashers smoke + fritters fry ~feast eve**
-- ◌ **Wild boar / sheep hunt** — when convenient
-- ◌ **Barley bed expand** — player maybe @ **Y15 `SPRING-SOW`**
-- ⚑ **`ROOF-R&D-HEMP-BITUMEN-1`** — scale deferred · F1/F2 rain PASS
-- ⚑ **`TRANSFORMER / AC`** — [wishlist.md](wishlist.md)
-- ~~**`HYDRO-ELEC-1` forebay hero block**~~ · ~~**`BULB-POC` hero ladder**~~
-
----
-
-## ⚑ Expedition residue
-
-- ✓ **Y13 Kisecik/Kozan** — closed
-- ✓ **`KISECIK-RUN-Y14-*`** — closed
-- ✓ **Ghab leg 3 + hemp import** — d4502–4506
-- ⚑ **`M-24` Islahiye / chromite** — furnace-gated
-- ⚑ **Erzin cache touch** — deferred
-
----
-
-## Survey, when passing
-
-- ★★ **`SERPENTINE-FLORA-READ`** — method for barren patches
-- ⚠ **Cinnabar source @ Kisecik** — float only · Hg **not** the furnace instrument
-- ⚠ **`SC-ORONTES-ISLAND-B`** — probe may reopen deep footing
-- **High-purity vein quartz, Nur Belen** — ~15–25 km NE · pre-sow lull candidate
-
----
-
-## ⟳ Campus comfort — not urgent
-
-- **`COAST-VACATION-1`** — pleasure grammar · blocks nothing
-- **Officina sink branch** · **`WAGON-GARAGE-2`** · **`CRANE-2`** — deferred builds
-
-## ⚑ Factory yard queue *(slated d4813 · after TF floor band)*
-
-| Item | Doc | Notes |
-|---|---|---|
-| **`BLOCK-BENCH-WW-1`** vibratory press | [block-bench-water-wheel.md](block-bench-water-wheel.md) | **✓ ×8 trial d4931 · ~5 h 40 min** · **⚑ rhythm sprints · foot-cube QC @ 28 d** |
-| ~~**`WHITE-SHEET-HABITUAL-MAKE-Y15-1`**~~ | [linen-replace-runway-y15.md](linen-replace-runway-y15.md) | **✓ d4925** |
-| **`AREA-MATERIARUM-1`** | [area-materiarum-y13.md](area-materiarum-y13.md) | **4-bay bulk pad** · **~1 t** sand/gravel/lime/clay staging |
-| **`SHOVEL-BULK-1` · `WHEELBARROW-1`** | *(with yard)* | Wide pan shovel · **60–80 L** barrow for yard laps |
-| ◌ **Stirling / solar R&D** | [wishlist.md](wishlist.md) | **Stirling** = heat-engine experiments · **PV** = **not yet** — photovoltaics need junction + glass + metallurgy runway far beyond bulbs |
-
-★ **Order:** **TF floor + fire** → **yard pad** (quick civil) → **barrow/shovel** → **block vibratory bench** · Stirling/solar **do not block** the above.
-
----
-
-## ★★★ The two-furnace note *(d3582 — still load-bearing)*
-
-> ☠ ★★★ **YOU CANNOT HAVE MAXIMUM TEMPERATURE AND FULL ISOLATION IN THE SAME CHAMBER.**
-
-**So build two, and let each be good at one thing.**
-
-| | **`FURNACE-2` — the melt** | **`MUFFLE-1` — the treatment** |
-|---|---|---|
-| **Job** | Crucible melts · reduction · master alloys | Anneal · carburise · controlled soak |
-| **Target** | ★★ **As hot as the blast will carry it** | ~700–900 °C, held and read |
-| **Isolation** | ★★★ **The CRUCIBLE is the muffle** | Sealed box · gas pipe |
-
-### Getting hotter — ranked
-
-1. ★★★ **HOT BLAST** — duct in the flue before the tuyère
-2. **Forced blast off the water wheel** — collar #4 precedent
-3. **Refractory** — forsterite · kaolin `M-26` crucibles
-4. **Hot face + small chamber**
-
-### ☠ Safety
-
-> **`SMOKE-SPOT` on every reducing run · sized inlet in the design · outdoors or open lean-to** — CO is the hazard immunity hides.
-
----
-
-*Y12 queue archived in git history @ d3813 sweep.*
+- ⟳ Flax trough cycle — automatic farm-pass grammar when a bundle is live.
+- ⚑ `MFGC-2-ST` table migration — [steel-standards-sprint-y13.md](steel-standards-sprint-y13.md).
+- ⚑ `CAVE-3-DOOR-1` — wet-day demotion.
+- ⚑ `ROOF-R&D-HEMP-BITUMEN-1` scale — coupons already passed rain.
+- ◌ `COAST-VACATION-1` — blocks nothing.
