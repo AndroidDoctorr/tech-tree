@@ -22,6 +22,34 @@
 
 ---
 
+## Building feeders *(canonical — count buildings, not cleat runs)*
+
+★ **One named building → one building-entry feeder** (knife @ jamb + **`GRID-TAP-*` bus**). Extra trunks to the **same** building are **phase debt**, not a third “building wired.”
+
+| Building | Map | Building feeder | State |
+|---|---|---|---|
+| **Officina** *(Turris + craft + storage + north work wing)* | [officina.md](../map/campus/officina.md) | **`EC-1-GRID-FEEDER-2`** · **`SW-CRAFT-FEEDER-1` only** | **✓ LIVE d4987** · north tap **bus-tied** · **`FEEDER-3` trunk retired** |
+| **Fabrica** *(WW-YARD plus · hub · forge court)* | [fabrica.md](../map/campus/fabrica.md) | **`FEEDER-1` chem + `FEEDER-FABRICA-1` hub** | **✓ building buses LIVE d4987** · branches ⚑ |
+| **Domus** | Residential terrace | **Margin branch on `FEEDER-2`** only | **⚑** dedicated feeder or formal tap-in when M2 chase exists |
+| **Horreum** | @ Domus | **None** | Defer |
+
+### Fabrica vs chem porch *(do not double-count)*
+
+| Trunk | What it actually serves | Building? |
+|---|---|---|
+| **`EC-1-GRID-FEEDER-1`** | **Chem east leg / porch entry** · **`GRID-TAP-CHEM-1`** · **`MOTOR-1` · cells** | **East wing of Fabrica compound** — chemistry **is** powered today |
+| **`EC-1-GRID-FEEDER-FABRICA-1`** | **`WW-HUB-TOWER-1` south entry** · **hub + south court + west millhouse class** | **Compound bus** — belt assist · forge fan · lights · future **`STORE-4`** margin |
+
+> **Target:** **Chem stays on Feeder-1** until a consolidation hero ties **`GRID-TAP-CHEM-1`** to **`GRID-TAP-FABRICA-1`** through the hub *(one switch per leg, not two wheelhouse trunks forever)*. **Next install:** land **Fabrica-1** @ hub · commission **industrial branches** · add **chem lab room lights / bench taps** on existing chem bus.
+
+### Officina — one feeder *(done d4987)*
+
+**✓ `OFFICINA-FEEDER-CONSOLIDATE-4987`** — **`GRID-TAP-CRAFT-1` → `GRID-TAP-WING-N-1`** bus tie **~7.2 m 0.5 mm** · **`SW-CRAFT-FEEDER-1` sole entry** · **`FEEDER-3` trunk stripped → Fabrica-1**. Lab + north motor branches unchanged on north tap; **storage wing room lamps** still ⚑.
+
+**Campus score @ d4987:** **3/3 building buses LIVE** — **Officina** single feeder · **Fabrica** chem + hub entries · **Domus** margin on Officina trunk. **Room fixtures** still ⚑ per Phase 2.
+
+---
+
 ## Standard parts *(every new circuit)*
 
 | Part | Spec | Job |
@@ -89,6 +117,14 @@
 1. **Socket std** = **`BULB-FEAST-SOCKET-Y14-1` geometry** · branch + **`SW-*`** each room.
 2. **One branch per room** · dim carbon · **no room shares a 0.5 mm run with a motor**.
 3. Order: **craft wing remainder** → **M2/domus when chase proven** → horreum margin last (dry only).
+
+### Phase 2b — **`EC-1-GRID-FEEDER-FABRICA-1`** *(industrial compound · d4986+)*
+
+1. **Route** wheelhouse post tree → **`WW-HUB-TOWER-1` south apron** · **~18 m paired class** · cleated · **not buried**.
+2. **`SW-FABRICA-FEEDER-1`** @ hub · **`EC-1-TAP-BOX-STD-4`** *(or reuse std-2 jig)* · **`GRID-TAP-FABRICA-1`**.
+3. **Branches (named before energize):** south-court **LAMP** · **`FORGE-D` fan assist** class · **`MILLHOUSE-2` bench** · **`STORE-4` dry margin** last.
+4. ✓ **Chem lab:** **×2 room lamps · `SW-CHEM-LAB-LAMP-1`** on **`GRID-TAP-CHEM-1`** — **d5013–5019** · commission / reflectors defer.
+5. **Wire budget:** **~36–40 m paired 0.9 mm** trunk + wrap — **restore `WIRE-CU-GEN2-1` comfort** before energize *(lab plan)*.
 
 ### Phase 3 — **North work wing civil + power**
 

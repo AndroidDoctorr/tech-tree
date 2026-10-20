@@ -6,10 +6,60 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 4974 · `year-014/`)*
+## Recent days *(append here · @ Day 5024 · `year-014/`)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5024 | [day-5024.md](days/year-014/week-718/day-5024.md) | **✓ Vac · spare bulbs ×2** | **Cal-Y14 D40** |
+| 5023 | [day-5023.md](days/year-014/week-718/day-5023.md) | **✓ Bulb shells ×4** | **Cal-Y14 D39 · spare bank** |
+| 5022 | [day-5022.md](days/year-014/week-718/day-5022.md) | **✓ Glass stock prep** | **Cal-Y14 D38** |
+| 5021 | [day-5021.md](days/year-014/week-718/day-5021.md) | **✓ Ice haul lap 2** | **Cal-Y14 D37 · vault cap** |
+| 5020 | [day-5020.md](days/year-014/week-718/day-5020.md) | **✓ Ice haul lap 1** | **Cal-Y14 D36 · W718 open** |
+| 5019 | [day-5019.md](days/year-014/week-717/day-5019.md) | **✓ Bulb tip + glow test** | **Cal-Y14 D35 · W717 close** |
+| 5018 | [day-5018.md](days/year-014/week-717/day-5018.md) | **✓ Bulb seal ×2** | **Cal-Y14 D34 · W717 d6** |
+| 5017 | [day-5017.md](days/year-014/week-717/day-5017.md) | **✓ Chem lamp 2 lead** | **Cal-Y14 D33 · W717 d5** |
+| 5016 | [day-5016.md](days/year-014/week-717/day-5016.md) | **✓ Lamp fuse seats ×3** | **Cal-Y14 D32 · W717 d4** |
+| 5015 | [day-5015.md](days/year-014/week-717/day-5015.md) | **✓ Lamp hang ×3** | **Cal-Y14 D31 · W717 d3** |
+| 5014 | [day-5014.md](days/year-014/week-717/day-5014.md) | **✓ Nail batch · hang defer** | **Cal-Y14 D30 · W717 d2** |
+| 5013 | [day-5013.md](days/year-014/week-717/day-5013.md) | **✓ Leads day 2** | **Cal-Y14 D29 · W717 d1** |
+| 5012 | [day-5012.md](days/year-014/week-716/day-5012.md) | **✓ Leads day 1 · W716 close** | **Cal-Y14 D28 · W716 d7** |
+| 5011 | [day-5011.md](days/year-014/week-716/day-5011.md) | **✓ Bulb glass ×3** | **Cal-Y14 D27 · W716 d6** |
+| 5010 | [day-5010.md](days/year-014/week-716/day-5010.md) | **✓ Lamp switches ×3** | **Cal-Y14 D26 · W716 d5** |
+| 5009 | [day-5009.md](days/year-014/week-716/day-5009.md) | **✓ Reed filaments dry** | **Cal-Y14 D25 · W716 d4** |
+| 5008 | [day-5008.md](days/year-014/week-716/day-5008.md) | **✓ Pendants ×3** | **Cal-Y14 D24 · W716 d3** |
+| 5007 | [day-5007.md](days/year-014/week-716/day-5007.md) | **✓ Socket #8** | **Cal-Y14 D23 · W716 d2** |
+| 5006 | [day-5006.md](days/year-014/week-716/day-5006.md) | **✓ Socket #7 · chem** | **Cal-Y14 D22 · W716 d1** |
+| 5005 | [day-5005.md](days/year-014/week-715/day-5005.md) | **✓ Sockets ×2 sprint** | **Cal-Y14 D21 · W715 d7** |
+| 5004 | [day-5004.md](days/year-014/week-715/day-5004.md) | **✓ Ice vault read** | **Cal-Y14 D20 · W715 d6** |
+| 5003 | [day-5003.md](days/year-014/week-715/day-5003.md) | **✓ Brass stock** | **Cal-Y14 D19 · W715 d5** |
+| 5002 | [day-5002.md](days/year-014/week-715/day-5002.md) | **✓ Char retort** | **Cal-Y14 D18 · W715 d4** |
+| 5001 | [day-5001.md](days/year-014/week-715/day-5001.md) | **✓ Char + kiln lime** | **Cal-Y14 D17 · W715 d3** |
+| 5000 | [day-5000.md](days/year-014/week-715/day-5000.md) | **✓ Wood haul** | **Cal-Y14 D16 · W715 d2** |
+| 4999 | [day-4999.md](days/year-014/week-715/day-4999.md) | **✓ Lime haul** | **Cal-Y14 D15 · W715 d1** |
+| 4998 | [day-4998.md](days/year-014/week-714/day-4998.md) | **✓ EM chart · W714 close** | **Cal-Y14 D14 · W714 d7** |
+| 4997 | [day-4997.md](days/year-014/week-714/day-4997.md) | **✓ Cored inductors · LC** | **Cal-Y14 D13 · W714 d6** |
+| 4996 | [day-4996.md](days/year-014/week-714/day-4996.md) | **✓ Iron L-core blanks** | **Cal-Y14 D12 · W714 d5** |
+| 4995 | [day-4995.md](days/year-014/week-714/day-4995.md) | **✓ RC intro · τ** | **Cal-Y14 D11 · W714 d4** |
+| 4994 | [day-4994.md](days/year-014/week-714/day-4994.md) | **✓ Paper ×10** | **Cal-Y14 D10 · W714 d3** |
+| 4993 | [day-4993.md](days/year-014/week-714/day-4993.md) | **✓ Lab labels + R chart** | **Cal-Y14 D9 · W714 d2** |
+| 4992 | [day-4992.md](days/year-014/week-714/day-4992.md) | **✓ Brass + bronze stock** | **Cal-Y14 D8 · W714 d1** |
+| 4991 | [day-4991.md](days/year-014/week-713/day-4991.md) | **✓ Alloy + R spares** | **Cal-Y14 D7 · W713 close** |
+| 4990 | [day-4990.md](days/year-014/week-713/day-4990.md) | **✓ Cap batch ×4** | **Cal-Y14 D6 · W713 d6** |
+| 4989 | [day-4989.md](days/year-014/week-713/day-4989.md) | **✓ 0.9 mm gen-2 reserve** | **Cal-Y14 D5 · W713 d5** |
+| 4988 | [day-4988.md](days/year-014/week-713/day-4988.md) | **✓ 1.6 mm draw feed** | **Cal-Y14 D4 · W713 d4** |
+| 4987 | [day-4987.md](days/year-014/week-713/day-4987.md) | **✓ Feeder rehome · campus 3/3 bus** | **Cal-Y14 D3 · W713 d3** |
+| 4986 | [day-4986.md](days/year-014/week-713/day-4986.md) | **✓ Fabrica feeder pt1** | **Cal-Y14 D2 · W713 d2** |
+| 4985 | [day-4985.md](days/year-014/week-713/day-4985.md) | **✓ Cal-Y14 · lab wire · plan** | **Cal-Y14 D1 · W713 d1** |
+| 4984 | [day-4984.md](days/year-014/week-712/day-4984.md) | **✓ Lab copper draw · W712 close** | **Cal-Y13 D365 · Y14 eve** |
+| 4983 | [day-4983.md](days/year-014/week-712/day-4983.md) | **✓ Char + kiln lime ×2** | **Cal-Y13 D364 · Y13 eve** |
+| 4982 | [day-4982.md](days/year-014/week-712/day-4982.md) | **✓ Limestone haul** | **Cal-Y13 D363 · W712 d5** |
+| 4981 | [day-4981.md](days/year-014/week-712/day-4981.md) | **✓ Wagon tune** | **Cal-Y13 D362 · W712 d4** |
+| 4980 | [day-4980.md](days/year-014/week-712/day-4980.md) | **✓ Sand haul 2** | **Cal-Y13 D361 · W712 d3** |
+| 4979 | [day-4979.md](days/year-014/week-712/day-4979.md) | **✓ Sand haul 1** | **Cal-Y13 D360 · W712 d2** |
+| 4978 | [day-4978.md](days/year-014/week-712/day-4978.md) | **✓ Nitre turn · campus scare** | **Cal-Y13 D359 · W712 d1** |
+| 4977 | [day-4977.md](days/year-014/week-711/day-4977.md) | **✓ Wood haul · W711 close** | **Cal-Y13 D358 · W711 d7** |
+| 4976 | [day-4976.md](days/year-014/week-711/day-4976.md) | **✓ Limestone haul @ pile 7** | **Cal-Y13 D357 · W711 d6** |
+| 4975 | [day-4975.md](days/year-014/week-711/day-4975.md) | **✓ Sand haul @ bay 4** | **Cal-Y13 D356 · W711 d5** |
 | 4974 | [day-4974.md](days/year-014/week-711/day-4974.md) | **✓ Donkeys hung · rest** | **Cal-Y13 D355 · W711 d4** |
 | 4973 | [day-4973.md](days/year-014/week-711/day-4973.md) | **✓ Yule hunt · feast · SUN** | **Cal-Y13 D354 · Yule** |
 | 4972 | [day-4972.md](days/year-014/week-711/day-4972.md) | **✓ Yule eve cook · frame glue** | **Cal-Y13 D353 · Yule eve** |

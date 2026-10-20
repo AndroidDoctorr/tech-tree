@@ -2,7 +2,7 @@
 
 *Player-maintained · brief snapshot only. **Live stock:** [inventory/resources.md](../inventory/resources.md) · **runway flags:** [now.md](../now.md). Day files own debits.*
 
-**Last snapshot:** d4941 · Cal-Y13 D322
+**Last snapshot:** d4983 · Cal-Y13 D364
 
 ---
 
@@ -14,7 +14,7 @@
 | **Rebar** | **×16 @ rack** | `CY13-33…36` + production rack |
 | **Glass panes** | **×8 spare** | **`GP-Y8-C-LITE`** @ storage wing · Officina N W+E **installed** |
 | **Pipe (WI, ready)** | **×0 m** | `PT-*` production live · no bulk stock |
-| **Wire (Cu, useful)** | **~11.7 m class** | **`WIRE-CU-4`** hold · gen-2 tail spent |
+| **Wire (Cu, useful)** | **~9 m gen-2 · lab spools on peg** | **`FEEDER-FABRICA-1` pt1** — draw before energize |
 | **Masonry brick** | **~199** | `BRICK-FIRED-B` @ Kiln B pad |
 | **Floor tiles (TF)** | **×31 spare** | Rack north |
 | **Roof tiles (TR)** | **~×100 fired + ×32 green** | Rack south · green = `4683` drying |
@@ -25,9 +25,9 @@
 | **Outlets / receptacles** | **×0** | EC-1 grammar · house scale not tooled |
 | **Structural timber** | **—** | Defer until a build names cut list |
 | **Gravel** | **~41 kg** | `MATERIARUM` bays 2–3 + apron |
-| **Filter sand** | **~45.2 kg** | `MATERIARUM` bay 4 |
-| **Limestone (`CACO3-P7`)** | **~54.9 kg** | Pile 7 · kiln runway OK |
-| **Quicklime** | **~0.4 kg tail** | Slake before next block day |
+| **Filter sand** | **~113.5 kg** | `MATERIARUM` bay 4 |
+| **Limestone (`CACO3-P7`)** | **~103.1 kg** | Pile 7 · kiln runway OK |
+| **Quicklime** | **~9.2 kg** | Sealed crock · block sprint bank |
 | **Lime putty** | **~0** | Working tail |
 | **Pozzolan** | **~3.5 kg @ bay 1** | **~1 ×8 run left** · face haul next summer |
 

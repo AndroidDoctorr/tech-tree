@@ -12,6 +12,10 @@ Things the Player wants to accomplish.
 
 - [ongoing-items.md](ongoing-items.md) — Current long-term or continuing projects that can interleave between other tasks (trail improvements, e.g.)
 
+- [electronics-lab-stock-y14.md](electronics-lab-stock-y14.md) — Side cadence: wire · fuses · R/L/C · bulb spares · labeled peg/box stock
+
+- [ec-1-campus-expansion.md](ec-1-campus-expansion.md) — Campus grid: feeders · tap boxes · room lights *(main EC queue)*
+
 ## ★★ A plan with a date is not a plan, it is a calendar row
 
 > **The six oak slots were staked at d949 and have never been planted.** Not because anyone decided against it — because oak transplant is spring-only, and **the only thing that survives a nine-year gap is [calendar.md](../checklists/calendar.md).** Acorn *gathering* is calendared and happens every year. Acorn *planting* is not, and never happens.

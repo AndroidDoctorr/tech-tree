@@ -21,6 +21,8 @@
 
 **Doctrine:** Same as Y12→Y13 — **`ICE-VAULT-READ` at least twice between ice seasons** (~Aug + pre-peak Feb). Patch stock on each read.
 
+**Calculator (d5003+):** `python sim/ice_vault.py annual --start <kg>` · procedure [ice-vault.md](../../government/procedures/ice-vault.md).
+
 ---
 
 *See [day-4286.md](../days/year-012/week-613/day-4286.md).*

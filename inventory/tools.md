@@ -167,8 +167,18 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-2`** | Production lamp · **tipped d4479** · **body → `BULB-LAMP-POC-Y14-1` @ desk** | *(integrated)* | d4479 |
 | **`BULB-PROD-Y14-3`** | Production lamp · **fine filament · pre-seal outgas · tipped d4567** | *(→ `BULB-LAMP-POC-Y14-2`)* | d4567 |
 | **`BULB-PROD-Y14-4`** | Production lamp · **reed · tipped d4579** | *(→ `BULB-LAMP-POC-Y14-3`)* | d4579 |
-| **`BULB-LAMP-POC-Y14-3`** | Sealed lamp · **`BULB-PROD-Y14-4`** · **reed scout** · **@ vac bench soft peg** | **`VAC-BENCH-1`** | d4579 |
+| **`BULB-LAMP-POC-Y14-3`** | *(integrated → **`BULB-LAMP-CHEM-LAB-Y14-1` @ chem fixture 1**)* | — | d4579 |
 | **`BULB-PROD-Y14-6`** | Production lamp · **tipped d4846** | *(→ `BULB-LAMP-WING-N-2`)* | d4846 |
+| **`BULB-PROD-Y14-10`** | *(→ `BULB-LAMP-SPARE-CY14-10`)* | — | d5024 tip |
+| **`BULB-PROD-Y14-11`** | *(→ `BULB-LAMP-SPARE-CY14-11`)* | — | d5024 tip |
+| **`BULB-LAMP-SPARE-CY14-10`** | Sealed spare · **`BULB-PROD-Y14-10`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
+| **`BULB-LAMP-SPARE-CY14-11`** | Sealed spare · **`BULB-PROD-Y14-11`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
+| **`BULB-PROD-Y14-12`** | **Stem + filament loaded d5024** · **⧗ outgas @ header** | **`VAC-BENCH-1`** | d5024 load |
+| **`BULB-PROD-Y14-13`** | Production shell · **annealed d5023** · spare bank | Chem porch spare peg | d5023 |
+| **`BULB-LAMP-STORAGE-WING-Y14-1`** | Sealed · reed **`PENDANT-A`** · **seated @ storage N** · glow rank **3** | Storage wing N | d5019 test |
+| **`BULB-LAMP-STORAGE-WING-Y14-2`** | Sealed · **`PENDANT-B`** · **seated @ storage S** · glow rank **1** | Storage wing S | d5019 test |
+| **`BULB-LAMP-CHEM-LAB-Y14-1`** | Sealed · **`BULB-PROD-Y14-4`** reed · **@ `BULB-CHEM-LAB-LAMP-Y14-1`** | `CHEM-LAB-WING-1` | d5019 seat |
+| **`BULB-LAMP-CHEM-LAB-Y14-2`** | Sealed · **`BULB-PROD-Y14-9`** · **@ `BULB-CHEM-LAB-LAMP-Y14-2`** · glow **~22 s** d5019 | `CHEM-LAB-WING-1` | d5019 tip |
 | **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1` desk** | Craft-wing desk | d4558 |
 | **`BULB-LAMP-POC-Y14-2`** | Sealed lamp · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d4571 |
 | **`EC-1-TAP-BOX-JIG-Y14-1`** | Tap-box drill/jig · post spacing · fuse bore · **CP-G shutter slide** | Craft wing bench peg | d4561 |
@@ -178,9 +188,20 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`EC-1-TAP-BOX-STD-2`** | Tap box #2 · same grammar | **Officina south bay** · **`GRID-TAP-CRAFT-2`** | d4563 LIVE |
 | **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · **`BULB-FEAST-SOCKET-Y14-2` + `BULB-LAMP-POC-Y14-2`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d4572 commissioned |
 | **`BULB-FEAST-LAMP-Y14-1`** | Desk pendant · **`BULB-FEAST-SOCKET-Y14-1` + `BULB-LAMP-POC`** · **`SW-FEAST-LAMP-1`** · **~0.9 m drop** @ craft-wing desk | **`CRAFT-WING-1` north bay** | d4558 LIVE |
+| **`SW-STORAGE-LAMP-1`** | Knife switch · storage wing N · **@ N rafter cleat** · **OPEN default** | Storage wing N | d5012 branch |
+| **`SW-STORAGE-LAMP-2`** | Knife switch · storage wing S · **@ S bench cleat** · **OPEN default** | Storage wing S | d5013 branch |
+| **`SW-CHEM-LAB-LAMP-1`** | Knife switch · **chem lab room · both interior lamps** · **@ interior east cleat** · **OPEN default** | `CHEM-LAB-WING-1` | d5013 branch |
 | **`EC-1-TAP-BOX-STD-3`** | Tap box #3 · **LAMP-H ×2 / BENCH / motor defer** · **`GRID-TAP-WING-N-1`** | **Officina north door east jamb** | d4808 LIVE |
 | **`BULB-WING-N-LAMP-1`** | Wing north ceiling · **`BULB-FEAST-SOCKET-Y14-3` + reflector + `BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
 | **`BULB-WING-N-LAMP-2`** | Wing south/center · **socket 4 + reflector 2 + bulb B** · **`SW-WING-N-LIGHT-2`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
+| **`BULB-FEAST-SOCKET-Y14-5`** | *(in `BULB-STORAGE-WING-LAMP-Y14-1`)* | Storage wing N | d5015 hang |
+| **`BULB-FEAST-SOCKET-Y14-6`** | *(in `BULB-STORAGE-WING-LAMP-Y14-2`)* | Storage wing S | d5015 hang |
+| **`BULB-FEAST-SOCKET-Y14-7`** | *(in `BULB-CHEM-LAB-LAMP-Y14-1`)* | Chem lab · fixture 1 | d5015 hang |
+| **`BULB-FEAST-SOCKET-Y14-8`** | *(in `BULB-CHEM-LAB-LAMP-Y14-2`)* | Chem lab · fixture 2 | d5015 hang |
+| **`BULB-STORAGE-WING-LAMP-Y14-1`** | Storage N · socket 5 · **`SW-STORAGE-LAMP-1`** · **bulb seated · not commissioned** | Storage wing N | d5019 test |
+| **`BULB-STORAGE-WING-LAMP-Y14-2`** | Storage S · socket 6 · **`SW-STORAGE-LAMP-2`** · **bulb seated · not commissioned** | Storage wing S | d5019 test |
+| **`BULB-CHEM-LAB-LAMP-Y14-1`** | Chem lab fixture 1 · **`SW-CHEM-LAB-LAMP-1`** · **bulb seated · not commissioned** | `CHEM-LAB-WING-1` | d5019 seat |
+| **`BULB-CHEM-LAB-LAMP-Y14-2`** | Chem lab fixture 2 · **same switch** · **bulb seated · not commissioned** | `CHEM-LAB-WING-1` | d5019 test |
 | **`WORK-BENCH-N-1`** | North cell bench · **tile tray + ×16 TF backsplash (2 rows)** · limewash oak · earth bonded | **North work wing** | d4848 · splash d4853 |
 | **`WING-N-CABINET-1`** | Closed east cheek cabinet · acid/glass upper · porch overflow loaded | **North work wing** | d4859 loaded |
 | **`WING-N-WEST-SHELF-1`** | Oak bracket shelf · light tools under W window | North work wing west wall | d4859 LIVE |
@@ -302,12 +323,24 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `R-WORK-100R-1` | Working 100 R · 0.3 mm brass · trimmed | Slot G | ✓ LIVE d3503 |
 | `C-WORK-1` · `C-WORK-2` | Waxed-paper caps · matched `C-STD-1` | Slots H–I | ✓ LIVE d3503 |
 | `L-WORK-1` | Air-core 118-turn duplicate | Slot J | ✓ LIVE d3503 |
+| **`L-CORE-IRON-SOLID-Y14-1`** | Soft iron solid core · in **`L-WORK-IRON-SOLID-Y14-1`** | Peg slot L | ✓ wound d4997 |
+| **`L-CORE-IRON-LAM-Y14-1`** | Laminated iron core · in **`L-WORK-IRON-LAM-Y14-1`** | Peg slot L | ✓ wound d4997 |
+| **`L-WORK-IRON-SOLID-Y14-1`** | **118 t · 0.3 mm · solid iron core | Peg slot L | ✓ LIVE d4997 |
+| **`L-WORK-IRON-LAM-Y14-1`** | **118 t · 0.3 mm · lam iron core | Peg slot L | ✓ LIVE d4997 |
 | `ELEC-COMPONENT-BOX-Y10-1` | Oak 4-row bench tray · R / L / C / SW · felt-lined · @ chem bench east shelf | Chem bench east | ✓ LIVE d3511 |
 | `R-SPARE-1R-1` | 1 R tap spare | `ELEC-COMPONENT-BOX-Y10-1` row R | ✓ LIVE d3511 |
 | `R-SPARE-10R-1` | 10 R bronze duplicate spare | Row R | ✓ LIVE d3511 |
 | `R-SPARE-100R-1` | 100 R · 0.3 mm brass trimmed spare | Row R | ✓ LIVE d3511 |
+| **`R-SPARE-1R-2`** | 1 R tap spare · second | Row R | ✓ LIVE d4991 |
+| **`R-SPARE-10R-2`** | 10 R bronze duplicate | Row R | ✓ LIVE d4991 |
+| **`R-SPARE-100R-2`** | 100 R brass trimmed | Row R | ✓ LIVE d4991 |
 | `L-SPARE-1` | 118-turn air core · matched `L-STD-1` | Row L | ✓ LIVE d3511 |
 | `C-SPARE-1` · `C-SPARE-2` | Waxed-paper cap pair | Row C | ✓ LIVE d3511 |
+| **`C-SPARE-3` · `C-SPARE-4`** | Waxed-paper cap pair · matched **`C-STD-1`** | Row C / peg K–L | ✓ LIVE d4990 |
+| **`C-BENCH-Y14-1` · `C-BENCH-Y14-2`** | Waxed-paper cap pair · **`~1.4× C-STD`** rough trim | Peg K–L | ✓ LIVE d4990 |
+| **`ELEC-PART-LABEL-KIT-Y14-1`** | Oak slips · rice-paper inserts · value tags @ peg + **`ELEC-COMPONENT-BOX-Y10-1`** | Chem bench east | ✓ LIVE d4993 |
+| **`RESISTOR-COLOR-CHART-Y14-1`** | Wall chart · decade table · 4-band diagram · **black/red/blue swatches** · pigment queue ruled | North work wing E wall | ✓ LIVE d4993 |
+| **`EM-LAWS-CHART-Y14-1`** | Wall chart · Ohm · Kirchhoff · Gauss · Faraday · Ampère–Maxwell · **∇· vs ∇×** key · lab hooks | North work wing E wall | ✓ LIVE d4998 |
 | `BN-PAIR-G3-06-5/6` | Bolt/nut pairs · RC-06 · box stock | Row SW | ✓ LIVE d3511 |
 | `SW-TAP-WIRE-1` | 0.3 mm tap wire ~25 cm | Row SW | ✓ LIVE d3511 |
 | `SW-CHEM-FEEDER-1` | Knife switch · chem porch feeder isolate | Chem porch east jamb | ✓ LIVE d3890 |
