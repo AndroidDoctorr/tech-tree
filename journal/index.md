@@ -6,59 +6,70 @@
 
 **Do not load on routine play turns** — append one row to **Recent days** below + the matching [part file](index/). Live state: [now.md](../now.md).
 
-## Recent days *(append here · @ Day 5041 · `year-014/`)*
+## Recent days *(append here · @ Day 5160 · `year-015/` from d5110)*
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
-| 5152 | [day-5152.md](days/year-014/week-736/day-5152.md) | **✓ Slake bank · bulbs ×2** | **Cal-Y14 D168 · W736 close** |
-| 5151 | [day-5151.md](days/year-014/week-736/day-5151.md) | **✓ Quicklime ×2 only** | **Cal-Y14 D167 · ~16.2 kg** |
-| 5150 | [day-5150.md](days/year-014/week-736/day-5150.md) | **✓ Block lift ×16** | **Cal-Y14 D166 · yard ×96** |
-| 5149 | [day-5149.md](days/year-014/week-736/day-5149.md) | **✓ Lime ×2 + retort** | **Cal-Y14 D165 · ~11.4 kg CaO** |
-| 5148 | [day-5148.md](days/year-014/week-736/day-5148.md) | **✓ Sand haul** | **Cal-Y14 D164 · ~1.1 t sand** |
-| 5147 | [day-5147.md](days/year-014/week-736/day-5147.md) | **✓ Gravel haul** | **Cal-Y14 D163 · conservative stack** |
-| 5146 | [day-5146.md](days/year-014/week-736/day-5146.md) | **✓ Lime haul** | **Cal-Y14 D162 · ~357 kg stone** |
-| 5145 | [day-5145.md](days/year-014/week-735/day-5145.md) | **✓ TR ×32 · W735 close** | **Cal-Y14 D161 · ×64 green TR** |
-| 5144 | [day-5144.md](days/year-014/week-735/day-5144.md) | **✓ TR press ×32** | **Cal-Y14 D160 · rack south** |
-| 5143 | [day-5143.md](days/year-014/week-735/day-5143.md) | **✓ Brick press ×80** | **Cal-Y14 D159 · GB greens** |
-| 5142 | [day-5142.md](days/year-014/week-735/day-5142.md) | **✓ Clay haul bed-fill** | **Cal-Y14 D158 · ~155 kg pile 1** |
-| 5141 | [day-5141.md](days/year-014/week-735/day-5141.md) | **✓ Char + lime ×1 · CaO audit** | **Cal-Y14 D157 · ~6.6 kg crock** |
-| 5140 | [day-5140.md](days/year-014/week-735/day-5140.md) | **✓ Block lift ×16** | **Cal-Y14 D156 · yard ×80** |
-| 5139 | [day-5139.md](days/year-014/week-735/day-5139.md) | **✓ Herb seed cut · farm scare** | **Cal-Y14 D155 · Y16/Y17 wet seed** |
-| 5138 | [day-5138.md](days/year-014/week-734/day-5138.md) | **✓ Wild grain food lap · W734 close** | **Cal-Y14 D154 · ~0.91 kg** |
-| 5137 | [day-5137.md](days/year-014/week-734/day-5137.md) | **✓ Kaolin M-26 wash** | **Cal-Y14 D153 · slip ~25 kg** |
-| 5136 | [day-5136.md](days/year-014/week-734/day-5136.md) | **✓ M-26 kaolin haul close** | **Cal-Y14 D152 · ~36 kg wet** |
-| 5135 | [day-5135.md](days/year-014/week-734/day-5135.md) | **M-26 kaolin D1/2** | **Cal-Y14 D151 · camp** |
-| 5134 | [day-5134.md](days/year-014/week-734/day-5134.md) | **✓ Fava · Q · tan** | **Cal-Y14 D150 · ~27.8 L/s** |
-| 5133 | [day-5133.md](days/year-014/week-734/day-5133.md) | **✓ Brass smelt** | **Cal-Y14 D149 · ~258 g stock** |
-| 5132 | [day-5132.md](days/year-014/week-734/day-5132.md) | **✓ Bulb glass ×4 · W734 open** | **Cal-Y14 D148 · Y14-14…17** |
-| 5131 | [day-5131.md](days/year-014/week-733/day-5131.md) | **✓ Block lift ×16 · W733 close** | **Cal-Y14 D147 · yard ×64** |
-| 5130 | [day-5130.md](days/year-014/week-733/day-5130.md) | **✓ Glass cullet stock** | **Cal-Y14 D146 · bin ~0.48 kg** |
-| 5129 | [day-5129.md](days/year-014/week-733/day-5129.md) | **✓ Char retort quad** | **Cal-Y14 D145 · lane ~25 kg** |
-| 5128 | [day-5128.md](days/year-014/week-733/day-5128.md) | **✓ Iron bloom smelt** | **Cal-Y14 D144 · ~1.14 kg mount** |
-| 5127 | [day-5127.md](days/year-014/week-733/day-5127.md) | **✓ H-11 3-day haul close** | **Cal-Y14 D143 · ~63 kg bank** |
-| 5126 | [day-5126.md](days/year-014/week-733/day-5126.md) | **H-11 camp D2/3** | **Cal-Y14 D142 · ORE-YIELD HIT** |
-| 5125 | [day-5125.md](days/year-014/week-733/day-5125.md) | **H-11 OUT D1/3** | **Cal-Y14 D141 · camp @ bench** |
-| 5124 | [day-5124.md](days/year-014/week-732/day-5124.md) | **✓ Block lift ×16 · W732 close** | **Cal-Y14 D140 · yard ×48** |
-| 5123 | [day-5123.md](days/year-014/week-732/day-5123.md) | **✓ Wood haul** | **Cal-Y14 D139** |
-| 5122 | [day-5122.md](days/year-014/week-732/day-5122.md) | **✓ Limestone haul** | **Cal-Y14 D138** |
-| 5121 | [day-5121.md](days/year-014/week-732/day-5121.md) | **✓ Sand haul** | **Cal-Y14 D137** |
-| 5120 | [day-5120.md](days/year-014/week-732/day-5120.md) | **✓ Char retort quad** | **Cal-Y14 D136 · lane ~22 kg** |
-| 5119 | [day-5119.md](days/year-014/week-732/day-5119.md) | **✓ C₄ coupling repeat** | **Cal-Y14 D135 · ~4.2 ml jar** |
-| 5118 | [day-5118.md](days/year-014/week-732/day-5118.md) | **✓ Olefin capture · W732 open** | **Cal-Y14 D134 · trap ~24 ml** |
-| 5117 | [day-5117.md](days/year-014/week-731/day-5117.md) | **✓ Ethanol redistill · W731 close** | **Cal-Y14 D133 · high ~1.04 L** |
-| 5116 | [day-5116.md](days/year-014/week-731/day-5116.md) | **✓ Ethanol dehyd ×4** | **Cal-Y14 D132 · stock ~0.67 L** |
-| 5115 | [day-5115.md](days/year-014/week-731/day-5115.md) | **✓ Wood haul · haul block close** | **Cal-Y14 D131** |
-| 5114 | [day-5114.md](days/year-014/week-731/day-5114.md) | **✓ Sand haul · goat soft stool** | **Cal-Y14 D130** |
-| 5113 | [day-5113.md](days/year-014/week-731/day-5113.md) | **✓ Gravel comfort haul** | **Cal-Y14 D129** |
-| 5112 | [day-5112.md](days/year-014/week-731/day-5112.md) | **✓ Pick pack · char half** | **Cal-Y14 D128** |
-| 5111 | [day-5111.md](days/year-014/week-731/day-5111.md) | **✓ H-11 hematite · reads** | **Cal-Y14 D127 · face-capped ~10 kg** |
-| 5110 | [day-5110.md](days/year-014/week-730/day-5110.md) | **✓ Smoke/jerky · tan read · W730 close** | **Cal-Y14 D126** |
-| 5109 | [day-5109.md](days/year-014/week-730/day-5109.md) | **✓ Tan load harness lot** | **Cal-Y14 D125 · pit + frame** |
-| 5108 | [day-5108.md](days/year-014/week-730/day-5108.md) | **✓ Deer butcher ×3** | **Cal-Y14 D124 · ~133 kg block** |
-| 5107 | [day-5107.md](days/year-014/week-730/day-5107.md) | **✓ Deer hunt lap 3** | **Cal-Y14 D123 · ~0.81 m² hide** |
-| 5106 | [day-5106.md](days/year-014/week-730/day-5106.md) | **✓ Deer hunt lap 2** | **Cal-Y14 D122** |
-| 5105 | [day-5105.md](days/year-014/week-730/day-5105.md) | **✓ Deer hunt lap 1** | **Cal-Y14 D121 · ~1.12 m²** |
-| 5104 | [day-5104.md](days/year-014/week-730/day-5104.md) | **✓ Boar hide read** | **Cal-Y14 D120 · GO tan** |
+| 5163 | [day-5163.md](days/year-015/week-738/day-5163.md) | **✓ Sand haul** | **Cal-Y14 D179 · ~1284 kg** |
+| 5162 | [day-5162.md](days/year-015/week-738/day-5162.md) | **✓ Gravel haul** | **Cal-Y14 D178 · ~1258 kg** |
+| 5161 | [day-5161.md](days/year-015/week-738/day-5161.md) | **✓ Grape thin · scare** | **Cal-Y14 D177 · ~33 clusters** |
+| 5160 | [day-5160.md](days/year-015/week-738/day-5160.md) | **✓ Thistle + wild seed** | **Cal-Y14 D176 · Y16 laps** |
+| 5159 | [day-5159.md](days/year-015/week-737/day-5159.md) | **✓ Wood haul · W737 close** | **Cal-Y14 D175 · pile ~156 kg** |
+| 5158 | [day-5158.md](days/year-015/week-737/day-5158.md) | **✓ Lime ×2 · harness watch** | **Cal-Y14 D174 · crock ~4.5 kg** |
+| 5157 | [day-5157.md](days/year-015/week-737/day-5157.md) | **✓ Char · tan #2 pit** | **Cal-Y14 D173 · Y15-2 rotate** |
+| 5156 | [day-5156.md](days/year-015/week-737/day-5156.md) | **✓ Rebar ×4 · tan pull** | **Cal-Y14 D172 · hide Y15-1** |
+| 5155 | [day-5155.md](days/year-015/week-737/day-5155.md) | **✓ Rebar ×4** | **Cal-Y14 D171 · smelt HIT** |
+| 5154 | [day-5154.md](days/year-015/week-737/day-5154.md) | **✓ Char retort** | **Cal-Y14 D170 · lane ~37 kg** |
+| 5153 | [day-5153.md](days/year-015/week-737/day-5153.md) | **✓ Wood haul** | **Cal-Y14 D169 · pile 5 ~143 kg** |
+| 5152 | [day-5152.md](days/year-015/week-736/day-5152.md) | **✓ Slake bank · bulbs ×2** | **Cal-Y14 D168 · W736 close** |
+| 5151 | [day-5151.md](days/year-015/week-736/day-5151.md) | **✓ Quicklime ×2 only** | **Cal-Y14 D167 · ~16.2 kg** |
+| 5150 | [day-5150.md](days/year-015/week-736/day-5150.md) | **✓ Block lift ×16** | **Cal-Y14 D166 · yard ×96** |
+| 5149 | [day-5149.md](days/year-015/week-736/day-5149.md) | **✓ Lime ×2 + retort** | **Cal-Y14 D165 · ~11.4 kg CaO** |
+| 5148 | [day-5148.md](days/year-015/week-736/day-5148.md) | **✓ Sand haul** | **Cal-Y14 D164 · ~1.1 t sand** |
+| 5147 | [day-5147.md](days/year-015/week-736/day-5147.md) | **✓ Gravel haul** | **Cal-Y14 D163 · conservative stack** |
+| 5146 | [day-5146.md](days/year-015/week-736/day-5146.md) | **✓ Lime haul** | **Cal-Y14 D162 · ~357 kg stone** |
+| 5145 | [day-5145.md](days/year-015/week-735/day-5145.md) | **✓ TR ×32 · W735 close** | **Cal-Y14 D161 · ×64 green TR** |
+| 5144 | [day-5144.md](days/year-015/week-735/day-5144.md) | **✓ TR press ×32** | **Cal-Y14 D160 · rack south** |
+| 5143 | [day-5143.md](days/year-015/week-735/day-5143.md) | **✓ Brick press ×80** | **Cal-Y14 D159 · GB greens** |
+| 5142 | [day-5142.md](days/year-015/week-735/day-5142.md) | **✓ Clay haul bed-fill** | **Cal-Y14 D158 · ~155 kg pile 1** |
+| 5141 | [day-5141.md](days/year-015/week-735/day-5141.md) | **✓ Char + lime ×1 · CaO audit** | **Cal-Y14 D157 · ~6.6 kg crock** |
+| 5140 | [day-5140.md](days/year-015/week-735/day-5140.md) | **✓ Block lift ×16** | **Cal-Y14 D156 · yard ×80** |
+| 5139 | [day-5139.md](days/year-015/week-735/day-5139.md) | **✓ Herb seed cut · farm scare** | **Cal-Y14 D155 · Y16/Y17 wet seed** |
+| 5138 | [day-5138.md](days/year-015/week-734/day-5138.md) | **✓ Wild grain food lap · W734 close** | **Cal-Y14 D154 · ~0.91 kg** |
+| 5137 | [day-5137.md](days/year-015/week-734/day-5137.md) | **✓ Kaolin M-26 wash** | **Cal-Y14 D153 · slip ~25 kg** |
+| 5136 | [day-5136.md](days/year-015/week-734/day-5136.md) | **✓ M-26 kaolin haul close** | **Cal-Y14 D152 · ~36 kg wet** |
+| 5135 | [day-5135.md](days/year-015/week-734/day-5135.md) | **M-26 kaolin D1/2** | **Cal-Y14 D151 · camp** |
+| 5134 | [day-5134.md](days/year-015/week-734/day-5134.md) | **✓ Fava · Q · tan** | **Cal-Y14 D150 · ~27.8 L/s** |
+| 5133 | [day-5133.md](days/year-015/week-734/day-5133.md) | **✓ Brass smelt** | **Cal-Y14 D149 · ~258 g stock** |
+| 5132 | [day-5132.md](days/year-015/week-734/day-5132.md) | **✓ Bulb glass ×4 · W734 open** | **Cal-Y14 D148 · Y14-14…17** |
+| 5131 | [day-5131.md](days/year-015/week-733/day-5131.md) | **✓ Block lift ×16 · W733 close** | **Cal-Y14 D147 · yard ×64** |
+| 5130 | [day-5130.md](days/year-015/week-733/day-5130.md) | **✓ Glass cullet stock** | **Cal-Y14 D146 · bin ~0.48 kg** |
+| 5129 | [day-5129.md](days/year-015/week-733/day-5129.md) | **✓ Char retort quad** | **Cal-Y14 D145 · lane ~25 kg** |
+| 5128 | [day-5128.md](days/year-015/week-733/day-5128.md) | **✓ Iron bloom smelt** | **Cal-Y14 D144 · ~1.14 kg mount** |
+| 5127 | [day-5127.md](days/year-015/week-733/day-5127.md) | **✓ H-11 3-day haul close** | **Cal-Y14 D143 · ~63 kg bank** |
+| 5126 | [day-5126.md](days/year-015/week-733/day-5126.md) | **H-11 camp D2/3** | **Cal-Y14 D142 · ORE-YIELD HIT** |
+| 5125 | [day-5125.md](days/year-015/week-733/day-5125.md) | **H-11 OUT D1/3** | **Cal-Y14 D141 · camp @ bench** |
+| 5124 | [day-5124.md](days/year-015/week-732/day-5124.md) | **✓ Block lift ×16 · W732 close** | **Cal-Y14 D140 · yard ×48** |
+| 5123 | [day-5123.md](days/year-015/week-732/day-5123.md) | **✓ Wood haul** | **Cal-Y14 D139** |
+| 5122 | [day-5122.md](days/year-015/week-732/day-5122.md) | **✓ Limestone haul** | **Cal-Y14 D138** |
+| 5121 | [day-5121.md](days/year-015/week-732/day-5121.md) | **✓ Sand haul** | **Cal-Y14 D137** |
+| 5120 | [day-5120.md](days/year-015/week-732/day-5120.md) | **✓ Char retort quad** | **Cal-Y14 D136 · lane ~22 kg** |
+| 5119 | [day-5119.md](days/year-015/week-732/day-5119.md) | **✓ C₄ coupling repeat** | **Cal-Y14 D135 · ~4.2 ml jar** |
+| 5118 | [day-5118.md](days/year-015/week-732/day-5118.md) | **✓ Olefin capture · W732 open** | **Cal-Y14 D134 · trap ~24 ml** |
+| 5117 | [day-5117.md](days/year-015/week-731/day-5117.md) | **✓ Ethanol redistill · W731 close** | **Cal-Y14 D133 · high ~1.04 L** |
+| 5116 | [day-5116.md](days/year-015/week-731/day-5116.md) | **✓ Ethanol dehyd ×4** | **Cal-Y14 D132 · stock ~0.67 L** |
+| 5115 | [day-5115.md](days/year-015/week-731/day-5115.md) | **✓ Wood haul · haul block close** | **Cal-Y14 D131** |
+| 5114 | [day-5114.md](days/year-015/week-731/day-5114.md) | **✓ Sand haul · goat soft stool** | **Cal-Y14 D130** |
+| 5113 | [day-5113.md](days/year-015/week-731/day-5113.md) | **✓ Gravel comfort haul** | **Cal-Y14 D129** |
+| 5112 | [day-5112.md](days/year-015/week-731/day-5112.md) | **✓ Pick pack · char half** | **Cal-Y14 D128** |
+| 5111 | [day-5111.md](days/year-015/week-731/day-5111.md) | **✓ H-11 hematite · reads** | **Cal-Y14 D127 · face-capped ~10 kg** |
+| 5110 | [day-5110.md](days/year-015/week-730/day-5110.md) | **✓ Smoke/jerky · tan read · W730 close** | **Cal-Y14 D126** |
+| 5109 | [day-5109.md](days/year-015/week-730/day-5109.md) | **✓ Tan load harness lot** | **Cal-Y14 D125 · pit + frame** |
+| 5108 | [day-5108.md](days/year-015/week-730/day-5108.md) | **✓ Deer butcher ×3** | **Cal-Y14 D124 · ~133 kg block** |
+| 5107 | [day-5107.md](days/year-015/week-730/day-5107.md) | **✓ Deer hunt lap 3** | **Cal-Y14 D123 · ~0.81 m² hide** |
+| 5106 | [day-5106.md](days/year-015/week-730/day-5106.md) | **✓ Deer hunt lap 2** | **Cal-Y14 D122** |
+| 5105 | [day-5105.md](days/year-015/week-730/day-5105.md) | **✓ Deer hunt lap 1** | **Cal-Y14 D121 · ~1.12 m²** |
+| 5104 | [day-5104.md](days/year-015/week-730/day-5104.md) | **✓ Boar hide read** | **Cal-Y14 D120 · GO tan** |
 | 5103 | [day-5103.md](days/year-014/week-729/day-5103.md) | **✓ C₄ coupling bench · W729 close** | **Cal-Y14 D119 · ~2.2 ml** |
 | 5102 | [day-5102.md](days/year-014/week-729/day-5102.md) | **✓ Olefin capture** | **Cal-Y14 D118 · ~21 ml trap** |
 | 5101 | [day-5101.md](days/year-014/week-729/day-5101.md) | **✓ Char retort** | **Cal-Y14 D117 · ~25 kg char** |

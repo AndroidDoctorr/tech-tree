@@ -10,7 +10,7 @@
 |---|---|---|
 | **`d####`** | Absolute campaign day | **Primary** — hazards, inventory `Last`, audit |
 | **`Cal-Yn` · `Dn`** | **Civil** year + day-of-year | Day headers · **roll only 31 Dec / 1 Jan** |
-| **`year-0NN` folder** | `floor((d−1)/365)+1` | **Paths only** — anniversary buckets, not civil year |
+| **`year-0NN` folder** | **`d5110` = start of `year-015`** (`365×14`); then +365 per folder | **Paths only** — anniversary buckets, not civil year · [YEAR-015-ANNIVERSARY-FOLDER.md](YEAR-015-ANNIVERSARY-FOLDER.md) |
 | **`CYn` in new IDs** | Civil year at tag time *(d4620+)* | **`LOT-CY13-1`** — not the same as legacy **`Y14`** harvest tags |
 
 ## Civil epoch *(live)*

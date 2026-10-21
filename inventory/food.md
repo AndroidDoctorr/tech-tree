@@ -44,7 +44,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `FAVA-FRESH-Y16-1` | Fava, fresh shelled · eat-now · **`FAVA-Y16`** | **~0.20 kg** | Kitchen cool step | d5134 pick | d5141 cook |
+| `FAVA-FRESH-Y16-1` | Fava, fresh shelled · eat-now · **`FAVA-Y16`** | **~0.45 kg** | Kitchen cool step | d5134 pick | d5161 pick |
 | `FAVA-BRINE-Y12-1` | Fava, short brine · tender tail | **~0.72 kg** | Crock #3 cool step | d3704 | d3704 |
 | `FAVA-DRY-Y12-FOOD-1` | Fava, dry food · blanch + rack finish · **not seed bank** | **~3.18 kg** | Horreum A pulse bay | d3704 | d3704 |
 | `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |

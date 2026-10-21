@@ -12,9 +12,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~24.7 kg** | Char lane | d5141 retort | d5152 bulb anneal |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~23.6 kg** | Char lane | d5141 retort | d5158 kiln ×2 |
 | **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~10.0 kg** | Char reserve drum | d4664 | d4955 top-off |
-| `WOOD-OAK-P5` | Oak, green · main stack | **~53.4 kg** @ pile 5 | Pile 5 | d5123 haul | d5149 retort |
+| `WOOD-OAK-P5` | Oak, green · main stack | **~152.6 kg** @ pile 5 | Pile 5 | d5153 haul | d5163 cook |
 | **`FURNITURE-SELECT-1`** | Oak, green · furniture grade @ pile 5 north shade | **~3.23 kg** tail | Pile 5 north shade | d4818 | d5071 stake tags |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.16 kg** tail | Craft peg | d3520 | d4860 prop |
@@ -51,8 +51,8 @@ Potable hearts **`SPIRIT-GRAIN-*`** @ [food.md](food.md). Legacy per-batch conde
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ **`WING-N-CABINET-1`** sealed crock | North wing cabinet | d4153 | d4859 load |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~1100 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | d5147 comfort haul | d5147 comfort haul |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~1114 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | d5148 comfort haul | d5148 comfort haul |
+| **`GRAVEL-1`** | Gravel aggregate | **~1258 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | d5147 comfort haul | d5162 comfort haul |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~1284 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | d5148 comfort haul | d5163 comfort haul |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
 | **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~200 kg @ `MATERIARUM` bay 1** | Yard bay 1 | d5079 unload | d5076–5079 haul |
 
@@ -60,8 +60,8 @@ Potable hearts **`SPIRIT-GRAIN-*`** @ [food.md](food.md). Legacy per-batch conde
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~340.5 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5151 kiln ×2 |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.05 kg** tail @ sealed jar | Lime trough | d5083 kiln | d5152 slake bank |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~332.5 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5158 kiln ×2 |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~4.45 kg** @ sealed crock | Lime trough | d5083 kiln | d5158 kiln ×2 |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×278 unused** *(×96 dry @ `WW-YARD` · **×182 submerged** @ pit)* | Block yard / pit | d4030 | d5150 lift ×16 |
 | `LIME-PUTTY-1` | Lime putty | **~18.4 kg** @ trough + crocks under water | Lime trough | d5152 | d5152 full-bank slake |
@@ -128,7 +128,7 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate | **~6.49 kg** | Pile 4 | | d5133 brass feed |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~43.1 kg** | v1 chem, isolated | | d4465 roast |
 | `GALENA-1` | Galena-class lead ore | **~24.2 kg** | Forge staging | | d4753 Kisecik |
-| `H-11-HEMATITE` | Hematite | **~60.0 kg @ pile 4** | Pile 4 | d5125–5127 3-day camp haul | d5128 smelt roast |
+| `H-11-HEMATITE` | Hematite | **~54.4 kg @ pile 4** | Pile 4 | d5125–5127 3-day camp haul | d5156 smelt roast |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~200 g @ chill tray** | Chill tray | d4186 | d4860 motor brushes |
 | **`ST-STR-BUTTON-Y13-3`** | Structural steel button · **`HEAT-Y13-019` · lock reserve** | **~4 g tail @ chill tray** | Chill tray | d4183 | d5010 lamp switches |
 | **`MUSKET-1` · Sentanár** | Smoothbore musketoon · assembled lock/barrel/stock · **✓ Yule field d4240** · ammo bank live | **@ craft wing bench** | Craft wing bench | d4212 | d4240 |
@@ -178,9 +178,9 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | **`EC-1-WIRE-SAMPLE-SET-Y13-1`** | EC-1 gauge masters · **×4 @ 10 m · 0.9/0.65/0.5/0.3 mm** · **14 °C R filed** | **1 set** | **`REF-SHELF-1`** · not production | d3889 | d3889 |
-| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~1.14 kg @ mount** | Forge mount | d5128 smelt | d5128 compact |
+| `IRON-BLOOM-1` | Bloomery sponge · GREEN | **~185 g tail @ mount** | Forge mount | d5128 smelt | d5156 rebar draw |
 | **`REBAR-STD-Y13-1`** | Wrought rebar reference · **~10.2 mm square · twisted · ~480 mm** · BC-2-REBAR | **~300 g** | `FORGE-D` peg | d4021 | d4022 |
-| **`REBAR-PRODUCTION-RACK-1`** | Production rebar · twisted · ~10 mm · ~555–565 mm · pour hooks · **`REBAR-BAR-CY13-33`…`36` on rack** | **×16** | Forge peg rack | d4744 | d4776 |
+| **`REBAR-PRODUCTION-RACK-1`** | Production rebar · twisted · ~10 mm · ~555–565 mm · pour hooks · **`REBAR-BAR-CY14-37`…`44` + prior CY13 stock** | **×24** | Forge peg rack | d4744 | d5156 ×4 |
 | **`REBAR-R&D-Y13-1`** | Rebar QC ladder · twist/lap/bond/cover · **break PASS d4029** | **cert on file** | — | d4029 | d4029 |
 | **`REBAR-HOOK-REF-Y13-1`** | Hook termination template · **90° + ~40 mm return · ×2** | **×2 @ peg** | `FORGE-D` | d4022 | d4022 |
 | `CS-BAR-Y12-1` | Carbon steel bar · hardened + tempered | **~467 g tail** @ forge peg | Forge peg | Y12 | d4297 |
@@ -301,7 +301,8 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — s
 | **`HEMP-FIBRE-Y14-1`** | Hemp stalk · Bed A north Y14 · **`HEMP-CUT` d4485** · dry @ rafter | **~8.1 kg** @ `W-1` north | Barn | d4485 | d4485 cut |
 | **`THISTLE-HEAD-DRIED-Y13-1`** | Cardoon-type heads · full-flower cut · rennet stock | **×9 @ horreum herb peg** | Horreum | d4074 | d4074 |
 | **`THISTLE-HEAD-DRIED-Y14-1`** | Cardoon-type heads · Y14 cut · dry queue @ `W-1` | **×8 heads** | `W-1` north rafter | d4407 | d4407 |
-| **`THISTLE-HEAD-DRIED-Y15-1`** | Cardoon-type heads · Y15 lap 1 · rennet stock | **×9 heads** wet-cut | `W-1` north rafter | d4824 | d4824 |
+| **`THISTLE-HEAD-DRIED-Y15-1`** | Cardoon-type heads · Y15 lap 1 · rennet stock | **×9 heads** dry @ herb peg | Horreum | d4824 | d4824 |
+| **`THISTLE-HEAD-DRIED-Y16-1`** | Cardoon-type heads · Y16 lap · full-flower cut | **×10 heads** wet-cut @ `W-1` | `W-1` north rafter | d5160 | d5160 gather |
 | **`FLAX-THREAD-Y13-1`** | Flax thread · motor-assist spin d3977 | **~5.1 m** tail @ craft peg | Craft wing peg | d3977 | d4923 warp |
 | **`MOUTH-FLOSS-Y13-1`** | Waxed floss · 3-ply flax · **`DEER-TALLOW`** | **~12 m @ craft peg** | Craft wing peg | d4239 | d4239 |
 | **`TOOTH-BRUSH-Y13-1`** | Oak handle · frayed flax line head | **@ culina peg** | Culina | d4239 | d4239 |
@@ -341,6 +342,7 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — s
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `DEER-HIDE-1` | Deer hide, **tanned** | **×0 scrap spent** | Horreum B `LEATHER-STOCK-PEG-1` | | d4794 seal |
+| **`DEER-HIDE-Y15-1`** | Red deer hide · **tanned · spring block** | **~1.05 m²** | Horreum B `LEATHER-STOCK-PEG-1` | d5156 pull | d5156 tan |
 | **`YULE-BELT-Y12-1`** | Deer belt · **`BELT-WIDTH-STD-Y12-1` 22.0 mm** · **`BRASS-BUCKLE-Y12-1`** · gift wrap | **~1.05 m** | Vestiarium Yule shelf | d3828 | d3828 |
 | `SINEW-DRY` | Sinew, dry | **~34 g** | Bench | | d5108 deer |
 | **`DEER-HIDE-RAW-Y12-1`** | Red deer hide · salted · **Yule belt / tan queue** | **×0 → pit** | — | d3795 | d3796 |
@@ -355,8 +357,8 @@ Rods #16 and #19 are in `MAG-STACK-2` and #6 rods are in `GEN-WW-1`'s yoke — s
 | **`RED-STAG-BONE-Y10-1`** | Stag bone · **`RED-STAG-Y10-1` sort d4958** | **~3.2 kg** | **`BONE-BANK-1`** peg | d4958 | d4958 |
 | **`BOAR-HIDE-RAW-Y15-1`** | Wild boar hide | **×0** *(→ `TAN-BOAR-Y15-1`)* | — | d4911 | d5109 load |
 | **`DEER-HIDE-RAW-Y15-*`** | Red deer hides · spring hunts | **×0** *(in tan clocks)* | — | d5109 load |
-| **`TAN-DEER-Y15-1`** | Tan clock · **`DEER-HIDE-RAW-Y15-1` ~1.12 m²** | **Pit · weak rung 2 · day 2 · hold** | Tan pit | d5109 | d5124 read |
-| **`TAN-DEER-Y15-2`** | Tan clock · yearling **~0.68 m²** | **Frame queue · rung 1 hold** | Horreum B frame | d5109 | d5109 load |
+| **`TAN-DEER-Y15-1`** | Tan clock · **`DEER-HIDE-RAW-Y15-1`** | **✓ CLOSED d5156** — **`DEER-HIDE-Y15-1`** | — | d5109 | d5156 pull |
+| **`TAN-DEER-Y15-2`** | Tan clock · yearling **`DEER-HIDE-RAW-Y15-2` ~0.68 m²** | **Pit · weak rung 1 · day 6 · hold** | Tan pit | d5109 | d5163 read |
 | **`TAN-DEER-Y15-3`** | Tan clock · **~0.81 m²** | **Frame queue · rung 1 hold** | Horreum B frame | d5109 | d5109 load |
 | **`TAN-BOAR-Y15-1`** | Tan clock · boar **~0.92 m²** | **Frame queue · rung 1 hold** | Horreum B frame | d5109 | d5109 load |
 | **`BOAR-BONE-Y15-1`** | Wild boar bone · frames | **~8.4 kg** | **`BONE-BANK-1`** peg | d4911 | d4911 |
