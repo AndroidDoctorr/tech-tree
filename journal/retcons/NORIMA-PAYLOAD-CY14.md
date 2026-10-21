@@ -20,12 +20,16 @@
 
 ## Tow capacity
 
-| Band | Net @ bed | When |
-|---|---:|---|
-| **Comfort default** | **~180–220 kg** | Long **25–35 km** · Mabel + Humphrey |
-| **Campus** | **~120–200 kg** | Weir · pile 7 · T-1 |
-| **Max practical** | **~250–300 kg** | 3-up · dense · best trail |
-| **Caution** | **~80–120 kg** | Mud · hub AMBER · powder-safe |
+| Band | Name | Net @ bed | When |
+|---|---|---:|---|
+| **Comfort default** | **full bed** | **~140–200 kg** | Campus · **2-up** · daily stockpile |
+| **Dense calibration** | *(optional)* | **~210–225 kg** | **3-up** · lash trial — not every trip |
+| **Heavy haul** | **heavy** | **~250 kg class** | **3-up** · dense · best trail · wear cost |
+| **Extra heavy** | **extra heavy** | **~300 kg class** | Same · hub listen mandatory |
+| **Above extra heavy** | — | **>~300 kg** | **Gate: proper draft harness** *(player @ d5102 — build before trials)* |
+| **Caution** | — | **~80–120 kg** | Mud · hub AMBER · powder-safe |
+
+★ **Player target post-harness:** **250–300 kg** becomes **default comfort** for class A — not before harness ships.
 
 **Gross column** on return **~280–380 kg** — not **~115 kg** exped typo.
 
@@ -43,6 +47,10 @@
 | **D · timber** | Fell + buck | **~100–180 kg**/trip | Fell day ≠ load day |
 
 ★ **Sand:** shovel + sieve can fill the bed in **one campus day** — tow is the cap, not mining.
+
+★ **Dense class-A ladder** *(sand · gravel · player @ d5098–5099)*: after **full bed ~168–170 kg** is routine, **3-up + dense stack** in **~10–15 kg** net steps — e.g. **~218 kg sand / ~214 kg gravel** step 1 — only after **≥2** clean runs **well over ~200 kg** before the next step. **Do not jump** to **~250–300** in one hero. Gravel stack may read **conservative** on first dense pass (leave fines on bar).
+
+★ **Default hauls stay comfort band** *(player @ d5100)* — **~140–200 kg** full bed · **2-up** · dense trials are **calibration**, not every trip — harder on team + wear.
 
 ★ **Ore:** a **full** remote bed is **several face days**; do not credit **~200 kg** after one pick session.
 

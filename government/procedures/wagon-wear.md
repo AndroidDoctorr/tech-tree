@@ -24,7 +24,7 @@ Log both numbers in tune/overhaul close tables. Patch **`hazards.md`** same pass
 | Qualifies | Does not |
 |---|---|
 | **`WOOD-HAUL-*`** fell + 2-load @ T-1 ([HAUL-GRAMMAR-Y14](../../journal/retcons/HAUL-GRAMMAR-Y14.md)) | Block lift · char · kiln · garage · campus empty roll |
-| **`SAND-HAUL-*`** 2-load + sieve @ weir | Single-lap legacy cart grammar |
+| **`SAND-HAUL-*`** full bed + sieve @ weir *(class A)* | Half-day top-up only · legacy cart lap grammar |
 | **`HAUL-LIME-*`** knap + 2-load @ pile 7 stub | Heavy manifest **+1** days (each counts as **one** haul toward the pair **and** may add **+1** immediately — see hazards ledger) |
 
 **Procedure:**

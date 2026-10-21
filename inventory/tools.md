@@ -66,7 +66,7 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | ID | Tool | Where | State |
 |---|---|---|---|
 | **`IRON-SPADE-1`** | Wide scoop spade · **~178 g** head · rolled lip · **~1.15 m** ash haft · forged d604 | M2 peg rail · gorge kit | **edge GREEN · haft wedged · svc d4961 sprint** |
-| **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · svc d4961 sprint** |
+| **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · pack-hardened points · refresh d5112 · svc d4961 sprint** |
 | **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · haft OK · svc d4961 sprint** |
 | **`SHOVEL-BULK-1`** | Bulk yard shovel · **~312 g** head · **~1.0 m** ash D-haft · strap shoe | Pile 4 north peg | **✓ LIVE d4887 · edge GREEN** |
 | **`WHEELBARROW-2`** | Materiarum yard barrow · **~60–80 L** box · wide wheel + iron tyre · wobble **~3.5 mm** class | Pile 4 north peg | **✓ LIVE d4895 · `WB-LOAD-2` PASS** |
@@ -177,6 +177,12 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-13`** | *(→ `BULB-LAMP-SPARE-CY14-13`)* | — | d5025 tip |
 | **`BULB-LAMP-SPARE-CY14-12`** | Sealed spare · **`BULB-PROD-Y14-12`** · short-stem class | **`VAC-BENCH-1`** soft peg | d5025 |
 | **`BULB-LAMP-SPARE-CY14-13`** | Sealed spare · **`BULB-PROD-Y14-13`** | **`VAC-BENCH-1`** soft peg | d5025 |
+| **`BULB-PROD-Y14-14`** | Annealed envelope · **glass only** · ~42 mm · stem ~55 mm | Chem porch spare peg | d5132 blow |
+| **`BULB-PROD-Y14-15`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
+| **`BULB-PROD-Y14-16`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
+| **`BULB-PROD-Y14-17`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
+| **`BULB-PROD-Y14-18`** | Annealed envelope · **glass only** | Chem porch spare peg | d5152 blow |
+| **`BULB-PROD-Y14-19`** | Annealed envelope · **glass only** | Chem porch spare peg | d5152 blow |
 | **`BULB-LAMP-STORAGE-WING-Y14-1`** | Sealed · reed **`PENDANT-A`** · **seated @ storage N** · glow rank **3** | Storage wing N | d5019 test |
 | **`BULB-LAMP-STORAGE-WING-Y14-2`** | Sealed · **`PENDANT-B`** · **seated @ storage S** · glow rank **1** | Storage wing S | d5019 test |
 | **`BULB-LAMP-CHEM-LAB-Y14-1`** | Sealed · **`BULB-PROD-Y14-4`** reed · **@ `BULB-CHEM-LAB-LAMP-Y14-1`** | `CHEM-LAB-WING-1` | d5019 seat |

@@ -33,6 +33,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`PARCHED-MU-12-Y12-1`** | Parched emmer · Y12 refresh | **×0 · spent Y13 sprint** | — | d3854 | d4221 |
 | `PARCHED-MU-12` | Parched emmer · green · Y10 refresh | **×0 → `PEMMICAN-Y12-1` + M31 pack** | — | d3489 | d3591 |
 | `PARCHED-WILD-GRAIN-Y12-1` | Parched wild mix · **`P-05` einkorn + `P-06` barley** · Y12–Y14 food laps | **~1.99 kg** | Horreum snack jar | d3685 | d4595 |
+| **`GRAIN-WILD-FOOD-Y16-1`** | Wild einkorn + barley · clean · Y16 early-Jun food lap | **~0.91 kg** | Horreum sealed crock | d5138 gather | d5138 winnow |
 | **`GRAIN-WILD-FOOD-Y15-1`** | Wild einkorn + barley · clean · Y15 food lap · **spent @ ferment** | **×0** | — | d4778 | d4779 ferment |
 | `BARREL-4-GRAIN` | Cracked grain, working · v1 tap | **~0.58 kg** | `BARREL-4`, v1 | d4589 | d4956 stew |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
@@ -43,6 +44,7 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| `FAVA-FRESH-Y16-1` | Fava, fresh shelled · eat-now · **`FAVA-Y16`** | **~0.20 kg** | Kitchen cool step | d5134 pick | d5141 cook |
 | `FAVA-BRINE-Y12-1` | Fava, short brine · tender tail | **~0.72 kg** | Crock #3 cool step | d3704 | d3704 |
 | `FAVA-DRY-Y12-FOOD-1` | Fava, dry food · blanch + rack finish · **not seed bank** | **~3.18 kg** | Horreum A pulse bay | d3704 | d3704 |
 | `FAVA-PARCHED-Y12-1` | Fava, parched · trail / snack | **~0.54 kg** | Horreum snack jar | d3704 | d3704 |
@@ -91,7 +93,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.81 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5085 wax cut |
+| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.95 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5092 wax cut |
 
 *Co-harvested with **`WAX-CUT-SURPLUS`** on strong hives — not brood comb. See [apiary-routine.md](../government/procedures/apiary-routine.md).*
 
@@ -141,6 +143,13 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | **`DEER-FRESH-Y12-1`** | Red deer · eat-first cuts | **×0** | — | d3796 | d4958 reconcile |
 | **`DEER-JERKY-Y12-1`** | Red deer jerky · scale-dried batch | **~4.8 kg** | Horreum snack jar | d3798 | d3798 |
 | **`DEER-SMOKE-Y12-1`** | Red deer · cold-smoke Y12 | **~14.60 kg** | Horreum A smoke shelf | d3797 | d4973 feast |
+| **`DEER-CARCASS-Y15-1…3`** | Red deer · spring block | **×0** | d5105–5107 | d5108 butcher |
+| **`DEER-FRESH-Y15-1`** | Red deer · eat-first cuts | **~4.8 kg** @ ice step | d5108 | d5111 meals |
+| **`DEER-PRIMAL-SMOKE-Y15-1`** | Primals · smoke queue | **×0** | d5108 | d5110 smoke finish |
+| **`DEER-JERKY-WET-Y15-1`** | Jerky strips | **×0** | d5108 | d5110 dry finish |
+| **`DEER-JERKY-Y15-1`** | Red deer jerky · spring block | **~7.1 kg** | Horreum snack jar | d5110 | d5110 |
+| **`DEER-SMOKE-Y15-1`** | Red deer · cold-smoke Y15 | **~24.2 kg** | Horreum A smoke shelf | d5110 | d5110 |
+| **`DEER-TALLOW-WET-Y15-1`** | Spring deer trim fat | **~0.95 kg** @ cool step | d5108 | d5109 pit trace |
 | **`BOAR-CARCASS-Y15-1`** | Wild boar · field-dressed whole | **×0** | d4911 | d4912 butcher |
 | **`BOAR-ORGANS-Y15-1`** | Heart · liver · trim | **~0.4 kg** stew tail | d4911 | d4912 |
 | **`BOAR-FRESH-Y15-1`** | Wild boar · eat-first cuts | **~0.35 kg** tail | Ice-vault step | d4912 | d4913 spit |
@@ -212,9 +221,6 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | **`OIL-SEDIMENT-Y12-1`** | Olive oil sediment, sealed | **~150 ml** | `AMPHORA-6` foot | d3854 | d3854 |
 | `OIL-Y10-1` | Olive oil, clear · **cook live** | ~1.12 L | Glass bottles · working draw ~320 ml at `P-ξ-5` | d3479 | d3509 |
 | `OIL-Y9-1` | Olive oil, clear · **cook live** | ~1.03 L | Glass bottles · working draw ~390 ml at `P-ξ-5` | d3117 | d3452 |
-| `OIL-Y8-1` | Olive oil, clear | **×0** | — | d2749 | d4958 rancid |
-| `OIL-Y7-1` | Olive oil, clear | **×0** | — | d2408 | d4958 rancid |
-| `OIL-Y6-1` | Olive oil, clear | **×0** | — | d2043 | d4958 rancid |
 | `OIL-SEDIMENT-Y10` | Olive oil sediment, sealed | ~125 ml | `AMPHORA-6` foot | d3490 | d3490 |
 | `OIL-SEDIMENT-Y9` | Olive oil sediment, sealed | ~170 ml | `AMPHORA-6` foot | d3126 | d3126 |
 | `OIL-SEDIMENT-Y8` | Olive oil sediment, sealed | ~165 ml | `AMPHORA-6` foot | d2760 | d2760 |
@@ -234,8 +240,8 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | **`GRAIN-FERMENT-Y14-1`** | Grain mash ferment · wild + tail emmer/barley · **`BARREL-5`** | **✓ spent d4625 · `GRAIN-DISTILL-Y14-1` CLOSED** | d4595 | d4625 |
 | **`GRAIN-FERMENT-Y13-2`** | Grain mash ferment · emmer/barley · spirit lane | **✓ spent d4257 · `BARREL-5` in use Y14-1** | Horreum A margin | d4222 | d4257 |
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
-| **`SPIRIT-GRAIN-Y15-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-1`** | **~1.20 L @ `P-LAB-SPIRIT-BOTTLE-Y15-1`** · peg **empty** | Chem spirit peg | d4905 | d4933 bottle |
-| **`SPIRIT-GRAIN-Y15-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-2`** | **~1.76 L @ spirit peg** | Chem spirit peg | d4971 | d4973 Yule sip |
+| **`SPIRIT-GRAIN-Y15-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-1`** | **~0.85 L @ `P-LAB-SPIRIT-BOTTLE-Y15-1`** | Chem spirit peg | d4905 | d5116 dehyd |
+| **`SPIRIT-GRAIN-Y15-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-2`** | **~1.06 L @ spirit peg** | Chem spirit peg | d4971 | d5090 dehyd |
 | **`SPIRIT-GRAIN-Y14-1`** | Grain spirit · hearts cut · **~42 % v/v @ 14 °C SG d5042** · **`GRAIN-FERMENT-Y14-1`** | **~1.83 L @ `P-LAB-SPIRIT-BOTTLE-Y14-1`** · peg **empty** | Chem spirit peg | d4625 | d5042 assay |
 | **`SPIRIT-GRAIN-Y13-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y13-2` batch** | **~2.95 L @ spirit peg** | Chem spirit peg | d4257 | d4257 |
 

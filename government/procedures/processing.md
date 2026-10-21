@@ -260,7 +260,15 @@ Feed from **pile 5** — partially seasoned green oak. **Retort beats pit by ~+1
 
 ### `LIME-BURN`
 
-`KILN-A-LIME` staggered ×2 burns, pile 7 limestone → ~5–10 kg quicklime per run.
+**CaCO₃ → CaO + CO₂** — **~56%** of stone mass becomes quicklime; **CO₂ leaves the kiln.** *Output is always **less** than limestone charged.*
+
+| Per **Kiln A** load | Typical |
+|---|---|
+| **`CACO3-P7` charge** | **~4.0 kg** stone |
+| **`CHAR-LANE` fuel** | **~4.8 kg** *(heat · not converted to lime)* |
+| **`QUICKLIME-1` yield** | **~2.2 kg** CaO *(good calcination · pile 7)* |
+
+**`KILN-A-LIME` ×2 loads / day:** **~8.0 kg stone → ~4.4–4.8 kg** quicklime total *(~5–10 kg band per full run · [LIME-KILN-STOICHIOMETRY](../journal/retcons/LIME-KILN-STOICHIOMETRY.md))*.
 
 ### `PLASTER-CALCINE`
 

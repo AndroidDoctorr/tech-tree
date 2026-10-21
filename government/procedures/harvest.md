@@ -268,8 +268,10 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 | Mode | When | Net @ `SAND-FILTER-1` |
 |---|---|---|
-| **Full bed + sieve** | **Default hero** · weir + fork bar · **Norima wet fill** · yard reject | **~120–180 kg** *(~150 typical)* |
-| **Half-day** | One dense trip + sieve | **~70–100 kg** |
+| **Full bed + sieve** | **Default hero** · weir + fork bar · **2–3 dense trips fill the bed** · apron sieve same day | **~140–200 kg** *(~167 median · class A)* |
+| **Half-day top-up** | Player-named · one trip + sieve | **~70–100 kg** |
+
+★ **Limit is tow + bed fill in one campus day** — not face time at the weir. **~250–300 kg** gross-column class needs **3-up team + dense stack** ([NORIMA-PAYLOAD-CY14.md](../../journal/retcons/NORIMA-PAYLOAD-CY14.md) max band) — still usually **one hero**, not a mining arc.
 
 ★ **Retired:** **d4094 four-lap (~7.2 kg net)** — cart lap count on a wagon. **Weir glean (~2–4 kg route pass)** — **cancelled d4309**; use named **`SAND-HAUL`** only.
 
@@ -281,9 +283,10 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 **Vehicle:** Norima · sacks · `W-SHOVEL-2` · inside bend + terrace cobble @ T-1.
 
-| Mode | When | Net @ pile 4 south band |
+| Mode | When | Net @ bays 2–3 |
 |---|---|---|
-| **Full bed** | **Default hero** · shell pinch · bar face repeat · **2–3 trips to fill** | **~140–200 kg** |
+| **Full bed** | **Default hero** · shell pinch · bar face repeat · **2–3 trips to fill** | **~140–200 kg** *(~168 median)* |
+| **Dense step 1** | **3-up** · center pin + cross lash · [NORIMA-PAYLOAD-CY14](../../journal/retcons/NORIMA-PAYLOAD-CY14.md) ladder | **~210–225 kg** *(d5099 ~214 kg)* |
 | **Top-up** | Combo day PM | **~60–90 kg** |
 
 ★ **Retired:** **d4117 / d2631 three-lap (~10 kg)** — hand-cart lap scale.

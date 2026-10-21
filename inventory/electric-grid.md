@@ -391,6 +391,8 @@ Map: chem porch · Built: d3198
 
 *Plan: [industrial-mech-drive-cy14.md](../plans/industrial-mech-drive-cy14.md) · **survey ✓ d5081***
 
+**`WW-2-Q` spring CY14:** d5043 **~25.2 L/s** · d5086 **~24.6 L/s** *(pre-crest · d5086)* — [ww-2-power-upgrade.md](../plans/ww-2-power-upgrade.md)
+
 ### Feeder loss model *(GB·I at load)*
 
 | Run | Length | Gauge | R measured | V_src | V_tap | I_load | Notes |

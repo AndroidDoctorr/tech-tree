@@ -1,6 +1,6 @@
 # Next items
 
-Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
+Live as of **d5115 · Cal-Y14 D131 · ~12 May Y14 · Week 731 OPEN @ d5116**
 
 ★ **This is a list, not an argument.** *Reasoning lives in the day file that opened the item; live state is [now.md](../now.md); the year's shape is [short-term-goals.md](short-term-goals.md).* **Completed items are struck, not ticked.**
 
@@ -32,9 +32,9 @@ Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
 
 | Branch | In hand | Next gate |
 |---|---|---|
-| **G2 / MS-1** | **×278 @ pit** · pozz **~200 kg** · sand **~211 kg** · gravel **~20 kg** · QL **×0** | **Summer stockpile** · [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · build **CY15+ OK** |
+| **G2 / MS-1** | **×278 @ pit** · pozz **~200 kg** · sand **~596 kg** · gravel **~776 kg** · QL **×0** | **Summer stockpile** · [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · build **CY15+ OK** |
 | **WW-2 / electric** | **Apron + curved buckets LIVE ~0.41 kW** | **Spring Q/head series + preserved-head route survey** · tin assay · iron/char bank before runner |
-| **Chemistry** | **`ETHANOL-DEHYD-STOCK-1` ~980 ml** · vinegar ~2.75 L + mother | **Define acid-strength target and petroleum feed/cut plan** before another production batch |
+| **Chemistry** | **`ETHANOL-DEHYD-STOCK-1` ~0.67 L** · **`ETHANOL-DEHYD-HIGH` ~656 ml** · **`OLEFIN-TRAP` ×0** · **`C4` ~2.2 ml** | **Dehyd / redistill → olefin capture → C₄ coupling** |
 
 ---
 
@@ -69,7 +69,24 @@ Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
 4. Kisecik heap on a separate run · calendar heroes as windows hit.
 5. **`WW-2-Q-SPRING-SERIES-CY14` + route survey** *(⚒ passes)* — freeze the preserved-head alignment and loss budget before runner dimensions.
 6. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — establish whether the ~0.5 kg concentrate covers crossflow bearing tin before any Kozan trip.
-7. **`ALCOHOL-ORGANICS-PLAN-CY14`** *(⚒ bench/design)* — ✓ assay **d5042** · choose **acetic concentration** route + **petroleum** feed/apparatus/cuts.
+7. **`ALCOHOL-ORGANICS-PLAN-CY14`** *(⚒ bench)* — ✓ **d5119 C₄ repeat (~4.2 ml jar)** · **next:** **olefin capture lap** · **calcine refresh** · **char retort**.
+8. **`DRAFT-HARNESS-NORIMA-1`** *(⚒ build · ⧗ tan)* — proper **draft harness** for **Mabel + Humphrey + Silas** before **>~300 kg** trials; target **250–300 kg** as default comfort post-harness ([NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md)).
+
+### ★ Player queue @ d5110 — harness blocks remote heavy
+
+| Item | Gate | Note |
+|---|---|---|
+| **`KORUHOYUK-POZZ-HAUL`** *(heavy / full bed)* | **`DRAFT-HARNESS-NORIMA-1`** | After harness — **~250 kg class** comfort target · 4 d grammar ([NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md)) |
+| **`KOZAN` trip** | **Harness first** *(player)* | Same blocker — no date slip concern in player read |
+
+### ★ Week 731 — local haul block *(not harness-gated)* — **✓ d5115**
+
+1. ~~**`H-11-HEMATITE-HAUL`**~~ **✓ d5111**
+2. ~~**`GRAVEL-HAUL`**~~ **✓ d5113 · +~166 kg**
+3. ~~**`SAND-HAUL`**~~ **✓ d5114 · +~178 kg**
+4. ~~**`WOOD-HAUL`**~~ **✓ d5115 · +~88 kg**
+
+**H-11:** ~~3-day camp max~~ **✓ d5125–5127 · ~52.4 kg net · ~63 kg bank** · full **~120–180 kg** bed = **5–6 d** when schedule allows.
 
 ## Branch notes
 
