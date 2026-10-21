@@ -32,7 +32,7 @@ Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
 
 | Branch | In hand | Next gate |
 |---|---|---|
-| **G2 / concrete** | **×278 @ pit** · **mix canonical** · pozz/sand/gravel **thin post-d5075** | **Haul pozz/sand/gravel · kiln lime** · footing dig d2 · phase-1 bill |
+| **G2 / MS-1** | **×278 @ pit** · pozz **~200 kg** · sand **~211 kg** · gravel **~20 kg** · QL **×0** | **Summer stockpile** · [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · build **CY15+ OK** |
 | **WW-2 / electric** | **Apron + curved buckets LIVE ~0.41 kW** | **Spring Q/head series + preserved-head route survey** · tin assay · iron/char bank before runner |
 | **Chemistry** | **`ETHANOL-DEHYD-STOCK-1` ~980 ml** · vinegar ~2.75 L + mother | **Define acid-strength target and petroleum feed/cut plan** before another production batch |
 
@@ -63,22 +63,22 @@ Live as of **d5041 · Cal-Y14 D57 · ~27 Feb Y14 · Week 721 OPEN**
 
 ## ⚒ Next heroes
 
-1. **Calendar first:** **`G2-PHASE1-DESIGN`** · Kisecik heap on a separate run · **`HERB-SEED-DESIGNATE` opens 21 Mar**.
-2. **`G2-PHASE1-DESIGN`** — **dig d1 d5074** · **~4 d perimeter + pads** · **`G2-FOOTING-POUR-1`** after full loop.
-3. **`BLOCK-LIFT-G2-1`** *(⚒)* — lift/dry the first construction draw from the ×212 submerged pool. Do not cast replacement blocks before the phase-1 bill says how many are actually short.
-4. **Material bank:** gravel **~232 kg ✓** · pozz **~101 kg** *(2 Koruhöyük laps CY14)*.
+1. **`WW-2-CROSSFLOW`** / turbine bench — [ww-2-power-upgrade.md](ww-2-power-upgrade.md) · [industrial-mech-drive-cy14.md](industrial-mech-drive-cy14.md) phase 1.
+2. **Summer CY14 — `G2-MS1-STOCKPILE` ∥ `GEN-MOTOR-IND-R&D-1`:** gravel · lime · hauls · **`BLOCK-LIFT-G2-1`** · motor/gen paired R&D.
+3. **Break ground when PASS:** **`G2-FOOTING-POUR-MS1`** · finish dig loop **~28 m** *(d5074 south leg counts)* — **no crane pads**.
+4. Kisecik heap on a separate run · calendar heroes as windows hit.
 5. **`WW-2-Q-SPRING-SERIES-CY14` + route survey** *(⚒ passes)* — freeze the preserved-head alignment and loss budget before runner dimensions.
 6. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — establish whether the ~0.5 kg concentrate covers crossflow bearing tin before any Kozan trip.
 7. **`ALCOHOL-ORGANICS-PLAN-CY14`** *(⚒ bench/design)* — ✓ assay **d5042** · choose **acetic concentration** route + **petroleum** feed/apparatus/cuts.
 
 ## Branch notes
 
-### G2 / concrete
+### G2 / machine shop first
 
-- Plan: [wagon-garage-2-phased.md](wagon-garage-2-phased.md)
-- **Blocks are not the immediate gate:** ×244 on hand covers phase 1.
-- **Aggregate is the gate:** gravel ~41 kg and pozz ~3.5 kg are far below footing/slab runway; sand and lime are comparatively healthy.
-- The block bench is commissioned; use it after the existing pool is allocated, not just to raise the count.
+- Plan: [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md)
+- **Blocks:** pit **×212** + **×278** unused — **~×88** MS-2 draw via lift/dry, not a cast sprint.
+- **Gate:** **tonnes** of gravel/lime/pozz/sand for **MS-1 footings** — bays are haul-scale, not debt-scale.
+- **Full pad + crane sleeves** = **C-1** · d5075 table is reference only.
 
 ### Electric infrastructure
 

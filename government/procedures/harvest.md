@@ -247,14 +247,29 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 ~25 kg net per lap, ~130 kg per season.
 
+### `KORUHOYUK-POZZ-HAUL` · `POZZ-TUFF-1`
+
+**Vehicle:** Norima · pull-off camp · `SC-KORUHOYUK-POZZ-PATH-1` · sacks + lash. **Payload + fill time:** [NORIMA-PAYLOAD-CY14.md](../../journal/retcons/NORIMA-PAYLOAD-CY14.md).
+
+| Template | Days | Pattern | Net @ unload |
+|---|---:|---|---:|
+| **Full bed** *(default forward)* | **4** | **d1** OUT · **d2–d3** quarry pick + cob/fines sort + lash · **d4** laden HOME + bay 1 | **~180–220 kg** |
+| **Partial** *(rush)* | **3** | **d1** OUT · **d2** light pick · **d3** return | **~80–120 kg** |
+
+★ **Class B quarry** — two face days to **fill** is normal; **tow** is not the bottleneck.
+
+★ **Retired default:** **3 d @ ~50 kg** — sack habit only; **d5076–5078** logged under old template.
+
+---
+
 ### `SAND-HAUL` · `SAND-FILTER-1`
 
-**Vehicle:** Norima · linen sacks · trough sieve @ pile 4 apron · `IRON-SHOVEL-1` / `W-SHOVEL-2`.
+**Vehicle:** Norima · linen sacks · trough sieve @ pile 4 apron · `IRON-SHOVEL-1` / `W-SHOVEL-2`. **Payload:** [NORIMA-PAYLOAD-CY14.md](../../journal/retcons/NORIMA-PAYLOAD-CY14.md).
 
 | Mode | When | Net @ `SAND-FILTER-1` |
 |---|---|---|
-| **2-load + sieve** | **Default hero** · weir + fork bar · wet fill · yard reject | **~18–28 kg** |
-| **Half-day wet** | One laden trip + sieve | **~12–16 kg** |
+| **Full bed + sieve** | **Default hero** · weir + fork bar · **Norima wet fill** · yard reject | **~120–180 kg** *(~150 typical)* |
+| **Half-day** | One dense trip + sieve | **~70–100 kg** |
 
 ★ **Retired:** **d4094 four-lap (~7.2 kg net)** — cart lap count on a wagon. **Weir glean (~2–4 kg route pass)** — **cancelled d4309**; use named **`SAND-HAUL`** only.
 
@@ -268,8 +283,8 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 | Mode | When | Net @ pile 4 south band |
 |---|---|---|
-| **2–3 load** | **Default hero** · shell pinch · bar face repeat | **~45–70 kg** |
-| **Single load** | Top-up · combo day PM | **~18–24 kg** |
+| **Full bed** | **Default hero** · shell pinch · bar face repeat · **2–3 trips to fill** | **~140–200 kg** |
+| **Top-up** | Combo day PM | **~60–90 kg** |
 
 ★ **Retired:** **d4117 / d2631 three-lap (~10 kg)** — hand-cart lap scale.
 
@@ -281,8 +296,8 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 | Mode | When | Net @ pile 7 |
 |---|---|---|
-| **Full day** | **Default hero** · knap + **2 laden trips** | **~40–55 kg** raw |
-| **Stub lap** | Top-up only · not a full knap day | **~18–22 kg** |
+| **Full day** | **Default hero** · knap + **bed fill** | **~120–180 kg** raw |
+| **Stub** | Top-up only · not a full knap day | **~50–80 kg** |
 
 ★ **Retired:** **d4121 one-lap (~14 kg)** as a full-day hero.
 
@@ -294,8 +309,8 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 | Mode | When | Net @ pile 1 |
 |---|---|---|
-| **3-lap fill** | **Default hero** · winter wet face | **~35–45 kg** green |
-| **2-lap** | Half-day · liner ~½–¾ | **~22–28 kg** |
+| **Bed fill** | **Default hero** · bulk liner · winter wet face | **~100–160 kg** green |
+| **Half bed** | Half-day | **~55–80 kg** |
 
 Ranked D #1, C #2, B filler, A reject. **d3174 (~28.6 kg)** remains valid; bump is liner fill, not lap count.
 
@@ -307,15 +322,23 @@ Ranked D #1, C #2, B filler, A reject. **d3174 (~28.6 kg)** remains valid; bump 
 
 | Mode | When | Net @ pile 4 dress band |
 |---|---|---|
-| **2-load + sort** | **Default hero** · T-1 creek / bridge field · reject rounds → pile 6 | **~35–50 kg** dress class |
-| **Single load** | Top-up · combo PM | **~16–22 kg** |
+| **Bed fill + sort** | **Default hero** · T-1 creek / bridge field · reject → pile 6 | **~100–150 kg** dress class |
+| **Top-up** | Combo PM | **~50–75 kg** |
 
 ★ **Retired:** **cart lap (~15–20 kg full day)** · **d4092/d4192 three-lap (~15 kg)** — hand-cart scale on a wagon; **do not use on Norima.**
 
-### `ORE-HAUL` · reference stone
+### `ORE-HAUL` · reference stone · mine face
 
-- **Reference stone** is a separate standard. Grain size is set by cooling rate, so take chilled **dyke margins and pillow rims**, never gabbro. **Ring the block** — sound stone rings and holds the note, vesicular or cracked stone thuds. Cut from a **fresh break**, because the outer few fingers of any exposed rock is an altered weathering rind. Cut generously oversize, then season on three points.
-- **Ore** — **dress at the mine** · load cap = what the team pulls the full distance; see [now.md](../../now.md) ore doctrine. Campus margin laps do not apply.
+**Vehicle:** Norima when round trip · **class C** fill — [NORIMA-PAYLOAD-CY14.md](../../journal/retcons/NORIMA-PAYLOAD-CY14.md).
+
+| Template | Days | Work | Net |
+|---|---:|---|---:|
+| **Remote full bed** | **5–6** | **d1** OUT · **d2–d4** face · dress · gangue cairn · snap · **stage to bed** · **d5** laden return · **d6** unload/sort @ ore bay | **~120–180 kg** ore class |
+| **Prospect + light** | **3–4** | OUT · **1–2** face · return partial | **~60–100 kg** |
+| **Campus / pre-dressed** | **1** | Margin stub · already egg/knap | **~80–150 kg** |
+
+- **Reference stone** — separate standard; chilled **dyke margins and pillow rims** · **ring the block** · oversize cut · season on three points.
+- **Ore** — **dress at the mine** · **never haul gangue** · bed net ≤ tow grammar · powder-safe manifest separate.
 - **Gypsum** M-21: pale band, thumbnail-soft, **no vinegar fizz**. That last test is what separates it from carbonate.
 - **Nickel** on serpentinite: the ore is the **red dirt on top of the rock**, and sparse stunted flora is the indicator.
 

@@ -10,6 +10,11 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5085 | [day-5085.md](days/year-014/week-727/day-5085.md) | **✓ Farm · wax render** | **Cal-Y14 D101 · ~104 g wax** |
+| 5084 | [day-5084.md](days/year-014/week-727/day-5084.md) | **✓ Char retort quad** | **Cal-Y14 D100 · ~19.4 kg char** |
+| 5083 | [day-5083.md](days/year-014/week-727/day-5083.md) | **✓ Kiln A lime ×2** | **Cal-Y14 D99 · ~8.8 kg QL** |
+| 5082 | [day-5082.md](days/year-014/week-726/day-5082.md) | **✓ Gravel haul full bed** | **Cal-Y14 D98 · ~208 kg** |
+| 5081 | [day-5081.md](days/year-014/week-726/day-5081.md) | **✓ Drive survey CY14** | **Cal-Y14 D97 · Feeder-4 stake** |
 | 5041 | [day-5041.md](days/year-014/week-721/day-5041.md) | **✓ WW-2 bucket install** | **Cal-Y14 D57 · ~0.41 kW** |
 | 5040 | [day-5040.md](days/year-014/week-720/day-5040.md) | **✓ Spring sow CY14** | **Cal-Y14 D56 · buckets defer** |
 | 5039 | [day-5039.md](days/year-014/week-720/day-5039.md) | **✓ WW-2 buckets ×10** | **Cal-Y14 D55 · mount queued** |

@@ -1,0 +1,35 @@
+# Norima — net payload on haul heroes
+
+**Source:** [NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md) · [vehicles.md](../inventory/vehicles.md) · [harvest.md](../government/procedures/harvest.md).
+
+## When this applies
+
+Any hero that credits **bulk stock** via **`WAGON-V2-CHASSIS-1` (Norima)**.
+
+## Tow capacity *(net @ bed · d5079+)*
+
+| Band | kg |
+|---|---:|
+| Long corridor / exped return | **~180–220** |
+| Campus full-day haul | **~120–200** |
+| Max push | **~250–300** |
+| Caution / bad leg | **~80–120** |
+
+## Fill time — calendar days
+
+| Class | Material | Full-bed exped |
+|---|---|---|
+| **A** | Sand · gravel · clay @ campus | **1 d** hero |
+| **B** | Pozz · stone face · lime knap | **+1–2 d** at site → **4 d** pozz loop |
+| **C** | Ore dress at face | **+2–3 d** at site → **5–6 d** ore loop |
+
+## Day file
+
+1. **Net cargo** in **Gains** · **material class** on expeds.
+2. **`KORUHOYUK-POZZ-HAUL`:** **4 d** @ **~180–220 kg** default · **3 d** only **partial** **~80–120 kg**.
+3. **`ORE-HAUL`:** mine/dress days **before** laden return — no full bed in one pick day.
+
+## Do not
+
+- Cart-lap / pre-Y14 **~18–70 kg** tables on Norima.
+- Conflate **tow capacity** with **one-day mine rate** on class **B/C**.

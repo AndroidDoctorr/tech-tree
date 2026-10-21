@@ -12,9 +12,9 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~17.0 kg** | Char lane | | d5075 mix debt |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~19.4 kg** | Char lane | d5084 retort | d5084 retort |
 | **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~10.9 kg** | Char reserve drum | d4664 | d4955 top-off |
-| `WOOD-OAK-P5` | Oak, green · main stack | **~45.3 kg** @ pile 5 | Pile 5 | | d5074 dig |
+| `WOOD-OAK-P5` | Oak, green · main stack | **~88 kg** @ pile 5 | Pile 5 | d5080 haul | d5085 apiary |
 | **`FURNITURE-SELECT-1`** | Oak, green · furniture grade @ pile 5 north shade | **~3.23 kg** tail | Pile 5 north shade | d4818 | d5071 stake tags |
 | **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d4257 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d4257 |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.16 kg** tail | Craft peg | d3520 | d4860 prop |
@@ -48,17 +48,17 @@ Potable hearts **`SPIRIT-GRAIN-*`** @ [food.md](food.md). Legacy per-batch conde
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ **`WING-N-CABINET-1`** sealed crock | North wing cabinet | d4153 | d4859 load |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~20 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | | d5075 mix debt |
-| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~37.6 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | | d5075 mix debt |
+| **`GRAVEL-1`** | Gravel aggregate | **~208 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | d5082 haul | d5082 haul |
+| `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~211 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | d5079 | d5079 haul |
 | `SAND-RIVER-GROG` | River sand / grog | **×0 class** | Fabrica SW margin | | d3608 |
-| **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~5.6 kg @ `MATERIARUM` bay 1** | Yard bay 1 | | d5075 mix debt |
+| **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~200 kg @ `MATERIARUM` bay 1** | Yard bay 1 | d5079 unload | d5076–5079 haul |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~82.6 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5075 mix debt |
-| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **×0** @ sealed crock | Lime trough | d3390 | d5075 mix debt |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~74.6 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5083 kiln |
+| `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~8.8 kg** @ sealed crock | Lime trough | d5083 kiln | d5083 kiln |
 | `BLOCK-CAST-Y10-3280` | Cast block · BC-2 · 90-day break PASS d3370 | ×0 → **`WAGON-GARAGE-1` stem** | d3280 | d3375 |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×278 unused** *(×32 dry @ `WW-YARD` · **×246 submerged** @ pit)* | Block yard / pit | d4030 | d5068 ×18 test2 |
 | `LIME-PUTTY-1` | Lime putty | **×0** working tail | Lime trough | | d5068 sprint |
@@ -506,7 +506,7 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `WAX-Y10-RENDER-1` | Beeswax, clean cake — render stock | **~605 g** | Wax store | | d5073 render |
+| `WAX-Y10-RENDER-1` | Beeswax, clean cake — render stock | **~709 g** | Wax store | d5085 render | d5085 render |
 | `COMB-TO-RENDER` | Comb awaiting render | **×0** | — | | d4726 render |
 
 Y10's binding constraint, closed. Yield per kg of comb is low because old brood comb is mostly cocoon and propolis — honey comb off top bars is the rich fraction. See [bees.md](../government/procedures/bees.md).

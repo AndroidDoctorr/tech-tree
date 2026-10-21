@@ -7,13 +7,28 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 14 · fatigue 11** *(effective ~18)* · Last out: **d5032 wood haul** · Last overhaul: **d4617** · Last tune: **d4943**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 17 · fatigue 11** *(effective ~20)* · Last out: **d5082 gravel haul** · Last overhaul: **d4617** · Last tune: **d4943**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
 Bulk dry aft. Ice kit stowed, wet rig staged.
 
 **Wear is two 0–100 indices** — **service** (tune) + **fatigue** (overhaul); hazards use **effective** wear — see [wagon-wear.md](../government/procedures/wagon-wear.md) and [hazards.md](../hazards.md). **Margin hauls:** service **+1 per two trips**; fatigue **+1 per four pairs**. Patch this header when either counter changes.
+
+### Net payload *(CY14 · [NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md))*
+
+**Four-wheel bed · steel leaf springs · 2–3 donkeys · campus + KARASU-class trails.**
+
+| Band | Net cargo |
+|---|---:|
+| **Default long day** | **~180–220 kg** |
+| **Campus hero** | **~120–200 kg** |
+| **Max practical** | **~250–300 kg** *(3-up · dense stack · best trail)* |
+| **Caution** | **~80–120 kg** |
+
+★ **Tow ≠ fill time** — sand can hit **~150 kg** in **one campus day**; ore/pozz need **extra at-site days** per [NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md).
+
+★ **Log net in the day file** — gross column on return is **wagon + cargo + hitch**, not a second cargo estimate.
 
 ### Fittings
 

@@ -91,7 +91,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.68 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5073 wax cut |
+| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.81 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5085 wax cut |
 
 *Co-harvested with **`WAX-CUT-SURPLUS`** on strong hives — not brood comb. See [apiary-routine.md](../government/procedures/apiary-routine.md).*
 

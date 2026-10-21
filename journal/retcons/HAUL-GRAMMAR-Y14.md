@@ -23,15 +23,17 @@
 
 ## Canonical forward grammar
 
+★ **Superseded @ d5078** — net targets raised to **~120–220 kg** class per [NORIMA-PAYLOAD-CY14.md](NORIMA-PAYLOAD-CY14.md). Table below is **historical d4303 band only**; do not use on new heroes.
+
 See [harvest.md](../../government/procedures/harvest.md).
 
-| Haul | Default Norima hero | Net target |
+| Haul | Default Norima hero | Net target *(retired d5078)* |
 |---|---|---|
-| **`SAND-HAUL`** | **2-load wet + yard sieve** | **~18–28 kg** |
-| **`GRAVEL-HAUL`** | **2–3 laden trips** | **~45–70 kg** |
-| **`HAUL-LIME`** | **Full day · knap + 2 loads** | **~40–55 kg** |
-| **`CLAY-HAUL`** | **3-lap bulk liner** | **~35–45 kg** |
-| **`STONE-HAUL`** · **`STONE-DRESS-P4`** | **2-load field + sort @ pile 4** | **~35–50 kg** |
+| **`SAND-HAUL`** | **2-load wet + yard sieve** | ~~**~18–28 kg**~~ → **~120–180 kg** |
+| **`GRAVEL-HAUL`** | **2–3 laden trips** | ~~**~45–70 kg**~~ → **~140–200 kg** |
+| **`HAUL-LIME`** | **Full day · knap + 2 loads** | ~~**~40–55 kg**~~ → **~120–180 kg** |
+| **`CLAY-HAUL`** | **3-lap bulk liner** | ~~**~35–45 kg**~~ → **~100–160 kg** |
+| **`STONE-HAUL`** · **`STONE-DRESS-P4`** | **2-load field + sort @ pile 4** | ~~**~35–50 kg**~~ → **~100–150 kg** |
 
 ---
 

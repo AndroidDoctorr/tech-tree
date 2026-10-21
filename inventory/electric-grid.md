@@ -224,6 +224,8 @@ Map: **`WING-N-EXHAUST-1`** · **`EC-1-GRID-BRANCH-WING-N-MOTOR-1`** · Opened: 
 
 **Fan-duty PM motor** · field from **`MAG-STEEL-Y13-ROD-3`** · brushes from **`ST-SPR-BUTTON-Y13-4`** · **second grid-fed motor on campus** · **`MOTOR-1` remains @ chem porch**.
 
+**Measured d5081:** **R ~4.1 · stall ~190 mN·m · ~0.085 I @ exhaust duty** · Feeder-2 drop **~0.23 GB** @ fan load.
+
 | Materials logged d4848 | |
 |---|---|
 | **`O-1-MALACHITE`** | **−~0.38 kg** |
@@ -382,4 +384,51 @@ Map: chem porch · Built: d3198
 `EM-COIL-3` armature, ~3 mm gap, `COMMUTATOR-1`, ~5–11° needle. Output scales with pedal.
 
 `COMMUTATOR-1`: oak boss, ×2 copper split segments in wax, copper leaf brushes ×2 plus ×1 spare, timed to the neutral plane. `MAG-STACK-2`: rods #8 · #12 · #16 · #19 plus yoke, lift ~65 mm — the field. `EM-COIL-3`: ~280 turns gen-2 on a ~185 g iron core, bench fixture at chem porch, leads C/D.
+
+---
+
+## Loss & torque ledger *(CY14 industrial drive study)*
+
+*Plan: [industrial-mech-drive-cy14.md](../plans/industrial-mech-drive-cy14.md) · **survey ✓ d5081***
+
+### Feeder loss model *(GB·I at load)*
+
+| Run | Length | Gauge | R measured | V_src | V_tap | I_load | Notes |
+|---|---:|---|---:|---:|---:|---:|---|
+| **Feeder-1** chem | **~46 m** paired | **0.9 mm** | **~2.35 R** | **~8.52** | **~7.18** | **~0.14** | d5081 audit · open **~7.62** |
+| **Feeder-2** craft | **~80 m** paired | **0.9 mm** | **~4.05 R** | **~8.52** | **~6.51** | **~0.085** | d5081 · `MOTOR-2` ON · open **~6.74** |
+| **Feeder-Fabrica-1** | **~44 m** paired | class | **~2.1 R** | **~8.52** | **~7.88** | — | d5081 open read |
+| **Feeder-4** G2 MS *(planned)* | **~51 m** | **1.2 mm paired** *(spec)* | **~1.55 R est** | — | — | **~0.40** design | d5081 stake · **ΔV ~0.62 GB** @ design I |
+
+★ **Derive:** ΔV ≈ I × R_pair · P_loss ≈ I²R · compare to **`GEN-WW-2`** peak **~2.1 GB·I** @ ~8.6 R.
+
+### Machine shaft torque budget *(belt tree · N·m)*
+
+| Load | Mode | rpm class | Torque demand | Source read | Day |
+|---|---|---:|---:|---|---|
+| **WW-2** shaft | Prony / apron | **~9–10** | **~330–350** | d5029 | ✓ |
+| **Lathe** | Clutch A direct | **~145** | slip **~38** | strap d5081 | ✓ |
+| **Lathe** | Clutch B reduced | **~58** | slip **~85** | strap d5081 | ✓ |
+| **Mill / bench** | Clutch D reduced | **~36** | slip **~125** | **budget row** | ✓ |
+| **Block bench** | collar **#5** | **~62** | peak **~68** | cam d5081 | ✓ |
+| **Boring mill** | Clutch C | **~145** | slip **~32** | strap d5081 | ✓ |
+| **WW-2** shaft | Prony | **~9.8** | **~365** | d5041 ref d5081 | ✓ |
+
+### Motor torque & electrical budget
+
+| ID | R arm | Stall / rated torque | I @ load | Fed from | Notes |
+|---|---:|---:|---:|---|---|
+| **`MOTOR-1`** | **~3.8** | **~100 mN·m** stall d3964 | **~0.13** @ ~100 g | Feeder-1 | bench class |
+| **`MOTOR-2`** | **~4.1** | **~190 mN·m** stall | **~0.085** exhaust | Feeder-2 | **d5081** |
+| **`MOTOR-IND-1`** *(target)* | — | **≥ ~130 N·m @ line shaft** · **I_run ≤ ~0.42** | — | Feeder-4 class | **d5081 slate** · paired **`GEN-MOTOR-IND-R&D-1`** |
+
+### Mechanical bridge *(belt drive @ current site)*
+
+| Element | Spec | Status |
+|---|---|---|
+| **Prime** | Crossflow → clutch M → **`BELT-TREE-1`** | [ww-2-power-upgrade.md](../plans/ww-2-power-upgrade.md) |
+| **Electric prime** | Crossflow → clutch G → upgraded gen | same |
+| **Shop drive** | **`MOTOR-IND-1` → line shaft → belts** | **@ current sites first** d5081 |
+| **Move gate** | Relocate tools to **G2 MS** only when **Feeder-4** + shaft PASS | ∥ [g2-ms1-machine-shop-cy14.md](../plans/g2-ms1-machine-shop-cy14.md) |
+| **`EC-1-GRID-FEEDER-4`** | **~51 m · 1.2 mm paired** @ east jamb chase | **staked d5081** · wire when motor exists |
 

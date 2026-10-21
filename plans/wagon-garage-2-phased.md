@@ -1,33 +1,29 @@
 # `WAGON-GARAGE-2` — phased shop / garage *(player sketch d4764)*
 
-**Status:** **STAKED d5071 @ `PARK-MFG-1`** · **CDs queued** — see [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md)
+**Status:** **STAKED d5071** · **MS-1 issued d5080** · **summer CY14 stockpile** · **build CY15+ OK**  
+**Phasing:** [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md) · **machine shop pack:** [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md)
 
-**Dimensions:** **18 m × 10 m pad** · **central 8×10 m** · **wings 4×10 m** *(east may split 4×5 + 4×5)* · **portico/utility ~+2 m** · **two garage doors** · **crane 500 kg → 1–2 t anchor path**.
+**Dimensions:** **18 m × 10 m pad** · **central 8×10 m** · **wings 4×10 m** · **portico/utility ~+2 m** · **two garage doors** · **crane 500 kg → 1–2 t** *(C-1 pads · C-2 steel)*.
 
 ## Intent
 
-- **Large central bay** for future **IC vehicle** · **machine tools** · **overhead crane**
-- **Four side bays** first (**5 × 6 m** each), **two E-shapes** facing across **~8 m** aisle
-- **Shared walls** between bays on the same side
-- **Central ~8 × 10 m** pad + driveway **after** side bays
-- **Temporary partition** on aisle side while bays get **permanent roofs**
-- **Central walls → portico/airlock → big door → crane frame on central roof → finish → strip temps**
+- **East 4×10 machine shop first** — weathertight **~40 m²** before crane or central hangar
+- **Large central bay** later — **IC vehicle** · **overhead crane**
+- **West split bays** + portico after central shell
+- **Temporary partition** on aisle side while central is open sky
 
-## Agent read *(BC-2 / campus)*
+## Agent read *(BC-2 / campus · d5080)*
 
 | Verdict | Notes |
 |---|---|
-| **Phasing** | **Sound.** Matches how hub + wings were built — weathertight chunks, not one empty hangar. |
-| **Ambition** | **Right order of magnitude** for your tech level; **crane + central clear span** is the hard part, not the four 5×6 shells. |
-| **Not too small** | Four **30 m²** cells + **80 m²** centre ≈ **200 m²** covered — serious shop. |
-| **Risk** | **Central span + crane** needs **engineered frame** (timber + steel class), **not** tile-on-masonry alone. File **crane beam + columns** as named hero before closing central roof. |
-| **Pad** | **8 × 10 m wear slab** between bays — pour **after** side footings define levels · **slope + drain** to yard (portico grammar). |
-| **Airlock** | **One bay as mudroom** (Norima / IC fume path) is smart — same as Officina south portico. |
-| **Blocks** | Side bays: **~×80–100 block stem + ring each** if full BC-2 · **four bays ≈ ×320–400** class over years — **bank pit** before breaking ground. |
-| **IC vehicle** | Needs **door ≥ ~3 m clear** · **driveway grade** · **vent** — plan **before** central door masonry. |
+| **Phasing** | **Machine shop decoupled from crane** — half the first concrete bill · same BC-2 block grammar |
+| **Summer work** | **Haul · kiln · pit lift** — no need to close footing loop until stock PASS |
+| **Ambition** | Central span + crane remains the hard part; **MS-1** is the fast usable win |
+| **Blocks** | **~×88** for east wing — **pit bank**, not a press sprint |
+| **Risk** | **C-1 sleeve pour** still one-shot — do not skip template discipline when central is queued |
 
 ## Open design questions
 
-1. **Orientation** on **Manufacturing yellow** pad — sun, smoke, Fabrica belt noise.
-2. **Crane capacity** → **beam section** + **column footings** (likely **independent of brick wythe**).
-3. **EC-1 Feeder-4** trunk timing ([ec-1-campus-expansion.md](ec-1-campus-expansion.md) phase 4).
+1. **Feeder-4** trunk timing — **EC stub in MS-3** · trunk in **C-4** ([ec-1-campus-expansion.md](ec-1-campus-expansion.md))
+2. **Crane beam section** — detail at **C-2** hero
+3. **Central door clear** for IC — masonry before **C-2** close
