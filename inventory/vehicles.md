@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 16 · fatigue 12** *(effective ~18)* · Last out: **d5159 wood** · Last overhaul: **d4617** · Last tune: **d5097** · **Margin haul 1/2** · **Dense class A: sand ~218 kg · gravel ~214 kg step 1**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 11 · fatigue 13** *(effective ~16)* · Last out: **d5202 wood** · Last overhaul: **d4617** · Last tune: **d5192** · **Margin haul 1/2** · **Laden pozz ~248 kg cap d5185**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
@@ -43,6 +43,7 @@ Bulk dry aft. Ice kit stowed, wet rig staged.
 | `WAGON-DASH-SHELF-1` | Dash shelf, driver bench rail · wick tin · wrench ghost | Live |
 | `WAGON-SEAT-PAD-1` | Driver bench pad, deer leather, flax/hemp fill | Live |
 | `WAGON-YOKE-PAD-1` | Team yoke pads ×2, deer leather, hemp/flax loft | Live |
+| **`DRAFT-HARNESS-NORIMA-1`** | **Team draft harness** · laden cal ✓ · **Mabel trace −~15 mm d5189** | **✓ LIVE** @ cart yard |
 | `WAGON-V2-RIP-TAIL-1` | Rip tail | ×0 spent → became a cover rib pair |
 
 Cover cloth stock is a resource, not a fitting — `CLOTH-WAGON-COVER` in [resources.md](resources.md), ~2.08 kg on the `CART-YARD` south peg row.

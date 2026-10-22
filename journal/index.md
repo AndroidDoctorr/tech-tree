@@ -10,6 +10,46 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5203 | [day-5203.md](days/year-015/week-744/day-5203.md) | **✓ Char retort** | **Cal-Y14 D219 · lane ~14 kg** |
+| 5202 | [day-5202.md](days/year-015/week-744/day-5202.md) | **✓ Wood haul** | **Cal-Y14 D218 · pile ~161 kg** |
+| 5201 | [day-5201.md](days/year-015/week-743/day-5201.md) | **✓ Bloom HIT · W743** | **Cal-Y14 D217 · ~6 kg bank** |
+| 5200 | [day-5200.md](days/year-015/week-743/day-5200.md) | **✓ Bloom smelt** | **Cal-Y14 D216 · bank ~4.9 kg** |
+| 5199 | [day-5199.md](days/year-015/week-743/day-5199.md) | **✓ H-11 haul close** | **Cal-Y14 D215 · ~143 kg pile** |
+| 5198 | [day-5198.md](days/year-015/week-743/day-5198.md) | **✓ H-11 D2/3** | **Cal-Y14 D214** |
+| 5197 | [day-5197.md](days/year-015/week-743/day-5197.md) | **✓ H-11 D1/3 OUT** | **Cal-Y14 D213** |
+| 5196 | [day-5196.md](days/year-015/week-743/day-5196.md) | **✓ Bloom smelt · fig** | **Cal-Y14 D212 · bank ~4 kg** |
+| 5195 | [day-5195.md](days/year-015/week-743/day-5195.md) | **✓ Bloom smelt** | **Cal-Y14 D211 · char 2-smelt GO** |
+| 5194 | [day-5194.md](days/year-015/week-742/day-5194.md) | **✓ Char retort** | **Cal-Y14 D210 · lane ~28 kg** |
+| 5193 | [day-5193.md](days/year-015/week-742/day-5193.md) | **✓ Distill Y16-1** | **Cal-Y14 D209 · ~1.58 L hearts** |
+| 5192 | [day-5192.md](days/year-015/week-742/day-5192.md) | **✓ Norima tune** | **Cal-Y14 D208 · service ~11** |
+| 5191 | [day-5191.md](days/year-015/week-742/day-5191.md) | **✓ Char retort · farm** | **Cal-Y14 D207 · lane ~19 kg** |
+| 5190 | [day-5190.md](days/year-015/week-742/day-5190.md) | **✓ Char · reserve top-up** | **Cal-Y14 D206 · drum 10 kg** |
+| 5189 | [day-5189.md](days/year-015/week-742/day-5189.md) | **✓ Brick fire · trace** | **Cal-Y14 D205 · ~343 fired** |
+| 5188 | [day-5188.md](days/year-015/week-742/day-5188.md) | **✓ Wood haul** | **Cal-Y14 D204 · pile ~200 kg** |
+| 5187 | [day-5187.md](days/year-015/week-741/day-5187.md) | **✓ Pozz unload · W741 close** | **Cal-Y14 D203 · +248 kg** |
+| 5186 | [day-5186.md](days/year-015/week-741/day-5186.md) | **✓ Laden · pull-off** | **Cal-Y14 D202 · d5/6** |
+| 5185 | [day-5185.md](days/year-015/week-741/day-5185.md) | **✓ Lash cap 248** | **Cal-Y14 D201 · laden cal** |
+| 5184 | [day-5184.md](days/year-015/week-741/day-5184.md) | **✓ Face pick** | **Cal-Y14 D200 · ~108 kg** |
+| 5183 | [day-5183.md](days/year-015/week-741/day-5183.md) | **✓ Koruhöyük spur** | **Cal-Y14 D199 · d2/6** |
+| 5182 | [day-5182.md](days/year-015/week-741/day-5182.md) | **✓ Prep + OUT** | **Cal-Y14 D198 · d1/6** |
+| 5181 | [day-5181.md](days/year-015/week-741/day-5181.md) | **✓ Harness retest** | **Cal-Y14 D197 · W741 d1** |
+| 5180 | [day-5180.md](days/year-015/week-740/day-5180.md) | **✓ Harness tweak** | **Cal-Y14 D196 · W740 d7 close** |
+| 5179 | [day-5179.md](days/year-015/week-740/day-5179.md) | **✓ Harness train** | **Cal-Y14 D195 · fit slate** |
+| 5178 | [day-5178.md](days/year-015/week-740/day-5178.md) | **✓ Harness LIVE D3/3** | **Cal-Y14 D194 · yard trial** |
+| 5177 | [day-5177.md](days/year-015/week-740/day-5177.md) | **✓ Harness D2/3** | **Cal-Y14 D193 · traces** |
+| 5176 | [day-5176.md](days/year-015/week-740/day-5176.md) | **✓ Harness D1/3** | **Cal-Y14 D192 · collars** |
+| 5175 | [day-5175.md](days/year-015/week-740/day-5175.md) | **✓ Wood haul** | **Cal-Y14 D191 · ~116 kg pile** |
+| 5174 | [day-5174.md](days/year-015/week-740/day-5174.md) | **✓ Char retort** | **Cal-Y14 D190 · ~13 kg char** |
+| 5173 | [day-5173.md](days/year-015/week-739/day-5173.md) | **✓ Brick press ×80** | **Cal-Y14 D189 · W739 close** |
+| 5172 | [day-5172.md](days/year-015/week-739/day-5172.md) | **✓ Ferment + TR fire** | **Cal-Y14 D188 · Y16 mash** |
+| 5171 | [day-5171.md](days/year-015/week-739/day-5171.md) | **✓ Char retort** | **Cal-Y14 D187 · ~17 kg char** |
+| 5170 | [day-5170.md](days/year-015/week-739/day-5170.md) | **✓ Brick fire ×80** | **Cal-Y14 D186 · ~271 fired** |
+| 5169 | [day-5169.md](days/year-015/week-739/day-5169.md) | **✓ Bloom smelt** | **Cal-Y14 D185 · ~2.21 kg mount** |
+| 5168 | [day-5168.md](days/year-015/week-739/day-5168.md) | **✓ Char retort** | **Cal-Y14 D184 · ~27 kg char** |
+| 5167 | [day-5167.md](days/year-015/week-739/day-5167.md) | **✓ Bloom smelt · crossflow stock** | **Cal-Y14 D183 · ~1.27 kg mount** |
+| 5166 | [day-5166.md](days/year-015/week-738/day-5166.md) | **✓ H-11 ore 3/3 · W738 close** | **Cal-Y14 D182 · ~103 kg bank** |
+| 5165 | [day-5165.md](days/year-015/week-738/day-5165.md) | **✓ H-11 ore D2/3** | **Camp @ lip** |
+| 5164 | [day-5164.md](days/year-015/week-738/day-5164.md) | **✓ H-11 ore D1/3** | **Cal-Y14 D180 · OUT** |
 | 5163 | [day-5163.md](days/year-015/week-738/day-5163.md) | **✓ Sand haul** | **Cal-Y14 D179 · ~1284 kg** |
 | 5162 | [day-5162.md](days/year-015/week-738/day-5162.md) | **✓ Gravel haul** | **Cal-Y14 D178 · ~1258 kg** |
 | 5161 | [day-5161.md](days/year-015/week-738/day-5161.md) | **✓ Grape thin · scare** | **Cal-Y14 D177 · ~33 clusters** |

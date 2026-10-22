@@ -59,6 +59,28 @@ Forged d2342–d2422. Soft core, hard bit — a fully hardened tool shatters.
 | `STEEL-SLOT-PUNCH-1` | Slot punch · strap/keyway class | Bench punch roll | ✓ LIVE d3531 |
 | `STEEL-FORGE-PLIERS-1` | Forge pliers · serrated jaws · ~22 cm | M2 forge peg | ✓ LIVE d3531 |
 
+## Sentanár · `MUSKET-1`
+
+Smoothbore musketoon · field-proven **d4240** · ammo bank + bandolier grammar @ chem powder safe. Bore rod + ball mould @ Culina peg below.
+
+| ID | Tool | Where | State |
+|---|---|---|---|
+| **`MUSKET-1`** | Assembled lock · barrel · stock | Craft wing bench | Live · d4240 field |
+| **`MUSKET-BANDOLIER-Y13-1`** | Cross-chest band · patches · flask @ loop | Vestiarium / wear-ready | Live |
+| **`MUSKET-SLING-Y13-1`** | Shoulder sling + holster · brass swivel | On `MUSKET-1` / peg | Live |
+| **`MUSKET-BUTT-PAD-Y13-1`** | Leather butt pad · heel wrap | On `MUSKET-1` | Live |
+| **`MUSKET-BRASS-TRIM-Y13-1`** | Entry band · escutcheon · pin caps ×2 | Installed `MUSKET-1` | Live |
+| **`MUSKET-BALL-Y13-1`** | Round ball · field load | **×3 @ bandolier** | Loaded |
+| **`MUSKET-BALL-RESERVE-Y13-1`** | Round ball · bank | Powder safe peg tray **×12** | Reserve |
+| **`MUSKET-PATCH-KIT-Y13-1`** | Greased patches ×10 · grease tin | **×8 bandolier · ×2 peg** | Live |
+| **`MUSKET-PATCH-RESERVE-Y13-1`** | Greased patches | Powder safe **×8** | Reserve |
+| **`MUSKET-POWDER-FLASK-Y13-1`** | Goat-horn flask · **~72 g mealed @ loop** | Bandolier loop | Live |
+| **`MUSKET-POWDER-RESERVE-Y13-1`** | Mealed powder · sealed jar | Powder safe **~180 g** | Reserve |
+| **`MUSKET-CHARGE-TUBE-Y13-1`** | Pre-measured GOOSE | **×2 @ bandolier** | Loaded |
+| **`MUSKET-CHARGE-TUBE-RESERVE-Y13-1`** | Pre-measured GOOSE | Powder safe **×6** | Reserve |
+| **`MUSKET-BLANK-CHARGES-Y13-1`** | Blank rounds · wadded · no ball | Powder safe **×2** | Held |
+| **`MUSKET-LOCK-MOCKUP-Y13-1`** | Oak lock test frame | Craft wing bench | Archive · d4196 fit |
+
 ## Field edge — iron and steel
 
 **Condition grammar:** [tool-edge.md](../government/procedures/tool-edge.md) — **GREEN / AMBER / RED** · gated heroes require **GREEN**.

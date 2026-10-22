@@ -70,7 +70,7 @@ Live as of **d5115 · Cal-Y14 D131 · ~12 May Y14 · Week 731 OPEN @ d5116**
 5. **`WW-2-Q-SPRING-SERIES-CY14` + route survey** *(⚒ passes)* — freeze the preserved-head alignment and loss budget before runner dimensions.
 6. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — establish whether the ~0.5 kg concentrate covers crossflow bearing tin before any Kozan trip.
 7. **`ALCOHOL-ORGANICS-PLAN-CY14`** *(⚒ bench)* — ✓ **d5119 C₄ repeat (~4.2 ml jar)** · **next:** **olefin capture lap** · **calcine refresh** · **char retort**.
-8. **`DRAFT-HARNESS-NORIMA-1`** *(⚒ build · ⧗ tan)* — proper **draft harness** for **Mabel + Humphrey + Silas** before **>~300 kg** trials; target **250–300 kg** as default comfort post-harness ([NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md)).
+8. ~~**`DRAFT-HARNESS-NORIMA-1`**~~ **✓ laden cal d5185–5187** · **~248 kg pozz cap** — **250–300 kg** comfort on **next** heavy trip if traces stay even ([NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md)).
 
 ### ★ Player queue @ d5110 — harness blocks remote heavy
 

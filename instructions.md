@@ -13,6 +13,8 @@
 
 Document **the next day — just one**, unless the User says otherwise. If the instruction cannot be fulfilled, **say why** rather than inventing a way.
 
+★ **Day capacity — bind to physics, not the User's ambition.** One campus day already pays **dawn animal care · meals · wash · apiary/farm reads · cross-campus walks** before discretionary work. Default **one primary hero** (~full day hands-on, or ⚒→⧗ with eve return only). A second major block needs **split days** or an explicit half-day pair — even when the User asks to "also" do more. Skill and stock set *what* can PASS; the calendar sets *how much* fits.
+
 1. Read [now.md](now.md)
 2. Run [checklists](checklists/index.md) — daily, periodic, triggers, calendar. These can outrank the day's plan
 3. Roll the day's hazards — [hazards.md](hazards.md)
@@ -59,6 +61,7 @@ Detail: [rules.md — gates](rules.md#gates) · [rules.md — build decompositio
 - **Account for soap** — ~¼–½ bar class per wash day from `SOAP-Y10-1` unless no-wash is explicit.
 - **Account for skill and preparedness** — [skills.md](skills.md)
 - **Mishaps are low-probability and realistic, not D&D.** Routine work rarely fails; new and experimental work is where risk lives. The Player is cautious, thinks ahead, and prepares
+- **Plausibility spot-check** — when time, yield, or historical method is **unclear and the number drives the day**, one **targeted** web lookup (Wikipedia-class is fine) beats guessing. **Not** every turn.
 
 ## ★ Trigger index
 
