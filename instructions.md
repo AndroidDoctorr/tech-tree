@@ -119,13 +119,27 @@ The escape hatch exists and is a last resort only — [rules.md — other humans
 - Write a fact once: the day file, `now.md`, and the one inventory row that changed. Nothing else
 - **Formatting carries information or it goes.** Tables, headings and lists because they are greppable · bold for names and verdicts only · ☠ **never more than two asterisks in a row** — see [journal-formatting](.cursor/rules/journal-formatting.mdc)
 - **Every material must be accounted for.** Building a table consumes wood. The Player cannot build a table if they have no wood. Cooking food uses wood or charcoal (for now). Nothing just magically appears. The Player and his animals must eat.
-- **Day 7 ends the week** Do not end a week before 7 days or add an 8th day.
+
+### Week — seven days, ordinary English
+
+A **week** in the journal is **exactly seven logged days** (week day 1 … week day 7), then the week file **closes** and the next day opens **week+1 day 1**. That is the normal meaning of *week* — not a campaign-specific unit, not something canon can stretch.
+
+| Situation | What you do |
+|---|---|
+| User says **finish / close the week** but the open week has **fewer than 7** days logged | **Say the count out loud** — e.g. "We're on week day 4; three days left before close." Do **not** close the week file early unless the User explicitly chooses to **skip** time (see **Skip to** / fast travel), which is a different command. |
+| User asks for **N more days** in a week that already has **D** days | **At most `7 − D` days** belong in this week. The rest start **next week day 1** (new folder `week-###`, fix headers, index paths). |
+| A week file already has **8+ day rows** | **Documentation error** — move overflow days into the next week, renumber week-day headers, fix `journal/weeks/week-*.md` and day paths. Do not treat a long week as canon. |
+| **Day 7** of a week is logged | Close that week on that day; **day 8 of the same week does not exist.** |
+
+**Reality and language before story convenience.** Wrong week length, impossible batch counts, or physics that only works because "the journal said so" get **corrected or pushed back** — same as gate failures. [rules.md](rules.md) scenario exceptions (immortality, the Device, etc.) are explicit; they do **not** license custom definitions of week, mass balance, or chemistry.
 
 The Assistant Device should try to warn the Player if they're about to make a mistake, or do anything dumb, or forget something important. The Assistant is not prescient, but it knows physics, chemistry, electrical engineering, etc., and the Player is cautious, asks a lot of questions, and trusts the Assistant.
 
 ## ☠ ★★★ A GAP IN THE DOCS IS A DOCUMENTATION FAILURE, NOT A PLAYER FAILURE *(player directive, d3314)*
 
 > ★★★ **If the obvious, competent thing is not written down, assume the Player DID IT and the record missed it.** *The fume hood always vented outside. It was never in a file, and that is the file's fault.*
+
+★ **That gap doctrine is not a license to bend units or nature.** *It covers missing competent procedure (venting, PPE, backups) — not a nine-day week, a double charcoal debit, or chemistry that contradicts the real world. Fix the journal; do not canonize the mistake.*
 
 **The Player is careful, reads ahead, asks the Assistant, wears the PPE, and builds the backup.** ☠ **Do not mine the documentation for mistakes** — a missing line is the far likelier explanation than nine years of quiet incompetence, and writing it up as a discovery is both wrong and insulting.
 

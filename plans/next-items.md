@@ -34,7 +34,7 @@ Live as of **d5115 · Cal-Y14 D131 · ~12 May Y14 · Week 731 OPEN @ d5116**
 |---|---|---|
 | **G2 / MS-1** | **×278 @ pit** · pozz **~200 kg** · sand **~596 kg** · gravel **~776 kg** · QL **×0** | **Summer stockpile** · [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · build **CY15+ OK** |
 | **WW-2 / electric** | **Apron + curved buckets LIVE ~0.41 kW** | **Spring Q/head series + preserved-head route survey** · tin assay · iron/char bank before runner |
-| **Chemistry** | **`ETHANOL-DEHYD-STOCK-1` ~0.67 L** · **`ETHANOL-DEHYD-HIGH` ~656 ml** · **`OLEFIN-TRAP` ×0** · **`C4` ~2.2 ml** | **Dehyd / redistill → olefin capture → C₄ coupling** |
+| **Chemistry** | **`ETHANOL-DEHYD-HIGH` ~1.32 L** · **`OLEFIN-TRAP` ~24 ml** · **`C4` ~4.2 ml** | **[ethanol-butadiene-rd-cy14.md](ethanol-butadiene-rd-cy14.md)** · **`POLYMER-LANE-PILOT-1` first** |
 
 ---
 

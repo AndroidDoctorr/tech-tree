@@ -23,6 +23,7 @@ Things the Player wants to accomplish. **Live state:** [now.md](../now.md).
 - [ec-1-campus-expansion.md](ec-1-campus-expansion.md) — Campus grid · feeders
 - [ww-2-power-upgrade.md](ww-2-power-upgrade.md) — Turbine transition *(phase 1 apron ✓)*
 - [electronics-lab-stock-y14.md](electronics-lab-stock-y14.md) — Bench stock side cadence
+- [ethanol-butadiene-rd-cy14.md](ethanol-butadiene-rd-cy14.md) — **Ethanol → C₄ / butadiene** · `POLYMER-LANE-PILOT-1` ladder
 - [roof-rd-hemp-bitumen-1.md](roof-rd-hemp-bitumen-1.md) — Roof R&D *(deferred)*
 
 ## Archived plans

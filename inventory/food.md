@@ -51,7 +51,7 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `PISTACHIO-1` | Pistachio kernels · roast tray class | **~9.54 kg** | Horreum A nut tray | Y10–Y15 | d4964 feast tray |
+| `PISTACHIO-1` | Pistachio kernels · roast tray class | **~11.36 kg** | Horreum A nut tray | Y10–Y16 | d5253 roast Y16 |
 | `ACORN-ROAST-Y9` | Acorn, shelled and roast · Y9 batches ×3 | **~0.66 kg** | Nut tray | Y9 | d3591 |
 | `ACORN-ROAST-Y10-1` | Acorn roast · **`ACORN-LEACH-Y10-1` batch** | ~575 g | Nut tray | d3423 | d3508 |
 | `ACORN-ROAST-Y10-2` | Acorn roast · **`ACORN-LEACH-Y10-2` batch** | ~610 g | Nut tray | d3465 | d3465 |
@@ -60,9 +60,9 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | **`ACORN-ROAST-Y12-1`** | Acorn roast · **`ACORN-LEACH-Y12-1` batch** | **~575 g** | Nut tray | d3787 | d3872 |
 | **`ACORN-ROAST-Y13-1`** | Acorn roast · **`ACORN-LEACH-Y13-1` batch** | **~605 g** | Nut tray | d4236 | d4236 |
 | **`ACORN-ROAST-Y13-2`** | Acorn roast · **`ACORN-LEACH-Y13-2` batch** | **~600 g** | Nut tray | d4236 | d4236 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~19.8 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y15 lap 3 d4876** | d4877 shell |
-| **`ACORN-LEACH-Y14-1`** | Acorn leach · Y14 batch 1 · **soak 4 ⧗ @ ditch W** | **~680 g in sack** | Ditch W flow | d4530 | flow PASS |
-| **`ACORN-DRY-Y15-1`** | Acorn, leached · dry before roast | **~710 g wet** | Porch dry tray | d5033 | dry read |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~22.2 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y16 lap 1 d5245** | d5253 shell batch |
+| **`ACORN-LEACH-Y16-1`** | Acorn leach · Y16 batch 1 · **soak 1 ⧗ @ ditch W** | **~700 g in sack** | Ditch W flow | d5253 | soak start |
+| **`ACORN-ROAST-Y15-1`** | Acorn roast · Y15 tail batch | **~680 g** | Nut tray | d5253 | d5253 roast |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
 
@@ -165,7 +165,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | `GRAPE-MUST-Y7-1` | Grape must, matured · vinegar-ready | **~1.24 L** | Horreum | Y7 | d4609 |
 | `VINEGAR-Y6-1` | Vinegar · Y6/Y7/Y8/Y9 bands merged · **~5.8 % acetic class d5042** | **~2.72 L class** | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d5042 assay |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`SPIRIT-GRAIN-Y16-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y16-1`** | **~1.58 L @ spirit peg** | Chem spirit peg | d5193 | dehyd defer |
+| **`SPIRIT-GRAIN-Y16-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y16-1`** | **~0.30 L @ spirit peg** | Chem spirit peg | d5193 | d5223 dehyd |
 | **`SPIRIT-GRAIN-Y13-1`** | Grain spirit · hearts cut · **~42 % class** · emmer/barley mash | **~0.83 L @ `P-LAB-SPIRIT-BOTTLE-1`** | Chem spirit peg | d3926 | d4624 dehyd |
 | **`SPIRIT-GRAIN-Y15-1`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-1`** | **~0.85 L @ `P-LAB-SPIRIT-BOTTLE-Y15-1`** | Chem spirit peg | d4905 | d5116 dehyd |
 | **`SPIRIT-GRAIN-Y15-2`** | Grain spirit · hearts cut · **~42 % class** · **`GRAIN-FERMENT-Y15-2`** | **~1.06 L @ spirit peg** | Chem spirit peg | d4971 | d5090 dehyd |

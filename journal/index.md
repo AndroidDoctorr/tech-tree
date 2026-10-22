@@ -10,6 +10,58 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5255 | [day-5255.md](days/year-015/week-751/day-5255.md) | **✓ Iron bloom** | **Cal-Y14 D271 · ~7.99 kg mount** |
+| 5254 | [day-5254.md](days/year-015/week-751/day-5254.md) | **✓ Wood haul** | **Cal-Y14 D270 · ~139 kg pile 5** |
+| 5253 | [day-5253.md](days/year-015/week-751/day-5253.md) | **✓ Farm process · exped out** | **Cal-Y14 D269 · pistachio · hemp rett** |
+| 5252 | [day-5252.md](days/year-015/week-751/day-5252.md) | **✓ Char retort HIT** | **Cal-Y14 D268 · ~31 kg char** |
+| 5251 | [day-5251.md](days/year-015/week-751/day-5251.md) | **✓ Pozz 5d haul close** | **Cal-Y14 D267 · ~1195 kg** |
+| 5250 | [day-5250.md](days/year-015/week-750/day-5250.md) | **✓ Pozz d4/5 · W750** | **Cal-Y14 D266 · ~254 kg bed** |
+| 5249 | [day-5249.md](days/year-015/week-750/day-5249.md) | **✓ Pozz d3/5** | **Cal-Y14 D265** |
+| 5248 | [day-5248.md](days/year-015/week-750/day-5248.md) | **✓ Pozz d2/5** | **Cal-Y14 D264** |
+| 5247 | [day-5247.md](days/year-015/week-750/day-5247.md) | **✓ Pozz d1/5 OUT** | **Cal-Y14 D263 · 5-day template** |
+| 5246 | [day-5246.md](days/year-015/week-750/day-5246.md) | **✓ Boil · Q · pozz prep** | **Cal-Y14 D262 · d1/5 staged** |
+| 5245 | [day-5245.md](days/year-015/week-750/day-5245.md) | **✓ Nitre leach · acorn** | **Cal-Y14 D261 · ~23.4 kg shell-on** |
+| 5244 | [day-5244.md](days/year-015/week-750/day-5244.md) | **✓ Iron bloom smelt** | **Cal-Y14 D260 · ~7.05 kg mount** |
+| 5243 | [day-5243.md](days/year-015/week-749/day-5243.md) | **✓ Q · rut OPEN · W749** | **Cal-Y14 D259 · ~10.2 L/s** |
+| 5242 | [day-5242.md](days/year-015/week-749/day-5242.md) | **✓ Block lift ×16** | **Cal-Y14 D258 · pad ×100** |
+| 5241 | [day-5241.md](days/year-015/week-749/day-5241.md) | **✓ Materiarum c2 step** | **Cal-Y14 D257 · ×20 · pad ×84** |
+| 5240 | [day-5240.md](days/year-015/week-749/day-5240.md) | **✓ Materiarum c2 back** | **Cal-Y14 D256 · ×24 laid** |
+| 5239 | [day-5239.md](days/year-015/week-749/day-5239.md) | **✓ Block lift + pad stage** | **Cal-Y14 D255 · ×128 @ materiarum** |
+| 5238 | [day-5238.md](days/year-015/week-749/day-5238.md) | **✓ Pistachio Y16** | **Cal-Y14 D254 · ~5.1 kg hull-on** |
+| 5237 | [day-5237.md](days/year-015/week-749/day-5237.md) | **✓ Block lift ×16** | **Cal-Y14 D253 · ×112 dry** |
+| 5236 | [day-5236.md](days/year-015/week-748/day-5236.md) | **✓ Sand · W748** | **Cal-Y14 D252 · ~2037 kg** |
+| 5235 | [day-5235.md](days/year-015/week-748/day-5235.md) | **✓ Gravel HIT** | **Cal-Y14 D251 · ~2014 kg** |
+| 5234 | [day-5234.md](days/year-015/week-748/day-5234.md) | **✓ Slake · Q read** | **Cal-Y14 D250 · nadir ~10 L/s** |
+| 5233 | [day-5233.md](days/year-015/week-748/day-5233.md) | **✓ Quicklime ×2** | **Cal-Y14 D249 · ~9 kg CaO** |
+| 5232 | [day-5232.md](days/year-015/week-748/day-5232.md) | **✓ Lime haul HIT** | **Cal-Y14 D248 · ~498 kg stone** |
+| 5231 | [day-5231.md](days/year-015/week-748/day-5231.md) | **✓ Char retort** | **Cal-Y14 D247 · W748 d2** |
+| 5230 | [day-5230.md](days/year-015/week-748/day-5230.md) | **✓ Pozz unload** | **Cal-Y14 D246 · ~944 kg · W748 d1** |
+| 5229 | [day-5229.md](days/year-015/week-747/day-5229.md) | **✓ Pozz pick** | **Cal-Y14 D245 · ~248 kg** |
+| 5228 | [day-5228.md](days/year-015/week-747/day-5228.md) | **✓ Pozz d1/3** | **Cal-Y14 D244 · apron camp** |
+| 5227 | [day-5227.md](days/year-015/week-747/day-5227.md) | **✓ Q nadir · farm** | **Cal-Y14 D243 · ~9.9 L/s** |
+| 5226 | [day-5226.md](days/year-015/week-747/day-5226.md) | **✓ Hemp cut Y16** | **Cal-Y14 D242 · ~9.2 kg** |
+| 5225 | [day-5225.md](days/year-015/week-747/day-5225.md) | **✓ Wood haul HIT** | **Cal-Y14 D241 · ~143 kg** |
+| 5224 | [day-5224.md](days/year-015/week-747/day-5224.md) | **✓ Redistill + char** | **Cal-Y14 D240 · high ~1.32 L** |
+| 5223 | [day-5223.md](days/year-015/week-747/day-5223.md) | **✓ Dehyd** | **Cal-Y14 D239 · stock ~950 ml** |
+| 5222 | [day-5222.md](days/year-015/week-746/day-5222.md) | **✓ Pozz · W746** | **Cal-Y14 D238 · ~696 kg** |
+| 5221 | [day-5221.md](days/year-015/week-746/day-5221.md) | **✓ Pozz pick** | **Cal-Y14 D237 · ~248 kg bed** |
+| 5220 | [day-5220.md](days/year-015/week-746/day-5220.md) | **✓ Koruhöyük OUT** | **Cal-Y14 D236 · d1/3** |
+| 5219 | [day-5219.md](days/year-015/week-746/day-5219.md) | **✓ Q read · prep** | **Cal-Y14 D235 · ~10.4 L/s** |
+| 5218 | [day-5218.md](days/year-015/week-746/day-5218.md) | **✓ Wagon tune** | **Cal-Y14 D234 · service ~10** |
+| 5217 | [day-5217.md](days/year-015/week-746/day-5217.md) | **✓ Sand haul HIT** | **Cal-Y14 D233 · ~1789 kg** |
+| 5216 | [day-5216.md](days/year-015/week-746/day-5216.md) | **✓ Gravel haul** | **Cal-Y14 D232 · ~1760 kg** |
+| 5215 | [day-5215.md](days/year-015/week-745/day-5215.md) | **✓ Dehyd · W745** | **Cal-Y14 D231 · stock ~785 ml** |
+| 5214 | [day-5214.md](days/year-015/week-745/day-5214.md) | **✓ Calcine + retort** | **Cal-Y14 D230 · catalyst ~132 g** |
+| 5213 | [day-5213.md](days/year-015/week-745/day-5213.md) | **✓ Dehyd HIT** | **Cal-Y14 D229 · stock ~610 ml** |
+| 5212 | [day-5212.md](days/year-015/week-745/day-5212.md) | **✓ Char retort** | **Cal-Y14 D228 · lane ~26 kg** |
+| 5211 | [day-5211.md](days/year-015/week-745/day-5211.md) | **✓ Wood haul** | **Cal-Y14 D227 · pile ~166 kg** |
+| 5210 | [day-5210.md](days/year-015/week-745/day-5210.md) | **✓ Browse trim** | **Cal-Y14 D226 · goats** |
+| 5209 | [day-5209.md](days/year-015/week-745/day-5209.md) | **✓ Kaolin calcine** | **Cal-Y14 D225 · catalyst ~95 g** |
+| 5208 | [day-5208.md](days/year-015/week-744/day-5208.md) | **✓ Gravel · W744** | **Cal-Y14 D224 · ~1512 kg** |
+| 5207 | [day-5207.md](days/year-015/week-744/day-5207.md) | **✓ Sand ~252 kg** | **Cal-Y14 D223** |
+| 5206 | [day-5206.md](days/year-015/week-744/day-5206.md) | **✓ Clay ~248 kg** | **Cal-Y14 D222 · 250 default** |
+| 5205 | [day-5205.md](days/year-015/week-744/day-5205.md) | **✓ Dehyd Y16-1** | **Cal-Y14 D221 · stock ~435 ml** |
+| 5204 | [day-5204.md](days/year-015/week-744/day-5204.md) | **✓ Char retort** | **Cal-Y14 D220 · lane ~26 kg** |
 | 5203 | [day-5203.md](days/year-015/week-744/day-5203.md) | **✓ Char retort** | **Cal-Y14 D219 · lane ~14 kg** |
 | 5202 | [day-5202.md](days/year-015/week-744/day-5202.md) | **✓ Wood haul** | **Cal-Y14 D218 · pile ~161 kg** |
 | 5201 | [day-5201.md](days/year-015/week-743/day-5201.md) | **✓ Bloom HIT · W743** | **Cal-Y14 D217 · ~6 kg bank** |

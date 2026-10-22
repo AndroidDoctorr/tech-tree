@@ -74,8 +74,9 @@ See [vehicles.md](../../inventory/vehicles.md) · wear [wagon-wear.md](../../gov
 | Trip | Days | Pattern |
 |---|---:|---|
 | **`SAND-HAUL`** · **`GRAVEL-HAUL`** @ campus | **1** | Fill bed · sieve/sort · credit net — class **A** |
-| **`KORUHOYUK-POZZ-HAUL`** *(full bed)* | **4** | **d1** march OUT · **d2–d3** face pick + lash **~180–220 kg** · **d4** laden return + unload |
-| **`KORUHOYUK-POZZ-HAUL`** *(partial · rush)* | **3** | Old grammar OK at **~80–120 kg** net if player defers second pick day |
+| **`KORUHOYUK-POZZ-HAUL`** *(full bed · comfort)* | **4** | **d1** march OUT · **d2–d3** face pick + lash **~180–220 kg** · **d4** laden return + unload |
+| **`KORUHOYUK-POZZ-HAUL`** *(large · **~240–260 kg**)* | **5** | **d1** OUT → apron · **d2–d4** face pick + lash *(3 mining days)* · **d5** laden HOME + unload — **default @ d5247** |
+| **`KORUHOYUK-POZZ-HAUL`** *(partial · rush)* | **3** | **~80–120 kg** net · **one** face day — **d5220 / d5228 logged under rush; not for cap ~250** |
 | **`ORE-HAUL`** *(remote face · full bed)* | **5–6** | **d1** OUT · **d2–d4** mine + dress + stage · **d5** laden return · **d6** unload + farm pass optional |
 | **`ORE-HAUL`** *(campus margin / pre-dressed)* | **1–2** | Class **A/B** top-up only |
 

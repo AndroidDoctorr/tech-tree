@@ -12,7 +12,7 @@ Y16 sow **d5040** · prior Y15 harvest **d4949–4952**. Bed geometry is [map](.
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-FIBRE-Y16` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **~18 m²** | d5040 | **Dense drill** |
+| `HEMP-FIBRE-Y16` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **stubble** | d5040 | **`P-RETT-40` submerged d5253** |
 | `HEMP-FLOWER-Y16` | Hemp · flower QoL block | Bed A north-west · **~4 m²** | d5040 | **Thin drill · RESERVE peg** |
 | `FAVA-Y16` | Fava · elite + working | Bed A west · **~8 m²** | d5040 | **Dibbed deep** |
 | `P-18-CHICKPEA-Y16` | Chickpea | Bed A south · **~6 m²** | d5040 | **Row drill** |

@@ -142,7 +142,7 @@ West shelf · hub curtain · south boot mat · **`WING-N-SPILL-PEG-1` + waste cr
 
 ### `MATERIARUM-PAD-1` *(pile 4 north · kiln B margin)*
 
-**Staked d4878** · **~10×3 m ghost · ×4 bays** · subgrade **✓ d4879** · **`MATERIARUM-BLIND-DRAIN-1` ✓ d4880** · **~35 mm gravel bed ✓ d4880** · **pozz wear slab ✓ d4882** · **✓ `MATERIARUM-PHASE1` d4891** — **×3 separators course 1** · **✓ back + outer sides course 1 d4901** *(×60 wythe · south mouths open)* · **course 2 gate: bay fill nears lip / spill over wythe** · ⚑ **`BLOCK-PAD-1`** small pour pad for block stack · **`BLOCK-BENCH-PAD-1` ✓ wear slab d4916 · cure PASS d4923** *(~3.2×2.1 m · **`BLOCK-BENCH-LINE-SHAFT-1` LIVE d4918** · **`BLOCK-BENCH-FRAME-1` LIVE d4926** · plan [block-bench-water-wheel.md](../government/archive/plans/block-bench-water-wheel.md))* · **`SHOVEL-BULK-1` ✓** · **`WHEELBARROW-2` ✓ d4895** @ pile 4 north peg · **`MATERIARUM-STOCK-1` d4896** — bay 1 pozz · bay 2–3 gravel · bay 4 sand **~62 kg class post-d4914** · apron gravel **~12 kg**.
+**Staked d4878** · **~10×3 m ghost · ×4 bays** · subgrade **✓ d4879** · **`MATERIARUM-BLIND-DRAIN-1` ✓ d4880** · **~35 mm gravel bed ✓ d4880** · **pozz wear slab ✓ d4882** · **✓ `MATERIARUM-PHASE1` d4891** — **×3 separators course 1** · **✓ back + outer sides course 1 d4901** *(×60 wythe · south mouths open)* · **✓ course 2 back d5240** *(×24 full)* · **✓ course 2 stepped d5241** *(×4 west · ×4 east · ×4×3 partitions from back · **`MATERIARUM-STEP-ENVELOPE-1`** — extend south or c3 step later)* · **course 2 gate: bay fill nears lip / spill over wythe** · ⚑ **`BLOCK-PAD-1`** small pour pad for block stack · **`BLOCK-BENCH-PAD-1` ✓ wear slab d4916 · cure PASS d4923** *(~3.2×2.1 m · **`BLOCK-BENCH-LINE-SHAFT-1` LIVE d4918** · **`BLOCK-BENCH-FRAME-1` LIVE d4926** · plan [block-bench-water-wheel.md](../government/archive/plans/block-bench-water-wheel.md))* · **`SHOVEL-BULK-1` ✓** · **`WHEELBARROW-2` ✓ d4895** @ pile 4 north peg · **`MATERIARUM-STOCK-1` d4896** — bay 1 pozz · bay 2–3 gravel · bay 4 sand **~62 kg class post-d4914** · apron gravel **~12 kg**.
 
 ### ✓ **`WING-N-EXHAUST-1`** — north work wing exhaust *(d4860)*
 
@@ -307,7 +307,7 @@ Map: pool margin N · Built: d2718
 ### `ACORN-DITCH-FLOW-SACK-1`
 Map: ditch W · below `RETT-TROUGH-FLAX-1` rinse lip · ad hoc d4227
 
-**LIVE @ d4533** — **`ACORN-LEACH-Y14-1` soak 3 ~680 g @ ditch W flow** · peg below rinse lip.
+**LIVE @ d5253** — **`ACORN-LEACH-Y16-1` soak 1 ~700 g @ ditch W flow** · peg below rinse lip. *(Y14 sack pulled spent d5253.)*
 
 Both are the **fallback**, not the primary. Running water in the ditch leaches faster than serial still soaks ever will, because a still trough reaches equilibrium and stops working until it is changed. The troughs are for a batch that cannot be watched. See `ACORN-LEACH` in [processing.md](../government/procedures/processing.md).
 

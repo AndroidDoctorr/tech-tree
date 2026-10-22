@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 11 · fatigue 13** *(effective ~16)* · Last out: **d5202 wood** · Last overhaul: **d4617** · Last tune: **d5192** · **Margin haul 1/2** · **Laden pozz ~248 kg cap d5185**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 14 · fatigue 13** *(effective ~18)* · Last out: **d5254 wood** · Last overhaul: **d4617** · Last tune: **d5218** · **Margin haul 1/2** · **Default bed ~250 kg d5206**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
@@ -21,9 +21,10 @@ Bulk dry aft. Ice kit stowed, wet rig staged.
 
 | Band | Net cargo |
 |---|---:|
-| **Full bed default** | **~140–200 kg** |
-| **Dense calibration** | **~210–225 kg** *(occasional)* |
-| **Heavy haul** | **~250 kg class** |
+| **Full bed default** | **~250 kg class** *(post-harness · player d5206)* |
+| **Comfort fallback** | **~140–200 kg** *(powder-safe · hub AMBER)* |
+| **Dense calibration** | **~210–225 kg** *(legacy pre-default)* |
+| **Heavy haul** | **~250–280 kg** |
 | **Extra heavy** | **~300 kg class** |
 | **>~300 kg** | **Draft harness gate** — [NORIMA-PAYLOAD-CY14.md](../journal/retcons/NORIMA-PAYLOAD-CY14.md) |
 | **Caution** | **~80–120 kg** |

@@ -253,7 +253,8 @@ Brackish from the S-03 marsh at ~700 m, or the PM-R1 north flat at the tagged po
 
 | Template | Days | Pattern | Net @ unload |
 |---|---:|---|---:|
-| **Full bed** *(default forward)* | **4** | **d1** OUT · **d2–d3** quarry pick + cob/fines sort + lash · **d4** laden HOME + bay 1 | **~180–220 kg** |
+| **Full bed** *(comfort)* | **4** | **d1** OUT · **d2–d3** quarry pick + cob/fines sort + lash · **d4** laden HOME + bay 1 | **~180–220 kg** |
+| **Large bed** *(default cap haul)* | **5** | **d1** OUT → apron · **d2–d4** face *(3 d)* · **d5** laden return + unload | **~240–260 kg** |
 | **Partial** *(rush)* | **3** | **d1** OUT · **d2** light pick · **d3** return | **~80–120 kg** |
 
 ★ **Class B quarry** — two face days to **fill** is normal; **tow** is not the bottleneck.
