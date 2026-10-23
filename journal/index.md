@@ -10,6 +10,68 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5272 | [day-5272.md](days/year-015/week-754/day-5272.md) | **✓ Polymer stoneware fire** | **Cal-Y14 D288 · FIRED WIP · bulb open-5** |
+| 5273 | [day-5273.md](days/year-015/week-754/day-5273.md) | **✓ Polymer lane assemble** | **Cal-Y14 D289 · MOUNTED cold · cradles** |
+| 5274 | [day-5274.md](days/year-015/week-754/day-5274.md) | **✓ Char + calcine ×2** | **Cal-Y14 D290 · catalyst ~295 g** |
+| 5275 | [day-5275.md](days/year-015/week-754/day-5275.md) | **✓ Calcine ×2 + cold commission** | **Cal-Y14 D291 · catalyst ~525 g · phase E ✓** |
+| 5276 | [day-5276.md](days/year-015/week-754/day-5276.md) | **✓ Polymer hot blank** | **Cal-Y14 D292 · phase F ✓ · char watch** |
+| 5277 | [day-5277.md](days/year-015/week-754/day-5277.md) | **✓ Polymer pilot run 1** | **Cal-Y14 D293 · balance PASS · C₄ cut** |
+| 5278 | [day-5278.md](days/year-015/week-754/day-5278.md) | **✓ Wood haul** | **Cal-Y14 D294 · W754 close · +~95 kg** |
+| 5279 | [day-5279.md](days/year-015/week-755/day-5279.md) | **✓ Char retort full day** | **Cal-Y14 D295 · lane ~10.7 kg · reserve top** |
+| 5280 | [day-5280.md](days/year-015/week-755/day-5280.md) | **✓ Char retort full day** | **Cal-Y14 D296 · lane ~22.4 kg** |
+| 5281 | [day-5281.md](days/year-015/week-755/day-5281.md) | **✓ Farm acorn lap 2** | **Cal-Y14 D297 · shell ~27.7 kg · breed** |
+| 5282 | [day-5282.md](days/year-015/week-755/day-5282.md) | **✓ Acorn process** | **Cal-Y14 D298 · roast Y16 · soak 2 live** |
+| 5283 | [day-5283.md](days/year-015/week-755/day-5283.md) | **✓ Polymer pilot run 2** | **Cal-Y14 D299 · balance repeat PASS** |
+| 5284 | [day-5284.md](days/year-015/week-755/day-5284.md) | **✓ Pilot run 3 ~125 ml** | **Cal-Y14 D300 · C₄ assay HIT** |
+| 5285 | [day-5285.md](days/year-015/week-755/day-5285.md) | **✓ C₄ coupling pilot trial** | **Cal-Y14 D301 · W755 close · stock ~6.2 ml** |
+| 5286 | [day-5286.md](days/year-015/week-756/day-5286.md) | **✓ Char retort full day** | **Cal-Y14 D302 · W756 d1 · lane refill** |
+| 5287 | [day-5287.md](days/year-015/week-756/day-5287.md) | **✓ ×2 feast reflector green** | **Cal-Y14 D303 · winter lighting sprint** |
+| 5288 | [day-5288.md](days/year-015/week-756/day-5288.md) | **✓ `M26-BEST` refill** | **Cal-Y14 D304 · porch skim · ~0.58 kg** |
+| 5289 | [day-5289.md](days/year-015/week-756/day-5289.md) | **✓ `M26` bulk porch wash** | **Cal-Y14 D305 · no haul · best ~1.12 kg** |
+| 5290 | [day-5290.md](days/year-015/week-756/day-5290.md) | **✓ ×2 feast reflector green** | **Cal-Y14 D306 · ×4 rack queue** |
+| 5291 | [day-5291.md](days/year-015/week-756/day-5291.md) | **✓ Brass stock smelt** | **Cal-Y14 D307 · ~298 g · M-26 spring first** |
+| 5292 | [day-5292.md](days/year-015/week-756/day-5292.md) | **✓ Socket sprint ×2 · W756 close** | **Cal-Y14 D308 · #10/#11** |
+| 5293 | [day-5293.md](days/year-015/week-757/day-5293.md) | **✓ Socket sprint ×2** | **Cal-Y14 D309 · #12/#13 · GEN2 thin** |
+| 5294 | [day-5294.md](days/year-015/week-757/day-5294.md) | **✓ Cu wire feed @ forge** | **Cal-Y14 D310 · `WIRE-CU-4` coil** |
+| 5295 | [day-5295.md](days/year-015/week-757/day-5295.md) | **✓ GEN2 restore + socket #14** | **Cal-Y14 D311 · GEN2 ~14.9 m** |
+| 5296 | [day-5296.md](days/year-015/week-757/day-5296.md) | **✓ Cu wire bank** | **Cal-Y14 D312 · GEN2 ~30 m · CU-4 hold** |
+| 5297 | [day-5297.md](days/year-015/week-757/day-5297.md) | **✓ Wood haul T-1** | **Cal-Y14 D313 · +~94 kg yield HIT** |
+| 5298 | [day-5298.md](days/year-015/week-757/day-5298.md) | **✓ Char retort** | **Cal-Y14 D314 · lane ~23.9 kg** |
+| 5299 | [day-5299.md](days/year-015/week-757/day-5299.md) | **✓ Cu wire bank · W757 close** | **Cal-Y14 D315 · GEN2 ~44.6 m** |
+| 5300 | [day-5300.md](days/year-015/week-758/day-5300.md) | **✓ Q read · reflector ×4 fire** | **Cal-Y14 D316 · Q ~10.8 L/s** |
+| 5301 | [day-5301.md](days/year-015/week-758/day-5301.md) | **✓ Kiln unload · pendants ×3** | **Cal-Y14 D317 · mill + cubiculum** |
+| 5302 | [day-5302.md](days/year-015/week-758/day-5302.md) | **✓ Pendants ×3** | **Cal-Y14 D318 · thermae + cubiculum · ×6 done** |
+| 5303 | [day-5303.md](days/year-015/week-758/day-5303.md) | **✓ Domus switches ×3** | **Cal-Y14 D319 · mill · thermae · cub-E** |
+| 5304 | [day-5304.md](days/year-015/week-758/day-5304.md) | **✓ Switches ×2 · set 4/4** | **Cal-Y14 D320 · CUB-W + knife spare** |
+| 5305 | [day-5305.md](days/year-015/week-758/day-5305.md) | **✓ `OLIVE-PICK-Y16-1`** | **Cal-Y14 D321 · ~6.4 kg P-02 lap 1** |
+| 5306 | [day-5306.md](days/year-015/week-758/day-5306.md) | **✓ Acorn roast · olive lap 2** | **Cal-Y14 D322 · W758 close** |
+| 5307 | [day-5307.md](days/year-015/week-759/day-5307.md) | **✓ Char retort** | **Cal-Y14 D323 · W759 d1** |
+| 5308 | [day-5308.md](days/year-015/week-759/day-5308.md) | **✓ Olive tail + press** | **Cal-Y14 D324 · ~1.75 L Y16 crude** |
+| 5309 | [day-5309.md](days/year-015/week-759/day-5309.md) | **✓ Harvest prep · storage clear** | **Cal-Y14 D325 · sickle freshen · ~95%** |
+| 5310 | [day-5310.md](days/year-015/week-759/day-5310.md) | **✓ Wood haul T-1** | **Cal-Y14 D326 · +~81 kg pile 5** |
+| 5311 | [day-5311.md](days/year-015/week-759/day-5311.md) | **✓ `WAGON-V2-TUNE-5311`** | **Cal-Y14 D327 · Norima service ~10** |
+| 5312 | [day-5312.md](days/year-015/week-759/day-5312.md) | **✓ Iron bloom smelt** | **Cal-Y14 D328 · ~8.59 kg mount** |
+| 5313 | [day-5313.md](days/year-015/week-759/day-5313.md) | **✓ `MADDER-DIG-Y16-1`** | **Cal-Y14 D329 · W759 close · ~241 g dry** |
+| 5314 | [day-5314.md](days/year-015/week-760/day-5314.md) | **✓ Emmer + barley harvest** | **Cal-Y14 D330 · YELLOW-GO · yield HIT** |
+| 5315 | [day-5315.md](days/year-015/week-760/day-5315.md) | **✓ Lentil harvest** | **Cal-Y14 D331 · grain clean + parch** |
+| 5316 | [day-5316.md](days/year-015/week-760/day-5316.md) | **✓ Chickpea harvest** | **Cal-Y14 D332 · pulse store · block grain+pulse** |
+| 5317 | [day-5317.md](days/year-015/week-760/day-5317.md) | **✓ Field flax pull** | **Cal-Y14 D333 · `P-RETT-41` LIVE · harvest close** |
+| 5271 | [day-5271.md](days/year-015/week-753/day-5271.md) | **✓ Vac open bank done** | **Cal-Y14 D287 · W753 day 7** |
+| 5270 | [day-5270.md](days/year-015/week-753/day-5270.md) | **✓ Vac integrate ×2** | **Cal-Y14 D286 · spare bank ×6** |
+| 5269 | [day-5269.md](days/year-015/week-753/day-5269.md) | **✓ Bulb assembly ×2** | **Cal-Y14 D285 · open bank ×4** |
+| 5268 | [day-5268.md](days/year-015/week-753/day-5268.md) | **✓ Bulb hardware** | **Cal-Y14 D284 · open kits · no vac** |
+| 5267 | [day-5267.md](days/year-015/week-753/day-5267.md) | **✓ Char half-retort** | **Cal-Y14 D283 · ~6.8 kg HIT** |
+| 5266 | [day-5266.md](days/year-015/week-753/day-5266.md) | **✓ Wells + retainers** | **Cal-Y14 D282 · phase B green complete** |
+| 5265 | [day-5265.md](days/year-015/week-753/day-5265.md) | **✓ Heckle + hot bands** | **Cal-Y14 D281 · Ghab seed skip** |
+| 5264 | [day-5264.md](days/year-015/week-752/day-5264.md) | **✓ Coupling cart** | **Cal-Y14 D280 · carts 3/3 GREEN** |
+| 5263 | [day-5263.md](days/year-015/week-752/day-5263.md) | **✓ Rett + blank cart** | **Cal-Y14 D279 · `P-RETT-40` · cart 2/3** |
+| 5262 | [day-5262.md](days/year-015/week-752/day-5262.md) | **✓ Dehyd cart throw** | **Cal-Y14 D278 · cart 1/3 GREEN** |
+| 5261 | [day-5261.md](days/year-015/week-752/day-5261.md) | **✓ Hot shell form** | **Cal-Y14 D277 · dry ⧗ · no fire** |
+| 5260 | [day-5260.md](days/year-015/week-752/day-5260.md) | **✓ Nitre boil Y16-2** | **Cal-Y14 D276 · ~148 g crystal HIT** |
+| 5259 | [day-5259.md](days/year-015/week-752/day-5259.md) | **✓ Nitre leach · glass tail** | **Cal-Y14 D275 · Y16-2 · guard + transfer ×2** |
+| 5258 | [day-5258.md](days/year-015/week-752/day-5258.md) | **✓ Polymer lane glass ×7** | **Cal-Y14 D274 · traps · feed · relief** |
+| 5257 | [day-5257.md](days/year-015/week-751/day-5257.md) | **✓ Polymer glass prep** | **Cal-Y14 D273 · ~2.86 kg dry kit** |
+| 5256 | [day-5256.md](days/year-015/week-751/day-5256.md) | **✓ Polymer lane Phase A** | **Cal-Y14 D272 · frame + ceramic bridge** |
 | 5255 | [day-5255.md](days/year-015/week-751/day-5255.md) | **✓ Iron bloom** | **Cal-Y14 D271 · ~7.99 kg mount** |
 | 5254 | [day-5254.md](days/year-015/week-751/day-5254.md) | **✓ Wood haul** | **Cal-Y14 D270 · ~139 kg pile 5** |
 | 5253 | [day-5253.md](days/year-015/week-751/day-5253.md) | **✓ Farm process · exped out** | **Cal-Y14 D269 · pistachio · hemp rett** |

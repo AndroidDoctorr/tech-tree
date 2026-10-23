@@ -1,0 +1,23 @@
+# Acorn gather — ditch soak same day
+
+**Source:** [processing.md](../government/procedures/processing.md) · player directive **d5284**.
+
+## When this applies
+
+Any **`ACORN-GATHER`** hero in the **15 Sep – 30 Nov** band, or farm day the player treats as gather.
+
+## Agent default
+
+| Step | Log |
+|---|---|
+| **Lap** | Windfall + pole → breath stack credit (net shell-on may be **less** than gross if shelling same day) |
+| **Same hero · PM** | **Shell ~1.2 kg class** *(time on gather day)* → crack → **`ACORN-DITCH-FLOW-SACK-1` @ ditch W flow** · **`ACORN-LEACH-Y*- soak LIVE`** |
+| **Method** | **Running ditch** — not still trough, not “soak 2 defer” on a separate processing day |
+| **Pull** | Farm pass when bite PASS · inline pull → porch dry tray · roast defer until dry-through |
+
+Do not file gather-only days that leave new shell **only** on the shelf without either **ditch load** or explicit player defer.
+
+## Do not
+
+- Retcon past journal days.
+- Use trough serial soaks when ditch W is available at HOME.

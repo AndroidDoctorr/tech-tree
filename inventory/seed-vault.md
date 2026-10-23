@@ -27,6 +27,10 @@ Last full audit **d4674** · **`SEED-RAG-TEST-CY14-5038`** sow-tray roster · Y1
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
+| **`EMMER-ELITE-Y16`** | Emmer elite · C increase + field strip | **~376 g** reserve hold | Vault jar | Y16 d5314 | **pending rag tray** |
+| **`BARLEY-ELITE-Y16`** | Barley elite · expanded trial | **~52 g** reserve hold | Vault | Y16 d5314 | **pending rag tray** |
+| **`P-17-ELITE-Y16`** | Lentil elite · selection stand | **~51 g** reserve hold | Vault | Y16 d5315 | **pending rag tray** |
+| **`P-18-ELITE-Y16`** | Chickpea elite · selection sort | **~54 g** reserve hold | Vault | Y16 d5316 | **pending rag tray** |
 | **`EMMER-ELITE-Y15`** | Emmer elite · C increase + field strip | **~246 g** reserve hold | Vault jar | Y15 d4949 | **d5038 ~93%** |
 | **`BARLEY-ELITE-Y15`** | Barley elite · expanded trial | **~20 g** reserve hold | Vault | Y15 d4949 | **d5038 ~90%** |
 | **`P-17-ELITE-Y15`** | Lentil elite · selection stand | **~12 g** reserve hold | Vault | Y15 d4950 | **d5038 ~90%** |

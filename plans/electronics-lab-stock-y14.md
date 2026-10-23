@@ -68,8 +68,10 @@ Keep the **chem / north bench electrical lane** able to **repair a branch**, **t
 
 | Class | Min | Comfort | Notes |
 |---|---|---|---|
-| **Sealed feast / wing bulb** | **×1** | **×2** | **`BULB-PROD-Y14-*` soft stock @ vac bench** — not installed |
-| **Socket + pigtail assembly** | **×1 spare** | **×2** | **`BULB-FEAST-SOCKET-Y14-*` wired · unhung** |
+| **Sealed feast / wing bulb** | **`BULB-LAMP-SPARE 10–17` ×8 loose** | **×2–3** | **Open kit queue ✓ d5271 · room hangs queue** |
+| **Open / glass tail** | **`BULB-HW-OPEN-CY14-5`** · **`Y14-19` glass** · **~×1 reed** | — | Vac when named |
+| **Glass-only shells** | **`Y14-18/19` ×2** | — | Next stem days |
+| **Socket + pigtail assembly** | **`BULB-FEAST-SOCKET-Y14-9` ✓ d5268** | **×2** | **Unhung spares** |
 | **Filament / reed practice** | study peg | — | Scrap pinch stems — not counted as spares |
 
 **Cadence:** **⚒→⧗** vac afternoon when **min = 0** installed spares; batch **×2** when Hg header is already hot.

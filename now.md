@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history.*
 
-> **Day 5255** · **Cal-Y14 D271** · ~29 Sep Y14 · **Week 751 day 5** · **`year-015/`**
+> **Day 5317** · **Cal-Y14 D333** · ~30 Nov Y14 · **Week 760 day 4** · **`year-015/`**
 >
-> **HOME** · **`IRON-BLOOM-1` ~7.99 kg** · **`WOOD-OAK-P5` ~139 kg** · **`CHAR-LANE` ~25 kg**
+> **HOME** · **`HARVEST-BLOCK-Y16` ✓** · **`P-RETT-41` LIVE @ ditch W**
 
 Detail tables → [inventory/resources.md](inventory/resources.md) · [food.md](inventory/food.md).
 
@@ -12,10 +12,12 @@ Detail tables → [inventory/resources.md](inventory/resources.md) · [food.md](
 
 ## Stock watch
 
-| Row | Qty | Note |
-|---|---|---|
-| **`IRON-BLOOM-1`** | **~7.99 kg** | Crossflow bank |
-| **`WOOD-OAK-P5`** | **~139 kg** | Post-haul |
-| **`P-RETT-40`** | **hemp ⧗** | Pull window opening |
+| Row | Note |
+|---|---|
+| **Flax rett** | **`P-RETT-41` ~10–14 d · pull @ farm pass** |
+| **Oil** | **`OIL-DECANT-Y16-1` Dec band** |
+| **Acorn** | **Band to 30 Nov · soak-2 live** |
+| **Char** | **Lane ~11.6 kg** *(parch draw d5315)* |
+| **Wood** | **Pile 5 ~117 kg** |
 
 **Queue:** [next-items.md](plans/next-items.md)

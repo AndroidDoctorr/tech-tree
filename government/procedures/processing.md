@@ -43,6 +43,17 @@ These four explain most of the failures below. Read them before inventing a new 
 
 ## Acorn
 
+### `ACORN-GATHER` *(player default · d5284)*
+
+**Gather day is not “stack shell-on and leach later.”** On every **`ACORN-GATHER`** hero in the **15 Sep – 30 Nov** band:
+
+1. **Windfall + pole** to breath stack @ **`NUT-SHELF-EXT-1`** (lap credit).
+2. **Same hero · PM block:** **shell ~1.2 kg class** from that lap (or west lip) — *shelling eats gather time; do not book a separate shell day unless player defers.*
+3. **Same hero tail:** coarse crack → load **`ACORN-DITCH-FLOW-SACK-1` @ ditch W flow** — **running water, no serial trough changes**.
+3. **One sack in flow at a time** unless player names a second peg; pull on farm pass when bite reads PASS (~10–14 d class on crushed ditch grammar).
+
+Historic Y16 laps that logged gather without ditch load are **not retconned**; **forward grammar is gather + ditch start inline**.
+
 ### `ACORN-SHELL`
 
 Stone tap, cap split, float cull, reject worm and stain to the ditch lip. Batches run ~660–670 g kernels.

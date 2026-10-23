@@ -91,7 +91,7 @@ Smoothbore musketoon · field-proven **d4240** · ammo bank + bandolier grammar 
 | **`IRON-PICK-1`** | Pick/adze · stiff clay / cobble · forged d605 | M2 peg rail · gorge kit | **edge GREEN · pack-hardened points · refresh d5112 · svc d4961 sprint** |
 | **`IRON-SHOVEL-1`** | Weir / sand shovel · strap-iron shoe · ash haft | Weir peg · pile 4 kit | **edge GREEN · haft OK · svc d4961 sprint** |
 | **`SHOVEL-BULK-1`** | Bulk yard shovel · **~312 g** head · **~1.0 m** ash D-haft · strap shoe | Pile 4 north peg | **✓ LIVE d4887 · edge GREEN** |
-| **`WHEELBARROW-2`** | Materiarum yard barrow · **~60–80 L** box · wide wheel + iron tyre · wobble **~3.5 mm** class | Pile 4 north peg | **✓ LIVE d4895 · `WB-LOAD-2` PASS** |
+| **`WHEELBARROW-2`** | Materiarum yard barrow, "Runda" · **~60–80 L** box · wide wheel + iron tyre · wobble **~3.5 mm** class | Pile 4 north peg | **✓ LIVE d4895 · `WB-LOAD-2` PASS** |
 | **`W-SHOVEL-2`** | Wood shovel · backup · iron shoe class | Sand haul kit | **GREEN hold · svc d4533 audit** |
 | **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
 | `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
@@ -103,7 +103,7 @@ Smoothbore musketoon · field-proven **d4240** · ammo bank + bandolier grammar 
 | **`IRON-TROWEL-1`** | Masonry trowel | M2 peg rail | **edge GREEN · svc d4533 sprint** |
 | **`IRON-MORTAR-FLOAT-1`** | Mortar float | M2 peg rail | **edge GREEN · svc d4533 sprint** |
 | **`IRON-HAMMER-1`** | Bench hammer · forge face | M2 forge peg | **face GREEN · svc d4961 sprint** |
-| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d4960 strop** |
+| `IRON-SICKLE-1` | Harvest sickle · steel edge dress | `HARVEST-KIT-Y13` | **edge GREEN · svc d5309** |
 
 ## Worn and carried
 
@@ -180,6 +180,23 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `P-LAB-STOPCOCK-2` | Side-arm stub, cork plug valve | Chem bench **backup** peg | Live |
 | `P-LAB-CRUC-2` | Crucibles | Fire-table SW peg + sun rack | **×4 FIRED X d3988 · all clean** · **P–W spent** · **×0 GREEN @ sun rack** · **C–P spent** |
 | `P-LAB-TRAY-2` | Trays ×2 | Fire-table staging | Live |
+| **`POLYMER-LANE-FEED-JAR-CY14-1`** | Feed reservoir ~300 ml · P2 side stub | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-METER-CAP-CY14-1`** | Metering column ~380 mm · ~2.5 mm bore | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-C4-TRAP-CY14-1`** | C₄ cold trap ~120 ml · thick wall | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-C4-TRAP-CY14-2`** | C₄ cold trap spare · swap class | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-OXY-RCV-CY14-1`** | Oxygenate receiver ~200 ml | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-RELIEF-BUB-CY14-1`** | Relief bubbler ~250 ml · vent stem | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-TRANSFER-CY14-1`** | Transfer section ~280 mm · ~10 mm bore | Chem porch polymer peg | ✓ LIVE d5258 |
+| **`POLYMER-LANE-GUARD-RCV-CY14-1`** | Guard / waste receiver ~280 ml | Chem porch polymer peg | ✓ LIVE d5259 |
+| **`POLYMER-LANE-TRANSFER-CY14-2`** | Transfer section ~260 mm · ~10 mm bore | Chem porch polymer peg | ✓ LIVE d5259 |
+| **`POLYMER-LANE-TRANSFER-CY14-3`** | Transfer section ~260 mm · ~10 mm bore | Chem porch polymer peg | ✓ LIVE d5259 |
+| **`POLYMER-LANE-CART-DEHY-CY14-1`** | Bed cartridge ~32 mm × ~300 mm · dehyd | North board · **FIRED** | d5272 |
+| **`POLYMER-LANE-CART-BLANK-CY14-1`** | Bed cartridge ~32 mm × ~300 mm · blank / carrier | North board · **FIRED** | d5272 |
+| **`POLYMER-LANE-CART-CPL-CY14-1`** | Coupling tune ~30 mm × ~280 mm | North board · **FIRED** | d5272 |
+| **`POLYMER-LANE-HOT-BANDS-CY14-1`** | Forged iron shell bands ×4 · hinge · latch | `FORGE-D` peg | ✓ LIVE d5265 |
+| **`POLYMER-LANE-TC-WELL-CY14-1`** | TC sleeve · inlet read | North board · **FIRED** | d5272 |
+| **`POLYMER-LANE-TC-WELL-CY14-2`** | TC sleeve · core read | North board · **FIRED** | d5272 |
+| **`POLYMER-LANE-RETAINER-SET-CY14-1`** | Perforated bed discs ×6 | North board tray · **FIRED** | d5272 |
 | **`VAC-COLUMN-Y14-1`** | Vac bench sealed bore column · **~920 mm · ~7.1 mm ID** · **mounted @ manifold stub** | **`VAC-BENCH-1`** | d4463 unload |
 | **`VAC-CISTERN-DISH-Y14-1`** | Hg cistern dish · **~118 mm** · **~95 g Hg** | **`VAC-BENCH-1`** | d4467 charge |
 | **`VAC-FALL-TRAP-Y14-1`** | Hg fall trap · **mounted @ `VAC-FALL-HEADER-Y14-1`** · dry | **`VAC-BENCH-1`** | d4466 plumb |
@@ -199,11 +216,32 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-13`** | *(→ `BULB-LAMP-SPARE-CY14-13`)* | — | d5025 tip |
 | **`BULB-LAMP-SPARE-CY14-12`** | Sealed spare · **`BULB-PROD-Y14-12`** · short-stem class | **`VAC-BENCH-1`** soft peg | d5025 |
 | **`BULB-LAMP-SPARE-CY14-13`** | Sealed spare · **`BULB-PROD-Y14-13`** | **`VAC-BENCH-1`** soft peg | d5025 |
-| **`BULB-PROD-Y14-14`** | Annealed envelope · **glass only** · ~42 mm · stem ~55 mm | Chem porch spare peg | d5132 blow |
-| **`BULB-PROD-Y14-15`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
-| **`BULB-PROD-Y14-16`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
-| **`BULB-PROD-Y14-17`** | Annealed envelope · **glass only** | Chem porch spare peg | d5132 blow |
-| **`BULB-PROD-Y14-18`** | Annealed envelope · **glass only** | Chem porch spare peg | d5152 blow |
+| **`BULB-PROD-Y14-14`** | *(→ `BULB-LAMP-SPARE-CY14-14`)* | Sealed d5270 | d5268 |
+| **`BULB-PROD-Y14-15`** | *(→ `BULB-LAMP-SPARE-CY14-15`)* | Sealed d5270 | d5268 |
+| **`BULB-LAMP-SPARE-CY14-14`** | Sealed spare · from **`BULB-HW-OPEN-CY14-1`** | **`VAC-BENCH-1`** soft peg | d5270 |
+| **`BULB-LAMP-SPARE-CY14-15`** | Sealed spare · from **`BULB-HW-OPEN-CY14-2`** | **`VAC-BENCH-1`** soft peg | d5270 |
+| **`FEAST-PORC-REFLECTOR-CY14-1-FIRED`** | Porcelain dish · **~220 mm OD** · white face · cold | Craft felt tray | d5301 unload |
+| **`FEAST-PORC-REFLECTOR-CY14-2-FIRED`** | Matched #1 · fired | Craft felt tray | d5301 unload |
+| **`FEAST-PORC-REFLECTOR-CY14-3-FIRED`** | Porcelain dish · fired | Craft felt tray | d5301 unload |
+| **`FEAST-PORC-REFLECTOR-CY14-4-FIRED`** | Matched profile · fired | Craft felt tray | d5301 unload |
+| **`BULB-FEAST-PENDANT-MILL-Y14-1`** | Feast drop · **`BULB-FEAST-SOCKET-Y14-10`** · hook + S-link · **~1.0 m** · **unhung** | Craft peg row | d5301 |
+| **`BULB-FEAST-PENDANT-MILL-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-11`** integrated · **unhung** | Craft peg row | d5301 |
+| **`BULB-FEAST-PENDANT-CUBICULUM-Y14-1`** | **`BULB-FEAST-SOCKET-Y14-12`** integrated · **unhung** | Craft peg row | d5301 |
+| **`BULB-FEAST-PENDANT-THERMAE-Y14-1`** | **`BULB-FEAST-SOCKET-Y14-13`** integrated · **unhung** | Craft peg row | d5302 |
+| **`BULB-FEAST-PENDANT-THERMAE-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-14`** integrated · **unhung** | Craft peg row | d5302 |
+| **`BULB-FEAST-PENDANT-CUBICULUM-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-9`** integrated · **unhung** | Craft peg row | d5302 |
+| **`BULB-FEAST-SOCKET-Y14-9`** | *(in `BULB-FEAST-PENDANT-CUBICULUM-Y14-2`)* | Craft peg row | d5302 |
+| **`BULB-FEAST-SOCKET-Y14-10`** | *(in `BULB-FEAST-PENDANT-MILL-Y14-1`)* | Craft peg row | d5301 |
+| **`BULB-FEAST-SOCKET-Y14-11`** | *(in `BULB-FEAST-PENDANT-MILL-Y14-2`)* | Craft peg row | d5301 |
+| **`BULB-FEAST-SOCKET-Y14-12`** | *(in `BULB-FEAST-PENDANT-CUBICULUM-Y14-1`)* | Craft peg row | d5301 |
+| **`BULB-FEAST-SOCKET-Y14-13`** | *(in `BULB-FEAST-PENDANT-THERMAE-Y14-1`)* | Craft peg row | d5302 |
+| **`BULB-FEAST-SOCKET-Y14-14`** | *(in `BULB-FEAST-PENDANT-THERMAE-Y14-2`)* | Craft peg row | d5302 |
+| **`BULB-PROD-Y14-16`** | *(→ `BULB-LAMP-SPARE-CY14-16`)* | Sealed d5271 | d5269 |
+| **`BULB-PROD-Y14-17`** | *(→ `BULB-LAMP-SPARE-CY14-17`)* | Sealed d5271 | d5269 |
+| **`BULB-LAMP-SPARE-CY14-16`** | Sealed spare · from **`BULB-HW-OPEN-CY14-3`** | **`VAC-BENCH-1`** soft peg | d5271 |
+| **`BULB-LAMP-SPARE-CY14-17`** | Sealed spare · from **`BULB-HW-OPEN-CY14-4`** | **`VAC-BENCH-1`** soft peg | d5271 |
+| **`BULB-PROD-Y14-18`** | *(→ `BULB-HW-OPEN-CY14-5`)* | Cork plate · **OPEN** | d5272 |
+| **`BULB-HW-OPEN-CY14-5`** | Open lamp kit · reed · **no vac** | Cork plate @ chem porch | d5272 |
 | **`BULB-PROD-Y14-19`** | Annealed envelope · **glass only** | Chem porch spare peg | d5152 blow |
 | **`BULB-LAMP-STORAGE-WING-Y14-1`** | Sealed · reed **`PENDANT-A`** · **seated @ storage N** · glow rank **3** | Storage wing N | d5019 test |
 | **`BULB-LAMP-STORAGE-WING-Y14-2`** | Sealed · **`PENDANT-B`** · **seated @ storage S** · glow rank **1** | Storage wing S | d5019 test |
@@ -221,6 +259,10 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`SW-STORAGE-LAMP-1`** | Knife switch · storage wing N · **@ N rafter cleat** · **OPEN default** | Storage wing N | d5012 branch |
 | **`SW-STORAGE-LAMP-2`** | Knife switch · storage wing S · **@ S bench cleat** · **OPEN default** | Storage wing S | d5013 branch |
 | **`SW-CHEM-LAB-LAMP-1`** | Knife switch · **chem lab room · both interior lamps** · **@ interior east cleat** · **OPEN default** | `CHEM-LAB-WING-1` | d5013 branch |
+| **`SW-MILLHOUSE-LAMP-1`** | Knife switch · **mill ×2 pendants zone** · **@ peg · uninstalled** · label **`MILL`** | Craft peg row | d5303 forge |
+| **`SW-THERMAE-LAMP-1`** | Knife switch · **thermae ×2 pendants zone** · **@ peg** · label **`THERMAE`** | Craft peg row | d5303 forge |
+| **`SW-CUBICULUM-LAMP-1`** | Knife switch · **cubiculum east** · **@ peg** · label **`CUB-E`** | Craft peg row | d5303 forge |
+| **`SW-CUBICULUM-LAMP-2`** | Knife switch · **cubiculum west** · **@ peg** · label **`CUB-W`** | Craft peg row | d5304 forge |
 | **`EC-1-TAP-BOX-STD-3`** | Tap box #3 · **LAMP-H ×2 / BENCH / motor defer** · **`GRID-TAP-WING-N-1`** | **Officina north door east jamb** | d4808 LIVE |
 | **`BULB-WING-N-LAMP-1`** | Wing north ceiling · **`BULB-FEAST-SOCKET-Y14-3` + reflector + `BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
 | **`BULB-WING-N-LAMP-2`** | Wing south/center · **socket 4 + reflector 2 + bulb B** · **`SW-WING-N-LIGHT-2`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
@@ -383,7 +425,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`SW-CRAFT-FEEDER-1`** | Knife switch · Officina craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
 | **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK-Y13-1` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
 | **`SW-STORAGE-TIE-2`** | Knife switch · **`LEAD-ACID-BANK-Y13-2` ↔ gen bus isolate** | Wheelhouse post tree east | ✓ LIVE d4009 |
-| `SW-KNIFE-BLANK-1` | Knife-switch blank spare | Row SW | d3511 · **×0 @ peg — forge from strip when named** |
+| `SW-KNIFE-BLANK-1` | Knife-switch blank spare · unlabeled paddle | Craft peg row | d5304 refill |
 
 ## Glass and forge working
 

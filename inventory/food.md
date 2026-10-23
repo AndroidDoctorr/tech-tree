@@ -12,7 +12,10 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
+| **`PARCH-EMMER-Y16-1`** | Emmer, parched · quick-cook stash | **~1.02 kg** | Horreum quick-cook peg | d5315 | d5315 parch |
 | **`PARCH-EMMER-Y15-1`** | Emmer, parched · quick-cook stash | **~1.18 kg** | Horreum quick-cook peg | d4950 | d4972 mash |
+| **`EMMER-BULK-Y16`** | Emmer, bulk · Y16 harvest dry | **~2.82 kg** | Horreum A main bay | d5315 | d5315 store |
+| **`BARLEY-BULK-Y16`** | Barley, bulk · Y16 trial | **~0.88 kg** | Horreum A barley bay | d5314 | d5316 tag |
 | **`EMMER-BULK-TAIL-Y10-14`** | Emmer, bulk · graded · **Y10–Y14 bay tails** | **~2.16 kg** | Horreum A main + incoming bays | Y10–Y14 harvests | d5040 sow backup |
 | **`BARLEY-BULK-TAIL-Y10-14`** | Barley, bulk · trial · **Y10–Y14 tails** | **~1.44 kg** | Horreum A barley bay | Y10–Y14 trials | d5040 sow backup |
 | **`PARCHED-EMMER-TAIL-Y13-14`** | Parched emmer · sprint refresh tails | **~0.88 kg** | Horreum snack jar `P-μ-12` | d4221 / d4589 | d4608 |
@@ -34,6 +37,8 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | **`P-18-CHICKPEA-Y13`** | Chickpea · Y13 harvest | **~201 g** | Horreum A pulse bay | d4218 | d4221 |
 | `P-18-CHICKPEA-Y10` | Chickpea · Y10 harvest | ~48 g | Horreum A pulse bay | d3491 | d3492 |
 | **`P-18-CHICKPEA-Y12`** | Chickpea · Y12 harvest | **~201 g** | Horreum A pulse bay | d3851 | d3854 |
+| **`P-17-LENTIL-Y16`** | Lentil · Y16 harvest | **~268 g** | Horreum A pulse bay | d5315 | d5316 rack |
+| **`P-18-CHICKPEA-Y16`** | Chickpea · Y16 harvest | **~286 g** | Horreum A pulse bay | d5316 | d5316 porch |
 | **`P-17-LENTIL-Y15`** | Lentil · Y15 harvest | **~194 g** | Horreum A pulse bay | d4950 | d4956 stew |
 | **`P-18-CHICKPEA-Y15`** | Chickpea · Y15 harvest | **~229 g** | Horreum A pulse bay | d4951 | d4956 stew |
 | **`STEW-Y15-JAR-4956`** | Pulse + emmer stew jar · Y15 sprint | **~0.70 kg** | Cool cellar step | d4956 | d4973 feast |
@@ -60,8 +65,9 @@ All Y7–Y9 pulse bays went to the ground at `SOW-Y10-D2` on d3212 and are empty
 | **`ACORN-ROAST-Y12-1`** | Acorn roast · **`ACORN-LEACH-Y12-1` batch** | **~575 g** | Nut tray | d3787 | d3872 |
 | **`ACORN-ROAST-Y13-1`** | Acorn roast · **`ACORN-LEACH-Y13-1` batch** | **~605 g** | Nut tray | d4236 | d4236 |
 | **`ACORN-ROAST-Y13-2`** | Acorn roast · **`ACORN-LEACH-Y13-2` batch** | **~600 g** | Nut tray | d4236 | d4236 |
-| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~22.2 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y16 lap 1 d5245** | d5253 shell batch |
-| **`ACORN-LEACH-Y16-1`** | Acorn leach · Y16 batch 1 · **soak 1 ⧗ @ ditch W** | **~700 g in sack** | Ditch W flow | d5253 | soak start |
+| **`ACORN-ROAST-Y16-1`** | Acorn roast · **`ACORN-LEACH-Y16-1` soak 1** | **~610 g** | Nut tray | d5282 | d5282 roast |
+| **`ACORN-ROAST-Y16-2`** | Acorn roast · **`ACORN-LEACH-Y16-1` soak 2** | **~615 g** | Nut tray | d5306 | d5306 roast |
+| `ACORN-SHELL-ON` | Acorn, bulk shell-on | **~26.5 kg** | **`NUT-SHELF-EXT-1` west lip** | **Y16 lap 2 d5281** | d5282 soak 2 |
 | **`ACORN-ROAST-Y15-1`** | Acorn roast · Y15 tail batch | **~680 g** | Nut tray | d5253 | d5253 roast |
 
 Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEACH` in [processing.md](../government/procedures/processing.md); the troughs are [infrastructure.md](infrastructure.md).
@@ -134,7 +140,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | `SOAP-Y10-1` | Soap bars · rosemary–thyme · **×4 culina · ×5 thermae · ×4 chem lab** | **×13 bars** | Service pegs *(retcon d4598)* | d3452 | d4598 |
-| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.320 kg** | Lamp jar · culina | d3251 | d5034 hoe + lamp |
+| `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.302 kg** | Lamp jar · culina | d3251 | d5257 lamp |
 | **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.62 kg** | Horreum cool step jar | d3795 | d5030 apron |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
@@ -183,7 +189,8 @@ Closed mash batches **`GRAIN-FERMENT-Y13-2` … `Y16-1`** → journal + matching
 | `OLIVE-BRINE-Y10-1` | Olive, brined · 6–18 mo band | **~1.18 kg fruit** | Crock #2, v1 porch | d3480 | d3872 |
 | **`OIL-Y15-1`** | Olive oil, clear · Y15 lap 1 · **cook live** | **~0.53 L** @ glass rack · **~240 ml @ `P-ξ-5`** | d4945 | d4973 roast |
 | **`OIL-SEDIMENT-Y15-1`** | Olive oil sediment, sealed | **~125 ml** | `AMPHORA-6` foot | d4953 | d4953 |
-| **`OIL-Y15-2`** | Olive oil, crude · Y15 lap 2 · settling | **~0.59 L** @ `AMPHORA-6` cool-step | d4954 | d4954 |
+| **`OIL-Y15-2`** | Olive oil, crude · Y15 lap 2 · settling | **~0.59 L** @ glass settle jar · cool lip | d4954 | d5308 rack |
+| **`OIL-Y16-1`** | Olive oil, crude · Y16 laps 1–3 crush | **~1.75 L** @ `AMPHORA-6` cool-step | d5308 | d5308 press |
 | **`OLIVE-BRINE-Y15-1`** | Olive, brined · snack jar · 6–18 mo band | **~0.39 kg fruit** | **`OLIVE-JAR-Y15-1` · v1 porch** | d4954 | d4964 feast tray |
 | **`OIL-Y14-1`** | Olive oil, clear · Y14 laps 1–3 · **decant ✓ d4593** | **~1.03 L** @ glass rack · **~280 ml @ `P-ξ-5`** | d4580 | d4617 cover wipe |
 | **`OLIVE-BRINE-Y14-1`** | Olive, brined · snack jar · 6–18 mo band | **~1.29 kg fruit** | **`OLIVE-JAR-Y14-1` · v1 porch** | d4576 | d4592 |
@@ -194,7 +201,7 @@ The 6–18 month band is the one real keep window in this file. Y6 is well past 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `SALT-1` | Salt | **~10.80 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d4954 brine |
+| `SALT-1` | Salt | **~8.05 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d5284 brine top |
 | `SPICE-MU-10` | Spice | — | `P-μ-10`, horreum A margin | | — |
 | `MINT-CROCK-1` | Mint | — | Crock | | d3175 |
 
@@ -204,7 +211,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~128.5 kg** | Ice vault | CY14 peak · cap | d5021 stow |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~115.0 kg** | Ice vault | CY14 peak · cap | d5285 coupling |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

@@ -49,6 +49,25 @@ Map: **`CHEM-LAB-WING-1` south bench west bay** · Slated **d3840** · Live **d3
 
 **~1.20 × 0.72 × ~0.92 m** oak frame · **tile-lined interior** · **fire-table tile floor inherited** · rear plenum throat **~118 × 96 mm**. **Duct** — **×8 `TILE-TF` flat liner** *(kaolin floor tile class · not brick · not **`TILE-TR` roof)* · N-wall run ~2.1 m + riser ~0.9 m → chase **LIVE**. **Interior walls** — **×14 `TILE-TF` cut** *(retcon [TILE-TR-TF-FUME-CABINET-Y12.md](../journal/retcons/TILE-TR-TF-FUME-CABINET-Y12.md))*. **Make-up inlet** @ east-door toe **LIVE** · **three-stop blast gate** @ plenum *(slide forged **`NAIL-IRON` ×8**)*. **Glass sash** — marver-blown lite ~1.16 × 0.45 m · ~12 cm working gap. **Smoke proof PASS** d3843 · **SO₂ roast PASS** d3875 · **iron tarnish PASS** d3876 · **distill lane LIVE** · **separation + arsenic immobilization FILED** d3876–3879.
 
+### `POLYMER-LANE-FRAME-CY14-1` — modular pilot frame
+Map: **inside `LAB-FUME-CABINET-1`** · Opened **d5256**
+
+Removable oak rail frame **~1.04 × 0.52 m** · mortise + oak peg · four-zone datum: feed **~0.20 m** · hot cartridge **~0.30 m** · knock-out **~0.20 m** · traps **~0.34 m**. **`TILE-TF` ×2** loose ceramic hot bridge · hot footprint **≥~100 mm** from oak · rear plenum and sash travel clear. Rear clamp rail blank-drilled; metal arms wait for vessel centres. Build slate: [ethanol-butadiene-rd-cy14.md](../plans/ethanol-butadiene-rd-cy14.md).
+
+### `POLYMER-LANE-HOT-MODULE-1` — split heater + cartridges *(phase B · FIRED WIP)*
+Map: **hot zone @ `POLYMER-LANE-FRAME-CY14-1`** · Stoneware fire **d5272 @ `KILN-D`**
+
+| Piece | State | Note |
+|---|---|---|
+| **`POLYMER-LANE-HOT-SHELL-CY14-1`** | **MOUNTED d5273** | Bands latched · blank cart seated |
+| **`POLYMER-LANE-CART-DEHY/BLANK/CPL-CY14-1`** | **FIRED** | **×3** bed cartridges |
+| **`POLYMER-LANE-TC-WELL-CY14-1/2`** | **FIRED** | Inlet + core |
+| **`POLYMER-LANE-RETAINER-SET-CY14-1`** | **×6 FIRED** | Bed discs |
+| **`POLYMER-LANE-HOT-BANDS-CY14-1`** | **LIVE @ forge peg** | Hood dry-fit after cool |
+| **Mount** | **On frame d5273** | Blank cart seated · bands latched |
+| **Commission** | **Runs 1–3 ✓** | **~125 ml** step · run 3 **C₄ assay HIT** |
+| **Next** | **`C4-COUPLING-BENCH`** on **`POLYMER-PILOT-C4-CUT-Y14-5284`** | Char before next hood day |
+
 ### `BITUMEN-POT-1` — bitumen pot
 Map: cart yard
 
@@ -76,7 +95,7 @@ Twin brass tap. Cold filter branch, hot mix.
 ### `CHAR-RETORT-1` — charcoal retort
 Map: pit lane north berm, cell C · Built: d1777
 
-**`MUSKET-FIRE-CRADLE-Y13-1` @ d4224** — oak V-jaws · sand weights · muzzle → berm · **~2.4 m trigger cord** · standoff grammar per d4168.
+**`MUSKET-FIRE-CRADLE-Y13-1` @ d4224** - "Sentanár" · oak V-jaws · sand weights · muzzle → berm · **~2.4 m trigger cord** · standoff grammar per d4168.
 
 ~+15% yield over an open pit.
 
@@ -307,7 +326,7 @@ Map: pool margin N · Built: d2718
 ### `ACORN-DITCH-FLOW-SACK-1`
 Map: ditch W · below `RETT-TROUGH-FLAX-1` rinse lip · ad hoc d4227
 
-**LIVE @ d5253** — **`ACORN-LEACH-Y16-1` soak 1 ~700 g @ ditch W flow** · peg below rinse lip. *(Y14 sack pulled spent d5253.)*
+**LIVE @ d5282** — **`ACORN-LEACH-Y16-1` soak 2 ~705 g @ ditch W flow** · soak 1 roasted **`ACORN-ROAST-Y16-1` ~610 g**.
 
 Both are the **fallback**, not the primary. Running water in the ditch leaches faster than serial still soaks ever will, because a still trough reaches equilibrium and stops working until it is changed. The troughs are for a batch that cannot be watched. See `ACORN-LEACH` in [processing.md](../government/procedures/processing.md).
 
@@ -331,7 +350,7 @@ Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
 ### `AMPHORA-6`
 Map: `OLIVE-PRESS-1` cool-step · Oil
 
-**`OIL-Y15-1` decant ✓ d4953** · clear @ bottle rack · **`OIL-Y15-2` ~0.59 L crude settling** @ cool-step · **`OIL-SEDIMENT-Y15-1` ~125 ml @ foot** · **`OLIVE-BRINE-Y15-1` @ `OLIVE-JAR-Y15-1`**.
+**`OIL-Y15-1` decant ✓ d4953** · clear @ bottle rack · **`OIL-Y15-2` ~0.59 L @ glass settle jar** *(racked d5308)* · **`OIL-Y16-1` ~1.75 L crude @ cool-step** · **`OIL-SEDIMENT-Y15-1` ~125 ml @ foot** · **`OLIVE-BRINE-Y15-1` @ `OLIVE-JAR-Y15-1`**.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -523,6 +542,8 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-33` FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** · **`W-1` north cleared** · trough **empty**.
 
+**`P-RETT-40` ✓ FIBRE CLOSED d5265** — **`HEMP-LINE-Y16-1` ~0.92 kg @ `WOOD-CRATE-6`** · **`W-1` cleared** · **`RETT-TROUGH-HEMP-1` empty**.
+
 ### `RETT-TROUGH-FLAX-1`
 Map: ditch W · Live
 
@@ -536,7 +557,9 @@ Map: ditch W · Live
 
 **`P-RETT-37` ✓ FIBRE CLOSED d4236** — **`FLAX-LINE-Y13-1` ~1.73 kg** · **`ACORN-DITCH-FLOW-SACK-1` empty post batch 2 PASS**.
 
-**`P-RETT-39` ✓ FIBRE CLOSED d4966** — **`FLAX-LINE-Y15-1` ~2.42 kg @ `WOOD-CRATE-6`** · **`W-1` cleared** · **`RETT-TROUGH-FLAX-1` empty**.
+**`P-RETT-39` ✓ FIBRE CLOSED d4966** — **`FLAX-LINE-Y15-1` ~2.42 kg @ `WOOD-CRATE-6`** · **`W-1` cleared**.
+
+**`P-RETT-41` LIVE d5317** — **~15.1 kg green @ ditch W** · slate **`FLAX-FIELD-Y16`** · pull **~10–14 d class**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 

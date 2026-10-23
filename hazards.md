@@ -81,13 +81,13 @@ Player **illness** hazards are **blocked** — do not roll them. Animal illness 
 | Key | Now @ d3094 | Notes |
 |-----|-------------|-------|
 | **rut_tension** | **20** | Per-rut FARM-CARE scare: threshold = `tension × 1_000_000` (20M ⇒ **2.0%**/scare) |
-| **last_breed_day** | **3131** | **Kidded d3191 · ×1 buckling · clean · doe freshened** |
+| **last_breed_day** | **5281** | **Rut HIT d5281 · kid due Feb band** |
 | **pens_separated** | **no** | If **yes** → skip **GOAT-RUT-BREED** |
-| **doe_bred_this_rut** | **yes** | Set **yes** on HIT · resets next Cal-Y · **d3868** |
+| **doe_bred_this_rut** | **yes** | **d5281** · resets next Cal-Y |
 | **COVERED-WAGON-1 wear** | **26** | 0–100 · iron rims d1877 · tune **d2917** |
-| **Norima service wear** | **14** | **d5251 pozz laden return** |
+| **Norima service wear** | **10** | **d5311 tune −6** |
 | **Norima fatigue wear** | **13** | **d4617 overhaul close** |
-| **Norima margin haul parity** | **0** | **`WAGON-V2-TUNE-5218`** |
+| **Norima margin haul parity** | **0** | **`WAGON-V2-TUNE-5311`** |
 | **mishap_pool** | **0** | **d4552 intake tie POP · reset** |
 | **last_hazard_audit** | **d3118** | **MISHAP-POOL-DOCTRINE-Y9 · pool retired for routine days** |
 
