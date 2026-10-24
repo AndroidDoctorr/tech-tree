@@ -40,7 +40,7 @@ Map: chem porch east cheek · Built: d2742
 Slip jars ranked; fire-table pegs cleared.
 
 ### `VAC-BENCH-1` — mercury vacuum bench *(frame + pan LIVE)*
-Map: **chem porch north cheek** · **`VAC-BENCH-SITE-Y14-1`** · Opened **d4454**
+Map: **chem porch north cheek** · **`VAC-BENCH-SITE-Y14-1`** · Opened **d4454** · **duck awning ✓ d5336**
 
 Oak **bolt-down frame** (`VAC-BENCH-FRAME-Y14-1`) per d4453 stake — column sill notch · cork-plate cleats. **`VAC-BENCH-PAN-Y14-1`** — **~0.72 × 0.55 m** lead-lined floor pan · **25 mm oak lip** · **NW sump**. **`VAC-BENCH-MANIFOLD-Y14-1`** — oak block · **`AIR-PUMP-2` @ shelf clamp** · column stub capped · **`P-LAB-STOPCOCK-1` bleed** · **`VAC-BENCH-CORK-PLATE-Y14-1`**. ✓ **Rough vac trial PASS d4455** — partial vac · cork-limited hold. ☠ **Spill containment only until Hg loop commissioned** · **`LAB-FUME-CABINET-1` blast-gate stop 3** when distill/Hg work starts. **`VAC-COLUMN-Y14-1`** — **mounted @ column stub** *(d4463)*. **`VAC-CISTERN-DISH-Y14-1`** — **@ lead pan sump · dry**. ✓ **Dry assembly LIVE** — **no Hg**. **`VAC-FALL-TRAP-Y14-1`** + **`VAC-FALL-HEADER-Y14-1`** *(d4466)* — trap plumbed above cistern. ✓ **`VAC-HG-LOOP-Y14-1` ~200 g** charged d4467 · ✓ **first fall test PASS d4467** — holds **~680 mm** class · beats rough pump on cork · ✓ **`VAC-FALL-OSCILLATOR-Y14-1`** long run **PASS d4468** — **~247 falls / ~10 h** · **~705 mm** hold · cork candle **~120 s** class · **not room blackout yet** trials. ⚑ **Long fall · envelope · bulb**.
 
@@ -215,6 +215,11 @@ Map: officina · Built: d3203
 
 Bitumen oak bath. Bell A H₂ ~0.9 L, Bell B O₂ ~0.45 L — **full, about 85 s of flame**. Guides, hoods, keyed dip-tube lines, pinch clamps, fill line marked.
 
+### `OFFICINA-EAST-MUDROOM-1` — craft entry rain hood
+Map: **`CRAFT-WING-1` east jamb @ `SW-CRAFT-FEEDER-1`** · Opened **d5336**
+
+Light oak frame · board deck diaphragm · **duck canvas roof** *(TR upgrade defer)* · sheds splash on feeder cleat.
+
 ### `GASHOLDER-2`
 Map: craft wing · ~60% built · Last: d3209
 
@@ -268,6 +273,24 @@ The prime mover. Belt tree live off it.
 Temporary entry apron + side cheeks raised loaded speed **~8.9 → ~9.7 rpm** and generator peak step **~2.18 → ~2.30 GB·I class**. **First upgrade:** permanent apron / cheek close. Curved removable bucket trial is incremental; the large gain requires carrying head to a terminal drop (near-level flume or large penstock) and then a crossflow-class runner.
 
 **Head + torque survey d5029:** forebay operating surface → tailrace **~7.15 m gross static** · proposed near-wheel headbox → tailrace **~6.70 m static / ~6.6 m design net** · present wheel water-surface drop only **~0.85 m**. Prony brake: existing **~8.9 rpm · ~330 N·m · ~0.31 kW shaft**; temporary apron / cheeks **~9.7 rpm · ~350 N·m · ~0.36 kW**. Costed upgrade plan: [ww-2-power-upgrade.md](../plans/ww-2-power-upgrade.md).
+
+**✓ Crossflow design issued d5379:** **Route A** contour **138 m** · headbox **`WW-2-CROSSFLOW-HEADBOX-1`** · runner **`WW-2-CROSSFLOW-RUNNER-1`** **274×228 mm · ×20 blades · ø32 mm shaft · ~262 rpm @ ~18 L/s** · **H_net ~6.36 m** · reduction **~25.7:1** to **~10.2 rpm** mechanical. Full issue: [ww-2-crossflow-design-y15.md](../plans/ww-2-crossflow-design-y15.md).
+
+**✓ Off-line fab d5380:** **`CROSSFLOW-LAYOUT-1`** @ WW yard slab · **`CROSSFLOW-SHAFT-1`** **ø32.15 mm** journals · **418 mm** CL–CL @ rack.
+
+**✓ d5385:** **`BRONZE-BUSH-WW2-2`** **×2** · ID **32.2 mm** · **~720 g** @ WW yard rack · dry-fit **PASS**.
+
+**✓ d5388:** **`CROSSFLOW-SHAFT-1`** scraped **ø32.05 mm** · **`CROSSFLOW-DISC-1`** **~1.62 kg** *(one ring / forge day)*.
+
+**✓ d5390:** **`CROSSFLOW-BLADE-SET-1`** **×20** @ peg · **not riveted**.
+
+**✓ d5391:** **`CROSSFLOW-DISC-2`** **~1.58 kg** · pair matched **PASS**.
+
+**✓ d5393:** **`WW-2-CROSSFLOW-RUNNER-1`** stacked @ rack · **×40** BC rivets · hand spin **PASS** · ⚑ **nozzle dry-fit · bench spin**.
+
+**✓ d5399:** **`WW-2-CROSSFLOW-RUNNER-TWEAK-5399`** — blade seat audit · **×4** re-rivet · OD runout **~1.2 → ~0.9 mm** · hand spin **PASS**.
+
+**✓ d5395:** **`CROSSFLOW-NOZZLE-LAYOUT-1`** · **`CROSSFLOW-HEADBOX-MOCK-1`** **~55%** · **`CROSSFLOW-NOZZLE-WAYS-1`** lap 1 · **`CROSSFLOW-NOZZLE-2CELL-1` WIP ~35%**.
 
 **✓ `WW-2-ENTRY-APRON-1` LIVE d5030:** tapered oak throat · close side cheeks · removable debris lip · existing FS keys, **no blocks**. Commission **~9.6 rpm · ~348 N·m · ~0.35 kW shaft** · ~14% above baseline · bypass and axle service clear.
 
@@ -345,12 +368,12 @@ Trough flushed, drain clear.
 ### `AMPHORA-5`
 Map: — · Vinegar
 
-Holds `VINEGAR-Y6-1` with the Y8 fork top-up. Mother live in a separate crock.
+Holds **`VINEGAR-WORKING-1`** (~4.9 L class · consolidate d5327). Mother live in a separate crock.
 
 ### `AMPHORA-6`
 Map: `OLIVE-PRESS-1` cool-step · Oil
 
-**`OIL-Y15-1` decant ✓ d4953** · clear @ bottle rack · **`OIL-Y15-2` ~0.59 L @ glass settle jar** *(racked d5308)* · **`OIL-Y16-1` ~1.75 L crude @ cool-step** · **`OIL-SEDIMENT-Y15-1` ~125 ml @ foot** · **`OLIVE-BRINE-Y15-1` @ `OLIVE-JAR-Y15-1`**.
+Crude lap idle · clear **`OIL-OLIVE-CLEAR-1` @ rack + `P-ξ-5`** · sediment **`OIL-OLIVE-SEDIMENT-1` @ foot + side cups** · porch **`OLIVE-BRINE-FOOD-1`** · rinse as needed.
 
 ### `AMPHORA-7`
 Map: cold tap branch · Built: d2567
@@ -370,7 +393,7 @@ Map: horreum A margin ghost · Built: d2744
 ### `BARREL-5-FERMENT`
 Map: **horreum A margin ghost** · Built: d3895 · **✓ finished d3896**
 
-**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **`GRAIN-FERMENT-Y15-2` ~10 L day 0 LIVE d4959** @ horreum A margin.
+**~25–30 L class** · spirit/beer lane · **×4 iron hoops** · **BUNG-TAP-4 breath bung** · **food-oil interior** · **leak weir PASS** · **empty rinsed post `GRAIN-DISTILL-Y17-1` d5343** @ horreum A margin.
 
 ### `AMPHORA-10`
 Map: horreum A margin ghost · Built: d2744
@@ -397,17 +420,27 @@ The jar is the fixture and the duty is stable; what is in it right now is [food.
 
 ## Machines
 
-### `TABLE-SAW-1` — powered rip saw
-Map: `FABRICA-CARPENTRY-ALCOVE-1` · Built: d3053
+**Service procedure:** [machine-service.md](../government/procedures/machine-service.md) · preflight every powered session · full service annually or after ~40 powered hero-days.
 
-Powered rip PASS. `TABLE-SAW-ARBOR-1` ~22 mm shaft on ×2 bronze pillows · `TABLE-SAW-BLADE-1` ×28T, balance PASS · `TABLE-SAW-BELT-BRANCH-1` ~11.2 m leather from `WW-2` via idler B · `TABLE-SAW-FENCE-1` sliding oak, cam lock, square to blade · `TABLE-SAW-GUARD-1` splitter and crown hood, throat clear · `TABLE-SAW-COVER-1` oilcloth flap at the open south side · `TABLE-SAW-FRAME-1` roofed with ×19 TR tiles.
+| Plant | Last full service | Live state |
+|---|---|---|
+| `BELT-TREE-1` + reduction boxes | **d5381** | **GREEN** · rated slip ~4% |
+| `LATHE-V2` | **d5381** | **GREEN** · spindle play ~0.06 mm · test-bar TIR ~0.08 mm @ 50 mm |
+| `BORING-MILL-1` | **d5381** | **GREEN** · spindle play ~0.06 mm · RC-10 bore ~10.04 mm |
+| `TABLE-SAW-1` | **d5381** | **GREEN** · ×28 sharpened/reset · splitter square |
+| `DRILL-PRESS-1` | **d5381** | **GREEN** · collar/belt/point serviced |
+
+### `TABLE-SAW-1` — powered rip saw
+Map: `FABRICA-CARPENTRY-ALCOVE-1` · Built: d3053 · Last service: **d5381**
+
+Powered rip PASS. `TABLE-SAW-ARBOR-1` ~22 mm shaft on ×2 bronze pillows · `TABLE-SAW-BLADE-1` ×28T, **sharpened/set d5381**, balance PASS · `TABLE-SAW-BELT-BRANCH-1` ~11.2 m leather from `WW-2` via idler B · `TABLE-SAW-FENCE-1` sliding oak, cam lock, square to blade · `TABLE-SAW-GUARD-1` splitter and crown hood, throat clear · `TABLE-SAW-COVER-1` **duck canvas south flap ✓ d5334** · `TABLE-SAW-FRAME-1` roofed with ×19 TR tiles.
 
 ☠ The guard and splitter are not optional furniture. This is the highest-energy tool on the campus and the only one that can take a hand faster than a reaction.
 
 ### `LATHE-V2-LEADSCREW-1`
-Map: `LATHE-V2` · Built: d2856 · Wear read: d3525 · Gearbox: d3526
+Map: `LATHE-V2` · Built: d2856 · Wear read: **d5381** · Gearbox: d3526
 
-`LS-SCREW-1` plus `LS-HALF-NUT-1`, **~1.02 mm/rev** · backlash **~0.42 mm** @ power nut · **hand + power feed live** · **1:1 BN pitch threading certified d3529** · **`SCREW-LATHE-1` retrofit CLOSED**. **`LATHE-TORQUE-GB-1` LIVE d3553** — **~3:1** · spindle **~58 rpm** reduced · clutch **B**.
+`LS-SCREW-1` plus `LS-HALF-NUT-1`, **~1.02 mm/rev** · backlash **~0.31 mm post-service d5381** · **hand + power feed live** · **1:1 BN pitch threading certified d3529** · **`SCREW-LATHE-1` retrofit CLOSED**. **`LATHE-TORQUE-GB-1` LIVE d3553** — **~3:1** · spindle **~58 rpm** reduced · clutch **B**.
 
 ### `ROPEWALK-1`
 Map: `WW-YARD` long run · Built: d3255
@@ -417,19 +450,19 @@ Geared 3-hook whirler, grooved top, **travelling** far hook, ~40 m pegged run.
 ⚠ **The traveller slot needs about a third of the laid length** — a rope shortens ~25% as it closes. A run pegged to finished length will jam.
 
 ### `DRILL-PRESS-1`
-Map: — · Built: d1894 · Live ~95%
+Map: — · Built: d1894 · Last service: **d5381** · **GREEN**
 
 With `BORE-JIG-1`. Repeat bore to ~0.08 mm class. Upgrade path from `CRANK-DRILL-1`, which is still at `WORKBENCH-1` on a belt stub.
 
 ### `BORING-MILL-1`
-Map: `WORKBENCH-1` east cheek · Opened: d3542 · **LIVE d3553**
+Map: `WORKBENCH-1` east cheek · Opened: d3542 · **LIVE d3553** · Last service: **d5381**
 
 `BORING-MILL-BED-FRAME-1` + **`BASALT-BLOCK-2` wear plate** + **`BORING-MILL-HEADSTOCK-1`** + **`BORING-MILL-SADDLE-1`** + **`BORING-MILL-BELT-BRANCH-1`** @ idler B. First **`RC-10`** scrap bore PASS d3547 · **`BORING-BAR-1` PoC** @ peg. **`MILL-TORQUE-GB-1` LIVE d3553** — direct **~145 rpm** clutch **C** · reduced **~36 rpm** clutch **D**. Brass bar pilots defer.
 
 ### `LATHE-1` and `LATHE-V2`
-Map: `WORKBENCH-1`
+Map: `WORKBENCH-1` · Last service: **d5381** · **GREEN**
 
-`DEAD-CENTER-1` · `SPRING-CENTER-1` · `TOOL-POST-SQUARE-1`. The V2 leadscrew is below.
+`DEAD-CENTER-1` · `SPRING-CENTER-1` · `TOOL-POST-SQUARE-1`. Headstock bush retained after take-up/scrape: spindle play **~0.06 mm** · test-bar runout **~0.08 mm @ 50 mm** · tailstock offset **~0.07 mm**. The V2 leadscrew is above.
 
 ### `WIRE-COATING-RIG-1`
 Map: craft wing · Built: d3232
@@ -509,7 +542,7 @@ Oak fork uprights · **`REBAR-STD-Y13-1` class spit rod** · drip tray · hand q
 ### `BLOCK-BENCH-FRAME-1` — vibratory block press frame *(phase 3)*
 Map: **`BLOCK-BENCH-PAD-1` @ `MATERIARUM-1` SE** · Built: d4926
 
-Oak sill + **×4 legs** · **dual mould nest A/B** for **`BLOCK-MOULD-1/2`** · hub tie to **`BLOCK-BENCH-LINE-SHAFT-1`** · drain to apron gutter. **`BLOCK-BENCH-CAM-1` ✓ d4927** · **`BLOCK-BENCH-HOPPER-1` ✓ d4928** · **`BLOCK-BENCH-EJECT-1` ✓ d4930** · **`BLOCK-BENCH-PIT-CHUTE-1` ✓ d5066** · gate wear **`BLOCK-BENCH-GATE-WEAR-CY14-1` ✓ d5066** · **✓ ×8 trial d4931** · **×16 sprint d4941 / d5065** *(cadence tune d5066)*
+Oak sill + **×4 legs** · **dual mould nest A/B** for **`BLOCK-MOULD-1/2`** · hub tie to **`BLOCK-BENCH-LINE-SHAFT-1`** · drain to apron gutter. **`BLOCK-BENCH-CAM-1` ✓ d4927** · **`BLOCK-BENCH-HOPPER-1` ✓ d4928** · **`BLOCK-BENCH-EJECT-1` ✓ d4930** · **`BLOCK-BENCH-PIT-CHUTE-1` ✓ d5066** · **`BLOCK-BENCH-BELT-TUNNEL-1` ✓ d5334** *(canvas pit → bench)* · gate wear **`BLOCK-BENCH-GATE-WEAR-CY14-1` ✓ d5066** · **✓ ×8 trial d4931** · **×16 sprint d4941 / d5065** *(cadence tune d5066)*
 
 ## Field and apiary
 
@@ -542,7 +575,7 @@ Map: ditch W · Live
 
 ✓ **`P-RETT-33` FIBRE CLOSED d3786** — **`HEMP-LINE-Y12-1` ~860 g** · **`W-1` north cleared** · trough **empty**.
 
-**`P-RETT-40` ✓ FIBRE CLOSED d5265** — **`HEMP-LINE-Y16-1` ~0.92 kg @ `WOOD-CRATE-6`** · **`W-1` cleared** · **`RETT-TROUGH-HEMP-1` empty**.
+**`P-RETT-40` ✓ FIBRE CLOSED d5265** — **`HEMP-THREAD-Y16-1` ~595 m @ craft peg d5351** · **`W-1` cleared** · **`RETT-TROUGH-HEMP-1` empty**.
 
 ### `RETT-TROUGH-FLAX-1`
 Map: ditch W · Live
@@ -559,12 +592,12 @@ Map: ditch W · Live
 
 **`P-RETT-39` ✓ FIBRE CLOSED d4966** — **`FLAX-LINE-Y15-1` ~2.42 kg @ `WOOD-CRATE-6`** · **`W-1` cleared**.
 
-**`P-RETT-41` LIVE d5317** — **~15.1 kg green @ ditch W** · slate **`FLAX-FIELD-Y16`** · pull **~10–14 d class**.
+✓ **`P-RETT-41` FIBRE CLOSED d5344** — **`FLAX-THREAD-Y16-1` ~1 740 m @ craft peg d5350** · **`W-1` cleared** *(thistle Y16 heads separate)* · **`RETT-TROUGH-FLAX-1` empty**.
 
 The old mud pool is **retired**. The dual trough plus rinse branch runs the two fibres in parallel, which the single pool could not. Live arcs are [crops.md](crops.md); finished line is [resources.md](resources.md).
 
 ### `FURNACE-2` — melt furnace *(build)*
-Map: Fabrica **south court** · **`FORGE-D`** lean-to margin · Opened **d3658**
+Map: Fabrica **south court** · **`FORGE-D`** lean-to margin · Opened **d3658** · **`FABRICA-SOUTH-COURT-GUTTER-SW-1` ✓ d5335** *(SW channel → drain box)*
 
 **Common datum:** **900 × 900 × 150 mm** @ plan d3586 · **✓ `MUFFLE-1` LIVE d3777** — empty heat PASS · TC seated · **`FURNACE-2`** shell separate · **`CAST-IRON-BUTTON-Y12-1`**
 
@@ -595,7 +628,7 @@ Brush, straw, shive pack.
 ### `NITRE-BED-COVER-1`
 Map: north lee · Built: d3223
 
-Dark sun-side cover over `NITRE-BED-1`.
+Dark sun-side cover over `NITRE-BED-1` · **canvas overdeck on shake lean ✓ d5336**.
 
 ## Trail and outposts
 

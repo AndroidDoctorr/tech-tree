@@ -7,7 +7,7 @@ Block shape, as [infrastructure.md](infrastructure.md). Fittings are listed unde
 ---
 
 ## `WAGON-V2-CHASSIS-1` — **Norima**
-Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 14 · fatigue 13** *(effective ~18)* · Last out: **d5254 wood** · Last overhaul: **d4617** · Last tune: **d5218** · **Margin haul 1/2** · **Default bed ~250 kg d5206**
+Map: `CART-YARD` south · Status: **HOME · under cover** · **Service 8 · fatigue 13** *(effective ~13)* · Last out: **d5387 ice** · Last overhaul: **d4617** · Last tune: **d5384** · **Margin haul 1/2** · **Default bed ~250 kg d5206**
 
 **Two axles · four wheels · team-drawn wagon** — not a hand cart. Running gear closed d3066 · retcon [WAGON-V2-RUNNING-GEAR-AXLE-Y9](../journal/retcons/WAGON-V2-RUNNING-GEAR-AXLE-Y9.md). **×4 forge-shrunk iron tyre d4068–4069 · wobble ~0.7 mm class · `WAGON-V2-RIM-SET-1` ✓**
 
@@ -38,7 +38,7 @@ Bulk dry aft. Ice kit stowed, wet rig staged.
 | ID | Fitting | State |
 |---|---|---|
 | `WAGON-V2-LEAF-SPRING-ST-SPR-1` | Leaf spring packs ×2 · **`ST-SPR-1` · oil quench · mounted d4065** | ✓ **LIVE · replaces wrought `LEAF-SPRING-1`** |
-| `WAGON-V2-COVER-ARCH-1` | Cover arch — chassis · ribs · ridge · hoops · braces | ✓ **cover mounted · outer oilcloth d3408** |
+| `WAGON-V2-COVER-ARCH-1` | Cover arch — chassis · ribs · ridge · hoops · braces | ✓ **cover mounted · outer oilcloth refresh d5352** |
 | `WAGON-REAR-HITCH-1` | Pintle receiver at tail · latch · safety chain | Pod ghost PASS |
 | `WAGON-LANTERN-HOOK-1` | Lantern hook, cover arch fore rib · portable lantern swap | Live |
 | `WAGON-DASH-SHELF-1` | Dash shelf, driver bench rail · wick tin · wrench ghost | Live |

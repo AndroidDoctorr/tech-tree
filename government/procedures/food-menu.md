@@ -140,7 +140,11 @@ Ingredient and recipe reference. **Quantities live in [inventory.md](../../inven
 | Plate | Ingredients | Eat |
 |-------|-------------|-----|
 | **Yule goose roast** | Dawn bow-hunt · salt · coriander · garlic | **Tonight** · smoke remainder only |
-| **Yule ten-course** | Posca · goose · emmer mash · stew · smoked fish · snail · olives · pistachio · leather · mint tea | **The evening** |
+| **Yule ten-course** | Posca · goose · emmer mash · stew · smoked fish · snail · olives · pistachio · leather · mint tea | **The evening** *(legacy mash/fish — **superseded Cal-Y14**)* |
+| **`STOCK-PILAF-EMMER-Y14-1`** *(Cal-Y14 Yule)* | **Deer bone stock · emmer pilaf · olive oil finish · pistachio · mint** — **replaces parched mash** on the board | **✓ d5338** |
+| **`TARATOR-SMOKE-FISH-Y14-1`** *(Cal-Y14 Yule)* | **Pistachio paste · garlic · vinegar · oil whip · smoked flake** — **replaces plain fish rewarm** | **✓ d5338** |
+| **Boar gyros plate** | Smoke belly shave · starter flat · mint · clabber · **`GYROS-SPIT-HEARTH-1`** | **✓ Y15 rig · Y14 smoke bank** |
+| **Fig newton** | Fig + honey in emmer oil dough · **d4841 grammar** | **✓ CY13 trial · Y14/Y15 feast** |
 | **Boar-belly rashers + flat** *(Cal-Y13 Yule · planned)* | Belly trim from **`BOAR-SMOKE-Y15-1` / hunt line** · salt cure · cold smoke · oil crisp · sourdough flat · herb · optional rennet slice | **Prep feast-eve class · eat Yule** |
 | **Honey fritters** *(Cal-Y13 Yule · planned)* | Emmer batter · **oil fry** · **`HONEY-STRAINED-Y13-1` drizzle** | **Same evening · hot** |
 | **Harvest hero stew** | P-17 · P-18 · emmer · smoke flake · vinegar · tallow · thyme | **That dinner** |

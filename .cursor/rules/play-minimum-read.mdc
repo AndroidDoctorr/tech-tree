@@ -26,6 +26,18 @@ This is a journal, not a code repo.
 
 `obsolete/schedule.md` and `obsolete/ladder.md` are frozen archives. Live clocks are `now.md` + `player-calendar.md`. **Civil year:** [CALENDAR-NAMING.md](../journal/retcons/CALENDAR-NAMING.md) · anchor **d4620 = Cal-Y13 D1** · `python3 sim/cal_year.py --day <d>` · **new IDs `CY13`** · legacy **`-Ynn-` tags frozen** · **year rolls 31 Dec / 1 Jan only** (not Yule).
 
+## Week gate — mandatory every new day
+
+**Seven days per week.** Before writing a day file:
+
+1. Read **`journal/weeks/week-NNN.md`** for the open week (or last closed week + 1).
+2. Count day files already in that week’s folder (`journal/days/.../week-NNN/`).
+3. If the open week already has **7 days** → **close** it on day 7’s file (**`WNNN CLOSE`** in header + Close block) · create **`week-(NNN+1).md`** · new day = **week (NNN+1) day 1** in the **new folder**.
+4. If **≤6 days** → new day = **week NNN day (count+1)** in the **same folder**.
+5. Patch **`now.md`** week + day-of-week to match · append **`journal/weeks/week-NNN.md`** row · fix **index** paths if the file landed in a new folder.
+
+**Do not** stack an 8th day on a week or leave day 7 without a week close when the next calendar day logs.
+
 ## Write
 
 - One fact once. Day file + `now.md` + the inventory row that changed.

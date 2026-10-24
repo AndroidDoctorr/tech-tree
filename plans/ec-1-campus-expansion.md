@@ -44,7 +44,7 @@
 
 ### Officina — one feeder *(done d4987)*
 
-**✓ `OFFICINA-FEEDER-CONSOLIDATE-4987`** — **`GRID-TAP-CRAFT-1` → `GRID-TAP-WING-N-1`** bus tie **~7.2 m 0.5 mm** · **`SW-CRAFT-FEEDER-1` sole entry** · **`FEEDER-3` trunk stripped → Fabrica-1**. Lab + north motor branches unchanged on north tap; **storage wing room lamps** still ⚑.
+**✓ `OFFICINA-FEEDER-CONSOLIDATE-4987`** — **`GRID-TAP-CRAFT-1` → `GRID-TAP-WING-N-1`** bus tie **~7.2 m 0.5 mm** · **`SW-CRAFT-FEEDER-1` sole entry** · **`FEEDER-3` trunk stripped → Fabrica-1**. Lab + north motor branches unchanged on north tap; **phase-1 storage lamps** · **`STORAGE-WING-1`** + **`STORE-4`** · **×1 each** · roster [electric-grid.md](../inventory/electric-grid.md).
 
 **Campus score @ d4987:** **3/3 building buses LIVE** — **Officina** single feeder · **Fabrica** chem + hub entries · **Domus** margin on Officina trunk. **Room fixtures** still ⚑ per Phase 2.
 

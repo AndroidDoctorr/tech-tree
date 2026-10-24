@@ -23,7 +23,7 @@ Y16 sow **d5040** · Y16 harvest **d5314–5317** · prior Y15 harvest **d4949�
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y16` | Flax, field · fibre | Bed B centre · **~16 m²** | d5040 | **✓ PULLED d5317 · `P-RETT-41` LIVE** |
+| `FLAX-FIELD-Y16` | Flax, field · fibre | Bed B centre · **stubble** | d5040 | **✓ `P-RETT-41` FIBRE CLOSED d5344** |
 | `EMMER-Y16` | Emmer | Bed B south + centre · **~10 m²** | d5040 | **✓ CUT d5314 · stubble** |
 | `BARLEY-TRIAL-Y16` | Barley trial · **expanded** | Bed B east margin · **~4 m²** | d5040 | **✓ CUT d5314 · stubble** |
 | `P-17-LENTIL-Y16` | Lentil | Bed B north + margin · **~6 m²** | d5040 | **✓ CUT d5315 · stubble** |
@@ -58,5 +58,5 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 |---|---|---|---|---|
 | **`P-RETT-33`** | Hemp Bed A Y12 | — | d3770 | **✓ CLOSED d3786** |
 | **`P-RETT-36`** | Hemp Bed A Y13 | — | d4111 | **✓ FIBRE CLOSED d4236** |
-| **`P-RETT-40`** | Hemp Bed A Y16 | — | d5253 | **✓ FIBRE CLOSED d5265** · **`HEMP-LINE-Y16-1`** |
-| **`P-RETT-41`** | Flax Bed B Y16 | **`RETT-TROUGH-FLAX-1` · ditch W** | d5317 | **LIVE · ~15.1 kg green · pull ~10–14 d class** |
+| **`P-RETT-40`** | Hemp Bed A Y16 | — | d5253 | **✓ FIBRE CLOSED d5265** · **`HEMP-THREAD-Y16-1` ✓ d5351** |
+| **`P-RETT-41`** | Flax Bed B Y16 | — | d5317 | **✓ FIBRE CLOSED d5344** · **`FLAX-THREAD-Y16-1` ✓ d5350** |

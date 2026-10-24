@@ -46,7 +46,7 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 
 **Current:** forebay civil LIVE · short outlet culvert still feeds the descending open race · entry apron + full curved bucket set deliver **~0.41 kW shaft**.
 
-**Next:** freeze conduit losses and preserved-head alignment; build crossflow runner off-line; cut over when iron/bronze runway and route survey PASS.
+**Next:** **off-line fab** per [ww-2-crossflow-design-y15.md](ww-2-crossflow-design-y15.md) · shaft → bronze → discs/blades → dry spin; civil Route A @ summer nadir.
 
 **Plan:** [ww-2-power-upgrade.md](ww-2-power-upgrade.md)
 
@@ -60,7 +60,7 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 - ⧗ **`LEAD-ACID-BANK-Y13-1/2`** — daily storage read
 - ⚠ **`VITRIOL-HEAP-1`** — last recorded turn **d4752** · inspect/turn on first Kisecik-compatible run
 - ⧗ **`P-03-REGEN-Y12-1` @ T-2** — **`P-03-SEL-Y9` ~13 g hold**
-- **`HEMP-LINE-Y16-1` ~0.92 kg** — **`P-RETT-40` ✓ d5265** · spin defer
+- **`HEMP-THREAD-Y16-1` ~595 m** — spun d5351 · **`HEMP-LINE-Y13-1` ~0.32 kg tail** still @ crate
 - ⧗ **`ACORN-SHELL-LEACH-START-Y16-5253`** — clock from farm-process day
 - ⟳ **`SPIN-WHEEL-2` evenness + splicing** — short daily when named
 - ⟳ **Apiary HOME daily** — mid-day read grammar · **`HIVE-3` holding**
@@ -73,7 +73,7 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 2. **C₄ coupling repeat / polymer tune** — **`C4-COUPLING-STOCK`** assay runway · **char retort** · optional pilot lap on **5277/5283** jars. [ethanol-butadiene-rd-cy14.md](ethanol-butadiene-rd-cy14.md).
 3. **`MATERIARUM-BAY-WALL-1`** — course 2 south extension / stepped legs · [campus-district-master-plan.md](campus-district-master-plan.md).
 4. **`BLOCK-LIFT-G2-*`** — LIFO tail as mortar/wall days need dry blocks.
-5. **`IRON-BLOOM` smelt laps** — **`IRON-BLOOM-1` ~7.99 kg** · crossflow needs **~12–20 kg** iron class bank.
+5. **`WW-2-CROSSFLOW` off-line parts** — **`CROSSFLOW-SHAFT-1` ✓ d5380** · **`IRON-BLOOM-1` ~13.22 kg** · powered machine line **GREEN d5381** · bronze bushes next.
 6. **`WW-2-CROSSFLOW`** / turbine bench — [ww-2-power-upgrade.md](ww-2-power-upgrade.md) · [industrial-mech-drive-cy14.md](industrial-mech-drive-cy14.md) phase 1 when metal runway.
 7. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — tin bearing before Kozan trip.
 8. **Break ground when PASS:** **`G2-FOOTING-POUR-MS1`** · dig loop **~28 m** *(d5074 south leg counts)* — **no crane pads**.

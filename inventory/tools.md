@@ -96,7 +96,7 @@ Smoothbore musketoon · field-proven **d4240** · ammo bank + bandolier grammar 
 | **`ST-AXE-1`** | Felling axe · `CS-BAR-Y12-1` head **~350 g** · case-hardened edge · ash haft | M2 forge peg · haul kit | **edge GREEN · svc d4306 sharpen** |
 | `IRON-AXE-1` | Felling axe · wrought head **~340 g** · **carburized edge ~Y10** · ash haft | M2 forge peg | Backup · **edge GREEN · svc d4306 sharpen** |
 | **`IRON-ADZE-1`** | Timber adze · **~115 g** · batten class | M2 peg rail | **edge GREEN · svc d4492** |
-| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d5034** |
+| **`IRON-HOE-1`** | Field hoe | M2 peg rail | **edge GREEN · svc d5396** |
 | **`IRON-CHISEL-1`** | Cold chisel · stone dress | M2 peg rail | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-2`** | Wood chisel · primary | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
 | **`IRON-WOOD-CHISEL-3`** | Wood chisel · backup | `WORKBENCH-1` peg | **edge GREEN · svc d4492** |
@@ -210,70 +210,89 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`BULB-PROD-Y14-6`** | Production lamp · **tipped d4846** | *(→ `BULB-LAMP-WING-N-2`)* | d4846 |
 | **`BULB-PROD-Y14-10`** | *(→ `BULB-LAMP-SPARE-CY14-10`)* | — | d5024 tip |
 | **`BULB-PROD-Y14-11`** | *(→ `BULB-LAMP-SPARE-CY14-11`)* | — | d5024 tip |
-| **`BULB-LAMP-SPARE-CY14-10`** | Sealed spare · **`BULB-PROD-Y14-10`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
+| **`BULB-LAMP-SPARE-CY14-10`** | *(→ **`BULB-FABRICA-COURT-LAMP-Y14-1`**)* | Fabrica south court | d5329 seat |
 | **`BULB-LAMP-SPARE-CY14-11`** | Sealed spare · **`BULB-PROD-Y14-11`** · @ vac soft peg | **`VAC-BENCH-1`** | d5024 |
 | **`BULB-PROD-Y14-12`** | *(→ `BULB-LAMP-SPARE-CY14-12`)* | — | d5025 tip |
 | **`BULB-PROD-Y14-13`** | *(→ `BULB-LAMP-SPARE-CY14-13`)* | — | d5025 tip |
-| **`BULB-LAMP-SPARE-CY14-12`** | Sealed spare · **`BULB-PROD-Y14-12`** · short-stem class | **`VAC-BENCH-1`** soft peg | d5025 |
-| **`BULB-LAMP-SPARE-CY14-13`** | Sealed spare · **`BULB-PROD-Y14-13`** | **`VAC-BENCH-1`** soft peg | d5025 |
+| **`BULB-LAMP-SPARE-CY14-12`** | *(→ **`BULB-MILLHOUSE-LAMP-Y14-1`**)* | `MILLHOUSE-2` | d5323 seat |
+| **`BULB-LAMP-SPARE-CY14-13`** | *(→ **`BULB-MILLHOUSE-LAMP-Y14-2`**)* | `MILLHOUSE-2` | d5323 seat |
 | **`BULB-PROD-Y14-14`** | *(→ `BULB-LAMP-SPARE-CY14-14`)* | Sealed d5270 | d5268 |
 | **`BULB-PROD-Y14-15`** | *(→ `BULB-LAMP-SPARE-CY14-15`)* | Sealed d5270 | d5268 |
-| **`BULB-LAMP-SPARE-CY14-14`** | Sealed spare · from **`BULB-HW-OPEN-CY14-1`** | **`VAC-BENCH-1`** soft peg | d5270 |
-| **`BULB-LAMP-SPARE-CY14-15`** | Sealed spare · from **`BULB-HW-OPEN-CY14-2`** | **`VAC-BENCH-1`** soft peg | d5270 |
-| **`FEAST-PORC-REFLECTOR-CY14-1-FIRED`** | Porcelain dish · **~220 mm OD** · white face · cold | Craft felt tray | d5301 unload |
-| **`FEAST-PORC-REFLECTOR-CY14-2-FIRED`** | Matched #1 · fired | Craft felt tray | d5301 unload |
-| **`FEAST-PORC-REFLECTOR-CY14-3-FIRED`** | Porcelain dish · fired | Craft felt tray | d5301 unload |
-| **`FEAST-PORC-REFLECTOR-CY14-4-FIRED`** | Matched profile · fired | Craft felt tray | d5301 unload |
-| **`BULB-FEAST-PENDANT-MILL-Y14-1`** | Feast drop · **`BULB-FEAST-SOCKET-Y14-10`** · hook + S-link · **~1.0 m** · **unhung** | Craft peg row | d5301 |
-| **`BULB-FEAST-PENDANT-MILL-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-11`** integrated · **unhung** | Craft peg row | d5301 |
-| **`BULB-FEAST-PENDANT-CUBICULUM-Y14-1`** | **`BULB-FEAST-SOCKET-Y14-12`** integrated · **unhung** | Craft peg row | d5301 |
-| **`BULB-FEAST-PENDANT-THERMAE-Y14-1`** | **`BULB-FEAST-SOCKET-Y14-13`** integrated · **unhung** | Craft peg row | d5302 |
-| **`BULB-FEAST-PENDANT-THERMAE-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-14`** integrated · **unhung** | Craft peg row | d5302 |
-| **`BULB-FEAST-PENDANT-CUBICULUM-Y14-2`** | **`BULB-FEAST-SOCKET-Y14-9`** integrated · **unhung** | Craft peg row | d5302 |
-| **`BULB-FEAST-SOCKET-Y14-9`** | *(in `BULB-FEAST-PENDANT-CUBICULUM-Y14-2`)* | Craft peg row | d5302 |
-| **`BULB-FEAST-SOCKET-Y14-10`** | *(in `BULB-FEAST-PENDANT-MILL-Y14-1`)* | Craft peg row | d5301 |
-| **`BULB-FEAST-SOCKET-Y14-11`** | *(in `BULB-FEAST-PENDANT-MILL-Y14-2`)* | Craft peg row | d5301 |
-| **`BULB-FEAST-SOCKET-Y14-12`** | *(in `BULB-FEAST-PENDANT-CUBICULUM-Y14-1`)* | Craft peg row | d5301 |
-| **`BULB-FEAST-SOCKET-Y14-13`** | *(in `BULB-FEAST-PENDANT-THERMAE-Y14-1`)* | Craft peg row | d5302 |
-| **`BULB-FEAST-SOCKET-Y14-14`** | *(in `BULB-FEAST-PENDANT-THERMAE-Y14-2`)* | Craft peg row | d5302 |
+| **`BULB-LAMP-SPARE-CY14-14`** | *(→ **`BULB-THERMAE-LAMP-Y14-1`**)* | Domus east thermae | d5321 seat |
+| **`BULB-LAMP-SPARE-CY14-15`** | *(→ **`BULB-THERMAE-LAMP-Y14-2`**)* | Domus east thermae | d5321 seat |
+| **`WING-N-PORC-REFLECTOR-1-FIRED`** | Porcelain dish · white face down · **@ `BULB-WING-N-LAMP-1`** | Electronics lab | d4844 mount |
+| **`WING-N-PORC-REFLECTOR-2-FIRED`** | Matched · **@ `BULB-WING-N-LAMP-2`** | Electronics lab | d4844 mount |
+| **`FEAST-PORC-REFLECTOR-CY14-1-FIRED`** | Porcelain dish · **~220 mm OD** · **@ `BULB-CHEM-LAB-LAMP-Y14-1`** | Chem lab | d5301 · mount |
+| **`FEAST-PORC-REFLECTOR-CY14-2-FIRED`** | Matched · **@ `BULB-CHEM-LAB-LAMP-Y14-2`** | Chem lab | d5301 · mount |
+| **`FEAST-PORC-REFLECTOR-CY14-3-FIRED`** | Porcelain dish · **@ `BULB-MILLHOUSE-LAMP-Y14-1`** | `MILLHOUSE-2` | d5301 · mount |
+| **`FEAST-PORC-REFLECTOR-CY14-4-FIRED`** | Matched · **@ `BULB-MILLHOUSE-LAMP-Y14-2`** | `MILLHOUSE-2` | d5301 · mount |
+| **`FEAST-PORC-REFLECTOR-CY14-5-FIRED`** | Porcelain dish · **~220 mm OD** · **@ `BULB-FEAST-LAMP-Y14-1`** | **`CRAFT-WING-1`** | d5346 mount |
+| **`FEAST-PORC-REFLECTOR-CY14-6-FIRED`** | Matched · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d5346 mount |
+
+Room lighting roster + component balance: [electric-grid.md](electric-grid.md).
+
+| **`BULB-FEAST-SOCKET-Y14-1`** | *(in **`BULB-FEAST-LAMP-Y14-1`)* | Officina craft wing | d4558 |
+| **`BULB-FEAST-SOCKET-Y14-2`** | *(in **`BULB-CULINA-LAMP-Y14-1`)* | Domus culina | d4571 |
+| **`BULB-FEAST-SOCKET-Y14-3`** | *(in **`BULB-WING-N-LAMP-1`)* | Electronics lab | d4847 |
+| **`BULB-FEAST-SOCKET-Y14-4`** | *(in **`BULB-WING-N-LAMP-2`)* | Electronics lab | d4847 |
+| **`BULB-FEAST-SOCKET-Y14-9`** | *(in **`BULB-CUBICULUM-LAMP-Y14-2`**)* | Domus west cubiculum | d5321 |
+| **`BULB-FEAST-SOCKET-Y14-10`** | *(in **`BULB-MILLHOUSE-LAMP-Y14-1`**)* | `MILLHOUSE-2` bench bay | d5323 |
+| **`BULB-FEAST-SOCKET-Y14-11`** | *(in **`BULB-MILLHOUSE-LAMP-Y14-2`**)* | `MILLHOUSE-2` lathe bay | d5323 |
+| **`BULB-FEAST-SOCKET-Y14-12`** | *(in **`BULB-CUBICULUM-LAMP-Y14-1`**)* | Domus east cubiculum | d5321 |
+| **`BULB-FEAST-SOCKET-Y14-13`** | *(in **`BULB-THERMAE-LAMP-Y14-1`**)* | Domus east thermae | d5321 |
+| **`BULB-FEAST-SOCKET-Y14-14`** | *(in **`BULB-THERMAE-LAMP-Y14-2`**)* | Domus east thermae | d5321 |
 | **`BULB-PROD-Y14-16`** | *(→ `BULB-LAMP-SPARE-CY14-16`)* | Sealed d5271 | d5269 |
 | **`BULB-PROD-Y14-17`** | *(→ `BULB-LAMP-SPARE-CY14-17`)* | Sealed d5271 | d5269 |
-| **`BULB-LAMP-SPARE-CY14-16`** | Sealed spare · from **`BULB-HW-OPEN-CY14-3`** | **`VAC-BENCH-1`** soft peg | d5271 |
-| **`BULB-LAMP-SPARE-CY14-17`** | Sealed spare · from **`BULB-HW-OPEN-CY14-4`** | **`VAC-BENCH-1`** soft peg | d5271 |
+| **`BULB-LAMP-SPARE-CY14-16`** | *(→ **`BULB-CUBICULUM-LAMP-Y14-1`**)* | Domus east cubiculum | d5321 seat |
+| **`BULB-LAMP-SPARE-CY14-17`** | *(→ **`BULB-CUBICULUM-LAMP-Y14-2`**)* | Domus west cubiculum | d5321 seat |
 | **`BULB-PROD-Y14-18`** | *(→ `BULB-HW-OPEN-CY14-5`)* | Cork plate · **OPEN** | d5272 |
 | **`BULB-HW-OPEN-CY14-5`** | Open lamp kit · reed · **no vac** | Cork plate @ chem porch | d5272 |
 | **`BULB-PROD-Y14-19`** | Annealed envelope · **glass only** | Chem porch spare peg | d5152 blow |
-| **`BULB-LAMP-STORAGE-WING-Y14-1`** | Sealed · reed **`PENDANT-A`** · **seated @ storage N** · glow rank **3** | Storage wing N | d5019 test |
-| **`BULB-LAMP-STORAGE-WING-Y14-2`** | Sealed · **`PENDANT-B`** · **seated @ storage S** · glow rank **1** | Storage wing S | d5019 test |
+| **`BULB-LAMP-OFFICINA-STORAGE-Y14-1`** | Sealed · reed **`PENDANT-A`** · **@ `BULB-OFFICINA-STORAGE-LAMP-Y14-1`** · glow rank **3** | Officina `STORAGE-WING-1` | d5019 test |
+| **`BULB-LAMP-STORE-4-Y14-1`** | Sealed · **`PENDANT-B`** · **@ `BULB-STORE-4-LAMP-Y14-1`** · glow rank **1** | Fabrica `STORE-4` | d5019 test |
 | **`BULB-LAMP-CHEM-LAB-Y14-1`** | Sealed · **`BULB-PROD-Y14-4`** reed · **@ `BULB-CHEM-LAB-LAMP-Y14-1`** | `CHEM-LAB-WING-1` | d5019 seat |
 | **`BULB-LAMP-CHEM-LAB-Y14-2`** | Sealed · **`BULB-PROD-Y14-9`** · **@ `BULB-CHEM-LAB-LAMP-Y14-2`** · glow **~22 s** d5019 | `CHEM-LAB-WING-1` | d5019 tip |
-| **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1` desk** | Craft-wing desk | d4558 |
+| **`BULB-LAMP-POC-Y14-1`** | Sealed lamp · **`BULB-PROD-Y14-2`** · **@ `BULB-FEAST-LAMP-Y14-1`** | Officina craft wing | d4558 |
 | **`BULB-LAMP-POC-Y14-2`** | Sealed lamp · **@ `BULB-CULINA-LAMP-Y14-1`** | Domus culina | d4571 |
 | **`EC-1-TAP-BOX-JIG-Y14-1`** | Tap-box drill/jig · post spacing · fuse bore · **CP-G shutter slide** | Craft wing bench peg | d4561 |
 | **`CP-G-PLUG-PROTOTYPE-Y14-1`** | Fused **CP-G** movable plug · **earth-long · keyed flats · link fuse ~0.5 I** · **~2.4 m cord** | **`WORK-BENCH-N-1` hook** · kit **`CP-G-WING-N-PORTABLE-1`** | d4861 wing station |
 | **`CP-G-WING-N-PORTABLE-1`** | Wing portable kit · plug + clip caddy · **exhaust ON before bench load** | **`WORK-BENCH-N-1`** | d4861 LIVE |
 | **`EC-1-TAP-BOX-STD-1`** | Tap box #1 · **LAMP-H / BENCH** · CP-G shutter · machine lugs | **Domus porticus @ culina entry** · **`GRID-TAP-DOMUS-1`** | d4563 LIVE |
 | **`EC-1-TAP-BOX-STD-2`** | Tap box #2 · same grammar | **Officina south bay** · **`GRID-TAP-CRAFT-2`** | d4563 LIVE |
-| **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · **`BULB-FEAST-SOCKET-Y14-2` + `BULB-LAMP-POC-Y14-2`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d4572 commissioned |
-| **`BULB-FEAST-LAMP-Y14-1`** | Desk pendant · **`BULB-FEAST-SOCKET-Y14-1` + `BULB-LAMP-POC`** · **`SW-FEAST-LAMP-1`** · **~0.9 m drop** @ craft-wing desk | **`CRAFT-WING-1` north bay** | d4558 LIVE |
-| **`SW-STORAGE-LAMP-1`** | Knife switch · storage wing N · **@ N rafter cleat** · **OPEN default** | Storage wing N | d5012 branch |
-| **`SW-STORAGE-LAMP-2`** | Knife switch · storage wing S · **@ S bench cleat** · **OPEN default** | Storage wing S | d5013 branch |
+| **`BULB-CULINA-LAMP-Y14-1`** | Culina pendant · socket **2** · **`BULB-LAMP-POC-Y14-2`** · **`FEAST-PORC-REFLECTOR-CY14-6-FIRED`** · **`SW-CULINA-LAMP-1`** · **commission ✓ d4572** | **Domus culina S** | d5346 reflector |
+| **`SW-CULINA-LAMP-1`** | Knife switch · culina room lamp · **@ north rafter cleat** · **OPEN default** | Domus culina | d4571 |
+| **`BULB-CUBICULUM-LAMP-Y14-1`** | East cubiculum · **`BULB-FEAST-SOCKET-Y14-12` + `BULB-LAMP-SPARE-CY14-16`** · **`SW-CUBICULUM-LAMP-1`** · **commission ✓ d5321** | **Domus east cubiculum** | d5321 |
+| **`BULB-CUBICULUM-LAMP-Y14-2`** | West cubiculum · **`BULB-FEAST-SOCKET-Y14-9` + `BULB-LAMP-SPARE-CY14-17`** · **`SW-CUBICULUM-LAMP-2`** · **commission ✓ d5321** | **Domus west cubiculum** | d5321 |
+| **`BULB-THERMAE-LAMP-Y14-1`** | Tepidarium · **`BULB-FEAST-SOCKET-Y14-13` + `BULB-LAMP-SPARE-CY14-14`** · **`SW-THERMAE-LAMP-1`** · **commission ✓ d5323** | **Domus east thermae** | d5323 |
+| **`BULB-THERMAE-LAMP-Y14-2`** | Caldarium lip · **`BULB-FEAST-SOCKET-Y14-14` + `BULB-LAMP-SPARE-CY14-15`** · **`SW-THERMAE-LAMP-1`** · **commission ✓ d5323** | **Domus east thermae** | d5323 |
+| **`BULB-MILLHOUSE-LAMP-Y14-1`** | Bench bay · socket **10** · **`FEAST-PORC-REFLECTOR-CY14-3-FIRED`** · **`BULB-LAMP-SPARE-CY14-12`** · **`SW-MILLHOUSE-LAMP-1`** · **commission ✓ d5323** | **`MILLHOUSE-2`** | d5323 |
+| **`BULB-MILLHOUSE-LAMP-Y14-2`** | Lathe bay · socket **11** · **`FEAST-PORC-REFLECTOR-CY14-4-FIRED`** · **`BULB-LAMP-SPARE-CY14-13`** · **`SW-MILLHOUSE-LAMP-1`** · **commission ✓ d5323** | **`MILLHOUSE-2`** | d5323 |
+| **`BULB-FEAST-LAMP-Y14-1`** | Craft wing room lamp · socket **1** · **`BULB-LAMP-POC-Y14-1`** · **`FEAST-PORC-REFLECTOR-CY14-5-FIRED`** · **`SW-FEAST-LAMP-1`** · **~0.9 m drop** @ north bay desk | **`CRAFT-WING-1`** | d5346 reflector |
+| **`SW-FEAST-LAMP-1`** | Knife switch · craft wing room lamp · **@ desk cleat** | Officina craft wing | d4558 |
+| **`SW-OFFICINA-STORAGE-LAMP-1`** | Knife switch · **`STORAGE-WING-1` room lamp** · **@ N rafter cleat** · label **`STO-W`** · **OPEN default** | Officina `STORAGE-WING-1` | d5012 |
+| **`SW-STORE-4-LAMP-1`** | Knife switch · **`STORE-4` room lamp** · **@ south jamb cleat** · label **`STO-4`** · **OPEN default** | Fabrica `STORE-4` | d5013 |
+| **`SW-WING-N-LIGHT-1`** | Knife switch · **electronics lab room · both lamps** · **@ cleat 1** · **OPEN default** | North work wing | d4847 LIVE |
+| **`SW-WING-N-LIGHT-2`** | Knife switch · **@ cleat 2 · OPEN · no load** *(built d4847)* | North work wing | d4847 |
 | **`SW-CHEM-LAB-LAMP-1`** | Knife switch · **chem lab room · both interior lamps** · **@ interior east cleat** · **OPEN default** | `CHEM-LAB-WING-1` | d5013 branch |
-| **`SW-MILLHOUSE-LAMP-1`** | Knife switch · **mill ×2 pendants zone** · **@ peg · uninstalled** · label **`MILL`** | Craft peg row | d5303 forge |
-| **`SW-THERMAE-LAMP-1`** | Knife switch · **thermae ×2 pendants zone** · **@ peg** · label **`THERMAE`** | Craft peg row | d5303 forge |
-| **`SW-CUBICULUM-LAMP-1`** | Knife switch · **cubiculum east** · **@ peg** · label **`CUB-E`** | Craft peg row | d5303 forge |
-| **`SW-CUBICULUM-LAMP-2`** | Knife switch · **cubiculum west** · **@ peg** · label **`CUB-W`** | Craft peg row | d5304 forge |
+| **`SW-MILLHOUSE-LAMP-1`** | Knife switch · **mill ×2 zone** · **@ `MILLHOUSE-2` north rafter cleat** · label **`MILL`** | Fabrica millhouse | d5323 |
+| **`SW-FABRICA-COURT-LAMP-1`** | Knife switch · **south court lamp** · **@ post cleat** · label **`COURT`** | Fabrica south court | d5329 |
+| **`SW-FORGE-FAN-1`** | Knife switch · **forge blast assist · `MOTOR-3`** · **@ `FORGE-D` jamb** · label **`FAN`** | Fabrica `FORGE-D` | d5329 |
+| **`BULB-FABRICA-COURT-LAMP-Y14-1`** | South court pendant · socket **15** · **`BULB-LAMP-SPARE-CY14-10`** · **`SW-FABRICA-COURT-LAMP-1`** · **commission ✓ d5329** | Fabrica south court | d5329 |
+| **`BULB-FEAST-SOCKET-Y14-15`** | *(in `BULB-FABRICA-COURT-LAMP-Y14-1`)* | Fabrica south court | d5329 |
+| **`SW-THERMAE-LAMP-1`** | Knife switch · **thermae ×2 zone** · **@ tepidarium lintel cleat** · label **`THERMAE`** | Domus east thermae | d5321 |
+| **`SW-CUBICULUM-LAMP-1`** | Knife switch · **cubiculum east** · **@ east jamb cleat** · label **`CUB-E`** | Domus east cubiculum | d5321 |
+| **`SW-CUBICULUM-LAMP-2`** | Knife switch · **cubiculum west** · **@ west jamb cleat** · label **`CUB-W`** | Domus west cubiculum | d5321 |
 | **`EC-1-TAP-BOX-STD-3`** | Tap box #3 · **LAMP-H ×2 / BENCH / motor defer** · **`GRID-TAP-WING-N-1`** | **Officina north door east jamb** | d4808 LIVE |
-| **`BULB-WING-N-LAMP-1`** | Wing north ceiling · **`BULB-FEAST-SOCKET-Y14-3` + reflector + `BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
-| **`BULB-WING-N-LAMP-2`** | Wing south/center · **socket 4 + reflector 2 + bulb B** · **`SW-WING-N-LIGHT-2`** · **commission ✓ d4847** | **North work wing** | d4847 LIVE |
-| **`BULB-FEAST-SOCKET-Y14-5`** | *(in `BULB-STORAGE-WING-LAMP-Y14-1`)* | Storage wing N | d5015 hang |
-| **`BULB-FEAST-SOCKET-Y14-6`** | *(in `BULB-STORAGE-WING-LAMP-Y14-2`)* | Storage wing S | d5015 hang |
+| **`BULB-WING-N-LAMP-1`** | Ceiling · socket **3** · **`WING-N-PORC-REFLECTOR-1-FIRED`** · **`BULB-LAMP-WING-N-1`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | Electronics lab | d4847 LIVE |
+| **`BULB-WING-N-LAMP-2`** | Ceiling · socket **4** · **`WING-N-PORC-REFLECTOR-2-FIRED`** · **`BULB-LAMP-WING-N-2`** · **`SW-WING-N-LIGHT-1`** · **commission ✓ d4847** | Electronics lab | d4847 LIVE |
+| **`BULB-FEAST-SOCKET-Y14-5`** | *(in `BULB-OFFICINA-STORAGE-LAMP-Y14-1`)* | Officina `STORAGE-WING-1` | d5015 hang |
+| **`BULB-FEAST-SOCKET-Y14-6`** | *(in `BULB-STORE-4-LAMP-Y14-1`)* | Fabrica `STORE-4` | d5015 hang |
 | **`BULB-FEAST-SOCKET-Y14-7`** | *(in `BULB-CHEM-LAB-LAMP-Y14-1`)* | Chem lab · fixture 1 | d5015 hang |
 | **`BULB-FEAST-SOCKET-Y14-8`** | *(in `BULB-CHEM-LAB-LAMP-Y14-2`)* | Chem lab · fixture 2 | d5015 hang |
-| **`BULB-STORAGE-WING-LAMP-Y14-1`** | Storage N · socket 5 · **`SW-STORAGE-LAMP-1`** · **bulb seated · not commissioned** | Storage wing N | d5019 test |
-| **`BULB-STORAGE-WING-LAMP-Y14-2`** | Storage S · socket 6 · **`SW-STORAGE-LAMP-2`** · **bulb seated · not commissioned** | Storage wing S | d5019 test |
-| **`BULB-CHEM-LAB-LAMP-Y14-1`** | Chem lab fixture 1 · **`SW-CHEM-LAB-LAMP-1`** · **bulb seated · not commissioned** | `CHEM-LAB-WING-1` | d5019 seat |
-| **`BULB-CHEM-LAB-LAMP-Y14-2`** | Chem lab fixture 2 · **same switch** · **bulb seated · not commissioned** | `CHEM-LAB-WING-1` | d5019 test |
+| **`BULB-OFFICINA-STORAGE-LAMP-Y14-1`** | N shelf pendant · socket **5** · **`SW-OFFICINA-STORAGE-LAMP-1`** · **commission ✓ d5330** | Officina `STORAGE-WING-1` | d5330 |
+| **`BULB-STORE-4-LAMP-Y14-1`** | Centre rafter pendant · socket **6** · **`SW-STORE-4-LAMP-1`** · **commission ✓ d5330** | Fabrica `STORE-4` | d5330 |
+| **`BULB-CHEM-LAB-LAMP-Y14-1`** | Interior · socket **7** · **`FEAST-PORC-REFLECTOR-CY14-1-FIRED`** · **`BULB-LAMP-CHEM-LAB-Y14-1`** · **`SW-CHEM-LAB-LAMP-1`** · **commission ✓ d5330** | Chem lab | d5330 |
+| **`BULB-CHEM-LAB-LAMP-Y14-2`** | Interior · socket **8** · **`FEAST-PORC-REFLECTOR-CY14-2-FIRED`** · **`BULB-LAMP-CHEM-LAB-Y14-2`** · **same switch** · **commission ✓ d5330** | Chem lab | d5330 |
 | **`WORK-BENCH-N-1`** | North cell bench · **tile tray + ×16 TF backsplash (2 rows)** · limewash oak · earth bonded | **North work wing** | d4848 · splash d4853 |
 | **`WING-N-CABINET-1`** | Closed east cheek cabinet · acid/glass upper · porch overflow loaded | **North work wing** | d4859 loaded |
 | **`WING-N-WEST-SHELF-1`** | Oak bracket shelf · light tools under W window | North work wing west wall | d4859 LIVE |
@@ -302,7 +321,6 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 |---|---|---|---|
 | `RETORT-A` | Thin stoneware acid retort · ~¼ grog | Chem fire-table | **Batch 1 d3317 · etched · spent-rate witness** · foot **1** |
 | `RETORT-B` | Thin stoneware acid retort · ~⅓ grog | Chem fire-table | ✓ **Batch 4 d3878 · ordinary etch · acid reference** · foot **4** |
-| `RETORT-C` · `D` | Thick-wall design trials | Reject stack | ×0 · cracked in stoneware fire d3311 |
 | `RECEIVER-1` | Thin stoneware receiver · loose-neck sand-seal seat | Chem fire-table | Live · rings clean |
 | **`ETHANOL-DEHYD-TUBE-REACTOR-Y14-1`** | Glass tube + crucible beds A/B · **`MUFFLE-1` chase** | Chem fire-table | **✓ LIVE · repack d4632 · run 1 CY13-3** |
 | **`ETHANOL-DEHYD-COLD-TRAP-Y14-1`** | Condenser stub · ice-jar sleeve · dehyd receiver branch | **`LAB-FUME-CABINET-1`** | **✓ LIVE d4598 · leak soak PASS** |
@@ -425,7 +443,7 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | **`SW-CRAFT-FEEDER-1`** | Knife switch · Officina craft-wing feeder isolate | **`CRAFT-WING-1` east jamb** | ✓ LIVE d3976 |
 | **`SW-STORAGE-TIE-1`** | Knife switch · **`LEAD-ACID-BANK-Y13-1` ↔ gen bus isolate** | Wheelhouse gen post | ✓ LIVE d3971 |
 | **`SW-STORAGE-TIE-2`** | Knife switch · **`LEAD-ACID-BANK-Y13-2` ↔ gen bus isolate** | Wheelhouse post tree east | ✓ LIVE d4009 |
-| `SW-KNIFE-BLANK-1` | Knife-switch blank spare · unlabeled paddle | Craft peg row | d5304 refill |
+| `SW-KNIFE-BLANK-1` | Knife-switch blank spare · unlabeled paddle | Craft peg row | **×0 · spent d5329** |
 
 ## Glass and forge working
 
@@ -440,9 +458,16 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 |---|---|---|---|
 | `CULINA-KNIFE-BLOCK-1` | Knife block, ×6 angled oak slots · tallow/beeswax finish | Culina S prep | Live |
 | `CULINA-CUTTING-BOARD-1` | End-grain oak ~38×28 cm · tallow/beeswax wipe | Prep table | Live |
+| **`CULINA-MAG-STRIP-Y15-1`** | Magnetic utensil rail · ×2 opposed-face `MAG-BOOT-EM` bars on soft-iron keeper · ~300 × 32 mm | Culina prep rail | **Live d5367 · three blade-width stations** |
+| **`CULINA-MAG-STRIP-Y15-2`** | Magnetic utensil rail · ×2 opposed-face `MAG-BOOT-EM` bars on soft-iron keeper · ~300 × 32 mm | Culina prep rail | **Live d5367 · three blade-width stations** |
 | `CULINA-WOOD-SPOON-1` | Oak ~22 cm, deep bowl | Culina peg board | Live |
 | `CULINA-WOOD-SPOON-2` | Oak ~18 cm, sauce / taste | Culina peg board | Live |
 | `CULINA-WOOD-SPATULA-1` | Oak ~26 cm, flip lip | Culina peg board | Live |
+| **`CULINA-WHISK-Y14-1`** | Wire loop whisk · iron ferrule · oak ~24 cm | Culina peg board | d5339 |
+| **`CULINA-SPATULA-STEEL-2`** | Steel flip ~9×7 cm · oak handle · riveted tang | Culina peg board | d5339 |
+| **`CULINA-SLOTTED-SPOON-Y14-1`** | Brass pierced disk ~ø68 mm · oak ~28 cm · fry/skimmer | Culina peg board | d5340 |
+| **`CULINA-COLANDER-Y14-1`** | Brass pierced bowl ~ø195 mm · twin oak handles · drain grid | Culina peg board | d5347 |
+| **`CULINA-LADLE-Y14-1`** | Brass stamped bowl ~ø78 mm · oak ~30 cm · stock/soup | Culina peg board | d5341 |
 | `GLASS-CUP-1…4` | Tumblers ~180 ml, matched set | Culina peg band | Live |
 | `SUNGLASS-YULE-1` | Tint spectacles v1 · round brass · vine temples · side guards · **leather pads + tips** · **`TINT-RECIPE-D-Y10`** | Worn | Live · d3436 |
 | **`LOUPE-Y13-1`** | Hand loupe · **~32 mm · ~3× class** · brass hoop · cork grip · clarity disk C ground | Chem lap peg | Live · d4224 |
@@ -480,7 +505,8 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `SCREW-LATHE-IDLER-WHEEL-1` | Idler disc · hornbeam ~38 mm | `LATHE-V2` gearbox | Live · d3528 |
 | `SCREW-LATHE-HN-LEVER-1` | Power half-nut lever · iron arm · bronze face pad | `LATHE-V2` carriage | Live · d3528 |
 | `SCREW-LATHE-THREAD-TOOL-1` | Thread tool post · oak shank @ `TOOL-POST-SQUARE-1` | `LATHE-V2` | ✓ Live · d3529 |
-| `SCREW-LATHE-THREAD-BIT-1` | External thread bit · case-hardened · BN-class 60° | `LATHE-V2` tool post | ✓ Live · d3529 |
+| `SCREW-LATHE-THREAD-BIT-1` | External thread bit · case-hardened · BN-class 60° | `LATHE-V2` tool post | **GREEN · stone d5381** |
+| **`LATHE-TURN-BIT-Y15-1`** | General turning bit · carbon steel · ~10° rake · ~6° clearance · small nose radius | `LATHE-V2` tool tray | **GREEN · forged d5381** |
 | `SCREW-LATHE-TEST-ROD-1` | Power-thread reference rod · BN-06 class · ~28 mm thread | Craft peg | ✓ PASS d3529 |
 | `SCREW-LATHE-HN-LEVER-PATTERN-1` | Half-nut power lever · oak throw pattern | Craft peg | **RETIRED d3528** · lever live |
 | `SCREW-LATHE-GEARBOX-LAYOUT-1` | Gearbox layout mock-up · oak strip | — | **RETIRED d3526** · absorbed into frame |
@@ -492,14 +518,15 @@ Bags are labelled by **what they collect**, not by what is in them — an empty 
 | `BORING-MILL-WAY-N-1` | North way strip · oak + leather on datum | `BORING-MILL-BED-FRAME-1` | Live · d3545 |
 | `BORING-MILL-WAY-S-1` | South way strip · oak + leather on datum | `BORING-MILL-BED-FRAME-1` | Live · d3545 |
 | `BORING-MILL-SADDLE-1` | Oak saddle · iron gib · ~180 mm travel | `BORING-MILL-1` ways | Live · d3545 |
-| `BORING-MILL-GIB-1` | Iron gib · set-screw wipe | `BORING-MILL-SADDLE-1` | Live · d3545 |
+| `BORING-MILL-GIB-1` | Iron gib · set-screw wipe | `BORING-MILL-SADDLE-1` | **GREEN · take-up d5381** |
 | `BORING-MILL-FEED-SCREW-1` | Hand feed screw · ~1.0 mm/rev | `BORING-MILL-SADDLE-1` | Live · d3545 |
 | `BORING-MILL-FEED-NUT-1` | Split bronze-face nut block | `BORING-MILL-SADDLE-1` | Live · d3545 |
 | `BORING-MILL-FEED-HANDLE-1` | Oak T-handle | `BORING-MILL-FEED-SCREW-1` | Live · d3545 |
 | `BORING-MILL-SPINDLE-PULLEY-1` | Hornbeam drive disc ~42 mm · iron boss · crowned | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
 | `BORING-MILL-BELT-BRANCH-1` | Leather cord ~2.2 m · idler B takeoff | `BELT-TREE-1` | Live · d3546 |
 | `BORING-MILL-BELT-QR-1` | Cheek quick-release · local link | `BORING-MILL-HEADSTOCK-1` | Live · d3546 |
-| `BORING-BAR-1` | Boring bar PoC · wrought shank · case tip · `RC-06` tail | Craft peg | ✓ PoC d3547 |
+| `BORING-BAR-1` | Boring bar PoC · wrought shank · replaceable carbon-steel tip · `RC-06` tail | Craft peg | **GREEN · `BORING-BAR-TIP-Y15-1` d5381** |
+| **`BORING-BAR-TIP-Y15-1`** | Replaceable carbon-steel boring tip · ~26 g | `BORING-BAR-1` | **GREEN · forged d5381** |
 | `BORING-MILL-TRIAL-BLOCK-1` | Oak scrap · `RC-10` trial bore | Craft peg | Reference d3547 |
 | `BORING-MILL-LAYOUT-1` | Layout mock-up · oak strip | — | **RETIRED d3543** · absorbed into frame |
 | `LATHE-TORQUE-GB-LAYOUT-1` | Torque gearbox layout mock · oak strip | — | **RETIRED d3552** · absorbed into frame |

@@ -136,7 +136,7 @@ A full **~180 m stave pressure penstock** would require hundreds of kilograms of
 
 ## Phase 4 — two-cell crossflow runner
 
-**Design-ready; materials not yet banked.**
+**✓ Design issued d5379** — frozen dims + Route A civil: [ww-2-crossflow-design-y15.md](ww-2-crossflow-design-y15.md). **Off-line fab GO** · **`IRON-BLOOM-1` ~16 kg** banked.
 
 Design basis:
 

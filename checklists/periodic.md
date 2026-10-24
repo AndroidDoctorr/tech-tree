@@ -74,6 +74,12 @@ Prefer a state trigger to an interval wherever the state is readable. An interva
 | `DECAY-ROSTER-READ` | **Walk `DECAY-ROSTER-1` and refresh last-read dates** — *oil, tallow, varnish, glue, lime, charcoal, cordage, hide, wax, cell liquors* | ☠ **A stock is a quantity TIMES A RATE, and an unread stock has no number** | ★ PAUSE |
 | ☠ ★★★ `RULE-AUDIT` *(added d3313)* | **Walk every filed rule against what was actually DONE.** ⚑ **Each survivor must carry a FIRST ACTION and a DATE, or it is struck** | ☠ ★★★ **Every rule filed in the glow of a discovery is dead; every rule filed while annoyed is alive.** *Understanding is the hard part and the part I enjoy, so a rule written at that moment FEELS finished.* ★★★ **A rule that does not land on a calendar band or a checklist is not filed — it is REMEMBERED** | ☠ **REVERSE** |
 
+## Annual — winter shop
+
+| ID | Check | A miss costs | Neglect |
+|---|---|---|---|
+| `POWERED-MACHINE-SERVICE` | Full lathe · boring mill · drill · saw · belt-tree service per [machine-service.md](../government/procedures/machine-service.md). Fire earlier after ~40 powered hero-days or on a state trigger | Taper, chatter, hot bushes, thrown belts, and inaccurate parts copied into the next machine | ☠ **REVERSE** |
+
 ## Seasonal
 
 | ID | Check | A miss costs | Neglect |

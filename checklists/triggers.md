@@ -56,3 +56,5 @@ Fire on a reading. Where one of these exists, it replaces any interval check for
 | ID | Reading | Do |
 |---|---|---|
 | `CU-CELL-DIAGNOSE` | Cathode comes down spongy | Current density too high for the bath: more area, more stirring, or richer liquor |
+| `MACHINE-SERVICE-STOP` | Hot plain bearing · knock · belt walking off crown · chatter that survives a sharp tool · measurable taper | Isolate power and run [machine-service.md](../government/procedures/machine-service.md). Do not hide misalignment by pushing a dull cutter harder |
+| `MACHINE-PRECISION-GATE` | A precision machining hero is named and the machine has no service read in the last year / ~40 powered hero-days | Test bar / reference cylinder, spindle play, center alignment, backlash, cutter edge before cutting the production part |

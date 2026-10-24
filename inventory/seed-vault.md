@@ -27,10 +27,10 @@ Last full audit **d4674** · **`SEED-RAG-TEST-CY14-5038`** sow-tray roster · Y1
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| **`EMMER-ELITE-Y16`** | Emmer elite · C increase + field strip | **~376 g** reserve hold | Vault jar | Y16 d5314 | **pending rag tray** |
-| **`BARLEY-ELITE-Y16`** | Barley elite · expanded trial | **~52 g** reserve hold | Vault | Y16 d5314 | **pending rag tray** |
-| **`P-17-ELITE-Y16`** | Lentil elite · selection stand | **~51 g** reserve hold | Vault | Y16 d5315 | **pending rag tray** |
-| **`P-18-ELITE-Y16`** | Chickpea elite · selection sort | **~54 g** reserve hold | Vault | Y16 d5316 | **pending rag tray** |
+| **`EMMER-ELITE-Y16`** | Emmer elite · C increase + field strip | **~281 g** reserve hold | Vault jar | Y16 d5314 | **pending rag tray** |
+| **`BARLEY-ELITE-Y16`** | Barley elite · expanded trial | **~27 g** reserve hold | Vault | Y16 d5314 | **pending rag tray** |
+| **`P-17-ELITE-Y16`** | Lentil elite · selection stand | **~13 g** reserve hold | Vault | Y16 d5315 | **pending rag tray** |
+| **`P-18-ELITE-Y16`** | Chickpea elite · selection sort | **~22 g** reserve hold | Vault | Y16 d5316 | **pending rag tray** |
 | **`EMMER-ELITE-Y15`** | Emmer elite · C increase + field strip | **~246 g** reserve hold | Vault jar | Y15 d4949 | **d5038 ~93%** |
 | **`BARLEY-ELITE-Y15`** | Barley elite · expanded trial | **~20 g** reserve hold | Vault | Y15 d4949 | **d5038 ~90%** |
 | **`P-17-ELITE-Y15`** | Lentil elite · selection stand | **~12 g** reserve hold | Vault | Y15 d4950 | **d5038 ~90%** |
@@ -106,7 +106,7 @@ Last full audit **d4674** · **`SEED-RAG-TEST-CY14-5038`** sow-tray roster · Y1
 | ☠ `P-17-ELITE-Y9` | Lentil elite · ☠ **dead d3938** | ×0 | — | Y9 | d3938 |
 | ☠ `P-18-ELITE-Y8` | Chickpea elite · ✓ **regen sown d3576** | ×0 | Vault | Y8 | **d3574** |
 | ☠ `P-17-ELITE-Y8` | Lentil elite · ✓ **regen sown d3576** | ×0 | Vault | Y8 | **d3574** |
-| `P-FAVA-Y10` | Fava, dry · **Y10 working bank** | **~122 g** | Vault | Y10 | **d5038 ~78%** |
+| `P-FAVA-Y10` | Fava, dry · **Y10 working bank** | **~54 g** | Vault | Y10 | **d5038 ~78%** *(~68 g staged · d5396)* |
 | `P-FAVA-WILD-Y14-1` | Fava · wild margin · insurance tail | **~5 g** | Vault | **d4308 scout** | — |
 | **`P-FAVA-WILD-Y16-1`** | Fava · wild margin · insurance tail | **~14 g** | Vault | **d5045 scout** | — |
 | `P-FAVA-ELITE-Y10` | Fava elite · true-black full seed | **~2 g** reserve hold | Vault | Y10 | **d5038 ~81%** |
@@ -118,11 +118,11 @@ Last full audit **d4674** · **`SEED-RAG-TEST-CY14-5038`** sow-tray roster · Y1
 
 | ID | Line | Qty | Where | Harvest | Tested |
 |---|---|---|---|---|---|
-| **`P-07-ELITE-Y15`** | Flax elite · Y15 field pull | **~3 g** reserve hold | Vault | Y15 d4952 | **d5038 ~89%** |
+| **`P-07-ELITE-Y15`** | Flax elite · Y15 field pull | **~3 g** reserve hold | Vault | Y15 d4952 | **d5038 ~89%** *(~7 g staged sow tray · d5396)* |
 | **`HEMP-SEL-Y12`** | Hemp select · ★ **Ghab gen 5 · ~2 g reserve hold** | **~2 g** | SEED-VAULT · linen jar | Y12 cut d3763 | **d4674 ~83%** |
 | `HEMP-SEL-Y10` | Hemp select · ★ **Ghab line · ~4 g reserve hold** | **~4 g** | SEED-VAULT · linen jar | Y10 cut d3381 | **d4306 ~82%** |
 | `HEMP-GHAB-RESERVE-Y10` | Hemp · wild **`P-22` genetics reserve · ~6 g hold** | **~6 g** | SEED-VAULT · linen jar | d3413 gather | **d4306 ~77%** *(NW block sown d4307)* |
-| **`HEMP-GHAB-P22-IMPORT-Y14-1`** | Hemp · **`P-22` import · fibre+flower select** · **`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT` charges** | **~43 g** reserve hold | Vault | d4506 winnow | **d5038 ~85%** |
+| **`HEMP-GHAB-P22-IMPORT-Y14-1`** | Hemp · **`P-22` import · fibre+flower select** · **`FIBRE-SEED` / `FLOWER-SEED` / `DUAL-TRAIT` charges** | **~9 g** reserve hold | Vault | d4506 winnow | **d5038 ~85%** *(~34 g staged · d5396)* |
 | **`P-07-ELITE-Y14`** | Flax elite · Y14 field pull | **~1 g** reserve hold | Vault | Y14 | **d4674 ~91%** |
 | **`P-07-ELITE-Y13`** | Flax elite · Y13 field pull | **~2 g** reserve hold | Vault | Y13 | **d4306 ~90%** |
 | **`P-07-ELITE-Y12`** | Flax elite · Y12 field pull · **~3 g reserve hold** | **~3 g** | Vault | Y12 | **d4306 ~88%** |

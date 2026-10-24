@@ -14,4 +14,4 @@
 | **5016** | **✓ Lamp LAMP-H fuse seats ×3** |
 | **5015** | **✓ Lamp hang ×3 · empty cups** |
 | **5014** | **✓ Nail batch ×24 · hang defer** |
-| **5013** | **✓ Lamp leads day 2 · storage S + chem LIVE** |
+| **5013** | **✓ Lamp leads day 2 · `STORE-4` + chem LIVE** |

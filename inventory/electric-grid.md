@@ -15,8 +15,51 @@ Installed **generation · storage · distribution · grid-fed loads** on the HOM
 | **Master switches** | `SW-CHEM-FEEDER-1` · `SW-CRAFT-FEEDER-1` · `SW-FABRICA-FEEDER-1` · `SW-WING-N-FEEDER-1` deprecated OPEN |
 | **Taps** | `GRID-TAP-CHEM-1` · `GRID-TAP-CRAFT-1` · `GRID-TAP-CRAFT-2` · `GRID-TAP-WING-N-1` · `GRID-TAP-DOMUS-1` · `GRID-TAP-FABRICA-1` |
 | **Tap boxes** | `EC-1-TAP-BOX-STD-1` domus · `STD-2` craft S · `STD-3` wing N · `STD-4` Fabrica |
-| **Motors on bus** | `MOTOR-1` @ chem · `MOTOR-2` @ wing N exhaust |
-| **⚑ unwired** | Fabrica court lamp · forge fan · millhouse *(named on Feeder-Fabrica)* |
+| **Motors on bus** | `MOTOR-1` @ chem · `MOTOR-2` @ wing N exhaust · **`MOTOR-3` @ forge blast assist** *(✓ d5330)* |
+
+### Room lighting roster *(intended install · d5323 close)*
+
+★ **One room lamp knife switch per room** — multi-lamp rooms (**electronics lab · chem · mill · thermae**) use **one switch · both loads on its lugs**. **Feeder/margin masters** (`SW-DOMUS-LIGHT-1`, `SW-CRAFT-FEEDER-1`, `SW-FABRICA-FEEDER-1`, `SW-CHEM-FEEDER-1`) are **not** room switches. **Socket `Y14-n` ≠ spare bulb `CY14-n`.** Cubicula: sockets **9** (west) + **12** (east) — not 9–12.
+
+| Room | Building | Lamps | Reflectors | Room switch | Tap | Commission |
+|---|---|---:|---|---|---|---|
+| **Electronics lab** *(north work wing)* | Officina | **2** | **2** · `WING-N-PORC-REFLECTOR-*` | **`SW-WING-N-LIGHT-1`** | `GRID-TAP-WING-N-1` | ✓ d4847 |
+| **Craft wing** | Officina | **1** | **1** · `FEAST-PORC-REFLECTOR-CY14-5` | **`SW-FEAST-LAMP-1`** | `GRID-TAP-CRAFT-1` | ✓ d4558 |
+| **`STORAGE-WING-1`** | Officina | **1** | — | **`SW-OFFICINA-STORAGE-LAMP-1`** | `GRID-TAP-CRAFT-1` | ✓ d5330 |
+| **Chem lab** | Fabrica | **2** | **2** · `FEAST-PORC-REFLECTOR-CY14-1/2` | **`SW-CHEM-LAB-LAMP-1`** | `GRID-TAP-CHEM-1` | ✓ d5330 |
+| **`MILLHOUSE-2`** | Fabrica | **2** | **2** · `FEAST-PORC-REFLECTOR-CY14-3/4` | **`SW-MILLHOUSE-LAMP-1`** | `GRID-TAP-FABRICA-1` | ✓ d5323 |
+| **South court** | Fabrica | **1** | — *(exterior · no reflector)* | **`SW-FABRICA-COURT-LAMP-1`** | `GRID-TAP-FABRICA-1` | ✓ d5329 |
+| **`STORE-4`** | Fabrica | **1** | — | **`SW-STORE-4-LAMP-1`** | `GRID-TAP-FABRICA-1` | ✓ d5330 |
+| **Culina** | Domus | **1** | **1** · `FEAST-PORC-REFLECTOR-CY14-6` | **`SW-CULINA-LAMP-1`** | `GRID-TAP-DOMUS-1` | ✓ d4572 |
+| **East / west cubiculum** | Domus | **2** *(1 per room)* | — | **`SW-CUBICULUM-LAMP-1/2`** | `GRID-TAP-DOMUS-1` | ✓ d5321 |
+| **East thermae** | Domus | **2** | — | **`SW-THERMAE-LAMP-1`** | `GRID-TAP-DOMUS-1` | ✓ d5323 |
+
+**Feast socket map** — fixture detail in [tools.md](tools.md):
+
+| Socket | Room |
+|---:|---|
+| **1** | Craft wing |
+| **2** | Culina |
+| **3–4** | Electronics lab |
+| **5** | Officina `STORAGE-WING-1` |
+| **6** | Fabrica `STORE-4` |
+| **7–8** | Chem lab |
+| **9** | West cubiculum |
+| **10–11** | Millhouse |
+| **12** | East cubiculum |
+| **13–14** | Thermae |
+| **15** | Fabrica south court |
+
+### Component balance *(feast lamp kit)*
+
+| Class | In service | Spare / stock | Ledger |
+|---|---:|---|---|
+| **Sealed bulbs** | **14** @ fixtures above | **2** · `BULB-LAMP-SPARE-CY14-10/11` @ `VAC-BENCH-1` | [tools.md](tools.md) |
+| **Feast sockets** | **14** · `BULB-FEAST-SOCKET-Y14-1…14` | — | integrated in fixtures |
+| **Room lamp switches** | **10** rows below | — | [tools.md](tools.md) · *electronics lab: `SW-WING-N-LIGHT-2` @ cleat 2 built d4847 · **no load** · room feed is **`SW-WING-N-LIGHT-1` only* |
+| **Pendant flex leads** | branch + drop runs | **`WIRE-CU-LAMP-LEAD-Y16-1`** · **×4 pair @ domus peg** *(domus/mill drops)* | [resources.md](resources.md) |
+| **LAMP-H link fuses** | seated @ branches/taps | **`FUSE-LINK-Y14-1` · ×0 @ pouch** | [resources.md](resources.md) |
+| **Porcelain reflectors** | **6** mounted *(wing ×2 · chem ×2 · mill ×2)* | **×2 green @ rack E/F** | ⚑ **CY14-5/6 dry → fire → mount** |
 
 ---
 
@@ -39,6 +82,8 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 ⚠ **On the water threshold, not over it.** The rewind traded voltage for current at unchanged peak power, which is what a rewind always does. Next step is a finer armature rewind.
 
 > ✓ ★★★ **`GEN-WW-2` LIVE d3310 — SELF-EXCITED, SHUNT-WOUND.** *~4× the magneto output, steady, and none of the sag the steel rods gave after an hour.* ★★★ **The field stopped being something the machine CARRIES and became something it EARNS, for as long as the water runs.** ✓ **×6 `MAG-BOOT-EM` rods freed — no permanent magnet on the machine at all.**
+
+**Mechanical service d5381:** commutator dry-clean · brush spring/track read · belt alignment · no-load field build **PASS** — brushes retained.
 > ★★★ **Coils matched by DIFFERENTIAL WEIGHING, not by counting** — *same wire, same gauge, so equal weight is equal length is equal turns.* ✓ **Cross-tested against each other for a shorted turn** — ☠ **a short between neighbouring turns reads perfectly sound end to end, and will cook.**
 > ☠ ★★★ **IT SITS DEAD FOR ~8 SECONDS ON EVERY START.** *A self-exciting machine looks broken while it is building out of the residual, and nothing distinguishes that from broken except waiting.* ⚑ **`COUNT TWENTY BEFORE YOU DECIDE` — chiselled on the yoke beside the polarity mark.**
 > ⚠ **Not potted. Linen strip between layers, air paths open** — *a shunt field is the one winding that never rests.* ⧗ **Watch coil heat on long runs.**
@@ -69,7 +114,7 @@ Carries `VOLTAIC-8-CELL-1`, one-deep, acid electrolyte. ☠ Not food.
 ### ✓ **`EC-1-GRID-FEEDER-1`** — campus trunk *(d3890)*
 Map: **`WW-2` wheelhouse → craft path → chem porch east** · Built: d3890 · **~5–6 h install class**
 
-**~22 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CHEM-FEEDER-1` @ porch entry** · **`GRID-TAP-CHEM-1`** bench-east bus.
+**~22 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CHEM-FEEDER-1` @ porch entry** · **`GRID-TAP-CHEM-1`** bench-east bus · **feeder awning ✓ d5333**.
 
 | Install | Spec |
 |---|---|
@@ -127,7 +172,7 @@ Map: **`WW-2` wheelhouse post tree east · chem tray B** · Built: d4009 · **~3
 | **Both ties ON** | **Independent float · no cross-feed** |
 
 ### ✓ **`EC-1-GRID-FEEDER-2`** — Officina craft wing trunk *(d3976)*
-Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class**
+Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb** · Built: d3976 · **~6–7 h install class** · **`OFFICINA-EAST-MUDROOM-1` splash hood ✓ d5336**
 
 **~40 m run** · paired **0.9 mm bare** **`WIRE-CU-GEN2-1`** · **`SW-CRAFT-FEEDER-1` @ east entry** · **`GRID-TAP-CRAFT-1` north bay**.
 
@@ -147,15 +192,15 @@ Map: **`WW-2` wheelhouse → campus path → Officina `CRAFT-WING-1` east jamb**
 | **Bank only · gen OFF** | — | **~1.48 GB** |
 | **Run R** | — | **~4.0 R · ~80 m paired 0.9 mm** · **audit ~4.05 R d4565** |
 
-★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle** — **sole Officina building entry d4987** *(craft + storage + north work wing bus)*. ✓ **Domus margin branch d4563** · ⚑ **storage wing room lamps** · ⚑ **Horreum defer**.
+★ **Default: `SW-CRAFT-FEEDER-1` OPEN when bay idle** — **sole Officina building entry d4987** *(craft + **`STORAGE-WING-1`** + north work wing bus)*. ✓ **Domus margin branch d4563** · ✓ **storage wing lamp d5330** · ⚑ **Horreum defer**.
 
 ### ✓ **`EC-1-GRID-FEEDER-FABRICA-1`** — Fabrica hub compound trunk *(d4986–4987)*
 
-Map: **`WW-2` wheelhouse post tree → `WW-HUB-TOWER-1` south apron** · Built: **d4987** · **~44 m paired class** *(reclaim ex-Feeder-3 + pt1 splice)*
+Map: **`WW-2` wheelhouse post tree → `WW-HUB-TOWER-1` south apron** · Built: **d4987** · **~44 m paired class** *(reclaim ex-Feeder-3 + pt1 splice)* · **hub tee drip tray + tail boots ✓ d5333**
 
 **`SW-FABRICA-FEEDER-1` @ hub south cheek** · **`EC-1-TAP-BOX-STD-4`** · **`GRID-TAP-FABRICA-1` LIVE** · **~7.9 GB @ gen ON** · **R ~2.1**.
 
-★ **Separate entry from `EC-1-GRID-FEEDER-1` chem porch** — **two switches · one compound.** Branches (court lamp · forge fan · millhouse) **⚑ named · unwired**.
+★ **Separate entry from `EC-1-GRID-FEEDER-1` chem porch** — **two switches · one compound.** **Hub lamp loads ✓ d5329–5330** · **millhouse ✓ d5323** · **chem lamps ✓ d5330**.
 
 ### ~~**`EC-1-GRID-FEEDER-3`**~~ — trunk **RETIRED d4987** *(copper → Fabrica-1)*
 
@@ -196,13 +241,13 @@ Map: **`GRID-TAP-WING-N-1` → `Z-LIGHT` sleeve 1 → `WING-N-CEILING-CLEAT-1`**
 | **`WAX-Y10-RENDER-1` / `ROSIN-1` / `FLAX-SHIVE-Y8-21`** | **−~16 g / −~8 g / −~14 g** |
 | **`NAIL-IRON`** | **−×8** |
 
-★ **`SW-CRAFT-FEEDER-1` = Officina building master d4987** · **`SW-WING-N-FEEDER-1` DEPRECATED** · **`SW-WING-N-LIGHT-*` = local lamps** · **building + lamp switch OPEN** to glow.
+★ **`SW-CRAFT-FEEDER-1` = Officina building master d4987** · **`SW-WING-N-FEEDER-1` DEPRECATED** · **`SW-WING-N-LIGHT-1` = north work wing room lamp** *(both fixtures)* · **building + room switch OPEN** to glow.
 
 ### ✓ **`EC-1-GRID-BRANCH-WING-N-LIGHT-2`** — centre table lamp *(d4847)*
 
 Map: **`GRID-TAP-WING-N-1` → `Z-LIGHT` sleeve 2 → `WING-N-CEILING-CLEAT-2`** · **`BULB-WING-N-LAMP-2`**
 
-**~4.0 m** paired **0.5 mm** · **`SW-WING-N-LIGHT-2` @ cleat** · **separate branch** · **commission T1–T5 PASS d4847**.
+**~4.0 m** paired **0.5 mm** · **load → `SW-WING-N-LIGHT-1` lugs** · **`SW-WING-N-LIGHT-2` @ cleat 2 · OPEN · no load** · **commission T1–T5 PASS d4847**.
 
 ### ✓ **`EC-1-GRID-BRANCH-WING-N-BENCH-1`** — north bench CP-G *(d4848)*
 
@@ -235,8 +280,8 @@ Map: **`WING-N-EXHAUST-1`** · **`EC-1-GRID-BRANCH-WING-N-MOTOR-1`** · Opened: 
 
 ★ **Portable loads via `CP-G-WING-N-PORTABLE-1`** (`CP-G-PLUG-PROTOTYPE-Y14-1` @ bench hook) — **remove plug when wing idle** · **`WING-N-EXHAUST-1` ON before bench energize** · lead-acid @ north bench only with exhaust running.
 
-### ✓ **`EC-1-GRID-BRANCH-DESK-1`** — craft-wing desk lamp *(d4558)*
-Map: **`GRID-TAP-CRAFT-1` → desk rafter cleat** · **`BULB-FEAST-LAMP-Y14-1`**
+### ✓ **`EC-1-GRID-BRANCH-DESK-1`** — craft-wing room lamp *(d4558)*
+Map: **`GRID-TAP-CRAFT-1` → north bay desk rafter cleat** · **`BULB-FEAST-LAMP-Y14-1`** *(socket **1** · `CRAFT-WING-1`)*
 
 **~1.8 m** paired **0.5 mm** · oak cleats · **`SW-FEAST-LAMP-1` @ cleat** · fuse tail @ tap unchanged · **~6.6 GB class @ tap gen ON**.
 
@@ -293,11 +338,87 @@ Map: **`EC-1-TAP-BOX-STD-1` machine lugs → porticus → culina north rafter @ 
 
 ★ **`SW-DOMUS-LIGHT-1` @ porticus = margin master** · **`SW-CULINA-LAMP-1` = local lamp** · **both OPEN** to energize.
 
-### ✓ **`EC-1-GRID-BRANCH-STORAGE-WING-LIGHT-1`** — storage north shelf lamp *(d5012 · fuse d5016)*
+### ✓ **`EC-1-GRID-BRANCH-CUBICULUM-1`** — cubicula ×2 *(d5321)*
 
-Map: **`GRID-TAP-CRAFT-1` → turris west → storage N rafter** · **`BULB-STORAGE-WING-LAMP-Y14-1`** *(hung d5015 · bulb d5019)*
+Map: **`EC-1-TAP-BOX-STD-1` machine lugs → porticus east → cubiculum corridor → east + west jamb tees**
 
-**~3.5 m** paired **0.5 mm** · **`SW-STORAGE-LAMP-1` @ cleat** · **partial insulate** · **LAMP-H fused d5016** · **not commissioned**.
+**~7.0 m** paired **0.5 mm** · **`SW-CUBICULUM-LAMP-1` / `SW-CUBICULUM-LAMP-2`** · **`BULB-CUBICULUM-LAMP-Y14-1/2`** · **commission ✓ d5321**.
+
+| Materials logged d5321 | |
+|---|---|
+| **`WIRE-CU-LAB-0.5-CY13-1` / `WIRE-CU-GEN2-1`** | **−~6.4 m / −~1.2 m** branch |
+| **`WIRE-CU-LAMP-LEAD-Y16-1`** | **−×2 pair** drops |
+| **`WAX-Y10-RENDER-1` / `ROSIN-1` / `FLAX-SHIVE-Y8-21`** | cleat wrap |
+| **`ST-STR-BAR-Y13-1` tail** | **−~12 g** switches |
+| **`FUSE-LINK-Y14-1`** | **−×2** · **LAMP-H** seats |
+
+★ **`SW-DOMUS-LIGHT-1` master** · **one cubiculum switch OPEN** per lamp · **max ~1.15 I each @ tap label**.
+
+### ✓ **`EC-1-GRID-BRANCH-THERMAE-1`** — east thermae ×2 *(d5321 hang · d5323 commission)*
+
+Map: **porticus south stub → tepidarium lintel → caldarium lip drop**
+
+**~3.8 m** paired **0.5 mm** · **`SW-THERMAE-LAMP-1`** · **`BULB-THERMAE-LAMP-Y14-1/2`** · **insulate + commission ✓ d5323** · **max ~1.25 I combined · LAMP-H** @ domus tap.
+
+| Materials logged d5321 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~4.6 m** draw |
+| **`WIRE-CU-LAMP-LEAD-Y16-1`** | **−×2 pair** |
+| **`ST-STR-BAR-Y13-1` tail** | **−~6 g** |
+
+| Materials logged d5323 | |
+|---|---|
+| **`WAX-Y10-RENDER-1` / `ROSIN-1` / `FLAX-SHIVE-Y8-21`** | steam wrap |
+| **`FUSE-LINK-Y14-1`** | **−×1** · T5 reseat |
+
+### ✓ **`EC-1-GRID-BRANCH-MILLHOUSE-1`** — `MILLHOUSE-2` ×2 *(d5323)*
+
+Map: **`EC-1-TAP-BOX-STD-4` machine lugs → south court cleat → mill north rafter**
+
+**~4.4 m** paired **0.5 mm** · **`SW-MILLHOUSE-LAMP-1`** · **`BULB-MILLHOUSE-LAMP-Y14-1/2`** · **commission ✓ d5323**.
+
+| Materials logged d5323 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~5.4 m** draw |
+| **`WIRE-CU-LAMP-LEAD-Y16-1`** | **−×2 pair** |
+| **`ST-STR-BAR-Y13-1` tail** | **−~6 g** |
+| **`FUSE-LINK-Y14-1`** | **−×1** · mill seat |
+
+★ **`SW-FABRICA-FEEDER-1` ON** · **`SW-MILLHOUSE-LAMP-1` local** · **~1.14 / ~1.08 I** each dim @ gen ON.
+
+### ✓ **`EC-1-GRID-BRANCH-FABRICA-COURT-1`** — south court lamp *(d5329)*
+
+Map: **`EC-1-TAP-BOX-STD-4` → south court lamp post** · **`BULB-FABRICA-COURT-LAMP-Y14-1`** *(socket **15** · no reflector)*
+
+**~3.6 m** paired **0.5 mm** · **`SW-FABRICA-COURT-LAMP-1`** · **commission ✓ d5329** · **~1.12 I dim @ gen ON**.
+
+| Materials logged d5329 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~3.6 m** *(court share)* |
+| **`WIRE-CU-LAMP-LEAD-Y16-1`** | **−×1 pair** |
+| **`FUSE-LINK-Y14-1`** | **−×1** · court seat |
+
+### ✓ **`EC-1-GRID-BRANCH-FABRICA-FORGE-FAN-1`** — `FORGE-D` blast assist *(d5329)*
+
+Map: **`GRID-TAP-FABRICA-1` → `FORGE-D` east jamb → `MOTOR-3` stub** · **`BLAST-BLOWER-1` belt ✓ d5330**
+
+**~5.2 m** paired **0.5 mm** · **`SW-FORGE-FAN-1`** · motor fuse **~0.15 I** · **commission ✓ d5330**.
+
+| Materials logged d5329 | |
+|---|---|
+| **`WIRE-CU-GEN2-1`** | **−~5.2 m** |
+| **`FUSE-LINK-Y14-1`** | **−×1** · fan seat |
+
+### `MOTOR-3` — forge blast-assist motor *(LIVE)*
+Map: **`FORGE-D` east assist pad** · **`EC-1-GRID-BRANCH-FABRICA-FORGE-FAN-1`** · **`BLAST-BLOWER-1` belt coupled d5330** · Opened: **d5329** · Commission: **d5330**
+
+**Fan-duty PM** · **~0.11 I @ assist duty** · **`SW-FORGE-FAN-1` local kill**.
+
+### ✓ **`EC-1-GRID-BRANCH-OFFICINA-STORAGE-LIGHT-1`** — Officina `STORAGE-WING-1` *(d5012 · fuse d5016)*
+
+Map: **`GRID-TAP-CRAFT-1` → turris west → N shelf rafter** · **`BULB-OFFICINA-STORAGE-LAMP-Y14-1`** *(socket **5** · hung d5015 · bulb d5019)*
+
+**~3.5 m** paired **0.5 mm** · **`SW-OFFICINA-STORAGE-LAMP-1` @ cleat** · **✓ full wrap + door flash d5333** · **LAMP-H fused d5016** · **commission ✓ d5330**.
 
 | Materials logged d5012 | |
 |---|---|
@@ -310,11 +431,11 @@ Map: **`GRID-TAP-CRAFT-1` → turris west → storage N rafter** · **`BULB-STOR
 |---|---|
 | **`FUSE-LINK-Y14-1`** | **−×1** · branch seat |
 
-### ✓ **`EC-1-GRID-BRANCH-STORAGE-WING-LIGHT-2`** — storage south bench lamp *(d5013 · fuse d5016)*
+### ✓ **`EC-1-GRID-BRANCH-STORE-4-LIGHT-1`** — Fabrica `STORE-4` *(d5013 · fuse d5016)*
 
-Map: **`GRID-TAP-CRAFT-1` → turris S → S bench rafter** · **`BULB-STORAGE-WING-LAMP-Y14-2`** *(hung d5015 · bulb d5019)*
+Map: **`GRID-TAP-FABRICA-1` → south jamb cheek → centre shelf rafter** · **`BULB-STORE-4-LAMP-Y14-1`** *(socket **6** · hung d5015 · bulb d5019)*
 
-**~3.2 m** paired **0.5 mm** *(dress d5013)* · **`SW-STORAGE-LAMP-2` @ cleat** · **partial insulate** · **LAMP-H fused d5016** · **not commissioned**.
+**~3.2 m** paired **0.5 mm** · **`SW-STORE-4-LAMP-1` @ cleat** · **✓ full wrap + eave flash d5333** · **LAMP-H fused d5016** · **commission ✓ d5330**.
 
 | Materials logged d5013 | |
 |---|---|
@@ -325,24 +446,24 @@ Map: **`GRID-TAP-CRAFT-1` → turris S → S bench rafter** · **`BULB-STORAGE-W
 |---|---|
 | **`FUSE-LINK-Y14-1`** | **−×1** · branch seat |
 
-★ **Chem lab room lights:** **×2 interior only** · **even spacing · wing-N pair grammar** · **`SW-CHEM-LAB-LAMP-1` only** · [retcon](../journal/retcons/CHEM-LAB-LIGHTS-Y14.md).
+★ **Chem lab:** **×2 interior pendants** · **one switch** · **no porch fixture**.
 
 ### ✓ **`EC-1-GRID-BRANCH-CHEM-LAB-LIGHT-1`** — chem lab lamp 1 *(d5013 · hang d5015)*
 
 Map: **`GRID-TAP-CHEM-1` → east jamb → rafter 1** · **`BULB-CHEM-LAB-LAMP-Y14-1`** · **`BULB-LAMP-CHEM-LAB-Y14-1` seated**
 
-**~3.8 m** paired **0.5 mm** · **feed → `SW-CHEM-LAB-LAMP-1` @ interior east cleat** · **partial insulate**.
+**~3.8 m** paired **0.5 mm** · **feed → `SW-CHEM-LAB-LAMP-1` @ interior east cleat** · **✓ full exterior wrap d5333**.
 
 ### ✓ **`EC-1-GRID-BRANCH-CHEM-LAB-LIGHT-2`** — chem lab lamp 2 *(d5017 · hang d5015)*
 
 Map: **`GRID-TAP-CHEM-1` → rafter 2** · **`BULB-CHEM-LAB-LAMP-Y14-2`** · **`BULB-LAMP-CHEM-LAB-Y14-2` seated**
 
-**~3.7 m** paired **0.5 mm** · **load → same `SW-CHEM-LAB-LAMP-1` lugs** · **partial insulate**.
+**~3.7 m** paired **0.5 mm** · **load → same `SW-CHEM-LAB-LAMP-1` lugs** · **✓ full exterior wrap d5333**.
 
 | Chem room | |
 |---|---|
 | **Switch** | **`SW-CHEM-LAB-LAMP-1` only** · **OPEN default** |
-| **Fuse** | **LAMP-H @ chem tap · d5016** · **not commissioned** |
+| **Fuse** | **LAMP-H @ chem tap · d5016** · **commission ✓ d5330** |
 
 | Materials logged d5013 / d5017 | |
 |---|---|

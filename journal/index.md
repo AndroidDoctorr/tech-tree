@@ -10,6 +10,25 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5400 | [day-5400.md](days/year-015/week-772/day-5400.md) | **✓ Char retort** | **Cal-Y15 D51 · lane ~28 kg** |
+| 5399 | [day-5399.md](days/year-015/week-772/day-5399.md) | **✓ Crossflow runner tweak** | **Cal-Y15 D50 · blade QC** |
+| 5398 | [day-5398.md](days/year-015/week-772/day-5398.md) | **✓ Grape prune CY15** | **Cal-Y15 D49 · P-03** |
+| 5397 | [day-5397.md](days/year-015/week-771/day-5397.md) | **✓ Wood haul · W771 close** | **Cal-Y15 D48 · pile ~156 kg** |
+| 5396 | [day-5396.md](days/year-015/week-771/day-5396.md) | **✓ Sow prep · campus maint** | **Cal-Y15 D47 · gate ~9 d** |
+| 5395 | [day-5395.md](days/year-015/week-771/day-5395.md) | **✓ Nozzle start · mock** | **Cal-Y15 D46 · WIP ~35%** |
+| 5394 | [day-5394.md](days/year-015/week-771/day-5394.md) | **✓ Char retort** | **Cal-Y15 D45 · lane ~19 kg** |
+| 5393 | [day-5393.md](days/year-015/week-771/day-5393.md) | **✓ Crossflow runner stack** | **Cal-Y15 D44 · WIP ~85%** |
+| 5392 | [day-5392.md](days/year-015/week-771/day-5392.md) | **✓ Runner rivet forge ×48** | **Cal-Y15 D43 · char thin** |
+| 5391 | [day-5391.md](days/year-015/week-771/day-5391.md) | **✓ Crossflow disc 2 · pair matched** | **Cal-Y15 D42** |
+| 5390 | [day-5390.md](days/year-015/week-770/day-5390.md) | **✓ Blades lap 2 · W770 close** | **Cal-Y15 D41** |
+| 5389 | [day-5389.md](days/year-015/week-770/day-5389.md) | **✓ Crossflow blades lap 1 · ×10** | **Cal-Y15 D40** |
+| 5388 | [day-5388.md](days/year-015/week-770/day-5388.md) | **✓ Crossflow discs + shaft scrape** | **Cal-Y15 D39 · bloom ~9.77 kg** |
+| 5387 | [day-5387.md](days/year-015/week-770/day-5387.md) | **✓ Ice peak lap 2 · CLOSED** | **Cal-Y15 D38 · vault ~128.5 kg** |
+| 5386 | [day-5386.md](days/year-015/week-770/day-5386.md) | **✓ Ice peak lap 1** | **Cal-Y15 D37 · vault ~102 kg** |
+| 5385 | [day-5385.md](days/year-015/week-770/day-5385.md) | **✓ `BRONZE-BUSH-WW2-2` cast** | **Cal-Y15 D36 · ×14 voltaic plate feed** |
+| 5384 | [day-5384.md](days/year-015/week-770/day-5384.md) | **✓ Scare · ice prep** | **Cal-Y15 D35 · vault ~114 kg · Norima tune** |
+| 5383 | [day-5383.md](days/year-015/week-769/day-5383.md) | **✓ Char · W769 close** | **Cal-Y15 D34 · lane ~22.8 kg · G-02 watch** |
+| 5382 | [day-5382.md](days/year-015/week-769/day-5382.md) | **✓ Wood haul @ T-1** | **Cal-Y15 D33 · +~92 kg yield HIT** |
 | 5272 | [day-5272.md](days/year-015/week-754/day-5272.md) | **✓ Polymer stoneware fire** | **Cal-Y14 D288 · FIRED WIP · bulb open-5** |
 | 5273 | [day-5273.md](days/year-015/week-754/day-5273.md) | **✓ Polymer lane assemble** | **Cal-Y14 D289 · MOUNTED cold · cradles** |
 | 5274 | [day-5274.md](days/year-015/week-754/day-5274.md) | **✓ Char + calcine ×2** | **Cal-Y14 D290 · catalyst ~295 g** |
@@ -56,6 +75,70 @@
 | 5315 | [day-5315.md](days/year-015/week-760/day-5315.md) | **✓ Lentil harvest** | **Cal-Y14 D331 · grain clean + parch** |
 | 5316 | [day-5316.md](days/year-015/week-760/day-5316.md) | **✓ Chickpea harvest** | **Cal-Y14 D332 · pulse store · block grain+pulse** |
 | 5317 | [day-5317.md](days/year-015/week-760/day-5317.md) | **✓ Field flax pull** | **Cal-Y14 D333 · `P-RETT-41` LIVE · harvest close** |
+| 5318 | [day-5318.md](days/year-015/week-760/day-5318.md) | **✓ Char retort full day** | **Cal-Y14 D334 · lane ~23.8 kg · yield HIT** |
+| 5319 | [day-5319.md](days/year-015/week-760/day-5319.md) | **✓ Cu lamp-lead draw** | **Cal-Y14 D335 · ×10 pair @ peg · 0.5 mm tail ~6.4 m** |
+| 5320 | [day-5320.md](days/year-015/week-760/day-5320.md) | **✓ Oil decant · acorn tail** | **Cal-Y14 D336 · Y16 ~1.38 L · W760 close** |
+| 5321 | [day-5321.md](days/year-015/week-761/day-5321.md) | **✓ Domus lamp install** | **Cal-Y14 D337 · cubiculum + thermae LIVE** |
+| 5322 | [day-5322.md](days/year-015/week-761/day-5322.md) | **✓ Iron nail batch** | **Cal-Y14 D338 · ×24 @ tray** |
+| 5381 | [day-5381.md](days/year-015/week-769/day-5381.md) | **✓ Powered-machine service** | **Cal-Y15 D33 · line GREEN** |
+| 5380 | [day-5380.md](days/year-015/week-769/day-5380.md) | **✓ Crossflow layout + shaft** | **Cal-Y15 D32** |
+| 5379 | [day-5379.md](days/year-015/week-769/day-5379.md) | **✓ Crossflow survey · design** | **Cal-Y15 D31** |
+| 5378 | [day-5378.md](days/year-015/week-769/day-5378.md) | **✓ Bloom ×2 · ~16.07 kg** | **Cal-Y15 D30** |
+| 5377 | [day-5377.md](days/year-015/week-769/day-5377.md) | **✓ Iron bloom** | **Cal-Y15 D29** |
+| 5376 | [day-5376.md](days/year-015/week-768/day-5376.md) | **✓ Char · W768 close** | **Cal-Y15 D28** |
+| 5375 | [day-5375.md](days/year-015/week-768/day-5375.md) | **✓ Bloom · bank ~14.23 kg** | **Cal-Y15 D27** |
+| 5374 | [day-5374.md](days/year-015/week-768/day-5374.md) | **✓ Iron bloom** | **Cal-Y15 D26** |
+| 5373 | [day-5373.md](days/year-015/week-768/day-5373.md) | **✓ Char retort** | **Cal-Y15 D25** |
+| 5372 | [day-5372.md](days/year-015/week-768/day-5372.md) | **✓ Wood haul** | **Cal-Y15 D24** |
+| 5371 | [day-5371.md](days/year-015/week-768/day-5371.md) | **✓ Iron bloom ×2** | **Cal-Y15 D23 · ~12.25 kg** |
+| 5370 | [day-5370.md](days/year-015/week-768/day-5370.md) | **✓ Iron bloom** | **Cal-Y15 D22** |
+| 5369 | [day-5369.md](days/year-015/week-767/day-5369.md) | **✓ Char retort · W767 close** | **Cal-Y15 D21** |
+| 5368 | [day-5368.md](days/year-015/week-767/day-5368.md) | **✓ Iron bloom smelt** | **Cal-Y15 D20 · ~10.11 kg** |
+| 5367 | [day-5367.md](days/year-015/week-767/day-5367.md) | **✓ Culina magnetic rails ×2** | **Cal-Y15 D19 · stock-care audit ✓** |
+| 5366 | [day-5366.md](days/year-015/week-767/day-5366.md) | **✓ Char retort** | **Cal-Y15 D18** |
+| 5365 | [day-5365.md](days/year-015/week-767/day-5365.md) | **✓ Wood haul** | **Cal-Y15 D17** |
+| 5364 | [day-5364.md](days/year-015/week-767/day-5364.md) | **✓ ST-MAG heat #3 · triplicate** | **Cal-Y15 D16** |
+| 5363 | [day-5363.md](days/year-015/week-767/day-5363.md) | **✓ ST-MAG #2 + bootstrap ×4** | **Cal-Y15 D15 · W767** |
+| 5362 | [day-5362.md](days/year-015/week-766/day-5362.md) | **✓ ST-MAG heat + rod #1 · W766 close** | **Cal-Y15 D14** |
+| 5361 | [day-5361.md](days/year-015/week-766/day-5361.md) | **✓ M-22 haul close · ~3.60 kg** | **Cal-Y15 D13 · W766** |
+| 5360 | [day-5360.md](days/year-015/week-766/day-5360.md) | **✓ M-22 haul D1 · Camp-1** | **Cal-Y15 D12** |
+| 5359 | [day-5359.md](days/year-015/week-766/day-5359.md) | **✓ M-22 prep · half char** | **Cal-Y15 D11** |
+| 5358 | [day-5358.md](days/year-015/week-766/day-5358.md) | **✓ Char retort** | **Cal-Y15 D10** |
+| 5357 | [day-5357.md](days/year-015/week-766/day-5357.md) | **✓ Iron bloom smelt** | **Cal-Y15 D9 · W766 d2** |
+| 5356 | [day-5356.md](days/year-015/week-766/day-5356.md) | **✓ Culina paper phase 2** | **Cal-Y15 D8 · W766 d1** |
+| 5355 | [day-5355.md](days/year-015/week-765/day-5355.md) | **✓ Paper sprint D1** | **Cal-Y15 D7** |
+| 5354 | [day-5354.md](days/year-015/week-765/day-5354.md) | **✓ Hand towels ×2** | **Cal-Y15 D6** |
+| 5353 | [day-5353.md](days/year-015/week-765/day-5353.md) | **✓ Tent-2 refresh** | **Cal-Y15 D5** |
+| 5352 | [day-5352.md](days/year-015/week-765/day-5352.md) | **✓ Wagon cover refresh** | **Cal-Y15 D4** |
+| 5351 | [day-5351.md](days/year-015/week-765/day-5351.md) | **✓ Hemp spin Y16** | **Cal-Y15 D3** |
+| 5350 | [day-5350.md](days/year-015/week-765/day-5350.md) | **✓ Flax spin Y16** | **Cal-Y15 D2** |
+| 5349 | [day-5349.md](days/year-015/week-765/day-5349.md) | **✓ Char retort** | **Cal-Y15 D1 · W765 d1** |
+| 5348 | [day-5348.md](days/year-015/week-764/day-5348.md) | **✓ Wood haul** | **Cal-Y14 D364** |
+| 5347 | [day-5347.md](days/year-015/week-764/day-5347.md) | **✓ Colander** | **Cal-Y14 D363** |
+| 5346 | [day-5346.md](days/year-015/week-764/day-5346.md) | **✓ Reflector mount ×2** | **Cal-Y14 D362** |
+| 5345 | [day-5345.md](days/year-015/week-764/day-5345.md) | **✓ Reflector glaze/fire ×2** | **Cal-Y14 D361** |
+| 5344 | [day-5344.md](days/year-015/week-764/day-5344.md) | **✓ Flax break Y16** | **Cal-Y14 D360** |
+| 5343 | [day-5343.md](days/year-015/week-764/day-5343.md) | **✓ Y17 distill · farm/campus** | **Cal-Y14 D359** |
+| 5342 | [day-5342.md](days/year-015/week-764/day-5342.md) | **✓ Brass smelt** | **Cal-Y14 D358 · W764 d1** |
+| 5341 | [day-5341.md](days/year-015/week-763/day-5341.md) | **✓ Ladle** | **Cal-Y14 D357** |
+| 5340 | [day-5340.md](days/year-015/week-763/day-5340.md) | **✓ Slotted spoon** | **Cal-Y14 D356** |
+| 5339 | [day-5339.md](days/year-015/week-763/day-5339.md) | **✓ Culina whisk + steel spatula** | **Cal-Y14 D355 · utensil D1** |
+| 5338 | [day-5338.md](days/year-015/week-763/day-5338.md) | **✓ Yule feast · campus lights** | **Cal-Y14 D354 · Happy Yule** |
+| 5337 | [day-5337.md](days/year-015/week-763/day-5337.md) | **✓ Yule eve prep + cook** | **Cal-Y14 D353 · ~20 Dec** |
+| 5336 | [day-5336.md](days/year-015/week-763/day-5336.md) | **✓ Mudroom · nitre · vac · cover CLOSE** | **Cal-Y14 D352 · W763 d2** |
+| 5335 | [day-5335.md](days/year-015/week-763/day-5335.md) | **✓ South court SW gutter · W763 open** | **Cal-Y14 D351 · W763 d1** |
+| 5334 | [day-5334.md](days/year-015/week-762/day-5334.md) | **✓ Cover sprint D2** | **Cal-Y14 D350 · gutter defer** |
+| 5333 | [day-5333.md](days/year-015/week-762/day-5333.md) | **✓ Cover sprint D1 · electric** | **Cal-Y14 D349** |
+| 5332 | [day-5332.md](days/year-015/week-762/day-5332.md) | **✓ Campus moisture survey** | **Cal-Y14 D348 · cover backlog filed** |
+| 5331 | [day-5331.md](days/year-015/week-762/day-5331.md) | **✓ ×2 reflector green · craft/culina** | **Cal-Y14 D347 · rack E/F** |
+| 5330 | [day-5330.md](days/year-015/week-762/day-5330.md) | **✓ Lamp commission sprint · kaolin refine** | **Cal-Y14 D346 · Yule grid close** |
+| 5329 | [day-5329.md](days/year-015/week-762/day-5329.md) | **✓ Fabrica court lamp · forge fan branch** | **Cal-Y14 D345 · `MOTOR-3` belt defer** |
+| 5328 | [day-5328.md](days/year-015/week-762/day-5328.md) | **✓ Upkeep · whiskey mash day 0** | **Cal-Y14 D344 · Yule = campus grid** |
+| 5327 | [day-5327.md](days/year-015/week-761/day-5327.md) | **✓ Storage consolidate · W761 close** | **Cal-Y14 D343 · merged larder rows** |
+| 5326 | [day-5326.md](days/year-015/week-761/day-5326.md) | **✓ Spoilage pass · storage audit** | **Cal-Y14 D342 · `P-RETT-41` pull** |
+| 5325 | [day-5325.md](days/year-015/week-761/day-5325.md) | **✓ SHELF-LIFE sprint Y16 closed** | **Cal-Y14 D341 · stew · smoke · flat** |
+| 5324 | [day-5324.md](days/year-015/week-761/day-5324.md) | **✓ SHELF-LIFE sprint Y16 D1** | **Cal-Y14 D340 · barrel · parched part 1** |
+| 5323 | [day-5323.md](days/year-015/week-761/day-5323.md) | **✓ Thermae commission · mill · `FEAST-PORC` mount** | **Cal-Y14 D339 · chem + mill reflectors** |
 | 5271 | [day-5271.md](days/year-015/week-753/day-5271.md) | **✓ Vac open bank done** | **Cal-Y14 D287 · W753 day 7** |
 | 5270 | [day-5270.md](days/year-015/week-753/day-5270.md) | **✓ Vac integrate ×2** | **Cal-Y14 D286 · spare bank ×6** |
 | 5269 | [day-5269.md](days/year-015/week-753/day-5269.md) | **✓ Bulb assembly ×2** | **Cal-Y14 D285 · open bank ×4** |

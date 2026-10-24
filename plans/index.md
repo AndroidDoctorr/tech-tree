@@ -22,9 +22,11 @@ Things the Player wants to accomplish. **Live state:** [now.md](../now.md).
 - [next-house.md](next-house.md) — Modern house pad *(horizon)*
 - [ec-1-campus-expansion.md](ec-1-campus-expansion.md) — Campus grid · feeders
 - [ww-2-power-upgrade.md](ww-2-power-upgrade.md) — Turbine transition *(phase 1 apron ✓)*
+- [ww-2-crossflow-design-y15.md](ww-2-crossflow-design-y15.md) — **Crossflow issue CY15** *(dims · Route A · fab bill)*
 - [electronics-lab-stock-y14.md](electronics-lab-stock-y14.md) — Bench stock side cadence
 - [ethanol-butadiene-rd-cy14.md](ethanol-butadiene-rd-cy14.md) — **Ethanol → C₄ / butadiene** · `POLYMER-LANE-PILOT-1` ladder
 - [roof-rd-hemp-bitumen-1.md](roof-rd-hemp-bitumen-1.md) — Roof R&D *(deferred)*
+- [culina-modernization-y14.md](culina-modernization-y14.md) — Kitchen utensils · mills · **oven/fridge horizon**
 
 ## Archived plans
 
