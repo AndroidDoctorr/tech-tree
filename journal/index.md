@@ -10,6 +10,102 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5496 | [day-5496.md](days/year-016/week-786/day-5496.md) | **✓ `GEN-WW-3-M` 0.70 mm stiffness rewind** | **Cal-Y15 D147 · Spawn-Y16 D21** |
+| 5495 | [day-5495.md](days/year-016/week-785/day-5495.md) | **✓ 0.70 mm armature draw · W785 close** | **Cal-Y15 D146 · Spawn-Y16 D20** |
+| 5494 | [day-5494.md](days/year-016/week-785/day-5494.md) | **✓ Sluice gate ladder · lime** | **Cal-Y15 D145 · Spawn-Y16 D19** |
+| 5493 | [day-5493.md](days/year-016/week-785/day-5493.md) | **✓ Invert + nozzle hydro tune** | **Cal-Y15 D144 · Spawn-Y16 D18** |
+| 5492 | [day-5492.md](days/year-016/week-785/day-5492.md) | **✓ Brush tune · crossflow inspect** | **Cal-Y15 D143 · Spawn-Y16 D17** |
+| 5491 | [day-5491.md](days/year-016/week-785/day-5491.md) | **✓ `GEN-WW-3-M` rewind · remount** | **Cal-Y15 D142 · Spawn-Y16 D16** |
+| 5490 | [day-5490.md](days/year-016/week-785/day-5490.md) | **✓ Armature wire draw top-up** | **Cal-Y15 D141 · Spawn-Y16 D15** |
+| 5489 | [day-5489.md](days/year-016/week-785/day-5489.md) | **✓ Cu electrowin ∥ gravel haul** | **Cal-Y15 D140 · Spawn-Y16 D14** |
+| 5488 | [day-5488.md](days/year-016/week-784/day-5488.md) | **✓ Armature wire draw · W784 close** | **Cal-Y15 D139 · Spawn-Y16 D13** |
+| 5487 | [day-5487.md](days/year-016/week-784/day-5487.md) | **✓ Cu electrowin · campus touch** | **Cal-Y15 D138 · Spawn-Y16 D12** |
+| 5486 | [day-5486.md](days/year-016/week-784/day-5486.md) | **✓ Route A crossflow LIVE** | **Cal-Y15 D137 · Spawn-Y16 D11** |
+| 5485 | [day-5485.md](days/year-016/week-784/day-5485.md) | **✓ Feeder-4 + margin measure** | **Cal-Y15 D136 · Spawn-Y16 D10** |
+| 5484 | [day-5484.md](days/year-016/week-784/day-5484.md) | **✓ `GEN-WW-3-M` survey · tweaks** | **Cal-Y15 D135 · Spawn-Y16 D9** |
+| 5483 | [day-5483.md](days/year-016/week-784/day-5483.md) | **✓ `GEN-WW-3-M` on wheel · LIVE** | **Cal-Y15 D134 · Spawn-Y16 D8** |
+| 5482 | [day-5482.md](days/year-016/week-784/day-5482.md) | **✓ `GEN-WW-3-M` brush tune** | **Cal-Y15 D133 · Spawn-Y16 D7** |
+| 5481 | [day-5481.md](days/year-016/week-783/day-5481.md) | **✓ `GEN-WW-3-M` bench GB·I · W783 close** | **Cal-Y15 D132 · Spawn-Y16 D6** |
+| 5480 | [day-5480.md](days/year-016/week-783/day-5480.md) | **✓ `GEN-WW-3-M` shunt field** | **Cal-Y15 D131 · Spawn-Y16 D5** |
+| 5479 | [day-5479.md](days/year-016/week-783/day-5479.md) | **✓ `GEN-WW-3-M` shaft · rotor** | **Cal-Y15 D130 · Spawn-Y16 D4** |
+| 5478 | [day-5478.md](days/year-016/week-783/day-5478.md) | **✓ Char retort** | **Cal-Y15 D129 · Spawn-Y16 D3** |
+| 5477 | [day-5477.md](days/year-016/week-783/day-5477.md) | **✓ `GEN-WW-3-M` armature wind** | **Cal-Y15 D128 · Spawn-Y16 D2** |
+| 5476 | [day-5476.md](days/year-016/week-783/day-5476.md) | **✓ `GEN-WW-3-M` commutator · Cu OK** | **Cal-Y15 D127 · Spawn-Y16 D1** |
+| 5475 | [day-5475.md](days/year-015/week-783/day-5475.md) | **✓ Crossflow wet pilot · gen gap fit** | **Cal-Y15 D126** |
+| 5474 | [day-5474.md](days/year-015/week-782/day-5474.md) | **✓ `GEN-WW-3-M` clamp+bore · W782 close** | **Cal-Y15 D125** |
+| 5473 | [day-5473.md](days/year-015/week-782/day-5473.md) | **✓ Turpentine top-up · pine distill** | **Cal-Y15 D124** |
+| 5472 | [day-5472.md](days/year-015/week-782/day-5472.md) | **✓ `GEN-WW-3-M` deburr + varnish** | **Cal-Y15 D123** |
+| 5471 | [day-5471.md](days/year-015/week-782/day-5471.md) | **✓ `GEN-WW-3-M` lam stack start** | **Cal-Y15 D122** |
+| 5470 | [day-5470.md](days/year-015/week-782/day-5470.md) | **✓ Wood haul** | **Cal-Y15 D121** |
+| 5469 | [day-5469.md](days/year-015/week-782/day-5469.md) | **✓ Char · `GEN-WW-3` scale study** | **Cal-Y15 D120** |
+| 5468 | [day-5468.md](days/year-015/week-782/day-5468.md) | **✓ Blower branch · `MOTOR-4` on bus** | **Cal-Y15 D119** |
+| 5467 | [day-5467.md](days/year-015/week-781/day-5467.md) | **✓ `MOTOR-4` spin · W781 close** | **Cal-Y15 D118** |
+| 5466 | [day-5466.md](days/year-015/week-781/day-5466.md) | **✓ `MOTOR-4` wind + commutator** | **Cal-Y15 D117** |
+| 5465 | [day-5465.md](days/year-015/week-781/day-5465.md) | **✓ Motor R&D · `MOTOR-4` opened** | **Cal-Y15 D116** |
+| 5464 | [day-5464.md](days/year-015/week-781/day-5464.md) | **✓ Block lift ×16 · pad ×116** | **Cal-Y15 D115** |
+| 5463 | [day-5463.md](days/year-015/week-781/day-5463.md) | **✓ Block bench ×20 · one-shift cap** | **Cal-Y15 D114** |
+| 5462 | [day-5462.md](days/year-015/week-781/day-5462.md) | **✓ Lime ×2 + slake · putty ~38 kg** | **Cal-Y15 D113** |
+| 5461 | [day-5461.md](days/year-015/week-781/day-5461.md) | **✓ Char retort HIT** | **Cal-Y15 D112** |
+| 5460 | [day-5460.md](days/year-015/week-780/day-5460.md) | **✓ Lime kiln ×2 · W780 close** | **Cal-Y15 D111** |
+| 5459 | [day-5459.md](days/year-015/week-780/day-5459.md) | **✓ Wood haul ~88 kg** | **Cal-Y15 D110** |
+| 5458 | [day-5458.md](days/year-015/week-780/day-5458.md) | **✓ Gravel haul · band close** | **Cal-Y15 D109** |
+| 5457 | [day-5457.md](days/year-015/week-780/day-5457.md) | **✓ Gravel haul ~248 kg** | **Cal-Y15 D108** |
+| 5456 | [day-5456.md](days/year-015/week-780/day-5456.md) | **✓ Apiary band tail · wax** | **Cal-Y15 D107** |
+| 5455 | [day-5455.md](days/year-015/week-780/day-5455.md) | **✓ Transition d3 complete** | **Cal-Y15 D106** |
+| 5454 | [day-5454.md](days/year-015/week-780/day-5454.md) | **✓ Char retort** | **Cal-Y15 D105** |
+| 5453 | [day-5453.md](days/year-015/week-779/day-5453.md) | **✓ Iron bloom · W779 close** | **Cal-Y15 D104** |
+| 5452 | [day-5452.md](days/year-015/week-779/day-5452.md) | **✓ Transition d2 ~72% · jackshaft ✓** | **Cal-Y15 D103** |
+| 5451 | [day-5451.md](days/year-015/week-779/day-5451.md) | **✓ Transition forge d1 ~38%** | **Cal-Y15 D102** |
+| 5450 | [day-5450.md](days/year-015/week-779/day-5450.md) | **✓ Bronze transition cast ~620 g** | **Cal-Y15 D101** |
+| 5449 | [day-5449.md](days/year-015/week-779/day-5449.md) | **✓ Iron bloom HIT · ~6.35 kg** | **Cal-Y15 D100** |
+| 5448 | [day-5448.md](days/year-015/week-779/day-5448.md) | **✓ Char retort · lane ~27 kg** | **Cal-Y15 D99** |
+| 5447 | [day-5447.md](days/year-015/week-779/day-5447.md) | **✓ Apiary · wax render + maint** | **Cal-Y15 D98** |
+| 5446 | [day-5446.md](days/year-015/week-778/day-5446.md) | **✓ Wood haul ~82 kg · W778 close** | **Cal-Y15 D97** |
+| 5445 | [day-5445.md](days/year-015/week-778/day-5445.md) | **✓ Iron bloom · ~5.3 kg bank** | **Cal-Y15 D96** |
+| 5444 | [day-5444.md](days/year-015/week-778/day-5444.md) | **✓ Char retort · lane ~24 kg** | **Cal-Y15 D95** |
+| 5443 | [day-5443.md](days/year-015/week-778/day-5443.md) | **✓ Slag haul ~48 kg WF-SB-01** | **Cal-Y15 D94** |
+| 5442 | [day-5442.md](days/year-015/week-778/day-5442.md) | **✓ Iron bloom HIT · ~4.35 kg bank** | **Cal-Y15 D93** |
+| 5441 | [day-5441.md](days/year-015/week-778/day-5441.md) | **✓ Iron bloom · bank ~3.3 kg** | **Cal-Y15 D92** |
+| 5440 | [day-5440.md](days/year-015/week-778/day-5440.md) | **✓ Crossflow bench spin ~255 rpm** | **Cal-Y15 D91** |
+| 5439 | [day-5439.md](days/year-015/week-777/day-5439.md) | **✓ Char retort · W777 close** | **Cal-Y15 D90** |
+| 5438 | [day-5438.md](days/year-015/week-777/day-5438.md) | **✓ Wood haul ~88 kg** | **Cal-Y15 D89** |
+| 5437 | [day-5437.md](days/year-015/week-777/day-5437.md) | **✓ Kisecik d2/2 · heap · cinnabar** | **Cal-Y15 D88** |
+| 5436 | [day-5436.md](days/year-015/week-777/day-5436.md) | **✓ Kisecik d1/2 OUT** | **Cal-Y15 D87** |
+| 5435 | [day-5435.md](days/year-015/week-777/day-5435.md) | **✓ Gen-2 wire draw · ~35 m** | **Cal-Y15 D86** |
+| 5434 | [day-5434.md](days/year-015/week-777/day-5434.md) | **✓ Acid distill · bank ~100 ml** | **Cal-Y15 D85** |
+| 5433 | [day-5433.md](days/year-015/week-777/day-5433.md) | **✓ Cu electrowin · ~186 g stock** | **Cal-Y15 D84** |
+| 5432 | [day-5432.md](days/year-015/week-776/day-5432.md) | **✓ Malachite roast · W776 close** | **Cal-Y15 D83** |
+| 5431 | [day-5431.md](days/year-015/week-776/day-5431.md) | **✓ Herb designate · G-06 kid** | **Cal-Y15 D82** |
+| 5430 | [day-5430.md](days/year-015/week-776/day-5430.md) | **✓ Farm · apiary watch · grape shoot thin** | **Cal-Y15 D81** |
+| 5429 | [day-5429.md](days/year-015/week-776/day-5429.md) | **✓ Char retort · lane ~20 kg** | **Cal-Y15 D80** |
+| 5428 | [day-5428.md](days/year-015/week-776/day-5428.md) | **✓ Malachite d3/3 · ~65 kg @ pile 4** | **Cal-Y15 D79** |
+| 5427 | [day-5427.md](days/year-015/week-776/day-5427.md) | **✓ Malachite d2/3 · full face** | **Cal-Y15 D78** |
+| 5426 | [day-5426.md](days/year-015/week-776/day-5426.md) | **✓ Malachite d1/3 · wagon OUT** | **Cal-Y15 D77** |
+| 5425 | [day-5425.md](days/year-015/week-775/day-5425.md) | **✓ Nozzle · exped prep · W775 close** | **Cal-Y15 D76** |
+| 5424 | [day-5424.md](days/year-015/week-775/day-5424.md) | **✓ Nozzle fab** | **Cal-Y15 D75 · WIP ~82%** |
+| 5423 | [day-5423.md](days/year-015/week-775/day-5423.md) | **✓ C₄ coupling CY15** | **Cal-Y15 D74 · stock ~12 ml** |
+| 5422 | [day-5422.md](days/year-015/week-775/day-5422.md) | **✓ Char · reserve top-up** | **Cal-Y15 D73 · lane ~16 kg** |
+| 5421 | [day-5421.md](days/year-015/week-775/day-5421.md) | **✓ Wood haul · sow audit** | **Cal-Y15 D72 · pile ~127 kg** |
+| 5420 | [day-5420.md](days/year-015/week-775/day-5420.md) | **✓ Char retort** | **Cal-Y15 D71 · lane ~9.1 kg** |
+| 5419 | [day-5419.md](days/year-015/week-775/day-5419.md) | **✓ Pilot run 4 · bank ~102 ml** | **Cal-Y15 D70 · C₄ GO** |
+| 5418 | [day-5418.md](days/year-015/week-774/day-5418.md) | **✓ Olefin lap 3 · W774 close** | **Cal-Y15 D69 · trap ~80 ml** |
+| 5417 | [day-5417.md](days/year-015/week-774/day-5417.md) | **✓ Olefin lap 2** | **Cal-Y15 D68 · trap ~53 ml** |
+| 5416 | [day-5416.md](days/year-015/week-774/day-5416.md) | **✓ Olefin capture** | **Cal-Y15 D67 · trap ~26 ml** |
+| 5415 | [day-5415.md](days/year-015/week-774/day-5415.md) | **✓ Char retort** | **Cal-Y15 D66 · lane ~17.7 kg** |
+| 5414 | [day-5414.md](days/year-015/week-774/day-5414.md) | **✓ Wood haul** | **Cal-Y15 D65 · pile ~120 kg** |
+| 5413 | [day-5413.md](days/year-015/week-774/day-5413.md) | **✓ Char retort · reserve top-up** | **Cal-Y15 D64 · lane ~8.6 kg** |
+| 5412 | [day-5412.md](days/year-015/week-774/day-5412.md) | **✓ Ethanol redistill** | **Cal-Y15 D63 · high ~1.44 L** |
+| 5411 | [day-5411.md](days/year-015/week-773/day-5411.md) | **✓ Dehyd ×4 · W773 close** | **Cal-Y15 D62 · stock ~1.05 L** |
+| 5410 | [day-5410.md](days/year-015/week-773/day-5410.md) | **✓ Dehyd ×4 tweak pass** | **Cal-Y15 D61 · stock ~858 ml** |
+| 5409 | [day-5409.md](days/year-015/week-773/day-5409.md) | **✓ Char retort** | **Cal-Y15 D60 · lane ~22 kg** |
+| 5408 | [day-5408.md](days/year-015/week-773/day-5408.md) | **✓ Ethanol dehyd ×4 · rig notes** | **Cal-Y15 D59 · stock ~690 ml** |
+| 5407 | [day-5407.md](days/year-015/week-773/day-5407.md) | **✓ Calcine prep · hemp isolate slate** | **Cal-Y15 D58** |
+| 5406 | [day-5406.md](days/year-015/week-773/day-5406.md) | **✓ Hemp flower bed · barley expand** | **Cal-Y15 D57** |
+| 5405 | [day-5405.md](days/year-015/week-773/day-5405.md) | **✓ SPRING-SOW CY15** | **Cal-Y15 D56 · Y17 LIVE** |
+| 5404 | [day-5404.md](days/year-015/week-772/day-5404.md) | **✓ SOAP-BULK-Y15-1 · titre** | **Cal-Y15 D55 · ×24 GREEN · W772 close** |
+| 5403 | [day-5403.md](days/year-015/week-772/day-5403.md) | **✓ SEED-RAG-TEST CY15** | **Cal-Y15 D54 · sow ~d5405** |
+| 5402 | [day-5402.md](days/year-015/week-772/day-5402.md) | **✓ Nail batch CY15** | **Cal-Y15 D53 · ×25 @ tray** |
+| 5401 | [day-5401.md](days/year-015/week-772/day-5401.md) | **✓ Crossflow nozzle fab** | **Cal-Y15 D52 · WIP ~58%** |
 | 5400 | [day-5400.md](days/year-015/week-772/day-5400.md) | **✓ Char retort** | **Cal-Y15 D51 · lane ~28 kg** |
 | 5399 | [day-5399.md](days/year-015/week-772/day-5399.md) | **✓ Crossflow runner tweak** | **Cal-Y15 D50 · blade QC** |
 | 5398 | [day-5398.md](days/year-015/week-772/day-5398.md) | **✓ Grape prune CY15** | **Cal-Y15 D49 · P-03** |

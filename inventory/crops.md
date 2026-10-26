@@ -6,36 +6,36 @@ What is standing in the ground right now. Harvested stock moves to [food.md](foo
 
 `Sown` rather than `Made`, and it is a schedule input rather than a keep window — everything downstream is read against [calendar.md](../checklists/calendar.md). This is the one inventory file where the date tells you what to *do* rather than what is still good.
 
-Y16 sow **d5040** · Y16 harvest **d5314–5317** · prior Y15 harvest **d4949–4952**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
+Y17 sow **d5405** · Y16 harvest **d5314–5317** · prior Y15 harvest **d4949–4952**. Bed geometry is [map](../map/index.md); what to select for is [crop-selection-improvement-code-1.md](../government/regulations/crop-selection-improvement-code-1.md).
 
 ## Bed A
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `HEMP-FIBRE-Y16` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **stubble** | d5040 | **`P-RETT-40` ✓ FIBRE CLOSED d5265** |
-| `HEMP-FLOWER-Y16` | Hemp · flower QoL block | Bed A north-west · **~4 m²** | d5040 | **Thin drill · RESERVE peg** |
-| `FAVA-Y16` | Fava · elite + working | Bed A west · **~8 m²** | d5040 | **Dibbed deep** |
-| `P-18-CHICKPEA-Y16` | Chickpea | Bed A south · **~6 m²** | d5040 | **✓ CUT d5316 · stubble** |
+| `HEMP-FIBRE-Y17` | Hemp · ★ **Ghab `P-22` import · fibre charge** | Bed A north · **~18 m² drill** | d5405 | **Dense drill · bird watch** |
+| `HEMP-FLOWER-BREED-Y17` | Hemp · **flower breeding · `FLOWER-SEED`** | **`HEMP-FLOWER-BREED-1` headland NE · ~8 m²** | d5406 | **Thin drill · RESERVE peg** |
+| `FAVA-Y17` | Fava · elite + working | Bed A west · **~8 m²** | d5405 | **Dibbed deep** |
+| `P-18-CHICKPEA-Y17` | Chickpea | Bed A south · **~6 m²** | d5405 | **Row drill** |
 
-☠ Hemp is an **obligate outcrosser** — isolate fibre vs seed blocks **by time** (fibre cut before flower block sets). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md).
+☠ Hemp is an **obligate outcrosser** — isolate fibre vs flower breeding **by time** (fibre cut before flower bed sets) **and by bed** (**`HEMP-FIBRE-*` @ Bed A north** · **`HEMP-FLOWER-BREED-*` @ headland NE**). See `HEMP-CUT` in [harvest.md](../government/procedures/harvest.md) · [retcon](../journal/retcons/HEMP-FLOWER-BREED-BED-Y15-Y17.md).
 
 ## Bed B
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `FLAX-FIELD-Y16` | Flax, field · fibre | Bed B centre · **stubble** | d5040 | **✓ `P-RETT-41` FIBRE CLOSED d5344** |
-| `EMMER-Y16` | Emmer | Bed B south + centre · **~10 m²** | d5040 | **✓ CUT d5314 · stubble** |
-| `BARLEY-TRIAL-Y16` | Barley trial · **expanded** | Bed B east margin · **~4 m²** | d5040 | **✓ CUT d5314 · stubble** |
-| `P-17-LENTIL-Y16` | Lentil | Bed B north + margin · **~6 m²** | d5040 | **✓ CUT d5315 · stubble** |
+| `FLAX-FIELD-Y17` | Flax, field · fibre | Bed B centre · **~16 m²** | d5405 | **Dense drill · brushed** |
+| `EMMER-Y17` | Emmer | Bed B south + centre · **~10 m²** | d5405 | **Broadcast · rolled** |
+| `BARLEY-TRIAL-Y17` | Barley trial · **expanded** | Bed B east margin · **~7 m²** | d5405 · expand **d5406** | **Row drill** |
+| `P-17-LENTIL-Y17` | Lentil | Bed B north + margin · **~6 m²** | d5405 | **Row drill** |
 | `MADDER-BED-B` | Madder ×4 | Bed B west | — | Perennial · hands off |
-| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d5040 | **Staked · in crop** |
+| `GYPSUM-STRIP-TRIAL-2` | Gypsum strip trial · alternating blocks in lentil run | Bed B lentil run | d5405 | **Staked · in crop** |
 
 ## Bed C
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `SEED-INCREASE-BLOCK-Y16` | Emmer elite increase | Bed C south corner · **~3 m²** | d5040 | **✓ STRIP d5314 · vault hold** |
-| `PULSE-SELECTION-Y16` | Lentil thick stand · selection + regen | Bed C SW · **~8 m²** | d5040 | **✓ CUT d5315 · stubble** |
+| `SEED-INCREASE-BLOCK-Y17` | Emmer elite increase | Bed C south corner · **~3 m²** | d5405 | **Wide drill · RESERVE peg** |
+| `PULSE-SELECTION-Y17` | Lentil thick stand · selection + regen | Bed C SW · **~8 m²** | d5405 | **Thick drill · disaster block** |
 
 Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie tie west. See [animals.md](animals.md).
 
@@ -50,7 +50,7 @@ Bed C north is the goat pen — `GOAT-KIDDING-STALL-1` NE ~2.5 × 2 m, billie ti
 
 | ID | Crop | Where | Sown | State |
 |---|---|---|---|---|
-| `CULINA-HERBS-Y16` | Coriander · rosemary · thyme · mint · parsley · allium | Culina margin | d5040 | **Drilled / layered / divided** |
+| `CULINA-HERBS-Y17` | Coriander · rosemary · thyme · mint · parsley · allium | Culina margin | d5405 | **Drilled / layered / divided** |
 
 ## Retting · fibre queue
 

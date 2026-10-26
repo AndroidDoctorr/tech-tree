@@ -104,7 +104,8 @@ Charcoal working and stacking run. Stock: [resources.md](../../inventory/resourc
 
 | Bed | Extent | Role |
 |---|---|---|
-| **Bed A** | Farm plot | North seed strip · west · south trial ground · chickpea ground fallow |
+| **Bed A** | Farm plot | North **fibre** hemp strip · west fava · south pulse |
+| **`HEMP-FLOWER-BREED-1`** | Headland NE · ~8 m² | **Flower breeding bed** · isolated from Bed A north fibre · **`FLOWER-SEED` drill** |
 | **Bed B** | Farm plot | Main sown bed |
 | **Bed C** | Farm plot | Pen sits on the north end · south-west seed increase block |
 | **Bed D** | Farm south margin | **~24 m²** · selection bed · `FIG-C1`–`C4` · apiary pad at the SE margin |
@@ -186,7 +187,7 @@ Also on the ring: the farm east gate and TRIB cheek palisade d2135 · `PALISADE-
 | | |
 |---|---|
 | `MIDDEN-FAR-1` | **~48 m west** of the Domus on the D-1 extension · `MIDDEN-PIT-1` ✓ d501 · `WASTE-BIN-1` empty target |
-| `SLAG-DUMP-B` | `WF-SB-01` ✓ d923 · pad live · first cart ~18 kg · reached by the T-5 crown running SW |
+| `SLAG-DUMP-B` | `WF-SB-01` ✓ d923 · pad live · **d5443 +~48 kg** iron slag *(2-trip · dish clear)* · T-5 crown → SW |
 | `SLAG-DUMP-A` | Reserve |
 | `SLAG-DUMP-C` | Reject |
 

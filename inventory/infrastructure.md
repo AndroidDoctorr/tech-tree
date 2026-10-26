@@ -235,11 +235,11 @@ Map: `S2-0` · Built: d1878 · **indexed d4046**
 
 Three-stop intake: **SUMMER · NORMAL · FLOOD** — iron pintle + latch · rack pin stops · **`SLUICE-2-STAFF-GAUGE-1`** @ south cheek *(0 · 10 · 20 cm · ties to `T-1` stain)*. Bypass spill board west cheek · seasonal swap grammar unchanged.
 
-| Stop | Q to race *(June low fork · d4046)* |
-|---|---|
-| **SUMMER** | **~11 L/s** |
-| **NORMAL** | **~17 L/s** |
-| **FLOOD** | **~3 L/s** *(bypass carries rest)* |
+| Stop | Q to race *(June low fork · d4046)* | **Route A @ crossflow *(d5494 May)*** |
+|---|---|---|
+| **SUMMER** | **~11 L/s** | **~11.2 L/s · ~0.62 kW hyd** |
+| **NORMAL** | **~17 L/s** | **~17.7 L/s · ~0.96 kW hyd** *(campus run)* |
+| **FLOOD** | **~3 L/s** *(bypass carries rest)* | **~3.1 L/s · bypass ~14 L/s** |
 
 Stream cheek `SLUICE-2-STREAM-CHEEK-1` ~10.2 kg; sill skim `SLUICE-2-SILL-SKIM-1` ~3.8 kg at the gate seat.
 
@@ -291,6 +291,26 @@ Temporary entry apron + side cheeks raised loaded speed **~8.9 → ~9.7 rpm** an
 **✓ d5399:** **`WW-2-CROSSFLOW-RUNNER-TWEAK-5399`** — blade seat audit · **×4** re-rivet · OD runout **~1.2 → ~0.9 mm** · hand spin **PASS**.
 
 **✓ d5395:** **`CROSSFLOW-NOZZLE-LAYOUT-1`** · **`CROSSFLOW-HEADBOX-MOCK-1`** **~55%** · **`CROSSFLOW-NOZZLE-WAYS-1`** lap 1 · **`CROSSFLOW-NOZZLE-2CELL-1` WIP ~35%**.
+
+**✓ d5401:** **`CROSSFLOW-NOZZLE-WAYS-1`** lap 2 · **`CROSSFLOW-NOZZLE-SLIDER-1`** **~1.08 kg** on ways · **`CROSSFLOW-HEADBOX-MOCK-1`** **~75%** · **`CROSSFLOW-NOZZLE-2CELL-1` WIP ~58%**.
+
+**✓ d5424–5425:** liners · way shoes · link · gate stops · mock spill trim · **dry-fit PASS** · **`CROSSFLOW-NOZZLE-2CELL-1` ~95% bench-complete** · **`EXPED-PREP-CY15-5425`** · **`MALACHITE-HAUL-CY15-5425`** queued.
+
+**✓ d5450:** **`BRONZE-TRANSITION-STOCK-CY15-1`** **~620 g** clutch liners + collar stubs @ WW yard peg · **`WW-2-TURBINE-TRANSITION-1` forge queued**.
+
+**✓ d5451:** **`WW-2-TURBINE-TRANSITION-FORGE-D1-5451`** — layout · **`WW-2-TURBINE-JACKSHAFT-WIP-1`** roughed · **clutch M** collar + liner seated · **WIP ~38%**.
+
+**✓ d5452:** **`WW-2-TURBINE-TRANSITION-FORGE-D2-5452`** — **`WW-2-TURBINE-JACKSHAFT-1`** finished · **clutch G** · **`WW-2-TURBINE-CHAIN-WIP-1`** partial · **WIP ~72%**.
+
+**✓ d5455:** **`WW-2-TURBINE-TRANSITION-FORGE-D3-5455`** — **4.5:1 pulleys** · **5.7:1 chain closed** · **clutch M/G** dressed · **oak guards** · **`WW-2-TURBINE-TRANSITION-1` ✓ bench-complete**.
+
+**✓ d5440:** **`WW-2-CROSSFLOW-SPIN-1`** — pillow blocks · **`BRONZE-BUSH-WW2-2`** · temp **`CROSSFLOW-SPIN-PULLEY-TEMP-1`** · belt from **`BLOCK-BENCH-LINE-SHAFT-1`** collar **#5** · **~255 rpm** bench *(design **~262**)* · runout **~0.9 mm** · **no water** · **`CROSSFLOW-NOZZLE-2CELL-1` ✓ bench-complete**.
+
+**✓ d5475:** **`WW-2-CROSSFLOW-WET-PILOT-5475`** @ north cheek mock · partial flume *(superseded by Route A)*.
+
+**✓ d5486:** **`WW-2-ROUTE-A-FLUME-1` LIVE** · **`WW-2-CROSSFLOW-HEADBOX-1` LIVE** · **`WW-2-CROSSFLOW-PLANT-1`** — runner + **`WW-2-TURBINE-TRANSITION-1`** · **clutch M → `BELT-TREE-1` · clutch G → `GEN-WW-3-M`** · undershot branch **bypass** · apron idle.
+
+**✓ d5492–5493 hydro tune:** **inspect chalk** invert **×6** lips · nozzle gaps **A/B** · spill **+80 mm** crest bleed · **✓ d5493** invert smooth + nozzle set **24.0 × 105 mm** · spill **+65 mm** · **Q ~17.6 L/s · H ~6.34 m · ~272 rpm · ~0.96 kW** hydraulic · **Prony ~0.42 kW @ M** · gen matched **~2.78 GB·I** class · ⚑ **winter / FLOOD Q read**.
 
 **✓ `WW-2-ENTRY-APRON-1` LIVE d5030:** tapered oak throat · close side cheeks · removable debris lip · existing FS keys, **no blocks**. Commission **~9.6 rpm · ~348 N·m · ~0.35 kW shaft** · ~14% above baseline · bypass and axle service clear.
 

@@ -138,6 +138,7 @@ Precedent: **Turris `HUB-S-OIL-GRATE-1`** *(fall + grate, not a pipe maze)*. **C
 | **LIGHT-S** | **`SW-WING-N-LIGHT-2`** | **LAMP-H** | **~1.15 I** | **`BULB-WING-N-LAMP-2`** |
 | **BENCH** | **`SW-WING-N-BENCH-1`** | **BENCH** | **~0.35 I socket · lugs ✓** | **`CP-G-WING-N-PORTABLE-1` ✓ d4861** |
 | **MOTOR** | **`SW-WING-N-MOTOR-1`** | **motor-class** | **~0.22 I** | **`MOTOR-2` · `WING-N-EXHAUST-1` ✓ d4860** |
+| **BLOWER-R&D** | **`SW-WING-N-BLOWER-1`** | **motor-class** | **~0.28 I** | **`MOTOR-4` · `BLOWER-R&D-TEST-1` ✓ d5468** · *not simultaneous with MOTOR row* |
 
 **Headroom:** sum simultaneous **GB·I ≤ ~70%** of gen peak at tap — **two LAMP-H + one BENCH** is the design ceiling on one trunk until **Q spring read** confirms E.
 

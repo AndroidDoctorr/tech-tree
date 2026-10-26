@@ -15,9 +15,9 @@ No expiry column. Date plus rule gives the answer on read, and a better keep win
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | **`PARCH-EMMER-FOOD-1`** | Emmer, parched · quick-cook · **Y15–Y16 merge** | **~2.57 kg** | Horreum quick-cook peg | d4950 | d5337 mash |
-| **`EMMER-BULK-Y16`** | Emmer, bulk · Y16 harvest dry | **~1.58 kg** | Horreum A main bay | d5315 | d5328 mash |
-| **`BARLEY-BULK-Y16`** | Barley, bulk · Y16 trial | **~0.20 kg** | Horreum A barley bay | d5314 | d5328 mash |
-| **`EMMER-BULK-TAIL-Y10-14`** | Emmer, bulk · graded · **Y10–Y14 bay tails** *(sow backup)* | **~2.16 kg** | Horreum A main + incoming bays | Y10–Y14 harvests | d5040 sow backup |
+| **`EMMER-BULK-Y16`** | Emmer, bulk · Y16 harvest dry | **~0.30 kg** | Horreum A main bay | d5315 | d5405 sow |
+| **`BARLEY-BULK-Y16`** | Barley, bulk · Y16 trial | **~73 g** | Horreum A barley bay | d5314 | d5406 expand |
+| **`EMMER-BULK-TAIL-Y10-14`** | Emmer, bulk · graded · **Y10–Y14 bay tails** *(sow backup)* | **~1.96 kg** | Horreum A main + incoming bays | Y10–Y14 harvests | d5405 sow |
 | **`BARLEY-BULK-TAIL-Y10-14`** | Barley, bulk · trial · **Y10–Y14 tails** *(sow backup)* | **~1.44 kg** | Horreum A barley bay | Y10–Y14 trials | d5040 sow backup |
 | `BARREL-4-GRAIN` | Cracked grain, working · v1 tap | **~0.51 kg** | `BARREL-4`, v1 | d4589 | d5325 sprint |
 | `STARTER-Y6-1` | Sourdough starter, emmer · **daily feed** | — | Culina warm peg | d2041 | live |
@@ -48,7 +48,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~0.95 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5092 wax cut |
+| **`HONEY-STRAINED-Y13-1`** | Strained honey · pale-bar crush-strain | **~1.24 kg** | **`GLASS-BOTTLE-11` @ culina shelf** | d4726 + d4796 retcon | d5456 band tail |
 
 *Co-harvested with **`WAX-CUT-SURPLUS`** on strong hives — not brood comb. See [apiary-routine.md](../government/procedures/apiary-routine.md).*
 
@@ -96,10 +96,11 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `SOAP-Y10-1` | Soap bars · rosemary–thyme · sealed @ service pegs | **×4 full** · **×3 thin tails** on hooks *(culina/thermae/chem · d4598 layout)* | Service pegs | d3452 | d5400 peg crack |
-| **`SOAP-WORKING-CULINA-1`** | Open working bar @ culina hearth dish | **~35 g remain** *(peg cracked d5400 dawn)* | Culina hearth | d3452 | d5400 pit wash |
+| `SOAP-Y10-1` | Soap bars · rosemary–thyme · sealed @ service pegs | **×2 full** · **×2 thin tails** on hooks · **×1 open @ culina** *(d5406)* | Service pegs | d3452 | d5406 farm |
+| **`SOAP-Y15-1`** | Soap bars · rosemary–thyme · **titre-charged batch** | **×24 GREEN · ~1.85 kg** @ W-1 porch cure shelf | W-1 porch | d5404 | curing |
+| **`SOAP-WORKING-CULINA-1`** | Open working bar @ culina hearth dish | **~0 g** *(exhausted d5404)* | Culina hearth | d3452 | d5404 wash |
 | `DEER-TALLOW-Y10-1` | Deer tallow · rendered separate — candles and the wax-rosin pot | **~0.194 kg** | Lamp jar · culina | d3251 | d5381 lamp |
-| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~5.17 kg** | Horreum cool step jar | d3795 | d5353 tent |
+| **`DEER-TALLOW-Y12-1`** | Deer tallow · **`DEER-HUNT-Y12-3795`** · autumn render | **~4.12 kg** | Horreum cool step jar | d3795 | d5404 soap |
 
 ⚠ **Not sealed is deliberate.** Sealing jerky while it still breathes is how you find mould. `JERKY-Y10` was made **to a number** — weighed wet, dried to ~⅔ loss with no plateau, then cut and checked dry through rather than judged by feel.
 
@@ -109,7 +110,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`OIL-OLIVE-CLEAR-1`** | Olive oil, clear · cook live · **Y9–Y16 merge** | **~7.48 L @ glass rack** · **~1.18 L working @ `P-ξ-5`** | Horreum A oil rack | Y9 press | d5381 machines |
+| **`OIL-OLIVE-CLEAR-1`** | Olive oil, clear · cook live · **Y9–Y16 merge** | **~6.86 L @ glass rack** · **~1.18 L working @ `P-ξ-5`** | Horreum A oil rack | Y9 press | d5404 soap |
 | **`OIL-OLIVE-SEDIMENT-1`** | Olive oil sediment, sealed · **foot + side cups merge** | **~1.22 L** | `AMPHORA-6` foot + side cups | Y8–Y16 press | d5327 consolidate |
 
 `Made` is the **oldest press band in the merge** for the clear row — individual decant dates live in the journal. Cool, dark and full is what keeps it; headroom air is what ruins it. Sediment stays sealed and is never stored with the clear. See `OLIVE-PRESS` in [processing.md](../government/procedures/processing.md).
@@ -118,9 +119,9 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`VINEGAR-WORKING-1`** | Vinegar · **Y6–Y9 merge** · **~5.8 % acetic class d5042** | **~4.9 L class** | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d5327 consolidate |
+| **`VINEGAR-WORKING-1`** | Vinegar · **Y6–Y9 merge** · **~5.8 % acetic class d5042** | **~4.86 L class** | `AMPHORA-5` · `P-ξ-4` · crock | Y6 | d5404 titre |
 | `VINEGAR-MOTHER-1` | Vinegar mother + mat | ~200 ml | Crock | live | d2704 |
-| **`SPIRIT-GRAIN-POTABLE-1`** | Grain spirit · hearts · **~42 % class** · **Y13–Y17 merge** | **~9.5 L** | Chem spirit peg + labelled bottles | d3926 | d5343 Y17 hearts |
+| **`SPIRIT-GRAIN-POTABLE-1`** | Grain spirit · hearts · **~42 % class** · **Y13–Y17 merge** | **~8.45 L** | Chem spirit peg + labelled bottles | d3926 | d5411 dehyd |
 
 Dehyd stock: **`ETHANOL-DEHYD-STOCK-1`** @ [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).
 
@@ -138,7 +139,7 @@ The 6–18 month band is the one real keep window in this file. Read oldest jar 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `SALT-1` | Salt | **~8.05 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d5284 brine top |
+| `SALT-1` | Salt | **~7.10 kg @ larder** · **~1.0 kg @ `CAVE-RECOVERY-CRATE-1`** | Larder / cave | | d5419 brine top |
 | `SPICE-MU-10` | Spice | — | `P-μ-10`, horreum A margin | | — |
 | `MINT-CROCK-1` | Mint | — | Crock | | d3175 |
 
@@ -148,7 +149,7 @@ Salt is the one indefinite row. **`SALT-EVAP` band OPEN** (6 Nov – 26 Nov) · 
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ICE-VAULT-STOCK` | Ice, hard class | **~128.5 kg** | Ice vault | CY15 peak closed | d5387 lap 2 |
+| `ICE-VAULT-STOCK` | Ice, hard class | **~77.2 kg** | Ice vault | CY15 peak closed | d5423 C₄ trap |
 
 Stock here, plant in [infrastructure.md](infrastructure.md) — `ICE-VAULT-NICHE-2` and `COLD-CELLAR-FAN-1`.
 

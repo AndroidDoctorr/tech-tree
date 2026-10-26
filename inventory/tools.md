@@ -273,6 +273,7 @@ Room lighting roster + component balance: [electric-grid.md](electric-grid.md).
 | **`SW-STORE-4-LAMP-1`** | Knife switch · **`STORE-4` room lamp** · **@ south jamb cleat** · label **`STO-4`** · **OPEN default** | Fabrica `STORE-4` | d5013 |
 | **`SW-WING-N-LIGHT-1`** | Knife switch · **electronics lab room · both lamps** · **@ cleat 1** · **OPEN default** | North work wing | d4847 LIVE |
 | **`SW-WING-N-LIGHT-2`** | Knife switch · **@ cleat 2 · OPEN · no load** *(built d4847)* | North work wing | d4847 |
+| **`SW-WING-N-BLOWER-1`** | Knife switch · **`MOTOR-4` · `BLOWER-R&D-TEST-1`** · **@ bench apron east** · label **`BLOWER-R&D`** | North work wing | d5468 LIVE |
 | **`SW-CHEM-LAB-LAMP-1`** | Knife switch · **chem lab room · both interior lamps** · **@ interior east cleat** · **OPEN default** | `CHEM-LAB-WING-1` | d5013 branch |
 | **`SW-MILLHOUSE-LAMP-1`** | Knife switch · **mill ×2 zone** · **@ `MILLHOUSE-2` north rafter cleat** · label **`MILL`** | Fabrica millhouse | d5323 |
 | **`SW-FABRICA-COURT-LAMP-1`** | Knife switch · **south court lamp** · **@ post cleat** · label **`COURT`** | Fabrica south court | d5329 |

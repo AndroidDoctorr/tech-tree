@@ -45,13 +45,14 @@ Count **breeding-age females** and **intact males** for limits. **Wethers** coun
 
 | ID | Sex | Role | Born | On campus | Dam | Sire | Status |
 |---|---|---|---|---|---|---|---|
-| **G-01** | F | Milk doe #1 | wild · pre-Y5 | **✓** | — | — | **Lactating** |
+| **G-01** | F | Milk doe #1 | wild · pre-Y5 | **✓** | — | — | **Freshened d5431** · lactating + colostrum → milk |
+| **G-06** | M | Kid → wether | **d5431** | **✓** | **G-01** | **G-02** | **Wether ~d5487 · slaughter queue · horns keep** |
 | **G-02** | M | Billie | wild · A-03 class | **✓** | — | — | **West tie · sole intact buck** |
 | **G-03** | M | Wether | **d3191** | **✓** | **G-01** | **G-02** | **✓ castrated ~d3248 · horns kept · ~Y5 age** |
-| **G-04** | F | Milk doe #2 | **d3978** | **✓** | **G-01** | **G-02** | **✓ KEEP · dry-yearling · cleared d5038** *(soft pass d5037)* |
+| **G-04** | F | Milk doe #2 | **d3978** | **✓** | **G-01** | **G-02** | **Dry · not bred d5281** · training OK |
 | **G-05** | F | *import slot* | — | **✗** | — | — | **Capture deferred** *(wild doe when named)* |
 
-**Head-count:** **×4 on campus** · **×1 ID reserved** · policy cap **≤3♀ · ≤1♂ intact** at steady state.
+**Head-count:** **×5 on campus** · **`G-05` import slot reserved** · **3♀ amber** until **G-06** fate filed.
 
 ---
 
@@ -59,7 +60,8 @@ Count **breeding-age females** and **intact males** for limits. **Wethers** coun
 
 ```
 G-01 (doe) ──┬── G-03 (wether · d3191 · wether d3248)
-             └── G-04 (doeling · d3978 · bred d3868)
+             ├── G-04 (doeling · d3978 · bred d3868)
+             └── G-06 (buckling · d5431 · bred d5281)
 G-02 (billie) ─┘
 ```
 
@@ -114,4 +116,7 @@ Daily care: [daily.md](../../checklists/daily.md). Hazards: **`GOAT-RUT-BREED`**
 | **d4374** | **Pen refresh** | **G-01…G-04** | Bedding · browse rack ~10 d · creep checked |
 | **Y14 wean band** | **G-04 scorecard** | **G-04** | **✓ KEEP — 2nd milk doe** *(player · logged d4908)* |
 | **d4910** | **Head-count policy locked** | herd | **1♀ red / 2♀ OK / 3♀ amber … · outcross when needed** |
+| **d5281** | **Rut breed logged** | **G-01** | Cover **G-02** · kid due Feb band |
+| **d5431** | **Freshen** | **G-06** | Buckling · **G-01 × G-02** |
+| **d5432** | **Fate filed** | **G-06** | **Wether @ ~8 wk · slaughter when grown** *(player)* |
 | | | | |

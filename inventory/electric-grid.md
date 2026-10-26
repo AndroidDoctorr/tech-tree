@@ -8,14 +8,14 @@ Installed **generation · storage · distribution · grid-fed loads** on the HOM
 
 | Layer | IDs |
 |---|---|
-| **Source** | `GEN-WW-1` / `GEN-WW-2` @ `WW-2` wheelhouse · `PEDAL-GEN-1` @ chem porch |
+| **Source** | **`GEN-WW-3-M` LIVE d5483** @ `WW-2` wheelhouse · **`GEN-WW-2` spare @ bench** · `PEDAL-GEN-1` @ chem porch |
 | **Storage bus** | `LEAD-ACID-BANK-Y13-1` · `LEAD-ACID-BANK-Y13-2` *(jars in [resources.md](resources.md))* · `SW-STORAGE-TIE-1/2` |
 | **Early DC** | `VOLTAIC-BATTERY-TRAY-1` / `VOLTAIC-8-CELL-1` |
 | **Trunks** | `EC-1-GRID-FEEDER-1` chem · `EC-1-GRID-FEEDER-2` Officina · `EC-1-GRID-FEEDER-FABRICA-1` Fabrica · ~~`EC-1-GRID-FEEDER-3`~~ retired |
 | **Master switches** | `SW-CHEM-FEEDER-1` · `SW-CRAFT-FEEDER-1` · `SW-FABRICA-FEEDER-1` · `SW-WING-N-FEEDER-1` deprecated OPEN |
 | **Taps** | `GRID-TAP-CHEM-1` · `GRID-TAP-CRAFT-1` · `GRID-TAP-CRAFT-2` · `GRID-TAP-WING-N-1` · `GRID-TAP-DOMUS-1` · `GRID-TAP-FABRICA-1` |
 | **Tap boxes** | `EC-1-TAP-BOX-STD-1` domus · `STD-2` craft S · `STD-3` wing N · `STD-4` Fabrica |
-| **Motors on bus** | `MOTOR-1` @ chem · `MOTOR-2` @ wing N exhaust · **`MOTOR-3` @ forge blast assist** *(✓ d5330)* |
+| **Motors on bus** | `MOTOR-1` @ chem · `MOTOR-2` @ wing N exhaust · **`MOTOR-3` @ forge blast assist** *(✓ d5330)* · **`MOTOR-4` @ wing N blower R&D** *(✓ d5468)* |
 
 ### Room lighting roster *(intended install · d5323 close)*
 
@@ -97,6 +97,26 @@ The campus generator. ×6 `MAG-BOOT-EM` rods in an iron yoke, closed-ring armatu
 > ⧗ **Wire-rate limited: ~600 g to draw at ~50 g/day off `CU-CELL-1`+`CU-CELL-2`. Field up ~d3307.**
 
 Sub-assemblies: `GEN-WW-1-FRAME-1` (oak, sill-bolted, clear of splash, quick-release collar on WW-2 output) · `GEN-WW-1-BELT-TRAIN-1` (two ~4:1 stages = ~16:1, **crowned** pulleys, idler on stage 2, slack side up, ~12 rpm → ~190 rpm) · `GEN-WW-1-CORE-1` (laminations cut, **annealed after cutting**, deburred both faces, rosin-varnished) · `COMMUTATOR-2` (hardwood hub, 5 segments, plaster-jig seated, end-only ramps, adjustable brush gear, wire-bundle brushes).
+
+### `GEN-WW-3-M` — scale **M** dynamo *(✓ LIVE @ wheel d5483)*
+
+Map: **`WW-2` wheelhouse** · **`GEN-WW-1-FRAME-1` + `GEN-WW-1-BELT-TRAIN-1`** · scale per [gen-ww-3-scale-cy15.md](../plans/gen-ww-3-scale-cy15.md)
+
+| Reading | Open | Loaded / notes |
+|---|---|---|
+| **d5481 bench** | **~9.6 GB** | **~8.15 R** · **~1.52 I** short · peak **~2.83 GB·I** |
+| **d5483 hydro @ summer** | **~9.5 GB** | spot read @ mount |
+| **d5484 hydro load line** | **~9.55 GB** | **~8.14 R** · **~1.51 I** short · peak **~2.80 GB·I** |
+| **d5486 crossflow cut-over** | **~9.58 GB** | **~8.14 R** · matched **~2.72 GB·I** @ summer · **clutch G** |
+| **d5491 rewind remount** | **~9.56 GB** | **~8.08 R** · matched **~2.76 GB·I** · **clutch G** |
+| **d5492 brush + d5493 hydro** | **~9.56 GB** | **~8.08 R** · matched **~2.78 GB·I** · spill/nozzle tune |
+| **d5496 stiffness rewind** | **~9.54 GB** | **~7.68 R** · **~1.58 I** short · matched **~2.84 GB·I** · peak **~2.92 GB·I** |
+
+**Sub-assemblies:** `GEN-WW-3-M-CORE-1` · `GEN-WW-3-M-ROTOR-1` *(**0.70 mm** stiffness wind **d5496**)* · `GEN-WW-3-M-YOKE-1` · `GEN-WW-3-M-FIELD-1` · `GEN-WW-3-M-BRUSH-1` *(tune d5492)* · ⚑ **row L · kiln tap · `ELEC-PROCESS-HEAT-1`** · crossflow · Feeder-4 margin.
+
+### `GEN-WW-2` — shunt dynamo *(spare · off wheel d5483)*
+
+Map: **wheelhouse north bench peg **`GEN-WW-2-SPARE-BENCH-1`** · rollback spare · line file d3336 unchanged.
 
 ## Storage
 
@@ -201,6 +221,21 @@ Map: **`WW-2` wheelhouse post tree → `WW-HUB-TOWER-1` south apron** · Built: 
 **`SW-FABRICA-FEEDER-1` @ hub south cheek** · **`EC-1-TAP-BOX-STD-4`** · **`GRID-TAP-FABRICA-1` LIVE** · **~7.9 GB @ gen ON** · **R ~2.1**.
 
 ★ **Separate entry from `EC-1-GRID-FEEDER-1` chem porch** — **two switches · one compound.** **Hub lamp loads ✓ d5329–5330** · **millhouse ✓ d5323** · **chem lamps ✓ d5330**.
+
+### ✓ **`EC-1-GRID-FEEDER-4`** — G2 machine-shop trunk *(d5485)*
+
+Map: **wheelhouse post tree → `PATH-CROWN` → `PARK-MFG-1` / G2 east jamb chase** · **~51 m paired · 1.2 mm bare** · Built: **d5485**
+
+**`SW-FEEDER-4-1` @ G2 east jamb** · **`EC-1-TAP-BOX-STD-5`** · **`GRID-TAP-G2-MS-1` stub** *(no **`MOTOR-IND-1`** yet)*.
+
+| Read @ **~0.42 I** d5485 | |
+|---|---|
+| **V_open @ tap** | **~9.46 GB** |
+| **V_loaded @ tap** | **~5.50 GB** |
+| **R_pair** | **~1.52 R** |
+| **Margin** | **✓ ≥ ~0.35 GB** vs **`MOTOR-IND`** stall floor · **thin vs 6.5 GB wet-shaft aspirational** |
+
+★ **Default: `SW-FEEDER-4-1` OPEN until MS motor commissioned.**
 
 ### ~~**`EC-1-GRID-FEEDER-3`**~~ — trunk **RETIRED d4987** *(copper → Fabrica-1)*
 
@@ -414,6 +449,23 @@ Map: **`FORGE-D` east assist pad** · **`EC-1-GRID-BRANCH-FABRICA-FORGE-FAN-1`**
 
 **Fan-duty PM** · **~0.11 I @ assist duty** · **`SW-FORGE-FAN-1` local kill**.
 
+### ✓ **`EC-1-GRID-BRANCH-WING-N-BLOWER-R&D-1`** — `MOTOR-4` blower R&D *(d5468)*
+
+Map: **`GRID-TAP-WING-N-1` → `Z-BLOWER-R&D` sleeve → `MOTOR-4` @ `WORK-BENCH-N-1` · `BLOWER-R&D-TEST-1`**
+
+**~4.6 m** paired **0.5 mm** · **`SW-WING-N-BLOWER-1` @ bench apron** · motor-class fuse **~0.28 I** · **commission T1–T5 PASS d5468** · **`WING-N-EXHAUST-1` ON before energize** · **do not run with `SW-WING-N-MOTOR-1` ON**.
+
+| Materials logged d5468 | |
+|---|---|
+| **`O-1-MALACHITE`** | **−~0.42 kg** |
+| **`ST-STR-BUTTON-Y13-3`** | **−~5 g tail** → **`SW-WING-N-BLOWER-1`** |
+| **`WIRE-CU-LAB-0.3-CY14-1`** | **−~0.10 m** fuse |
+
+### `MOTOR-4` — high-torque process / blower R&D motor *(LIVE · d5468)*
+Map: **`WORK-BENCH-N-1`** · **`EC-1-GRID-BRANCH-WING-N-BLOWER-R&D-1`** · **`BLOWER-R&D-TEST-1` throat** · Opened: **d5465** · Grid: **d5468**
+
+**Blower R&D = generator R&D stand-in** · field **`MAG-STEEL-Y15-ROD-1/2`** · **`MOTOR-4-BRUSH-1` d5467** · **Measured d5467:** **R ~4.05 · stall ~255 mN·m** · **d5468 duty:** **~0.12 I @ `BLOWER-R&D-TEST-1` card pull**. ⚑ **load curves · `GEN-WW-3` · `ELEC-PROCESS-HEAT-1` muffle**.
+
 ### ✓ **`EC-1-GRID-BRANCH-OFFICINA-STORAGE-LIGHT-1`** — Officina `STORAGE-WING-1` *(d5012 · fuse d5016)*
 
 Map: **`GRID-TAP-CRAFT-1` → turris west → N shelf rafter** · **`BULB-OFFICINA-STORAGE-LAMP-Y14-1`** *(socket **5** · hung d5015 · bulb d5019)*
@@ -521,7 +573,7 @@ Map: chem porch · Built: d3198
 | **Feeder-1** chem | **~46 m** paired | **0.9 mm** | **~2.35 R** | **~8.52** | **~7.18** | **~0.14** | d5081 audit · open **~7.62** |
 | **Feeder-2** craft | **~80 m** paired | **0.9 mm** | **~4.05 R** | **~8.52** | **~6.51** | **~0.085** | d5081 · `MOTOR-2` ON · open **~6.74** |
 | **Feeder-Fabrica-1** | **~44 m** paired | class | **~2.1 R** | **~8.52** | **~7.88** | — | d5081 open read |
-| **Feeder-4** G2 MS *(planned)* | **~51 m** | **1.2 mm paired** *(spec)* | **~1.55 R est** | — | — | **~0.40** design | d5081 stake · **ΔV ~0.62 GB** @ design I |
+| **Feeder-4** G2 MS | **~51 m** | **1.2 mm paired** | **~1.52 R** | **~9.54** | **~5.50** | **~0.42** | **d5485 LIVE** · **`GRID-TAP-G2-MS-1`** |
 
 ★ **Derive:** ΔV ≈ I × R_pair · P_loss ≈ I²R · compare to **`GEN-WW-2`** peak **~2.1 GB·I** @ ~8.6 R.
 
@@ -553,5 +605,5 @@ Map: chem porch · Built: d3198
 | **Electric prime** | Crossflow → clutch G → upgraded gen | same |
 | **Shop drive** | **`MOTOR-IND-1` → line shaft → belts** | **@ current sites first** d5081 |
 | **Move gate** | Relocate tools to **G2 MS** only when **Feeder-4** + shaft PASS | ∥ [g2-ms1-machine-shop-cy14.md](../plans/g2-ms1-machine-shop-cy14.md) |
-| **`EC-1-GRID-FEEDER-4`** | **~51 m · 1.2 mm paired** @ east jamb chase | **staked d5081** · wire when motor exists |
+| **`EC-1-GRID-FEEDER-4`** | **✓ LIVE d5485** · **`SW-FEEDER-4-1` · `GRID-TAP-G2-MS-1`** @ G2 east jamb | **R_pair ~1.52** · margin **PASS @ ~0.42 I** |
 

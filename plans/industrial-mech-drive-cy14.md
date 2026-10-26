@@ -1,6 +1,6 @@
 # Industrial mechanical drive — power before machine-shop move *(CY14)*
 
-**Status:** **Phase 0 ✓ d5081** · **next:** crossflow commission · **`GEN-MOTOR-IND-R&D-1`** · parallel **G2 MS-1** stockpile  
+**Status:** **Phase 0 ✓ d5081** · **scale slate ✓ d5469** → [gen-ww-3-scale-cy15.md](gen-ww-3-scale-cy15.md) · **next:** crossflow wet · **`GEN-WW-3-M`** lam program  
 **Ledger:** [inventory/electric-grid.md](../inventory/electric-grid.md) § Loss & torque  
 **Hydraulic:** [ww-2-power-upgrade.md](ww-2-power-upgrade.md) · **Shop shell:** [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md)
 

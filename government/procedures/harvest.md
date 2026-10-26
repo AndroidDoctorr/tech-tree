@@ -123,7 +123,9 @@ A **genetics** run, not a fibre run. Seed is light, dense, and the only part tha
 - Winnow by lip blow; cull anything soft or mouldy.
 - Strip seed first, then cut female stalks for coarse fibre on the same pass — but do not plan the trip around the fibre.
 - Bed A north has been closed since Y6, from one 45 g drill and four grow-outs, and hemp is an obligate outcrosser, so the imported line is worth protecting.
-- **Isolate by TIME, not by distance.** Hemp is wind-pollinated and the pollen carries for kilometres — there is no corner of the campus far enough away, and a plot "over the hill" is a plot that crossed. Stagger the sowings so the two stands **flower weeks apart**, or accept that they merge.
+- **Two beds, one rule:** **`HEMP-FIBRE-*` @ Bed A north** · **`HEMP-FLOWER-BREED-*` @ `HEMP-FLOWER-BREED-1` headland NE** ([retcon](../../journal/retcons/HEMP-FLOWER-BREED-BED-Y15-Y17.md)). Separate drills and **`FIBRE-SEED` vs `FLOWER-SEED` charges** — never mix seed jars.
+- **Isolate by TIME, not by distance.** Hemp is wind-pollinated and pollen carries for kilometres. **Fibre block cut @ `HEMP-CUT` gate before the flower-breeding bed sets pollen** · rogue males in the fibre stand early · **hard select** in the flower bed · outside genetics only as a **tagged import** (Ghab / `P-22`), not ad hoc pollen.
+- Optional **`HEMP-POTENCY-ASSAY`** *(dry · grind · combustion smoke read)* — **R&D class only** · not a calibrated lab method yet.
 - Band closes against the 27 Sep expedition gate. Go early in the band or do not go.
 
 ## Orchard and vine

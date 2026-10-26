@@ -128,6 +128,8 @@ RUNNER @ ~262 rpm ──25.7:1──► MECH SHAFT @ ~10.2 rpm ──clutch M─
 7. Civil **Route A** + headbox install — **summer nadir** hero arc.  
 8. **`WW-2-CROSSFLOW-COMMISSION-1`** — water · mechanical mode · then **clutch G**.
 
+**✓ Wet pilot d5475** *(partial feed · not step 7–8 complete):* wing tap + **~18 m** temp flume → **`CROSSFLOW-HEADBOX-MOCK-1`** @ north cheek · **cell A** · **Q ~13.4 L/s · H ~6.28 m · ~238 rpm · ~0.55 kW** class · **WW-2** still prime mover.
+
 ---
 
 ## Rejected on survey
