@@ -10,6 +10,40 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5530 | [day-5530.md](days/year-016/week-790/day-5530.md) | **✓ Pozz unload · W790 CLOSE** | **Cal-Y15 D181 · Spawn-Y16 D55** |
+| 5529 | [day-5529.md](days/year-016/week-790/day-5529.md) | **✓ Pozz d4/5 cap** | **Cal-Y15 D180 · Spawn-Y16 D54** |
+| 5528 | [day-5528.md](days/year-016/week-790/day-5528.md) | **✓ Pozz d3/5 face** | **Cal-Y15 D179 · Spawn-Y16 D53** |
+| 5527 | [day-5527.md](days/year-016/week-790/day-5527.md) | **✓ Pozz d2/5 face** | **Cal-Y15 D178 · Spawn-Y16 D52** |
+| 5526 | [day-5526.md](days/year-016/week-790/day-5526.md) | **✓ Pozz d1/5 OUT** | **Cal-Y15 D177 · Spawn-Y16 D51** |
+| 5525 | [day-5525.md](days/year-016/week-790/day-5525.md) | **✓ Farm · partial tune · prep** | **Cal-Y15 D176 · Spawn-Y16 D50** |
+| 5524 | [day-5524.md](days/year-016/week-790/day-5524.md) | **✓ Wood haul** | **Cal-Y15 D175 · Spawn-Y16 D49** |
+| 5523 | [day-5523.md](days/year-016/week-789/day-5523.md) | **✓ Char + lime · W789 CLOSE** | **Cal-Y15 D174 · Spawn-Y16 D48** |
+| 5522 | [day-5522.md](days/year-016/week-789/day-5522.md) | **✓ Char + lime combo** | **Cal-Y15 D173 · Spawn-Y16 D47** |
+| 5521 | [day-5521.md](days/year-016/week-789/day-5521.md) | **✓ Wood haul** | **Cal-Y15 D172 · Spawn-Y16 D46** |
+| 5520 | [day-5520.md](days/year-016/week-789/day-5520.md) | **✓ Lime ×2 · herb winnow** | **Cal-Y15 D171 · Spawn-Y16 D45** |
+| 5519 | [day-5519.md](days/year-016/week-789/day-5519.md) | **✓ Char ∥ Cu leach** | **Cal-Y15 D170 · Spawn-Y16 D44** |
+| 5518 | [day-5518.md](days/year-016/week-789/day-5518.md) | **✓ Char ∥ acid distill** | **Cal-Y15 D169 · Spawn-Y16 D43** |
+| 5517 | [day-5517.md](days/year-016/week-789/day-5517.md) | **✓ Kiln A lime ×2** | **Cal-Y15 D168 · Spawn-Y16 D42** |
+| 5516 | [day-5516.md](days/year-016/week-788/day-5516.md) | **✓ Char + Cu · W788 CLOSE** | **Cal-Y15 D167 · Spawn-Y16 D41** |
+| 5515 | [day-5515.md](days/year-016/week-788/day-5515.md) | **✓ Wood haul** | **Cal-Y15 D166 · Spawn-Y16 D40** |
+| 5514 | [day-5514.md](days/year-016/week-788/day-5514.md) | **✓ Char + lime full day** | **Cal-Y15 D165 · Spawn-Y16 D39** |
+| 5513 | [day-5513.md](days/year-016/week-788/day-5513.md) | **✓ Kiln A lime ×2 full day** | **Cal-Y15 D164 · Spawn-Y16 D38** |
+| 5512 | [day-5512.md](days/year-016/week-788/day-5512.md) | **✓ Herb seed cut** | **Cal-Y15 D163 · Spawn-Y16 D37** |
+| 5511 | [day-5511.md](days/year-016/week-788/day-5511.md) | **✓ Wild grain · ferment start** | **Cal-Y15 D162 · Spawn-Y16 D36** |
+| 5510 | [day-5510.md](days/year-016/week-788/day-5510.md) | **✓ Cu electrowin ∥ lime haul** | **Cal-Y15 D161 · Spawn-Y16 D35** |
+| 5509 | [day-5509.md](days/year-016/week-787/day-5509.md) | **✓ Core measure + lime · W787 CLOSE** | **Cal-Y15 D160 · Spawn-Y16 D34** |
+| 5508 | [day-5508.md](days/year-016/week-787/day-5508.md) | **✓ GEN-WW-2 harvest** | **Cal-Y15 D159 · Spawn-Y16 D33** |
+| 5507 | [day-5507.md](days/year-016/week-787/day-5507.md) | **✓ Char retort** | **Cal-Y15 D158 · Spawn-Y16 D32** |
+| 5506 | [day-5506.md](days/year-016/week-787/day-5506.md) | **✓ Wood haul · lime/MS-1 slate** | **Cal-Y15 D157 · Spawn-Y16 D31** |
+| 5505 | [day-5505.md](days/year-016/week-787/day-5505.md) | **✓ Cu electrowin ∥ gravel** | **Cal-Y15 D156 · Spawn-Y16 D30** |
+| 5504 | [day-5504.md](days/year-016/week-787/day-5504.md) | **✓ MAG bootstrap ×6** | **Cal-Y15 D155 · Spawn-Y16 D29** |
+| 5503 | [day-5503.md](days/year-016/week-787/day-5503.md) | **✓ Cu electrowin ∥ gravel** | **Cal-Y15 D154 · Spawn-Y16 D28** |
+| 5502 | [day-5502.md](days/year-016/week-786/day-5502.md) | **✓ M-22 roast finish · W786 CLOSE** | **Cal-Y15 D153 · Spawn-Y16 D27** |
+| 5501 | [day-5501.md](days/year-016/week-786/day-5501.md) | **✓ M-22 roast batch** | **Cal-Y15 D152 · Spawn-Y16 D26** |
+| 5500 | [day-5500.md](days/year-016/week-786/day-5500.md) | **✓ M-22 magnetite haul CLOSE** | **Cal-Y15 D151 · Spawn-Y16 D25** |
+| 5499 | [day-5499.md](days/year-016/week-786/day-5499.md) | **✓ M-22 magnetite D1 · Camp-1** | **Cal-Y15 D150 · Spawn-Y16 D24** |
+| 5498 | [day-5498.md](days/year-016/week-786/day-5498.md) | **✓ Cu electrowin ∥ gravel** | **Cal-Y15 D149 · Spawn-Y16 D23** |
+| 5497 | [day-5497.md](days/year-016/week-786/day-5497.md) | **✓ `GEN-AC-1` capstone design issued** | **Cal-Y15 D148 · Spawn-Y16 D22** |
 | 5496 | [day-5496.md](days/year-016/week-786/day-5496.md) | **✓ `GEN-WW-3-M` 0.70 mm stiffness rewind** | **Cal-Y15 D147 · Spawn-Y16 D21** |
 | 5495 | [day-5495.md](days/year-016/week-785/day-5495.md) | **✓ 0.70 mm armature draw · W785 close** | **Cal-Y15 D146 · Spawn-Y16 D20** |
 | 5494 | [day-5494.md](days/year-016/week-785/day-5494.md) | **✓ Sluice gate ladder · lime** | **Cal-Y15 D145 · Spawn-Y16 D19** |

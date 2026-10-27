@@ -8,7 +8,7 @@ Installed **generation · storage · distribution · grid-fed loads** on the HOM
 
 | Layer | IDs |
 |---|---|
-| **Source** | **`GEN-WW-3-M` LIVE d5483** @ `WW-2` wheelhouse · **`GEN-WW-2` spare @ bench** · `PEDAL-GEN-1` @ chem porch |
+| **Source** | **`GEN-WW-3-M` LIVE d5483** @ `WW-2` wheelhouse · **`GEN-WW-2` harvested d5508** *(Cu/lam → **`GEN-AC-1`**)* · `PEDAL-GEN-1` @ chem porch |
 | **Storage bus** | `LEAD-ACID-BANK-Y13-1` · `LEAD-ACID-BANK-Y13-2` *(jars in [resources.md](resources.md))* · `SW-STORAGE-TIE-1/2` |
 | **Early DC** | `VOLTAIC-BATTERY-TRAY-1` / `VOLTAIC-8-CELL-1` |
 | **Trunks** | `EC-1-GRID-FEEDER-1` chem · `EC-1-GRID-FEEDER-2` Officina · `EC-1-GRID-FEEDER-FABRICA-1` Fabrica · ~~`EC-1-GRID-FEEDER-3`~~ retired |
@@ -114,9 +114,9 @@ Map: **`WW-2` wheelhouse** · **`GEN-WW-1-FRAME-1` + `GEN-WW-1-BELT-TRAIN-1`** �
 
 **Sub-assemblies:** `GEN-WW-3-M-CORE-1` · `GEN-WW-3-M-ROTOR-1` *(**0.70 mm** stiffness wind **d5496**)* · `GEN-WW-3-M-YOKE-1` · `GEN-WW-3-M-FIELD-1` · `GEN-WW-3-M-BRUSH-1` *(tune d5492)* · ⚑ **row L · kiln tap · `ELEC-PROCESS-HEAT-1`** · crossflow · Feeder-4 margin.
 
-### `GEN-WW-2` — shunt dynamo *(spare · off wheel d5483)*
+### `GEN-WW-2` — shunt dynamo *(harvested d5508 · assembly ×0)*
 
-Map: **wheelhouse north bench peg **`GEN-WW-2-SPARE-BENCH-1`** · rollback spare · line file d3336 unchanged.
+Map: **stripped d5508** · Cu → **`CU-GEN2-STOCK-CY15-5`** · lam → **`GEN-AC-1-LAM-SEED-1`** · line file d3336 archived · rollback **not** rebuildable without full re-fab.
 
 ## Storage
 

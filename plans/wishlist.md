@@ -11,7 +11,7 @@ Things I want eventually:
 - Electric heating
 - Ball point pen
 - Synthesizer
-- Tool shed
+- Tool shed (old garage once new one is done)
 - Full garage
 - (More) modern workshop (attached to garage?)
 - TRANSISTORS

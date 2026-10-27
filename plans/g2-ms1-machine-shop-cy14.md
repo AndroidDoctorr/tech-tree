@@ -1,6 +1,6 @@
 # `WAGON-GARAGE-2` — machine shop first *(MS-1 · CY14)*
 
-**Status:** **ISSUED d5080** · **break ground deferred** — player: **stockpile summer CY14** · **build likely CY15+**  
+**Status:** **ISSUED d5080** · **rev d5524** — player: **Phase 1 = footing + shell + wood floor only** · **wear slab in strips later** · **break ground @ `G2-PHASE1-GOAL` PASS** · **∥ `GEN-AC-1` bench**  
 **Parent:** [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md) · [g2-construction-documents-cy14.md](g2-construction-documents-cy14.md)
 
 ## Decision *(d5080)*
@@ -12,7 +12,7 @@
 | **Permanent walls** | **BC-2 cast block** stem · grouted cores · **closed ring** |
 | **West face to aisle** | **`G2-TEMP-AISLE-WALL-1`** — timber stud · **not** load-bearing until central closes |
 | **Roof** | **Timber truss / rafter** on ring · **iron strap** tie-down · ridge along **10 m** axis *(~4 m rafter span)* |
-| **Brick vs block** | **Block** — pit bank + seismic grammar; brick only if a finish face is wanted later *(socle still block/stone)* |
+| **Brick vs block** | **Default MS-2:** **block socle + brick stem** *(see § MS-2 brick-forward)* — full block wythe remains valid if pit lift is ahead of lime |
 
 > **Full 18×10 footing + crane sleeves** remains documented as **`G2-FOOTING-POUR-FULL`** — reference pour for **C-1**, not a gate for MS-1.
 
@@ -79,7 +79,8 @@
 | Line | Class |
 |---|---|
 | **South door** | **~2.4–2.8 m** clear service |
-| **Floor blind** | **≥ ~300 kg gravel** under plank · fall to drain |
+| **Floor blind** | **≥ ~300 kg gravel** under plank · fall to drain · **Phase 1 wood deck only** — **no interior wear pour in Phase 1** |
+| **Wear concrete** | **`G2-WEAR-SLAB-MS1-*` strips** | **After weathertight** · **per machine footprint** · **plank stays** elsewhere · **no full-bay demo** |
 | **EC stub** | **Z-LIGHT · Z-BENCH · Z-MOTOR** tubes · tap @ east jamb — feeder later |
 | **Vent** | Louvre or fan path — machine grit, not clean-wing Tier 1 |
 
@@ -108,12 +109,76 @@ See **`G2-FOOTING-POUR-FULL`** in [g2-construction-documents-cy14.md](g2-constru
 
 ---
 
-## Shell materials — strength vs cost *(locked)*
+## Revision d5508 — cost-effective shell *(player)*
+
+**Keep unchanged (anti-demolition):** **east 4×10 only** · **wing footing strip ~28 m** · **west temp aisle wall** · **timber roof on block/brick ring** · **crane pads in C-1 only** · **dowel laps to central strip** — extending to **18×10** adds bays; it does **not** require tearing down the east wing.
+
+**Concrete — how much is mandatory?**
+
+| Pour | Need? | Notes |
+|---|---|---|
+| **~28 m perimeter strip footing** | **Yes** | BC-2 seismic path · rebar · blind drain @ toe — **~4–6 m³** if **west party ~10 m strip deferred** to C-1 |
+| **Optional ~10 m party strip** | **Defer OK** | Saves **~1.5–2 m³** lime now · plan **dowel sleeves** @ east wing west face for C-1 lap |
+| **Interior machine slab** | **No for MS-1** | **MS-3 blind gravel + plank** carries lathe/bench until **`G2-WEAR-SLAB-MS1`** or **C-4** central pour |
+| **Full 18×10 pad** | **C-1 only** | Not MS-1 gate |
+
+**Walls — brick-forward MS-2A** *(lime-thin · ~343 `BRICK-FIRED-B` on hand)*
+
+| Layer | Build | Count class |
+|---|---|---|
+| **Socle + DPC** | **BC-2 block** **×2–3 courses** + bitumen band | **~×24–32 block** |
+| **Stem** | **`BRICK-FIRED-B` mortar** to ring beam height | **~×220–280 brick** |
+| **Corners / bond** | Block piers **@ corners + door jamb** | **~×16–20 block** |
+| **West to aisle** | **`G2-TEMP-AISLE-WALL-1`** timber stud | unchanged |
+
+> **Trade:** brick stem is **faster to lay** and **frees pit blocks** for central garage later — cost is **mortar lime** (same kiln queue as footings). **`CLAY-P1` ~316 kg** @ pile 1 backs brick production if fired stock runs thin. **Seismic:** mass in **footing + ring + diaphragm roof** matters more than every wythe being cast block.
+
+**Timber + iron:** roof **truss/rafter + strap ties** (plan) · optional **oak posts @ door bay** with **wrought knee braces** — posts carry roof load only; **stem carries shear**. Future **iron frame** can bolt to **footing dowels** without removing brick.
+
+**On-hand sanity d5508:** gravel **~3477 kg** · sand **~1941 kg** · pozz **~1139 kg** · blocks **×274** · brick **~343** · rebar **×24** — **lime / QL** is the gating row, not aggregate count.
+
+---
+
+## Revision d5524 — Phase 1 scope + **`G2-PHASE1-GOAL`** *(player)*
+
+**Intent:** **Weathertight east 4×10** with **strip footings + brick-forward shell + timber roof + gravel blind + plank floor**. **Interior machine concrete only where a machine needs it**, added **in strips** over years — **not** a Phase 1 pour.
+
+| Phase 1 includes | Phase 1 excludes |
+|---|---|
+| **`MS-1`** closed footing strip **~28 m** *(party **~10 m** deferred)* | **Full 18×10 pad** · **crane pads** · **central strip** |
+| **`MS-2A`** socle + brick stem + ring + roof | **Full block wythe** *(optional upgrade)* |
+| **`MS-3`** door · vent · **wood deck** · EC stub tubes | **`G2-WEAR-SLAB` full bay** · **lathe sole plate pour** until named strip |
+| **Dig / drain / DPC / lift** as stock allows | **Replacing plank** except under **one** future strip |
+
+### **`G2-PHASE1-GOAL`** — start **`G2-FOOTING-POUR-MS1`** when **all PASS**
+
+*Live qty → [inventory/resources.md](../inventory/resources.md) · putty @ **d5524**.*
+
+| Row | Phase 1 budget | PASS threshold | d5524 read | Status |
+|---|---:|---|---:|---|
+| **`LIME-PUTTY-1`** | **~150 kg** trough *(footing segments + socle mortar start)* | **≥ ~150 kg** | **~40 kg** | **OUT** |
+| **`POZZ-TUFF-1`** | **~1200 kg** yard *(footing mix · shell grout class)* | **≥ ~1200 kg** | **~1393 kg** *(d5530)* | **PASS** |
+| **`SAND-FILTER-1`** | **~1500 kg** | **≥ ~1500 kg** | **~1941 kg** | **PASS** |
+| **`GRAVEL-1`** | **~2500 kg** *(blind + mix margin)* | **≥ ~2500 kg** | **~3477 kg** | **PASS** |
+| **`REBAR-PRODUCTION-RACK-1`** | **×12** staged | **×12** | **×24** | **PASS** |
+| **`BLOCK-Y10`** dry @ pad | **×80** lift-ready | **×80** | **×92 @ pad** + submerged queue | **PASS** |
+| **`BRICK-FIRED-B`** | **~280** stem class | **~280** | **~343** | **PASS** |
+| **`WOOD-OAK-P5`** | **~180 kg** roof + deck reserve | **≥ ~180 kg** | **~139 kg** *(post d5524)* | **NEAR** |
+| **DPC bitumen** | **bed class** | **`BITUMEN-ASI-1` ~38 kg** | **~38 kg** | **PASS** |
+| **Dig loop** | **~28 m** trench closed | trench PASS | **~14 m** south *(d5074)* | **OUT** |
+
+**Break-ground rule:** **`G2-PHASE1-GOAL` all PASS** → hero **`G2-FOOTING-POUR-MS1` segment 1** *(≤ ~2.5 m · BC-2A)* · **not** “wait for full ~6 m³ bank in one pour.”
+
+**Parallel track:** [gen-ac-1-cy15.md](gen-ac-1-cy15.md) — **does not block** Phase 1 civil · **does** compete for **Cu / bench days**.
+
+---
+
+## Shell materials — strength vs cost *(baseline)*
 
 | Element | Choice | Rationale |
 |---|---|---|
 | **Footings** | Lime–pozz concrete + rebar | BC-2 · campus proven |
-| **Walls** | Cast block · grouted cores | Pit bank · quake path |
+| **Walls** | **MS-2A:** block socle + brick stem · **or** full block wythe | Pit bank vs lime cadence |
 | **West aisle** | Timber temp | Fast · strip at C-2 |
 | **Roof** | Timber + iron ties | Light diaphragm first · BC-2 |
 | **Crane** | Steel columns + beam on **C-1 pads only** | Independent of wythe |

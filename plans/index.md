@@ -21,6 +21,7 @@ Things the Player wants to accomplish. **Live state:** [now.md](../now.md).
 - [industrial-mech-drive-cy14.md](industrial-mech-drive-cy14.md) — Power-before-move · gen/motor R&D · line shaft
 - [next-house.md](next-house.md) — Modern house pad *(horizon)*
 - [ec-1-campus-expansion.md](ec-1-campus-expansion.md) — Campus grid · feeders
+- [ec-1-wind-campus-cy15.md](ec-1-wind-campus-cy15.md) — **Distributed farm windmills** · dual-bus · storm doctrine
 - [ww-2-power-upgrade.md](ww-2-power-upgrade.md) — Turbine transition *(phase 1 apron ✓)*
 - [ww-2-crossflow-design-y15.md](ww-2-crossflow-design-y15.md) — **Crossflow issue CY15** *(dims · Route A · fab bill)*
 - [electronics-lab-stock-y14.md](electronics-lab-stock-y14.md) — Bench stock side cadence

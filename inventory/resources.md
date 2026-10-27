@@ -12,11 +12,11 @@ Fungible stock — measured, drawn down, replaced. Schema and the routing test a
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| **`CHAR-LANE`** | Charcoal, oak · green | **~18.4 kg** | Char lane | d5469 retort | d5494 kiln |
+| **`CHAR-LANE`** | Charcoal, oak · green | **~18.3 kg** | Char lane | d5523 retort | d5523 kiln |
 | **`CHAR-RESERVE-C`** | Charcoal, oak · sealed reserve | **~10.0 kg** | Char reserve drum | d5190 top-up | d5422 +2.5 kg seal |
-| `WOOD-OAK-P5` | Oak, green · main stack | **~69.4 kg** @ pile 5 | Pile 5 | d5470 haul | d5486 Route A |
+| `WOOD-OAK-P5` | Oak, green · main stack | **~139.0 kg** @ pile 5 | Pile 5 | d5524 haul | d5524 haul |
 | **`FURNITURE-SELECT-1`** | Oak, green · furniture grade @ pile 5 north shade | **~3.23 kg** tail | Pile 5 north shade | d4818 | d5071 stake tags |
-| **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L class · breath bung · food-oil interior · empty rinsed post d5343 distill** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d5343 |
+| **`BARREL-5-FERMENT`** | **Ferment barrel · ~25–30 L · `GRAIN-FERMENT-Y18-1` day 0 @ margin** | **1 @ horreum A margin** | **Horreum A margin** | d3895 | d5511 mash |
 | `WOOD-HORNBEAM-GEAR-1` | Hornbeam blank · gear stock · end-grain checked | **~0.10 kg** tail | Craft peg | d3520 | d5468 blower prop |
 | `SHIVE-FLAX` | Flax shive | **~6.65 kg** | Storage wing | | d5355 paper |
 | `SHIVE-HEMP-Y8` | Hemp shive | **~8.05 kg** | Berm | | d5180 harness loft |
@@ -54,18 +54,18 @@ Potable hearts **`SPIRIT-GRAIN-POTABLE-1`** @ [food.md](food.md). Legacy per-bat
 | **`FLUORITE-FLUX-COARSE-Y13-1`** | Fluorite · ≥2 mm · `M-29` Akkaya · forge flux | **~10.9 kg** @ ore bay `KF-FLUX-1` | Ore bay | d4153 | d4153 |
 | **`FLUORITE-FINE-Y13-1`** | Fluorite · <2 mm · chem / optics reserve | **~2.75 kg** @ **`WING-N-CABINET-1`** sealed crock | North wing cabinet | d4153 | d4859 load |
 | **`FLUORITE-ASSAY-Y13-1`** | Fluorite · batch cert chip · `M-29` | **~100 g** @ chem vial | Chem porch | d4153 | d4153 |
-| **`GRAVEL-1`** | Gravel aggregate | **~2631 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | d5458 haul | d5489 haul |
+| **`GRAVEL-1`** | Gravel aggregate | **~3477 kg** @ `MATERIARUM` bays 2–3 + apron class | Yard bays 2–3 | d5458 haul | d5505 haul |
 | `SAND-FILTER-1` | Filter / concrete sand · winter dry queue | **~1941 kg** @ `MATERIARUM` bay 4 | Yard bay 4 | d5207 haul | d5463 blocks |
-| **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~1139 kg @ `MATERIARUM` bay 1** | Yard bay 1 | d5187 unload | d5463 blocks |
+| **`POZZ-TUFF-1`** | Pozzolan / tuff · **`M-27` Koruhöyük class** | **~1393 kg @ `MATERIARUM` bay 1** | Yard bay 1 | d5187 unload | d5530 unload |
 
 ## Lime
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~465.2 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5494 kiln |
+| `CACO3-P7` | Limestone, raw · plus underburnt returns | **~465.2 kg** @ pile 7 north face | Pile 7, camp north face | d3374 | d5523 kiln |
 | `QUICKLIME-1` | Quicklime, dry · green · also `LIMELIGHT-1` feedstock | **~0.04 kg** @ sealed jar *(limelight tail)* | Lime trough | d5494 kiln | limelight pinch |
 | **`BLOCK-Y10-DRY-STACK-1`** | BC-2 load-bearing · 90-day cure PASS · shaded stack | **×274 unused** *(**×92 dry @ `BLOCK-PAD-1` / `MATERIARUM` SE** · **×138 submerged** @ pit)* | Materiarum pad / pit | d5464 lift ×16 | d5486 Route A |
-| `LIME-PUTTY-1` | Lime putty | **~7.8 kg** @ trough | Lime trough | d5494 slake | invert/mortar |
+| `LIME-PUTTY-1` | Lime putty | **~40.0 kg** @ trough | Lime trough | d5494 slake | d5523 slake |
 
 Quicklime slakes on the air and is the one row here with a real clock — see the keep window in [processing.md](../government/procedures/processing.md).
 
@@ -114,15 +114,19 @@ Washed slips are ranked, and the rank is the whole value of the row — a `#2-cl
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate | **~46.8 kg** | Pile 4 | | d5495 draw |
-| **`CU-GEN2-SCRAP-CY15-1`** | Cu electrowon draw tail · strip + draw offcuts | **~265 g** | Chill tray | d5496 | 0.65 strip |
+| `O-1-MALACHITE` | Malachite, Y10 · wire-grade carbonate | **~38.4 kg** | Pile 4 | | d5519 leach |
+| **`CU-GEN2-STOCK-CY15-4`** | Cu electrowon cathode · chill tray · wire draw stock | **~870 g** | Chill tray | d5498 | d5516 peel |
+| **`CU-GEN2-STOCK-CY15-5`** | Cu · `GEN-WW-2` harvest wire · tagged draw | **~2.85 kg** | Chem porch peg | d5508 | `GEN-AC-1` |
+| **`CU-GEN2-SCRAP-CY15-1`** | Cu electrowon draw tail · strip + draw offcuts | **~445 g** | Chill tray | d5496 | d5508 harvest |
+| **`GEN-AC-1-LAM-SEED-1`** | Si lam stack seed · `GEN-WW-2` core weighed | **~9.1 kg** | Chem porch bench | d5508 | `GEN-AC-1-CORE-1` |
 | **`WIRE-CU-ARM-REW-CY15-5488`** | 0.65 mm · armature tail *(superseded)* | **~52 m** @ parts peg | Craft north | d5488 | hold / redraw later |
 | **`WIRE-CU-ARM-REW-CY15-070-5495`** | 0.70 mm · **`GEN-WW-3-M` stiffness wind tail** | **~16 m** @ parts peg | Craft north | d5495 | d5496 rewind tail |
 | **`CU-ROD-BILLET-CY15-5432`** | Cu forge rod · malachite roast | **×0 @ forge peg** | Forge peg | d5432 | d5477 armature draw |
 | `CINNABAR-1` | Cinnabar, HgS · ☠ **isolated storage** | **~46.2 kg** | v1 chem, isolated | | d5436 float lap |
 | `GALENA-1` | Galena-class lead ore | **~24.2 kg** | Forge staging | | d4753 Kisecik |
 | `H-11-HEMATITE` | Hematite | **~90.6 kg @ pile 4** | Pile 4 | d5197–5199 3-day camp haul | d5453 roast |
-| **`M-22-MAGNETITE-1`** | Magnetite · raw · pile 4 tray | **~1.50 kg** @ pile 4 | Pile 4 tray | d5361 haul | d5364 ST-MAG |
+| **`M-22-MAGNETITE-1`** | Magnetite · raw · pile 4 tray | **×0** | Pile 4 tray | d5361 haul | d5502 final roast |
+| **`M-22-ROAST-CY15-5501`** | Magnetite · roasted · grey · bootstrap-ready | **~2.45 kg** @ forge crock | Forge lip | d5501–5502 | d5504 ×6 rods |
 | **`ST-SPR-BUTTON-Y13-4`** | Spring steel button · **`HEAT-Y13-020` · lock spring band · `ST-SPR-1` class** | **~120 g @ chill tray** | Chill tray | d4186 | d5481 gen brushes |
 | **`ST-STR-BUTTON-Y13-3`** | Structural steel button · **`HEAT-Y13-019` · lock reserve** | **×0 tail** | — | d4183 | d5468 switch |
 | `SPH-1` | Sphalerite | ~6.12 kg | — | | d2987 |
@@ -239,7 +243,7 @@ The wire bank is tracked by **gauge**, because gauge is what decides whether a l
 |---|---|---|---|---|---|
 | `ZN-VOLTAIC-PLATES` | Zinc voltaic plates, spare · `VOLTAIC-RESERVE` | ~39 | Storage wing | | d3238 |
 | `CU-GEN2-VOLTAIC-PLATES-1` | Copper voltaic plates, spare *(+×8 live in `VOLTAIC-8-CELL-1`, ×1 in `DANIELL-CELL-1`)* | **×1** | Tray | | d5476 GEN-WW-3 comm |
-| `MAG-BOOT-EM` | EM boot rod tray bank · ~171–175 g, ~37–39 mm solo · **#20–#23 consumed in culina rails** | **×8** | Dry tray | | d5367 culina strips |
+| `MAG-BOOT-EM` | EM boot rod tray bank · ~171–175 g, ~37–39 mm solo · **#20–#23 culina rails** · **#24–#29 d5504** | **×14** | Dry tray | | d5504 bootstrap |
 | **`MAG-STEEL-Y15-ROD-1`** | Magnet steel pole · **`HEAT-Y15-009` · `ST-MAG-1`** · lift ~45 mm | **@ `MOTOR-4-MAG-STACK-1`** | North bench | d5362 | d5465 motor |
 | **`MAG-STEEL-Y15-ROD-2`** | Magnet steel pole · **`HEAT-Y15-010` · `ST-MAG-1`** · lift ~44 mm | **@ `MOTOR-4-MAG-STACK-1`** | North bench | d5363 | d5465 motor |
 | **`MAG-STEEL-Y15-ROD-3`** | Magnet steel pole · **`HEAT-Y15-011` · `ST-MAG-1`** · lift ~44 mm | **~72 g @ dry tray** | Chem porch dry tray | d5364 | triplicate cert |
@@ -424,10 +428,10 @@ The Samandağ face turned a one-off haul into a bank. Grades are not interchange
 
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
-| `ACID-VITRIOL-3` | Oil of vitriol, strong · **Kisecik middle-cut class** | **~41 ml** | `P-LAB-ACID-BOTTLE-7` · isolated chem shelf | d5434 distill | d5489 leach |
+| `ACID-VITRIOL-3` | Oil of vitriol, strong · **Kisecik middle-cut class** | **~45 ml** | `P-LAB-ACID-BOTTLE-7` · isolated chem shelf | d5434 distill | d5519 leach |
 | `LEAD-ACID-ELECTROLYTE-Y13-3` | Dilute H₂SO₄ · **~1.24 SG** · in **`LEAD-ACID-PILOT-3`** | **→ cell** | Parallel chem tray B | d3998 | d3999 |
 | `LEAD-ACID-ELECTROLYTE-Y13-4` | Dilute H₂SO₄ · **~1.24 SG** · in **`LEAD-ACID-PILOT-4`** | **→ cell** | Parallel chem tray B | d3998 | d3999 |
-| `VITRIOL-FEED-CROCK-1` | Copperas feed · Kisecik-class green · calcined as needed | **~6.6 kg** | Chem porch feed crock | d5436 fringe | d5434 calcine |
+| `VITRIOL-FEED-CROCK-1` | Copperas feed · Kisecik-class green · calcined as needed | **~4.5 kg** | Chem porch feed crock | d5436 fringe | d5518 calcine |
 | **`VITRIOL-LIQUOR-KISECIK-Y12-1`** | Green-vitriol heap liquor · **ARSENIC ASSUMED PRESENT** · ☠ **hood-only · ~400 ml scale PASS d3878** | **~13.3 L** read @ d5436 turn | Isolated chem bay · ×2 lidded stoneware crocks in secondary tray | d3590 | d5436 heap turn |
 | **`ARS-IMMOBILIZED-LIME-3879`** | Arsenic immobilized · lime precipitate · scorodite-class · ☠ **handle as poison stock** | **~18 g wet cake** | Lidded jar · isolated chem tray · tagged | d3879 | d3879 |
 | **`ARS-WASHED-TAIL-3879`** | Iron-rich tail post arsenic wash · colcothar-class · low-As | **~34 g** | Isolated dish · tagged | d3879 | d3879 |
@@ -487,7 +491,7 @@ Rosin dissolved in turpentine is a cold brushable varnish, and turpentine is the
 |---|---|---|---|---|---|
 | `HYDROCHLORIC-ACID-1` | Muriatic acid · cassiterite wash green | ~40 ml | **`WING-N-CABINET-1` upper** | d2961 | d4859 load |
 | `NITRIC-ACID-1` | Aqua fortis, batch 1 | ~34 ml | **`WING-N-CABINET-1` upper** | d2793 | d4859 load |
-| `STRONG-ACID-BANK` | Sulphuric acid · cell + leach draw stock | **~82 ml** | Bottles 5 · 6 *(2–3 sealed)* | d5434 distill | d5489 leach |
+| `STRONG-ACID-BANK` | Sulphuric acid · cell + leach draw stock | **~143 ml** | Bottles 5 · 6 *(2–3 sealed)* | d5434 distill | d5519 leach |
 
 ⚠ **The sulphuric bank is off by about a thousandfold for its intended job.** A bulk leach needs kilograms; there are four millilitres, most of which is committed to `DANIELL-CELL-1`. Treat the bank as a reagent supply, not a process input, until there is a lead-chamber or contact route.
 

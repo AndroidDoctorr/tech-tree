@@ -160,6 +160,10 @@ Y9 herbs went to the ground on **d3219**. Reserves only:
 | `P-ALLIUM-HARVEST-Y15-1` | Allium · designated ×4 · winnow | **~0 g class** *(sown d5405)* | Vault | **Y15 d4778 · d4796** | **d5403 ~87%** |
 | `P-THYME-SEL-Y15-1` | Thyme · mother-row tops · winnow | **~3.8 g** reserve hold | Vault | **Y15 d4778 · d4796** | **d5403 ~85%** |
 | `P-PARSLEY-SEL-Y16-1` | Parsley · second-year ×3 · winnow | **~8.6 g** reserve hold | Vault | **Y15 designate · d5045 scout** | **d5403 ~84%** |
+| `P-CORIANDER-SEL-Y15-2` | Coriander · designated ×6 · winnow | **~14 g** reserve hold | Vault | **Y15 d5512 cut · d5520 winnow** | **untested** |
+| `P-ALLIUM-HARVEST-Y15-2` | Allium · designated ×4 · winnow | **~6 g** reserve hold | Vault | **Y15 d5512 · d5520 winnow** | **untested** |
+| `P-THYME-SEL-Y15-2` | Thyme · mother-row tops · winnow | **~3.6 g** reserve hold | Vault | **Y15 d5512 · d5520 winnow** | **untested** |
+| `P-PARSLEY-SEL-Y15-2` | Parsley · second-year ×3 · winnow | **~5 g** reserve hold | Vault | **Y15 d5512 · d5520 winnow** | **untested** |
 | ☠ `P-PARSLEY-SEL-Y9` | Parsley · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-ALLIUM-SEL-Y9` | Allium · ☠ **superseded · dead** | ×0 | Vault | Y9 | d3574 |
 | ☠ `P-THYME-SEL-Y9` | Thyme | ×0 | Vault | Y9 | d3574 DEAD |

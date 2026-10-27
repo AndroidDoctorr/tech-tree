@@ -125,7 +125,7 @@ Ricotta off **fresh** whey runs half again the yield of ricotta off stale — th
 
 Dehyd stock: **`ETHANOL-DEHYD-STOCK-1`** @ [resources.md — Alcohol · ethanol organics pathway](resources.md#alcohol--ethanol-organics-pathway).
 
-**`GRAIN-FERMENT-Y17-1` ✓ CLOSED d5343** *(whiskey mash · journal)*. Closed batches → journal; potable hearts consolidated **d5327** + **d5343**.
+**`GRAIN-FERMENT-Y17-1` ✓ CLOSED d5343** *(whiskey mash · journal)*. **`GRAIN-FERMENT-Y18-1` ⧗ day 0 d5511** — wild food mash @ **`BARREL-5-FERMENT`**. Closed batches → journal; potable hearts consolidated **d5327** + **d5343**.
 
 ## Olives in brine
 

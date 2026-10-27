@@ -2,6 +2,10 @@
 
 Runs every day before any discretionary work is planned. Unconditional — these fire regardless of what the day is "about".
 
+**Assumed, not listed:** sleep · meals · bathing · clothing repair · casual campus walks between sites. Those eat the calendar; they are not optional skips.
+
+**Discretionary budget:** about **~8 h** of named work on a typical HOME day after the blocks below. Default **one primary hero** (~full day, or **⚒→⧗** with morning load + eve tend only). A second major hero needs an explicit split day or a parallel clock (e.g. electrowin while the cart is out) — see [instructions.md](../instructions.md).
+
 Procedure IDs are searchable. Where a procedure doc owns the detail it is linked; `(no doc)` means the ID is reserved and the detail has not been written up yet.
 
 ## Open block — in this order
@@ -18,7 +22,8 @@ Procedure IDs are searchable. Where a procedure doc owns the detail it is linked
 
 | ID | Check | A miss costs |
 |---|---|---|
-| `MILK-GOAT` | Milk to crock. ~½ h *(blocked Feb–Apr until freshen)* | The doe |
+| `DAWN-BLOCK` | Milk · **`CU-CELL-TEND`** AM · cheese turn · **`LEAD-ACID-BANK`** float · any live **⧗** bung/read named in [now.md](../now.md) | Stalled cells · blown ferments · cheese moisture |
+| `MILK-GOAT` | *(inside `DAWN-BLOCK`)* Milk to crock. ~½ h *(blocked Feb–Apr until freshen)* | The doe |
 | `STOCK-WATER` | Water and feed goats and donkeys; eyes on each animal while you do it | The animal — and the daily look is how illness gets caught early |
 | `WEIR-FISH` | Clear the weir. Primary fresh protein | A day's protein, and a fouled weir |
 | `HEARTH-BANK` | Bank the fire; check fuel on hand for tomorrow's work | An hour relighting, and any process that needed heat at dawn |
@@ -31,8 +36,9 @@ Only the ones live right now. Retire a row when its process closes.
 
 | ID | Check | A miss costs |
 |---|---|---|
-| `CU-CELL-TEND` | `CU-CELL-1` — one look in the morning, one in the evening | A stalled or shorted cell running all night for nothing |
-| `HIVE-SCALE-READ` | `HIVE-SCALE-1`, **at the same hour every day** **1 Mar – 31 Oct**. A hive weighs less at noon with its foragers out than at dusk. Nov–Feb: **weekly on `APIARY-DOORSTEP`** unless opened | A point off the forage curve — and the curve is the whole point of the scale · [apiary-routine.md](../government/procedures/apiary-routine.md) |
+| `CU-CELL-TEND` | **`CU-CELL-1/2`** — AM in `DAWN-BLOCK` · PM after any **⚒→⧗** electrowin tend | A stalled or shorted cell running all night for nothing |
+| `HIVE-SCALE-READ` | **`HIVE-3` @ ~1130** · **1 Mar – 31 Oct** every HOME day. Same hour daily — foragers out at noon skew the curve. Nov–Feb: **weekly on `APIARY-DOORSTEP`** unless opened | A point off the forage curve · [apiary-routine.md](../government/procedures/apiary-routine.md) |
+| `FARM-PASS` | On HOME days: brief **`FARM-CARE`** @ fork B→D when the day touches campus soil — scare · **`RETT-READ`** if a bundle is submerged · [farm-scare-rett-pull.mdc](../.cursor/rules/farm-scare-rett-pull.mdc) | Overdue rett · missed scare |
 
 ## Standing rule
 
