@@ -37,6 +37,7 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 |---|---|---|
 | **G2 / MS-1** | Block **×100 @ pad** · **×134 submerged** · pozz **~1195 kg** · sand **~2028 kg** · gravel **~2014 kg** · putty **~27.5 kg** · QL **×0** | **`MATERIARUM-BAY-WALL-1` course 2** · lift/dry loop · **MS-1 footing** when stock PASS — [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · build **CY15+ OK** |
 | **WW-2 / electric** | Apron + curved buckets **~0.41 kW** · Sep **Q nadir + climb** logged | **Iron/char bank** for crossflow train · **`WW-2-CROSSFLOW`** off-line build |
+| **Magnets / `GEN-AC-1`** | **`MAG-BOOT-EM` ×20** · **`ST-MAG-1` cert ×3** · roast/raw in flight | **[magnet-peak-cy15.md](magnet-peak-cy15.md)** — **Phase 0 quench cell** → **`ST-MAG` ×6 lot** → pole bank |
 | **Chemistry** | **`C4-COUPLING-STOCK` ~6.2 ml** · pilot **×3** · **`CHAR-LANE` ~23.9 kg** | **Coupling repeat** · **polymer tune** — [ethanol-butadiene-rd-cy14.md](ethanol-butadiene-rd-cy14.md) |
 | **Winter lighting** | **×4 reflector fired warm @ kiln** · **×6 sockets unhung** | **Cold unload · spider · room branches** — [electronics-lab-stock-y14.md](electronics-lab-stock-y14.md) |
 
@@ -75,10 +76,12 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 4. **`BLOCK-LIFT-G2-*`** — LIFO tail as mortar/wall days need dry blocks.
 5. **`WW-2-CROSSFLOW` off-line parts** — **`CROSSFLOW-SHAFT-1` ✓ d5380** · **`IRON-BLOOM-1` ~13.22 kg** · powered machine line **GREEN d5381** · bronze bushes next.
 6. **`WW-2-CROSSFLOW`** / turbine bench — [ww-2-power-upgrade.md](ww-2-power-upgrade.md) · [industrial-mech-drive-cy14.md](industrial-mech-drive-cy14.md) phase 1 when metal runway.
-7. **`CASSITERITE-RECOVERY-ASSAY-1`** *(⚒ bench)* — tin bearing before Kozan trip.
-8. **Break ground when PASS:** **`G2-FOOTING-POUR-MS1`** · dig loop **~28 m** *(d5074 south leg counts)* — **no crane pads**.
-9. **Calendar heroes:** acorn lap 2 · nitre turns @ farm pass.
-10. **`KOZAN` trip** — schedule when bench + haul grammar allow *(harness gate ✓)*.
+7. **`CASSITERITE-RECOVERY-ASSAY-1`** — **charge 1 ✓ d5549** · **~1.5 kg remain** · repeat wash+smelt.
+8. **`KILN-B-LIME-1`** — **civil ✓ d5560** · **cure read** · **first calcine** · **KL-3** electric · [kiln-lime-dual-cy15.md](kiln-lime-dual-cy15.md).
+9. **`KILN-B-BRICK-FIRE`** — **`GB-CY15-5556` ×80** · **leather-hard PASS d5561** — fire when named.
+10. **Calendar heroes:** acorn lap 2 · nitre turns @ farm pass.
+11. **Break ground when PASS:** **`G2-FOOTING-POUR-MS1`** — **player defer** · winter **lime ledger A–B** · dig **~½** remaining.
+12. **Lime throughput** — **second kiln** *or* **electric soak/zone assist** *(char still primary)*.
 
 ## Branch notes
 
@@ -86,7 +89,7 @@ Live as of **d5300 · Cal-Y14 D316 · ~13 Nov Y14 · Week 758 day 1**
 
 - Plan: [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md)
 - **Materiarum envelope** — course 2 **×44** back+stepped *(d5240–5241)* · south extension queued *(d5243 close)*.
-- **Gate:** tonnes in yard now PASS for **masonry**; **MS-1 footings** still need break-ground + lime kiln rhythm (**QL runway thin**).
+- **Gate:** aggregates **PASS** · **lime ledger ~1.8–2.9 t A+B+C** vs **~65 kg putty** — see [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) · **civil defer** until player re-opens.
 - **Full pad + crane sleeves** = **C-1** · d5075 table is reference only.
 
 ### Electric infrastructure

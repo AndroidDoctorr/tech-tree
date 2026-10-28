@@ -59,6 +59,7 @@ Roast acorn wants 1–3 months of dry before it settles. Leaching is `ACORN-LEAC
 | ID | Item | Qty | Where | Made | Last |
 |---|---|---|---|---|---|
 | **`FIG-LEATHER-Y15-1`** | Fig leather tray · sun dry | **~0.78 kg gross wet** | Horreum east rack | d4839 | d5338 newton fill |
+| **`FIG-LEATHER-CY15-5576`** | Fig leather tray · pass 1 wet | **~0.68 kg gross wet** | Horreum east rack | d5576 | d5576 pick |
 | **`FIG-NEWTON-Y14-1`** | Fig-honey emmer cakes · Yule bake | **×6 @ cool jar** | Horreum sweet peg | d5338 | d5338 feast |
 | **`GOOSE-SMOKE-Y14-1`** | Yule greylag · cold-smoke remainder | **~1.02 kg** | Horreum A smoke shelf | d5338 hunt | d5338 rack |
 

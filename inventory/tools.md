@@ -452,6 +452,7 @@ Room lighting roster + component balance: [electric-grid.md](electric-grid.md).
 |---|---|---|---|
 | `GLASS-MOLD-KIT-1` | Mould kit — flask S/L · beaker · cylinder · joint ghosts | Sand table | Live |
 | `MARVER-FLAT-PLATE-1` | Marver plate, D-rank tile ~18×18 cm · flat-bottom press | Fire-table marver | Live |
+| **`KILN-B-GRATE-BAR-SET-1`** | Wrought grate bars ×6 · **~22 mm** stock · **~25 mm** gap class · **`KILN-B-LIME-1`** | **`KILN-B-LIME-1` grate shelf** | **✓ SET d5555** |
 
 ## Culina
 

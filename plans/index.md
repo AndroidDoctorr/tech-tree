@@ -18,6 +18,7 @@ Things the Player wants to accomplish. **Live state:** [now.md](../now.md).
 - [g2-site-and-phasing-cy14.md](g2-site-and-phasing-cy14.md) — Site · stakes · build order
 - [g2-construction-documents-cy14.md](g2-construction-documents-cy14.md) — CDs in progress
 - [g2-ms1-machine-shop-cy14.md](g2-ms1-machine-shop-cy14.md) — **MS-1** machine shop · mat budget · summer stockpile
+- [kiln-lime-dual-cy15.md](kiln-lime-dual-cy15.md) — **Dedicated / dual lime kiln** · electric soak assist
 - [industrial-mech-drive-cy14.md](industrial-mech-drive-cy14.md) — Power-before-move · gen/motor R&D · line shaft
 - [next-house.md](next-house.md) — Modern house pad *(horizon)*
 - [ec-1-campus-expansion.md](ec-1-campus-expansion.md) — Campus grid · feeders

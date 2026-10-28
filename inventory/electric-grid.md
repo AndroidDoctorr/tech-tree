@@ -558,6 +558,14 @@ Map: chem porch · Built: d3198
 
 `COMMUTATOR-1`: oak boss, ×2 copper split segments in wax, copper leaf brushes ×2 plus ×1 spare, timed to the neutral plane. `MAG-STACK-2`: rods #8 · #12 · #16 · #19 plus yoke, lift ~65 mm — the field. `EM-COIL-3`: ~280 turns gen-2 on a ~185 g iron core, bench fixture at chem porch, leads C/D.
 
+### ✓ **`MAG-QUENCH-CELL-1`** — grid field-assist quench *(LIVE d5578)*
+
+Map: chem porch east bench · **`EM-COIL-3` on rails** · pole shoes · rod V-cradle · **`EC-1-GRID-BRANCH-CHEM-QUENCH-1`** @ **`GRID-TAP-CHEM-1`** · **`SW-MAG-QUENCH-1`** interlock · **~0.14 A hold** · **`MAG-QUENCH-AB-CY15-5578` +1.7 mm vs hand**. Plan: [magnet-peak-cy15.md](../plans/magnet-peak-cy15.md) Phase 0 **✓**.
+
+### ✓ **`EC-1-GRID-BRANCH-CHEM-QUENCH-1`** — quench cell feed *(d5578)*
+
+Map: **`GRID-TAP-CHEM-1` → `MAG-QUENCH-CELL-1` rail stub** · **`SW-MAG-QUENCH-1`** downstream of bench enable.
+
 ---
 
 ## Loss & torque ledger *(CY14 industrial drive study)*

@@ -2,9 +2,9 @@
 
 *Live snapshot — overwrite on any day that changes these lines. Do not append history.*
 
-> **Day 5530** · **Cal-Y15 D181** · **Spawn-Y16 D55** · ~1 Jul Y15 · **W790 CLOSE** · next **d5531** · **`year-016/`** · **W791 day 1**
+> **Day 5588** · **Cal-Y15 D239** · **Spawn-Y16 D113** · ~28 Aug Y15 · **W799 d2** · next **d5589**
 >
-> **HOME** · **`LIME-PUTTY-1` ~40.0 kg** · **`POZZ-TUFF-1` ~1393 kg** · **wood ~139 kg**
+> **`ST-MAG` sprint 6/6 ✓** · **`ROD-4`–`9` @ tray** · **`CHAR-LANE` ~16.9 kg** · **`WOOD-OAK-P5` ~137 kg**
 
 Detail tables → [inventory/resources.md](inventory/resources.md) · grid → [electric-grid.md](inventory/electric-grid.md) · hydro → [inventory/infrastructure.md](inventory/infrastructure.md).
 
@@ -14,10 +14,8 @@ Detail tables → [inventory/resources.md](inventory/resources.md) · grid → [
 
 | Row | Note |
 |---|---|
-| **`G2-PHASE1-GOAL`** | **Pozz PASS** · **lime ~40 / ~150 kg** · **wood ~139 / ~180** · **dig ~½** |
-| **Norima** | **Service ~8** · **margin haul 1/2** — full tune after next laden |
-| **`GRAIN-FERMENT-Y18-1`** | **⧗** — read @ HOME |
+| **`M-22-ROAST-CY15-5501`** | **~5.4 kg** — OK for bootstrap · re-haul when **< ~4 kg** mid next arc |
 
-**Focus:** lime/char lap · MS-1 dig · **`GEN-AC-1-CORE-1`**
+**Focus:** **`ST-MAG-CERT-Y15-2`** triplicate · then **`GEN-AC-1`** / bootstrap bank
 
-**Queue:** [next-items.md](plans/next-items.md)
+**Queue:** [magnet-peak-cy15.md](plans/magnet-peak-cy15.md)

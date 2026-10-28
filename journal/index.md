@@ -10,6 +10,62 @@
 
 | Day | File | Location (short) | Highlights |
 |-----|------|------------------|------------|
+| 5588 | [day-5588.md](days/year-016/week-799/day-5588.md) | **✓ Char + `ST-MAG` #6 · sprint CLOSE** | **Cal-Y15 D239 · Spawn-Y16 D113** |
+| 5587 | [day-5587.md](days/year-016/week-799/day-5587.md) | **✓ Wood haul** | **Cal-Y15 D238 · Spawn-Y16 D112** |
+| 5586 | [day-5586.md](days/year-016/week-798/day-5586.md) | **✓ `ST-MAG` #5 · W798 CLOSE** | **Cal-Y15 D237 · Spawn-Y16 D111** |
+| 5584 | [day-5584.md](days/year-016/week-798/day-5584.md) | **✓ Char + `ST-MAG` #3 · `ROD-6`** | **Cal-Y15 D235 · Spawn-Y16 D109** |
+| 5582 | [day-5582.md](days/year-016/week-798/day-5582.md) | **✓ Wood haul** | **Cal-Y15 D233 · Spawn-Y16 D107** |
+| 5581 | [day-5581.md](days/year-016/week-798/day-5581.md) | **✓ Char · `ROD-4` cell quench** | **Cal-Y15 D232 · Spawn-Y16 D106** |
+| 5580 | [day-5580.md](days/year-016/week-798/day-5580.md) | **✓ Roast ×0 · `ST-MAG` heat #1** | **Cal-Y15 D231 · Spawn-Y16 D105** |
+| 5579 | [day-5579.md](days/year-016/week-797/day-5579.md) | **✓ Char + M-22 roast · W797 CLOSE** | **Cal-Y15 D230 · Spawn-Y16 D104** |
+| 5578 | [day-5578.md](days/year-016/week-797/day-5578.md) | **✓ Quench cell LIVE · AB PASS** | **Cal-Y15 D229 · Spawn-Y16 D103** |
+| 5577 | [day-5577.md](days/year-016/week-797/day-5577.md) | **✓ `MAG-QUENCH-CELL` D1** | **Cal-Y15 D228 · Spawn-Y16 D102** |
+| 5576 | [day-5576.md](days/year-016/week-797/day-5576.md) | **✓ Thistle · fig pick** | **Cal-Y15 D227 · Spawn-Y16 D101** |
+| 5575 | [day-5575.md](days/year-016/week-797/day-5575.md) | **✓ Char retort** | **Cal-Y15 D226 · Spawn-Y16 D100** |
+| 5574 | [day-5574.md](days/year-016/week-797/day-5574.md) | **✓ Wood haul** | **Cal-Y15 D225 · Spawn-Y16 D99** |
+| 5573 | [day-5573.md](days/year-016/week-797/day-5573.md) | **✓ `KILN-A`+`B` paired lime** | **Cal-Y15 D224 · Spawn-Y16 D98** |
+| 5572 | [day-5572.md](days/year-016/week-796/day-5572.md) | **✓ Char · W796 CLOSE** | **Cal-Y15 D223 · Spawn-Y16 D97** |
+| 5571 | [day-5571.md](days/year-016/week-796/day-5571.md) | **✓ `KILN-B` ×2 loads** | **Cal-Y15 D222 · Spawn-Y16 D96** |
+| 5570 | [day-5570.md](days/year-016/week-796/day-5570.md) | **✓ `KILN-B` first calcine** | **Cal-Y15 D221 · Spawn-Y16 D95** |
+| 5569 | [day-5569.md](days/year-016/week-796/day-5569.md) | **✓ Char · kiln cure read · bricks** | **Cal-Y15 D220 · Spawn-Y16 D94** |
+| 5568 | [day-5568.md](days/year-016/week-796/day-5568.md) | **✓ Wood haul · magnet-peak plan** | **Cal-Y15 D219 · Spawn-Y16 D93** |
+| 5567 | [day-5567.md](days/year-016/week-796/day-5567.md) | **✓ Char retort** | **Cal-Y15 D218 · Spawn-Y16 D92** |
+| 5566 | [day-5566.md](days/year-016/week-796/day-5566.md) | **✓ `MAG-BOOTSTRAP` ×6 · #30–#35** | **Cal-Y15 D217 · Spawn-Y16 D91** |
+| 5565 | [day-5565.md](days/year-016/week-795/day-5565.md) | **✓ `M-22` roast batch 1 · W795 CLOSE** | **Cal-Y15 D216 · Spawn-Y16 D90** |
+| 5564 | [day-5564.md](days/year-016/week-795/day-5564.md) | **✓ `M-22-TALUS-S1` haul CLOSE · ~9.6 kg** | **Cal-Y15 D215 · Spawn-Y16 D89** |
+| 5563 | [day-5563.md](days/year-016/week-795/day-5563.md) | **✓ `M-22` haul D2 · strip** | **Cal-Y15 D214 · Spawn-Y16 D88** |
+| 5562 | [day-5562.md](days/year-016/week-795/day-5562.md) | **✓ `M-22-TALUS-S1` haul D1/3** | **Cal-Y15 D213 · Spawn-Y16 D87** |
+| 5561 | [day-5561.md](days/year-016/week-795/day-5561.md) | **✓ Brick press ×80 · GB hard read** | **Cal-Y15 D212 · Spawn-Y16 D86** |
+| 5560 | [day-5560.md](days/year-016/week-795/day-5560.md) | **✓ KL-2 CLOSE · kiln build** | **Cal-Y15 D211 · Spawn-Y16 D85** |
+| 5559 | [day-5559.md](days/year-016/week-795/day-5559.md) | **✓ KL-2 hood start** | **Cal-Y15 D210 · Spawn-Y16 D84** |
+| 5558 | [day-5558.md](days/year-016/week-794/day-5558.md) | **✓ Wood haul · W794 CLOSE** | **Cal-Y15 D209 · Spawn-Y16 D83** |
+| 5557 | [day-5557.md](days/year-016/week-794/day-5557.md) | **✓ Char retort** | **Cal-Y15 D208 · Spawn-Y16 D82** |
+| 5556 | [day-5556.md](days/year-016/week-794/day-5556.md) | **✓ Brick press ×80 green** | **Cal-Y15 D207 · Spawn-Y16 D81** |
+| 5555 | [day-5555.md](days/year-016/week-794/day-5555.md) | **✓ KL-1 ring · grates** | **Cal-Y15 D206 · Spawn-Y16 D80** |
+| 5554 | [day-5554.md](days/year-016/week-794/day-5554.md) | **✓ Forsterite grog prep** | **Cal-Y15 D205 · Spawn-Y16 D79** |
+| 5553 | [day-5553.md](days/year-016/week-794/day-5553.md) | **✓ KL-1 footing ring start** | **Cal-Y15 D204 · Spawn-Y16 D78** |
+| 5552 | [day-5552.md](days/year-016/week-794/day-5552.md) | **✓ Bloom + kiln grate bars** | **Cal-Y15 D203 · Spawn-Y16 D77** |
+| 5551 | [day-5551.md](days/year-016/week-793/day-5551.md) | **✓ KL-1 pad dig · W793 CLOSE** | **Cal-Y15 D202 · Spawn-Y16 D76** |
+| 5550 | [day-5550.md](days/year-016/week-793/day-5550.md) | **✓ KL-1 plan · Norima hubs** | **Cal-Y15 D201 · Spawn-Y16 D75** |
+| 5549 | [day-5549.md](days/year-016/week-793/day-5549.md) | **✓ Tin wash+smelt · ~128 g Sn** | **Cal-Y15 D200 · Spawn-Y16 D74** |
+| 5548 | [day-5548.md](days/year-016/week-793/day-5548.md) | **✓ Kozan HOME · tin ~3.8 kg** | **Cal-Y15 D199 · Spawn-Y16 D73** |
+| 5547 | [day-5547.md](days/year-016/week-793/day-5547.md) | **✓ D9 Erzin → Belen** | **Cal-Y15 D198 · Spawn-Y16 D72** |
+| 5546 | [day-5546.md](days/year-016/week-793/day-5546.md) | **✓ D8 Ceyhan → Erzin** | **Cal-Y15 D197 · Spawn-Y16 D71** |
+| 5545 | [day-5545.md](days/year-016/week-793/day-5545.md) | **✓ D7 Kozan → Ceyhan** | **Cal-Y15 D196 · Spawn-Y16 D70** |
+| 5544 | [day-5544.md](days/year-016/week-792/day-5544.md) | **✓ D6 placer · W792 CLOSE** | **Cal-Y15 D195 · Spawn-Y16 D69** |
+| 5543 | [day-5543.md](days/year-016/week-792/day-5543.md) | **✓ D5 placer ~2.1 kg** | **Cal-Y15 D194 · Spawn-Y16 D68** |
+| 5542 | [day-5542.md](days/year-016/week-792/day-5542.md) | **✓ D4 → Kozan gate** | **Cal-Y15 D193 · Spawn-Y16 D67** |
+| 5541 | [day-5541.md](days/year-016/week-792/day-5541.md) | **✓ `K-R1` patch · D3 Ceyhan** | **Cal-Y15 D192 · Spawn-Y16 D66** |
+| 5540 | [day-5540.md](days/year-016/week-792/day-5540.md) | **✓ D2 Belen → Erzin** | **Cal-Y15 D191 · Spawn-Y16 D65** |
+| 5539 | [day-5539.md](days/year-016/week-792/day-5539.md) | **✓ D1 HOME → Belen** | **Cal-Y15 D190 · Spawn-Y16 D64** |
+| 5538 | [day-5538.md](days/year-016/week-792/day-5538.md) | **✓ Kozan tin prep** | **Cal-Y15 D189 · Spawn-Y16 D63** |
+| 5537 | [day-5537.md](days/year-016/week-791/day-5537.md) | **✓ Char + lime · W791 CLOSE** | **Cal-Y15 D188 · Spawn-Y16 D62** |
+| 5536 | [day-5536.md](days/year-016/week-791/day-5536.md) | **✓ Char + lime combo** | **Cal-Y15 D187 · Spawn-Y16 D61** |
+| 5535 | [day-5535.md](days/year-016/week-791/day-5535.md) | **✓ Wood haul** | **Cal-Y15 D186 · Spawn-Y16 D60** |
+| 5534 | [day-5534.md](days/year-016/week-791/day-5534.md) | **✓ Char + lime ×2** | **Cal-Y15 D185 · Spawn-Y16 D59** |
+| 5533 | [day-5533.md](days/year-016/week-791/day-5533.md) | **✓ Char + lime combo** | **Cal-Y15 D184 · Spawn-Y16 D58** |
+| 5532 | [day-5532.md](days/year-016/week-791/day-5532.md) | **✓ Wood haul** | **Cal-Y15 D183 · Spawn-Y16 D57** |
+| 5531 | [day-5531.md](days/year-016/week-791/day-5531.md) | **✓ Char + lime combo** | **Cal-Y15 D182 · Spawn-Y16 D56** |
 | 5530 | [day-5530.md](days/year-016/week-790/day-5530.md) | **✓ Pozz unload · W790 CLOSE** | **Cal-Y15 D181 · Spawn-Y16 D55** |
 | 5529 | [day-5529.md](days/year-016/week-790/day-5529.md) | **✓ Pozz d4/5 cap** | **Cal-Y15 D180 · Spawn-Y16 D54** |
 | 5528 | [day-5528.md](days/year-016/week-790/day-5528.md) | **✓ Pozz d3/5 face** | **Cal-Y15 D179 · Spawn-Y16 D53** |

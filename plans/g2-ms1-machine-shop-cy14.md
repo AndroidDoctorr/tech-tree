@@ -53,12 +53,26 @@
 
 ## `G2-MAT-BUDGET-MS1` *(wing footings + shell)*
 
-### MS-1 — footings pour
+### Phase 1 lime ledger *(QL-class CaO → slake to putty)*
+
+*Footing **concrete** is only part of the wing; **brick stem mortar** and **core grout** are separate draws on the same kiln. **`G2-PHASE1-GOAL` ~150 kg putty** is the **start** gate — not any row below.*
+
+| Bucket | QL-class CaO *(order-of-magnitude)* | What it buys | When it burns |
+|---|---:|---|---|
+| **A — Footing strip mix** | **~1.2–1.8 t** | **~4–6 m³** perimeter strip *(party **~10 m** deferred)* · pozz/sand/gravel are **separate** tonne rows | **MS-1** · segment pours |
+| **B — Brick stem mortar** | **~0.4–0.7 t** | **~220–280 `BRICK-FIRED-B`** to ring height *(brick-forward MS-2A)* | **MS-2** · spread over stem weeks |
+| **C — Block grout / cores** | **~0.2–0.4 t** | Socle courses · bar grout · DPC band touch-ups | **MS-2** · lift cadence |
+| **D — Wear strips** *(optional in Phase 1)* | **~0.1–0.3 t per strip** | **`G2-WEAR-SLAB-MS1-*`** under one machine — **not** full bay | **After weathertight** |
+| **Phase 1 wing total** *(A+B+C, no D)* | **~1.8–2.9 t** | East **4×10** weathertight shell · **no** garage slab · **no** crane pads | **MS-1 → MS-2** |
+
+> **Why this felt like “2–3 t for a small wing”:** bucket **A** is **deep strip** (**~500 × ~450 mm × ~28 m**), not floor area. **`POZZ-TUFF-1` ~1.2 t PASS** covered **yard stock for mix**, not “all lime done.” **`LIME-PUTTY-1` ~65 kg** *(d5537)* is **~4%** of **A+B+C** — aggregates and dig were ahead; **kiln cadence** was not.
+
+### MS-1 — footings pour *(non-lime rows)*
 
 | Line | Estimate | Notes |
 |---|---:|---|
-| **Concrete volume** | **~6–8 m³** | **~28 m** strip + optional **~10 m** party |
-| **Lime binder** *(QL → slake)* | **~2–3 t class** | **`QUICKLIME-1` ×0** — kiln bank first |
+| **Concrete volume** | **~4–6 m³** *(**~6–8 m³** if party strip in same phase)* | **~28 m** closed loop · party **defer** saves **~1.5–2 m³** |
+| **Lime binder** | → **ledger bucket A** | Not a single pre-pour bank — **pour segments ≤ ~2.5 m** while kiln runs |
 | **Pozzolan** | **~1.5–2.5 t** | Koruhöyük + yard |
 | **Sand** | **~2–3 t** | Filter sand bay |
 | **Gravel** *(mix + blind)* | **~3–4 t** | Haul + apron |
@@ -97,7 +111,7 @@ See **`G2-FOOTING-POUR-FULL`** in [g2-construction-documents-cy14.md](g2-constru
 | Priority | Target | Why |
 |---|---|---|
 | ★ **Gravel** | **~3–4 t** runway for MS-1 pour + blind | **~20 kg** on hand — thinnest row |
-| ★ **Lime** | **~2–3 t** QL equivalent | Kiln + **`CACO3-P7`** + **`CHAR-LANE`** rhythm |
+| ★ **Lime** | **~1.8–2.9 t** QL *(buckets **A+B+C**)* | Winter kiln rhythm OK · see **lime ledger** · electric assist = [ec-1-wind-campus-cy15.md](ec-1-wind-campus-cy15.md) / bench heat *(parallel, not gate)* |
 | ★ **Pozz** | **~1.5 t** beyond current bay | **~200 kg** — one full bed ≠ footing bill |
 | ★ **Sand** | **~2 t** beyond current bay | **~211 kg** — same |
 | **`REBAR`** | **×12–18** staged @ rack | **×16** on hand — forge/draw |
@@ -156,18 +170,30 @@ See **`G2-FOOTING-POUR-FULL`** in [g2-construction-documents-cy14.md](g2-constru
 
 | Row | Phase 1 budget | PASS threshold | d5524 read | Status |
 |---|---:|---|---:|---|
-| **`LIME-PUTTY-1`** | **~150 kg** trough *(footing segments + socle mortar start)* | **≥ ~150 kg** | **~40 kg** | **OUT** |
+| **`LIME-PUTTY-1`** | **~150 kg** trough *(first footing segments + socle mortar **start** — not full shell lime bill)* | **≥ ~150 kg** | **~65.1 kg** *(d5537)* | **OUT** |
 | **`POZZ-TUFF-1`** | **~1200 kg** yard *(footing mix · shell grout class)* | **≥ ~1200 kg** | **~1393 kg** *(d5530)* | **PASS** |
 | **`SAND-FILTER-1`** | **~1500 kg** | **≥ ~1500 kg** | **~1941 kg** | **PASS** |
 | **`GRAVEL-1`** | **~2500 kg** *(blind + mix margin)* | **≥ ~2500 kg** | **~3477 kg** | **PASS** |
 | **`REBAR-PRODUCTION-RACK-1`** | **×12** staged | **×12** | **×24** | **PASS** |
 | **`BLOCK-Y10`** dry @ pad | **×80** lift-ready | **×80** | **×92 @ pad** + submerged queue | **PASS** |
 | **`BRICK-FIRED-B`** | **~280** stem class | **~280** | **~343** | **PASS** |
-| **`WOOD-OAK-P5`** | **~180 kg** roof + deck reserve | **≥ ~180 kg** | **~139 kg** *(post d5524)* | **NEAR** |
+| **`WOOD-OAK-P5`** | **~180 kg** roof + deck reserve | **≥ ~180 kg** | **~180 kg** *(d5532)* | **PASS** |
 | **DPC bitumen** | **bed class** | **`BITUMEN-ASI-1` ~38 kg** | **~38 kg** | **PASS** |
 | **Dig loop** | **~28 m** trench closed | trench PASS | **~14 m** south *(d5074)* | **OUT** |
 
 **Break-ground rule:** **`G2-PHASE1-GOAL` all PASS** → hero **`G2-FOOTING-POUR-MS1` segment 1** *(≤ ~2.5 m · BC-2A)* · **not** “wait for full ~6 m³ bank in one pour.”
+
+> **~150 kg putty is not total Phase 1 lime.** It is the **trough bank to open the first pours** while buckets **B–C** keep drawing the kiln. Full wing lime → **lime ledger** (**~1.8–2.9 t** class **A+B+C**).
+
+### Revision d5538 — player pacing *(summer CY15)*
+
+| Track | Verdict |
+|---|---|
+| **`G2-PHASE1-GOAL`** | **Still valid** — pozz/sand/gravel/rebar **PASS** · **lime + dig OUT** |
+| **Civil start** | **Deferred** — footings can wait years; **no silent slip** on calendar gates |
+| **Summer** | **Long exped** — **`KOZAN`** tin *( **`BRONZE-STOCK` ~90 g · `CASSITERITE-CONC` ~0.5 kg** thin)* |
+| **Winter** | **Char/lime bank** toward ledger buckets **A–B** |
+| **Throughput** | **Second kiln** *or* **electric assist** (zone heat · soak control · **not** full charcoal replacement yet) — competes with **`GEN-AC-1`** / grid, not blocked by MS-1 defer |
 
 **Parallel track:** [gen-ac-1-cy15.md](gen-ac-1-cy15.md) — **does not block** Phase 1 civil · **does** compete for **Cu / bench days**.
 
